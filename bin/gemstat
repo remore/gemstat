@@ -24,7 +24,7 @@ module Gemstat
       puts "  " + "-"*34
       puts "  Gemfile                Gems in Use"
       puts "  " + "-"*34
-      @gemfiles.each {|item| puts "  #{item.name[0..23].ljust(24)} #{item.gems.count.to_s[0..3].rjust(4)} " + pluralize(item.gems.count, "gem")}
+      @gemfiles.sort{|x,y|x.name <=> y.name}.each {|item| puts "  #{item.name[0..23].ljust(24)} #{item.gems.count.to_s[0..3].rjust(4)} " + pluralize(item.gems.count, "gem")}
       puts "  " + "-"*34
       puts 
 
@@ -32,7 +32,7 @@ module Gemstat
       puts "  " + "-"*77
       puts "  Gemfile Pair" + " "*34 +  "Similarity    # of gems matched"
       puts "  " + "-"*77
-      @gemfiles.combination(2).each do |a|
+      @gemfiles.sort{|x,y|x.name <=> y.name}.combination(2).each do |a|
         total = (a[0].gems | a[1].gems).count
         matched = (a[0].gems & a[1].gems).count
         note = (a[0].gems & a[1].gems).count == 0 ? "-" : "#{matched} out of #{total} "
@@ -46,7 +46,7 @@ module Gemstat
       puts "  " + "-"*77
       puts "  #   Dependent Gem"
       puts "  " + "-"*77
-      ranking.inject({}) { |h,(k,v)| (h[v] ||= []) << k; h }.sort.reverse.each {|item| puts "  #{item[0]}   #{item[1].join(', ')}" }
+      ranking.inject({}) { |h,(k,v)| (h[v] ||= []) << k; h }.sort.reverse.each {|item| puts "  #{item[0]}   #{item[1].sort.join(', ')}" }
       puts "  " + "-"*77
       puts ""
     end
@@ -87,12 +87,16 @@ module Gemstat
       end
     end
 
+    def group(*args, &block)
+      self.instance_eval &block
+    end
+
     def require(*args)
       # do nothing
     end
 
     def method_missing(name, *args, &block)
-      if [:source, :group].index(name) then
+      if [:source].index(name) then
         # do nothing
       else
         puts name
