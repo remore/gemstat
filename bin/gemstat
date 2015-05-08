@@ -1,0 +1,152 @@
+#!/usr/bin/env ruby
+
+module Gemstat
+  @@pool = []
+
+  class Loader
+    def initialize
+      @gemfiles = []
+    end
+
+    def add(gemfile_path)
+      gemfile = Gemfile.new(gemfile_path)
+      gemfile.instance_eval File.open(gemfile_path).read
+      @gemfiles.push gemfile
+    end
+
+    def analyze
+      ranking = @gemfiles.map {|item| item.gems}.flatten.inject(Hash.new(0)){|hash,a| hash[a]+=1; hash}
+
+      puts ""
+      puts "# gemstat v0.1.0"
+      puts 
+      puts "#{@gemfiles.count} " + pluralize(@gemfiles.count, "gemfile") + " and #{ranking.count} unique " + pluralize(ranking.count, "gem") + " are found in total."
+      puts "  " + "-"*34
+      puts "  Gemfile                Gems in Use"
+      puts "  " + "-"*34
+      @gemfiles.each {|item| puts "  #{item.name[0..23].ljust(24)} #{item.gems.count.to_s[0..3].rjust(4)} " + pluralize(item.gems.count, "gem")}
+      puts "  " + "-"*34
+      puts 
+
+      puts "Similarity of each pair of gemfiles are listed below."
+      puts "  " + "-"*77
+      puts "  Gemfile Pair" + " "*34 +  "Similarity    # of gems matched"
+      puts "  " + "-"*77
+      @gemfiles.combination(2).each do |a|
+        total = (a[0].gems | a[1].gems).count
+        matched = (a[0].gems & a[1].gems).count
+        note = (a[0].gems & a[1].gems).count == 0 ? "-" : "#{matched} out of #{total} "
+        puts "  " + (a[0].name + " & " + a[1].name)[0..44].ljust(45) + " #{(sprintf("%.2f", ((matched.to_f/total.to_f)*100)).to_s + '%').rjust(9)}" + "      #{note}" 
+      end
+      puts "  " + "-"*77
+
+      puts ""
+      puts "Which is the most popular gem?"
+      puts "Here is the list of gems grouped by count of dependencies."
+      puts "  " + "-"*77
+      puts "  #   Dependent Gem"
+      puts "  " + "-"*77
+      ranking.inject({}) { |h,(k,v)| (h[v] ||= []) << k; h }.sort.reverse.each {|item| puts "  #{item[0]}   #{item[1].join(', ')}" }
+      puts "  " + "-"*77
+      puts ""
+    end
+
+    private
+      def pluralize(count, name)
+        if count > 1 then
+          name  + "s"
+        else
+          name
+        end
+      end
+  end
+
+  class Gemfile
+    attr_reader :gems, :name
+
+    def initialize(path)
+      @path = path
+      @name = File.basename(File.dirname(path))
+      @gems = []
+    end
+
+    def gem(*params)
+      @gems.push params[0]
+    end
+
+    def gemspec(opts = nil)
+      path = opts && opts[:path] || '.'
+      name = opts && opts[:name] || '{,*}'
+      gemspecs = Dir[File.join(File.dirname(@path), "#{name}.gemspec")]
+
+      case gemspecs.size
+      when 1
+        @gems = @gems | Gemspec.new(gemspecs.first).load
+      else
+        raise "** There are multiple gemspecs OR no gemspec found at #{@path}."
+      end
+    end
+
+    def require(*args)
+      # do nothing
+    end
+
+    def method_missing(name, *args, &block)
+      if [:source, :group].index(name) then
+        # do nothing
+      else
+        puts name
+      end
+    end
+  end
+
+  class Gemspec
+    attr_reader :gems
+
+    class Gem
+      class Specification
+        def initialize(*args, &block)
+          self.instance_eval &block
+        end
+
+        def method_missing(name, *args, &block)
+          if [:add_dependency, :add_runtime_dependency, :add_development_dependency].index(name) then
+            @@pool.push args[0]
+          end
+        end
+
+        # monkey-patching just for workaround
+        def Object.const_missing(name)
+          # do nothing
+        end
+      end
+    end
+
+    def initialize(path)
+      @path = path
+      @gems = []
+      @@pool = []
+    end
+
+    def load
+      self.instance_eval File.open(@path).read
+      @@pool
+    end
+
+    private
+      def method_missing(name, *args, &block)
+        # do nothing
+      end
+
+      def require(*args)
+        # do nothing
+      end
+  end
+end
+
+include Gemstat
+loader = Loader.new
+while line = STDIN.gets
+  loader.add(line.chomp)
+end
+loader.analyze
