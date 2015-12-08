@@ -15,6 +15,6 @@ Gem::Specification.new do |s|
   s.license = 'MIT'
 
   s.add_dependency "thor"
-  s.add_dependency "rubygems/mirror'"
   s.add_dependency "bundler"
+  s.add_development_dependency "rubygems-mirror'"
 end
