@@ -71,7 +71,7 @@ module Gemstat
   class Population
     attr_reader :dependencies
     def initialize(folder_path)
-      cache_path = File.dirname(__FILE__) + '/' + `du -s bin/gemfiles | cut -f1` + '.cache'.chomp
+      cache_path = File.dirname(__FILE__) + '/' + `du -s bin/gemfiles | cut -f1`.chomp + '.cache'
       if File.exist?(cache_path) then
         @dependencies = Marshal.load(File.read(cache_path))
       else
