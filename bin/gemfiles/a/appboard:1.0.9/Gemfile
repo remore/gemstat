@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'git'
+gem 'bundler'
+gem 'rest-client'

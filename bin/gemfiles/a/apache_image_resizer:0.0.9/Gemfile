@@ -1,0 +1,4 @@
+gem 'rmagick'
+gem 'ruby-filemagic'
+gem 'ruby-nuggets'
+gem 'apache_secure_download'

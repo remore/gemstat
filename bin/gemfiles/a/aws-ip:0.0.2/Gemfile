@@ -1,0 +1,5 @@
+gem 'ipaddress'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

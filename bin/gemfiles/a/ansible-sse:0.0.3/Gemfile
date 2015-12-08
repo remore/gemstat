@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'pry'
+gem 'rspec-rails'
+gem 'rspec-spies'
+gem 'pg'

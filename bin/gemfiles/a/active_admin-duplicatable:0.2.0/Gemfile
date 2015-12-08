@@ -1,0 +1,7 @@
+gem 'activeadmin'
+gem 'amoeba'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'sass-rails'

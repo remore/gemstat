@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'activeadmin'
+gem 'jquery-rails'
+gem 'select2-rails'

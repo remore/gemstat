@@ -1,0 +1,5 @@
+gem 'sass-rails'
+gem 'jquery-rails'
+gem 'haml-rails'
+gem 'formtastic'
+gem 'normalize-rails'

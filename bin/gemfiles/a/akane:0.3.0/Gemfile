@@ -1,0 +1,8 @@
+gem 'elasticsearch'
+gem 'twitter'
+gem 'oauth'
+gem 'sigdump'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

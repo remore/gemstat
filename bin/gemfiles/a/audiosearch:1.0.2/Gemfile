@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'excon'
+gem 'hashie'
+gem 'oauth2'
+gem 'rspec'
+gem 'dotenv'

@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'activesupport'
+gem 'simple_uuid'
+gem 'activerecord'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'factory_girl'
+gem 'database_cleaner'

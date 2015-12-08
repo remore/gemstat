@@ -1,0 +1,4 @@
+gem 'yaml-model'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

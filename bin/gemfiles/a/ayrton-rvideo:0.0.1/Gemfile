@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'posix-spawn'
+gem 'rake'
+gem 'i18n'
+gem 'rspec'

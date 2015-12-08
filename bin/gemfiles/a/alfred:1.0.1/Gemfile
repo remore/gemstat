@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'activemodel'
+gem 'activerecord'
+gem 'rr'
+gem 'rspec'

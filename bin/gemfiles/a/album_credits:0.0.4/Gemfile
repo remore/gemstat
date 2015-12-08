@@ -1,0 +1,2 @@
+gem 'discogs-wrapper'
+gem 'ruby-debug'

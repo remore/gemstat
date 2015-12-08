@@ -1,0 +1,7 @@
+gem 'loggable'
+gem 'arel'
+gem 'activerecord'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'yard'

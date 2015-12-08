@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'aqueduct'
+gem 'ruby-odbc'
+gem 'activerecord-odbc-adapter'
+gem 'dbd-odbc'
+gem 'dbi'
+gem 'sqlite3'

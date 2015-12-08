@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'rake'
+gem 'pg'
+gem 'activerecord-postgres-hstore'

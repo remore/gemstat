@@ -1,0 +1,7 @@
+gem 'daemons'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'guard-rspec'
+gem 'byebug'

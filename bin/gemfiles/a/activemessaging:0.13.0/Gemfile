@@ -1,0 +1,6 @@
+gem 'activemessaging'
+gem 'jeweler'
+gem 'activesupport'
+gem 'jeweler'
+gem 'stomp'
+gem 'appraisal'

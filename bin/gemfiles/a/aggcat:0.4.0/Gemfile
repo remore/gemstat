@@ -1,0 +1,5 @@
+gem 'oauth'
+gem 'xmlhasher'
+gem 'builder'
+gem 'activesupport'
+gem 'bundler'

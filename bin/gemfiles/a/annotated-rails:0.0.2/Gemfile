@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rails'
+gem 'sqlite3'
+gem 'yard'
+gem 'bluecloth'

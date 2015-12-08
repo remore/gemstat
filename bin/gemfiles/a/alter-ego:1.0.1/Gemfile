@@ -1,0 +1,4 @@
+gem 'fail-fast'
+gem 'hookr'
+gem 'newgem'
+gem 'hoe'

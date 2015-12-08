@@ -1,0 +1,7 @@
+gem 'colored'
+gem 'json'
+gem 'sinatra'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

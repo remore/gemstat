@@ -1,0 +1,5 @@
+gem 'appraisal'
+gem 'rake'
+gem 'pry'
+gem 'sqlite3'
+gem 'hobofields'

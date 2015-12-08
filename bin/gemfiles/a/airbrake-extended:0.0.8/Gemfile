@@ -1,0 +1,2 @@
+gem 'delayed_job'
+gem 'rails'

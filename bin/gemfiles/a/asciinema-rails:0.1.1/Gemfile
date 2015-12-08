@@ -1,0 +1,7 @@
+gem 'oj'
+gem 'oj_mimic_json'
+gem 'yajl-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rails'

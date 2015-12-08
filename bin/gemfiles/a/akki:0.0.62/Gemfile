@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'haml'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'capybara'

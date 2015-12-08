@@ -1,0 +1,5 @@
+gem 'uri_template'
+gem 'simplecov'
+gem 'rspec'
+gem 'yard'
+gem 'rack'

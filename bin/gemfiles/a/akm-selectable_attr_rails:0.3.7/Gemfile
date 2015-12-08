@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'actionpack'
+gem 'akm-selectable_attr'

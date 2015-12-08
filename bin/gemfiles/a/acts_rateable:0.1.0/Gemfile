@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'protected_attributes'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'faker'

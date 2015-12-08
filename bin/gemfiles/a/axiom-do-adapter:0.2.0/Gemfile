@@ -1,0 +1,4 @@
+gem 'axiom'
+gem 'axiom-sql-generator'
+gem 'data_objects'
+gem 'bundler'

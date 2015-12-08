@@ -1,0 +1,4 @@
+gem 'ancestry'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

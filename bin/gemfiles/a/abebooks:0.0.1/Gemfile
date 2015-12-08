@@ -1,0 +1,4 @@
+gem 'multi_xml'
+gem 'excon'
+gem 'minitest'
+gem 'rake'

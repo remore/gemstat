@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'activeadmin'
+gem 'redcarpet'
+gem 'kaminari'
+gem 'pg'

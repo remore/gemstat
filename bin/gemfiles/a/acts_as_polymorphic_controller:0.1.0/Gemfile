@@ -1,0 +1,2 @@
+gem 'ore-core'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'rake'
+gem 'bundler'
+gem 'test-unit'

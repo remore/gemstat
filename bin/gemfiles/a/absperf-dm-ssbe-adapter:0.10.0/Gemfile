@@ -1,0 +1,4 @@
+gem 'dm-core'
+gem 'resourceful'
+gem 'extlib'
+gem 'json'

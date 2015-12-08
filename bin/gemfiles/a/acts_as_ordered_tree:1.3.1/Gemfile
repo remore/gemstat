@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'factory_girl'
+gem 'appraisal'

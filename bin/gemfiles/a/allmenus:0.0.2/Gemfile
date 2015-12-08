@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rack'
+gem 'faraday'
+gem 'json'
+gem 'happymapper'

@@ -1,0 +1,4 @@
+gem 'OptionParser'
+gem 'rspec'
+gem 'nokogiri'
+gem 'webmock'

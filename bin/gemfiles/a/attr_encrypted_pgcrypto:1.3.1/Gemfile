@@ -1,0 +1,7 @@
+gem 'attr_encrypted'
+gem 'activerecord'
+gem 'activesupport'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'pg'

@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'terminal-table'
+gem 'jeweler'
+gem 'rake'
+gem 'bundler'

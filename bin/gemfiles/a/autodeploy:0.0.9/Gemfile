@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'jenkins_api_client'
+gem 'dante'
+gem 'activerecord'
+gem 'mysql2'

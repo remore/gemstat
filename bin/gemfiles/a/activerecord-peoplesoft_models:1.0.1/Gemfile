@@ -1,0 +1,6 @@
+gem 'composite_primary_keys'
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'activerecord-oracle_enhanced-adapter'
+gem 'ruby-oci8'

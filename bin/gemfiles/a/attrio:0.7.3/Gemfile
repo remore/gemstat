@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'
+gem 'json'
+gem 'coveralls'
+gem 'rake'
+gem 'bundler'

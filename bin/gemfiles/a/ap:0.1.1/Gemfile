@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'rspec'
+gem 'webmock'
+gem 'bundler'

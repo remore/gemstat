@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'anima'
+gem 'rake'
+gem 'rspec'
+gem 'mutant-rspec'

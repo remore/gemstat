@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'rack'
+gem 'rspec'
+gem 'rspec-autotest'
+gem 'fakeout'

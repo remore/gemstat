@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'amatch'
+gem 'moji'
+gem 'nokogiri'
+gem 'thor'

@@ -1,0 +1,8 @@
+gem 'sqlite3-ruby'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'
+gem 'codeclimate-test-reporter'

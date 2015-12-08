@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'inifile'
+gem 'trollop'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'codecov'

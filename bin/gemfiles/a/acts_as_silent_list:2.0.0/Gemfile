@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'activerecord'
+gem 'rake'
+gem 'rdoc'
+gem 'sqlite3'

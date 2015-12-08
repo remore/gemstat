@@ -1,0 +1,6 @@
+gem 'logging'
+gem 'thor'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'

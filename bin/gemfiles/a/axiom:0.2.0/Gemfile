@@ -1,0 +1,6 @@
+gem 'abstract_type'
+gem 'adamantium'
+gem 'axiom-types'
+gem 'descendants_tracker'
+gem 'equalizer'
+gem 'bundler'

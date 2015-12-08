@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'byebug'
+gem 'rspec'
+gem 'webmock'
+gem 'factory_girl'
+gem 'httparty'
+gem 'httmultiparty'

@@ -1,0 +1,5 @@
+gem 'after_do'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'git-hooks'

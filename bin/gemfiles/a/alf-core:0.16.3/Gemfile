@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'highline'
+gem 'ruby_cop'
+gem 'myrrha'
+gem 'domain'
+gem 'path'
+gem 'sexpr'

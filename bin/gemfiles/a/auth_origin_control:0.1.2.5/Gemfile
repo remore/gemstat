@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'api-auth'
+gem 'rest-client'
+gem 'encryptor'
+gem 'redis'
+gem 'mysql2'

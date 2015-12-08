@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'simplecov'
+gem 'coveralls'

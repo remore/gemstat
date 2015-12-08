@@ -1,0 +1,8 @@
+gem 'adva-core'
+gem 'adva-cache'
+gem 'adva-markup'
+gem 'nokogiri'
+gem 'rack-cache'
+gem 'watchr'
+gem 'hashr'
+gem 'sqlite3'

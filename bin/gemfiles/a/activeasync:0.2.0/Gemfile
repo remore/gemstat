@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'resque'
+gem 'sidekiq'
+gem 'rails'
+gem 'rspec'
+gem 'sqlite3'
+gem 'database_cleaner'
+gem 'mock_redis'

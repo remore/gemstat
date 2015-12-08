@@ -1,0 +1,5 @@
+gem 'canaveral'
+gem 'houston'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

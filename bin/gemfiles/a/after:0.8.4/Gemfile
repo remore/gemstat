@@ -1,0 +1,5 @@
+gem 'sane'
+gem 'jeweler'
+gem 'rspec'
+gem 'rdp-ruby-wmi'
+gem 'wait_pid'

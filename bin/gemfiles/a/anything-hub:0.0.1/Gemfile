@@ -1,0 +1,7 @@
+gem 'ruby-anything'
+gem 'slop'
+gem 'octokit'
+gem 'activesupport'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

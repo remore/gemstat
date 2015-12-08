@@ -1,0 +1,8 @@
+gem 'gettext'
+gem 'hpricot'
+gem 'htmlentities'
+gem 'gtk2'
+gem 'gstreamer'
+gem 'minitest'
+gem 'rake'
+gem 'rspec'

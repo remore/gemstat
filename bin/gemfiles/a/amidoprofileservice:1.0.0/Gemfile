@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'simplecov'
+gem 'httparty'

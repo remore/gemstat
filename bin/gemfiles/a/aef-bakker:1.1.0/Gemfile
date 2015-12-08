@@ -1,0 +1,4 @@
+gem 'user-choices'
+gem 'rspec'
+gem 'sys-uname'
+gem 'hoe'

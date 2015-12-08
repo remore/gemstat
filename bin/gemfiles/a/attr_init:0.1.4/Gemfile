@@ -1,0 +1,6 @@
+gem 'fattr'
+gem 'simplecov'
+gem 'coveralls'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

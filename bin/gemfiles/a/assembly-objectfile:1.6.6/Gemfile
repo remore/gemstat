@@ -1,0 +1,7 @@
+gem 'mini_exiftool'
+gem 'mime-types'
+gem 'nokogiri'
+gem 'rake'
+gem 'json'
+gem 'rspec'
+gem 'yard'

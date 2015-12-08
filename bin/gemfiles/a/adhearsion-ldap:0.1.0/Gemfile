@@ -1,0 +1,5 @@
+gem 'adhearsion'
+gem 'activesupport'
+gem 'activeldap'
+gem 'bundler'
+gem 'rspec'

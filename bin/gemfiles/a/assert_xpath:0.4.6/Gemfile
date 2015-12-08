@@ -1,0 +1,4 @@
+gem 'assert2'
+gem 'rubynode'
+gem 'css_parser'
+gem 'libxml-ruby'

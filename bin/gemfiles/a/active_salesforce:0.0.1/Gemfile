@@ -1,0 +1,4 @@
+gem 'databasedotcom'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

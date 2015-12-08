@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'rspec-rails'
+gem 'database_cleaner'
+gem 'webmock'
+gem 'sqlite3'

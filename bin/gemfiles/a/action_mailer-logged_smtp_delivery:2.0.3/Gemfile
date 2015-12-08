@@ -1,0 +1,8 @@
+gem 'actionmailer'
+gem 'minitest'
+gem 'minitest-rg'
+gem 'rake'
+gem 'bump'
+gem 'wwtd'
+gem 'mailcrate'
+gem 'byebug'

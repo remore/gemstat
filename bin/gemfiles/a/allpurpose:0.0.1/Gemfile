@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'turn'
+gem 'rake'
+gem 'httparty'

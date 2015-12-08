@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rake-hooks'
+gem 'annotate'
+gem 'bundler'
+gem 'bueller'
+gem 'rake'

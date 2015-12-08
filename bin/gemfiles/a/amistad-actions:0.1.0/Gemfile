@@ -1,0 +1,7 @@
+gem 'amistad'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'activerecord'
+gem 'sqlite3'

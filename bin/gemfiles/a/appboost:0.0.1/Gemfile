@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'foreman'
+gem 'blazing'
+gem 'awesome_print'
+gem 'bundler'
+gem 'rake'

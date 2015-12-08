@@ -1,0 +1,4 @@
+gem 'lightcloud'
+gem 'rufus-tokyo'
+gem 'uuid'
+gem 'json'

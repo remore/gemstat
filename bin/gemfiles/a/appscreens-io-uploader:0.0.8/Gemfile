@@ -1,0 +1,4 @@
+gem 'httmultiparty'
+gem 'fastlane_core'
+gem 'fastimage'
+gem 'deliver'

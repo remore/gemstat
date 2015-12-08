@@ -1,0 +1,6 @@
+gem 'pusher'
+gem 'watchr'
+gem 'bacon'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

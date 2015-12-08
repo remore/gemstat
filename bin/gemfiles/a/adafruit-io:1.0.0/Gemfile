@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'activesupport'
+gem 'multi_xml'
+gem 'addressable'
+gem 'bundler'
+gem 'rake'

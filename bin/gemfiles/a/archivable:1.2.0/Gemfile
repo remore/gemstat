@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'meta_magic'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'actionpack'

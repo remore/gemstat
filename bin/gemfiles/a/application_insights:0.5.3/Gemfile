@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'
+gem 'rack'
+gem 'test-unit'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'activeobject'
+gem 'rspec'
+gem 'rspec-rails'

@@ -1,0 +1,4 @@
+gem 'right_aws'
+gem 'trollop'
+gem 'bundler'
+gem 'rake'

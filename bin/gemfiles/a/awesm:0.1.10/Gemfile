@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'
+gem 'httpclient'
+gem 'json'
+gem 'hashie'

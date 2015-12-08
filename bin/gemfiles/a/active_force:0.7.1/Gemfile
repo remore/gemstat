@@ -1,0 +1,6 @@
+gem 'active_attr'
+gem 'restforce'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

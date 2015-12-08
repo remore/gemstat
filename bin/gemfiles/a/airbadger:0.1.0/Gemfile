@@ -1,0 +1,6 @@
+gem 'airbrake'
+gem 'honeybadger'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

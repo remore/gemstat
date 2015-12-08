@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

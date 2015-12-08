@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'hirb'
+gem 'annotate'
+gem 'progress_bar'
+gem 'configliere'

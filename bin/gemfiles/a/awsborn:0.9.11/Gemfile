@@ -1,0 +1,5 @@
+gem 'icehouse-right_aws'
+gem 'json_pure'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

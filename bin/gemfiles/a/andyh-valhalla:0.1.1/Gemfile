@@ -1,0 +1,4 @@
+gem 'erubis'
+gem 'rake'
+gem 'mysql'
+gem 'wycats-thor'

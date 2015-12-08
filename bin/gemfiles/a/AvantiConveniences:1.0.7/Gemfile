@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'text-hyphen'
+gem 'thoughtbot-shoulda'
+gem 'hoe'

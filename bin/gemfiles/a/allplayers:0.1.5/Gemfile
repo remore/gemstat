@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rack'
+gem 'rest-client'
+gem 'xml-simple'
+gem 'json'
+gem 'oauth'
+gem 'rspec'

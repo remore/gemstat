@@ -1,0 +1,5 @@
+gem 'active-fedora'
+gem 'noid'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

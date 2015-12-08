@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'RocketAMF'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'growl'

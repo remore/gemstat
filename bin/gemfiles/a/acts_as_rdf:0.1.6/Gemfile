@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'rdf'
+gem 'rdf-raptor'
+gem 'yard'

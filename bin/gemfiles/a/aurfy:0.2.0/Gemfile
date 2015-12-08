@@ -1,0 +1,4 @@
+gem 'credit_card_reader'
+gem 'faraday'
+gem 'pry'
+gem 'rspec'

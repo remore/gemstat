@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'show_me_the_cookies'
+gem 'commander'
+gem 'mocha'
+gem 'minitest'

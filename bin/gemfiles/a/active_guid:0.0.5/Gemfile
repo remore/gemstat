@@ -1,0 +1,5 @@
+gem 'uuidtools'
+gem 'activerecord'
+gem 'activesupport'
+gem 'default_value_for'
+gem 'sqlite3'

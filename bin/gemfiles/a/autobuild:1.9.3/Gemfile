@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'utilrb'
+gem 'highline'
+gem 'rdoc'
+gem 'hoe'

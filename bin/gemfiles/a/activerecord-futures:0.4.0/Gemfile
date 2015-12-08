@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'rspec-spies'
+gem 'mysql2'
+gem 'pg'
+gem 'sqlite3'

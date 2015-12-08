@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'savon'
+gem 'webmock'
+gem 'minitest'
+gem 'vcr'
+gem 'rake'

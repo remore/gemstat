@@ -1,0 +1,5 @@
+gem 'ardm-do-adapter'
+gem 'do_mysql'
+gem 'ardm-migrations'
+gem 'rake'
+gem 'rspec'

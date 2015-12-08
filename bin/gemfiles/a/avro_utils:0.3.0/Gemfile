@@ -1,0 +1,6 @@
+gem 'json'
+gem 'json-schema'
+gem 'avro'
+gem 'logging'
+gem 'activesupport'
+gem 'rspec'

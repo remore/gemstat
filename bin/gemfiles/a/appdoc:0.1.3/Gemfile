@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'action_links'
+gem 'acts-as-taggable-on'
+gem 'haml'

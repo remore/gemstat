@@ -1,0 +1,4 @@
+gem 'cucumber'
+gem 'allure-ruby-adaptor-api'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'sqlite3'
+gem 'minitest'
+gem 'capybara'

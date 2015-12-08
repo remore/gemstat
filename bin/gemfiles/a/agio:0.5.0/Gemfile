@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'main'
+gem 'rspec'
+gem 'hoe-doofus'
+gem 'hoe-gemspec'
+gem 'hoe-git'
+gem 'hoe-seattlerb'
+gem 'hoe'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'activerecord'
+gem 'erubis'
+gem 'sqlite3'
+gem 'mocha'
+gem 'simplecov'

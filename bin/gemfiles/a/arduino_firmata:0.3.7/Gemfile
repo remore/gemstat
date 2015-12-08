@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'bundler'
+gem 'minitest'
+gem 'backports'
+gem 'serialport'
+gem 'args_parser'
+gem 'event_emitter'

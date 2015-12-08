@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'activerecord-jdbc-adapter'
+gem 'activerecord'
+gem 'jdbc-teradata'

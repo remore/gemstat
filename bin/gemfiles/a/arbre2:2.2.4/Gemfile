@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'tzinfo'
+gem 'combustion'
+gem 'rspec-rails'
+gem 'simplecov'

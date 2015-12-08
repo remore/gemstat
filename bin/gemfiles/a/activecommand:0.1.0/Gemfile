@@ -1,0 +1,7 @@
+gem 'virtus'
+gem 'middleware'
+gem 'activesupport'
+gem 'activemodel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'oauth'
+gem 'typhoeus'
+gem 'plist'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

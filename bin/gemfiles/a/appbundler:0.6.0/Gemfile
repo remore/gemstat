@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'mixlib-shellout'
+gem 'mixlib-cli'

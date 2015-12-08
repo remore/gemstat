@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'activesupport'
+gem 'thor'
+gem 'httparty'

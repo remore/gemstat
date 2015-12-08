@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'iconv'
+gem 'bundler'
+gem 'rake'

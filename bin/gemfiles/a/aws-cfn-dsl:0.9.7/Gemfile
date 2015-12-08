@@ -1,0 +1,7 @@
+gem 'awesome_print'
+gem 'psych'
+gem 'json'
+gem 'slop'
+gem 'cloudformation-ruby-dsl'
+gem 'dldinternet-mixlib-logging'
+gem 'dldinternet-mixlib-cli'

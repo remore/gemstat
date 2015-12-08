@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'addressable'
+gem 'data_validator'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'

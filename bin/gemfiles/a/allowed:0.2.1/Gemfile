@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'appraisal'
+gem 'bourne'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

@@ -1,0 +1,8 @@
+gem 'ardm-core'
+gem 'bcrypt'
+gem 'fastercsv'
+gem 'multi_json'
+gem 'stringex'
+gem 'uuidtools'
+gem 'rake'
+gem 'rspec'

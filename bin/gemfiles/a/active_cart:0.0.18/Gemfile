@@ -1,0 +1,6 @@
+gem 'aasm'
+gem 'redgreen'
+gem 'shoulda'
+gem 'mocha'
+gem 'machinist'
+gem 'faker'

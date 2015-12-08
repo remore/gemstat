@@ -1,0 +1,4 @@
+gem 'actionpack'
+gem 'i18n'
+gem 'rails'
+gem 'test_declarative'

@@ -1,0 +1,6 @@
+gem 'json-pointer'
+gem 'rspec'
+gem 'mocha'
+gem 'bundler'
+gem 'rake'
+gem 'faraday'

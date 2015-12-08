@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'diff-lcs'
+gem 'rvm'
+gem 'rake-compiler'

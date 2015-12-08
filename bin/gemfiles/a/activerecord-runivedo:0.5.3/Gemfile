@@ -1,0 +1,6 @@
+gem 'runivedo'
+gem 'activerecord'
+gem 'minitest'
+gem 'minitest-emoji'
+gem 'bundler'
+gem 'rake'

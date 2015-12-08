@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'dotenv'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'ffaker'
+gem 'pry-byebug'

@@ -1,0 +1,6 @@
+gem 'alerty'
+gem 'aws-sdk'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

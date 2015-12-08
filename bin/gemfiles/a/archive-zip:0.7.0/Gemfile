@@ -1,0 +1,7 @@
+gem 'io-like'
+gem 'rake'
+gem 'minitest'
+gem 'yard'
+gem 'yard-redcarpet-ext'
+gem 'github-markup'
+gem 'redcarpet'

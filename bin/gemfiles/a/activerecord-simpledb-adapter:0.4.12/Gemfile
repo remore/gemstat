@@ -1,0 +1,8 @@
+gem 'aws'
+gem 'activerecord'
+gem 'uuidtools'
+gem 'awesome_print'
+gem 'rspec'
+gem 'rails'
+gem 'genspec'
+gem 'thor'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'thor'
+gem 'railties'
+gem 's3'
+gem 'heroku-api'
+gem 'mechanize'

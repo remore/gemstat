@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'map'
+gem 'nokogiri'
+gem 'semver2'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'nuget'

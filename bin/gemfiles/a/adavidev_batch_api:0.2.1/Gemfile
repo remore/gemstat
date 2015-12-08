@@ -1,0 +1,6 @@
+gem 'middleware'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'rack-contrib'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bcrypt'
+gem 'sqlite3'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'timecop'

@@ -1,0 +1,5 @@
+gem 'active_model_serializers'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'

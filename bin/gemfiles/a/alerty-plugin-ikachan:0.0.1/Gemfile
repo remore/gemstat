@@ -1,0 +1,5 @@
+gem 'alerty'
+gem 'ikachan-client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

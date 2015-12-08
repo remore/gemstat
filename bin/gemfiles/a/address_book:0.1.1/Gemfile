@@ -1,0 +1,7 @@
+gem 'gdata'
+gem 'gdata19'
+gem 'nokogiri'
+gem 'patron'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

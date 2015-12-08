@@ -1,0 +1,6 @@
+gem 'net-ssh'
+gem 'rainbow'
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

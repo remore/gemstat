@@ -1,0 +1,5 @@
+gem 'kpeg'
+gem 'rubinius-compiler'
+gem 'rubinius-ast'
+gem 'rake'
+gem 'rspec-its'

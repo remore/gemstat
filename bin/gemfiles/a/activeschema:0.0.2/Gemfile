@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'minispec'
+gem 'activerecord-nulldb-adapter'
+gem 'bundler'
+gem 'rake'

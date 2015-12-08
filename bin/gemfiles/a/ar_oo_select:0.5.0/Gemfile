@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'mcmire-protest'
+gem 'mcmire-matchy'
+gem 'mcmire-mocha'
+gem 'mocha-protest-integration'
+gem 'mash'
+gem 'mcmire-openhash'
+gem 'facets'

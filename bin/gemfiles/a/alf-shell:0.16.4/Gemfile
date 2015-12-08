@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'alf-doc'
+gem 'quickl'
+gem 'highline'
+gem 'alf-core'

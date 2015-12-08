@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'bundler'
+gem 'factory_girl'
+gem 'rake'
+gem 'rspec'
+gem 'tzinfo'

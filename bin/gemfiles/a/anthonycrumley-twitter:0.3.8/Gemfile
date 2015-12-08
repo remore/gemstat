@@ -1,0 +1,6 @@
+gem 'hpricot'
+gem 'activesupport'
+gem 'main'
+gem 'highline'
+gem 'activerecord'
+gem 'httparty'

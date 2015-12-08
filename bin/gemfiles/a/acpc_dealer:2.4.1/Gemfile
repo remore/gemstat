@@ -1,0 +1,7 @@
+gem 'clive'
+gem 'process_runner'
+gem 'rake-compiler'
+gem 'minitest'
+gem 'mocha'
+gem 'awesome_print'
+gem 'simplecov'

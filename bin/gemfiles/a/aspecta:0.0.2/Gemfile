@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'activerecord'
+gem 'carrierwave'
+gem 'fastimage'

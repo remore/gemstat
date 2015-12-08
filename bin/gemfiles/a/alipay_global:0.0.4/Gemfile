@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'fakeweb'
+gem 'nokogiri'
+gem 'rest-client'

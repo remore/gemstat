@@ -1,0 +1,5 @@
+gem 'rautomation'
+gem 'launchy'
+gem 'rake'
+gem 'rdoc'
+gem 'pry'

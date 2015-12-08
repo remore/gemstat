@@ -1,0 +1,4 @@
+gem 'thoughtbot-shoulda'
+gem 'activemerchant'
+gem 'typhoeus'
+gem 'builder'

@@ -1,0 +1,5 @@
+gem 'cassandra'
+gem 'yajl-ruby'
+gem 'shoulda'
+gem 'nokogiri'
+gem 'flexmock'

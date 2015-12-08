@@ -1,0 +1,6 @@
+gem 'ruby-debug'
+gem 'hirb'
+gem 'hashie'
+gem 'httparty'
+gem 'isna'
+gem 'highline'

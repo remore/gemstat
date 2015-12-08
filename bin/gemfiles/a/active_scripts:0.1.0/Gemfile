@@ -1,0 +1,6 @@
+gem 'active_object'
+gem 'commander'
+gem 'bundler'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'

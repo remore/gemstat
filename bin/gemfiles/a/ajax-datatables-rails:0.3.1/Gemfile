@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'rspec'
+gem 'generator_spec'
+gem 'pry'
+gem 'rake'
+gem 'sqlite3'
+gem 'rails'
+gem 'activerecord'

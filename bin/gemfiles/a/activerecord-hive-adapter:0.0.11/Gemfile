@@ -1,0 +1,4 @@
+gem 'thrift'
+gem 'arel'
+gem 'rack'
+gem 'thin'

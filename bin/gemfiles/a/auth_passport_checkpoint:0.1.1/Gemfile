@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'auth_origin_control'
+gem 'sso_clyent'
+gem 'redis'
+gem 'mysql2'

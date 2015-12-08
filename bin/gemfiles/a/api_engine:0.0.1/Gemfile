@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'active_model_serializers'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'database_cleaner'
+gem 'sqlite3'
+gem 'pry'

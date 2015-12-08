@@ -1,0 +1,8 @@
+gem 'nu_wav'
+gem 'ruby-mp3info'
+gem 'mimemagic'
+gem 'activesupport'
+gem 'ptools'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

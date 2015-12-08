@@ -1,0 +1,5 @@
+gem 'term-ansicolor'
+gem 'treetop'
+gem 'polyglot'
+gem 'diff-lcs'
+gem 'builder'

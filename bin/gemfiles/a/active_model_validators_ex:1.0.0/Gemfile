@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'
+gem 'jazz_hands'
+gem 'activemodel'
+gem 'mongoid'

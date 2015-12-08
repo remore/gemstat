@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'typhoeus'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'
+gem 'webmock'

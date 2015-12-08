@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'actionmailer'
+gem 'appraisal'
+gem 'debugger'
+gem 'minitest'
+gem 'minitest-rg'
+gem 'bump'

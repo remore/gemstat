@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'faker'
+gem 'factory_girl'
+gem 'simplecov'
+gem 'timecop'

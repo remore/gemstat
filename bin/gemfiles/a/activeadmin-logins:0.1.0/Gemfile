@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sidekiq'
+gem 'devise'
+gem 'geoip'
+gem 'bundler'
+gem 'rake'

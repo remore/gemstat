@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'hipchat'
+gem 'slack-notifier'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

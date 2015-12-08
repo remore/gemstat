@@ -1,0 +1,8 @@
+gem 'request_store'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'database_cleaner'
+gem 'sqlite3'
+gem 'mongoid'
+gem 'sidekiq'

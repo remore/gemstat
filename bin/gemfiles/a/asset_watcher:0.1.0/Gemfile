@@ -1,0 +1,8 @@
+gem 'haml'
+gem 'coffee-haml-filter'
+gem 'activesupport'
+gem 'filewatcher'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

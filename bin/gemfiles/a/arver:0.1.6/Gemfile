@@ -1,0 +1,6 @@
+gem 'gpgme'
+gem 'activesupport'
+gem 'highline'
+gem 'cucumber'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'ffaker'
+gem 'minitest'
+gem 'mocha'
+gem 'activesupport'
+gem 'activemodel'
+gem 'rake'

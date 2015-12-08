@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'term-ansicolor'
+gem 'clipboard'
+gem 'terminal-table'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'

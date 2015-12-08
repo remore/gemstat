@@ -1,0 +1,8 @@
+gem 'amee-data-abstraction'
+gem 'activerecord'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'flexmock'
+gem 'rdoc'
+gem 'sqlite3'

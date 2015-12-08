@@ -1,0 +1,5 @@
+gem 'starling'
+gem 'activesupport'
+gem 'ruby2ruby'
+gem 'daemons'
+gem 'hoe'

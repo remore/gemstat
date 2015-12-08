@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'i18n'
+gem 'httpclient'
+gem 'json'

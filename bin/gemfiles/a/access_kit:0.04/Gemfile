@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'supermodel'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rails'
+gem 'cucumber'

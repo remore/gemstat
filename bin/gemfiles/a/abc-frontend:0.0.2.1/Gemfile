@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'activesupport'
+gem 'actionpack'
+gem 'activemodel'
+gem 'haml-rails'
+gem 'abc-core'
+gem 'abc-adapters'

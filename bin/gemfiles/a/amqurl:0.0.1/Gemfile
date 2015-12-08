@@ -1,0 +1,7 @@
+gem 'rack-amqp-client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'emoji-rspec'
+gem 'simplecov'
+gem 'pry'

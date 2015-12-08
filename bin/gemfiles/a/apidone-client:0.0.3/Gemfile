@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'faraday'
+gem 'json'
+gem 'bundler'
+gem 'rspec'

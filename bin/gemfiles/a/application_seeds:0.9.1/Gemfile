@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'pg'
+gem 'rspec'
+gem 'rake'

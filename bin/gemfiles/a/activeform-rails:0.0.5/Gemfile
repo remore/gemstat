@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'sqlite3'
+gem 'rspec'
+gem 'activerecord'
+gem 'database_cleaner'

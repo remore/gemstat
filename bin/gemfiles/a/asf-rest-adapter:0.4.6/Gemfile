@@ -1,0 +1,6 @@
+gem 'rforce'
+gem 'omniauth'
+gem 'bundler'
+gem 'jeweler'
+gem 'asf-soap-adapter'
+gem 'httparty'

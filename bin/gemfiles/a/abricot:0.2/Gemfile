@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'ruby-progressbar'
+gem 'thor'
+gem 'json'

@@ -1,0 +1,6 @@
+gem 'awesome_print'
+gem 'highline'
+gem 'mechanize'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

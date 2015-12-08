@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rabbitmq_manager'
+gem 'bunny'
+gem 'json_pure'
+gem 'net-ssh'

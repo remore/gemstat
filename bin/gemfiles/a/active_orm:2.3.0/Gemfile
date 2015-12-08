@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bundler'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'
+gem 'generator_spec'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-instafail'
+gem 'simplecov'
+gem 'coveralls'
+gem 'rails'

@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'haml'
+gem 'haml-contrib'
+gem 'RedCloth'
+gem 'rdiscount'
+gem 'nokogiri'
+gem 'tilt'
+gem 'sass'

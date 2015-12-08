@@ -1,0 +1,8 @@
+gem 'git'
+gem 'minitest'
+gem 'test-unit'
+gem 'iron_worker'
+gem 'git'
+gem 'minitest'
+gem 'test-unit'
+gem 'iron_worker'

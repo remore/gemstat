@@ -1,0 +1,5 @@
+gem 'thin'
+gem 'sinatra'
+gem 'async_sinatra'
+gem 'sinatra-cross_origin'
+gem 'axon-nats'

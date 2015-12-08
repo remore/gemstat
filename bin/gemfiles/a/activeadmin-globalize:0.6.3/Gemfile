@@ -1,0 +1,4 @@
+gem 'activeadmin'
+gem 'globalize'
+gem 'bundler'
+gem 'rake'

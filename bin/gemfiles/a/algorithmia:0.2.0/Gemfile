@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'json'
+gem 'httparty'
+gem 'ripl'

@@ -1,0 +1,7 @@
+gem 'autotest'
+gem 'rake'
+gem 'rspec'
+gem 'jeweler'
+gem 'autotest'
+gem 'rspec'
+gem 'autotest'

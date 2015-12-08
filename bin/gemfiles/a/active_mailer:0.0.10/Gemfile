@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rake'
+gem 'wrong'
+gem 'sqlite3'
+gem 'test-unit'

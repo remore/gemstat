@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'haml'
+gem 'shoulda'
+gem 'mocha'

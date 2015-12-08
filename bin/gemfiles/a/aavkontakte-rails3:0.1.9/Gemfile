@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'authlogic'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

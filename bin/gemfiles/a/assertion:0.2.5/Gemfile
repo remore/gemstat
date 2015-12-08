@@ -1,0 +1,5 @@
+gem 'i18n'
+gem 'ice_nine'
+gem 'inflecto'
+gem 'hexx-rspec'
+gem 'equalizer'

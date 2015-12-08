@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'rake'
+gem 'fastimage'
+gem 'minitest'
+gem 'guard'
+gem 'guard-minitest'

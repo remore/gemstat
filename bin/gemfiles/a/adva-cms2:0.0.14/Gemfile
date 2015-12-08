@@ -1,0 +1,7 @@
+gem 'adva-core'
+gem 'adva-blog'
+gem 'adva-cache'
+gem 'adva-categories'
+gem 'adva-markup'
+gem 'adva-static'
+gem 'adva-user'

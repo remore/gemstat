@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'bundler'
+gem 'nokogiri'
+gem 'aws-sdk'

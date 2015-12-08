@@ -1,0 +1,5 @@
+gem 'builder'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'i18n'
+gem 'yajl-ruby'

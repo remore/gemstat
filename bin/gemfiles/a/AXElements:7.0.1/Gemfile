@@ -1,0 +1,5 @@
+gem 'mouse'
+gem 'screen_recorder'
+gem 'accessibility_core'
+gem 'accessibility_keyboard'
+gem 'activesupport'

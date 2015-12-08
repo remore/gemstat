@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'aws-kclrb'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'ruby-maven'

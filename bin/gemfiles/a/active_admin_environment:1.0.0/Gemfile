@@ -1,0 +1,7 @@
+gem 'activeadmin'
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'ammeter'

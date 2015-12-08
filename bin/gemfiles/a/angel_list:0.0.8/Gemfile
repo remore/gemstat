@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'hashie'
+gem 'yajl-ruby'
+gem 'oauth2'
+gem 'curb'
+gem 'nokogiri'
+gem 'hpricot'
+gem 'pry'

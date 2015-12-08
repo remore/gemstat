@@ -1,0 +1,8 @@
+gem 'rroonga'
+gem 'activemodel'
+gem 'test-unit'
+gem 'test-unit-notify'
+gem 'rake'
+gem 'bundler'
+gem 'packnga'
+gem 'RedCloth'

@@ -1,0 +1,4 @@
+gem 'assert'
+gem 'assert-mocha'
+gem 'rails'
+gem 'sqlite3'

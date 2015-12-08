@@ -1,0 +1,6 @@
+gem 'artoo'
+gem 'artoo-gpio'
+gem 'artoo-i2c'
+gem 'minitest'
+gem 'minitest-happy'
+gem 'mocha'

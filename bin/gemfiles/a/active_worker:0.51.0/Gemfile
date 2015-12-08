@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'bson_ext'
+gem 'resque'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

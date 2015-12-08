@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'pg'
+gem 'bundler'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'

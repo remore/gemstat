@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'coffee-rails'
+gem 'jquery-fileupload-rails'
+gem 'azure'
+gem 'azure-contrib'
+gem 'addressable'
+gem 'sqlite3'
+gem 'rspec-rails'

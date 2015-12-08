@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'tiny_tds'
+gem 'activerecord-sqlserver-adapter'
+gem 'squeel'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'sql_search_parser'
+gem 'arel'
+gem 'minitest'
+gem 'rake'

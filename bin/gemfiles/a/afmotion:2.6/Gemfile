@@ -1,0 +1,4 @@
+gem 'motion-cocoapods'
+gem 'motion-require'
+gem 'rake'
+gem 'webstub'

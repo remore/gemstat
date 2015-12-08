@@ -1,0 +1,6 @@
+gem 'bulk_cache_fetcher'
+gem 'activesupport'
+gem 'active_model_serializers'
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'

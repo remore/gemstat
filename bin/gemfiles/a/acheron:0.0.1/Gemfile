@@ -1,0 +1,6 @@
+gem 'trickery'
+gem 'daemons'
+gem 'bunny'
+gem 'faraday'
+gem 'bundler'
+gem 'rake'

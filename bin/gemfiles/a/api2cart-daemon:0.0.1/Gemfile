@@ -1,0 +1,8 @@
+gem 'celluloid-io'
+gem 'http_parser.rb'
+gem 'activesupport'
+gem 'reel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'http'

@@ -1,0 +1,5 @@
+gem 'activemerchant'
+gem 'rake'
+gem 'mocha'
+gem 'rails'
+gem 'equivalent-xml'

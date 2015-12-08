@@ -1,0 +1,8 @@
+gem 'active-fedora'
+gem 'activesupport'
+gem 'rubydora'
+gem 'yard'
+gem 'RedCloth'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'

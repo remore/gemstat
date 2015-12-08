@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'actionpack'
+gem 'railties'
+gem 'sqlite3'
+gem 'appraisal'

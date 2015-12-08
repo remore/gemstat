@@ -1,0 +1,5 @@
+gem 'Platform'
+gem 'rake'
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'

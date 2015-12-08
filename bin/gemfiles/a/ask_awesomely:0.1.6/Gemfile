@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'typhoeus'
+gem 'erubis'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'vcr'

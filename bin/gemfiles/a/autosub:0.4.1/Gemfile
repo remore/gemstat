@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'hpricot'
+gem 'httparty'
+gem 'optiflag'
+gem 'rubyzip'
+gem 'mechanize'
+gem 'simple-rss'

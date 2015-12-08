@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'terminal-table'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'thor'

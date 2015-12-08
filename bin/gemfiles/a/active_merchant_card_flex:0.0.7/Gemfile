@@ -1,0 +1,5 @@
+gem 'activemerchant'
+gem 'activesupport'
+gem 'money'
+gem 'actionpack'
+gem 'mocha'

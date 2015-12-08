@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mysql2'
+gem 'will_paginate'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'factory_girl'

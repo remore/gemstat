@@ -1,0 +1,6 @@
+gem 'thin'
+gem 'rake'
+gem 'sinatra'
+gem 'sinatra-websocket'
+gem 'sinatra-activerecord'
+gem 'sinatra-contrib'

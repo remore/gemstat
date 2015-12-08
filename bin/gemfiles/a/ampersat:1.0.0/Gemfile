@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'thor'
+gem 'public_suffix'
+gem 'ruby-progressbar'
+gem 'celluloid'
+gem 'celluloid-pmap'

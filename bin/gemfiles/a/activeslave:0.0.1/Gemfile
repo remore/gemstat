@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'mysql2'
+gem 'pony'
+gem 'rufus-scheduler'

@@ -1,0 +1,5 @@
+gem 'ruby-openid'
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'json'

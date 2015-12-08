@@ -1,0 +1,5 @@
+gem 'icalendar'
+gem 'uuid'
+gem 'builder'
+gem 'rspec'
+gem 'fakeweb'

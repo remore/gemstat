@@ -1,0 +1,5 @@
+gem 'google-api-client'
+gem 'activesupport'
+gem 'json'
+gem 'andand'
+gem 'jwt'

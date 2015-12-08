@@ -1,0 +1,7 @@
+gem 'jbuilder'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rake'
+gem 'coveralls'
+gem 'rubocop'

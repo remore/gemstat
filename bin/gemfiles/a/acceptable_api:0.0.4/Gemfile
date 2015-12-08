@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rack'
+gem 'rack-accept'
+gem 'rack-accept-header-updater'
+gem 'rack-test'
+gem 'test-unit'
+gem 'rake'

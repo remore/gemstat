@@ -1,0 +1,6 @@
+gem 'active_support'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'rspec'
+gem 'gli'

@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'dummier'
+gem 'shoulda'
+gem 'rails'
+gem 'cucumber-rails'
+gem 'database_cleaner'
+gem 'sqlite3'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'spree_api'
+gem 'sinatra'
+gem 'sinatra-assetpack'
+gem 'guard'
+gem 'guard-livereload'
+gem 'guard-coffeescript'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'guard'
+gem 'guard-minitest'
+gem 'rubocop'

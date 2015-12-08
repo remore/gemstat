@@ -1,0 +1,2 @@
+gem 'simple_record'
+gem 'recaptcha'

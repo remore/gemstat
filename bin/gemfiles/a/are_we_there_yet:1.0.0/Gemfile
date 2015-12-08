@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'sequel'
+gem 'sqlite3'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rake'
+gem 'pg'
+gem 'bundler'
+gem 'rdoc'
+gem 'rspec'

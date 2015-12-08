@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'bundler'
+gem 'rspec'

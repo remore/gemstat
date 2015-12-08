@@ -1,0 +1,7 @@
+gem 'actionmailer'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'guard-rspec'
+gem 'guard-cucumber'

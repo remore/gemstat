@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'activerecord'
+gem 'rspec'
+gem 'strong_parameters'

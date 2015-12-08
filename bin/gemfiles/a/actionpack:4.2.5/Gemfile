@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rack'
+gem 'rack-test'
+gem 'rails-html-sanitizer'
+gem 'rails-dom-testing'
+gem 'actionview'
+gem 'activemodel'

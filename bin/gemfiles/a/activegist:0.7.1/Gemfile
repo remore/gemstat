@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'fakeweb'
+gem 'rake'
+gem 'rdoc'
+gem 'coveralls'
+gem 'activemodel'
+gem 'activesupport'
+gem 'rest-client'

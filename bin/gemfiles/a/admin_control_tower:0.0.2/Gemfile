@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'cancan'
+gem 'cancan-traffic'
+gem 'formtastic'
+gem 'formtastic-bootstrap'
+gem 'twitter-bootstrap-rails'

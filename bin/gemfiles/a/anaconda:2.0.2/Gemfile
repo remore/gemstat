@@ -1,0 +1,4 @@
+gem 'jquery-fileupload-rails'
+gem 'javascript_dlog-rails'
+gem 'simple_form'
+gem 'fog'

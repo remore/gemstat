@@ -1,0 +1,4 @@
+gem 'appengine-rack'
+gem 'appengine-sdk'
+gem 'bundler08'
+gem 'rubyzip'

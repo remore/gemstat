@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'diff-lcs'
+gem 'simplecov'
+gem 'serverspec'
+gem 'hostlist_expression'
+gem 'oj'

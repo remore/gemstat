@@ -1,0 +1,6 @@
+gem 'dictionary'
+gem 'rspec'
+gem 'mocha'
+gem 'redis'
+gem 'riak-client'
+gem 'cassandra'

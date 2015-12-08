@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'minitest'
+gem 'mocha'
+gem 'rails'
+gem 'nokogiri'

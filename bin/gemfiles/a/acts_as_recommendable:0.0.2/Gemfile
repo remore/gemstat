@@ -1,0 +1,8 @@
+gem 'ruby-progressbar'
+gem 'RubyInline'
+gem 'rails'
+gem 'rake'
+gem 'sdoc'
+gem 'minitest'
+gem 'sqlite3'
+gem 'ruby-debug-completion'

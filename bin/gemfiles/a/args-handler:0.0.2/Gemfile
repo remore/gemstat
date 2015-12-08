@@ -1,0 +1,6 @@
+gem 'knjrbfw'
+gem 'php4r'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

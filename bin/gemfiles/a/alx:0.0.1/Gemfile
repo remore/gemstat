@@ -1,0 +1,4 @@
+gem 'redcarpet'
+gem 'cucumber'
+gem 'rspec'
+gem 'simplecov'

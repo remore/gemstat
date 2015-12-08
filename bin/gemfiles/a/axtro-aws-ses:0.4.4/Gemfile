@@ -1,0 +1,8 @@
+gem 'xml-simple'
+gem 'builder'
+gem 'mime-types'
+gem 'shoulda-context'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'flexmock'

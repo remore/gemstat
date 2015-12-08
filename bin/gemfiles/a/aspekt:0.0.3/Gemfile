@@ -1,0 +1,5 @@
+gem 'is_same'
+gem 'rspec'
+gem 'rspec-core'
+gem 'yard'
+gem 'yard-rdoc'

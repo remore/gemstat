@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-assetpack'
+gem 'astronomy'

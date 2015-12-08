@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'apns'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'coveralls'

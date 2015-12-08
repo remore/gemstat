@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activeldap'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'github-ldap'
+gem 'ladle'

@@ -1,0 +1,6 @@
+gem 'asir'
+gem 'redis'
+gem 'resque'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

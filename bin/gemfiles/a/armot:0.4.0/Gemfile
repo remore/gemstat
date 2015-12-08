@@ -1,0 +1,5 @@
+gem 'i18n-active_record'
+gem 'activerecord'
+gem 'activesupport'
+gem 'rake'
+gem 'sqlite3'

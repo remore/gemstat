@@ -1,0 +1,5 @@
+gem 'dragonfly'
+gem 'rack-cache'
+gem 'jquery-rails'
+gem 'marcosinger-auto_html'
+gem 'marcosinger-css_parser'

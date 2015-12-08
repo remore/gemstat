@@ -1,0 +1,5 @@
+gem 'artoo'
+gem 'hybridgroup-celluloid-websocket-client'
+gem 'minitest'
+gem 'minitest-happy'
+gem 'mocha'

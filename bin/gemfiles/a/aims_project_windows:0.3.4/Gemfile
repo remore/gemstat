@@ -1,0 +1,5 @@
+gem 'wxruby-ruby19'
+gem 'ruby-opengl'
+gem 'aims'
+gem 'highline'
+gem 'capistrano'

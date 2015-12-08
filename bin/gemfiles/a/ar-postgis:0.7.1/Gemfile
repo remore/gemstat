@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rgeo-ar'
+gem 'rake'
+gem 'minitest'
+gem 'rdoc'

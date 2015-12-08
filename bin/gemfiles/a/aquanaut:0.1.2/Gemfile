@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'public_suffix'
+gem 'mechanize'
+gem 'slim'
+gem 'webmock'

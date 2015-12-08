@@ -1,0 +1,7 @@
+gem 'appsignal'
+gem 'elasticsearch'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-byebug'

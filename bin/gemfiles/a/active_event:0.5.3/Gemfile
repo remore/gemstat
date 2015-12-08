@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activemodel'
+gem 'bunny'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'
+gem 'coveralls'

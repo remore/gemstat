@@ -1,0 +1,5 @@
+gem 'memcache-client'
+gem 'activemessaging'
+gem 'activesupport'
+gem 'i18n'
+gem 'bones'

@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rejectu'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mysql2'

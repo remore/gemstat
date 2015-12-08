@@ -1,0 +1,7 @@
+gem 'mixlib-cli'
+gem 'mixlib-config'
+gem 'rack'
+gem 'rack-contrib'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

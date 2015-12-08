@@ -1,0 +1,6 @@
+gem 'oauth2'
+gem 'doorkeeper'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

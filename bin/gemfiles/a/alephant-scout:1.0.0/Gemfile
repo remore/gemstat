@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-nc'
+gem 'rake-rspec'
+gem 'httparty'
+gem 'alephant-logger'
+gem 'alephant-support'

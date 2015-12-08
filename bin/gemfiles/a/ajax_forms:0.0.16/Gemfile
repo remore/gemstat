@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery'
+gem 'select2-rails'
+gem 'chosen-rails'
+gem 'fancybox2-rails'
+gem 'activeadmin-select2'
+gem 'will_paginate'
+gem 'sqlite3'

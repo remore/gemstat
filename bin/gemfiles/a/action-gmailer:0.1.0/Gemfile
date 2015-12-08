@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'actionmailer'
+gem 'gmail_xoauth'
+gem 'pry'
+gem 'pry-debugger'
+gem 'awesome_print'
+gem 'jeweler'
+gem 'reek'

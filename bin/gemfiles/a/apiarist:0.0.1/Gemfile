@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'inherited_resources'
+gem 'bundler'
+gem 'rake'

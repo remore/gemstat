@@ -1,0 +1,5 @@
+gem 'activejob'
+gem 'activesupport'
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'coveralls'

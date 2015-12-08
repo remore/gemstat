@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'climate_control'
+gem 'rspec'
+gem 'webmock'

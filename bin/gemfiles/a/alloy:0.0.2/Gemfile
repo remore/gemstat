@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'
+gem 'colored'
+gem 'json'
+gem 'nokogiri'
+gem 'thor'

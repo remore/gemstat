@@ -1,0 +1,7 @@
+gem 'devise'
+gem 'rails'
+gem 'responders'
+gem 'active_model_serializers'
+gem 'simple_token_authentication'
+gem 'minitest-spec-rails'
+gem 'sqlite3'

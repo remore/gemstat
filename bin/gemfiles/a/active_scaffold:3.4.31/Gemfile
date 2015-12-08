@@ -1,0 +1,5 @@
+gem 'brakeman'
+gem 'bundler'
+gem 'rails'
+gem 'rubocop'
+gem 'shoulda'

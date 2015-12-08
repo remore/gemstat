@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'faker'
+gem 'rspec'
+gem 'nokogiri'
+gem 'actionpack'

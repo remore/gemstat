@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'paperclip'
+gem 'h5_uploader'
+gem 'ci_reporter'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'paperclip'
+gem 'shoulda-matchers'

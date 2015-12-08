@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'alf-core'
+gem 'alf-sql'
+gem 'alf-sequel'
+gem 'alf-shell'
+gem 'alf-rack'
+gem 'alf-repl'

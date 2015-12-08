@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'thor'
+gem 'activesupport'
+gem 'i18n'

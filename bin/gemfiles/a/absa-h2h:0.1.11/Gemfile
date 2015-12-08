@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'strata'
+gem 'rake'
+gem 'rspec'

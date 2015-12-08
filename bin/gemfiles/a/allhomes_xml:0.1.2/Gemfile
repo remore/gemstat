@@ -1,0 +1,6 @@
+gem 'libxml-ruby'
+gem 'builder'
+gem 'bundler'
+gem 'jeweler'
+gem 'libxml-ruby'
+gem 'builder'

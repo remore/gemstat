@@ -1,0 +1,2 @@
+gem 'KirbyBase'
+gem 'activerecord'

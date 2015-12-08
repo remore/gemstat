@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'jasmine'
+gem 'rails'
+gem 'rake'

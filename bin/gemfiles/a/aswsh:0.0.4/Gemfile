@@ -1,0 +1,6 @@
+gem 'arsdp'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'awesome_print'

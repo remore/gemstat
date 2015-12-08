@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'poltergeist'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'

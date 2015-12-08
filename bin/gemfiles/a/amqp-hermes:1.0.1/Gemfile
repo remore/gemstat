@@ -1,0 +1,6 @@
+gem 'amqp'
+gem 'rspec'
+gem 'faker'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

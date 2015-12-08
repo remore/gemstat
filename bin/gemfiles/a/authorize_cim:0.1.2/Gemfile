@@ -1,0 +1,5 @@
+gem 'crack'
+gem 'builder'
+gem 'rspec'
+gem 'webmock'
+gem 'jeweler'

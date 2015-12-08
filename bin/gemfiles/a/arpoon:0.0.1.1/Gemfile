@@ -1,0 +1,4 @@
+gem 'bitmap'
+gem 'hwaddr'
+gem 'eventmachine'
+gem 'ffi-pcap'

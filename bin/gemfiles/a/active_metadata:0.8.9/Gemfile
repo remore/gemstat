@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'cucumber-rails'
+gem 'rspec_junit_formatter'
+gem 'paperclip'
+gem 'mime-types'

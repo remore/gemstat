@@ -1,0 +1,8 @@
+gem 'excon'
+gem 'nokogiri'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'
+gem 'vcr'

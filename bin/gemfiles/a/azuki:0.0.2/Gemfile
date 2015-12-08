@@ -1,0 +1,5 @@
+gem 'azuki-api'
+gem 'netrc'
+gem 'rest-client'
+gem 'launchy'
+gem 'rubyzip'

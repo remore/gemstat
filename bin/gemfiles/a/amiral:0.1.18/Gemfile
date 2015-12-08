@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'json'
+gem 'facter'
+gem 'uuidtools'
+gem 'hiredis'
+gem 'popen4'

@@ -1,0 +1,5 @@
+gem 'radius'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rspec'

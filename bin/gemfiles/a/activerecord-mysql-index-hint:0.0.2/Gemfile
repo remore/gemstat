@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'bundler'
+gem 'rake'
+gem 'appraisal'
+gem 'rspec'
+gem 'mysql2'

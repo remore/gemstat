@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'answers-core'
+gem 'rspec-rails'
+gem 'devise'

@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'rubyzip'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'debugger'

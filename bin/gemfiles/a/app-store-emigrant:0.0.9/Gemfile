@@ -1,0 +1,7 @@
+gem 'rubyzip'
+gem 'rainbow'
+gem 'CFPropertyList'
+gem 'thor'
+gem 'json'
+gem 'minitest'
+gem 'rake'

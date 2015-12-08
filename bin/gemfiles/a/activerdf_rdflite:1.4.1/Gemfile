@@ -1,0 +1,4 @@
+gem 'gem_plugin'
+gem 'uuidtools'
+gem 'activerdf'
+gem 'sqlite3-ruby'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rcov'
+gem 'roodi'
+gem 'rspec'

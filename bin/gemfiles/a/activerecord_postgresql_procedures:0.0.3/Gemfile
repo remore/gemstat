@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'pg'
+gem 'rspec'
+gem 'guard'
+gem 'guard-bundler'
+gem 'guard-rspec'

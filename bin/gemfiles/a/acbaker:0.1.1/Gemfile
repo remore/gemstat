@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'json'
+gem 'rmagick'
+gem 'rake'

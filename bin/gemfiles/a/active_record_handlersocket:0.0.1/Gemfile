@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'handlersocket'
+gem 'rake'
+gem 'mysql2'
+gem 'rspec'
+gem 'factory_girl'
+gem 'database_cleaner'

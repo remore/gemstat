@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'coveralls'
+gem 'appraisal'
+gem 'sqlite3'

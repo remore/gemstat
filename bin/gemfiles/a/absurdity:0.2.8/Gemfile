@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'rake'
+gem 'mock_redis'
+gem 'mocha'
+gem 'minitest'
+gem 'turn'

@@ -1,0 +1,5 @@
+gem 'activeresource'
+gem 'activesupport'
+gem 'google-api-client'
+gem 'bundler'
+gem 'rake'

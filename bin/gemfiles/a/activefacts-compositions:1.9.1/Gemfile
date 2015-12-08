@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activefacts-metamodel'
+gem 'activefacts'
+gem 'activefacts-cql'

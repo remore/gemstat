@@ -1,0 +1,6 @@
+gem 'mast'
+gem 'indexer'
+gem 'ergo'
+gem 'qed'
+gem 'ae'
+gem 'lemon'

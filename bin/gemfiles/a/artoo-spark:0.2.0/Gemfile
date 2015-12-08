@@ -1,0 +1,6 @@
+gem 'artoo'
+gem 'artoo-gpio'
+gem 'http'
+gem 'minitest'
+gem 'minitest-happy'
+gem 'mocha'

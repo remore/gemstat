@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'
+gem 'fakefs'
+gem 'colored'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'rails-observers'
+gem 'rake'
+gem 'mocha'

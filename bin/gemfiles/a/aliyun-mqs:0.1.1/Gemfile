@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'rest-client'
+gem 'thor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

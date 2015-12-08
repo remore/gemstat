@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'aslon_jquery_ui_css'
+gem 'aslon_table_name'
+gem 'aslon_mobile2'
+gem 'aslon_scaffold'
+gem 'sqlite3'

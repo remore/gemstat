@@ -1,0 +1,5 @@
+gem 'page_object'
+gem 'selenium-webdriver'
+gem 'watir-webdriver'
+gem 'rspec'
+gem 'appium_thor'

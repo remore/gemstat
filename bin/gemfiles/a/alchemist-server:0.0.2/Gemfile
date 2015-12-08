@@ -1,0 +1,5 @@
+gem 'ffi-ncurses'
+gem 'rb-readline'
+gem 'hamster'
+gem 'eventmachine'
+gem 'alchemist-core'

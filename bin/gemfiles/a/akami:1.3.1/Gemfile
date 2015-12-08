@@ -1,0 +1,5 @@
+gem 'gyoku'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

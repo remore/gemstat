@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'capistrano'
+gem 'capistrano-ext'
+gem 'json'

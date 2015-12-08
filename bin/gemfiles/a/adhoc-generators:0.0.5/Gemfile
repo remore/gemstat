@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'paperclip'
+gem 'rspec-rails'
+gem 'cucumber'
+gem 'mocha'
+gem 'bcrypt-ruby'
+gem 'sqlite3-ruby'

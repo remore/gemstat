@@ -1,0 +1,5 @@
+gem 'redis'
+gem 'activesupport'
+gem 'activemodel'
+gem 'rspec'
+gem 'simplecov'

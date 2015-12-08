@@ -1,0 +1,7 @@
+gem 'tilt'
+gem 'term-ansicolor'
+gem 'hash-deep-merge'
+gem 'diffy'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'

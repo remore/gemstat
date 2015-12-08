@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'bmabey-fakefs'
+gem 'syntax'
+gem 'diff-lcs'
+gem 'heckle'
+gem 'hoe'

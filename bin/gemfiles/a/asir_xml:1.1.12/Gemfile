@@ -1,0 +1,5 @@
+gem 'asir'
+gem 'libxml-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'pry-rails'
+gem 'awesome_print'
+gem 'bundler'
+gem 'rake'

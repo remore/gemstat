@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'rspec-prof'
+gem 'i18n'

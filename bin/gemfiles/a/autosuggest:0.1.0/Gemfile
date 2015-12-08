@@ -1,0 +1,5 @@
+gem 'ruby-stemmer'
+gem 'obscenity'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

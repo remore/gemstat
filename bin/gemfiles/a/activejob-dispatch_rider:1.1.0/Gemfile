@@ -1,0 +1,7 @@
+gem 'activejob'
+gem 'dispatch-rider'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'sqlite3'

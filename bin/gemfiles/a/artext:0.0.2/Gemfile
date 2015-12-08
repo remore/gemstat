@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'addressable'
+gem 'httparty'
+gem 'fastimage'
+gem 'mini_magick'
+gem 'nokogiri'

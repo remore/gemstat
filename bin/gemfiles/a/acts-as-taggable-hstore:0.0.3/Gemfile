@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'activerecord-postgres-hstore-core'
+gem 'rspec'
+gem 'ammeter'
+gem 'pg'
+gem 'guard'
+gem 'guard-rspec'

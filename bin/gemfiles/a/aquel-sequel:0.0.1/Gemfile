@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'aquel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

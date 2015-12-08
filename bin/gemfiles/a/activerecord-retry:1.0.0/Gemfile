@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'bundler'
+gem 'mocha'
+gem 'rake'

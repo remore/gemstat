@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'aqueduct'
+gem 'pg'
+gem 'sqlite3'

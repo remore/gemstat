@@ -1,0 +1,6 @@
+gem 'progressbar'
+gem 'rubyzip'
+gem 'erubis'
+gem 'nokogiri'
+gem 'colorize'
+gem 'zip-zip'

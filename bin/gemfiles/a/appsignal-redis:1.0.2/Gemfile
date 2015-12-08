@@ -1,0 +1,5 @@
+gem 'appsignal'
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

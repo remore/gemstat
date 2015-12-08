@@ -1,0 +1,2 @@
+gem 'template-inheritance'
+gem 'simple-templater'

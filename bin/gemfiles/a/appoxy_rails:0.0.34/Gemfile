@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'oauth'
+gem 'ruby-openid'
+gem 'appoxy_api'
+gem 'mini_fb'
+gem 'simple_record'

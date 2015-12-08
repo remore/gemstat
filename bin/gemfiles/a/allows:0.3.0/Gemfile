@@ -1,0 +1,4 @@
+gem 'actionpack'
+gem 'turn'
+gem 'debugger'
+gem 'rake'

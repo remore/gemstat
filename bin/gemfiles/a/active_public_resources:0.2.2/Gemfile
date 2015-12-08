@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'iso8601'
+gem 'vimeo'
+gem 'bundler'

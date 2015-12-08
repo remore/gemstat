@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'jruby-kafka'
+gem 'jrjackson'
+gem 'elasticsearch'
+gem 'typhoeus'
+gem 'slog'
+gem 'march_hare'

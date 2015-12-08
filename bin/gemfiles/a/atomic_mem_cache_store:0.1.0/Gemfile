@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'iconv'
+gem 'dalli'
+gem 'memcache-client'
+gem 'activesupport'

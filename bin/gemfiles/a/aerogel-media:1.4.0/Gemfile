@@ -1,0 +1,4 @@
+gem 'aerogel-core'
+gem 'dragonfly'
+gem 'bundler'
+gem 'rake'

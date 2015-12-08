@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'elasticsearch'
+gem 'bundler'
+gem 'rake'

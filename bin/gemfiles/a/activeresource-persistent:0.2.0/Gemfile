@@ -1,0 +1,2 @@
+gem 'net-http-persistent'
+gem 'activeresource'

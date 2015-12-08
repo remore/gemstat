@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'httpi'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'

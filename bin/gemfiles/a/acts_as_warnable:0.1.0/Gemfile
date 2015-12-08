@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'devise'
+gem 'inherited_resources'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'shoulda-matchers'

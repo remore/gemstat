@@ -1,0 +1,6 @@
+gem 'adhearsion'
+gem 'activesupport'
+gem 'i18n'
+gem 'blather'
+gem 'rspec'
+gem 'rake'

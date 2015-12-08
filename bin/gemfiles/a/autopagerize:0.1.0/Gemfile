@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'httpclient'
+gem 'nokogiri'
+gem 'rspec'
+gem 'multi_json'
+gem 'simplecov'

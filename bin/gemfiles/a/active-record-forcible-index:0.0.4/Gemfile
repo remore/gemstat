@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'rspec-given'
+gem 'bundler'
+gem 'rake'

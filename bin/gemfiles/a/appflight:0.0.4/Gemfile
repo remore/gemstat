@@ -1,0 +1,7 @@
+gem 'shenzhen'
+gem 'commander'
+gem 'dotenv'
+gem 'aws-sdk'
+gem 'highline'
+gem 'rspec'
+gem 'rake'

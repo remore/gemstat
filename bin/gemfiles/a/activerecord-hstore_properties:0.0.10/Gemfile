@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord-postgres-hstore'
+gem 'rspec'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'with_model'
+gem 'with_model'
+gem 'pry'

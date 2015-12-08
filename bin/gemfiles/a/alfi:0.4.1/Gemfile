@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'webmock'
+gem 'rspec'
+gem 'vcr'
+gem 'pry'
+gem 'bundler'
+gem 'json'
+gem 'colorize'

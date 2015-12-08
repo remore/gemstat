@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'rspec'
+gem 'simplecov'
+gem 'activesupport'
+gem 'tzinfo'
+gem 'yard'
+gem 'bluecloth'

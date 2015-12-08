@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3-ruby'
+gem 'active_configuration'
+gem 'rspec-rails'
+gem 'yard'
+gem 'activerecord'
+gem 'activesupport'

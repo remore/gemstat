@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'codeclimate-test-reporter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'test_notifier'
+gem 'webmock'

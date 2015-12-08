@@ -1,0 +1,2 @@
+gem 'apotomo'
+gem 'rspec-apotomo'

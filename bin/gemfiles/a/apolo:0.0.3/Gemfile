@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'sequel'
+gem 'sqlite3'
+gem 'cupsffi'
+gem 'logger-better'
+gem 'tnt'

@@ -1,0 +1,5 @@
+gem 'assetsio'
+gem 'railties'
+gem 'rdoc'
+gem 'rspec'
+gem 'rake'

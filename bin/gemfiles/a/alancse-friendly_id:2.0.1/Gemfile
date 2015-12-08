@@ -1,0 +1,2 @@
+gem 'unicode'
+gem 'hoe'

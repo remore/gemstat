@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'kramdown'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'timecop'
+gem 'capybara'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'gettext'
+gem 'picnic'
+gem 'hoe'

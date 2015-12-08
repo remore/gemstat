@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'the_role'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'
+gem 'shoulda'

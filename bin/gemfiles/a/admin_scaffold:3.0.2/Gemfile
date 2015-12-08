@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'simple_page'
+gem 'simple_form'

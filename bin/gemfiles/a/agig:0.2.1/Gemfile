@@ -1,0 +1,8 @@
+gem 'net-irc'
+gem 'string-irc'
+gem 'octokit'
+gem 'bundler'
+gem 'rake'
+gem 'webmock'
+gem 'pry-byebug'
+gem 'coveralls'

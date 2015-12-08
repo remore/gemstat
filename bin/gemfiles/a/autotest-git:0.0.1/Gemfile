@@ -1,0 +1,6 @@
+gem 'git'
+gem 'ZenTest'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

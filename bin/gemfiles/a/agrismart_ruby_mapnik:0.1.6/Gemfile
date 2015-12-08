@@ -1,0 +1,5 @@
+gem 'rice'
+gem 'rdoc'
+gem 'rake-compiler'
+gem 'chunky_png'
+gem 'hoe'

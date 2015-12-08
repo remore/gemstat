@@ -1,0 +1,4 @@
+gem 'hipster_sql_to_hbase'
+gem 'httparty'
+gem 'msgpack'
+gem 'nokogiri'

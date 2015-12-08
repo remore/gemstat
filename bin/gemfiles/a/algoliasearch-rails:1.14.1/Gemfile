@@ -1,0 +1,7 @@
+gem 'json'
+gem 'algoliasearch'
+gem 'will_paginate'
+gem 'kaminari'
+gem 'travis'
+gem 'rake'
+gem 'rdoc'

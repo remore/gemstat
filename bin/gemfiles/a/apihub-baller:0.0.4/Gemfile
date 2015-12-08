@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rake'
+gem 'apihub'
+gem 'awesome_print'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'auth_redis_user_connector'
+gem 'configliere'
+gem 'daemons'
+gem 'rails'

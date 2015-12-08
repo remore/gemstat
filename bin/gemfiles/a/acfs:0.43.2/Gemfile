@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'actionpack'
+gem 'multi_json'
+gem 'typhoeus'
+gem 'rack'
+gem 'bundler'

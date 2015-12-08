@@ -1,0 +1,6 @@
+gem 'chronic'
+gem 'activemodel'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

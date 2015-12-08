@@ -1,0 +1,8 @@
+gem 'cassandra'
+gem 'rake'
+gem 'rails'
+gem 'rspec-rails'
+gem 'wrong'
+gem 'yard'
+gem 'bluecloth'
+gem 'mocha'

@@ -1,0 +1,6 @@
+gem 'declarative_authorization'
+gem 'authlogic'
+gem 'rails'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

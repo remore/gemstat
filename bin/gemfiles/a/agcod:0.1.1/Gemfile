@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'fakeweb'
+gem 'mocha'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda'

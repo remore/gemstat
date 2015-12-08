@@ -1,0 +1,2 @@
+gem 'templater'
+gem 'rake'

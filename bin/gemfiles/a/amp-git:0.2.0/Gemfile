@@ -1,0 +1,7 @@
+gem 'amp-front'
+gem 'amp-core'
+gem 'rspec'
+gem 'yard'
+gem 'cucumber'
+gem 'minitest'
+gem 'devver-construct'

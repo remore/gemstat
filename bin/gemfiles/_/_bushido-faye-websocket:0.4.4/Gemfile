@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'rack'
+gem 'rake-compiler'
+gem 'rspec'
+gem 'rainbows'
+gem 'thin'

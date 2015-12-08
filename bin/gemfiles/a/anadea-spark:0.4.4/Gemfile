@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rails'
+gem 'rspec'
+gem 'capybara'

@@ -1,0 +1,6 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'rcov'
+gem 'render_component_vho'
+gem 'verification'
+gem 'rails'

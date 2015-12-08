@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'simplecov'
+gem 'oauth2'
+gem 'trollop'

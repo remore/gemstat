@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'awesome_print'
+gem 'aws-sdk-core'
+gem 'thor'

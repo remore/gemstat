@@ -1,0 +1,4 @@
+gem 'pseudohikiparser'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

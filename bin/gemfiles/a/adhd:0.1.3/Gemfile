@@ -1,0 +1,5 @@
+gem 'thoughtbot-shoulda'
+gem 'ruby-debug'
+gem 'sinatra'
+gem 'couchrest'
+gem 'thin'

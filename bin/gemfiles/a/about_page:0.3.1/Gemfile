@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'grit'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'launchy'

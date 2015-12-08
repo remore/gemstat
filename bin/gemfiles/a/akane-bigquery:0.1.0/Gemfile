@@ -1,0 +1,8 @@
+gem 'akane'
+gem 'google-api-client'
+gem 'thor'
+gem 'oj'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'rake'

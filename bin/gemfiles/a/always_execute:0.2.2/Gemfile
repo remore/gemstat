@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'shoulda'
+gem 'mocha'
+gem 'minitest'
+gem 'shared_should'

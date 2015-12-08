@@ -1,0 +1,2 @@
+gem 'globalize3'
+gem 'activeadmin'

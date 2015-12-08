@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activerecord-jdbc-adapter'
+gem 'bundler'
+gem 'mocha'
+gem 'pry'
+gem 'rake'

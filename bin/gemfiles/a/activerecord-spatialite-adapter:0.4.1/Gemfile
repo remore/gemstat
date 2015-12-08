@@ -1,0 +1,2 @@
+gem 'rgeo-activerecord'
+gem 'sqlite3'

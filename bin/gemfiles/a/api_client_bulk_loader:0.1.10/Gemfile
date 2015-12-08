@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'request_store'
+gem 'json_api_client'
+gem 'sqlite3'

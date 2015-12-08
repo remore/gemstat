@@ -1,0 +1,6 @@
+gem 'require_all'
+gem 'authpds'
+gem 'exlibris-aleph'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'

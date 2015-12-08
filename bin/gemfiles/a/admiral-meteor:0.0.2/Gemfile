@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'aws-sdk'
+gem 'git'
+gem 'json'
+gem 'admiral'

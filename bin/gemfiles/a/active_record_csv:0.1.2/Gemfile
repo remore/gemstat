@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'active_record_to_csv'
+gem 'orm_from_csv'
+gem 'database_cleaner'
+gem 'rspec'
+gem 'sqlite3-ruby'

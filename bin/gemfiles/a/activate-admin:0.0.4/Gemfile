@@ -1,0 +1,5 @@
+gem 'padrino'
+gem 'sinatra-assetpack'
+gem 'sinatra-simple-navigation'
+gem 'kaminari'
+gem 'actionpack'

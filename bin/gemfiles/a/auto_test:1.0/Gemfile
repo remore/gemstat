@@ -1,0 +1,6 @@
+gem 'faker'
+gem 'rspec'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'watir-webdriver'
+gem 'rails'

@@ -1,0 +1,4 @@
+gem 'action_annotation'
+gem 'activesupport'
+gem 'rspec'
+gem 'mocha'

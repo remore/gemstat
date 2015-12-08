@@ -1,0 +1,7 @@
+gem 'nudge'
+gem 'thor'
+gem 'couchrest'
+gem 'configatron'
+gem 'fakeweb'
+gem 'sinatra'
+gem 'activesupport'

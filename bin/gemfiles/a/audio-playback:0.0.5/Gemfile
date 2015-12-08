@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'shoulda-context'
+gem 'ffi-libc'
+gem 'ffi-portaudio'
+gem 'ruby-audio'

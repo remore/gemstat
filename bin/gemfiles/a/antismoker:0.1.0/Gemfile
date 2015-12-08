@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'capistrano'
+gem 'capistrano-platform-resources'
+gem 'capistrano-rbenv'
+gem 'net-scp'
+gem 'net-ssh'
+gem 'vagrant'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'class_inheritable_attributes'
+gem 'rspec'
+gem 'rake'
+gem 'mocha'
+gem 'pry'
+gem 'pry-byebug'

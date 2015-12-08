@@ -1,0 +1,6 @@
+gem 'octokit'
+gem 'netrc'
+gem 'slop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

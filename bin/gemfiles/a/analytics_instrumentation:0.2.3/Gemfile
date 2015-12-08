@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'analytics-ruby'
+gem 'voight_kampff'
+gem 'browser'
+gem 'addressable'
+gem 'sqlite3'

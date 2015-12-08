@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'actionpack'
+gem 'fuubar'
+gem 'mysql'
+gem 'ruby-debug19'
+gem 'rspec'
+gem 'factory_girl_rails'
+gem 'database_cleaner'

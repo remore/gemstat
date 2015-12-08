@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'sinatra'
+gem 'thin'
+gem 'connection_pool'
+gem 'multi_json'
+gem 'hashr'
+gem 'em-apn'

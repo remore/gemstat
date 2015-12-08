@@ -1,0 +1,4 @@
+gem 'twitter'
+gem 'slop'
+gem 'activesupport'
+gem 'i18n'

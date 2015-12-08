@@ -1,0 +1,5 @@
+gem 'json'
+gem 'deep_merge'
+gem 'capistrano'
+gem 'capistrano_colors'
+gem 'capistrano-log_with_awesome'

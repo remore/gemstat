@@ -1,0 +1,8 @@
+gem 'authlogic'
+gem 'rails'
+gem 'sqlite3'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'timecop'
+gem 'mocha'
+gem 'database_cleaner'

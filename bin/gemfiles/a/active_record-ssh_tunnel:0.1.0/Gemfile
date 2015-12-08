@@ -1,0 +1,5 @@
+gem 'net-ssh-gateway'
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'typhoeus'
+gem 'multi_json'
+gem 'activesupport'
+gem 'hydra_cache'
+gem 'minitest'
+gem 'webmock'
+gem 'mocha'
+gem 'rake'

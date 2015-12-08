@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'simple_form'
+gem 'acts_as_list'
+gem 'jquery-rails'
+gem 'sqlite3'

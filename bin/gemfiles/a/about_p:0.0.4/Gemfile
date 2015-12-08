@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'pit'
+gem 'highline'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

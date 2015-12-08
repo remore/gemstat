@@ -1,0 +1,4 @@
+gem 'angularjs-rails'
+gem 'faye'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'rspec'
+gem 'its'
+gem 'pry'
+gem 'guard'
+gem 'guard-rspec'

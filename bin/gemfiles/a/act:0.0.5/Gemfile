@@ -1,0 +1,6 @@
+gem 'claide'
+gem 'colored'
+gem 'rouge'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

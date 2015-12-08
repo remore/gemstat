@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'request_store'
+gem 'scrypt'
+gem 'bcrypt'
+gem 'timecop'

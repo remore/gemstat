@@ -1,0 +1,4 @@
+gem 'redcarpet'
+gem 'github-markup'
+gem 'bundler'
+gem 'jeweler'

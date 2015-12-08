@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'bundler'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'database_cleaner'
+gem 'generator_spec'

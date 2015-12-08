@@ -1,0 +1,6 @@
+gem 'hexp'
+gem 'mime-types'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'mutant-rspec'

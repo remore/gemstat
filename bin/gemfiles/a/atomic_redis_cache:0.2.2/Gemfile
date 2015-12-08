@@ -1,0 +1,5 @@
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'fakeredis'
+gem 'timecop'

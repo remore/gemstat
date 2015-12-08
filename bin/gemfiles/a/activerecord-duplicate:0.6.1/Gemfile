@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'minitest'
+gem 'purdytest'
+gem 'rails'
+gem 'rake'
+gem 'sqlite3'

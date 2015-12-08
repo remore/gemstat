@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'yard'
+gem 'eventmachine'
+gem 'httparty'
+gem 'sinatra'

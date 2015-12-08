@@ -1,0 +1,8 @@
+gem 'amqp'
+gem 'bundler'
+gem 'minitest'
+gem 'simplecov'
+gem 'mocha'
+gem 'jeweler'
+gem 'redcarpet'
+gem 'yard'

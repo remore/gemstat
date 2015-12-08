@@ -1,0 +1,7 @@
+gem 'colorize'
+gem 'rotp'
+gem 'barby'
+gem 'ruby-keychain'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

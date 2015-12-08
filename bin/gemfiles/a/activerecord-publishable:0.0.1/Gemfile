@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'activerecord'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'

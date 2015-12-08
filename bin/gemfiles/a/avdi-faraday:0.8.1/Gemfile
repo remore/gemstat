@@ -1,0 +1,5 @@
+gem 'multipart-post'
+gem 'rake'
+gem 'simplecov'
+gem 'test-unit'
+gem 'webmock'

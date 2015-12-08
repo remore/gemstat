@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'money-rails'
+gem 'cucumber'
+gem 'database_cleaner'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'simplecov'

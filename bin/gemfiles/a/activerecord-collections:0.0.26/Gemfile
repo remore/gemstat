@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'
+gem 'faker'

@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'ruby-hmac'
+gem 'json_pure'
+gem 'bundler'
+gem 'rake'

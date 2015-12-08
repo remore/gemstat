@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'parse-cron'
+gem 'amazon-ec2'
+gem 'aws-ses'

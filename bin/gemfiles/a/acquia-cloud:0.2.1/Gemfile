@@ -1,0 +1,4 @@
+gem 'faraday'
+gem 'websocket'
+gem 'rake'
+gem 'rspec'

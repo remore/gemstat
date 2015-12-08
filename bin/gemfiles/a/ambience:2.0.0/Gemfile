@@ -1,0 +1,5 @@
+gem 'hashie'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'autotest'

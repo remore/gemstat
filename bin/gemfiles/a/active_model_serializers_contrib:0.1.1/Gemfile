@@ -1,0 +1,8 @@
+gem 'active_model_serializers'
+gem 'sqlite3'
+gem 'rails'
+gem 'factory_girl_rails'
+gem 'rspec-rails'
+gem 'responders'
+gem 'database_cleaner'
+gem 'kaminari'

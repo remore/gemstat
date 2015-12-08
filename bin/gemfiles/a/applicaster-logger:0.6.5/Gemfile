@@ -1,0 +1,4 @@
+gem 'logstash-logger'
+gem 'lograge'
+gem 'bundler'
+gem 'rake'

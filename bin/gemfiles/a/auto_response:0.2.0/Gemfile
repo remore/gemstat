@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rdoc'
+gem 'listen'
+gem 'colorize'
+gem 'daemons'
+gem 'string_utf8'
+gem 'rb-inotify'
+gem 'ptools'

@@ -1,0 +1,2 @@
+gem 'autotest-growl'
+gem 'rspec'

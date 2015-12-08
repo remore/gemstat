@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'nokogiri'
+gem 'json'
+gem 'websocket'
+gem 'simplecov'
+gem 'rspec'

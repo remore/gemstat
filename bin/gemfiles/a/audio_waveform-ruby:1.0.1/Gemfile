@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rspec'
+gem 'simplecov'
+gem 'redcarpet'
+gem 'yard'

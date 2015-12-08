@@ -1,0 +1,7 @@
+gem 'authn'
+gem 'rails'
+gem 'rake'
+gem 'yard'
+gem 'kramdown'
+gem 'pry'
+gem 'coveralls'

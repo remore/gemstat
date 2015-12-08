@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'minitest-colorize'
+gem 'webmock'
+gem 'activesupport'
+gem 'simple_signer'
+gem 'faraday'
+gem 'multi_json'

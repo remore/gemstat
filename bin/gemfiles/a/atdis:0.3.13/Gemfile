@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'multi_json'
+gem 'rest-client'
+gem 'rgeo-geojson'
+gem 'activemodel'

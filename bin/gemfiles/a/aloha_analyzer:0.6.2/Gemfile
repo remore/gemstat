@@ -1,0 +1,5 @@
+gem 'twitter_cldr'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'byebug'

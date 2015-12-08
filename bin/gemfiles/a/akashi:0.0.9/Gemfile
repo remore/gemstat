@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'aws-sdk'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

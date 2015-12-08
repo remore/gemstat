@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'activesupport'
+gem 'actionpack'
+gem 'activemodel'
+gem 'abc'
+gem 'abc-core'

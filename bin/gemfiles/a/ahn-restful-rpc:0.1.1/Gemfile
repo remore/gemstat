@@ -1,0 +1,4 @@
+gem 'adhearsion'
+gem 'json'
+gem 'rack'
+gem 'rspec'

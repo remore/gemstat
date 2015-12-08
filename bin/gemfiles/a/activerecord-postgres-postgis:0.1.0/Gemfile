@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rake'
+gem 'rgeo'
+gem 'bundler'
+gem 'database_cleaner'
+gem 'generator_spec'
+gem 'rspec-rails'

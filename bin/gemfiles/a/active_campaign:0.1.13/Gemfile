@@ -1,0 +1,4 @@
+gem 'httpi'
+gem 'hashie'
+gem 'activesupport'
+gem 'multi_json'

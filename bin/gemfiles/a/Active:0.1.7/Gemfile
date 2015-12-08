@@ -1,0 +1,6 @@
+gem 'json'
+gem 'hashie'
+gem 'activesupport'
+gem 'htmlentities'
+gem 'rspec'
+gem 'metric_fu'

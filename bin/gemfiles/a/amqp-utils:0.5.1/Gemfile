@@ -1,0 +1,7 @@
+gem 'amqp'
+gem 'trollop'
+gem 'facets'
+gem 'clio'
+gem 'json'
+gem 'heredoc_unindent'
+gem 'msgpack'

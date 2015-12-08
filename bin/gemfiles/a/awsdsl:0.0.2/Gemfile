@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'activesupport'
+gem 'clamp'
+gem 'cfndsl'
+gem 'gersberms'
+gem 'netaddr'

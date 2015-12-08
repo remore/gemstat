@@ -1,0 +1,5 @@
+gem 'daemons'
+gem 'uuidtools'
+gem 'rails'
+gem 'em-websocket'
+gem 'em-zeromq'

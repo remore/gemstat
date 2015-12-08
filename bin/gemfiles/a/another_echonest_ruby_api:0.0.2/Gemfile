@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'json'
+gem 'hashie'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'webmock'

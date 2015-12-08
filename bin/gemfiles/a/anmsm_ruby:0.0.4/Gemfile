@@ -1,0 +1,6 @@
+gem 'ruby_odata'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

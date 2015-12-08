@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'grape'
+gem 'railties'
+gem 'actionpack'
+gem 'sequel'

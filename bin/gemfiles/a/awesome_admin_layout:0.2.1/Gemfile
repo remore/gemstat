@@ -1,0 +1,7 @@
+gem 'slim'
+gem 'sass'
+gem 'coffee-script'
+gem 'rake'
+gem 'sinatra'
+gem 'rails'
+gem 'minitest'

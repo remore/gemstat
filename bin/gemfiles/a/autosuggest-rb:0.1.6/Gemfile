@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'yajl-ruby'
+gem 'sqlite3-ruby'
+gem 'shoulda'
+gem 'ruby-debug19'
+gem 'mongoid'
+gem 'mongo_mapper'
+gem 'bson_ext'

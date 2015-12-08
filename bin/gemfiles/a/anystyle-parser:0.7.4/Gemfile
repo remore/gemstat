@@ -1,0 +1,4 @@
+gem 'bibtex-ruby'
+gem 'builder'
+gem 'wapiti'
+gem 'namae'

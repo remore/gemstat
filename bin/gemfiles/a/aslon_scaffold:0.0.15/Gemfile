@@ -1,0 +1,5 @@
+gem 'will_paginate'
+gem 'formtastic'
+gem 'haml'
+gem 'sass'
+gem 'dynamic_form'

@@ -1,0 +1,6 @@
+gem 'flexmock'
+gem 'hanna'
+gem 'jeweler'
+gem 'shoulda'
+gem 'cssmin'
+gem 'jsmin'

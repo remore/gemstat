@@ -1,0 +1,6 @@
+gem 'plist'
+gem 'tvdb_party'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'webmock'

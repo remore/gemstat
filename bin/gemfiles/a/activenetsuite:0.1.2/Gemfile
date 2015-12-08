@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'
+gem 'coveralls'
+gem 'i18n'
+gem 'soap4r-ruby1.9'
+gem 'activesupport'

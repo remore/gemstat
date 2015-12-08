@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'codeclimate-test-reporter'
+gem 'yard'
+gem 'sqlite3'

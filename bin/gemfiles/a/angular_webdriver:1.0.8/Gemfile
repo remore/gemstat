@@ -1,0 +1,8 @@
+gem 'selenium-webdriver'
+gem 'watir-webdriver'
+gem 'webdriver_utils'
+gem 'rspec'
+gem 'appium_thor'
+gem 'pry'
+gem 'trace_files'
+gem 'page_object'

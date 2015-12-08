@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'envygeeks-coveralls'
+gem 'luna-rspec-formatters'
+gem 'active_record_mocks'
+gem 'rspec'

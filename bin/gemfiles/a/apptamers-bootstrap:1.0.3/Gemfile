@@ -1,0 +1,4 @@
+gem 'twitter-bootstrap-rails'
+gem 'sass-rails'
+gem 'bundler'
+gem 'jeweler'

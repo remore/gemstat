@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'nokogiri'
+gem 'will_paginate'
+gem 'yard'

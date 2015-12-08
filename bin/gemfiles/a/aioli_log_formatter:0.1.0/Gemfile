@@ -1,0 +1,5 @@
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'timecop'
+gem 'bundler'
+gem 'rake'

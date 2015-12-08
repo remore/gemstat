@@ -1,0 +1,8 @@
+gem 'uuidtools'
+gem 'assembly-objectfile'
+gem 'mini_exiftool'
+gem 'activesupport'
+gem 'nokogiri'
+gem 'rspec'
+gem 'lyberteam-gems-devel'
+gem 'yard'

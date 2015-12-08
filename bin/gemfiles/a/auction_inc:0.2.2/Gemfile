@@ -1,0 +1,3 @@
+gem 'roxml'
+gem 'rspec'
+gem 'fakeweb'

@@ -1,0 +1,8 @@
+gem 'savon'
+gem 'tiny_tds'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'pry'
+gem 'webmock'

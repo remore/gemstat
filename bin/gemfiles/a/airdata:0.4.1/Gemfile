@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'curb'
+gem 'activerecord-import'
+gem 'protected_attributes'
+gem 'sqlite3'

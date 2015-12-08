@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'sprockets'
+gem 'tilt'
+gem 'minitest'
+gem 'capybara'
+gem 'uglifier'

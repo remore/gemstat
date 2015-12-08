@@ -1,0 +1,4 @@
+gem 'jeweler'
+gem 'net-ldap'
+gem 'rspec'
+gem 'net-ldap'

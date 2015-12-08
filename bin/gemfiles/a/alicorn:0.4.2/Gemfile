@@ -1,0 +1,7 @@
+gem 'raindrops'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'mocha'
+gem 'simplecov'

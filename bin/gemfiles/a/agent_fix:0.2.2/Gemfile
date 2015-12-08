@@ -1,0 +1,7 @@
+gem 'quickfix-jruby'
+gem 'anticipate'
+gem 'cucumber'
+gem 'fix_spec'
+gem 'rspec'
+gem 'jeweler'
+gem 'rake'

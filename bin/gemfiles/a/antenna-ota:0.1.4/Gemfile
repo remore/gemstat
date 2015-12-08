@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'aws-sdk'
+gem 'commander'
+gem 'highline'
+gem 'CFPropertyList'
+gem 'rubyzip'

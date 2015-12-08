@@ -1,0 +1,4 @@
+gem 'ad-ldap'
+gem 'assert'
+gem 'log4r'
+gem 'mocha'

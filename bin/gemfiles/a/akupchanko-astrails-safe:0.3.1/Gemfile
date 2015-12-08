@@ -1,0 +1,7 @@
+gem 'aws-s3'
+gem 'cloudfiles'
+gem 'net-sftp'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rr'

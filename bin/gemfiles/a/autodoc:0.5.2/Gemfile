@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'rspec'
+gem 'bundler'
+gem 'rails'
+gem 'rake'
+gem 'sqlite3'

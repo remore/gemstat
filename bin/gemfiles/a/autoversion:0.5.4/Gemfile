@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'thor'
+gem 'git'
+gem 'semantic'

@@ -1,0 +1,4 @@
+gem 'echoe'
+gem 'cucumber'
+gem 'rspec'
+gem 'netrecorder'

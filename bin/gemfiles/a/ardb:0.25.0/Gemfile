@@ -1,0 +1,5 @@
+gem 'assert'
+gem 'activerecord'
+gem 'activesupport'
+gem 'ns-options'
+gem 'scmd'

@@ -1,0 +1,5 @@
+gem 'filewatcher'
+gem 'nokogiri'
+gem 'rails'
+gem 'redcarpet'
+gem 'rspec-rails'

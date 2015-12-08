@@ -1,0 +1,5 @@
+gem 'i18n'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

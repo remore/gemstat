@@ -1,0 +1,7 @@
+gem 'activejob'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'resque-lock'
+gem 'rails'
+gem 'sqlite3'

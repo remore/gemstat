@@ -1,0 +1,7 @@
+gem 'naught'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'draper'

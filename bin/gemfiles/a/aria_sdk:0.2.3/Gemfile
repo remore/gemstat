@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'savon'
+gem 'json'
+gem 'rspec'

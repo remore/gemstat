@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'erector'
+gem 'inherited_resources'
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'msgpack'
+gem 'compass'
+gem 'sqlite3'

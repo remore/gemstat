@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'coffee-rails'
+gem 'bcrypt-ruby'
+gem 'kaminari'
+gem 'factory_girl_rails'
+gem 'guard-test'
+gem 'rb-inotify'

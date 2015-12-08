@@ -1,0 +1,7 @@
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'yard'
+gem 'rdiscount'

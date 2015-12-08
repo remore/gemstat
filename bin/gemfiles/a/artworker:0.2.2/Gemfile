@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'activerecord'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'
+gem 'factory_girl_rails'
+gem 'sqlite3'

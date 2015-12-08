@@ -1,0 +1,8 @@
+gem 'cucumber'
+gem 'childprocess'
+gem 'ffi'
+gem 'rspec-expectations'
+gem 'contracts'
+gem 'thor'
+gem 'event-bus'
+gem 'bundler'

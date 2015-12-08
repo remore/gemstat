@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'
+gem 'pry'
+gem 'metric_fu'

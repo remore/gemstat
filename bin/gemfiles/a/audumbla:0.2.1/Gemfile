@@ -1,0 +1,6 @@
+gem 'dpla-map'
+gem 'twofishes'
+gem 'geokit'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'

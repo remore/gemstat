@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'activesupport'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'rake-notes'
+gem 'mocha'
+gem 'turn'

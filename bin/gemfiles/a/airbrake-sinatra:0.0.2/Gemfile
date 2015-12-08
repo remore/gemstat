@@ -1,0 +1,5 @@
+gem 'haml'
+gem 'sinatra'
+gem 'airbrake'
+gem 'rake'
+gem 'shotgun'

@@ -1,0 +1,2 @@
+gem 'activeadmin'
+gem 'axlsx'

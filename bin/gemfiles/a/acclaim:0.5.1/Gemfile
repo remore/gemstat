@@ -1,0 +1,6 @@
+gem 'jewel'
+gem 'ribbon'
+gem 'redcarpet'
+gem 'rookie'
+gem 'rspec'
+gem 'yard'

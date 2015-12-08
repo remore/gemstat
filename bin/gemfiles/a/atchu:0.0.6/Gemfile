@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'rubygems-tasks'
+gem 'simplecov'
+gem 'activerecord'
+gem 'pg'
+gem 'erubis'

@@ -1,0 +1,8 @@
+gem 'mocha'
+gem 'sqlite3'
+gem 'rails'
+gem 'rake'
+gem 'rdoc'
+gem 'redis'
+gem 'activerecord'
+gem 'actionpack'

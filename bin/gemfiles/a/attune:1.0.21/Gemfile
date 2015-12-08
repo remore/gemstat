@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'net-http-persistent'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'simplecov'

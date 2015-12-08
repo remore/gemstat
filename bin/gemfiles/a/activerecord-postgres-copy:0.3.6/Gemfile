@@ -1,0 +1,8 @@
+gem 'pg'
+gem 'activerecord'
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec'
+gem 'activerecord'

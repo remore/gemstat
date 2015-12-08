@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rspec-instafail'

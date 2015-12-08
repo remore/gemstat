@@ -1,0 +1,7 @@
+gem 'adhearsion'
+gem 'justinaiken-statsd'
+gem 'coveralls'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'guard-rspec'

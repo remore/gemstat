@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'snaptable'
+gem 'sqlite3'
+gem 'bcrypt-ruby'
+gem 'rspec-rails'
+gem 'rspec-activemodel-mocks'
+gem 'factory_girl_rails'
+gem 'capybara'

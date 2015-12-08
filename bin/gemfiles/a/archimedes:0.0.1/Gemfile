@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'mocha'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'isomer'
+gem 'statsd-ruby'

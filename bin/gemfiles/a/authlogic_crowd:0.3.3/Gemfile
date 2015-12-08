@@ -1,0 +1,4 @@
+gem 'authlogic'
+gem 'simple_crowd'
+gem 'bundler'
+gem 'rake'

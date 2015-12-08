@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'iconv'
+gem 'mp3info'
+gem 'm3uzi'
+gem 'bundler'
+gem 'rake'

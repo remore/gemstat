@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'activemodel'
+gem 'appraisal'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

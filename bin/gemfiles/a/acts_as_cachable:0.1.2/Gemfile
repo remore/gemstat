@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

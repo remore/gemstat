@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rest-client'
+gem 'beefcake'
+gem 'file-tail'
+gem 'ruby-hmac'
+gem 'addressable'

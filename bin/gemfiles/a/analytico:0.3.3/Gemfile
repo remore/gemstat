@@ -1,0 +1,7 @@
+gem 'yajl-ruby'
+gem 'rest-client'
+gem 'rack'
+gem 'i18n'
+gem 'activesupport'
+gem 'delayed_job'
+gem 'rspec'

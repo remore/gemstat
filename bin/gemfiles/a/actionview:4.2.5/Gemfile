@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'builder'
+gem 'erubis'
+gem 'rails-html-sanitizer'
+gem 'rails-dom-testing'
+gem 'actionpack'
+gem 'activemodel'

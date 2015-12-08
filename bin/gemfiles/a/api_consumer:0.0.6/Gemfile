@@ -1,0 +1,5 @@
+gem 'uber_cache'
+gem 'nokogiri'
+gem 'nori'
+gem 'rspec'
+gem 'fakeweb'

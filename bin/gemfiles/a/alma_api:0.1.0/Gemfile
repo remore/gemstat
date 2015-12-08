@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'faraday'
+gem 'mighty_struct'
+gem 'benchmark-ips'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

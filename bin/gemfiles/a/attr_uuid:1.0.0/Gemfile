@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'uuidtools'
+gem 'mysql2'
+gem 'rspec'
+gem 'simplecov'
+gem 'with_model'

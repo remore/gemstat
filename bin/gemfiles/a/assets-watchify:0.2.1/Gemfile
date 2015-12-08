@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'source_map'
+gem 'listen'
+gem 'wdm'
+gem 'execjs-xtrn'
+gem 'openssl-win-root'
+gem 'bundler'
+gem 'rake'

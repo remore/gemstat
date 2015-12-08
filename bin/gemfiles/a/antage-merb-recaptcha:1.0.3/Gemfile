@@ -1,0 +1,4 @@
+gem 'merb-core'
+gem 'builder'
+gem 'rspec'
+gem 'mocha'

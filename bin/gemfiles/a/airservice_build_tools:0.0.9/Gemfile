@@ -1,0 +1,7 @@
+gem 'plist'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'emoji-rspec'
+gem 'coveralls'
+gem 'fakefs'

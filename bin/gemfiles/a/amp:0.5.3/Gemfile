@@ -1,0 +1,4 @@
+gem 'rtfm'
+gem 'yard'
+gem 'minitest'
+gem 'hoe'

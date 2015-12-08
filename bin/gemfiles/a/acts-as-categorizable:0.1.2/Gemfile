@@ -1,0 +1,8 @@
+gem 'friendly_id'
+gem 'ancestry'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'railties'
+gem 'sqlite3'
+gem 'database_cleaner'

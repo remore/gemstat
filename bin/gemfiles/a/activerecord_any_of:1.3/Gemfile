@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rspec-rails'
+gem 'rake'
+gem 'combustion'
+gem 'database_cleaner'

@@ -1,0 +1,6 @@
+gem 'apispree_core'
+gem 'apispree_auth'
+gem 'apispree_api'
+gem 'apispree_dash'
+gem 'apispree_sample'
+gem 'apispree_promo'

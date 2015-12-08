@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'thor'
+gem 'fog'
+gem 'multi_json'
+gem 'highline'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'haml'
+gem 'haml-rails'
+gem 'acts_as_votable'
+gem 'ya2yaml'
+gem 'font-awesome-rails'
+gem 'jquery-ui-rails'

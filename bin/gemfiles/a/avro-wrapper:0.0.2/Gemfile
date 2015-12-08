@@ -1,0 +1,2 @@
+gem 'avro'
+gem 'rspec'

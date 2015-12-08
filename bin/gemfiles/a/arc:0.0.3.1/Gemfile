@@ -1,0 +1,8 @@
+gem 'agent-q'
+gem 'arel'
+gem 'pg'
+gem 'sqlite3'
+gem 'mysql2'
+gem 'rspec'
+gem 'simplecov'
+gem 'timecop'

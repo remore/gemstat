@@ -1,0 +1,8 @@
+gem 'angularjs-rails'
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'fuubar'
+gem 'pry'

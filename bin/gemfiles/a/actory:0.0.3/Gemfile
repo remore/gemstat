@@ -1,0 +1,8 @@
+gem 'msgpack-rpc'
+gem 'msgpack-rpc'
+gem 'parallel'
+gem 'parallel'
+gem 'facter'
+gem 'facter'
+gem 'progressbar'
+gem 'progressbar'

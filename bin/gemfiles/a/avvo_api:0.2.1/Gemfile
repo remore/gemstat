@@ -1,0 +1,4 @@
+gem 'activeresource'
+gem 'reactive_resource'
+gem 'shoulda'
+gem 'webmock'

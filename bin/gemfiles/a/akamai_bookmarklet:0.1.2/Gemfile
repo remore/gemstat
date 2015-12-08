@@ -1,0 +1,2 @@
+gem 'akamai'
+gem 'sinatra'

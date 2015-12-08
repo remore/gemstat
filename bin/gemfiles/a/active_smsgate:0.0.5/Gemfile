@@ -1,0 +1,4 @@
+gem 'thoughtbot-shoulda'
+gem 'nokogiri'
+gem 'httparty'
+gem 'activeresource'

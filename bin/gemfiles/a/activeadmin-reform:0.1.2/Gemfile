@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'disposable'
+gem 'reform'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

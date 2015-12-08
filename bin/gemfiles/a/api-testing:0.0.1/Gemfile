@@ -1,0 +1,7 @@
+gem 'cucumber'
+gem 'thin'
+gem 'rest-client'
+gem 'activesupport'
+gem 'rspec'
+gem 'treetop'
+gem 'polyglot'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'colored'
+gem 'json'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
