@@ -21,6 +21,7 @@ module Gemstat
   class Dependency
     attr_reader :gems, :name
     def initialize(folder_path)
+      ENV["BUNDLE_GEMFILE"] = "./Gemfile" # set this otherwise you'll get the error: `rescue in root': Could not locate Gemfile or .bundle/ directory (Bundler::GemfileNotFound)
       @gems = []
       if File.exist?("#{folder_path}/Gemfile") then
         @gemfile = "#{folder_path}/Gemfile"
@@ -71,7 +72,7 @@ module Gemstat
   class Population
     attr_reader :dependencies
     def initialize(folder_path)
-      cache_path = File.dirname(__FILE__) + '/' + `du -s bin/gemfiles | cut -f1`.chomp + '.cache'
+      cache_path = File.dirname(__FILE__) + '/' + `du -s #{File.dirname(__FILE__)}/gemfiles | cut -f1`.chomp + '.cache'
       if File.exist?(cache_path) then
         @dependencies = Marshal.load(File.read(cache_path))
       else
