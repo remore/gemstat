@@ -123,7 +123,7 @@ module Gemstat
       ranking = population.dependencies.map {|item| item.gems}.flatten.inject(Hash.new(0)){|hash,a| hash[a]+=1; hash}
 
       puts ""
-      puts "# gemstat v0.2.0"
+      puts "# gemstat v0.2.2"
       puts
       puts "  " + "-"*44
       puts "  Gemfile                Gems in Use"

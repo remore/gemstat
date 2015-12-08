@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'gemstat'
-  s.version = '0.2.0'
+  s.version = '0.2.2'
   s.homepage = 'https://github.com/remore/gemstat'
 
   s.authors = 'Kei Sawada(@remore)'
