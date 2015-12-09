@@ -193,7 +193,7 @@ module Gemstat
             exit if i > options[:count]
           end
         else
-          puts "There are not recommendation for #{something} based on the dependencies #{options[:directory]} directory."
+          puts "There are not recommendation for #{something} based on the dependencies found at #{options[:directory]} directory."
         end
       else
         puts "There are not similar one found like #{something} in the #{options[:directory]} directory."
