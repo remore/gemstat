@@ -1,0 +1,6 @@
+gem 'combustion'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'factory_girl_rails'

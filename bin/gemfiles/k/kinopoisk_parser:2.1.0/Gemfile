@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'httpclient'
+gem 'vcr'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

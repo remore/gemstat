@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'addressable'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multi_json'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sprockets'
+gem 'sass'
+gem 'sass-rails'
+gem 'bundler'
+gem 'rake'

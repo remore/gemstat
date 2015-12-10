@@ -1,0 +1,4 @@
+gem 'github-linguist'
+gem 'activesupport'
+gem 'rugged'
+gem 'charlock_holmes'

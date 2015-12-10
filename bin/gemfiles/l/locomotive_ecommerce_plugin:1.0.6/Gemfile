@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'locomotive_plugins'
+gem 'stripe_helper'
+gem 'haml'
+gem 'cells'
+gem 'stripe'
+gem 'kaminari'

@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'rdf'
+gem 'rdf-json'
+gem 'sparql-client'
+gem 'rspec'

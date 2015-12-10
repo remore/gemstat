@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'crack'
+gem 'multipart-post'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

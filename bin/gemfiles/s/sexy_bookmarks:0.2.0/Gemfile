@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'rake'
+gem 'turn'
+gem 'capybara'
+gem 'nokogiri'
+gem 'turn'

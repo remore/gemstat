@@ -1,0 +1,2 @@
+gem 'hipchat-api'
+gem 'ruby_cowsay'

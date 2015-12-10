@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-given'
+gem 'count_by'
+gem '1_as_identity_function'

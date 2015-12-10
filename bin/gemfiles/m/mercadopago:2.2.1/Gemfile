@@ -1,0 +1,5 @@
+gem 'json'
+gem 'faraday'
+gem 'pry'
+gem 'byebug'
+gem 'test-unit'

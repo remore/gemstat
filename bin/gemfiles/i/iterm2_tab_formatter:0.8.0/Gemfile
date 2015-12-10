@@ -1,0 +1,2 @@
+gem 'iterm2_escape'
+gem 'rspec'

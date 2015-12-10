@@ -1,0 +1,4 @@
+gem 'liquid'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

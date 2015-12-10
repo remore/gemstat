@@ -1,0 +1,4 @@
+gem 'faraday'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

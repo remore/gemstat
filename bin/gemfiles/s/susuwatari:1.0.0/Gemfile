@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'json'
+gem 'hashie'
+gem 'rest-client'

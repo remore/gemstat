@@ -1,0 +1,5 @@
+gem 'octokit'
+gem 'rugged'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

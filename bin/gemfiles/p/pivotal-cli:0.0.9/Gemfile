@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'rainbow'
+gem 'launchy'
+gem 'highline'
+gem 'pivotal-tracker'
+gem 'git'

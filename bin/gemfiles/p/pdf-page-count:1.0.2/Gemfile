@@ -1,0 +1,2 @@
+gem 'thread'
+gem 'pdf-reader'

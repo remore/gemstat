@@ -1,0 +1,6 @@
+gem 'bcrypt-ruby'
+gem 'warden'
+gem 'thor'
+gem 'test_notifier'
+gem 'autotest'
+gem 'rcov'

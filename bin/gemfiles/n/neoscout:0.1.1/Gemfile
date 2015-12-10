@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'httparty'
+gem 'json'
+gem 'neo4j-core'
+gem 'neo4j-wrapper'
+gem 'pry'
+gem 'rspec'
+gem 'simplecov'

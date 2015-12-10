@@ -1,0 +1,5 @@
+gem 'hash_flattener'
+gem 'hash_to_csv'
+gem 'yam'
+gem 'rspec'
+gem 'rspec-mocks'

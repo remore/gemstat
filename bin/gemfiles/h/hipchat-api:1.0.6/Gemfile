@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'fakeweb'
+gem 'mocha'
+gem 'rspec'
+gem 'rake'

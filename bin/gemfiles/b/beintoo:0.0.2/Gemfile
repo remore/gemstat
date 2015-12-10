@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'supermodel'
+gem 'pry'
+gem 'rest-client'
+gem 'rake'
+gem 'json'
+gem 'activesupport'

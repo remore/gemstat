@@ -1,0 +1,5 @@
+gem 'ruby-termios'
+gem 'eventmachine'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

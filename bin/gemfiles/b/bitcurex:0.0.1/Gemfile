@@ -1,0 +1,4 @@
+gem 'oj'
+gem 'httparty'
+gem 'awesome_print'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'json'
+gem 'json-schema'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

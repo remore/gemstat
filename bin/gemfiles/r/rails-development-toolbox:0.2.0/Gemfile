@@ -1,0 +1,5 @@
+gem 'wirble'
+gem 'hirb'
+gem 'capistrano'
+gem 'capistrano-ext'
+gem 'rails3-generators'

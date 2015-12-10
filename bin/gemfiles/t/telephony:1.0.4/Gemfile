@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'state_machine'
+gem 'kaminari'
+gem 'pusher'
+gem 'ejs'
+gem 'sass'

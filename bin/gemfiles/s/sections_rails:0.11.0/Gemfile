@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'sqlite3'
+gem 'sass-rails'

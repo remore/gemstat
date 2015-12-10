@@ -1,0 +1,5 @@
+gem 'mustache'
+gem 'rake'
+gem 'rdiscount'
+gem 'ronn'
+gem 'rspec'

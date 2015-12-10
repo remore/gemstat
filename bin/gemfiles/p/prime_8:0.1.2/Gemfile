@@ -1,0 +1,8 @@
+gem 'cri'
+gem 'command_line_reporter'
+gem 'bundler'
+gem 'rake'
+gem 'benchmark-ips'
+gem 'rspec'
+gem 'pry'
+gem 'awesome_print'

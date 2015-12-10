@@ -1,0 +1,5 @@
+gem 'libxml-ruby'
+gem 'andre-geokit'
+gem 'jeremymcanally-context'
+gem 'jeremymcanally-matchy'
+gem 'ruby-debug'

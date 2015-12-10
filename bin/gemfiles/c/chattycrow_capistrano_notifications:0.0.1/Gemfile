@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'chatty_crow'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'icalendar'
+gem 'bundler'
+gem 'rake'

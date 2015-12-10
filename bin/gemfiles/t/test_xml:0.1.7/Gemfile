@@ -1,0 +1,5 @@
+gem 'diffy'
+gem 'nokogiri'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec-core'

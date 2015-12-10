@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'logstash-devutils'

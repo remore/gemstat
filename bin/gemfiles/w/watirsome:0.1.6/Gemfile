@@ -1,0 +1,6 @@
+gem 'watir-webdriver'
+gem 'rspec'
+gem 'rake'
+gem 'fuubar'
+gem 'simplecov'
+gem 'coveralls'

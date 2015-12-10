@@ -1,0 +1,7 @@
+gem 'ruby-enum'
+gem 'rake'
+gem 'rake-compiler'
+gem 'bundler'
+gem 'minitest'
+gem 'math-to-itex'
+gem 'nokogiri'

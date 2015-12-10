@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec-core'
+gem 'bundler'
+gem 'rspec'

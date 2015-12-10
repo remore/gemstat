@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'colored'
+gem 'rspec'
+gem 'yard'

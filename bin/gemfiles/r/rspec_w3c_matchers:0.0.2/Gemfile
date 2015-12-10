@@ -1,0 +1,2 @@
+gem 'w3c_validators'
+gem 'rspec'

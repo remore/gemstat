@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'haml-rails'
+gem 'sass-rails'
+gem 'mongoid_acts_as_page'
+gem 'mongoid'

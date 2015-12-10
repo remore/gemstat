@@ -1,0 +1,8 @@
+gem 'fuubar'
+gem 'sprockets'
+gem 'jasmine'
+gem 'jshint'
+gem 'jshint_on_rails'
+gem 'thin'
+gem 'pry'
+gem 'rails'

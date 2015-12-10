@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'httparty'
+gem 'time_difference'
+gem 'parallel'

@@ -1,0 +1,5 @@
+gem 'rufus-lru'
+gem 'rufus-scheduler'
+gem 'rufus-dollar'
+gem 'rufus-eval'
+gem 'rufus-verbs'

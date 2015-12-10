@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'fakeweb'
+gem 'json_pure'
+gem 'applix'
+gem 'gom-script'

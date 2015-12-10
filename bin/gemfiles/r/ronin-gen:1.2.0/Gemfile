@@ -1,0 +1,8 @@
+gem 'open_namespace'
+gem 'data_paths'
+gem 'parameters'
+gem 'ronin-support'
+gem 'ronin'
+gem 'bundler'
+gem 'yard'
+gem 'yard-parameters'

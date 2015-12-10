@@ -1,0 +1,5 @@
+gem 'nibbler'
+gem 'nokogiri'
+gem 'sanitize'
+gem 'bundler'
+gem 'yard'

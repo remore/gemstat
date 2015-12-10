@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'actionpack'
+gem 'rspec'
+gem 'mocha'
+gem 'rails'
+gem 'guard-rspec'

@@ -1,0 +1,2 @@
+gem 'filewatcher'
+gem 'rspec'

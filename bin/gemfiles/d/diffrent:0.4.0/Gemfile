@@ -1,0 +1,6 @@
+gem 'diffy'
+gem 'vestal_versions'
+gem 'minitest'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

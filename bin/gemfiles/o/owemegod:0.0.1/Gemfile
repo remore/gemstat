@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'spinach'
+gem 'minitest-reporters'
+gem 'ansi'

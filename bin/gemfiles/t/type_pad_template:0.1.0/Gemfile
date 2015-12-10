@@ -1,0 +1,6 @@
+gem 'typhoeus'
+gem 'nokogiri'
+gem 'thor'
+gem 'highline'
+gem 'bundler'
+gem 'rake'

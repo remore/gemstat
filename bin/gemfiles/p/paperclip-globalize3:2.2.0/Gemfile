@@ -1,0 +1,8 @@
+gem 'paperclip'
+gem 'globalize'
+gem 'bundler'
+gem 'appraisal'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'rake'
+gem 'wwtd'

@@ -1,0 +1,6 @@
+gem 'librato-metrics'
+gem 'msgpack'
+gem 'snappy'
+gem 'activesupport'
+gem 'eventmachine'
+gem 'metriksd_reporter'

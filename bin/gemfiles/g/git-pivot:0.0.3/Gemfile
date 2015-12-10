@@ -1,0 +1,4 @@
+gem 'grit'
+gem 'pivotal-tracker'
+gem 'thor'
+gem 'rspec'

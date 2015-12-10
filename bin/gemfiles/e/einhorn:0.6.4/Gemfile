@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'pry'
+gem 'minitest'
+gem 'mocha'
+gem 'chalk-rake'
+gem 'subprocess'

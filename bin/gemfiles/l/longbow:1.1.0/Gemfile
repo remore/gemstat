@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'fileutils'
+gem 'commander'
+gem 'dotenv'
+gem 'rmagick'
+gem 'xcodeproj'
+gem 'json'
+gem 'rake'

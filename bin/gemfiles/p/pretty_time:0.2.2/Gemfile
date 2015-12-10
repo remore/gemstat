@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'activesupport'
+gem 'i18n'

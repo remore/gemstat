@@ -1,0 +1,5 @@
+gem 'faye'
+gem 'em-synchrony'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'thread_safe'

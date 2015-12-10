@@ -1,0 +1,8 @@
+gem 'bindata'
+gem 'rice'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rake-compiler'

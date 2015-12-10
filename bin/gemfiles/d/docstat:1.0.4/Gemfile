@@ -1,0 +1,4 @@
+gem 'bacon'
+gem 'prettybacon'
+gem 'rake'
+gem 'sqlite3'

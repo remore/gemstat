@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'nokogiri'
+gem 'webmock'
+gem 'rspec'
+gem 'yard'
+gem 'hoe-yard'
+gem 'newgem'
+gem 'hoe'

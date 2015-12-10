@@ -1,0 +1,6 @@
+gem 'twitter'
+gem 'bundler'
+gem 'rspec'
+gem 'mocha'
+gem 'database_cleaner'
+gem 'sqlite3'

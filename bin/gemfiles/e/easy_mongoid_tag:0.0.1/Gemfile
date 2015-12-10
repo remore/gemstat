@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'rspec'
+gem 'mongoid-rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'guard-spork'
+gem 'terminal-notifier-guard'

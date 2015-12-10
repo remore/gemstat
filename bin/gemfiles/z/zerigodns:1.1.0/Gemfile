@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'multi_xml'
+gem 'yard'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'pry'

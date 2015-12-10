@@ -1,0 +1,4 @@
+gem 'rspec-expectations'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

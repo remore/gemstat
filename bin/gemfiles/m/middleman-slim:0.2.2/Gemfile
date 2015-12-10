@@ -1,0 +1,4 @@
+gem 'slim'
+gem 'middleman'
+gem 'cucumber'
+gem 'aruba'

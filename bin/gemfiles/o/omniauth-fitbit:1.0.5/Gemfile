@@ -1,0 +1,2 @@
+gem 'omniauth-oauth'
+gem 'multi_xml'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'rspec-expectations'
+gem 'gli'
+gem 'thor'
+gem 'git'

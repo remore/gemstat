@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'feedjira'
+gem 'mustache'
+gem 'box'
+gem 'stringex'
+gem 'sanitize'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'minitest'
+gem 'simplecov'
+gem 'mocha'
+gem 'ci_reporter'
+gem 'highline'

@@ -1,0 +1,4 @@
+gem 'apartment'
+gem 'consistent_schema_rb'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'mocha'

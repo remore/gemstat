@@ -1,0 +1,5 @@
+gem 'CFPropertyList'
+gem 'ffi'
+gem 'rake'
+gem 'pry'
+gem 'debugger'

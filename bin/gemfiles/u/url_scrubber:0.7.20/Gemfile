@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'terminal-notifier-guard'
+gem 'rb-fsevent'

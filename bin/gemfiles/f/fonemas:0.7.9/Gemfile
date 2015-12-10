@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'unicode_utils'
+gem 'rest-client'
+gem 'mime-types'

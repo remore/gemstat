@@ -1,0 +1,7 @@
+gem 'skk-jisyo'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'guard-rspec'
+gem 'spring'

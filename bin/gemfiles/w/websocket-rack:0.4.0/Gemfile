@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'em-websocket'
+gem 'eventmachine'
+gem 'thin'
+gem 'rspec'
+gem 'mocha'

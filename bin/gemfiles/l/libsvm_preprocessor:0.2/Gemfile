@@ -1,0 +1,2 @@
+gem 'stopwords-filter'
+gem 'ruby-stemmer'

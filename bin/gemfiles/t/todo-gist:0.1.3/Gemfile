@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rake'
+gem 'riot'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

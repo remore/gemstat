@@ -1,0 +1,6 @@
+gem 'thoughtbot-shoulda'
+gem 'json'
+gem 'curb'
+gem 'facets'
+gem 'uuid'
+gem 'nokogiri'

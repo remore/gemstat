@@ -1,0 +1,8 @@
+gem 'oj'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'guard'
+gem 'guard-rspec'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'rack'
+gem 'markaby'
+gem 'camping'
+gem 'filtering_camping'

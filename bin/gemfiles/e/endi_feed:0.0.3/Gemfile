@@ -1,0 +1,8 @@
+gem 'link_shrink'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'
+gem 'simplecov-gem-adapter'
+gem 'coveralls'

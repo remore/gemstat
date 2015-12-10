@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'yo-api'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

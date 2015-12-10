@@ -1,0 +1,5 @@
+gem 'linguistics_latin'
+gem 'linguistics_latin_tense_block'
+gem 'latinverb_irregular_infinitives_retriever'
+gem 'bundler'
+gem 'rake'

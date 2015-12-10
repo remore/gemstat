@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'json'
+gem 'riak-client'

@@ -1,0 +1,7 @@
+gem 'paint'
+gem 'slop'
+gem 'bundler'
+gem 'rake'
+gem 'cucumber'
+gem 'rspec'
+gem 'aruba'

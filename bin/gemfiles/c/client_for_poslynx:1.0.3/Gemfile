@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'eventmachine'
+gem 'ruby-termios'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'hashie'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'tapp'
+gem 'sqlite3'
+gem 'delorean'

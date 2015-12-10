@@ -1,0 +1,4 @@
+gem 'faraday'
+gem 'capistrano'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'octokit'
+gem 'highline'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'

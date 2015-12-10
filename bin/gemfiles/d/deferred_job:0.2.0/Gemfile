@@ -1,0 +1,6 @@
+gem 'resque'
+gem 'rspec'
+gem 'activesupport'
+gem 'simplecov'
+gem 'sidekiq'
+gem 'multi_json'

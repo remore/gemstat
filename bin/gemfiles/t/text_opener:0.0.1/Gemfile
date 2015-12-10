@@ -1,0 +1,6 @@
+gem 'twilio-ruby'
+gem 'launchy'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

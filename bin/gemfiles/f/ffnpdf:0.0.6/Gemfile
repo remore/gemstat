@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'test_notifier'
+gem 'autotest'
+gem 'nokogiri'
+gem 'httparty'
+gem 'nokogiri'
+gem 'httparty'

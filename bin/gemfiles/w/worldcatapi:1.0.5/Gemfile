@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'marc'
+gem 'bundler'
+gem 'rake'

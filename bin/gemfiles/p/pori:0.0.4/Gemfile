@@ -1,0 +1,4 @@
+gem 'pit'
+gem 'rake'
+gem 'httparty'
+gem 'rspec'

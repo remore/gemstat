@@ -1,0 +1,6 @@
+gem 'docile'
+gem 'rubyzip'
+gem 'thor'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'multi_json'

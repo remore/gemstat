@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'
+gem 'rainbow'
+gem 'simpleidn'
+gem 'whois'

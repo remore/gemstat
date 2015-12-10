@@ -1,0 +1,5 @@
+gem 'rdoc'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'thoughtbot-shoulda'

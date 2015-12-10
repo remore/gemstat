@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'rails'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rspec_tag_matchers'
+gem 'rake'

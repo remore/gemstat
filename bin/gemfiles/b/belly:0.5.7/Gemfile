@@ -1,0 +1,4 @@
+gem 'trollop'
+gem 'rest-client'
+gem 'rspec'
+gem 'cucumber'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'hashids'
+gem 'sqlite3'
+gem 'rspec-rails'

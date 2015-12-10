@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'httmultiparty'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'awesome_print'

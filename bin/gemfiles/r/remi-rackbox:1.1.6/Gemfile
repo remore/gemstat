@@ -1,0 +1,2 @@
+gem 'remi-rails-rack-adapter'
+gem 'remi-simplecli'

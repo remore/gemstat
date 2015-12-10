@@ -1,0 +1,5 @@
+gem 'number_words'
+gem 'rspec'
+gem 'rspec_numbering_formatter'
+gem 'bundler'
+gem 'rake'

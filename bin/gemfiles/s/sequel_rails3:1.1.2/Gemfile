@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'sequel'
+gem 'rspec'
+gem 'rspec-rails'

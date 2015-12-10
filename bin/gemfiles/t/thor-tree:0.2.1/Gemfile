@@ -1,0 +1,6 @@
+gem 'path'
+gem 'safe_yaml'
+gem 'thor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

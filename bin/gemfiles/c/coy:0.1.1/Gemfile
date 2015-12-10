@@ -1,0 +1,8 @@
+gem 'ignorance'
+gem 'highline'
+gem 'main'
+gem 'rspec'
+gem 'fakefs'
+gem 'cucumber'
+gem 'aruba'
+gem 'rake'

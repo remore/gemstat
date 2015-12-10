@@ -1,0 +1,6 @@
+gem 'i18n_namespace'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'rdoc'

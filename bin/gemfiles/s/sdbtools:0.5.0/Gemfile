@@ -1,0 +1,5 @@
+gem 'aws'
+gem 'main'
+gem 'fattr'
+gem 'arrayfields'
+gem 'rspec'

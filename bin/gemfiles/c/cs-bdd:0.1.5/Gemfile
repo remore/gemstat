@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'i18n'
+gem 'gherkin'

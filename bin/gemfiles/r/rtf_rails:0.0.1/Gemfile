@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rtf'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rails'
+gem 'rtf'

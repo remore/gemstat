@@ -1,0 +1,7 @@
+gem 'hirb'
+gem 'unicode-display_width'
+gem 'bacon'
+gem 'mocha'
+gem 'mocha-on-bacon'
+gem 'bacon-bits'
+gem 'rake'

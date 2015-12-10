@@ -1,0 +1,7 @@
+gem 'resque'
+gem 'rake'
+gem 'minitest'
+gem 'json'
+gem 'yard'
+gem 'rdiscount'
+gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'rails-i18n'
+gem 'jquery-rails'
+gem 'haml-rails'
+gem 'friendly_id'
+gem 'yaml_seeder'
+gem 'jeweler'
+gem 'museum'

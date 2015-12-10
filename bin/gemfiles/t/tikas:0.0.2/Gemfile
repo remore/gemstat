@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'guard'
+gem 'rb-fsevent'
+gem 'rack-test'

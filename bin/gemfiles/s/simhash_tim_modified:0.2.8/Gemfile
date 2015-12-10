@@ -1,0 +1,5 @@
+gem 'rmmseg-cpp-huacnlee'
+gem 'tyccl'
+gem 'algorithms'
+gem 'unicode'
+gem 'activesupport'

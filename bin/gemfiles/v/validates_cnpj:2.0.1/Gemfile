@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'coveralls'
+gem 'activemodel'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'eventmachine-distributed-notification'
+gem 'rspec'
+gem 'rake'

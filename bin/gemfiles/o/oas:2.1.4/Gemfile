@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'nori'
+gem 'savon'
+gem 'rake'
+gem 'webmock'

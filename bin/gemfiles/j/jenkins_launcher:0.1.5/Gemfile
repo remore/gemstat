@@ -1,0 +1,8 @@
+gem 'jenkins_api_client'
+gem 'json'
+gem 'thor'
+gem 'bundler'
+gem 'jeweler'
+gem 'builder'
+gem 'simplecov'
+gem 'rspec'

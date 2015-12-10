@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'scalpel'
+gem 'stopwords-filter'

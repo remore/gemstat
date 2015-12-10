@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'less'
+gem 'therubyracer'
+gem 'railties'
+gem 'actionpack'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'cane'
+gem 'rake'
+gem 'rspec'
+gem 'spork'

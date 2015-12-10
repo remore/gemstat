@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'syntax'
+gem 'cucumber'
+gem 'rspec'
+gem 'aruba'
+gem 'cucumber'

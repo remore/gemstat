@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'paint'
+gem 'nokogiri'
+gem 'rest-client'

@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'nokogiri'
+gem 'ruby-progressbar'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

@@ -1,0 +1,6 @@
+gem 'benchmark-ips'
+gem 'rexical'
+gem 'racc'
+gem 'test-unit'
+gem 'rake'
+gem 'ruby-prof'

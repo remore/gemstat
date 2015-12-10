@@ -1,0 +1,6 @@
+gem 'fast_stack'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'guard'
+gem 'guard-minitest'

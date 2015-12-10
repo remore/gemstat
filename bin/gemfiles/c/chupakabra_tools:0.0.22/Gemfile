@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'active_enum'
+gem 'russian'
+gem 'nokogiri'
+gem 'will_paginate'

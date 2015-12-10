@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'i18n'
+gem 'prowler'
+gem 'feedzirra'
+gem 'clamp'

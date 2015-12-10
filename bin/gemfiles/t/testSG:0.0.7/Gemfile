@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'mongo'
+gem 'bson'
+gem 'bson_ext'

@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'imba-template'
+gem 'imba-source'
+gem 'bundler'
+gem 'rake'

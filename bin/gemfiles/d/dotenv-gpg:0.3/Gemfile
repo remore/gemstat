@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'gpgme'
+gem 'pry'
+gem 'pry-stack_explorer'

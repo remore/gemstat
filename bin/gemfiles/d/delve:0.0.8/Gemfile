@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'perlin_noise'

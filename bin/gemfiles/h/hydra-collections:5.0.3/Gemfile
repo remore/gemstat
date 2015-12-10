@@ -1,0 +1,5 @@
+gem 'hydra-head'
+gem 'deprecation'
+gem 'blacklight'
+gem 'engine_cart'
+gem 'rspec-rails'

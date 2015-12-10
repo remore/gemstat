@@ -1,0 +1,5 @@
+gem 'bosh_cli'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-fire'

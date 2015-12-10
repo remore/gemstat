@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'rdoc'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,6 @@
+gem 'omniauth-shibboleth'
+gem 'omniauth'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'activesupport'

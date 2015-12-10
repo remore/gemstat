@@ -1,0 +1,6 @@
+gem 'text-interpolator'
+gem 'script_executor'
+gem 'thor'
+gem 'json_pure'
+gem 'gemspec_deps_gen'
+gem 'gemcutter'

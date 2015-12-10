@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'pry'
+gem 'rake'
+gem 'codeclimate-test-reporter'

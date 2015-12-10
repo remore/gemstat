@@ -1,0 +1,4 @@
+gem 'stackprofx'
+gem 'rack'
+gem 'bundler'
+gem 'rake'

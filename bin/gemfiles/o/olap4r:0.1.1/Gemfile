@@ -1,0 +1,7 @@
+gem 'jruby-openssl'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'olap4r-mondrian'
+gem 'olap4r-xmla'

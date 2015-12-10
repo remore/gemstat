@@ -1,0 +1,4 @@
+gem 'net-ssh-multi'
+gem 'getopt'
+gem 'json'
+gem 'highline'

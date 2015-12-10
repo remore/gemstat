@@ -1,0 +1,6 @@
+gem 'brdinheiro'
+gem 'brdata'
+gem 'savon'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

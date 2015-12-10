@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'mysql2'
+gem 'celluloid'
+gem 'thin'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'omniauth'
+gem 'omniauth-oauth2'

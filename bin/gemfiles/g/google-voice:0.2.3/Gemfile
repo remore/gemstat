@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'curb'
+gem 'nokogiri'
+gem 'json'

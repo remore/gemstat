@@ -1,0 +1,5 @@
+gem 'mongo_mapper'
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'
+gem 'bson_ext'

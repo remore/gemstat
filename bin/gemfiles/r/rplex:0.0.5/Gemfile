@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'rest-client'
+gem 'rdoc'
+gem 'hoe'

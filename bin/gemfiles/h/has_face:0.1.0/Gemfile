@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rest-client'
+gem 'rspec'
+gem 'sqlite3'
+gem 'rr'
+gem 'vcr'
+gem 'fakeweb'

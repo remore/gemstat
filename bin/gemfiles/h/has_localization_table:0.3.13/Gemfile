@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'minitest'
+gem 'sqlite3'
+gem 'rake'

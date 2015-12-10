@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'gem_config'
+gem 'sqlite3'
+gem 'gitlab-grit'
+gem 'coffee-script'
+gem 'jquery-rails'
+gem 'diff_to_html'
+gem 'pygments.rb'

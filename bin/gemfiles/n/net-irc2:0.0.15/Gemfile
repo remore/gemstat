@@ -1,0 +1,5 @@
+gem 'buftok'
+gem 'shipit'
+gem 'rspec'
+gem 'rdoc'
+gem 'thor'

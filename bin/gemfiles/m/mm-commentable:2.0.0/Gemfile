@@ -1,0 +1,6 @@
+gem 'mongo_mapper'
+gem 'i18n'
+gem 'byebug'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'

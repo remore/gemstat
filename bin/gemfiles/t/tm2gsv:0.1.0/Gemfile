@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'json'
+gem 'plist'
+gem 'ox'
+gem 'color'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

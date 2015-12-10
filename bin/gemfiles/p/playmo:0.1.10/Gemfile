@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'ruby_events'
+gem 'haml2slim'
+gem 'haml'
+gem 'rspec-rails'

@@ -1,0 +1,6 @@
+gem 'base64url'
+gem 'jwt'
+gem 'json-jwt'
+gem 'httparty'
+gem 'httmultiparty'
+gem 'colorize'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'httparty'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'builder'

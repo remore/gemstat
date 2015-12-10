@@ -1,0 +1,7 @@
+gem 'mail'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-fire'
+gem 'simplecov'
+gem 'simplecov-vim'

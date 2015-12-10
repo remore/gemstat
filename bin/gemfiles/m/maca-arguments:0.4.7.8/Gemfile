@@ -1,0 +1,5 @@
+gem 'ParseTree'
+gem 'ruby2ruby'
+gem 'newgem'
+gem 'rspec'
+gem 'hoe'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-its'
+gem 'contracts'
+gem 'jwt'
+gem 'rest-client'

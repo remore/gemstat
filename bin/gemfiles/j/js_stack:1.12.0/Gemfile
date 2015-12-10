@@ -1,0 +1,4 @@
+gem 'haml_coffee_assets'
+gem 'js-routes'
+gem 'bundler'
+gem 'rake'

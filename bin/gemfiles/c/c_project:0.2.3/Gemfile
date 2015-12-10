@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'pbs_job'
+gem 'bundler'
+gem 'rake'

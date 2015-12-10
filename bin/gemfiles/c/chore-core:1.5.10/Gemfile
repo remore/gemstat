@@ -1,0 +1,6 @@
+gem 'json'
+gem 'aws-sdk'
+gem 'thread'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'

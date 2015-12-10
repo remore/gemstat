@@ -1,0 +1,6 @@
+gem 'couchrest'
+gem 'mime-types'
+gem 'activemodel'
+gem 'tzinfo'
+gem 'railties'
+gem 'rspec'

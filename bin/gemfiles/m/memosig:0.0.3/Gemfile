@@ -1,0 +1,7 @@
+gem 'gem_hadar'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'byebug'
+gem 'tins'
+gem 'complex_config'

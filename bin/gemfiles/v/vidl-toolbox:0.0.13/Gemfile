@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'actionpack'
+gem 'gettext'
+gem 'mislav-will_paginate'
+gem 'calendar_date_select'
+gem 'fastercsv'

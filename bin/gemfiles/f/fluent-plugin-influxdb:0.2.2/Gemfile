@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'influxdb'
+gem 'rake'
+gem 'pry'
+gem 'test-unit'

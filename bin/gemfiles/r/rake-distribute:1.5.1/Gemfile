@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'tilt'
+gem 'diffy'
+gem 'rdoc'
+gem 'hoe'
+gem 'hoe-gemspec'
+gem 'hoe-git'
+gem 'hoe-version'

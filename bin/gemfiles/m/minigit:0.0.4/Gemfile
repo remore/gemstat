@@ -1,0 +1,5 @@
+gem 'wrong'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'simplecov'

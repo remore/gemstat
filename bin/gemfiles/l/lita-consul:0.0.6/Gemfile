@@ -1,0 +1,8 @@
+gem 'lita'
+gem 'bundler'
+gem 'pry-byebug'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'

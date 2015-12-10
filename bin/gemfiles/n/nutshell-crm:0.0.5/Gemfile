@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'json'
+gem 'httparty'
+gem 'rspec'
+gem 'json'
+gem 'httparty'

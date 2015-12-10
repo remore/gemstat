@@ -1,0 +1,8 @@
+gem 'ruby-wmctrl'
+gem 'rspec'
+gem 'pry'
+gem 'libnotify'
+gem 'guard-rspec'
+gem 'simplecov'
+gem 'fuubar'
+gem 'rb-inotify'

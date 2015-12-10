@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'ruby-maven'
+gem 'shoulda'
+gem 'rr'
+gem 'activesupport'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'rdf'
+gem 'net-http-persistent'
+gem 'sparql'
+gem 'rdf-spec'
+gem 'rspec'
+gem 'rspec-its'
+gem 'webmock'
+gem 'yard'

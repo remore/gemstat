@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'orm_adapter'
+gem 'couchrest_model'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

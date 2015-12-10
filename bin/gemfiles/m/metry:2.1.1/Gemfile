@@ -1,0 +1,4 @@
+gem 'mongomapper'
+gem 'mongodb-mongo'
+gem 'mongodb-mongo_ext'
+gem 'hoe'

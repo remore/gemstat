@@ -1,0 +1,8 @@
+gem 'slop'
+gem 'colorize'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'lando'

@@ -1,0 +1,2 @@
+gem 'twitter-text'
+gem 'named_emoji'

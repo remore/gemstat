@@ -1,0 +1,5 @@
+gem 'semantic_logger'
+gem 'resilient_socket'
+gem 'sync_attr'
+gem 'bson'
+gem 'thread_safe'

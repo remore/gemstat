@@ -1,0 +1,5 @@
+gem 'omniauth'
+gem 'overlord'
+gem 'muck-engine'
+gem 'muck-users'
+gem 'babelphish'

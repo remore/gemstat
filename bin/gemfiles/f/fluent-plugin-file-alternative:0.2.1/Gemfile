@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'fluent-mixin-plaintextformatter'
+gem 'rake'
+gem 'test-unit'

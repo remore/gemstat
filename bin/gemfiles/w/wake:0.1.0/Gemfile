@@ -1,0 +1,5 @@
+gem 'mocha'
+gem 'jeremymcanally-matchy'
+gem 'jeremymcanally-pending'
+gem 'mynyml-every'
+gem 'mynyml-redgreen'

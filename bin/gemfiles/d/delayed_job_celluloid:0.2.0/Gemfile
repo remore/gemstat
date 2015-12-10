@@ -1,0 +1,8 @@
+gem 'delayed_job'
+gem 'celluloid'
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'delayed_job_active_record'
+gem 'rails'
+gem 'minitest'

@@ -1,0 +1,7 @@
+gem 'mixlib-cli'
+gem 'rest-client'
+gem 'json'
+gem 'rdoc'
+gem 'fakeweb'
+gem 'rspec'
+gem 'jeweler'

@@ -1,0 +1,6 @@
+gem 'Shell_Helpers'
+gem 'bacon'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'Gem_Raker_da99'

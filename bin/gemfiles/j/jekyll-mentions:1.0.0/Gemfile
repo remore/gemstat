@@ -1,0 +1,6 @@
+gem 'jekyll'
+gem 'html-pipeline'
+gem 'rake'
+gem 'rdoc'
+gem 'shoulda'
+gem 'minitest'

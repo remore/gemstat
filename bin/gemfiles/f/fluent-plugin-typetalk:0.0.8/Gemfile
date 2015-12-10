@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rr'
+gem 'mime-types'
+gem 'fluentd'
+gem 'typetalk'

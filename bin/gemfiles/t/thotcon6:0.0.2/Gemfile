@@ -1,0 +1,4 @@
+gem 'dep1'
+gem 'dep2'
+gem 'bundler'
+gem 'rake'

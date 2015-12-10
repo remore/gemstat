@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'coderay'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

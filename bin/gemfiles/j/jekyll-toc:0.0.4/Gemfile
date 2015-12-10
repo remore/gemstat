@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'minitest'
+gem 'jekyll'
+gem 'rake'

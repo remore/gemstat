@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'shoulda-context'
+gem 'mocha'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'faraday'
+gem 'sinatra-twitter-bootstrap'

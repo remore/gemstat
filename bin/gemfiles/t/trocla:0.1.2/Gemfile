@@ -1,0 +1,7 @@
+gem 'moneta'
+gem 'highline'
+gem 'bcrypt'
+gem 'mocha'
+gem 'rspec'
+gem 'rdoc'
+gem 'jeweler'

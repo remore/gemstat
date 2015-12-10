@@ -1,0 +1,7 @@
+gem 'opal'
+gem 'opal-virtual-dom'
+gem 'slim'
+gem 'sass'
+gem 'thor'
+gem 'rack-rewrite'
+gem 'rake'

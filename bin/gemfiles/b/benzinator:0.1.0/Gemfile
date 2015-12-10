@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'pry'
+gem 'webmock'
+gem 'faraday'
+gem 'json'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'redis'
+gem 'less-rails-bootstrap'
+gem 'jquery-ui-rails'
+gem 'therubyracer'
+gem 'sqlite3'

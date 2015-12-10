@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'bluecloth'
+gem 'test-unit'

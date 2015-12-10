@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'nokogiri'
+gem 'hirb'
+gem 'mechanize'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'highline'
+gem 'aws-sdk'
+gem 'rspec'

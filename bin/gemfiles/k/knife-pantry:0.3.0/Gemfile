@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'json'
+gem 'ffi-yajl'
+gem 'bundler'
+gem 'rake'

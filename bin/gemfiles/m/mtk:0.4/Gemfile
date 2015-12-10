@@ -1,0 +1,4 @@
+gem 'citrus'
+gem 'midilib'
+gem 'gamelan'
+gem 'unimidi'

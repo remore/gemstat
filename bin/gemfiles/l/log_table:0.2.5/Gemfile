@@ -1,0 +1,6 @@
+gem 'hairtrigger'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'm'
+gem 'sqlite3'

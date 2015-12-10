@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'pry'
+gem 'cane'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

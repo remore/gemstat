@@ -1,0 +1,5 @@
+gem 'ruby-trello'
+gem 'taskmapper'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'

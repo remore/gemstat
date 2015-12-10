@@ -1,0 +1,4 @@
+gem 'twitter'
+gem 'faraday'
+gem 'nokogiri'
+gem 'rspec'

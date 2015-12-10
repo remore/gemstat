@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'chef'
+gem 'bundler'
+gem 'rake'

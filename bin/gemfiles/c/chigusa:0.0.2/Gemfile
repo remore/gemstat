@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'i18n'
+gem 'maruku'
+gem 'rake'
+gem 'jeweler'

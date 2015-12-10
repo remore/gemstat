@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'thor'
+gem 'cucumber'
+gem 'mocha'
+gem 'fakefs'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'equatable'
+gem 'necromancer'
+gem 'pastel'
+gem 'tty-screen'
+gem 'verse'
+gem 'unicode_utils'
+gem 'bundler'

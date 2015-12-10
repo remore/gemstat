@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'json_pure'
+gem 'rake'
+gem 'minitest'
+gem 'fakeweb'

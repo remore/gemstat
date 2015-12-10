@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'elibri_onix_mocks'
+gem 'elibri_api_client'
+gem 'elibri_onix_dict'

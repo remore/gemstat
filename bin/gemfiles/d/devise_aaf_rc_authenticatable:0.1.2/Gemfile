@@ -1,0 +1,8 @@
+gem 'json-jwt'
+gem 'json'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'builder'
+gem 'devise'

@@ -1,0 +1,8 @@
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec'
+gem 'gisele-language'
+gem 'alf'
+gem 'stamina-core'
+gem 'sequel'
+gem 'eventmachine'

@@ -1,0 +1,6 @@
+gem 'msfl'
+gem 'rake'
+gem 'simplecov'
+gem 'yard'
+gem 'rspec'
+gem 'byebug'

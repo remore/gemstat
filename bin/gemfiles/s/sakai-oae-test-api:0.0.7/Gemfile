@@ -1,0 +1,4 @@
+gem 'page-object'
+gem 'watir-webdriver'
+gem 'selenium-webdriver'
+gem 'kuali-sakai-common-lib'

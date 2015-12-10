@@ -1,0 +1,7 @@
+gem 'resque-integration'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'timecop'

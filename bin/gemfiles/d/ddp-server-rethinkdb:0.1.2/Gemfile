@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'ddp-server'
+gem 'rethinkdb'
+gem 'connection_pool'

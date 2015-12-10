@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'activesupport'
+gem 'i18n'
+gem 'yajl-ruby'
+gem 'bundler'
+gem 'shindo'
+gem 'rspec'
+gem 'rr'

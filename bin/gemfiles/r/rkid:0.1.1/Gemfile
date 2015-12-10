@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rcov'
+gem 'activerecord'
+gem 'hoe'

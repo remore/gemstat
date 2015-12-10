@@ -1,0 +1,6 @@
+gem 'rack-contrib'
+gem 'tilt'
+gem 'slim'
+gem 'actionpack'
+gem 'bundler'
+gem 'rake'

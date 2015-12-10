@@ -1,0 +1,7 @@
+gem 'ruby-vips'
+gem 'carrierwave'
+gem 'rmagick'
+gem 'rspec'
+gem 'dm-core'
+gem 'dm-sqlite-adapter'
+gem 'dm-migrations'

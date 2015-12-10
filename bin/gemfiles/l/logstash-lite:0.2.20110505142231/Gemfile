@@ -1,0 +1,4 @@
+gem 'eventmachine-tail'
+gem 'json'
+gem 'amqp'
+gem 'uuidtools'

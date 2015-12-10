@@ -1,0 +1,5 @@
+gem 'tinder'
+gem 'growl'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

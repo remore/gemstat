@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'jwt'
+gem 'bundler'
+gem 'rails'
+gem 'rake'
+gem 'active_model_serializers'

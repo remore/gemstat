@@ -1,0 +1,6 @@
+gem 'nagiosplugin'
+gem 'rake'
+gem 'cucumber'
+gem 'aruba'
+gem 'aruba-doubles'
+gem 'guard-cucumber'

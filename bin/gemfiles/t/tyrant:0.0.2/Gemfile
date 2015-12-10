@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'activemodel'
+gem 'trailblazer'
+gem 'reform'
+gem 'disposable'
+gem 'bcrypt'

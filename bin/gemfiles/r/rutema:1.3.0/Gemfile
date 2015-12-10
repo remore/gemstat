@@ -1,0 +1,5 @@
+gem 'patir'
+gem 'highline'
+gem 'mailfactory'
+gem 'rdoc'
+gem 'hoe'

@@ -1,0 +1,6 @@
+gem 'map'
+gem 'rack'
+gem 'sinatra'
+gem 'json'
+gem 'chronic'
+gem 'chronic_duration'

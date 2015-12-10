@@ -1,0 +1,4 @@
+gem 'typhoeus'
+gem 'ruby-progressbar'
+gem 'bundler'
+gem 'rake'

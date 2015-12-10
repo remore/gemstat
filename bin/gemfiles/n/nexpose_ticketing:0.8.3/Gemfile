@@ -1,0 +1,5 @@
+gem 'nexpose'
+gem 'savon'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rspec-mocks'

@@ -1,0 +1,7 @@
+gem 'handlebars_assets'
+gem 'sinatra'
+gem 'haml'
+gem 'sprockets'
+gem 'thor'
+gem 'bundler'
+gem 'rspec'

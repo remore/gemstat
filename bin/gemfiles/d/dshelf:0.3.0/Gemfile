@@ -1,0 +1,3 @@
+gem 'rest-client-next-dshelf'
+gem 'json'
+gem 'mime-types'

@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'recursive-open-struct'
+gem 'bundler'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'rspec'
+gem 'rspec-mocks'

@@ -1,0 +1,7 @@
+gem 'libusb'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'yard'
+gem 'redcarpet'

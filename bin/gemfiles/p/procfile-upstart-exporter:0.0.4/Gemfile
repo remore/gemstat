@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'values'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-nav'
+gem 'coveralls'

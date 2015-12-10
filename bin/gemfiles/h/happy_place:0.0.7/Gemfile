@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'rspec'
+gem 'yard'
+gem 'sqlite3'

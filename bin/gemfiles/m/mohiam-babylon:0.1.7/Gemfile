@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'log4r'
+gem 'nokogiri'
+gem 'eventmachine'
+gem 'julien51-sax-machine'
+gem 'templater'
+gem 'daemons'

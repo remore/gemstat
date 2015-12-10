@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'turn'
+gem 'colorize'
+gem 'watir-webdriver'
+gem 'eventmachine'

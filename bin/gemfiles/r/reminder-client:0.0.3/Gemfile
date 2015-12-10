@@ -1,0 +1,2 @@
+gem 'zk'
+gem 'yajl-ruby'

@@ -1,0 +1,4 @@
+gem 'boxen'
+gem 'puppet-lint'
+gem 'puppetlabs_spec_helper'
+gem 'rspec-puppet'

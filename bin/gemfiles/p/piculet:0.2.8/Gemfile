@@ -1,0 +1,6 @@
+gem 'aws-sdk-v1'
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-instafail'

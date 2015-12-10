@@ -1,0 +1,8 @@
+gem 'mechanize'
+gem 'bundler'
+gem 'rake'
+gem 'webmock'
+gem 'pry'
+gem 'byebug'
+gem 'pry-byebug'
+gem 'minitest'

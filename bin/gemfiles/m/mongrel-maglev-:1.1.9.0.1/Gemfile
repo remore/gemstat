@@ -1,0 +1,5 @@
+gem 'gem_plugin'
+gem 'daemons'
+gem 'rake-compiler'
+gem 'rdoc'
+gem 'hoe'

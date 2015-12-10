@@ -1,0 +1,6 @@
+gem 'carrierwave'
+gem 'image_optimizer'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'coveralls'

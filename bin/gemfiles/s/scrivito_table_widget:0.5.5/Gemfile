@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'scrivito'
+gem 'font-awesome-rails'
+gem 'rake'

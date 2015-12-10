@@ -1,0 +1,7 @@
+gem 'zonebie'
+gem 'wikipedia-client'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'

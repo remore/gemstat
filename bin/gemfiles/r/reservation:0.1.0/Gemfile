@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'activerecord'
+gem 'icalendar'
+gem 'rspec'
+gem 'sqlite3'
+gem 'rspec_numbering_formatter'

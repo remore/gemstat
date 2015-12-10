@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'rspec'
+gem 'fakefs'
+gem 'rake'
+gem 'pry'

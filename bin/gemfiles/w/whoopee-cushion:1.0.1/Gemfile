@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'byebug'
+gem 'recursive-open-struct'

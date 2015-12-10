@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'serverspec'
+gem 'rundock'
+gem 'itamae'

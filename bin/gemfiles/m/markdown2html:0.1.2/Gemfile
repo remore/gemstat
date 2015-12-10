@@ -1,0 +1,4 @@
+gem 'html-pipeline'
+gem 'github-markdown'
+gem 'minitest'
+gem 'rake'

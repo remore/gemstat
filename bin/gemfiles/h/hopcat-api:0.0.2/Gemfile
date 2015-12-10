@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'travis-lint'
+gem 'nokogiri'
+gem 'sinatra'

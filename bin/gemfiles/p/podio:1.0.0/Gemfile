@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'activesupport'
+gem 'activemodel'
+gem 'multi_json'
+gem 'rake'
+gem 'yard'

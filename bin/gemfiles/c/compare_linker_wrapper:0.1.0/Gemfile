@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'git'
+gem 'bundler'
+gem 'octokit'
+gem 'compare_linker'
+gem 'rake'
+gem 'test-unit'

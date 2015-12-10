@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'test-spec'
+gem 'tmail'
+gem 'json'

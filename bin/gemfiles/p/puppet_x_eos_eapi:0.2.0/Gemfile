@@ -1,0 +1,8 @@
+gem 'net_http_unix'
+gem 'bundler'
+gem 'yard'
+gem 'redcarpet'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'simplecov'

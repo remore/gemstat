@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'activesupport'
+gem 'guard-test'
+gem 'shoulda'
+gem 'mocha'
+gem 'bundler'

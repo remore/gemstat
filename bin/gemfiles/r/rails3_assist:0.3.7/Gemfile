@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rails-app-spec'
+gem 'require_all'
+gem 'sugar-high'
+gem 'activesupport'
+gem 'migration_assist'
+gem 'thor'

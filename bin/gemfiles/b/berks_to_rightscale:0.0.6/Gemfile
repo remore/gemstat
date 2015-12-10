@@ -1,0 +1,4 @@
+gem 'berkshelf'
+gem 'chef'
+gem 'thor'
+gem 'fog'

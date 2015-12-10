@@ -1,0 +1,4 @@
+gem 'opn'
+gem 'colour_aid'
+gem 'create_ruby_directory_layout'
+gem 'rds'

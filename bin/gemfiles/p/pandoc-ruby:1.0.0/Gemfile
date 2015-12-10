@@ -1,0 +1,5 @@
+gem 'mocha'
+gem 'rake'
+gem 'rdoc'
+gem 'shoulda'
+gem 'test-unit'

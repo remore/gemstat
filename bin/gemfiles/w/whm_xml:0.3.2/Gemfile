@@ -1,0 +1,4 @@
+gem 'xml-simple'
+gem 'activesupport'
+gem 'curb'
+gem 'validatable'

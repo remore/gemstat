@@ -1,0 +1,4 @@
+gem 'iced-coffee-script'
+gem 'rails'
+gem 'rspec-rails'
+gem 'sqlite3'

@@ -1,0 +1,5 @@
+gem 'rdoc'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

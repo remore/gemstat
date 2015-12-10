@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'liquid'
+gem 'rdiscount'
+gem 'hashie'
+gem 'thin'
+gem 'jekyll'

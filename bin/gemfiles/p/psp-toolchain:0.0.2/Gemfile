@@ -1,0 +1,7 @@
+gem 'version'
+gem 'cocaine'
+gem 'slop'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'fuubar'

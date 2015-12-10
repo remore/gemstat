@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'rubyzip'
+gem 'rgeo-shapefile'

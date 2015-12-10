@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'rserve-client'
+gem 'mongoid'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'omniauth'
+gem 'omniauth-github'
+gem 'octokit'
+gem 'sqlite3'

@@ -1,0 +1,2 @@
+gem 'ruby-mp3info'
+gem 'thoughtbot-shoulda'

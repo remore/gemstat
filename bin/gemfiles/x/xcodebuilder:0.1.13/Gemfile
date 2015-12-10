@@ -1,0 +1,6 @@
+gem 'CFPropertyList'
+gem 'uuid'
+gem 'rest-client'
+gem 'json'
+gem 'cocoapods'
+gem 'xcpretty'

@@ -1,0 +1,7 @@
+gem 'addressable'
+gem 'httpauth'
+gem 'options'
+gem 'thin'
+gem 'yard'
+gem 'sinatra'
+gem 'rspec'

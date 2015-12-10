@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubygems-update'
+gem 'json'
+gem 'kwalify'
+gem 'xml-simple'

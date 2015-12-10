@@ -1,0 +1,5 @@
+gem 'stream'
+gem 'algorithms'
+gem 'rake'
+gem 'yard'
+gem 'test-unit'

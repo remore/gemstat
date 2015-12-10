@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mysql2'
+gem 'haml'
+gem 'active_link_to'
+gem 'rakismet'
+gem 'jeweler'

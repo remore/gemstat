@@ -1,0 +1,4 @@
+gem 'merb-core'
+gem 'ruby2ruby'
+gem 'ParseTree'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'state_machine'
+gem 'nokogiri'
+gem 'httparty'
+gem 'sqlite3'

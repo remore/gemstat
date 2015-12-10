@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'RubyInline'
+gem 'minitest'
+gem 'coveralls'

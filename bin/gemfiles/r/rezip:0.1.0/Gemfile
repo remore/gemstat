@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'rubyzip'
+gem 'bundler'
+gem 'rake'
+gem 'aruba'

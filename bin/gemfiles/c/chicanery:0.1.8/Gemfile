@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'colorize'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-gem-adapter'
+gem 'vcr'
+gem 'webmock'

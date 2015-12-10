@@ -1,0 +1,7 @@
+gem 'protobuf'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'rubyzip'
+gem 'yard'

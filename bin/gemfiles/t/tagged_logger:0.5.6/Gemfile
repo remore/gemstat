@@ -1,0 +1,4 @@
+gem 'hashery'
+gem 'shoulda'
+gem 'rr'
+gem 'rails'

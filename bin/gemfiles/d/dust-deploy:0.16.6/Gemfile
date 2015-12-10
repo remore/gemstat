@@ -1,0 +1,7 @@
+gem 'json'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'net-sftp'
+gem 'thor'
+gem 'ipaddress'
+gem 'colorize'

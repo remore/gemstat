@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'simple_xlsx_reader'
+gem 'google_drive'
+gem 'bundler'
+gem 'rake'

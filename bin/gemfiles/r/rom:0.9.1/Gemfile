@@ -1,0 +1,6 @@
+gem 'transproc'
+gem 'equalizer'
+gem 'rom-support'
+gem 'rom-mapper'
+gem 'rake'
+gem 'rspec'

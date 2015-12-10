@@ -1,0 +1,7 @@
+gem 'json'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'rake'
+gem 'rspec'
+gem 'rubyzip'
+gem 'pry-byebug'

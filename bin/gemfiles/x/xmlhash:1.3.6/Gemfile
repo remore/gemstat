@@ -1,0 +1,4 @@
+gem 'pkg-config'
+gem 'rdoc'
+gem 'rake-compiler'
+gem 'hoe'

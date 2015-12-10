@@ -1,0 +1,5 @@
+gem 'builder'
+gem 'json'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'

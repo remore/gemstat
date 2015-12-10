@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'byebug'
+gem 'rack-test'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

@@ -1,0 +1,7 @@
+gem 'RedCloth'
+gem 'redcloth-formatters-ast'
+gem 'colorize'
+gem 'prawn'
+gem 'coderay'
+gem 'spreadsheet'
+gem 'json'

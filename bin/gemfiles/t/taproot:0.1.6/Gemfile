@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'braintree'
+gem 'pry'
+gem 'activesupport'
+gem 'term-ansicolor'
+gem 'awesome_print'
+gem 'sinatra-contrib'

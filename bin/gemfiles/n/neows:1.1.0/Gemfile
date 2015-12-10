@@ -1,0 +1,4 @@
+gem 'http'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'

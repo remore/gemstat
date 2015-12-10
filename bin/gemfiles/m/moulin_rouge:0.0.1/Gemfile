@@ -1,0 +1,6 @@
+gem 'cancan'
+gem 'rails'
+gem 'rdoc'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'simplecov'

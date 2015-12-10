@@ -1,0 +1,6 @@
+gem 'rmagick'
+gem 'rspec'
+gem 'capybara'
+gem 'rake'
+gem 'rspec-instafail'
+gem 'pry'

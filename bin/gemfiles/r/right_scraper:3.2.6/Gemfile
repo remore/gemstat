@@ -1,0 +1,8 @@
+gem 'json'
+gem 'blackwinter-git'
+gem 'right_aws'
+gem 'right_popen'
+gem 'right_support'
+gem 'rspec'
+gem 'flexmock'
+gem 'rtags'

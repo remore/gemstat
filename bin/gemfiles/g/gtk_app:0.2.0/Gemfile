@@ -1,0 +1,5 @@
+gem 'pkg-config'
+gem 'gtk2'
+gem 'activemodel'
+gem 'ffi-aspell'
+gem 'yard'

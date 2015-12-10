@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'addressable'
+gem 'thor'
+gem 'multi_json'
+gem 'dotenv'
+gem 'bundler'
+gem 'rubocop'
+gem 'rake'

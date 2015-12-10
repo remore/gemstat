@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'oauth2'
+gem 'shoulda'
+gem 'jeweler'
+gem 'rcov'
+gem 'mocha'
+gem 'fakeweb'

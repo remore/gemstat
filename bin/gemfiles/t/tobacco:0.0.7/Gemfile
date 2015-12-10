@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'pry'
+gem 'vcr'
+gem 'fakeweb'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'unzipMe'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

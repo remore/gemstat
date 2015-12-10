@@ -1,0 +1,7 @@
+gem 'actionpack'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'wwtd'
+gem 'countries'
+gem 'sort_alphabetical'

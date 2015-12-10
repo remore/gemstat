@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'ruby-try'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'bundler'

@@ -1,0 +1,6 @@
+gem 'em-websocket'
+gem 'em-hiredis'
+gem 'redis'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

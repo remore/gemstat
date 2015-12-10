@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'execjs'
+gem 'bundler'
+gem 'rake'

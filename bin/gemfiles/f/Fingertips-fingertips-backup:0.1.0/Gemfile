@@ -1,0 +1,2 @@
+gem 'Fingertips-executioner'
+gem 'aws-s3'

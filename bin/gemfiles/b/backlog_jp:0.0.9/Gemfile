@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'pry'
+gem 'pry-coolline'
+gem 'awesome_print'

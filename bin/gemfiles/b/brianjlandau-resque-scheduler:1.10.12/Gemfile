@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'resque'
+gem 'rufus-scheduler'
+gem 'jeweler'
+gem 'mocha'
+gem 'rack-test'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'cancan'
+gem 'carrierwave'
+gem 'activesupport'

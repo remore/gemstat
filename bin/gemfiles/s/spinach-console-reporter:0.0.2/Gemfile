@@ -1,0 +1,8 @@
+gem 'spinach'
+gem 'rspec'
+gem 'rake'
+gem 'guard-spork'
+gem 'guard-rspec'
+gem 'cane'
+gem 'simplecov'
+gem 'growl-rspec'

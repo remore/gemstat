@@ -1,0 +1,7 @@
+gem 'json'
+gem 'cool.io'
+gem 'droonga-client'
+gem 'bundler'
+gem 'rake'
+gem 'packnga'
+gem 'kramdown'

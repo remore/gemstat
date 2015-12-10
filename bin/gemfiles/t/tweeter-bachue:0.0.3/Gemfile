@@ -1,0 +1,8 @@
+gem 'twitter'
+gem 'activesupport'
+gem 'rake'
+gem 'net-ssh'
+gem 'pry'
+gem 'pry-doc'
+gem 'pry-nav'
+gem 'pry-stack_explorer'

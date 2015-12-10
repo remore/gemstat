@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'htmlentities'
+gem 'thor'
+gem 'em-websocket'
+gem 'coderay'

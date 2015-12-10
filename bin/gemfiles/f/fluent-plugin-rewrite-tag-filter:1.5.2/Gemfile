@@ -1,0 +1,4 @@
+gem 'test-unit'
+gem 'rake'
+gem 'fluentd'
+gem 'string-scrub'

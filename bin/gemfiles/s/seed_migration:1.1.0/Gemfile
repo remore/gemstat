@@ -1,0 +1,6 @@
+gem 'sqlite3'
+gem 'pg'
+gem 'pry'
+gem 'rspec-rails'
+gem 'rspec-mocks'
+gem 'test-unit'

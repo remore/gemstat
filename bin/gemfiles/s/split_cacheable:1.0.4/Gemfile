@@ -1,0 +1,6 @@
+gem 'split'
+gem 'activesupport'
+gem 'rspec'
+gem 'pry'
+gem 'pry-byebug'
+gem 'mock_redis'

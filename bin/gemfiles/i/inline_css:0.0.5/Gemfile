@@ -1,0 +1,2 @@
+gem 'premailer'
+gem 'rake'

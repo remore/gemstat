@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'dotenv'
+gem 'mongoid'
+gem 'carrierwave-mongoid'
+gem 'aws-sdk'
+gem 'jbuilder'

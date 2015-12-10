@@ -1,0 +1,4 @@
+gem 'digital_ocean'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'rspec'

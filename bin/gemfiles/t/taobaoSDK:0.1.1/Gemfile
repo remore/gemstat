@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'xml-mapping'
+gem 'rest-client'
+gem 'json'

@@ -1,0 +1,5 @@
+gem 'devise'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'

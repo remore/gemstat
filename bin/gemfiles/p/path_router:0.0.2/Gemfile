@@ -1,0 +1,2 @@
+gem 'proxymachine'
+gem 'rspec'

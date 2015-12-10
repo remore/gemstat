@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'bson'
+gem 'bson_ext'
+gem 'fastimage'
+gem 'aws-sdk'

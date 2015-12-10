@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'launchy'
+gem 'bundler'
+gem 'rake'

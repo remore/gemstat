@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'devise'
+gem 'koala'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'jeweler'
+gem 'rspec'

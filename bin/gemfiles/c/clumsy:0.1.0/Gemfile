@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'http'
+gem 'hashie'
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

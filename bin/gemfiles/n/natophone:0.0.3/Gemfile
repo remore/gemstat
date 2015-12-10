@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rb-fsevent'
+gem 'guard-rspec'
+gem 'coveralls'

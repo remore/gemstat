@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'activesupport'
+gem 'iso8601'
+gem 'nokogiri'

@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'rspec'
+gem 'jeweler'
+gem 'simplecov'

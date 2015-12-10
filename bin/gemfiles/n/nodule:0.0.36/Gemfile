@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'ffi-rzmq'
+gem 'cassandra'
+gem 'rainbow'

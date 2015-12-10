@@ -1,0 +1,6 @@
+gem 'pnm'
+gem 'trollop'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

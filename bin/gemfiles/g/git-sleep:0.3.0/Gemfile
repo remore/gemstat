@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'netrc'
+gem 'rubocop'
+gem 'rspec'
+gem 'pry'
+gem 'codeclimate-test-reporter'

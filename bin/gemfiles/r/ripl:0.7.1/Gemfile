@@ -1,0 +1,5 @@
+gem 'bond'
+gem 'bacon'
+gem 'rr'
+gem 'bacon-bits'
+gem 'bacon-rr'

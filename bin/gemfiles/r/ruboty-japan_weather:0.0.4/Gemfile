@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'weather_jp'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

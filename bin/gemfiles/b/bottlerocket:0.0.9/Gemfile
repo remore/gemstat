@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'sinatra'
+gem 'mongo'
+gem 'sinatra_more'
+gem 'haml'

@@ -1,0 +1,5 @@
+gem 'sfplanner'
+gem 'sfpagent'
+gem 'colorize'
+gem 'coderay'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'ruby-debug'
+gem 'rspec'
+gem 'ZenTest'

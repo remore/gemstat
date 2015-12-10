@@ -1,0 +1,5 @@
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

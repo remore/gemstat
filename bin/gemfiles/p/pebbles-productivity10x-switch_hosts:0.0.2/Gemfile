@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'thor'
+gem 'guard'
+gem 'guard-rspec'
+gem 'ruby_gntp'

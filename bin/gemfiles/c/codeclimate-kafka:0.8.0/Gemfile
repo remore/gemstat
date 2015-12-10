@@ -1,0 +1,4 @@
+gem 'bson'
+gem 'bson_ext'
+gem 'codeclimate-poseidon'
+gem 'rake'

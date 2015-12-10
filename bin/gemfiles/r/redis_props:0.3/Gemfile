@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'sqlite3'
+gem 'pry-nav'
+gem 'activesupport'
+gem 'activerecord'
+gem 'redis'

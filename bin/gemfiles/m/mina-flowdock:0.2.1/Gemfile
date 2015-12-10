@@ -1,0 +1,8 @@
+gem 'flowdock'
+gem 'git'
+gem 'mina-hooks'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'
+gem 'rubygems-tasks'
+gem 'yard'

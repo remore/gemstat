@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'addressable'
+gem 'recursive-open-struct'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

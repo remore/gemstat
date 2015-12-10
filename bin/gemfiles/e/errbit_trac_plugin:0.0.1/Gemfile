@@ -1,0 +1,5 @@
+gem 'errbit_plugin'
+gem 'trac4r'
+gem 'bundler'
+gem 'rake'
+gem 'jeweler'

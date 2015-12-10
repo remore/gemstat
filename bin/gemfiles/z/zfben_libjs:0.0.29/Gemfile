@@ -1,0 +1,7 @@
+gem 'rainbow'
+gem 'json'
+gem 'compass'
+gem 'coffee-script'
+gem 'uglifier'
+gem 'activesupport'
+gem 'zfben_hanoi'

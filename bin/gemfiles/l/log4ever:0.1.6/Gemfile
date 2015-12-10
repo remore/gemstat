@@ -1,0 +1,4 @@
+gem 'log4r'
+gem 'activesupport'
+gem 'i18n'
+gem 'evernote_oauth'

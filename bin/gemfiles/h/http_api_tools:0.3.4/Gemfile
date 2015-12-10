@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'rspec'
+gem 'pry'
+gem 'pry-byebug'
+gem 'ruby-prof'

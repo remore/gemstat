@@ -1,0 +1,5 @@
+gem 'rjb'
+gem 'thor'
+gem 'bundler'
+gem 'rspec'
+gem 'factory_girl'

@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'json'
+gem 'sinatra'
+gem 'haml'
+gem 'rspec'
+gem 'simplecov'

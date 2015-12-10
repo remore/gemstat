@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'nokogiri'
+gem 'rake'
+gem 'jeweler'
+gem 'rspec'
+gem 'sqlite3-ruby'
+gem 'activerecord'

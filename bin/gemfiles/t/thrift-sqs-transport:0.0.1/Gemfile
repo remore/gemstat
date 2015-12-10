@@ -1,0 +1,4 @@
+gem 'thrift'
+gem 'fog'
+gem 'bundler'
+gem 'jeweler'

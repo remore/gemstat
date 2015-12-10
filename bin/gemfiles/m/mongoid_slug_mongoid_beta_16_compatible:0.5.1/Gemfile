@@ -1,0 +1,5 @@
+gem 'mongoid'
+gem 'stringex'
+gem 'bson_ext'
+gem 'database_cleaner'
+gem 'rspec'

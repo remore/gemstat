@@ -1,0 +1,4 @@
+gem 'factory_girl_rails'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'rake'

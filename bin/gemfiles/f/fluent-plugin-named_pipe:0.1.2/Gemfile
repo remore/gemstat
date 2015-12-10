@@ -1,0 +1,7 @@
+gem 'fluentd'
+gem 'ruby-fifo'
+gem 'mkfifo'
+gem 'rake'
+gem 'test-unit'
+gem 'pry'
+gem 'pry-nav'

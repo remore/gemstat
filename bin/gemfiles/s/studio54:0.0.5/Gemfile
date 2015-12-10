@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'rack-cache'
+gem 'rack-flash'
+gem 'sinatra'

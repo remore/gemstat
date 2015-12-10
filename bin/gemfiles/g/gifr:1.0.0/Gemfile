@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'aruba'
+gem 'simplecov'
+gem 'rmagick'

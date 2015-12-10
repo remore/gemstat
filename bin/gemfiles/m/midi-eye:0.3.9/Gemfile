@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'shoulda-context'
+gem 'midi-message'
+gem 'midi-nibbler'
+gem 'unimidi'

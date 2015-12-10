@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'acts_as_monitor'
+gem 'paperclip'
+gem 'usefull_filter'
+gem 'usefull_table'
+gem 'will_paginate'

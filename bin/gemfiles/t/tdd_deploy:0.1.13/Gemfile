@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'net-ping'
+gem 'net-ssh'
+gem 'rack'
+gem 'ZenTest'
+gem 'autotest-growl'

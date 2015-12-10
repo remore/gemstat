@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'uuidtools'
+gem 'activesupport'
+gem 'iconv'
+gem 'tzinfo'
+gem 'huge_enumerable'

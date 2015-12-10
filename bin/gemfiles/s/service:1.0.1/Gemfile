@@ -1,0 +1,6 @@
+gem 'version'
+gem 'rake'
+gem 'guard-yard'
+gem 'rb-fsevent'
+gem 'redcarpet'
+gem 'github-markup'

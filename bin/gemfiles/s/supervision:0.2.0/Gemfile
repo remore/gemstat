@@ -1,0 +1,2 @@
+gem 'finite_machine'
+gem 'bundler'

@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'fuubar'
+gem 'yard'
+gem 'cucumber'
+gem 'yard-cucumber'
+gem 'psych'
+gem 'unicode'
+gem 'crochets'

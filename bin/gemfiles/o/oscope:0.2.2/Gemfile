@@ -1,0 +1,5 @@
+gem 'airby'
+gem 'ffi'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

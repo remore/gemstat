@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rest-client'
+gem 'thor'
+gem 'awesome_print'

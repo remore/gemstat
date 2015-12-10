@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'mime-types'
+gem 'json'
+gem 'oauth'
+gem 'thor'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec'
+gem 'rspec-given'
+gem 'sqlite3'
+gem 'pry'
+gem 'sequel'

@@ -1,0 +1,8 @@
+gem 'evernote_oauth'
+gem 'highline'
+gem 'redcarpet'
+gem 'reverse_markdown'
+gem 'sanitize'
+gem 'fakefs'
+gem 'rake'
+gem 'rspec'

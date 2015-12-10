@@ -1,0 +1,4 @@
+gem 'bio'
+gem 'minitest'
+gem 'rdoc'
+gem 'jeweler'

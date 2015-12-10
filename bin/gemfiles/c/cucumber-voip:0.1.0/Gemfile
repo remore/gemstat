@@ -1,0 +1,7 @@
+gem 'cucumber'
+gem 'activesupport'
+gem 'rspec-rayo'
+gem 'bundler'
+gem 'yard'
+gem 'rake'
+gem 'guard-cucumber'

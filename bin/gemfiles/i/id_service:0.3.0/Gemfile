@@ -1,0 +1,8 @@
+gem 'thrift'
+gem 'activesupport'
+gem 'daemons'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'simplecov'
+gem 'timecop'

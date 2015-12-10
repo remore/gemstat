@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'redis-semaphore'
+gem 'connection_pool'
+gem 'json'
+gem 'builder'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rest-client'
+gem 'mime-types'
+gem 'extlib'

@@ -1,0 +1,7 @@
+gem 'active_attr'
+gem 'activesupport'
+gem 'sax-machine'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

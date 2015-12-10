@@ -1,0 +1,4 @@
+gem 'kramdown'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'yard'

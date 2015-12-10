@@ -1,0 +1,6 @@
+gem 'whois'
+gem 'commander'
+gem 'terminal-table'
+gem 'rspec'
+gem 'mocha'
+gem 'rcov'

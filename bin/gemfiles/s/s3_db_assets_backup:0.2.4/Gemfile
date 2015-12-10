@@ -1,0 +1,2 @@
+gem 'pony'
+gem 'aws-sdk'

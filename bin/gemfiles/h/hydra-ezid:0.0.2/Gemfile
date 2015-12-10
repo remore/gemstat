@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'active-fedora'
+gem 'ezid'
+gem 'bundler'
+gem 'rake'
+gem 'jettywrapper'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'nori'
+gem 'descriptive_statistics'
+gem 'rake'
+gem 'test-unit'
+gem 'codeclimate-test-reporter'

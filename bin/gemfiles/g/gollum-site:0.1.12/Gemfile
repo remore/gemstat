@@ -1,0 +1,4 @@
+gem 'gollum'
+gem 'liquid'
+gem 'mixlib-log'
+gem 'directory_watcher'

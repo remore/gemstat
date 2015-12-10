@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rake'
+gem 'travis-lint'
+gem 'metric_fu'
+gem 'rspec'
+gem 'fakeweb'
+gem 'simplecov'

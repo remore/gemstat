@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'fastercsv'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'

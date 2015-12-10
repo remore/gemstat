@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'json'
+gem 'rspec'

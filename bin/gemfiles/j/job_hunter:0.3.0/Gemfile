@@ -1,0 +1,4 @@
+gem 'delayed_job_active_record'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

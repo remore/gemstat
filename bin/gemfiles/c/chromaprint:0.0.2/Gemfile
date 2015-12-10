@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'
+gem 'pry'

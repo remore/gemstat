@@ -1,0 +1,8 @@
+gem 'rgeo'
+gem 'mongoid'
+gem 'activesupport'
+gem 'yard'
+gem 'rspec'
+gem 'mocha'
+gem 'will_paginate'
+gem 'kaminari'

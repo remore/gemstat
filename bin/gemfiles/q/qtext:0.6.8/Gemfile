@@ -1,0 +1,5 @@
+gem 'qtbindings'
+gem 'gather'
+gem 'test-unit'
+gem 'shoulda'
+gem 'bones'

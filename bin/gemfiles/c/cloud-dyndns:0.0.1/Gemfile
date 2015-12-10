@@ -1,0 +1,8 @@
+gem 'fog'
+gem 'bundler'
+gem 'rake'
+gem 'minitest-reporters'
+gem 'minitest-matchers'
+gem 'minitest'
+gem 'mocha'
+gem 'minitest-spec-expect'

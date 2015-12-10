@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'rspec'
+gem 'webmock'
+gem 'em-http-request'
+gem 'bundler'
+gem 'rake'

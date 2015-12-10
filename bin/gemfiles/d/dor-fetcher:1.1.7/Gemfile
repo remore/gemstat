@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'yard'
+gem 'coveralls'
+gem 'rest-client'
+gem 'addressable'

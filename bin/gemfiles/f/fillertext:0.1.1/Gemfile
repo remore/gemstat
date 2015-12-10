@@ -1,0 +1,4 @@
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'
+gem 'turn'

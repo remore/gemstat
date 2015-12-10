@@ -1,0 +1,4 @@
+gem 'mustache'
+gem 'rake'
+gem 'terminal-notifier-guard'
+gem 'guard-minitest'

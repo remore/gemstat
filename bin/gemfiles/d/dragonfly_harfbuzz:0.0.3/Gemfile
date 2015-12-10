@@ -1,0 +1,8 @@
+gem 'dragonfly'
+gem 'ox'
+gem 'savage'
+gem 'bundler'
+gem 'rake'
+gem 'guard'
+gem 'guard-minitest'
+gem 'minitest'

@@ -1,0 +1,4 @@
+gem 'rspec-core'
+gem 'rspec'
+gem 'rake'
+gem 'coveralls'

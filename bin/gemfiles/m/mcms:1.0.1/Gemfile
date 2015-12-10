@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mcms_blog'
+gem 'mcms_resources'
+gem 'mcms_authentication'
+gem 'mcms_pages'
+gem 'kaminari'

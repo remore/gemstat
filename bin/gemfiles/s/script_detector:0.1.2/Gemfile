@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'rdoc'
+gem 'rspec-rails'
+gem 'simplecov'
+gem 'nokogiri'
+gem 'bundler'
+gem 'jeweler'

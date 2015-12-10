@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'yard'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'json'

@@ -1,0 +1,7 @@
+gem 'charisma'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'bueller'
+gem 'yard'
+gem 'activesupport'
+gem 'i18n'

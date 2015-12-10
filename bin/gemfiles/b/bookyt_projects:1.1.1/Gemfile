@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'recurrence'
+gem 'shoulda'
+gem 'rcov'
+gem 'rspec-rails'

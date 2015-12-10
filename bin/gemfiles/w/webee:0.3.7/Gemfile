@@ -1,0 +1,8 @@
+gem 'sax-machine'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'builder'
+gem 'i18n'
+gem 'alchemist'
+gem 'activesupport'
+gem 'json'

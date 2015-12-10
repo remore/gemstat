@@ -1,0 +1,7 @@
+gem 'htmlentities'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'stringex'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'mongoid'
+gem 'mongoid-shell'
+gem 'mixlib-config'

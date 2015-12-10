@@ -1,0 +1,4 @@
+gem 'bacon'
+gem 'facon'
+gem 'flacinfo-rb'
+gem 'ruby-mp3info'

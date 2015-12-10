@@ -1,0 +1,5 @@
+gem 'winrm-fs'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

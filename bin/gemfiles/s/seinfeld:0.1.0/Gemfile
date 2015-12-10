@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

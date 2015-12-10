@@ -1,0 +1,4 @@
+gem 'paperclip'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'jeweler'

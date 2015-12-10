@@ -1,0 +1,7 @@
+gem 'rdf'
+gem 'rdf-spec'
+gem 'rspec'
+gem 'rspec-its'
+gem 'yard'
+gem 'nokogiri'
+gem 'libxml-ruby'

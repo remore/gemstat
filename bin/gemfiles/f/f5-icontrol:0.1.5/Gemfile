@@ -1,0 +1,8 @@
+gem 'savon'
+gem 'thor'
+gem 'bundler'
+gem 'awesome_print'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

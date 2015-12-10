@@ -1,0 +1,4 @@
+gem 'coderay'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

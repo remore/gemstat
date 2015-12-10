@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'capistrano-bundler'
+gem 'thor'
+gem 'bundler'

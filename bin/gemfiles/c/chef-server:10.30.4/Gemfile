@@ -1,0 +1,4 @@
+gem 'chef-server-api'
+gem 'chef-server-webui'
+gem 'chef-expander'
+gem 'chef-solr'

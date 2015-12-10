@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'codeclimate-test-reporter'
+gem 'pry'
+gem 'redis'
+gem 'test-unit'
+gem 'yard'

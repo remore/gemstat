@@ -1,0 +1,6 @@
+gem 'aws_cf_signer'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rest-client'
+gem 'actionpack'
+gem 'simplecov'

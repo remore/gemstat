@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'sqlite3-ruby'
+gem 'turn'
+gem 'debugger'
+gem 'rake'

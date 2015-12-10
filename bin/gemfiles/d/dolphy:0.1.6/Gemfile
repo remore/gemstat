@@ -1,0 +1,8 @@
+gem 'tilt'
+gem 'rack'
+gem 'haml'
+gem 'erubis'
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'capybara-webkit'

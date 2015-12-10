@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'multi_xml'
+gem 'yajl-ruby'
+gem 'nokogiri'
+gem 'httparty'
+gem 'ox'

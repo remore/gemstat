@@ -1,0 +1,4 @@
+gem 'gnuplot'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

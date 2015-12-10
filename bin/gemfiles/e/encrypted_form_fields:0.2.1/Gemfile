@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'rake'
+gem 'bundler'
+gem 'minitest'
+gem 'appraisal'

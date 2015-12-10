@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'

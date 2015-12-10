@@ -1,0 +1,6 @@
+gem 'eloqua_api'
+gem 'gooddata_s3'
+gem 'rest-client'
+gem 'aws-sdk'
+gem 'pmap'
+gem 'gooddata'

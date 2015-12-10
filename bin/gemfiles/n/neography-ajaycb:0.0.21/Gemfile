@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'net-http-spy'
+gem 'rake'
+gem 'httparty'
+gem 'json'
+gem 'os'
+gem 'rubyzip'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'json'
+gem 'zk'
+gem 'zookeeper'
+gem 'bundler'
+gem 'rake'

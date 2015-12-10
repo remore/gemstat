@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'ansi'
+gem 'ruby-progressbar'
+gem 'mocha'
+gem 'maruku'
+gem 'test_declarative'

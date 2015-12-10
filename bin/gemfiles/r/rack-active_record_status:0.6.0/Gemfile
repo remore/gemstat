@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'activerecord'
+gem 'rake'
+gem 'rake'
+gem 'shoulda'
+gem 'rack-test'

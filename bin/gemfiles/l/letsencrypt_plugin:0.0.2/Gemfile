@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'acme-client'
+gem 'sqlite3'
+gem 'minitest'

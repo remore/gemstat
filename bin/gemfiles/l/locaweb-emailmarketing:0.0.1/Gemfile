@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'pry'
+gem 'pry-debugger'
+gem 'webmock'
+gem 'vcr'
+gem 'activesupport'
+gem 'rest-client'
+gem 'json'

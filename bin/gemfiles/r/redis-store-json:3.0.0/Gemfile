@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'rake'
+gem 'bundler'
+gem 'mocha'
+gem 'minitest'
+gem 'git'

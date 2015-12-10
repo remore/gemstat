@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'fileutils'
+gem 'mechanize'
+gem 'byebug'

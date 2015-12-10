@@ -1,0 +1,4 @@
+gem 'mongo_mapper'
+gem 'rake'
+gem 'database_cleaner'
+gem 'bson_ext'

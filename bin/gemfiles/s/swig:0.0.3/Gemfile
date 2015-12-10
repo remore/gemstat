@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'trollop'
+gem 'colorize'
+gem 'uglifier'
+gem 'coffee-script'

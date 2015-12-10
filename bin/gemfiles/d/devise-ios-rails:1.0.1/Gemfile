@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'bundler'
+gem 'webmock'
+gem 'rails'
+gem 'devise'
+gem 'simple_token_authentication'
+gem 'active_model_serializers'
+gem 'koala'

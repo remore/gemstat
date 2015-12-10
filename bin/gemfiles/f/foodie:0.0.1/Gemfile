@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'activesupport'
+gem 'thor'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'json'

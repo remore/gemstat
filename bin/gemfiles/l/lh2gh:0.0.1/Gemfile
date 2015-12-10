@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'benlangfeld-lighthouse-api'
+gem 'addressable'
+gem 'octopi'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'

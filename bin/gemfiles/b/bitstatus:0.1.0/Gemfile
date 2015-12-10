@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rufus-scheduler'
+gem 'trollop'
+gem 'colorize'
+gem 'httparty'
+gem 'macaddr'

@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'builder'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'with_model'

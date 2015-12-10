@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'rspec'
+gem 'timecop'
+gem 'sqlite3'
+gem 'appraisal'
+gem 'pry'

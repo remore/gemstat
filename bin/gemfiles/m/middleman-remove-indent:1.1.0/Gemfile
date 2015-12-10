@@ -1,0 +1,5 @@
+gem 'middleman'
+gem 'cucumber'
+gem 'aruba'
+gem 'bundler'
+gem 'rake'

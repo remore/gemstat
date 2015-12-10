@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'daemons'
+gem 'rspec'
+gem 'callapi'
+gem 'bundler'
+gem 'rake'

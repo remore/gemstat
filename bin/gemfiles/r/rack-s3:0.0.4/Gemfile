@@ -1,0 +1,5 @@
+gem 'aws-s3'
+gem 'rack'
+gem 'shoulda'
+gem 'webmock'
+gem 'vcr'

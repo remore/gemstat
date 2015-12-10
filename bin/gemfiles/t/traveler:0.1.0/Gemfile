@@ -1,0 +1,4 @@
+gem 'mustache'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

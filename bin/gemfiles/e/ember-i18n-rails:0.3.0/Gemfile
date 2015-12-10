@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'fakeweb'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

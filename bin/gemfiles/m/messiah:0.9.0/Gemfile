@@ -1,0 +1,7 @@
+gem 'webrat'
+gem 'rack'
+gem 'rack-test'
+gem 'activerecord'
+gem 'factory_girl'
+gem 'dr_nic_magic_models'
+gem 'database_cleaner'

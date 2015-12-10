@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'rack-test'
+gem 'rack'
+gem 'redis'
+gem 'redis-namespace'

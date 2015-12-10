@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'yajl-ruby'
+gem 'ruby-hmac'
+gem 'amazon-ecs'
+gem 'netflix_roulette'
+gem 'test-unit'
+gem 'sqlite3'

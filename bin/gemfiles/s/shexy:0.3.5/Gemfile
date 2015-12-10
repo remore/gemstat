@@ -1,0 +1,7 @@
+gem 'net-ssh'
+gem 'net-scp'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

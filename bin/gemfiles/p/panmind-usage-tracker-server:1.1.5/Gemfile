@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'couchrest'
+gem 'mongo'
+gem 'bson'
+gem 'bson_ext'

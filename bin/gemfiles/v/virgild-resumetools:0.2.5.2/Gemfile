@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'extlib'
+gem 'prawn'
+gem 'treetop'
+gem 'text-format'
+gem 'json'

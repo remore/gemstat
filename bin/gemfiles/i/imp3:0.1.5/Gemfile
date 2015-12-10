@@ -1,0 +1,5 @@
+gem 'commander'
+gem 'terminal-table'
+gem 'nokogiri'
+gem 'pbosetti-rubyosa'
+gem 'friendly_id'

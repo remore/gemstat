@@ -1,0 +1,7 @@
+gem 'ruby-graphviz'
+gem 'trollop'
+gem 'taskwarrior'
+gem 'twtest'
+gem 'guard-test'
+gem 'guard-bundler'
+gem 'rake'

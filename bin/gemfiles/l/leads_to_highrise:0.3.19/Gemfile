@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'devise'
+gem 'highrise'
+gem 'will_paginate'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'hallon'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

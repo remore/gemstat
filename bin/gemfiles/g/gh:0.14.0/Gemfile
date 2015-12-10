@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'webmock'
+gem 'faraday'
+gem 'backports'
+gem 'multi_json'
+gem 'addressable'
+gem 'net-http-persistent'
+gem 'net-http-pipeline'

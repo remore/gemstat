@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rubocop'
+gem 'rake'
+gem 'rspec'

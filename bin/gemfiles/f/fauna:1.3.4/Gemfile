@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'json'
+gem 'mocha'
+gem 'echoe'
+gem 'minitest'
+gem 'rubocop'

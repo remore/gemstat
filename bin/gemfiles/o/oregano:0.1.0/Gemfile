@@ -1,0 +1,8 @@
+gem 'inflection'
+gem 'concord'
+gem 'anima'
+gem 'adamantium'
+gem 'kramdown-metadata-parsers'
+gem 'hexp-kramdown'
+gem 'asset_packer'
+gem 'rake'

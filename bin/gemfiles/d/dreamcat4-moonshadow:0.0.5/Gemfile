@@ -1,0 +1,4 @@
+gem 'shadow_puppet'
+gem 'rake'
+gem 'rubigen'
+gem 'visionmedia-commander'

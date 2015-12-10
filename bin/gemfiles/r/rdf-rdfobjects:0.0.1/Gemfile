@@ -1,0 +1,4 @@
+gem 'addressable'
+gem 'rdf'
+gem 'yard'
+gem 'rspec'

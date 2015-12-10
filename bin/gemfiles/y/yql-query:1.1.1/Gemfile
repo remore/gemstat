@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'rdiscount'
+gem 'simplecov'
+gem 'guard-rspec'

@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'ruby-saml'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'

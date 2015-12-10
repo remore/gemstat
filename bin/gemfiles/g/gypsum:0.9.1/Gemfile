@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'thor'
+gem 'rails'
+gem 'bundler'
+gem 'rspec'
+gem 'thor'

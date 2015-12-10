@@ -1,0 +1,8 @@
+gem 'log-me'
+gem 'ox'
+gem 'coveralls'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'nokogiri'
+gem 'faraday'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'

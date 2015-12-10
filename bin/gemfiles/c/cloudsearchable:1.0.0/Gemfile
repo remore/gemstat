@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'aws-sdk'
+gem 'rspec'
+gem 'activemodel'

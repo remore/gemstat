@@ -1,0 +1,7 @@
+gem 'sprockets'
+gem 'sprockets-helpers'
+gem 'sinatra'
+gem 'rake'
+gem 'rack-test'
+gem 'minitest'
+gem 'minitest-colorize'

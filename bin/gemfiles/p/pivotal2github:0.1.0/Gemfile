@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'tracker_api'
+gem 'octokit'
+gem 'net-http-persistent'

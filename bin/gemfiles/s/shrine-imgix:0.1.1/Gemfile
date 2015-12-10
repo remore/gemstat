@@ -1,0 +1,6 @@
+gem 'imgix'
+gem 'rake'
+gem 'shrine'
+gem 'minitest'
+gem 'dotenv'
+gem 'aws-sdk'

@@ -1,0 +1,6 @@
+gem 'typhoeus'
+gem 'yajl-ruby'
+gem 'bundler'
+gem 'jeweler'
+gem 'shoulda'
+gem 'mocha'

@@ -1,0 +1,6 @@
+gem 'arduino_ir_remote'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'bourne'

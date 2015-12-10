@@ -1,0 +1,7 @@
+gem 'bunny'
+gem 'pg'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'pry'

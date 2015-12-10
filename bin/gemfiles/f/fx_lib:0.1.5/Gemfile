@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'combustion'
+gem 'rspec-rails'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'spec-more'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

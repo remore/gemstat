@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'distribution'
+gem 'bundler'
+gem 'i18n'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

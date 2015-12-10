@@ -1,0 +1,8 @@
+gem 'builder'
+gem 'rails'
+gem 'haml'
+gem 'compass'
+gem 'acts_as_tree'
+gem 'cancan'
+gem 'globalize3'
+gem 'humpyard_form'

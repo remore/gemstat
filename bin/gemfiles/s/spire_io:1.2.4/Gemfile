@@ -1,0 +1,7 @@
+gem 'json'
+gem 'excon'
+gem 'mixlib-cli'
+gem 'highline'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'

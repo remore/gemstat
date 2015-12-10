@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'sham_rack'
+gem 'sinatra'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

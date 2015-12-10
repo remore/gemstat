@@ -1,0 +1,7 @@
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'mongo'
+gem 'bson_ext'
+gem 'debugger'
+gem 'colorize'

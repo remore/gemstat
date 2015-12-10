@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'minitest-capistrano'
+gem 'minitest-colorize'
+gem 'guard-minitest'
+gem 'capistrano'

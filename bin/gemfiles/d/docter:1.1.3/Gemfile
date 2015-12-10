@@ -1,0 +1,5 @@
+gem 'RedCloth'
+gem 'haml'
+gem 'mongrel'
+gem 'syntax'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'ruby-protocol-buffers'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

@@ -1,0 +1,8 @@
+gem 'net-ping'
+gem 'win32-security'
+gem 'test-kitchen'
+gem 'bundler'
+gem 'fakefs'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

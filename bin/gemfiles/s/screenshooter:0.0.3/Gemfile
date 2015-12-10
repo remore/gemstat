@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'browserstack-screenshot'
+gem 'launchy'
+gem 'progress_bar'

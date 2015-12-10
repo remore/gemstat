@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'jwt'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'
+gem 'openssl'

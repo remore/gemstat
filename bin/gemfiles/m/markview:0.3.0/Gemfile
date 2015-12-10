@@ -1,0 +1,7 @@
+gem 'vegas'
+gem 'sinatra'
+gem 'github-markup'
+gem 'rdiscount'
+gem 'json'
+gem 'contest'
+gem 'rack-test'

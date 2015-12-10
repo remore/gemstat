@@ -1,0 +1,4 @@
+gem 'fog'
+gem 'hirb'
+gem 'thor'
+gem 'rspec'

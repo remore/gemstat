@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'formtastic'
+gem 'net-http-persistent'
+gem 'haml'
+gem 'rdiscount'

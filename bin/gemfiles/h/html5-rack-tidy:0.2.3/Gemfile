@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rack'
+gem 'tidy'
+gem 'jeweler'
+gem 'redgreen'
+gem 'shoulda'

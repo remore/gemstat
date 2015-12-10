@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'pry'
+gem 'codeclimate-test-reporter'
+gem 'coveralls'
+gem 'activerecord'

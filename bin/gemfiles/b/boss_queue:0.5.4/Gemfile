@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'pry'
+gem 'pry-nav'
+gem 'pry-stack_explorer'

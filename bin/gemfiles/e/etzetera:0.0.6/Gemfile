@@ -1,0 +1,4 @@
+gem 'celluloid-io'
+gem 'http'
+gem 'multi_json'
+gem 'bundler'

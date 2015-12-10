@@ -1,0 +1,2 @@
+gem 'right_api_client'
+gem 'thor'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'teaspoon'
+gem 'poltergeist'
+gem 'coveralls'

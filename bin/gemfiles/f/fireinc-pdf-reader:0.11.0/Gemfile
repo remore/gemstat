@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'roodi'
+gem 'rspec'
+gem 'Ascii85'

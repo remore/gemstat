@@ -1,0 +1,8 @@
+gem 'zk'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
+gem 'pry'

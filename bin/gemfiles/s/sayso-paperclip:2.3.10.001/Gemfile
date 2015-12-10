@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'cocaine'
+gem 'shoulda'
+gem 'appraisal'
+gem 'mocha'
+gem 'aws-s3'
+gem 'sqlite3-ruby'

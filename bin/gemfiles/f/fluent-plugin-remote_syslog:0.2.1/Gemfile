@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'fluentd'
+gem 'fluent-mixin-plaintextformatter'
+gem 'remote_syslog_logger'
+gem 'fluent-mixin-config-placeholders'

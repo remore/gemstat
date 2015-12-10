@@ -1,0 +1,4 @@
+gem 'xcodeproj'
+gem 'colorize'
+gem 'clactive'
+gem 'mustache'

@@ -1,0 +1,6 @@
+gem 'RedCloth'
+gem 'kramdown'
+gem 'liquid'
+gem 'less'
+gem 'coffee-script'
+gem 'colored'

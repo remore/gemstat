@@ -1,0 +1,2 @@
+gem 'rails_analyzer_tools'
+gem 'hoe'

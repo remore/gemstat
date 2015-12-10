@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'test-unit'
+gem 'shoulda'
+gem 'redgreen'
+gem 'sqlite3-ruby'
+gem 'acts_as_fu'

@@ -1,0 +1,7 @@
+gem 'delegate_it'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'rake'
+gem 'coveralls'
+gem 'nyan-cat-formatter'

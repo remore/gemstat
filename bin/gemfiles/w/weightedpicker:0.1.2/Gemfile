@@ -1,0 +1,5 @@
+gem 'test-unit'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

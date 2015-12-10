@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'bzproxies'
+gem 'addressable'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'http'
+gem 'websocket-driver'
+gem 'rack'
+gem 'celluloid'
+gem 'celluloid-io'

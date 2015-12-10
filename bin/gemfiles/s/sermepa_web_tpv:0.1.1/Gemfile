@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'ruby-mcrypt'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'fuubar'
+gem 'nyan-cat-formatter'

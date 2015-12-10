@@ -1,0 +1,2 @@
+gem 'mark_facets'
+gem 'delayed_job'

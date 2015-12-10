@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'faker'
+gem 'yard'
+gem 'jeweler'

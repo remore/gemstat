@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'builder'
+gem 'ruby-debug19'
+gem 'rake'
+gem 'webmock'

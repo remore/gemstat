@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'money'
+gem 'rspec'
+gem 'rr'
+gem 'shoulda'

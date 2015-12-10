@@ -1,0 +1,8 @@
+gem 'prawn'
+gem 'hashie'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-legacy_formatters'
+gem 'codeclimate-test-reporter'

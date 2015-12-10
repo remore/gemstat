@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'activemodel'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

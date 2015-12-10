@@ -1,0 +1,4 @@
+gem 'aruba'
+gem 'rake'
+gem 'pry-byebug'
+gem 'cucumber'

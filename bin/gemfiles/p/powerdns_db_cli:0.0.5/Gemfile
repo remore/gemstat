@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'activerecord'
+gem 'thor'
+gem 'terminal-table'

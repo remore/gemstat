@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'amatch'
+gem 'friendly_extensions'
+gem 'mysql2'

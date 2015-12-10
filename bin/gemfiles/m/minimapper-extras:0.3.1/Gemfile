@@ -1,0 +1,7 @@
+gem 'minimapper'
+gem 'attr_extras'
+gem 'backports'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activemodel'

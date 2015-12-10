@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rake-remote_task'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

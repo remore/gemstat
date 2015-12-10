@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'json'
+gem 'rspec'
+gem 'mocha'

@@ -1,0 +1,2 @@
+gem 'merb-core'
+gem 'xmpp4r-simple'

@@ -1,0 +1,8 @@
+gem 'actionpack'
+gem 'json'
+gem 'fakeweb'
+gem 'shoulda'
+gem 'mocha'
+gem 'rake'
+gem 'jeweler'
+gem 'shoulda'

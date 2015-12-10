@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'debugger'
+gem 'rake'
+gem 'faraday'
+gem 'multi_json'
+gem 'yajl-ruby'
+gem 'activesupport'

@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rake-compiler'
+gem 'rspec'
+gem 'rubygems-xcodeproj_generator'
+gem 'test-unit'

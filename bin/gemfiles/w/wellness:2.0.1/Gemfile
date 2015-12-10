@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'pg'
+gem 'sidekiq'
+gem 'redis'

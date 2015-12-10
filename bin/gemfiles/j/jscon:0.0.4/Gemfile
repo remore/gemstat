@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'easy_repl'
+gem 'coffee-script'
+gem 'bundler'
+gem 'rake'

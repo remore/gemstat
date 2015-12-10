@@ -1,0 +1,6 @@
+gem 'cs'
+gem 'pry'
+gem 'time-lord'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

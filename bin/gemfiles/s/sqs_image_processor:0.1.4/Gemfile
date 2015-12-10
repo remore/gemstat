@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'recursive-open-struct'
+gem 'aws-sdk-core'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'selenium-webdriver'
+gem 'nokogiri'
+gem 'rspec'
+gem 'cucumber'
+gem 'redcarpet'
+gem 'rake'
+gem 'json'
+gem 'parallel_tests'

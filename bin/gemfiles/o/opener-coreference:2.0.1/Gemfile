@@ -1,0 +1,7 @@
+gem 'opener-coreference-base'
+gem 'opener-daemons'
+gem 'opener-webservice'
+gem 'opener-core'
+gem 'nokogiri'
+gem 'slop'
+gem 'rake'

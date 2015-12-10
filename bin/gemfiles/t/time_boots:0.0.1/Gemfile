@@ -1,0 +1,4 @@
+gem 'rubocop'
+gem 'rspec'
+gem 'rspec-its'
+gem 'simplecov'

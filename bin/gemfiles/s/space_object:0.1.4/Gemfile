@@ -1,0 +1,4 @@
+gem 'rdoc'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'activesupport'

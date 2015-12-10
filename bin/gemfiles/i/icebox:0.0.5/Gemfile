@@ -1,0 +1,7 @@
+gem 'mysql'
+gem 'sequel'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rcov'

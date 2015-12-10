@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'fastercsv'
+gem 'activesupport'
+gem 'activerecord'
+gem 'actionpack'
+gem 'rails_sql_views'
+gem 'adapter_extensions'

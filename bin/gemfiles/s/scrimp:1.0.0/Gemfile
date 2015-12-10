@@ -1,0 +1,5 @@
+gem 'thrift'
+gem 'thin'
+gem 'haml'
+gem 'json'
+gem 'sinatra'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rake-hooks'
+gem 'sqlite3'
+gem 'pg'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'filewatch'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'capybara'
+gem 'poltergeist'

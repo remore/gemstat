@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'gphoto4ruby'
+gem 'rufus-scheduler'
+gem 'slop'
+gem 'aws-s3'

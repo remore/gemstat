@@ -1,0 +1,7 @@
+gem 'moped'
+gem 'mongoid'
+gem 'rubyzip'
+gem 'delayed_job_mongoid'
+gem 'minitest'
+gem 'simplecov'
+gem 'rails'

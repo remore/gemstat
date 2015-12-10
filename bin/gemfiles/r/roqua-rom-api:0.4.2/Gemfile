@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'active_interaction'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'fabrication'

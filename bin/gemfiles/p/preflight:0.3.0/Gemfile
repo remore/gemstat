@@ -1,0 +1,5 @@
+gem 'pdf-reader'
+gem 'rake'
+gem 'roodi'
+gem 'rspec'
+gem 'ZenTest'

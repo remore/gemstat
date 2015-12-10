@@ -1,0 +1,4 @@
+gem 'naughty_or_nice'
+gem 'pry'
+gem 'shoulda'
+gem 'rake'

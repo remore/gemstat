@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'net-ssh'
+gem 'ruby-termios'
+gem 'highline'

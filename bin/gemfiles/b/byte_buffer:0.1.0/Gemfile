@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rake-compiler'
+gem 'benchmark-ips'
+gem 'ione'
+gem 'cassandra-driver'

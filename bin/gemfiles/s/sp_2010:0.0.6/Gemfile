@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'httparty'
+gem 'json'
+gem 'nokogiri'
+gem 'ruby-ntlm'
+gem 'domainatrix'

@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'rspec'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-debug'

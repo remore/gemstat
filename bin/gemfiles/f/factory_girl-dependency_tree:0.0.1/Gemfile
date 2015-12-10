@@ -1,0 +1,5 @@
+gem 'rubytree'
+gem 'factory_girl'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

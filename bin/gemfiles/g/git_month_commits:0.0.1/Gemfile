@@ -1,0 +1,7 @@
+gem 'rugged'
+gem 'activesupport'
+gem 'launchy'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

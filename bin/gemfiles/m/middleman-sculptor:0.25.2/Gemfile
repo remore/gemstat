@@ -1,0 +1,7 @@
+gem 'middleman-core'
+gem 'middleman-sprockets'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'oj'
+gem 'slim'
+gem 'pry'

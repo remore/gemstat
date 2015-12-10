@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'env-conf'
+gem 'request_store'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'sawyer'
+gem 'ruby-progressbar'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

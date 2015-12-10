@@ -1,0 +1,2 @@
+gem 'koala'
+gem 'devise_oauth2_providable'

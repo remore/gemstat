@@ -1,0 +1,4 @@
+gem 'public_suffix'
+gem 'shoulda'
+gem 'pry'
+gem 'rake'

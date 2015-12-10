@@ -1,0 +1,4 @@
+gem 'acclaim'
+gem 'ribbon'
+gem 'i18n'
+gem 'rookie'

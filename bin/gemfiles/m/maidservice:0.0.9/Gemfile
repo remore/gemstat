@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'railties'
+gem 'redis-namespace'
+gem 'redis'
+gem 'activesupport'

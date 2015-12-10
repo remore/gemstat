@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rspec-support'
+gem 'thor'
+gem 'ruby-plsql'
+gem 'nokogiri'
+gem 'jeweler'
+gem 'ruby-oci8'

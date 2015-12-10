@@ -1,0 +1,7 @@
+gem 'corl'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'rdoc'
+gem 'yard'
+gem 'vagrant'

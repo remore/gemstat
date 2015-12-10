@@ -1,0 +1,2 @@
+gem 'filters_spam'
+gem 'actionmailer'

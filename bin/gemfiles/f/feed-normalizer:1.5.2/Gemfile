@@ -1,0 +1,5 @@
+gem 'simple-rss'
+gem 'hpricot'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

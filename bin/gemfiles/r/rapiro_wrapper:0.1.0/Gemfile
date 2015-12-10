@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'serialport'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubocop'

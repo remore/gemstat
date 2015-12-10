@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'devise'
+gem 'rails_email_validator'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

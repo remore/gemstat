@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'xml-simple'
+gem 'rake'
+gem 'rspec'

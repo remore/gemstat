@@ -1,0 +1,4 @@
+gem 'raspell'
+gem 'rdoc'
+gem 'minitest'
+gem 'hoe'

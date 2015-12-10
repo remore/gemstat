@@ -1,0 +1,5 @@
+gem 'json'
+gem 'faraday'
+gem 'excon'
+gem 'minitest'
+gem 'rake'

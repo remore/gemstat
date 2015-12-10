@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'mixlib-cli'
+gem 'docker-api'
+gem 'mixlib-config'
+gem 'colorize'
+gem 'thor'

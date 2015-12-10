@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'jquery-rails'
+gem 'momentjs-rails'
+gem 'bootstrap-sass'

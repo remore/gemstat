@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'bundler'
+gem 'curb-fu'
+gem 'google-jwt'
+gem 'json'

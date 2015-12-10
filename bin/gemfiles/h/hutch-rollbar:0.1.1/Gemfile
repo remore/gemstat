@@ -1,0 +1,5 @@
+gem 'hutch'
+gem 'rollbar'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

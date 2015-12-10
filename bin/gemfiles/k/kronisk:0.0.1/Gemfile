@@ -1,0 +1,6 @@
+gem 'active_support'
+gem 'chronic'
+gem 'chronic_duration'
+gem 'eventmachine'
+gem 'mail'
+gem 'posix-spawn'

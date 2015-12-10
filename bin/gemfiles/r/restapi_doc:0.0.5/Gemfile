@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'haml'
+gem 'rake'
+gem 'jeweler'
+gem 'rspec'
+gem 'mocha'

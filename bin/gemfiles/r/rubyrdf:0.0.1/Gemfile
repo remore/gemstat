@@ -1,0 +1,2 @@
+gem 'utf8proc'
+gem 'uuidtools'

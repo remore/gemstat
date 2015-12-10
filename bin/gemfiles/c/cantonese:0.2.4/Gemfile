@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'tidy_ffi'
+gem 'bundler'
+gem 'rake'
+gem 'webmock'
+gem 'vcr'
+gem 'rspec'
+gem 'pry'

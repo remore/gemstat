@@ -1,0 +1,7 @@
+gem 'paypal-sdk-permissions'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'
+gem 'simplecov'

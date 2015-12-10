@@ -1,0 +1,5 @@
+gem 'test-unit'
+gem 'rake'
+gem 'json'
+gem 'httpclient'
+gem 'httpclient_link_header'

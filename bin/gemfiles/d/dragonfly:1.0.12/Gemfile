@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'multi_json'
+gem 'addressable'
+gem 'rspec'
+gem 'webmock'
+gem 'activemodel'

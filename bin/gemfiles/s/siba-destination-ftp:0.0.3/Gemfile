@@ -1,0 +1,5 @@
+gem 'siba'
+gem 'net-ftp-list'
+gem 'minitest'
+gem 'rake'
+gem 'guard-minitest'

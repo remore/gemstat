@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'simplecov'
+gem 'rr'
+gem 'timfel-krb5-auth'
+gem 'httpi'
+gem 'curb'

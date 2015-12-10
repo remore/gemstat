@@ -1,0 +1,5 @@
+gem 'hpricot'
+gem 'memcache-client'
+gem 'faraday'
+gem 'hoe'
+gem 'hoe-gemspec'

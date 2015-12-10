@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rspec'
+gem 'with_model'
+gem 'sqlite3'
+gem 'simplecov'

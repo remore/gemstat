@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'eventmachine'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

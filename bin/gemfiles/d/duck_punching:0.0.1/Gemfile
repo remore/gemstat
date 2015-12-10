@@ -1,0 +1,5 @@
+gem 'linguistics'
+gem 'wordnet'
+gem 'wordnet-defaultdb'
+gem 'bundler'
+gem 'rake'

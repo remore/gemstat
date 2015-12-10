@@ -1,0 +1,8 @@
+gem 'ruby-prof'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'guard'
+gem 'guard-rspec'

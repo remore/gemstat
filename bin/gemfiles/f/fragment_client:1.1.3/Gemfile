@@ -1,0 +1,2 @@
+gem 'rails-timeago'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'UPnP'
+gem 'UPnP-ContentDirectory'
+gem 'UPnP-ConnectionManager'
+gem 'hoe'

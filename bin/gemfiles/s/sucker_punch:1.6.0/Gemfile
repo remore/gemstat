@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'celluloid'

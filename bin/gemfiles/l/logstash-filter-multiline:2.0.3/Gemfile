@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-patterns-core'
+gem 'logstash-filter-mutate'
+gem 'jls-grok'
+gem 'logstash-devutils'

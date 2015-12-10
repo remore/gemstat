@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'actionpack'
+gem 'nokogiri'

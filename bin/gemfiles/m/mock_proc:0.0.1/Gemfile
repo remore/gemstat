@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'bourne'
+gem 'pry'
+gem 'rake'

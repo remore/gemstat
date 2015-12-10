@@ -1,0 +1,4 @@
+gem 'rubydns'
+gem 'rgossip2'
+gem 'optopus'
+gem 'sqlite3-ruby'

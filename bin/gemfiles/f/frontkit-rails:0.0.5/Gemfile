@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'railties'
+gem 'activesupport'
+gem 'sprockets'
+gem 'multi_json'

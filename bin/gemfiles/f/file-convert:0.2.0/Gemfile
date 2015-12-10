@@ -1,0 +1,6 @@
+gem 'google-api-client'
+gem 'rspec'
+gem 'rubocop'
+gem 'rake'
+gem 'pry'
+gem 'codeclimate-test-reporter'

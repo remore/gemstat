@@ -1,0 +1,6 @@
+gem 'thoughtbot-shoulda'
+gem 'optiflag'
+gem 'tweetstream'
+gem 'eventmachine'
+gem 'hashie'
+gem 'twitter'

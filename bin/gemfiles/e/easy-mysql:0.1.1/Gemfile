@@ -1,0 +1,2 @@
+gem 'mysql'
+gem 'rainbow'

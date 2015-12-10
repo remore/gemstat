@@ -1,0 +1,7 @@
+gem 'oauth2'
+gem 'thor'
+gem 'hashie'
+gem 'rdoc'
+gem 'rdiscount'
+gem 'yard'
+gem 'awesome_print'

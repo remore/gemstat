@@ -1,0 +1,7 @@
+gem 'omniauth-oauth2'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'simplecov'
+gem 'webmock'

@@ -1,0 +1,7 @@
+gem 'pry'
+gem 'bundler'
+gem 'bacon'
+gem 'Bacon_Colored'
+gem 'sequel'
+gem 'pg'
+gem 'Exit_0'

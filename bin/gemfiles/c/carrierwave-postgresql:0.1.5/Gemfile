@@ -1,0 +1,6 @@
+gem 'carrierwave'
+gem 'activerecord'
+gem 'pg'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

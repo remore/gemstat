@@ -1,0 +1,5 @@
+gem 'encryptor'
+gem 'thor'
+gem 'xcodeproj'
+gem 'rspec'
+gem 'rake'

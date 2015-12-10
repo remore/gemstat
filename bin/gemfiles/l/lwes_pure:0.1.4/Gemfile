@@ -1,0 +1,8 @@
+gem 'bindata'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'reek'
+gem 'roodi'

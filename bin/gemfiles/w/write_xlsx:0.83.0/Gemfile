@@ -1,0 +1,4 @@
+gem 'rubyzip'
+gem 'zip-zip'
+gem 'test-unit'
+gem 'rake'

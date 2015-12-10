@@ -1,0 +1,8 @@
+gem 'em-synchrony'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'
+gem 'em-mongo'
+gem 'bson_ext'
+gem 'redis'
+gem 'hiredis'

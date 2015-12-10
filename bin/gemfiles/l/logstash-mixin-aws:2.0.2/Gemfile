@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'aws-sdk-v1'
+gem 'aws-sdk'
+gem 'logstash-devutils'

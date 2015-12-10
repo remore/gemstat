@@ -1,0 +1,7 @@
+gem 'logstash-core'
+gem 'logstash-mixin-aws'
+gem 'stud'
+gem 'logstash-devutils'
+gem 'simplecov'
+gem 'coveralls'
+gem 'logstash-codec-json'

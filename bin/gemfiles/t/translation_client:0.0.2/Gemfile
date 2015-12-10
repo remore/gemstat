@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'i18n-active_record'
+gem 'home_page'
+gem 'mysql2'

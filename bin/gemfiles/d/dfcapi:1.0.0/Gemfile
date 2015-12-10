@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'json'
+gem 'addressable'
+gem 'unirest'
+gem 'shoulda'
+gem 'test-unit'
+gem 'rake'

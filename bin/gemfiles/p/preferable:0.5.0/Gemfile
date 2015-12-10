@@ -1,0 +1,6 @@
+gem 'abstract'
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3-ruby'
+gem 'shoulda-matchers'

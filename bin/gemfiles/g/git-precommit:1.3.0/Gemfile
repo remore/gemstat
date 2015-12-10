@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'syntax'
+gem 'guard'
+gem 'guard-cucumber'

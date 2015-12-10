@@ -1,0 +1,7 @@
+gem 'CFPropertyList'
+gem 'rake'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'
+gem 'rubocop'

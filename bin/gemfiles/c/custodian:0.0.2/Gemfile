@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'thin'
+gem 'rack'
+gem 'active_support'

@@ -1,0 +1,8 @@
+gem 'framework_fixture'
+gem 'rack-test'
+gem 'rake'
+gem 'rails'
+gem 'rspec'
+gem 'sinatra'
+gem 'stasis'
+gem 'change'

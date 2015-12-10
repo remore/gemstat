@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'flex'
+gem 'flex-models'
+gem 'prompter'

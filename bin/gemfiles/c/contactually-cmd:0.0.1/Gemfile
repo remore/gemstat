@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'terminal-table'
+gem 'bundler'
+gem 'rake'

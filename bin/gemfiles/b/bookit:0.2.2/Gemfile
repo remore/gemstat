@@ -1,0 +1,4 @@
+gem 'prawn'
+gem 'eeepub'
+gem 'nokogiri'
+gem 'redis'

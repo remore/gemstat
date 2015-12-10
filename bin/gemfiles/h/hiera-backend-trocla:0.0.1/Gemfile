@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'hiera'
+gem 'rspec'
+gem 'simplecov'
+gem 'trocla'

@@ -1,0 +1,87 @@
+--- !ruby/object:Gem::Specification 
+name: redmine_client_user
+version: !ruby/object:Gem::Version 
+  version: 0.0.3
+platform: ruby
+authors: 
+- Eric Davis
+autorequire: 
+bindir: bin
+cert_chain: []
+
+default_executable: test.rb
+dependencies: 
+- !ruby/object:Gem::Dependency 
+  name: activeresource
+  type: :runtime
+  version_requirement: 
+  version_requirements: !ruby/object:Gem::Requirement 
+    requirements: 
+    - - ~>
+      - !ruby/object:Gem::Version 
+        version: 3.2.6
+    version: 
+- !ruby/object:Gem::Dependency 
+  name: thoughtbot-shoulda
+  type: :development
+  version_requirement: 
+  version_requirements: !ruby/object:Gem::Requirement 
+    requirements: 
+    - - ">="
+      - !ruby/object:Gem::Version 
+        version: "0"
+    version: 
+description: Access the Redmine REST API with ActiveResource
+email: edavis@littlestreamsoftware.com
+executables: 
+- test.rb
+extensions: []
+
+extra_rdoc_files: 
+- LICENSE
+- README.rdoc
+files: 
+- .document
+- .gitignore
+- LICENSE
+- README.rdoc
+- Rakefile
+- VERSION
+- bin/test.rb
+- lib/redmine_client_user.rb
+- lib/redmine_client_user/base.rb
+- lib/redmine_client_user/issue.rb
+- lib/redmine_client_user/news.rb
+- lib/redmine_client_user/project.rb
+- lib/redmine_client_user/user.rb
+- test/helper.rb
+- test/test_redmine_client_user.rb
+has_rdoc: true
+licenses: []
+
+post_install_message: 
+rdoc_options: 
+- --charset=UTF-8
+require_paths: 
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement 
+  requirements: 
+  - - ">="
+    - !ruby/object:Gem::Version 
+      version: "0"
+  version: 
+required_rubygems_version: !ruby/object:Gem::Requirement 
+  requirements: 
+  - - ">="
+    - !ruby/object:Gem::Version 
+      version: "0"
+  version: 
+requirements: []
+
+rubyforge_project: 
+rubygems_version: 1.3.5
+specification_version: 3
+summary: Redmine API client
+test_files: 
+- test/helper.rb
+- test/test_redmine_client_user.rb

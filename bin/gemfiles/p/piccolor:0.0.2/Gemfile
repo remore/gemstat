@@ -1,0 +1,4 @@
+gem 'color'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

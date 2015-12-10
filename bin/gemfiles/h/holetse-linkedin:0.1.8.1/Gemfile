@@ -1,0 +1,7 @@
+gem 'oauth'
+gem 'roxml'
+gem 'crack'
+gem 'thoughtbot-shoulda'
+gem 'jnunemaker-matchy'
+gem 'mocha'
+gem 'fakeweb'

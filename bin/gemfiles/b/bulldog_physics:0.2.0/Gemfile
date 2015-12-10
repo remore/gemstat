@@ -1,0 +1,6 @@
+gem 'require_all'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'require_all'

@@ -1,0 +1,6 @@
+gem 'mail'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-debugger'

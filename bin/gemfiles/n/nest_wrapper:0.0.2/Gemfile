@@ -1,0 +1,4 @@
+gem 'nest_thermostat'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

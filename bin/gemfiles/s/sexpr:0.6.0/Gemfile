@@ -1,0 +1,5 @@
+gem 'path'
+gem 'citrus'
+gem 'rake'
+gem 'rspec'
+gem 'wlang'

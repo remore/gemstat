@@ -1,0 +1,6 @@
+gem 'rscm'
+gem 'rails'
+gem 'log4r'
+gem 'needle'
+gem 'jabber4r'
+gem 'ruby-growl'

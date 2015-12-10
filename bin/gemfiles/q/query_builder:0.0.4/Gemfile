@@ -1,0 +1,5 @@
+gem 'attributes_dsl'
+gem 'equalizer'
+gem 'ice_nine'
+gem 'transproc'
+gem 'hexx-rspec'

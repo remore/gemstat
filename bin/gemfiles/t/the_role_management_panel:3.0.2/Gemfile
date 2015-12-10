@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'haml'
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'the_notification'
+gem 'bootstrap-sass'
+gem 'rails'

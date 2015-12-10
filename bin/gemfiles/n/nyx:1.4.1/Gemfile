@@ -1,0 +1,4 @@
+gem 'git'
+gem 'json'
+gem 'rubyzip'
+gem 'fssm'

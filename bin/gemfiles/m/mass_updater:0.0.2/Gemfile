@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'mysql2'
+gem 'activerecord'

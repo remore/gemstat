@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'rubyzip'
+gem 'httpi'
+gem 'json'
+gem 'nokogiri'
+gem 'thin'

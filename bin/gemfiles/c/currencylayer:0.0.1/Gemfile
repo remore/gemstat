@@ -1,0 +1,6 @@
+gem 'money'
+gem 'rspec'
+gem 'timecop'
+gem 'webmock'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'capture_stdout'
+gem 'simplecov'
+gem 'builtinextension'

@@ -1,0 +1,6 @@
+gem 'uuid'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'mocha'

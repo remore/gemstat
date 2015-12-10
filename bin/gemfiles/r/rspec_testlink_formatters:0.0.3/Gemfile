@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'testlink_rspec_utils'
+gem 'rspec-core'
+gem 'builder'

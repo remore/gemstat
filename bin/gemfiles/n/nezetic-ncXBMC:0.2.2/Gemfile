@@ -1,0 +1,2 @@
+gem 'ncurses'
+gem 'nezetic-ruby-xbmc'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'guard'
+gem 'guard-minitest'
+gem 'rb-fsevent'
+gem 'growl_notify'
+gem 'mocha'
+gem 'nokogiri'

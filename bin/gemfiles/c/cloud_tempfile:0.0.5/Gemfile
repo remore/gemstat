@@ -1,0 +1,7 @@
+gem 'fog'
+gem 'activemodel'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'cloud_tempfile'
+gem 'appraisal'

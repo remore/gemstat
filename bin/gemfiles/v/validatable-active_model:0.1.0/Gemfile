@@ -1,0 +1,5 @@
+gem 'durran-validatable'
+gem 'ruby-debug'
+gem 'rspec'
+gem 'bourne'
+gem 'activesupport'

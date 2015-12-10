@@ -1,0 +1,4 @@
+gem 'halite'
+gem 'poise'
+gem 'kitchen-rackspace'
+gem 'poise-boiler'

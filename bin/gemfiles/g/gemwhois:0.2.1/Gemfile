@@ -1,0 +1,6 @@
+gem 'crack'
+gem 'unindent'
+gem 'shoulda'
+gem 'jeweler'
+gem 'fakeweb'
+gem 'mocha'

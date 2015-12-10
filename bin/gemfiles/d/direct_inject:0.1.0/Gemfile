@@ -1,0 +1,8 @@
+gem 'map'
+gem 'tagz'
+gem 'bundler'
+gem 'coffee-script'
+gem 'nokogiri'
+gem 'rails'
+gem 'rake'
+gem 'sprockets'

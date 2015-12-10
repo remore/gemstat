@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'will_paginate'
+gem 'bundler'
+gem 'jeweler'
+gem 'fakeweb'

@@ -1,0 +1,7 @@
+gem 'multi_xml'
+gem 'excon'
+gem 'pry'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-emoji'
+gem 'vcr'

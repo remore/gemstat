@@ -1,0 +1,6 @@
+gem 'icalendar'
+gem 'uuid'
+gem 'builder'
+gem 'net-http-digest_auth'
+gem 'rspec'
+gem 'fakeweb'

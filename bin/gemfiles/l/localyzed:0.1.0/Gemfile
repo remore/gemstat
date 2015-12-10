@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rack-rewrite'
+gem 'rails-translate-routes-na'
+gem 'rails-i18n'
+gem 'mysql2'

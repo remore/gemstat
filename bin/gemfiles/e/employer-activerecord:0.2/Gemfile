@@ -1,0 +1,5 @@
+gem 'employer'
+gem 'activerecord'
+gem 'rspec'
+gem 'pry'
+gem 'sqlite3'

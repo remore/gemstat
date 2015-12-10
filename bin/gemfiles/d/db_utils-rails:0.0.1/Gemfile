@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rdoc'
+gem 'byebug'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'right_http_connection'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

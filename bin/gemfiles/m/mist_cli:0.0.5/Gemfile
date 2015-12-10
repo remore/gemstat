@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'aws-sdk'
+gem 'thor'
+gem 'fog'

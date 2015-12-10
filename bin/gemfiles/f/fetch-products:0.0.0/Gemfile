@@ -1,0 +1,2 @@
+gem 'fetch'
+gem 'sqlite3'

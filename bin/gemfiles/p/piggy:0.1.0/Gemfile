@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'activemodel'
+gem 'jeweler'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'

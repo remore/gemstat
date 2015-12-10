@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'pry-rescue'
+gem 'savon'
+gem 'hashie'

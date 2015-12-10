@@ -1,0 +1,3 @@
+gem 'rspec'
+gem 'georgi-rack_dav'
+gem 'mongo'

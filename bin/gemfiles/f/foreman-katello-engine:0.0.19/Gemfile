@@ -1,0 +1,2 @@
+gem 'katello_api'
+gem 'deface'

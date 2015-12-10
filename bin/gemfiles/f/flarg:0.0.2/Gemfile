@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'railties'
+gem 'rake'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'

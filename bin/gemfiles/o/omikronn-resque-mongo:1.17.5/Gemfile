@@ -1,0 +1,4 @@
+gem 'mongo'
+gem 'vegas'
+gem 'sinatra'
+gem 'multi_json'

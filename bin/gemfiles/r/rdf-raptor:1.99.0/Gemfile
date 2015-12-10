@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'rdf'
+gem 'yard'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rdf-spec'
+gem 'rake'

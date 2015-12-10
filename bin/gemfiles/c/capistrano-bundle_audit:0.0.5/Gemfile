@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'bundler-audit'
+gem 'bundler'
+gem 'rake'

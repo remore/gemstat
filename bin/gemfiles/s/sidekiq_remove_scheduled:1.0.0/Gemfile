@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'sidekiq'
+gem 'rake'
+gem 'rspec'
+gem 'celluloid'

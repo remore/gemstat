@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'bundler'

@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'go-rank'
+gem 'choice'
+gem 'hpricot'
+gem 'bones'

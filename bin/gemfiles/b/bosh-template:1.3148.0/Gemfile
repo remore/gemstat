@@ -1,0 +1,4 @@
+gem 'semi_semantic'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'httparty'
+gem 'google_client_login'
+gem 'httparty'

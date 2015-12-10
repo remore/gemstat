@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'rspec'
+gem 'rake'
+gem 'awesome_print'

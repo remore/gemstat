@@ -1,0 +1,7 @@
+gem 'nanoc'
+gem 'adsf'
+gem 'sinatra'
+gem 'loofah'
+gem 'htmlbeautifier'
+gem 'bundler'
+gem 'rake'

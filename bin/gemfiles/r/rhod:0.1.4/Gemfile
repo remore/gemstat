@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'minitest'
+gem 'turn'
+gem 'connection_pool'

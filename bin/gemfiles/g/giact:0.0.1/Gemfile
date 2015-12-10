@@ -1,0 +1,8 @@
+gem 'hashie'
+gem 'httparty'
+gem 'activesupport'
+gem 'thoughtbot-shoulda'
+gem 'jnunemaker-matchy'
+gem 'mocha'
+gem 'fakeweb'
+gem 'yard'

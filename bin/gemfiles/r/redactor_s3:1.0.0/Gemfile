@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'aws-sdk'
+gem 'jbuilder'
+gem 'rspec-rails'
+gem 'sqlite3'

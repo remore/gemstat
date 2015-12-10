@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'mysql2'
+gem 'oj'
+gem 'multi_json'
+gem 'configliere'
+gem 'multipart-post'

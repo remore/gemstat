@@ -1,0 +1,8 @@
+gem 'knjrbfw'
+gem 'datet'
+gem 'hayabusa'
+gem 'http2'
+gem 'sqlite3'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

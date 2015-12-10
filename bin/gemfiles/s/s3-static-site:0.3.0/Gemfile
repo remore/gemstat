@@ -1,0 +1,4 @@
+gem 'aws-sdk'
+gem 'capistrano'
+gem 'haml'
+gem 'mime-types'

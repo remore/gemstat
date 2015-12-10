@@ -1,0 +1,7 @@
+gem 'php-serialize4ruby'
+gem 'wref'
+gem 'tsafe'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

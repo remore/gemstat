@@ -1,0 +1,7 @@
+gem 'berkshelf'
+gem 'hashie'
+gem 'aws-sdk'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'rake'
+gem 'thor'

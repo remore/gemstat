@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'coveralls'
+gem 'rake'
+gem 'travis-lint'
+gem 'yard'

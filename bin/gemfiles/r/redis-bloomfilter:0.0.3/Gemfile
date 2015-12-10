@@ -1,0 +1,5 @@
+gem 'hiredis'
+gem 'redis'
+gem 'rspec'
+gem 'flexmock'
+gem 'rake'

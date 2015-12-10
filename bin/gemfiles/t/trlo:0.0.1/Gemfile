@@ -1,0 +1,5 @@
+gem 'ruby-trello'
+gem 'hirb'
+gem 'colored'
+gem 'highline'
+gem 'pry'

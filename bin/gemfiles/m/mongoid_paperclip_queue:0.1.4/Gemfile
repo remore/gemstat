@@ -1,0 +1,4 @@
+gem 'paperclip'
+gem 'redis-namespace'
+gem 'mongoid'
+gem 'resque'

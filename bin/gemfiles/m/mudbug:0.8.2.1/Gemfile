@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'json'
+gem 'lager'
+gem 'dotcfg'
+gem 'minitest'
+gem 'buildar'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'boolean'
+gem 'rspec'
+gem 'sqlite3'
+gem 'yard'
+gem 'redcarpet'
+gem 'jeweler'

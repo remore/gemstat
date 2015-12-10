@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'capistrano_colors'
+gem 'rvm-capistrano'
+gem 'passenger'
+gem 'rack'
+gem 'daemon_controller'
+gem 'mysql2'

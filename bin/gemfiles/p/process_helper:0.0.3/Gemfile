@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-retry'
+gem 'rubocop'
+gem 'ruby-lint'

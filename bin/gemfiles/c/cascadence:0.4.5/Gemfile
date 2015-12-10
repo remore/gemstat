@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'activesupport'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'

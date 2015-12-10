@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'nyan-cat-formatter'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rubygems-tasks'
+gem 'simplecov'
+gem 'coveralls'
+gem 'timecop'

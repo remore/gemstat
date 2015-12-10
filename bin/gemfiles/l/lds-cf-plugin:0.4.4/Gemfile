@@ -1,0 +1,5 @@
+gem 'cf'
+gem 'eventmachine'
+gem 'json_pure'
+gem 'beefcake'
+gem 'faye-websocket'

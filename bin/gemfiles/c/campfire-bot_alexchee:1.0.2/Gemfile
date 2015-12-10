@@ -1,0 +1,4 @@
+gem 'twitter-stream'
+gem 'tinder'
+gem 'activesupport'
+gem 'logging'

@@ -1,0 +1,2 @@
+gem 'powerbar'
+gem 'streamio-ffmpeg'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rdoc'
+gem 'inch'
+gem 'sparkr'

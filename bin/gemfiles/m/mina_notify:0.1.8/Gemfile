@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'mina'
+gem 'rspec'
+gem 'faraday'

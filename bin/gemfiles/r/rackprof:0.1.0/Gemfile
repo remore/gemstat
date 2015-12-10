@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'eventmachine'
+gem 'stackprof'
+gem 'bundler'
+gem 'rake'

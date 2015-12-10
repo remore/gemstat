@@ -1,0 +1,2 @@
+gem 'thor'
+gem 'lookup_http'

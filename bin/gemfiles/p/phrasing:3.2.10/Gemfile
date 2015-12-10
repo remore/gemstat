@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'railties'
+gem 'haml'
+gem 'jquery-rails'
+gem 'jquery-cookie-rails'
+gem 'sass'
+gem 'pry'

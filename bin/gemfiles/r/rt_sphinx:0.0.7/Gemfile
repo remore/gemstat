@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'connection_pool'
+gem 'jdbc-mysql'

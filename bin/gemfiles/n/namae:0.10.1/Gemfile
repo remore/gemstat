@@ -1,0 +1,4 @@
+gem 'simplecov'
+gem 'rubinius-coverage'
+gem 'coveralls'
+gem 'racc'

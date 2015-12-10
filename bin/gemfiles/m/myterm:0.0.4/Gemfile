@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'rb-appscript'
+gem 'rmagick'
+gem 'rake'
+gem 'ruby-debug19'

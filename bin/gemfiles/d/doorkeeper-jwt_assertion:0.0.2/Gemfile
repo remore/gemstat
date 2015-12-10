@@ -1,0 +1,4 @@
+gem 'doorkeeper'
+gem 'jwt'
+gem 'bundler'
+gem 'rake'

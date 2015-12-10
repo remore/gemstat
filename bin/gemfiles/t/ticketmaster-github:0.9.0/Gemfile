@@ -1,0 +1,7 @@
+gem 'ticketmaster'
+gem 'octokit'
+gem 'jeweler'
+gem 'rspec'
+gem 'fakeweb'
+gem 'simplecov'
+gem 'rcov'

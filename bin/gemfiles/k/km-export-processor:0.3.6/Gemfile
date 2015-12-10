@@ -1,0 +1,8 @@
+gem 'kmts'
+gem 'thor'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'webmock'
+gem 'yard'
+gem 'pry'

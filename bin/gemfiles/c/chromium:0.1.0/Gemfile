@@ -1,0 +1,4 @@
+gem 'mustache'
+gem 'rspec'
+gem 'cucumber'
+gem 'webrat'

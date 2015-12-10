@@ -1,0 +1,4 @@
+gem 'addressable'
+gem 'compose_url'
+gem 'domainatrix'
+gem 'json'

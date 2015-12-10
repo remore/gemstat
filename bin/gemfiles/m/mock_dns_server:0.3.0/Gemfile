@@ -1,0 +1,8 @@
+gem 'dnsruby'
+gem 'hexdump'
+gem 'thread_safe'
+gem 'awesome_print'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

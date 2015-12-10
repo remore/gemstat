@@ -1,0 +1,5 @@
+gem 'optionalargument'
+gem 'yard'
+gem 'rspec'
+gem 'rake'
+gem 'bundler'

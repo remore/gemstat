@@ -1,0 +1,7 @@
+gem 'ticketmaster'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'
+gem 'activesupport'
+gem 'activeresource'

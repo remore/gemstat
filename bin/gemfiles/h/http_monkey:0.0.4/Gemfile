@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'httpi'
+gem 'http_objects'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
+gem 'minion_server'

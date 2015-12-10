@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'builder'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'

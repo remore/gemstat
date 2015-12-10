@@ -1,0 +1,4 @@
+gem 'dotenv'
+gem 'watir-webdriver'
+gem 'webdriver-user-agent'
+gem 'watir-scroll'

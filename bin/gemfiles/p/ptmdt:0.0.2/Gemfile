@@ -1,0 +1,6 @@
+gem 'rirfe'
+gem 'activerecord'
+gem 'rake'
+gem 'shoulda'
+gem 'sqlite3'
+gem 'ffaker'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rack'
+gem 'sinatra'
+gem 'sinatra-authorization'
+gem 'jruby-openssl'
+gem 'caruby-tissue'
+gem 'yard'
+gem 'rake'

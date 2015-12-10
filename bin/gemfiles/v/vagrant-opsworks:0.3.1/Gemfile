@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'git'
+gem 'vagrant-berkshelf'
+gem 'spork'
+gem 'rspec'
+gem 'thor'
+gem 'simplecov'

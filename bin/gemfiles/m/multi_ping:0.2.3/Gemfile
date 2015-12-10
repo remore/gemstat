@@ -1,0 +1,5 @@
+gem 'net-ping'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'

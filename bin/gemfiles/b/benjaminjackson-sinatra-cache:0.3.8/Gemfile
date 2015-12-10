@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'sinatra-outputbuffer'
+gem 'sinatra-tests'
+gem 'rspec'

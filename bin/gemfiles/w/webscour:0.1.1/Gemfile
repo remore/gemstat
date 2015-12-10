@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'parka'
+gem 'fakeweb'
+gem 'rspec'
+gem 'nokogiri'
+gem 'faraday'
+gem 'nibbler'

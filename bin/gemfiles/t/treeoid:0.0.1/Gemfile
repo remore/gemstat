@@ -1,0 +1,4 @@
+gem 'mongoid'
+gem 'thoughtbot-shoulda'
+gem 'jnunemaker-matchy'
+gem 'cucumber'

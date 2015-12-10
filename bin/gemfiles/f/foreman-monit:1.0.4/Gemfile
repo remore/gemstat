@@ -1,0 +1,4 @@
+gem 'foreman'
+gem 'thor'
+gem 'rspec'
+gem 'rake'

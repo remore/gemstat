@@ -1,0 +1,4 @@
+gem 'httpclient'
+gem 'highline'
+gem 'decorate'
+gem 'unicode_utils'

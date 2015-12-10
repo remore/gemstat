@@ -48,6 +48,13 @@ actionpack
 activemodel
 ```
 
+### license
+
+MIT
+
 ### TODO
+
 - Add `list`, `popular` and `version` subcommands(instead of `summary` command)
--
+- Modify `update` subcommand to allow incremental update
+- Update README.md and gemstat.gemspec with better descriptions
+- Windows support (Now only Mac and Linux is supported)

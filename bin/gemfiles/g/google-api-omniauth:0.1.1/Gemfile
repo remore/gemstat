@@ -1,0 +1,7 @@
+gem 'google-api-client'
+gem 'signet'
+gem 'omniauth'
+gem 'rake'
+gem 'rspec'
+gem 'launchy'
+gem 'diff-lcs'

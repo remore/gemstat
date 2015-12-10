@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'atomic'
+gem 'peek'
+gem 'bundler'
+gem 'rake'

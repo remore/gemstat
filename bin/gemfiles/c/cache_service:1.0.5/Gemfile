@@ -1,0 +1,4 @@
+gem 'logging'
+gem 'activesupport'
+gem 'dalli'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'twitter'
+gem 'activerecord'
+gem 'mysql'
+gem 'rubyforge'
+gem 'hoe'

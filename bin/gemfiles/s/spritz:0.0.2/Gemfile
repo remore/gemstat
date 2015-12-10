@@ -1,0 +1,4 @@
+gem 'rmagick'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'rake'

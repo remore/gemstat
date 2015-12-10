@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'httparty'
+gem 'awesome_print'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-vim'

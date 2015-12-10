@@ -1,0 +1,5 @@
+gem 'openurl'
+gem 'resque'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

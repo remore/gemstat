@@ -1,0 +1,8 @@
+gem 'httpclient'
+gem 'tzinfo'
+gem 'nokogiri'
+gem 'addressable'
+gem 'nori'
+gem 'virtus'
+gem 'choc_mool'
+gem 'bundler'

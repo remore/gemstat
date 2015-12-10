@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'pry-debugger'
+gem 'rspec'

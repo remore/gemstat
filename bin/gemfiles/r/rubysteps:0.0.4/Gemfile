@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'active_rest_client'
+gem 'patron'
+gem 'bundler'
+gem 'rake'

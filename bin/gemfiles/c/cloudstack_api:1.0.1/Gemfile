@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'curb'
+gem 'sqlite3'
+gem 'awesome_print'
+gem 'capybara'
+gem 'selenium-webdriver'

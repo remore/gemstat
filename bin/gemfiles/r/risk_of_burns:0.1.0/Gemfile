@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'redcarpet'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'reek'

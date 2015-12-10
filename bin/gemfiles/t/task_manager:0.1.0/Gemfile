@@ -1,0 +1,5 @@
+gem 'rufus-scheduler'
+gem 'daemons'
+gem 'rake'
+gem 'more_unit_test'
+gem 'mocha'

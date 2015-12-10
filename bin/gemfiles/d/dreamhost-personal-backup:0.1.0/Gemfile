@@ -1,0 +1,5 @@
+gem 'rsync'
+gem 'mocha'
+gem 'simplecov'
+gem 'coveralls'
+gem 'jeweler'

@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'haml'
+gem 'sinatra-bundles'
+gem 'rdiscount'
+gem 'activemodel'
+gem 'mail'
+gem 'json'
+gem 'jammit'

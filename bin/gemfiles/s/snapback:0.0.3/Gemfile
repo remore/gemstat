@@ -1,0 +1,6 @@
+gem 'aruba'
+gem 'gli'
+gem 'mysql'
+gem 'open4'
+gem 'ruby-lvm'
+gem 'colorize'

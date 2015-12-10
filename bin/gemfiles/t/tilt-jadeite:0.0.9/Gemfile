@@ -1,0 +1,8 @@
+gem 'tilt'
+gem 'jadeite'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'sinatra'
+gem 'haml'
+gem 'approvals'

@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'capybara-page-object'
+gem 'selenium-webdriver'
+gem 'bundler'
+gem 'pry'
+gem 'pry-nav'

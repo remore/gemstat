@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'actionpack'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'
+gem 'tzinfo'

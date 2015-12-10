@@ -1,0 +1,6 @@
+gem 'mustache'
+gem 'kramdown'
+gem 'rack'
+gem 'json'
+gem 'rspec'
+gem 'rake'

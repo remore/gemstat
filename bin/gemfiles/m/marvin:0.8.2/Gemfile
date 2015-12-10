@@ -1,0 +1,5 @@
+gem 'perennial'
+gem 'eventmachine'
+gem 'json'
+gem 'shoulda'
+gem 'yard'

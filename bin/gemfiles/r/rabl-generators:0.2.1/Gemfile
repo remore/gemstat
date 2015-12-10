@@ -1,0 +1,8 @@
+gem 'rabl'
+gem 'activesupport'
+gem 'actionpack'
+gem 'railties'
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'appraisal'

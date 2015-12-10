@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'actionpack'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'sqlite3-ruby'

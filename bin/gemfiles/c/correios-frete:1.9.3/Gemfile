@@ -1,0 +1,6 @@
+gem 'log-me'
+gem 'nokogiri'
+gem 'sax-machine'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

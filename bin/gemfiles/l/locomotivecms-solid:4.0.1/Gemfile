@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'i18n'
+gem 'ruby_parser'
+gem 'activesupport'
+gem 'locomotivecms-liquid'

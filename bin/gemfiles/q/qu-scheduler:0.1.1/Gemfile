@@ -1,0 +1,6 @@
+gem 'qu-redis'
+gem 'rufus-scheduler'
+gem 'rake'
+gem 'rack-test'
+gem 'turn'
+gem 'mocha'

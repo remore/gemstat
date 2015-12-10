@@ -1,0 +1,7 @@
+gem 'sidekiq'
+gem 'activerecord'
+gem 'rake'
+gem 'rspec-rails'
+gem 'rspec'
+gem 'sqlite3'
+gem 'fakeredis'

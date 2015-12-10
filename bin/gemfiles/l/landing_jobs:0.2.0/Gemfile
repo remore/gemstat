@@ -1,0 +1,8 @@
+gem 'typhoeus'
+gem 'virtus'
+gem 'oj'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'simplecov'

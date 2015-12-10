@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'codesake-commons'
+gem 'webmock'

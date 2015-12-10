@@ -1,0 +1,4 @@
+gem 'brpm_content_framework'
+gem 'brpm_module_brpm'
+gem 'rake'
+gem 'rspec'

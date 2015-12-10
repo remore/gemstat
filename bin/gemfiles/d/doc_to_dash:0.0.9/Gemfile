@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'sqlite3'
+gem 'versionomy'
+gem 'rdoc'
+gem 'yard'
+gem 'redcarpet'
+gem 'rspec'
+gem 'rake'

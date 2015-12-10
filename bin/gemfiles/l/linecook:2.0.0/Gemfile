@@ -1,0 +1,8 @@
+gem 'config_parser'
+gem 'configurable'
+gem 'tilt'
+gem 'shell_test'
+gem 'rake'
+gem 'bundler'
+gem 'rcov'
+gem 'rdoc'

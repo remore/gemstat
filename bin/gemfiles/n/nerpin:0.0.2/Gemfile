@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'webmock'
+gem 'nerpin'
+gem 'nokogiri'
+gem 'json'

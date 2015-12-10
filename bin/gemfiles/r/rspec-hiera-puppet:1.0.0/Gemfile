@@ -1,0 +1,5 @@
+gem 'puppet'
+gem 'hiera'
+gem 'hiera-puppet'
+gem 'rspec'
+gem 'rspec-puppet'

@@ -1,0 +1,4 @@
+gem 'rspec-core'
+gem 'http_statsd'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rubyzip'
+gem 'systemu'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,2 @@
+gem 'bluecloth'
+gem 'nokogiri'

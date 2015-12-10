@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'oauth'
+gem 'launchy'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nyan-cat-formatter'
+gem 'rubocop'

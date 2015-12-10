@@ -1,0 +1,8 @@
+gem 'calculi'
+gem 'rails'
+gem 'redis-objects'
+gem 'sqlite3'
+gem 'pry-rails'
+gem 'faker'
+gem 'fabrication'
+gem 'timecop'

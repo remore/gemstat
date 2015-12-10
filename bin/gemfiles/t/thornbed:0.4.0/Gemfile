@@ -1,0 +1,8 @@
+gem 'ruby-oembed'
+gem 'httparty'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'terminal-notifier-guard'
+gem 'fakeweb'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'erp_app'
+gem 'erp_txns_and_accts'
+gem 'erp_agreements'
+gem 'erp_products'
+gem 'erp_orders'
+gem 'erp_commerce'
+gem 'erp_dev_svcs'

@@ -1,0 +1,5 @@
+gem 'observables'
+gem 'rake'
+gem 'log_buddy'
+gem 'jnunemaker-matchy'
+gem 'shoulda'

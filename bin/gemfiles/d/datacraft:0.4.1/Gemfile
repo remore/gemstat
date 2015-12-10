@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'thread'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'

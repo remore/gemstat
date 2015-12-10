@@ -1,0 +1,6 @@
+gem 'git'
+gem 'rubyzip'
+gem 'thor'
+gem 'mina'
+gem 'activesupport'
+gem 'awesome_print'

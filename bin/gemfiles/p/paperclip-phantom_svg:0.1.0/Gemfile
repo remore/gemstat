@@ -1,0 +1,6 @@
+gem 'paperclip'
+gem 'phantom_svg'
+gem 'bundler'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'

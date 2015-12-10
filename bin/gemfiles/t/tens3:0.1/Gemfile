@@ -1,0 +1,2 @@
+gem 'fadvise'
+gem 'right_aws'

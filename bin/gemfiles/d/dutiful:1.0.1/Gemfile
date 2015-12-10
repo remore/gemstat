@@ -1,0 +1,6 @@
+gem 'clamp'
+gem 'colorize'
+gem 'rsync'
+gem 'tomlrb'
+gem 'rake'
+gem 'rspec'

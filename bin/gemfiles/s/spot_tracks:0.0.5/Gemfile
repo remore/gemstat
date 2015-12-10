@@ -1,0 +1,5 @@
+gem 'simplecov'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'feedjira'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'oauth2'
+gem 'hashie'
+gem 'json'
+gem 'rest-client'

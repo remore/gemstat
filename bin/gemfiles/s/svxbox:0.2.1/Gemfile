@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'amazon_product'
+gem 'rake'
+gem 'jeweler'
+gem 'shoulda'

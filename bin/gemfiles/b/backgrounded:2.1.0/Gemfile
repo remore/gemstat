@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'shoulda'
+gem 'mocha'
+gem 'sqlite3-ruby'
+gem 'rake'
+gem 'pry'
+gem 'test_after_commit'

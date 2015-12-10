@@ -1,0 +1,4 @@
+gem 'rfeedfinder'
+gem 'htmlentities'
+gem 'hpricot'
+gem 'hoe'

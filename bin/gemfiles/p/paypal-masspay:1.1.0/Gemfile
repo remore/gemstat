@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'rake'
+gem 'rspec'
+gem 'cane'
+gem 'webmock'

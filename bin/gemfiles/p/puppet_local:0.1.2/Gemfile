@@ -1,0 +1,4 @@
+gem 'clamp'
+gem 'puppet'
+gem 'git'
+gem 'term-ansicolor'

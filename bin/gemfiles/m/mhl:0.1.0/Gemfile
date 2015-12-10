@@ -1,0 +1,6 @@
+gem 'bitstring'
+gem 'concurrent-ruby'
+gem 'erv'
+gem 'facter'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'wref'
+gem 'tsafe'
+gem 'string-cases'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

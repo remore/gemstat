@@ -1,0 +1,4 @@
+gem 'optitron'
+gem 'bundler'
+gem 'rspec'
+gem 'fakefs'

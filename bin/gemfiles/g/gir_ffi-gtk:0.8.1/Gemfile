@@ -1,0 +1,4 @@
+gem 'gir_ffi'
+gem 'minitest'
+gem 'rr'
+gem 'rake'

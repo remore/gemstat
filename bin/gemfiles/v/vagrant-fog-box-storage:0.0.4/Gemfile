@@ -1,0 +1,5 @@
+gem 'vagrant'
+gem 'fog'
+gem 'protest'
+gem 'mocha'
+gem 'bundler'

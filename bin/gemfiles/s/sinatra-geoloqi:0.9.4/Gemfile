@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'geoloqi'
+gem 'rake'
+gem 'rack-test'
+gem 'webmock'
+gem 'minitest'

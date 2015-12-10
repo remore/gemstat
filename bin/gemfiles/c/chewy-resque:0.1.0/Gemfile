@@ -1,0 +1,4 @@
+gem 'chewy'
+gem 'resque'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,2 @@
+gem 'rails_current'
+gem 'rails_default_url_options'

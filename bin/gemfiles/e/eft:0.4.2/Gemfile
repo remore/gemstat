@@ -1,0 +1,2 @@
+gem 'obfusk-util'
+gem 'rake'

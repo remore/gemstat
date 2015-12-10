@@ -1,0 +1,5 @@
+gem 'etcd'
+gem 'webmock'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

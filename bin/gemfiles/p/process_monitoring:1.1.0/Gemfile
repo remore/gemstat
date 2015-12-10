@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'json'
+gem 'log'
+gem 'params'
+gem 'sinatra'
+gem 'thin'

@@ -1,0 +1,7 @@
+gem 'attr_extras'
+gem 'breadcrumbs_on_rails'
+gem 'i18n'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

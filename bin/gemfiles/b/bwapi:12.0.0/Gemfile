@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rubocop'
+gem 'allotment'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'faraday_middleware-parse_csv'
+gem 'faraday_middleware-parse_oj'
+gem 'oj'

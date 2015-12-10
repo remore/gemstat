@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'crack'
+gem 'sqlite3-ruby'
+gem 'shoulda'

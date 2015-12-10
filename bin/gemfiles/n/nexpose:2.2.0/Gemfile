@@ -1,0 +1,8 @@
+gem 'rex'
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'simplecov'
+gem 'rspec'
+gem 'rubocop'
+gem 'webmock'
+gem 'vcr'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'addressable'

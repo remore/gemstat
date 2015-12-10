@@ -1,0 +1,7 @@
+gem 'json'
+gem 'gdata'
+gem 'gdata19'
+gem 'hpricot'
+gem 'encryptor'
+gem 'oauth'
+gem 'jeweler'

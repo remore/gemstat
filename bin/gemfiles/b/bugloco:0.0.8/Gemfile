@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rack'
+gem 'coveralls'
+gem 'fakeweb'
+gem 'ruby_protobuf'

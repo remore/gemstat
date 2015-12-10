@@ -1,0 +1,6 @@
+gem 'slop'
+gem 'libusb'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubocop'

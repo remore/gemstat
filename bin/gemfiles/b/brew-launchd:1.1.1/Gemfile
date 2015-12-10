@@ -1,0 +1,7 @@
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'
+gem 'cucumber'
+gem 'grancher'

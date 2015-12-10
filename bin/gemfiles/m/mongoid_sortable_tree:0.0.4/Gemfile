@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'mongoid'
+gem 'mongoid-tree'
+gem 'jstree-rails-4'

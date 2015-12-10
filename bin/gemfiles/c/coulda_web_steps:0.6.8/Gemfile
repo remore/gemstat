@@ -1,0 +1,8 @@
+gem 'json'
+gem 'coulda'
+gem 'capybara'
+gem 'factory_girl'
+gem 'shoulda'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

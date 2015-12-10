@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'haml'
+gem 'ruby-hmac'
+gem 'rspec'

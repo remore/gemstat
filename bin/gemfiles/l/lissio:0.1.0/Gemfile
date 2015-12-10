@@ -1,0 +1,5 @@
+gem 'opal'
+gem 'opal-browser'
+gem 'rack'
+gem 'thor'
+gem 'uglifier'

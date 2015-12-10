@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'tux'
+gem 'nyny'
+gem 'mongoid'
+gem 'rack'

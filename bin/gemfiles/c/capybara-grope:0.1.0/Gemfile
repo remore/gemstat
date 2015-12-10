@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'capybara'
+gem 'grope'
+gem 'sinatra'

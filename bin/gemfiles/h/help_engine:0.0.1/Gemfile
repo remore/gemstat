@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'github-markdown'
+gem 'friendly_id'
+gem 'jquery-rails'
+gem 'sqlite3'
+gem 'therubyracer'

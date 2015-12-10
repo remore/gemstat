@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'timecop'
+gem 'fluentd'
+gem 'lru_redux'

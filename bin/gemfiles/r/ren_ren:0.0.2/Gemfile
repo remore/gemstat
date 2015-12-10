@@ -1,0 +1,6 @@
+gem 'riot'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'
+gem 'multi_json'

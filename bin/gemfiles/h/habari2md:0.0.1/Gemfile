@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'celluloid'
+gem 'sequel'
+gem 'mysql'

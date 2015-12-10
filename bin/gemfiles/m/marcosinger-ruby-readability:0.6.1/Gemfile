@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rr'
+gem 'nokogiri'
+gem 'guess_html_encoding'
+gem 'mini_magick'

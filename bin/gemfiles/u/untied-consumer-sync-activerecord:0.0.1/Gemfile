@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'untied-consumer-sync'
+gem 'activerecord'
+gem 'ruby-debug'

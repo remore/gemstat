@@ -1,0 +1,6 @@
+gem 'awesome_print'
+gem 'activesupport'
+gem 'xml-simple'
+gem 'colorize'
+gem 'timecop'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'test-unit'
+gem 'shoulda'
+gem 'shoulda-matchers'
+gem 'mocha'
+gem 'fb_graph'
+gem 'twitter'
+gem 'livejournal'
+gem 'vk-ruby'

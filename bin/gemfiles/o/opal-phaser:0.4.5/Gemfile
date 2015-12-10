@@ -1,0 +1,5 @@
+gem 'opal'
+gem 'opal-pixi'
+gem 'opal-rspec'
+gem 'yard'
+gem 'rake'

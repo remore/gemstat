@@ -1,0 +1,4 @@
+gem 'tilt'
+gem 'govspeak'
+gem 'bundler'
+gem 'rake'

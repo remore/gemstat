@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rails_config'
+gem 'kaminari'
+gem 'tiny_cache'
+gem 'sqlite3'

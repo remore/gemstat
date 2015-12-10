@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rails'
+gem 'sinatra'
+gem 'rspec'
+gem 'stasis'
+gem 'rack-test'

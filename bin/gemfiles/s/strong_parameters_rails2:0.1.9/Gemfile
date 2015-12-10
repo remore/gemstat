@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'activerecord'
+gem 'bump'
+gem 'rake'
+gem 'mocha'
+gem 'sqlite3'

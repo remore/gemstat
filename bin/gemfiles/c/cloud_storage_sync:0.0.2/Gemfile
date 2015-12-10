@@ -1,0 +1,4 @@
+gem 'rspec-rails'
+gem 'mocha'
+gem 'ruby-debug19'
+gem 'fog'

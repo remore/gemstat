@@ -1,0 +1,6 @@
+gem 'data_mapper'
+gem 'redis'
+gem 'dm-redis-adapter'
+gem 'redis-namespace'
+gem 'activerecord'
+gem 'activesupport'

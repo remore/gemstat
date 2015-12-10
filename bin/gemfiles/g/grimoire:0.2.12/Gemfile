@@ -1,0 +1,4 @@
+gem 'bogo'
+gem 'attribute_struct'
+gem 'minitest'
+gem 'pry'

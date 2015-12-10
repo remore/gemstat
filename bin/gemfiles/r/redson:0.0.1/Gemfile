@@ -1,0 +1,6 @@
+gem 'opal-jquery'
+gem 'opal-rails'
+gem 'rails'
+gem 'rspec'
+gem 'guard-livereload'
+gem 'guard-rake'

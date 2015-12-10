@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'nokogiri'
+gem 'net-http-persistent'
+gem 'rake'
+gem 'webmock'
+gem 'minitest'

@@ -1,0 +1,5 @@
+gem 'refinerycms-core'
+gem 'refinerycms-nested_models'
+gem 'slim-rails'
+gem 'deface'
+gem 'refinerycms-testing'

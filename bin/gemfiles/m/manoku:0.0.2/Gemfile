@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'git'
+gem 'platform-api'
+gem 'bundler'

@@ -1,0 +1,2 @@
+gem 'ember-auth-module-timeoutable-source'
+gem 'rails'

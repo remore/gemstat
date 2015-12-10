@@ -1,0 +1,8 @@
+gem 'fat_core'
+gem 'pry'
+gem 'pry-doc'
+gem 'rspec'
+gem 'byebug'
+gem 'pry-byebug'
+gem 'rake'
+gem 'wirble'

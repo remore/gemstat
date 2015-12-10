@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'bundler'
+gem 'rails'
+gem 'thor'

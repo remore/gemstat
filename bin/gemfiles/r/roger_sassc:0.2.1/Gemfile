@@ -1,0 +1,8 @@
+gem 'sassc'
+gem 'roger'
+gem 'rack'
+gem 'rake'
+gem 'mocha'
+gem 'test-unit'
+gem 'simplecov'
+gem 'rubocop'

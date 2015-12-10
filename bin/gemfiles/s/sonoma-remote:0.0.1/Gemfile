@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'hipchat'
+gem 'bundler'
+gem 'rake'

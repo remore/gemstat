@@ -1,0 +1,8 @@
+gem 'tire'
+gem 'thor'
+gem 'amqp'
+gem 'rack'
+gem 'yajl-ruby'
+gem 'fastercsv'
+gem 'json'
+gem 'bundler'

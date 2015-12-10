@@ -1,0 +1,7 @@
+gem 'pg'
+gem 'activerecord'
+gem 'sidekiq'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'activerecord'
+gem 'sequel'
+gem 'dm-core'
+gem 'dm-validations'
+gem 'data_objects'
+gem 'do_sqlite3'

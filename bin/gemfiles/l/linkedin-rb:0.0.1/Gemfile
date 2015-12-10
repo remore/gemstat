@@ -1,0 +1,7 @@
+gem 'oauth'
+gem 'activesupport'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'ruby-debug19'

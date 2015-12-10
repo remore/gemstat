@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec'
+gem 'activesupport'
+gem 'i18n'
+gem 'rake'

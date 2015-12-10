@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'httparty'
+gem 'domainatrix'
+gem 'sequel'
+gem 'docopt'
+gem 'ruby-progressbar'

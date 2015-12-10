@@ -1,0 +1,5 @@
+gem 'json'
+gem 'activesupport'
+gem 'simplemodel'
+gem 'rspec'
+gem 'fakeweb'

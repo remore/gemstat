@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'aws-s3'
+gem 'right_aws'
+gem 'thor'
+gem 'builder'

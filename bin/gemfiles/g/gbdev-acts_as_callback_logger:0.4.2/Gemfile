@@ -1,0 +1,2 @@
+gem 'rcov'
+gem 'diff-lcs'

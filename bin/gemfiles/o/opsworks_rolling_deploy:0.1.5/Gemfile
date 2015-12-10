@@ -1,0 +1,8 @@
+gem 'clamp'
+gem 'aws-sdk'
+gem 'colorize'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'byebug'

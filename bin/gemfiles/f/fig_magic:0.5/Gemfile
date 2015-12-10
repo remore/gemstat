@@ -1,0 +1,4 @@
+gem 'faker'
+gem 'yml_reader'
+gem 'rspec'
+gem 'cucumber'

@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'gelf'
+gem 'logstash-codec-plain'
+gem 'logstash-devutils'

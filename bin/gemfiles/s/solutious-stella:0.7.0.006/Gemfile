@@ -1,0 +1,6 @@
+gem 'benelux'
+gem 'drydock'
+gem 'gibbler'
+gem 'storable'
+gem 'httpclient'
+gem 'nokogiri'

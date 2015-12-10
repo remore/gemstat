@@ -1,0 +1,8 @@
+gem 'capybara'
+gem 'json'
+gem 'rspec'
+gem 'sinatra'
+gem 'mini_magick'
+gem 'rake'
+gem 'appraisal'
+gem 'selenium-webdriver'

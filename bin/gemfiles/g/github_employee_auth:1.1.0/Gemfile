@@ -1,0 +1,5 @@
+gem 'rack-ssl'
+gem 'sinatra_auth_github'
+gem 'guard'
+gem 'rspec'
+gem 'rack-test'

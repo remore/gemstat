@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'rake'
+gem 'test-unit'
+gem 'pry'
+gem 'pry-nav'

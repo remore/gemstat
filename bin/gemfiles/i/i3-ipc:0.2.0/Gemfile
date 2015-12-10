@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'yajl-ruby'
+gem 'shoulda'
+gem 'mocha'
+gem 'ronn'

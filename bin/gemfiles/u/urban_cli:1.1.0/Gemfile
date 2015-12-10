@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'minitest'
+gem 'rdoc'
+gem 'rake'
+gem 'hoe'

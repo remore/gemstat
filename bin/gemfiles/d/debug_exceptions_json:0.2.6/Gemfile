@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'pry-rails'
+gem 'rspec-json_matcher'

@@ -1,0 +1,6 @@
+gem 'mail2frontmatter'
+gem 'auto_html-whistlerbrk'
+gem 'rspec'
+gem 'byebug'
+gem 'bundler'
+gem 'rake'

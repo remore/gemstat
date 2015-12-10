@@ -1,0 +1,6 @@
+gem 'typhoeus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'byebug'
+gem 'simplecov'

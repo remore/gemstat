@@ -1,0 +1,8 @@
+gem 'pry-de'
+gem 'beg'
+gem 'minitest'
+gem 'turn'
+gem 'guard-sporkminitest'
+gem 'rb-inotify'
+gem 'rb-fsevent'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'terminal-notifier'
+gem 'growl'
+gem 'bundler'
+gem 'rake'

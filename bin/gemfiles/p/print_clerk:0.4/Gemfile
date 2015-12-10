@@ -1,0 +1,4 @@
+gem 'office_clerk'
+gem 'barby'
+gem 'chunky_png'
+gem 'prawn'

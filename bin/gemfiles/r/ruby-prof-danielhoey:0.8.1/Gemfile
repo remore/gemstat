@@ -1,0 +1,2 @@
+gem 'os'
+gem 'rake-compiler'

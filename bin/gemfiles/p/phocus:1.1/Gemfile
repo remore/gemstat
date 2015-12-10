@@ -1,0 +1,5 @@
+gem 'nanotest'
+gem 'minitest'
+gem 'thoughtbot-shoulda'
+gem 'citrusbyte-contest'
+gem 'jeremymcanally-context'

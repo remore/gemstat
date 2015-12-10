@@ -1,0 +1,7 @@
+gem 'thin'
+gem 'sinatra-rocketio'
+gem 'sinatra-assetpack'
+gem 'bundler'
+gem 'rake'
+gem 'sass'
+gem 'compass'

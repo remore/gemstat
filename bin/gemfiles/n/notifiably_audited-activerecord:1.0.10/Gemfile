@@ -1,0 +1,2 @@
+gem 'notifiably_audited'
+gem 'activerecord'

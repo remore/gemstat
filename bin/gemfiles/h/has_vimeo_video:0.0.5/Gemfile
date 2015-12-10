@@ -1,0 +1,5 @@
+gem 'vimeo'
+gem 'rspec'
+gem 'mocha'
+gem 'rake'
+gem 'supermodel'

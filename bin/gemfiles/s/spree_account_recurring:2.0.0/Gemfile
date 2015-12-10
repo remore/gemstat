@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'stripe'
+gem 'stripe_tester'
+gem 'rspec-rails'

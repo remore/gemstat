@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'wwtd'
+gem 'thor'
+gem 'hashie'
+gem 'movingsign_api'

@@ -1,0 +1,7 @@
+gem 'savon'
+gem 'bundler'
+gem 'factory_girl'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'

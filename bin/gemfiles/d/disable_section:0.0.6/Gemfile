@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'rake'

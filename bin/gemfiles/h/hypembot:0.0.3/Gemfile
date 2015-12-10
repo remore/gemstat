@@ -1,0 +1,6 @@
+gem 'directory_watcher'
+gem 'eventmachine'
+gem 'growl'
+gem 'mp3info'
+gem 'rake'
+gem 'bundler'

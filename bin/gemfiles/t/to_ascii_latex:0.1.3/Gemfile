@@ -1,0 +1,4 @@
+gem 'to_latex'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'

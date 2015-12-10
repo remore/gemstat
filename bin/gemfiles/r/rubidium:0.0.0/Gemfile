@@ -1,0 +1,7 @@
+gem 'jeweler'
+gem 'rake'
+gem 'selenium-client'
+gem 'nokogiri'
+gem 'rspec'
+gem 'deep_test'
+gem 'ruby-debug'

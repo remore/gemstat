@@ -1,0 +1,4 @@
+gem 'bunny'
+gem 'gem_publisher'
+gem 'rspec'
+gem 'rake'

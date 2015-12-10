@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'fb_graph'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'

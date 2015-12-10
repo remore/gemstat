@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rake'
+gem 'posix-spawn'
+gem 'escape'
+gem 'eventmachine'

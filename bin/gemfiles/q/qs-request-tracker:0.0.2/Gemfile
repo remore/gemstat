@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'service-client'
+gem 'sinatra'
+gem 'rack-client'
+gem 'rack-test'
+gem 'uuid'

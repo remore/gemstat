@@ -1,0 +1,5 @@
+gem 'text-table'
+gem 'rspec'
+gem 'sinatra'
+gem 'capybara'
+gem 'pry-rails'

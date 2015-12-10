@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'advantage_quickbase'
+gem 'activesupport'
+gem 'activemodel'

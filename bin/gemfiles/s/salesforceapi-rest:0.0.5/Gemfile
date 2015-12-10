@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rforce'
+gem 'omniauth'
+gem 'httparty'
+gem 'activeresource'
+gem 'crack'
+gem 'builder'

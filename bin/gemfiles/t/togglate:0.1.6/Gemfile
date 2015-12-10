@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'mymemory'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'

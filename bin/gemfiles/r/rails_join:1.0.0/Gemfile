@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

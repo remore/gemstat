@@ -1,0 +1,7 @@
+gem 'twitter'
+gem 'oauth'
+gem 'readline-ng'
+gem 'rake'
+gem 'mocha'
+gem 'rspec'
+gem 'mktemp'

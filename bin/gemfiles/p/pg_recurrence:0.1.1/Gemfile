@@ -1,0 +1,8 @@
+gem 'crack'
+gem 'pg_serializer'
+gem 'pg_connection'
+gem 'pg_creditcard'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

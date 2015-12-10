@@ -1,0 +1,8 @@
+gem 'librarian'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'puppet'
+gem 'minitest'
+gem 'mocha'

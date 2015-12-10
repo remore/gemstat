@@ -1,0 +1,4 @@
+gem 'yaml-front-matter'
+gem 'plist'
+gem 'commander'
+gem 'rake'

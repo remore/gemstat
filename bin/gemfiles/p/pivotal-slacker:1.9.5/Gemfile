@@ -1,0 +1,6 @@
+gem 'pivotal-tracker'
+gem 'rainbow'
+gem 'actionpack'
+gem 'launchy'
+gem 'commander'
+gem 'activeresource'

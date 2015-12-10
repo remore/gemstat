@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'curb'
+gem 'bundler'
+gem 'rake'

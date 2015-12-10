@@ -1,0 +1,6 @@
+gem 'kwalify'
+gem 'shoulda'
+gem 'bundler'
+gem 'rake'
+gem 'rcov'
+gem 'fakeweb'

@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'
+gem 'oga'
+gem 'thor'
+gem 'fuzzy_match'
+gem 'launchy'

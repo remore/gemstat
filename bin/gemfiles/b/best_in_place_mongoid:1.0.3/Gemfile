@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mongoid'
+gem 'jquery-rails'
+gem 'rspec-rails'
+gem 'nokogiri'
+gem 'capybara'

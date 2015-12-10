@@ -1,0 +1,5 @@
+gem 'ontomde-demo-acegi'
+gem 'ontomde-demo-flex'
+gem 'ontomde-demo-struts'
+gem 'ontomde-demo-java5'
+gem 'ontomde-demo-bpm'

@@ -1,0 +1,7 @@
+gem 'json'
+gem 'ruby-hmac'
+gem 'libxml-ruby'
+gem 'net-http-persistent'
+gem 'redcarpet'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'fog-google'
+gem 'google-api-client'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

@@ -1,0 +1,5 @@
+gem 'json'
+gem 'slop'
+gem 'term-ansicolor'
+gem 'rspec'
+gem 'fuubar'

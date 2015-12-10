@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'erubis'
+gem 'rake'
+gem 'rspec'
+gem 'yard'

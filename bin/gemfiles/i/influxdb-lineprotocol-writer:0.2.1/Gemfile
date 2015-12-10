@@ -1,0 +1,4 @@
+gem 'excon'
+gem 'rake'
+gem 'sensu-plugin'
+gem 'net-ping'

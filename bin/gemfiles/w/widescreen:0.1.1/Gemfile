@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'sinatra'
+gem 'rake'
+gem 'minitest'
+gem 'timecop'
+gem 'rack-test'

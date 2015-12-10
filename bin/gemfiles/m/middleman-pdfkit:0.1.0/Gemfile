@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'pdfkit'
+gem 'wkhtmltopdf_binary_provider'
+gem 'bundler'
+gem 'rake'

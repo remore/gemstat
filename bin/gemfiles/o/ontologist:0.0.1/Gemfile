@@ -1,0 +1,6 @@
+gem 'middleman-core'
+gem 'middleman-core'
+gem 'tzinfo'
+gem 'activesupport'
+gem 'rdf'
+gem 'addressable'

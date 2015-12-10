@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'daemons'
+gem 'settingslogic'
+gem 'aws-sdk'
+gem 'json'
+gem 'retries'

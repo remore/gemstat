@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'faker'
+gem 'mocha'
+gem 'sqlite3'
+gem 'autotest'
+gem 'activerecord'
+gem 'defined'

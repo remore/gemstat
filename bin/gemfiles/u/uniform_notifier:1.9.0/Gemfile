@@ -1,0 +1,5 @@
+gem 'ruby-growl'
+gem 'ruby_gntp'
+gem 'xmpp4r'
+gem 'slack-notifier'
+gem 'rspec'

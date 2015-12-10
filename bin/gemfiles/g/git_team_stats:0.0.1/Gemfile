@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'json'
+gem 'progress_bar'
+gem 'rainbow'
+gem 'language_sniffer'
+gem 'gli'

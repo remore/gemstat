@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'resque'
+gem 'activesupport'
+gem 'activerecord'
+gem 'state_machine'
+gem 'mysql2'

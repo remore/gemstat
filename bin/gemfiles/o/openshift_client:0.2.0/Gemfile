@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'webmock'
+gem 'rubocop'
+gem 'kubeclient'
+gem 'activesupport'
+gem 'recursive-open-struct'

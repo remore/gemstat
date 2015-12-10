@@ -1,0 +1,6 @@
+gem 'commander'
+gem 'xctools'
+gem 'sparklecast'
+gem 'redcarpet'
+gem 'aws-sdk'
+gem 'bundler'

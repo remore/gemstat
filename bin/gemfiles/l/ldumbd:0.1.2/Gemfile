@@ -1,0 +1,7 @@
+gem 'ruby-ldapserver'
+gem 'sequel'
+gem 'sqlite3'
+gem 'pg'
+gem 'mysql2'
+gem 'rake'
+gem 'minitest'

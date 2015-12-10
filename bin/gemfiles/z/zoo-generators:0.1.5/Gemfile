@@ -1,0 +1,8 @@
+gem 'rspec-rails'
+gem 'cucumber'
+gem 'rails'
+gem 'mocha'
+gem 'bcrypt-ruby'
+gem 'sqlite3-ruby'
+gem 'haml-rails'
+gem 'formtastic'

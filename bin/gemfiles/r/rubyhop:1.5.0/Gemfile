@@ -1,0 +1,4 @@
+gem 'gosu'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

@@ -1,0 +1,6 @@
+gem 'zipruby'
+gem 'libxml-ruby'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

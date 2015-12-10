@@ -1,0 +1,4 @@
+gem 'github_api'
+gem 'rb-fsevent'
+gem 'guard-rspec'
+gem 'pry'

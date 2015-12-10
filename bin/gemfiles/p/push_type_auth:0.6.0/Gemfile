@@ -1,0 +1,7 @@
+gem 'push_type_core'
+gem 'push_type_admin'
+gem 'devise'
+gem 'highline'
+gem 'minitest-spec-rails'
+gem 'database_cleaner'
+gem 'factory_girl_rails'

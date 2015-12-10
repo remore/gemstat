@@ -1,0 +1,8 @@
+gem 'oily_png'
+gem 'color'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rubocop'

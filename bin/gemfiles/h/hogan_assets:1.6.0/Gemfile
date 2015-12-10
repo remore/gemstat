@@ -1,0 +1,6 @@
+gem 'execjs'
+gem 'tilt'
+gem 'sprockets'
+gem 'debugger'
+gem 'haml'
+gem 'slim'

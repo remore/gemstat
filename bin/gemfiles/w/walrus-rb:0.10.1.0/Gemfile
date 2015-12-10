@@ -1,0 +1,7 @@
+gem 'therubyracer'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'guard-rspec'
+gem 'guard-spork'

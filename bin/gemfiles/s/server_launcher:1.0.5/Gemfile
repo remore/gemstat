@@ -1,0 +1,4 @@
+gem 'meta_methods'
+gem 'file_utils'
+gem 'gemspec_deps_gen'
+gem 'gemcutter'

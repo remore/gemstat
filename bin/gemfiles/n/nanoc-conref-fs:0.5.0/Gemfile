@@ -1,0 +1,6 @@
+gem 'nanoc'
+gem 'activesupport'
+gem 'liquid'
+gem 'rake'
+gem 'minitest'
+gem 'awesome_print'

@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'yard'
+gem 'redcarpet'
+gem 'rspec'

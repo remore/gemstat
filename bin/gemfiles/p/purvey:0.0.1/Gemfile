@@ -1,0 +1,2 @@
+gem 'ftpd'
+gem 'rspec'

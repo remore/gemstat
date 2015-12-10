@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'sqlite3'
+gem 'rails'
+gem 'sass-rails'

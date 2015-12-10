@@ -1,0 +1,6 @@
+gem 'omniauth'
+gem 'i18n'
+gem 'rack-test'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

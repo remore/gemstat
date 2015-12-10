@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'jnunemaker-validatable'
+gem 'plucky'
+gem 'json'
+gem 'jnunemaker-matchy'
+gem 'shoulda'
+gem 'timecop'
+gem 'mocha'

@@ -1,0 +1,5 @@
+gem 'easyprompt'
+gem 'libxml-ruby'
+gem 'progressbar'
+gem 'rcommand'
+gem 'rtmapi'

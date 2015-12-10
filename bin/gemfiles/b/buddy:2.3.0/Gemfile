@@ -1,0 +1,4 @@
+gem 'mini_fb'
+gem 'yajl-ruby'
+gem 'httparty'
+gem 'rake'

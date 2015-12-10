@@ -1,0 +1,5 @@
+gem 'riak-client'
+gem 'ork'
+gem 'protest'
+gem 'mocha'
+gem 'coveralls'

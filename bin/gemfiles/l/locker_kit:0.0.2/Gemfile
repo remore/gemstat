@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'pygments.rb'
+gem 'redcarpet'
+gem 'sqlite3'

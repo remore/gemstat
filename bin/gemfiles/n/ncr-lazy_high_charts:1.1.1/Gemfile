@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'webrat'
+gem 'rspec'
+gem 'rails'

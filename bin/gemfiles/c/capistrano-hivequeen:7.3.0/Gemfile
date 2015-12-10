@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'activesupport'
+gem 'json'
+gem 'egads'
+gem 'excon'

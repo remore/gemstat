@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'json'
+gem 'logger'
+gem 'octokit'
+gem 'git'
+gem 'graph'

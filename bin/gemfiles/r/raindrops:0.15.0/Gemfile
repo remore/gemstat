@@ -1,0 +1,7 @@
+gem 'aggregate'
+gem 'test-unit'
+gem 'io-extra'
+gem 'posix_mq'
+gem 'rack'
+gem 'unicorn'
+gem 'olddoc'

@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'ruby-mpd'
+gem 'launchy'
+gem 'awesome_print'
+gem 'bundler'
+gem 'rake'

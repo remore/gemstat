@@ -1,0 +1,7 @@
+gem 'rake-pipeline'
+gem 'rack'
+gem 'typescript-node'
+gem 'typescript-src'
+gem 'execjs'
+gem 'rspec'
+gem 'therubyracer'

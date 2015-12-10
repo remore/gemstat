@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'rake'
+gem 'fagin'
+gem 'ruby-terminfo'

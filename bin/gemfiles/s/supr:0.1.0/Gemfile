@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'yard'
+gem 'crack'
+gem 'httparty'

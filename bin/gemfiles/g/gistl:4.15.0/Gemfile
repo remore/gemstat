@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'ronn'
+gem 'webmock'
+gem 'rspec'

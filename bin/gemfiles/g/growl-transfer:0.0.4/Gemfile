@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-growl'
+gem 'net-scp'
+gem 'ruby-growl'
+gem 'net-scp'

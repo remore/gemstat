@@ -1,0 +1,5 @@
+gem 'cequel'
+gem 'orm_adapter-cequel'
+gem 'devise'
+gem 'bundler'
+gem 'rake'

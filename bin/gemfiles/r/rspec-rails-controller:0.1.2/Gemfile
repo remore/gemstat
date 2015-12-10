@@ -1,0 +1,5 @@
+gem 'rspec-rails'
+gem 'cucumber'
+gem 'cucumber-rails'
+gem 'activerecord'
+gem 'sqlite3'

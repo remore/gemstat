@@ -1,0 +1,6 @@
+gem 'chupa-text-decomposer-pdf'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'packnga'
+gem 'redcarpet'

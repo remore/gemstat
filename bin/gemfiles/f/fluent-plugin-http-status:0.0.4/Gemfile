@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'polling'
+gem 'fluentd'
+gem 'polling'

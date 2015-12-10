@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'OptionParser'
+gem 'bundler'
+gem 'rake'

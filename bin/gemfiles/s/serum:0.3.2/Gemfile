@@ -1,0 +1,6 @@
+gem 'safe_yaml'
+gem 'rake'
+gem 'rdoc'
+gem 'redgreen'
+gem 'shoulda'
+gem 'rr'

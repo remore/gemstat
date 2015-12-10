@@ -1,0 +1,8 @@
+gem 'json'
+gem 'prawn'
+gem 'prawn-table'
+gem 'chronic'
+gem 'ruby-trello'
+gem 'thor'
+gem 'launchy'
+gem 'axlsx'

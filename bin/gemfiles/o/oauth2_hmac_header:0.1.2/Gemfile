@@ -1,0 +1,4 @@
+gem 'oauth2_hmac_sign'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

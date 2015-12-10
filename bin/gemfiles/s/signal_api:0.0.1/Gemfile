@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'builder'
+gem 'fakeweb'
+gem 'shoulda'
+gem 'rake'
+gem 'yard'
+gem 'bluecloth'
+gem 'mocha'

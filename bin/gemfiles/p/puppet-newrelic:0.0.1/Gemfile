@@ -1,0 +1,2 @@
+gem 'newrelic_rpm'
+gem 'puppet'

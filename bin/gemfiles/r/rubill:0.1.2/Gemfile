@@ -1,0 +1,4 @@
+gem 'httmultiparty'
+gem 'json'
+gem 'rspec'
+gem 'rake'

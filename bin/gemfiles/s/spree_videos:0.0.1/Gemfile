@@ -1,0 +1,2 @@
+gem 'spree_core'
+gem 'formtastic'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'ancestry'
+gem 'sqlite3'
+gem 'rails-dummy'
+gem 'pry'

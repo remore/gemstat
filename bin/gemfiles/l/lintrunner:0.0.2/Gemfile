@@ -1,0 +1,4 @@
+gem 'rugged'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'

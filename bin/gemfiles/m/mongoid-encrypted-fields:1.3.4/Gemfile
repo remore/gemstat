@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'rake'
+gem 'rspec'
+gem 'gibberish'
+gem 'encrypted_strings'
+gem 'coveralls'
+gem 'simplecov'

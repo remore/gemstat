@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'contest'
+gem 'mocha'
+gem 'rack-test'
+gem 'nokogiri'
+gem 'ohm'
+gem 'haml'

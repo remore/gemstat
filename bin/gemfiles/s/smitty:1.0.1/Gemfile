@@ -1,0 +1,6 @@
+gem 'docopt'
+gem 'nokogiri'
+gem 'mail'
+gem 'premailer'
+gem 'bundler'
+gem 'rake'

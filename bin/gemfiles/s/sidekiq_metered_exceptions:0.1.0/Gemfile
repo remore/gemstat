@@ -1,0 +1,5 @@
+gem 'sidekiq'
+gem 'minitest'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

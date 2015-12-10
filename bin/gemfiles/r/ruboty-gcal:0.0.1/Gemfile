@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'google_calendar'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

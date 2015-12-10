@@ -1,0 +1,7 @@
+gem 'sass'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'nokogiri'
+gem 'rmagick'

@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'sprockets-rails'
+gem 'jasmine-core'
+gem 'phantomjs'
+gem 'testbeds'

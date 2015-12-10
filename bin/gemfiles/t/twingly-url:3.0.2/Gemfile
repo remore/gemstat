@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'public_suffix'
+gem 'idn-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-prof'

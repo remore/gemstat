@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'sinatra'
+gem 'sinatra-websocket'
+gem 'em-http-request'
+gem 'thin'
+gem 'thor'
+gem 'json'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'bunny'
+gem 'celluloid'
+gem 'oj'
+gem 'servitude'
+gem 'yell'

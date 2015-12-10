@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'git_diff_parser'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'nori'

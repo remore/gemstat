@@ -1,0 +1,4 @@
+gem 'pronto'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

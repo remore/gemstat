@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'koudoku'
+gem 'haml-rails'
+gem 'sqlite3'

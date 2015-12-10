@@ -1,0 +1,5 @@
+gem 'lsegal-yard'
+gem 'mocha'
+gem 'activeresource'
+gem 'francois-rest-client'
+gem 'nokogiri'

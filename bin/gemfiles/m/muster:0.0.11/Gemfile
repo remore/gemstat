@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'rack'
+gem 'pry'
+gem 'rspec'
+gem 'redcarpet'
+gem 'rubocop'
+gem 'simplecov'
+gem 'yard'

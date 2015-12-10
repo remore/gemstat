@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'dotenv'
+gem 'rake'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'pry'

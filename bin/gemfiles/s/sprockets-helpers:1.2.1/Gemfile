@@ -1,0 +1,6 @@
+gem 'sprockets'
+gem 'appraisal'
+gem 'rspec'
+gem 'test_construct'
+gem 'sinatra'
+gem 'rake'

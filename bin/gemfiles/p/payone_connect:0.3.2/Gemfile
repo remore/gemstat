@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'fakeweb'
+gem 'rake'

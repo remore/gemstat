@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'netrc'
+gem 'aws-sdk'
+gem 'bitballoon'
+gem 'public_suffix'
+gem 'colorize'
+gem 'activesupport'

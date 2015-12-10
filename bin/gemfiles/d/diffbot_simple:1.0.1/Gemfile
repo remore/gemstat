@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'autotest-standalone'
+gem 'webmock'
+gem 'rest-core'
+gem 'multi_json'

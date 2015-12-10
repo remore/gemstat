@@ -1,0 +1,4 @@
+gem 'gist'
+gem 'woro'
+gem 'bundler'
+gem 'rake'

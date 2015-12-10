@@ -1,0 +1,7 @@
+gem 'polyglot'
+gem 'jeweler'
+gem 'activesupport'
+gem 'i18n'
+gem 'rr'
+gem 'rspec'
+gem 'rake'

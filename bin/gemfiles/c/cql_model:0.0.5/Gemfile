@@ -1,0 +1,7 @@
+gem 'cql-rb'
+gem 'activemodel'
+gem 'activesupport'
+gem 'minitest'
+gem 'simplecov'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'minitest-hooks'
+gem 'minispec-metadata'
+gem 'mini_magick'
+gem 'phashion'

@@ -1,0 +1,5 @@
+gem 'smith'
+gem 'sys-proctable'
+gem 'yard'
+gem 'bundler'
+gem 'rake'

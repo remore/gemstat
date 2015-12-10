@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'capistrano'
+gem 'rvm-capistrano'
+gem 'capistrano_colors'

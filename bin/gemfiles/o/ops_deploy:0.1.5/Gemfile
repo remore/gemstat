@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'httparty'
+gem 'colorize'
+gem 'slack-notifier'
+gem 'pusher'
+gem 'pusher-client'

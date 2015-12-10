@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'buftok'
+gem 'http'
+gem 'json'
+gem 'simple_oauth'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

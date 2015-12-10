@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'berkshelf'
+gem 'chef'
+gem 'ignorefile'
+gem 'thor'
+gem 'thor-scmversion'

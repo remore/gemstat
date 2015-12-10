@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'activesupport'
+gem 'actionmailer'
+gem 'que'
+gem 'pg'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'

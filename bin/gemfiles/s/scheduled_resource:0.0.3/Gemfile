@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'coffee-rails'
+gem 'bundler'
+gem 'rake'

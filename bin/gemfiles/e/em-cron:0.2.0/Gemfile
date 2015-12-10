@@ -1,0 +1,5 @@
+gem 'parse-cron'
+gem 'eventmachine'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

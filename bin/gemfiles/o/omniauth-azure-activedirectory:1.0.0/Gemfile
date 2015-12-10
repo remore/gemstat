@@ -1,0 +1,7 @@
+gem 'jwt'
+gem 'omniauth'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'rack-test'
+gem 'i18n'
+gem 'json'
+gem 'xml-simple'
+gem 'builder'
+gem 'activesupport'
+gem 'mime-types'

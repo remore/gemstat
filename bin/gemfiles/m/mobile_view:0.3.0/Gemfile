@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rack-mobile-detect'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'poltergeist'

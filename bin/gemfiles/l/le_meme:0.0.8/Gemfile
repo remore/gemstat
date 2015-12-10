@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rmagick'
+gem 'word_wrapper'
+gem 'slop'

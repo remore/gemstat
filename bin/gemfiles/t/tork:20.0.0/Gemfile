@@ -1,0 +1,6 @@
+gem 'md2man'
+gem 'binman'
+gem 'json'
+gem 'listen'
+gem 'diff-lcs'
+gem 'rake'

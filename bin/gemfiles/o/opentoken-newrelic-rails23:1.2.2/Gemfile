@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'shoulda'
+gem 'timecop'
+gem 'rake'

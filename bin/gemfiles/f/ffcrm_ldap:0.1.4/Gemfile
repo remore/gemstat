@@ -1,0 +1,5 @@
+gem 'fat_free_crm'
+gem 'net-ldap'
+gem 'rspec'
+gem 'rdoc'
+gem 'jeweler'

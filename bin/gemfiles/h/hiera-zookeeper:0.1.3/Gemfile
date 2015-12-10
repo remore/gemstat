@@ -1,0 +1,2 @@
+gem 'hiera'
+gem 'zookeeper'

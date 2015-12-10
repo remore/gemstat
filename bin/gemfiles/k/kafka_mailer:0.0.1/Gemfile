@@ -1,0 +1,6 @@
+gem 'poseidon'
+gem 'rake'
+gem 'simplecov'
+gem 'byebug'
+gem 'rspec'
+gem 'mail'

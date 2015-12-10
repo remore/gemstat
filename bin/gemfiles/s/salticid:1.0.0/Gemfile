@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'net-scp'
+gem 'net-ssh'
+gem 'net-ssh-gateway'
+gem 'net-ssh-multi'

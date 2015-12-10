@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'guard-compat'
+gem 'foodcritic'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'gtk2'
+gem 'rsvg2'
+gem 'gettext'
+gem 'taglib2'
+gem 'gstreamer'
+gem 'ruby-mp3info'
+gem 'globalhotkeys'

@@ -1,0 +1,5 @@
+gem 'hashie'
+gem 'httparty'
+gem 'multi_json'
+gem 'sequel'
+gem 'sinatra'

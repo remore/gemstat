@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'capistrano'
+gem 'resque'
+gem 'haml'
+gem 'actionview'
+gem 'hashie'

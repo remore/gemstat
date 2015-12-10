@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'volt'
+gem 'slim'
+gem 'sorcerer'

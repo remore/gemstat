@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec_testlink_formatters'
+gem 'testlink_rspec_utils'
+gem 'xml-simple'

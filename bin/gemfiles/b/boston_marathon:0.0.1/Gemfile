@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'redgreen'
+gem 'vcr'
+gem 'fakeweb'
+gem 'shoulda-context'

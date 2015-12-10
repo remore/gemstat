@@ -1,0 +1,5 @@
+gem 'tire'
+gem 'rake'
+gem 'rspec'
+gem 'oj'
+gem 'activerecord'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'go_script'
+gem 'rake'
+gem 'minitest'
+gem 'codeclimate-test-reporter'
+gem 'coveralls'
+gem 'rubocop'
+gem 'about_yml'

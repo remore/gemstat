@@ -1,0 +1,6 @@
+gem 'goliath'
+gem 'log4r'
+gem 'em-http-request'
+gem 'trollop'
+gem 'dedent'
+gem 'colorize'

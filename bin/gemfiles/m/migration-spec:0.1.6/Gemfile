@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'generator-spec'
+gem 'rspec'
+gem 'require_all'
+gem 'rails3_assist'
+gem 'rails-app-spec'

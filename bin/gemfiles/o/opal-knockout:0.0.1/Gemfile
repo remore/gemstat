@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'opal'
+gem 'opal-jquery'
+gem 'opal-rspec'
+gem 'yard'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'hoodie'
+gem 'rest-client'
+gem 'addressable'
+gem 'rake'
+gem 'yard'
+gem 'pry'
+gem 'inch'
+gem 'yardstick'

@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'net-http-persistent'
+gem 'activesupport'
+gem 'thor'
+gem 'railties'
+gem 'ansi'

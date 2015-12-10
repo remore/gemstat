@@ -1,0 +1,4 @@
+gem 'lita'
+gem 'rest-client'
+gem 'bundler'
+gem 'rspec'

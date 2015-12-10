@@ -1,0 +1,4 @@
+gem 'config'
+gem 'rails'
+gem 'bundler'
+gem 'rake'

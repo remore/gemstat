@@ -1,0 +1,6 @@
+gem 'countries'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rails_admin'
+gem 'devise'

@@ -1,0 +1,4 @@
+gem 'riemann-tools'
+gem 'redis'
+gem 'sidekiq'
+gem 'bundler'

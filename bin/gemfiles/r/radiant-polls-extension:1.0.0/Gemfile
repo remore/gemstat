@@ -1,0 +1,2 @@
+gem 'radiant'
+gem 'radiant-cache_by_page-extension'

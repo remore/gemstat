@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'multi_json'
+gem 'addressable'
+gem 'mocha'
+gem 'test-unit'
+gem 'rake'

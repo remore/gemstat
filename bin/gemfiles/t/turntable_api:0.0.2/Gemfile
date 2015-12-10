@@ -1,0 +1,5 @@
+gem 'websocker'
+gem 'json'
+gem 'httparty'
+gem 'rspec'
+gem 'rake'

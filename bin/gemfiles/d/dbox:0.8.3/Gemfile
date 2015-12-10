@@ -1,0 +1,6 @@
+gem 'multipart-post'
+gem 'oauth'
+gem 'json'
+gem 'sqlite3'
+gem 'dropbox-sdk'
+gem 'jeweler'

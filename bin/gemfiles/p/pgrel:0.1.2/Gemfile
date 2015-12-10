@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'pg'
+gem 'rake'
+gem 'simplecov'
+gem 'pry-byebug'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'browser'
+gem 'mobileesp_converted'
+gem 'bundler'
+gem 'rake'
+gem 'gem-release'

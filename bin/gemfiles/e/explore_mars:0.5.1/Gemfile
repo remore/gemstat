@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'valid_attribute'

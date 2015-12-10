@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'httparty'
+gem 'jeweler'
+gem 'shoulda'
+gem 'mcmire-matchy'
+gem 'mocha'
+gem 'fakeweb'

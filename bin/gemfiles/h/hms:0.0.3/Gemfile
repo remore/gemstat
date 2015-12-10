@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'guard-minitest'
+gem 'guard-bundler'
+gem 'coolline'
+gem 'growl'

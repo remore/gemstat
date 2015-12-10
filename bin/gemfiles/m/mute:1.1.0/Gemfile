@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'cane'
+gem 'cane-hashcheck'
+gem 'coveralls'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'onstomp'
+gem 'ruote'
+gem 'json'
+gem 'parslet'
+gem 'rake'
+gem 'rspec'
+gem 'stompserver'

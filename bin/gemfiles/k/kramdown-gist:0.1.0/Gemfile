@@ -1,0 +1,6 @@
+gem 'kramdown'
+gem 'yard'
+gem 'bundler'
+gem 'rspec'
+gem 'redcarpet'
+gem 'github-markup'

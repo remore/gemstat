@@ -1,0 +1,7 @@
+gem 'mixpanel'
+gem 'rails'
+gem 'rspec'
+gem 'capybara'
+gem 'steak'
+gem 'steak'
+gem 'rspec-rails'

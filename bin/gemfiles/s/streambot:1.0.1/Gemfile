@@ -1,0 +1,7 @@
+gem 'twistream'
+gem 'oauth'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'rcov'
+gem 'reek'

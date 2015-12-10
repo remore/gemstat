@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'thor'
+gem 'highline'
+gem 'nokogiri'
+gem 'virtus'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'

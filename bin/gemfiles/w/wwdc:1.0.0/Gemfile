@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'excon'
+gem 'rspec'
+gem 'rake'

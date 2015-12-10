@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'addressable'
+gem 'rspec'
+gem 'webmock'
+gem 'json'

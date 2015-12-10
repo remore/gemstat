@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'chalk-log'
+gem 'subprocess'
+gem 'pry'
+gem 'rake'
+gem 'rubocop'

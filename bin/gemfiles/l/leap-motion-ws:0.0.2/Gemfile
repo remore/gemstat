@@ -1,0 +1,6 @@
+gem 'websocket-eventmachine-client'
+gem 'json'
+gem 'shoulda'
+gem 'bundler'
+gem 'rdoc'
+gem 'rake'

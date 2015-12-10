@@ -1,0 +1,4 @@
+gem 'httpi'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'

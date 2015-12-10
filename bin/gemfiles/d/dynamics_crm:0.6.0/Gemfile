@@ -1,0 +1,7 @@
+gem 'curb'
+gem 'mimemagic'
+gem 'builder'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'hpricot'
+gem 'sc-core-ext'
+gem 'rubigen'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'webrat'
+gem 'hoe'

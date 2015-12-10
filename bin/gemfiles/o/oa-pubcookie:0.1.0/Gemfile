@@ -1,0 +1,4 @@
+gem 'rack-pubcookie'
+gem 'omniauth'
+gem 'net-ldap'
+gem 'rack'

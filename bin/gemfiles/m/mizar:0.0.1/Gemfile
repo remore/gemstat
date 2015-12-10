@@ -1,0 +1,7 @@
+gem 'ruby_parser'
+gem 'coderay'
+gem 'slop'
+gem 'method_source'
+gem 'bacon'
+gem 'open4'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'coderay'
+gem 'rouge'
+gem 'stringex'
+gem 'prawn'
+gem 'ritex'
+gem 'itextomml'

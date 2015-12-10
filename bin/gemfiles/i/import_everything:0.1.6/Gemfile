@@ -1,0 +1,8 @@
+gem 'mharris_ext'
+gem 'activesupport'
+gem 'hpricot'
+gem 'yard'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

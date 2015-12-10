@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'memcache-client'
+gem 'mongo'
+gem 'syslogger'
+gem 'kwalify'
+gem 'activesupport'
+gem 'bson_ext'

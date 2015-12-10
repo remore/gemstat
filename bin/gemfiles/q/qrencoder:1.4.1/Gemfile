@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake-compiler'
+gem 'sdoc'
+gem 'zxing'
+gem 'chunky_png'

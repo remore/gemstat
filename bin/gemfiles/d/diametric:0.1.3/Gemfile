@@ -1,0 +1,7 @@
+gem 'edn'
+gem 'activesupport'
+gem 'activemodel'
+gem 'datomic-client'
+gem 'rubyzip'
+gem 'uuid'
+gem 'rspec'

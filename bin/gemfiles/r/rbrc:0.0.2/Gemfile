@@ -1,0 +1,7 @@
+gem 'parseconfig'
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'fakefs'
+gem 'mocha'

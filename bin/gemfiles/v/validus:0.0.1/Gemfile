@@ -1,0 +1,6 @@
+gem 'contest'
+gem 'flay'
+gem 'flog'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'rdoc'

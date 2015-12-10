@@ -1,0 +1,4 @@
+gem 'jasmine-headless-webkit-firstbanco'
+gem 'coffee-script-source'
+gem 'headless'
+gem 'rails'

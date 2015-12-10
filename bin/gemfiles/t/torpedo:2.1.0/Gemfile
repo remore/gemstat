@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'thor'
+gem 'test-unit'
+gem 'fog'
+gem 'net-ssh'

@@ -1,0 +1,7 @@
+gem 'jquery-rails'
+gem 'pg'
+gem 'bulk_data_methods'
+gem 'activerecord-redshift-adapter'
+gem 'activerecord'
+gem 'rails'
+gem 'rspec-rails'

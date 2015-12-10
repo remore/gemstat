@@ -1,0 +1,4 @@
+gem 'ruby-thumbor'
+gem 'rspec'
+gem 'rb-fsevent'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'metadata-json-lint'
+gem 'puppet-lint'
+gem 'rspec-puppet'
+gem 'beaker'
+gem 'kitchen-puppet'
+gem 'bundler'
+gem 'jeweler'

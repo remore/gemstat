@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'pry'
+gem 'capybara'
+gem 'poltergeist'
+gem 'hpricot'

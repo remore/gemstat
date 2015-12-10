@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'codeclimate-test-reporter'
+gem 'elasticsearch-model'

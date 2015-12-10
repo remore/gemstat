@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'semver'
+gem 'guard-rspec'

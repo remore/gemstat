@@ -1,0 +1,6 @@
+gem 'logstash'
+gem 'logstash-codec-plain'
+gem 'stud'
+gem 'jdbc/sqlite3'
+gem 'sequel'
+gem 'logstash-devutils'

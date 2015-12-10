@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'coveralls'
+gem 'rake'
+gem 'minitest'
+gem 'handlebars_assets'
+gem 'jquery-rails'
+gem 'underscore-rails'

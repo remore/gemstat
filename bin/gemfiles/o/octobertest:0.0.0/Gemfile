@@ -1,0 +1,4 @@
+gem 'coderay'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'fog'
+gem 'excon'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'rspec'

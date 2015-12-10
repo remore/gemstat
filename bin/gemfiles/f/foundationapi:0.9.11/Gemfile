@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'addressable'
+gem 'rake'
+gem 'mocha'
+gem 'shoulda'
+gem 'simplecov'

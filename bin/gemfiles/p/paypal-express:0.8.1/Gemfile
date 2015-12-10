@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rest-client'
+gem 'attr_required'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'
+gem 'fakeweb'

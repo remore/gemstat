@@ -1,0 +1,5 @@
+gem 'version'
+gem 'rake'
+gem 'guard-rspec'
+gem 'fuubar'
+gem 'at'

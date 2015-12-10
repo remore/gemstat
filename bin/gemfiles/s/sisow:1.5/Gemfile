@@ -1,0 +1,8 @@
+gem 'httpi'
+gem 'hashie'
+gem 'crack'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'simplecov'
+gem 'simplecov-rcov'

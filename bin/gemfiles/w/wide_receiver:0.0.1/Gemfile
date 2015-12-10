@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-nav'

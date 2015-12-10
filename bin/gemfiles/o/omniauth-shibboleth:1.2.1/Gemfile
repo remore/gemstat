@@ -1,0 +1,4 @@
+gem 'omniauth'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'

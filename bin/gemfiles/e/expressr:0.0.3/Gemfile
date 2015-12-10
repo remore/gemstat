@@ -1,0 +1,6 @@
+gem 'noder'
+gem 'hashie'
+gem 'mime-types'
+gem 'rspec'
+gem 'haml'
+gem 'slim'

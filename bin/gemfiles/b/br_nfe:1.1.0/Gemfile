@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'activesupport'
+gem 'activemodel'
+gem 'nokogiri'
+gem 'savon'
+gem 'signer'

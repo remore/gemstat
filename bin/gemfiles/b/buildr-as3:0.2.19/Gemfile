@@ -1,0 +1,6 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'buildr'
+gem 'rcov'
+gem 'buildr'

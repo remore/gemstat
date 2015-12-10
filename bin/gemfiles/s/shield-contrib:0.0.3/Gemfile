@@ -1,0 +1,7 @@
+gem 'shield'
+gem 'cutest'
+gem 'spawn'
+gem 'ohm'
+gem 'rack-test'
+gem 'sinatra'
+gem 'haml'

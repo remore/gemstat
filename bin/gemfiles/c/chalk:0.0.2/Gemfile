@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'chalk-rake'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'open4'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'minitest'
+gem 'hoe'

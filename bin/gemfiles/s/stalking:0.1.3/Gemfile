@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'bundler'
+gem 'mocha'
+gem 'beanstalk-client'
+gem 'json_pure'

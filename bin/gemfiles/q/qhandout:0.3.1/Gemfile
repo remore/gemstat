@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'prawn'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

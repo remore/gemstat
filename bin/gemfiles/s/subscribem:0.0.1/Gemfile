@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'bcrypt'
+gem 'warden'
+gem 'dynamic_form'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'factory_girl_rails'

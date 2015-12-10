@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'chronic'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'sqlite3'
+gem 'database_cleaner'
+gem 'debugger'

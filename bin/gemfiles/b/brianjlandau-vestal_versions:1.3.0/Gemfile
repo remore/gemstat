@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'rails'
+gem 'shoulda'
+gem 'mocha'
+gem 'rcov'
+gem 'rake'
+gem 'jeweler'
+gem 'sqlite3-ruby'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest-reporters'
+gem 'shoulda'
+gem 'pry'

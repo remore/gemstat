@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'thor'
+gem 'hpricot'
+gem 'tzinfo'
+gem 'builder'
+gem 'rake'

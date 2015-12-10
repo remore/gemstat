@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'sprockets'
+gem 'sprockets-commonjs'
+gem 'listen'
+gem 'stylus'
+gem 'coffee-script'
+gem 'thor'
+gem 'thin'

@@ -1,0 +1,7 @@
+gem 'flay'
+gem 'flog'
+gem 'spicycode-rcov'
+gem 'railroad'
+gem 'reek'
+gem 'roodi'
+gem 'rspec'

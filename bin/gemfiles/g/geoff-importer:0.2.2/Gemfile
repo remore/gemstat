@@ -1,0 +1,6 @@
+gem 'neo4j-community'
+gem 'neo4j-enterprise'
+gem 'jruby-openssl'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-debug'

@@ -1,0 +1,3 @@
+gem 'json'
+gem 'therubyracer'
+gem 'rspec'

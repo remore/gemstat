@@ -1,0 +1,2 @@
+gem 'taglib2'
+gem 'rspec'

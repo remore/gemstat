@@ -1,0 +1,4 @@
+gem 'jekyll'
+gem 'uglifier'
+gem 'rspec'
+gem 'rake'

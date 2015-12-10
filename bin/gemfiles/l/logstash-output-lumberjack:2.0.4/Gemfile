@@ -1,0 +1,7 @@
+gem 'logstash-core'
+gem 'jls-lumberjack'
+gem 'stud'
+gem 'logstash-devutils'
+gem 'logstash-output-lumberjack'
+gem 'logstash-codec-plain'
+gem 'flores'

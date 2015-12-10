@@ -1,0 +1,6 @@
+gem 'toy-attributes'
+gem 'toy-verbs'
+gem 'toy-resources'
+gem 'rails'
+gem 'rspec-rails'
+gem 'sqlite3'

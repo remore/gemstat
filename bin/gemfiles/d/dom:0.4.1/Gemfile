@@ -1,0 +1,2 @@
+gem 'htmlentities'
+gem 'manager'

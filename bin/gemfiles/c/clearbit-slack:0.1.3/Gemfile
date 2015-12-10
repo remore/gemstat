@@ -1,0 +1,6 @@
+gem 'clearbit'
+gem 'maccman-mash'
+gem 'slack-notifier'
+gem 'bundler'
+gem 'pry'
+gem 'rake'

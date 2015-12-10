@@ -1,0 +1,5 @@
+gem 'png_quantizator'
+gem 'piet'
+gem 'rspec'
+gem 'ZenTest'
+gem 'os'

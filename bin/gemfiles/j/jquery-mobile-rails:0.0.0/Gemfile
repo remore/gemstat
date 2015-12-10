@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'thor'
+gem 'jquery-rails'
+gem 'bundler'

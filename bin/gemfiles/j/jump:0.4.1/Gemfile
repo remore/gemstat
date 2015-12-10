@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'jeweler'
+gem 'terminal-table'
+gem 'fakefs'

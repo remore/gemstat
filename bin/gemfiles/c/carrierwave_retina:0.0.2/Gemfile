@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'carrierwave'
+gem 'rails'
+gem 'rmagick'

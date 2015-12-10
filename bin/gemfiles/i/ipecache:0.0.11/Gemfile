@@ -1,0 +1,6 @@
+gem 'app_conf'
+gem 'choice'
+gem 'faraday_middleware'
+gem 'public_suffix'
+gem 'aws-sdk-v1'
+gem 'maxcdn'

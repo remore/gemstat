@@ -1,0 +1,8 @@
+gem 'kestrel-client'
+gem 'fluentd'
+gem 'shoulda'
+gem 'bundler'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'
+gem 'simplecov-rcov'

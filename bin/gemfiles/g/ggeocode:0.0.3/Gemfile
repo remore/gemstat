@@ -1,0 +1,2 @@
+gem 'map'
+gem 'yajl-ruby'

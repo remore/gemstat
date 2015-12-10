@@ -1,0 +1,6 @@
+gem 'test-kitchen'
+gem 'vcoworkflows'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

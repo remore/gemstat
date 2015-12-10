@@ -1,0 +1,3 @@
+gem 'ruport'
+gem 'mailfactory'
+gem 'rubyzip'

@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'rake'
+gem 'rack-test'
+gem 'minitest'
+gem 'sinatra'

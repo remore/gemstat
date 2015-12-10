@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'bitcoin-ruby'
+gem 'ffi'
+gem 'highline'

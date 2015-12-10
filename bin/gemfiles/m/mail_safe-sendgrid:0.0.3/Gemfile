@@ -1,0 +1,6 @@
+gem 'json'
+gem 'mail_safe'
+gem 'sendgrid'
+gem 'actionmailer'
+gem 'rake'
+gem 'rspec'

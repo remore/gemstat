@@ -1,0 +1,4 @@
+gem 'random_bell'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'aasm'
+gem 'activesupport'
+gem 'railties'
+gem 'ruby-graphviz'

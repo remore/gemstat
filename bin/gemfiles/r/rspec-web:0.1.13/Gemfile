@@ -1,0 +1,7 @@
+gem 'em-websocket'
+gem 'haml'
+gem 'sass'
+gem 'sinatra'
+gem 'rspec'
+gem 'web-socket-ruby'
+gem 'version'

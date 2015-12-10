@@ -1,0 +1,8 @@
+gem 'forwarder2'
+gem 'ruby_parser'
+gem 'bundler'
+gem 'rspec'
+gem 'pry'
+gem 'pry-debugger'
+gem 'ae'
+gem 'qed'

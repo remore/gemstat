@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'fakeweb'
+gem 'ruby-debug19'

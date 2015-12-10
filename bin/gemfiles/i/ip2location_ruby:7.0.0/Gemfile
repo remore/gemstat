@@ -1,0 +1,7 @@
+gem 'bindata'
+gem 'awesome_print'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

@@ -1,0 +1,6 @@
+gem 'getopt'
+gem 'httparty'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

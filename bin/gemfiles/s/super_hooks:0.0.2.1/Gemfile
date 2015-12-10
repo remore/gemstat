@@ -1,0 +1,8 @@
+gem 'codeclimate-test-reporter'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rdoc'
+gem 'rspec'
+gem 'rubocop'
+gem 'rubygems-tasks'

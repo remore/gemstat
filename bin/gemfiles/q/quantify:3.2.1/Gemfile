@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'simplecov'
+gem 'rdoc'

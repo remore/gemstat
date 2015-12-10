@@ -1,0 +1,7 @@
+gem 'json'
+gem 'simplecov'
+gem 'rake'
+gem 'rspec'
+gem 'growl'
+gem 'guard'
+gem 'guard-rspec'

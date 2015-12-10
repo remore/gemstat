@@ -1,0 +1,6 @@
+gem 'sixarm_minitest_extensions'
+gem 'sixarm_ruby_fab'
+gem 'minitest'
+gem 'rake'
+gem 'simplecov'
+gem 'coveralls'

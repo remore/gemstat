@@ -1,0 +1,4 @@
+gem 'gems'
+gem 'commander'
+gem 'bundler'
+gem 'rake'

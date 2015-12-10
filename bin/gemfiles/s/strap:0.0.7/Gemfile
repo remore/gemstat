@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'debugger'
+gem 'guard'
+gem 'guard-minitest'
+gem 'rb-fsevent'
+gem 'thor'
+gem 'mysql'

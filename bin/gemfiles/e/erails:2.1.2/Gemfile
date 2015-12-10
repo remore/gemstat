@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'activesupport'
+gem 'activerecord'
+gem 'eactionpack'
+gem 'actionmailer'
+gem 'activeresource'

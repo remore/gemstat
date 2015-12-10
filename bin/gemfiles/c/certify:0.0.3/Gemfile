@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'uuidtools'
+gem 'validates_email_format_of'
+gem 'sqlite3'

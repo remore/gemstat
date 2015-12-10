@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'em-websocket'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'pry'

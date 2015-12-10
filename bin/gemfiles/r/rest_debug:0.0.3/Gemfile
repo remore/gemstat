@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'mharris_ext'
+gem 'debugger'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'tk-doubleslider'
+gem 'tk-parallelcoordinates'
+gem 'bundler'
+gem 'rake'

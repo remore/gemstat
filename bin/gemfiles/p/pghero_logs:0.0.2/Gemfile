@@ -1,0 +1,4 @@
+gem 'pg_query'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'rake'

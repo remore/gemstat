@@ -1,0 +1,7 @@
+gem 'pliny'
+gem 'sidekiq'
+gem 'bundler'
+gem 'pry'
+gem 'pry-byebug'
+gem 'rake'
+gem 'rspec'

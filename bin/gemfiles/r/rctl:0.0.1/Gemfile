@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'guard-minitest'
+gem 'growl'
+gem 'rake'

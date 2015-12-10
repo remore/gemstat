@@ -1,0 +1,8 @@
+gem 'rainbow'
+gem 'trollop'
+gem 'mixlib-config'
+gem 'hirb'
+gem 'erubis'
+gem 'json'
+gem 'rspec'
+gem 'rubocop'

@@ -1,0 +1,4 @@
+gem 'nagios_check'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'

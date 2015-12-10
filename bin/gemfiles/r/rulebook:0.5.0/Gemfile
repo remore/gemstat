@@ -1,0 +1,5 @@
+gem 'meta_tools'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda'
+gem 'mocha'

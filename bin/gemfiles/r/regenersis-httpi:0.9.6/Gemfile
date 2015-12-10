@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'rspec'
+gem 'autotest'
+gem 'mocha'
+gem 'webmock'

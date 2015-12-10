@@ -1,0 +1,4 @@
+gem 'kpeg'
+gem 'rake'
+gem 'rspec'
+gem 'term-ansicolor'

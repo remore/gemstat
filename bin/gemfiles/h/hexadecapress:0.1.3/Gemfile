@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'clash'
+gem 'octopress-ink'
+gem 'octopress-date-format'
+gem 'octopress-feeds'

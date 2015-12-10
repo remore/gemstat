@@ -1,0 +1,8 @@
+gem 'beaneater'
+gem 'facter'
+gem 'json'
+gem 'net-ping'
+gem 'net-ldap'
+gem 'ruby-libvirt'
+gem 'minitest'
+gem 'yard'

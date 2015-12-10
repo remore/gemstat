@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'eventmachine'
+gem 'arduino_firmata'
+gem 'thor'
+gem 'em-websocket'

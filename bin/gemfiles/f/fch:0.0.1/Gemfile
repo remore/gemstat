@@ -1,0 +1,5 @@
+gem 'rubyzip'
+gem 'terminal-table'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'

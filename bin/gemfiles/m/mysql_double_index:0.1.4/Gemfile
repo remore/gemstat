@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'activerecord'
+gem 'terminal-table'
+gem 'mysql2'
+gem 'rails'

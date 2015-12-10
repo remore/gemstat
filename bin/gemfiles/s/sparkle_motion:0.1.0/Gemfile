@@ -1,0 +1,6 @@
+gem 'oj'
+gem 'curb'
+gem 'perlin_noise'
+gem 'logger-better'
+gem 'frisky'
+gem 'mrjoy-launchpad'

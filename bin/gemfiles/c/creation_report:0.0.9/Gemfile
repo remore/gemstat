@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'gchartrb'
+gem 'mysql'
+gem 'sqlite3'

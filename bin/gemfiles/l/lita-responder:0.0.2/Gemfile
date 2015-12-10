@@ -1,0 +1,8 @@
+gem 'lita'
+gem 'lita-exclusive-route'
+gem 'cleverbot'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'

@@ -1,0 +1,4 @@
+gem 'net-ssh'
+gem 'termios'
+gem 'tmail'
+gem 'hoe'

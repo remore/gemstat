@@ -1,0 +1,4 @@
+gem 'gitmodel'
+gem 'rails'
+gem 'bundler'
+gem 'jeweler'

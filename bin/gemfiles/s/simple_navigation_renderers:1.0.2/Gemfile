@@ -1,0 +1,6 @@
+gem 'simple-navigation'
+gem 'actionpack'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'

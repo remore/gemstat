@@ -1,0 +1,4 @@
+gem 'colorize'
+gem 'moneta'
+gem 'rake'
+gem 'kintama'

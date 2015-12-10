@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'rack'
+gem 'tilt'
+gem 'mime-types'
+gem 'sass'
+gem 'yui-compressor'
+gem 'hpricot'
+gem 'test-unit'

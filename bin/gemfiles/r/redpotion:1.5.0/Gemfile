@@ -1,0 +1,7 @@
+gem 'ruby_motion_query'
+gem 'ProMotion'
+gem 'motion_print'
+gem 'motion-cocoapods'
+gem 'RedAlert'
+gem 'rake'
+gem 'webstub'

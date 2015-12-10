@@ -1,0 +1,8 @@
+gem 'cli'
+gem 'aws-sdk'
+gem 'rspec'
+gem 'rdoc'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov-rcov'

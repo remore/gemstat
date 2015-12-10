@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'awesome_print'
+gem 'rake'
+gem 'multi_json'
+gem 'httmultiparty'
+gem 'activemodel'

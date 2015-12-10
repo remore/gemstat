@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'callsite'
+gem 'code_stats'
+gem 'rake'
+gem 'phocus'
+gem 'minitest'

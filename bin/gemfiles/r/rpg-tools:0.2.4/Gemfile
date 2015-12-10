@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3-ruby'
+gem 'ruby-debug'
+gem 'rspec-rails'
+gem 'factory_girl'
+gem 'capybara'

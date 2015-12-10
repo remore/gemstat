@@ -1,0 +1,5 @@
+gem 'xml-simple'
+gem 'mocha'
+gem 'test-spec'
+gem 'relevance-rcov'
+gem 'perftools.rb'

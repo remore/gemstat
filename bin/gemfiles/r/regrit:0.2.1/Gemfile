@@ -1,0 +1,7 @@
+gem 'gitable'
+gem 'open4'
+gem 'escape'
+gem 'git-ssh-wrapper'
+gem 'system-timer19'
+gem 'rspec'
+gem 'rake'

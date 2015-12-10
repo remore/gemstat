@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'fileutils'
+gem 'commander'
+gem 'dotenv'
+gem 'rmagick'
+gem 'json'

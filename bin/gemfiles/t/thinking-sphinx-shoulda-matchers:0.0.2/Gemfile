@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'shoulda'
+gem 'rspec'
+gem 'shoulda'

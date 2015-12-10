@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'oj'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

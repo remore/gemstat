@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nyan-cat-formatter'
+gem 'guard'
+gem 'guard-shell'
+gem 'guard-rspec'

@@ -1,0 +1,7 @@
+gem 'rails_best_practices'
+gem 'simplecov'
+gem 'cane'
+gem 'terminal-table'
+gem 'term-ansicolor'
+gem 'rspec'
+gem 'mocha'

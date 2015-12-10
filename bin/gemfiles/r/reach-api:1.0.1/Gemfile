@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'json'
+gem 'guard-rspec'
+gem 'simplecov'
+gem 'rspec'
+gem 'guard'
+gem 'rake'

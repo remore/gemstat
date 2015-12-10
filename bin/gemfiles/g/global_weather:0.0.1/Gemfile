@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'debugger'
+gem 'vcr'
+gem 'webmock'
+gem 'excon'
+gem 'savon'
+gem 'nori'

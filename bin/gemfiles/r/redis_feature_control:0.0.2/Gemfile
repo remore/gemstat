@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'redis'
+gem 'redis-namespace'
+gem 'mocha'

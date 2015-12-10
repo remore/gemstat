@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'turn'
+gem 'minitest'
+gem 'yard'
+gem 'rake'
+gem 'fakeweb'

@@ -1,0 +1,4 @@
+gem 'compass'
+gem 'sass-rails'
+gem 'sass'
+gem 'font-awesome-rails'

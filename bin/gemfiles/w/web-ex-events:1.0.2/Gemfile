@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'fakeweb'
+gem 'tzinfo'
+gem 'httparty'
+gem 'nokogiri'

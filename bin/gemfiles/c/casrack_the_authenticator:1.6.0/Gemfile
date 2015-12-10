@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'thoughtbot-shoulda'
+gem 'jferris-mocha'
+gem 'redgreen'
+gem 'rack'

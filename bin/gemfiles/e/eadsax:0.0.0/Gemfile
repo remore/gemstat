@@ -1,0 +1,6 @@
+gem 'sax-machine'
+gem 'trollop'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

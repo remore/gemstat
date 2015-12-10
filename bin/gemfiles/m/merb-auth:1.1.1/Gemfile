@@ -1,0 +1,4 @@
+gem 'merb-core'
+gem 'merb-auth-core'
+gem 'merb-auth-more'
+gem 'merb-auth-slice-password'

@@ -1,0 +1,7 @@
+gem 'actionpack'
+gem 'devise'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'guard-rubocop'
+gem 'guard-rspec'

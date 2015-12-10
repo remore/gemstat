@@ -1,0 +1,5 @@
+gem 'exception-hashify'
+gem 'addressable'
+gem 'rspec'
+gem 'artifice'
+gem 'rack'

@@ -1,0 +1,2 @@
+gem 'god'
+gem 'sinatra'

@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'mongo'
+gem 'rake'
+gem 'simplecov'
+gem 'rr'
+gem 'test-unit'

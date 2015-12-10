@@ -1,0 +1,5 @@
+gem 'beaneater'
+gem 'json'
+gem 'themis-checker-result'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'oj'
+gem 'faraday'
+gem 'excon'
+gem 'lz4-ruby'
+gem 'activesupport'

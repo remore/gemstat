@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'version'
+gem 'os'
+gem 'github'
+gem 'colorize'

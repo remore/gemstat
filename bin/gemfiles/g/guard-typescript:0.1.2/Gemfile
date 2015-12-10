@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'ruby-typescript'
+gem 'bundler'
+gem 'rspec'

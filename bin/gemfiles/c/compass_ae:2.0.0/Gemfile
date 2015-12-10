@@ -1,0 +1,7 @@
+gem 'compass_ae_starter_kit'
+gem 'erp_base_erp_svcs'
+gem 'erp_tech_svcs'
+gem 'erp_app'
+gem 'compass_ae_console'
+gem 'knitkit'
+gem 'rails_db_admin'

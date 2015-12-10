@@ -1,0 +1,6 @@
+gem 'omniauth-socialstream'
+gem 'rspec'
+gem 'rake'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'

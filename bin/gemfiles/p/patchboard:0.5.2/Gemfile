@@ -1,0 +1,4 @@
+gem 'json'
+gem 'http'
+gem 'hashie'
+gem 'minitest-reporters'

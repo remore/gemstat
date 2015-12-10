@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-debugger'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'view_model-rails'
+gem 'minitest'
+gem 'rake'
+gem 'rack-test'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'rainbow'
+gem 'highline'
+gem 'aws-sdk'

@@ -1,0 +1,6 @@
+gem 'http'
+gem 'crack'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

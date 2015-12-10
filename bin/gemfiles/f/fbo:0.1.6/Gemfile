@@ -1,0 +1,6 @@
+gem 'treetop'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'turn'

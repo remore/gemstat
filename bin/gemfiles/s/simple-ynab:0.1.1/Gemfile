@@ -1,0 +1,2 @@
+gem 'slop'
+gem 'colorize'

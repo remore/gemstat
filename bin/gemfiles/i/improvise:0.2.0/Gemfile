@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'json'
+gem 'pickup'
+gem 'rubytree'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

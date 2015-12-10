@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'execjs-runtimes-jxa'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

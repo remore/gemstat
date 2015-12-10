@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'posix-spawn'
+gem 'pry'
+gem 'simplecov'

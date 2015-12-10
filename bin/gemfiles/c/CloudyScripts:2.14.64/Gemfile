@@ -1,0 +1,5 @@
+gem 'amazon-ec2'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'net-sftp'
+gem 'zip'

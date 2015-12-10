@@ -1,0 +1,5 @@
+gem 'foreman'
+gem 'grape'
+gem 'rubyzip'
+gem 'zip-zip'
+gem 'table_print'

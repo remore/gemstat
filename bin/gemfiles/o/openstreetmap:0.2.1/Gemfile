@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'libxml-ruby'
+gem 'builder'
+gem 'oauth'
+gem 'activemodel'
+gem 'echoe'
+gem 'rspec'
+gem 'webmock'

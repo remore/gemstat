@@ -1,0 +1,7 @@
+gem 'boson'
+gem 'mocha'
+gem 'bacon'
+gem 'mocha-on-bacon'
+gem 'bacon-bits'
+gem 'hirb'
+gem 'alias'

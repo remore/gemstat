@@ -1,0 +1,4 @@
+gem 'flay'
+gem 'flog'
+gem 'relevance-rcov'
+gem 'mojombo-chronic'

@@ -1,0 +1,4 @@
+gem 's33r'
+gem 'actionpack'
+gem 'camping'
+gem 'hoe'

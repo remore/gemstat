@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'vcr'
+gem 'railties'
+gem 'activesupport'
+gem 'activemerchant'
+gem 'rspec'

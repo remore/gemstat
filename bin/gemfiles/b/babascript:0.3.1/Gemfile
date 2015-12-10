@@ -1,0 +1,6 @@
+gem 'em-rocketio-linda-client'
+gem 'json'
+gem 'args_parser'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

@@ -1,0 +1,5 @@
+gem 'amqp'
+gem 'bunny'
+gem 'rspec'
+gem 'evented-spec'
+gem 'pry'

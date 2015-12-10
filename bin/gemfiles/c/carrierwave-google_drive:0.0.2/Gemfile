@@ -1,0 +1,6 @@
+gem 'carrierwave'
+gem 'parallel588_google_drive'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

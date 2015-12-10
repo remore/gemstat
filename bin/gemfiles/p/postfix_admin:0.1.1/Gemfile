@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'data_mapper'
+gem 'do_mysql'
+gem 'dm-mysql-adapter'
+gem 'rspec'
+gem 'dm-sqlite-adapter'

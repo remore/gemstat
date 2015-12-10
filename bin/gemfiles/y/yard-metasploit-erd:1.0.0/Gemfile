@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'metasploit-version'
+gem 'metasploit-yard'
+gem 'rake'
+gem 'rspec'
+gem 'metasploit-erd'
+gem 'rails-erd'
+gem 'yard'

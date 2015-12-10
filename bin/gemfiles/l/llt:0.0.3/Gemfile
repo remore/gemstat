@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'llt-segmenter'
+gem 'llt-tokenizer'
+gem 'thor'

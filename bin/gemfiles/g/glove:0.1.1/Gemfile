@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rb-gsl'
+gem 'fast-stemmer'
+gem 'parallel'

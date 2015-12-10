@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'engine_cart'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'database_cleaner'

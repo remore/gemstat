@@ -1,0 +1,5 @@
+gem 'mixlib-cli'
+gem 'rubyvis'
+gem 'json'
+gem 'rake'
+gem 'yard'

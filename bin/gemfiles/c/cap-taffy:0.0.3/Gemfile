@@ -1,0 +1,5 @@
+gem 'heroku'
+gem 'taps'
+gem 'capistrano'
+gem 'bones'
+gem 'mocha'

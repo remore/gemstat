@@ -1,0 +1,8 @@
+gem 'resque'
+gem 'resque-remora'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'yajl-ruby'
+gem 'json'

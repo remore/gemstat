@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'sanitize'
+gem 'thor'
+gem 'rest-client'
+gem 'reverse_markdown'
+gem 'charlock_holmes'
+gem 'rspec'

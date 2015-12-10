@@ -1,0 +1,6 @@
+gem 'chef'
+gem 'chef-zero'
+gem 'rspec'
+gem 'rake'
+gem 'rdoc'
+gem 'puma'

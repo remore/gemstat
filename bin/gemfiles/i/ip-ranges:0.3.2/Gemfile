@@ -1,0 +1,4 @@
+gem 'netaddr'
+gem 'rspec'
+gem 'rdoc'
+gem 'ruby-debug'

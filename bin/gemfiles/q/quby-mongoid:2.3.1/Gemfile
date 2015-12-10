@@ -1,0 +1,8 @@
+gem 'quby'
+gem 'mongoid'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'rubocop'

@@ -1,0 +1,4 @@
+gem 'rype'
+gem 'rdoc'
+gem 'minitest'
+gem 'jeweler'

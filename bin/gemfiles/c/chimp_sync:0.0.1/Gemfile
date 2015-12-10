@@ -1,0 +1,7 @@
+gem 'gibbon'
+gem 'panthoot'
+gem 'combustion'
+gem 'rails'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'webmock'

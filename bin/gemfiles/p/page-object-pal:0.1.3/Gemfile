@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-given'
+gem 'page-object'

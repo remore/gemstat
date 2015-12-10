@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rainbow'
+gem 'terminal-table'
+gem 'json_pure'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'

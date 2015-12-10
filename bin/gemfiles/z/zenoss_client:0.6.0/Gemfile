@@ -1,0 +1,7 @@
+gem 'httpclient'
+gem 'tzinfo'
+gem 'json'
+gem 'rake'
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'

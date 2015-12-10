@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'activesupport'
+gem 'mime-types'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

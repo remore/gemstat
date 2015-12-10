@@ -1,0 +1,4 @@
+gem 'gosu'
+gem 'celluloid'
+gem 'renet'
+gem 'multi_json'

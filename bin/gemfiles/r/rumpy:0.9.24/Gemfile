@@ -1,0 +1,2 @@
+gem 'activerecord'
+gem 'xmpp4r'

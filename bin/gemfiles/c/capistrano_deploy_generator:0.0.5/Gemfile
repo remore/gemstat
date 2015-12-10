@@ -1,0 +1,4 @@
+gem 'highline'
+gem 'rails'
+gem 'bundler'
+gem 'rake'

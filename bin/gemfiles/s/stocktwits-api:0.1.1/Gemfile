@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'json'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'faraday'

@@ -1,0 +1,4 @@
+gem 'buffered_logger'
+gem 'gibberish'
+gem 'evernote'
+gem 'sanitize'

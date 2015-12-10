@@ -1,0 +1,7 @@
+gem 'json'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'spork'
+gem 'simplecov'
+gem 'rspec_junit_formatter'

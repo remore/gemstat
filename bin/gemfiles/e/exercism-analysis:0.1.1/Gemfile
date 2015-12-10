@@ -1,0 +1,4 @@
+gem 'test-unit'
+gem 'rake'
+gem 'roodi'
+gem 'codeminer'

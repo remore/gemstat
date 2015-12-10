@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'chef-metal'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

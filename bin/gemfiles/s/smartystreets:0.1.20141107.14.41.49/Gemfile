@@ -1,0 +1,8 @@
+gem 'lazy_loader'
+gem 'httparty'
+gem 'multi_json'
+gem 'awesome_print'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

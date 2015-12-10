@@ -1,0 +1,6 @@
+gem 'columnist'
+gem 'convoy'
+gem 'highline'
+gem 'mysql'
+gem 'parseconfig'
+gem 'rest-client'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'claide'
+gem 'colored'
+gem 'replace'

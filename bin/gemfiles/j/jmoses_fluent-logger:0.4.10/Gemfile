@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'msgpack'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'timecop'

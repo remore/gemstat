@@ -1,0 +1,5 @@
+gem 'unicode'
+gem 'unidecoder'
+gem 'ya2yaml'
+gem 'json'
+gem 'htmlentities'

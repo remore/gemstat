@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'dinero_mail_checkout'
+gem 'dinero_mail_ipn'
+gem 'rspec-rails'
+gem 'fakeweb'
+gem 'factory_girl_rails'
+gem 'database_cleaner'

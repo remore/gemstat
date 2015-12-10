@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'activerecord'
+gem 'rake'
+gem 'pry-meta'
+gem 'sqlite3'
+gem 'test-unit'

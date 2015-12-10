@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'json_schema_tools'
+gem 'rake'

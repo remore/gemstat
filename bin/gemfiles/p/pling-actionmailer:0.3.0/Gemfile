@@ -1,0 +1,5 @@
+gem 'pling'
+gem 'actionmailer'
+gem 'rspec'
+gem 'yard'
+gem 'rake'

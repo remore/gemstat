@@ -1,0 +1,4 @@
+gem 'viewcumber'
+gem 'jeweler'
+gem 'cucumber'
+gem 'capybara'

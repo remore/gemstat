@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'rspec'
+gem 'simplecov'
+gem 'bundler'
+gem 'rake'

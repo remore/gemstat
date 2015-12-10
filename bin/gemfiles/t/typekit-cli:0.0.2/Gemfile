@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'rest-client'
+gem 'table_print'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'coveralls'

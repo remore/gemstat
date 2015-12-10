@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'measured'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'pry'
+gem 'sqlite3'

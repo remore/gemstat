@@ -1,0 +1,5 @@
+gem 'slop'
+gem 'fssm'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'growl_notify'

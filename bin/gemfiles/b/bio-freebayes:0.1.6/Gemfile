@@ -1,0 +1,4 @@
+gem 'bio-vcf'
+gem 'parallel'
+gem 'bundler'
+gem 'rake'

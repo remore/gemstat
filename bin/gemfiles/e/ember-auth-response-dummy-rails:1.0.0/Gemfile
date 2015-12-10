@@ -1,0 +1,2 @@
+gem 'ember-auth-response-dummy-source'
+gem 'rails'

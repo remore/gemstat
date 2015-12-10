@@ -1,0 +1,8 @@
+gem 'props'
+gem 'logutils'
+gem 'textutils'
+gem 'fetcher'
+gem 'rubyzip'
+gem 'hybook'
+gem 'rdoc'
+gem 'hoe'

@@ -1,0 +1,5 @@
+gem 'boson'
+gem 'hirb'
+gem 'minitest'
+gem 'bahia'
+gem 'rake'

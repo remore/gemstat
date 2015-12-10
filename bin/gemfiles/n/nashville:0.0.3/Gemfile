@@ -1,0 +1,7 @@
+gem 'json'
+gem 'commander'
+gem 'terminal-table'
+gem 'rash'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'

@@ -1,0 +1,7 @@
+gem 'lita'
+gem 'pebbles-suddenly_death_string'
+gem 'flippy'
+gem 'rufus-scheduler'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

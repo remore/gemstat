@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'cucumber-rails'
+gem 'database_cleaner'
+gem 'guard'
+gem 'guard-cucumber'
+gem 'launchy'

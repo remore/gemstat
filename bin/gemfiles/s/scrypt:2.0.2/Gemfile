@@ -1,0 +1,5 @@
+gem 'ffi-compiler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'awesome_print'

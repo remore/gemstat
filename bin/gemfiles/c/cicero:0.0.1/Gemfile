@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'ruby-debug19'
+gem 'guard'
+gem 'growl'

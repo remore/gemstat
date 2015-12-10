@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'adamantium'
+gem 'virtus'
+gem 'rails'
+gem 'devise'
+gem 'minitest-rails'
+gem 'pry'
+gem 'sqlite3'

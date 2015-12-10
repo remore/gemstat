@@ -1,0 +1,6 @@
+gem 'highline'
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'
+gem 'redcarpet'
+gem 'github-markup'

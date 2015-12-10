@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'websocket'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

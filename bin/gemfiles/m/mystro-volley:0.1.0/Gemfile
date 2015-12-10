@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'volley'
+gem 'mongoid'
+gem 'mcollective-client'
+gem 'mystro-common'

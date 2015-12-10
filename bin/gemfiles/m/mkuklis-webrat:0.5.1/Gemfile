@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rack'
+gem 'rails'
+gem 'merb-core'
+gem 'launchy'

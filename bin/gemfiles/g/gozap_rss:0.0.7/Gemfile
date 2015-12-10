@@ -1,0 +1,6 @@
+gem 'logger'
+gem 'sanitize'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

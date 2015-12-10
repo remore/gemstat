@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'rails'
+gem 'jquery-rails'
+gem 'multi_json'
+gem 'redcarpet'
+gem 'twitter-text'

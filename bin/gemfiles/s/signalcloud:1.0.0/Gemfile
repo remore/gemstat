@@ -1,0 +1,4 @@
+gem 'api_smith'
+gem 'rspec'
+gem 'rspec-its'
+gem 'simplecov'

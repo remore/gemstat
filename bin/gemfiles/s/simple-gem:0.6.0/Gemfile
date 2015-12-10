@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'bundler'
+gem 'jnunemaker-matchy'
+gem 'shoulda'
+gem 'mocha'

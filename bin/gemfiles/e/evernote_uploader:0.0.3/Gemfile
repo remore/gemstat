@@ -1,0 +1,4 @@
+gem 'evernote-thrift'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

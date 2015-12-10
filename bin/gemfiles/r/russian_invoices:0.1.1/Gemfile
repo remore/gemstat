@@ -1,0 +1,8 @@
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'simplecov'
+gem 'haml-rails'
+gem 'sass-rails'
+gem 'wicked_pdf'
+gem 'wkhtmltopdf-binary'
+gem 'ru_propisju'

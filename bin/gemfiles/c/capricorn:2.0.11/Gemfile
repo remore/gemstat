@@ -1,0 +1,6 @@
+gem 'fd-bertrpc'
+gem 'mustache'
+gem 'rush'
+gem 'session'
+gem 'thor'
+gem 'public_suffix_service'

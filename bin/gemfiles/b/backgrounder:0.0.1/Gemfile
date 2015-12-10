@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'resque'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'resque_spec'

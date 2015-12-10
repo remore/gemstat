@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'amq-protocol'
+gem 'amqp'
+gem 'em-redis-unified'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

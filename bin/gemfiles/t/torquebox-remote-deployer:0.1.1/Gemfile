@@ -1,0 +1,5 @@
+gem 'jruby-openssl'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'rake'
+gem 'torquebox-rake-support'

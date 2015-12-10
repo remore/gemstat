@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'mocha'
+gem 'faraday'
+gem 'xml-simple'

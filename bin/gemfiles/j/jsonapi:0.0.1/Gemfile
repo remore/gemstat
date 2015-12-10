@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-yard'
+gem 'redcarpet'
+gem 'ruby_gntp'
+gem 'debugger'
+gem 'faraday'
+gem 'faraday_middleware'

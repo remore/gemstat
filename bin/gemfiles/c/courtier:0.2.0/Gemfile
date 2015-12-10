@@ -1,0 +1,5 @@
+gem 'finder'
+gem 'loaded'
+gem 'detroit'
+gem 'qed'
+gem 'ae'

@@ -1,0 +1,6 @@
+gem 'paperclip'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'sqlite3'
+gem 'rails'

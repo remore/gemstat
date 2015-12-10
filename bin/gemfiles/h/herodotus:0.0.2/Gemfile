@@ -1,0 +1,5 @@
+gem 'grit'
+gem 'redgreen'
+gem 'rake'
+gem 'ruby-debug19'
+gem 'mocha'

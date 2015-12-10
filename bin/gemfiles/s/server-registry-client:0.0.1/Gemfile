@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'typhoeus'
+gem 'yajl-ruby'
+gem 'thor'
+gem 'activesupport'

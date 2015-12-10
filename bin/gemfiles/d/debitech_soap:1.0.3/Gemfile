@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'mumboe-soap4r'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

@@ -1,0 +1,5 @@
+gem 'rdoc'
+gem 'tilt'
+gem 'bundler'
+gem 'nokogiri'
+gem 'rake'

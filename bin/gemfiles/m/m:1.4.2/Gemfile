@@ -1,0 +1,6 @@
+gem 'method_source'
+gem 'rake'
+gem 'activesupport'
+gem 'rdiscount'
+gem 'rocco'
+gem 'appraisal'

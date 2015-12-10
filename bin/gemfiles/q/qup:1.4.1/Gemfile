@@ -1,0 +1,6 @@
+gem 'maildir'
+gem 'kjess'
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'

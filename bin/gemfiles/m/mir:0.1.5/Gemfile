@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'bundler'
+gem 'right_aws'
+gem 'activerecord'
+gem 'activesupport'
+gem 'work_queue'

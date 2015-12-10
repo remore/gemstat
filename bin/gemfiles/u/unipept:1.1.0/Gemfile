@@ -1,0 +1,7 @@
+gem 'cri'
+gem 'typhoeus'
+gem 'rake'
+gem 'minitest'
+gem 'rubocop'
+gem 'jeweler'
+gem 'coveralls'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'pry'
+gem 'rake'
+gem 'mountain_berry_fields'
+gem 'mountain_berry_fields-magic_comments'

@@ -1,0 +1,5 @@
+gem 'savon'
+gem 'money'
+gem 'rdoc'
+gem 'jeweler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rmagick'
+gem 'selenium-webdriver'
+gem 'thor'

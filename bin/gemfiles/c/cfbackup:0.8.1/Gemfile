@@ -1,0 +1,4 @@
+gem 'cloudfiles'
+gem 'gemcutter'
+gem 'shoulda'
+gem 'mocha'

@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'rack_replace'
+gem 'rake'
+gem 'ruby-debug'

@@ -1,0 +1,7 @@
+gem 'pluginator'
+gem 'guard'
+gem 'guard-minitest'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'rubocop'

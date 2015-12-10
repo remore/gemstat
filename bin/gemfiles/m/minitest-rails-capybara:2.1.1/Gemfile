@@ -1,0 +1,6 @@
+gem 'minitest-rails'
+gem 'capybara'
+gem 'minitest-capybara'
+gem 'minitest-metadata'
+gem 'rdoc'
+gem 'hoe'

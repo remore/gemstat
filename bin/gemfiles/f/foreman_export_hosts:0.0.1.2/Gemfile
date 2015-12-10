@@ -1,0 +1,4 @@
+gem 'deface'
+gem 'nested_form'
+gem 'rubocop'
+gem 'rdoc'

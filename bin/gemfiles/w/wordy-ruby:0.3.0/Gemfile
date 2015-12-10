@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'activesupport'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'shoulda'
+gem 'rspec'
+gem 'activesupport'

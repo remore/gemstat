@@ -1,0 +1,7 @@
+gem 'perftools.rb'
+gem 'rack'
+gem 'open4'
+gem 'rack'
+gem 'shoulda'
+gem 'mocha'
+gem 'rake'

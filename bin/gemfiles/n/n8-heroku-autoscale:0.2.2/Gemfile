@@ -1,0 +1,8 @@
+gem 'rack-test'
+gem 'rake'
+gem 'rcov'
+gem 'rr'
+gem 'rspec'
+gem 'eventmachine'
+gem 'heroku'
+gem 'rack'

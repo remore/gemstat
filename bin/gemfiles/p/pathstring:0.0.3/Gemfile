@@ -1,0 +1,2 @@
+gem 'pedlar'
+gem 'rspec'

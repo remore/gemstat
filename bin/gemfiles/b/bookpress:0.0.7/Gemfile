@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'aws-s3'
+gem 'bundler'
+gem 'rake'

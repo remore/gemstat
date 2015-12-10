@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'sleeping_king_studios-ext'
+gem 'rspec'
+gem 'rspec-sleeping_king_studios'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'fuubar'
+gem 'pry'

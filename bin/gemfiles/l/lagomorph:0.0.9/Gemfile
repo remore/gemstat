@@ -1,0 +1,8 @@
+gem 'json'
+gem 'bundler'
+gem 'march_hare'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-rcov'
+gem 'coveralls'

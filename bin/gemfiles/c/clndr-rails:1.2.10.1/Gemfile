@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'momentjs-rails'
+gem 'jquery-rails'
+gem 'underscore-rails'
+gem 'railties'
+gem 'sqlite3'

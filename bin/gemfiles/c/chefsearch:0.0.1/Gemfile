@@ -1,0 +1,8 @@
+gem 'chef'
+gem 'trollop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry'
+gem 'coveralls'

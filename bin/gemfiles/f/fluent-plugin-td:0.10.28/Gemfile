@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'td-client'
+gem 'rake'
+gem 'webmock'
+gem 'test-unit'
+gem 'test-unit-rr'

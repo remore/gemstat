@@ -1,0 +1,5 @@
+gem 'colored'
+gem 'net-ssh'
+gem 'net-sftp'
+gem 'thor'
+gem 'tilt'

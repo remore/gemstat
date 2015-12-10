@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'thor'
+gem 'toml-rb'
+gem 'recursive-open-struct'
+gem 'json'
+gem 'rake'
+gem 'pry'

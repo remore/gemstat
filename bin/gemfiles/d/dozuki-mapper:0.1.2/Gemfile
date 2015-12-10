@@ -1,0 +1,6 @@
+gem 'dozuki'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'autotest'
+gem 'rake'

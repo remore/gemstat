@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'rjb'
+gem 'rspec'
+gem 'jeweler'
+gem 'yard'
+gem 'kramdown'

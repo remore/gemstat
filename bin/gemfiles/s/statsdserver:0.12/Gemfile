@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'daemons'
+gem 'eventmachine'
+gem 'parseconfig'
+gem 'sysexits'

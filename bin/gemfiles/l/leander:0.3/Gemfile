@@ -1,0 +1,6 @@
+gem 'ferret'
+gem 'nokogiri'
+gem 'highline'
+gem 'sinatra'
+gem 'json'
+gem 'haml'

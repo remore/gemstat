@@ -1,0 +1,8 @@
+gem 'jeweler'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rr'
+gem 'rake'
+gem 'parka'
+gem 'faraday_middleware'
+gem 'yajl-ruby'

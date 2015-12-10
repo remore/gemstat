@@ -1,0 +1,4 @@
+gem 'logstash-event'
+gem 'redis'
+gem 'rspec'
+gem 'bundler'

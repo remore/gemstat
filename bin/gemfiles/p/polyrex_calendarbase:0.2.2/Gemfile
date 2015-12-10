@@ -1,0 +1,5 @@
+gem 'polyrex'
+gem 'nokogiri'
+gem 'chronic_duration'
+gem 'chronic_cron'
+gem 'rxfhelper'

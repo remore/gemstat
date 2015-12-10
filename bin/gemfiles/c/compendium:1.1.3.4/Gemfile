@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'compass-rails'
+gem 'collection_of'
+gem 'inheritable_attr'
+gem 'rspec'

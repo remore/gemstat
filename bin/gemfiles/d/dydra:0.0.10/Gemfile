@@ -1,0 +1,6 @@
+gem 'rdf'
+gem 'rest-client'
+gem 'rdf-spec'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'

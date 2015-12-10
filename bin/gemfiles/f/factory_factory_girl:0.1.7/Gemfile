@@ -1,0 +1,8 @@
+gem 'factory_girl_rails'
+gem 'railties'
+gem 'rake'
+gem 'rspec'
+gem 'generator_spec'
+gem 'pry'
+gem 'activerecord'
+gem 'sqlite3'

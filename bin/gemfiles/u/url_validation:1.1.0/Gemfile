@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'activesupport'
+gem 'activerecord'
+gem 'httpi'
+gem 'jeweler'
+gem 'yard'
+gem 'RedCloth'
+gem 'rspec'

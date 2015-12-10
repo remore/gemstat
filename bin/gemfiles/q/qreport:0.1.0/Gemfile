@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'guard'
+gem 'guard-rspec'
+gem 'cassava'
+gem 'pg'

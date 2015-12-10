@@ -1,0 +1,6 @@
+gem 'rutema'
+gem 'sinatra'
+gem 'ruport'
+gem 'acts_as_reportable'
+gem 'hoe'
+gem 'rdoc'

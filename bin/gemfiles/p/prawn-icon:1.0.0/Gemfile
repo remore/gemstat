@@ -1,0 +1,8 @@
+gem 'prawn'
+gem 'pdf-inspector'
+gem 'rspec'
+gem 'rubocop'
+gem 'mocha'
+gem 'rake'
+gem 'simplecov'
+gem 'pdf-reader'

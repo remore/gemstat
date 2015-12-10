@@ -1,0 +1,8 @@
+gem 'colorize'
+gem 'git'
+gem 'aruba'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-core'
+gem 'gli'

@@ -1,0 +1,5 @@
+gem 'bitmask'
+gem 'activerecord'
+gem 'activesupport'
+gem 'activemodel'
+gem 'i18n'

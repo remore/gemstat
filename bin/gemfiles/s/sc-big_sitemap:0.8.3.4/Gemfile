@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'shoulda'
+gem 'mocha'
+gem 'nokogiri'

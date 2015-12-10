@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'yajl-ruby'
+gem 'fluent-mixin-config-placeholders'
+gem 'rake'
+gem 'glint'
+gem 'test-unit'

@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'hashie'
+gem 'libxml-ruby'
+gem 'rspec'
+gem 'rake'
+gem 'ruby-echonest'

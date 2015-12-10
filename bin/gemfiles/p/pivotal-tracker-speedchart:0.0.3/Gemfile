@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pivotal-tracker'
+gem 'spreadsheet'
+gem 'yard'
+gem 'redcarpet'

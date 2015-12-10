@@ -1,0 +1,7 @@
+gem 'docopt'
+gem 'json'
+gem 'rake'
+gem 'rubocop'
+gem 'cucumber'
+gem 'aruba'
+gem 'simplecov'

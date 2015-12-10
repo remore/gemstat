@@ -1,0 +1,5 @@
+gem 'configparser'
+gem 'json'
+gem 'snort-rule'
+gem 'bundler'
+gem 'rake'

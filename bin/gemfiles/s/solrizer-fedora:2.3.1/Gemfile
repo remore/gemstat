@@ -1,0 +1,8 @@
+gem 'active-fedora'
+gem 'jettywrapper'
+gem 'rdoc'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'yard'
+gem 'RedCloth'

@@ -1,0 +1,6 @@
+gem 'dicom'
+gem 'narray'
+gem 'bundler'
+gem 'mocha'
+gem 'rake'
+gem 'rspec'

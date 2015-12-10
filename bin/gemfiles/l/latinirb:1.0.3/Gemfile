@@ -1,0 +1,4 @@
+gem 'linguistics_latin'
+gem 'macronconversions'
+gem 'latinverb'
+gem 'latinverb_chart_presenter'

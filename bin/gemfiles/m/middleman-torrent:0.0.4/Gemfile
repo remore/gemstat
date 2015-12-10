@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'mktorrent'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

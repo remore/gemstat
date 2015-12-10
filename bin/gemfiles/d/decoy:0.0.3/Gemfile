@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'factory_girl'
+gem 'ruby-debug19'
+gem 'looksee'
+gem 'rb-appscript'

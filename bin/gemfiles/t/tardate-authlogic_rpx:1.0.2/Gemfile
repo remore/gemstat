@@ -1,0 +1,2 @@
+gem 'authlogic'
+gem 'grosser-rpx_now'

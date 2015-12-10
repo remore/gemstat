@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rack'
+gem 'ruby-ldap'
+gem 'tzinfo'
+gem 'tzinfo-data'
+gem 'wunderbar'

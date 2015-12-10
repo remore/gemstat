@@ -1,0 +1,6 @@
+gem 'bumbleworks'
+gem 'ruote-redis'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

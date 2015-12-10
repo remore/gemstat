@@ -1,0 +1,5 @@
+gem 'geolookup'
+gem 'levenshtein'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

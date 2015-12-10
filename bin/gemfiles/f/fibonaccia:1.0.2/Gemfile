@@ -1,0 +1,7 @@
+gem 'bigdecimal'
+gem 'bundler'
+gem 'versionomy'
+gem 'cucumber'
+gem 'rake'
+gem 'rdiscount'
+gem 'yard'

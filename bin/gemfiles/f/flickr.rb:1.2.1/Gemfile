@@ -1,0 +1,4 @@
+gem 'xml-simple'
+gem 'rake'
+gem 'yard'
+gem 'mocha'

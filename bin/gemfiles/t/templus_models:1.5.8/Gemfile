@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'cancancan'
+gem 'ransack'
+gem 'kaminari'
+gem 'simple_form'
+gem 'nested_form'
+gem 'rails-jquery-autocomplete'
+gem 'sqlite3'

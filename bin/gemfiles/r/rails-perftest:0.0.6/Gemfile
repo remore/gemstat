@@ -1,0 +1,8 @@
+gem 'ruby-prof'
+gem 'minitest'
+gem 'railties'
+gem 'activerecord'
+gem 'activemodel'
+gem 'actionmailer'
+gem 'actionpack'
+gem 'sqlite3'

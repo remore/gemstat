@@ -1,0 +1,4 @@
+gem 'dropbox-sdk'
+gem 'guid'
+gem 'json'
+gem 'redcarpet'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'draper'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'generator_spec'
+gem 'simplecov'
+gem 'pry'

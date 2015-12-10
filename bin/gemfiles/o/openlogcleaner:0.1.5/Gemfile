@@ -1,0 +1,4 @@
+gem 'mustache'
+gem 'nokogiri'
+gem 'trollop'
+gem 'bacon'

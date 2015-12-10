@@ -1,0 +1,6 @@
+gem 'rspec-support'
+gem 'diff-lcs'
+gem 'rake'
+gem 'cucumber'
+gem 'aruba'
+gem 'minitest'

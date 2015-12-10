@@ -1,0 +1,6 @@
+gem 'typhoeus'
+gem 'image_size'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

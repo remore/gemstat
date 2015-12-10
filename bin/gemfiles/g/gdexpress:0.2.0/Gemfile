@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'sinatra'
+gem 'webmock'
+gem 'minitest-reporters'

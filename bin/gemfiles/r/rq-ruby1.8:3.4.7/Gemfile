@@ -1,0 +1,5 @@
+gem 'posixlock'
+gem 'arrayfields'
+gem 'lockfile'
+gem 'bundler'
+gem 'jeweler'

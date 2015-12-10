@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rspec'
+gem 'mac-robot'
+gem 'eventmachine'
+gem 'rake'

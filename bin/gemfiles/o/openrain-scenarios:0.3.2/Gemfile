@@ -1,0 +1,2 @@
+gem 'remi-indifferent-variable-hash'
+gem 'remi-simplecli'

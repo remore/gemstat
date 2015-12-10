@@ -1,0 +1,4 @@
+gem 'typhoeus'
+gem 'celluloid'
+gem 'rspec'
+gem 'webmock'

@@ -1,0 +1,4 @@
+gem 'nanoc'
+gem 'sprockets'
+gem 'rake'
+gem 'sprockets-helpers'

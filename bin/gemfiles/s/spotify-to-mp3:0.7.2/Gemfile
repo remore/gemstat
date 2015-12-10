@@ -1,0 +1,5 @@
+gem 'rspotify'
+gem 'grooveshark'
+gem 'colorize'
+gem 'ruby-progressbar'
+gem 'rspec'

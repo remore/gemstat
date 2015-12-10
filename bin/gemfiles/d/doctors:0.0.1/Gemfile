@@ -1,0 +1,8 @@
+gem 'id'
+gem 'yajl-ruby'
+gem 'faraday'
+gem 'rspec'
+gem 'mocha'
+gem 'webmock'
+gem 'coveralls'
+gem 'simplecov'

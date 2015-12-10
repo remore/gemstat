@@ -1,0 +1,8 @@
+gem 'rainbow'
+gem 'rexec'
+gem 'trollop'
+gem 'system'
+gem 'graphviz'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'

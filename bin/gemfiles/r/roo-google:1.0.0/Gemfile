@@ -1,0 +1,4 @@
+gem 'roo'
+gem 'google_drive'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'axlsx'
+gem 'chronic'
+gem 'responders'
+gem 'haml-rails'
+gem 'rspec-rails'
+gem 'combustion'

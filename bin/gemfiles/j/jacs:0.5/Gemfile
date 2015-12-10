@@ -1,0 +1,2 @@
+gem 'xmpp4r-simple'
+gem 'activesupport'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rails'

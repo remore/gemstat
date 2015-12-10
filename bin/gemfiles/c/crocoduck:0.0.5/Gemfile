@@ -1,0 +1,5 @@
+gem 'redis'
+gem 'resque'
+gem 'sinatra'
+gem 'mongo'
+gem 'rdiscount'

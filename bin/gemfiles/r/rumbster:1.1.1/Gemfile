@@ -1,0 +1,4 @@
+gem 'mail'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'

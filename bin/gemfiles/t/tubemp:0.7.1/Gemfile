@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'rmagick'
+gem 'video_info'
+gem 'json'
+gem 'rspec'
+gem 'rack-test'

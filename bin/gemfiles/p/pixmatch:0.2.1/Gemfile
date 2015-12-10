@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'json'
+gem 'hashie'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'

@@ -1,0 +1,6 @@
+gem 'inifile'
+gem 'rest-client'
+gem 'rspec'
+gem 'given_filesystem'
+gem 'cli_tester'
+gem 'httpotemkin'

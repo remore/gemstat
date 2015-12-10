@@ -1,0 +1,5 @@
+gem 'data_mapper'
+gem 'ginjo-rfm'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

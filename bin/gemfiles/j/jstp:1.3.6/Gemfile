@@ -1,0 +1,7 @@
+gem 'em-websocket'
+gem 'em-websocket-client'
+gem 'discoverer'
+gem 'symbolmatrix'
+gem 'uuid'
+gem 'rspec'
+gem 'cucumber'

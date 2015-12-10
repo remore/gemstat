@@ -1,0 +1,5 @@
+gem 'crack'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'codeclimate-test-reporter'

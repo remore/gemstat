@@ -1,0 +1,7 @@
+gem 'lita'
+gem 'yelp'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'

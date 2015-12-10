@@ -1,0 +1,5 @@
+gem 'em-http-request'
+gem 'json'
+gem 'json-stream'
+gem 'thin'
+gem 'rbtree'

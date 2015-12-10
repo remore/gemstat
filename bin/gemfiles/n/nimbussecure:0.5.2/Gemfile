@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'faraday'
+gem 'gibberish'

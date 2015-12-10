@@ -1,0 +1,4 @@
+gem 'em-synchrony'
+gem 'sequel'
+gem 'bundler'
+gem 'rake'

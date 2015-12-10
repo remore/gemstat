@@ -1,0 +1,4 @@
+gem 'data_mapper'
+gem 'dm-is-remixable'
+gem 'yogo-support'
+gem 'yogo-operation'

@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'redis-objects'
+gem 'actionmailer'
+gem 'rspec'
+gem 'guard-rspectacle'
+gem 'growl'
+gem 'rb-fsevent'
+gem 'rake'

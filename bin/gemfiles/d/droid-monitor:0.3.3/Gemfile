@@ -1,0 +1,5 @@
+gem 'faml'
+gem 'haml'
+gem 'tilt'
+gem 'rake'
+gem 'test-unit'

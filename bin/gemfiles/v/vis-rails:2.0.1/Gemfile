@@ -1,0 +1,4 @@
+gem 'momentjs-rails'
+gem 'hammerjs-rails'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'byebug'
+gem 'commander'
+gem 'httparty'
+gem 'launchy'
+gem 'recursive-open-struct'

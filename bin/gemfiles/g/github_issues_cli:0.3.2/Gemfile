@@ -1,0 +1,4 @@
+gem 'clamp'
+gem 'git'
+gem 'github_api'
+gem 'term-ansicolor'

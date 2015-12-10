@@ -1,0 +1,8 @@
+gem 'timecode'
+gem 'progressbar'
+gem 'sequencer'
+gem 'term-ansicolor'
+gem 'update_hints'
+gem 'jeweler'
+gem 'rake'
+gem 'cli_test'

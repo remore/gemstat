@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'deferrable_gratification'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

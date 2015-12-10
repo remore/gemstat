@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'jquery-timepicker-rails'
+gem 'ice_cube'
+gem 'recurring_select'
+gem 'sqlite3'

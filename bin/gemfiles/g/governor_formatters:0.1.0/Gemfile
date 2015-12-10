@@ -1,0 +1,4 @@
+gem 'governor'
+gem 'RedCloth'
+gem 'jeweler'
+gem 'rspec-rails'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'json'
+gem 'rest-client'
+gem 'newgem'
+gem 'hoe'

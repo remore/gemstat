@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'builder'
+gem 'POpen4'
+gem 'highline'
+gem 'log4r'

@@ -1,0 +1,4 @@
+gem 'bogo-config'
+gem 'multi_json'
+gem 'hashie'
+gem 'zoidberg'

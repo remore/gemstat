@@ -1,0 +1,4 @@
+gem 'yajl-ruby'
+gem 'beanstalk-client'
+gem 'ffi-rzmq'
+gem 'bundler'

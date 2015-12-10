@@ -1,0 +1,2 @@
+gem 'active-support'
+gem 'hpricot'

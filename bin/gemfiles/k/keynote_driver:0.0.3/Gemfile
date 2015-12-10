@@ -1,0 +1,2 @@
+gem 'rb-appscript'
+gem 'rspec'

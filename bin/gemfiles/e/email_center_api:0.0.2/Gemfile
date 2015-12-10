@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'json'
+gem 'fakeweb'
+gem 'rspec'
+gem 'pry'
+gem 'pry-debugger'

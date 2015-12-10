@@ -1,0 +1,4 @@
+gem 'compass'
+gem 'compass-blueprint'
+gem 'rubyzip'
+gem 'thor'

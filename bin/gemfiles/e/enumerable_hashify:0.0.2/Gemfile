@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'bundler'
+gem 'bueller'
+gem 'rake'
+gem 'simplecov'
+gem 'simplecov-gem-adapter'

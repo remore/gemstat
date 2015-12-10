@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'geoip_city19'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'

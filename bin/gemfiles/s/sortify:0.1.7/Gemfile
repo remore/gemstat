@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'whitelist_scope'
+gem 'sqlite3'
+gem 'rspec'
+gem 'fuubar'
+gem 'coveralls'
+gem 'appraisal'

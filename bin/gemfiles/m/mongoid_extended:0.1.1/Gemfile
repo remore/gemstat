@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mongoid'
+gem 'active_model_serializers'

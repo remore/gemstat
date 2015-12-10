@@ -1,0 +1,5 @@
+gem 'miu'
+gem 'ircp'
+gem 'celluloid-io'
+gem 'celluloid-zmq'
+gem 'rake'

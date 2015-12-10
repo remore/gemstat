@@ -1,0 +1,4 @@
+gem 'smart_colored'
+gem 'coderay'
+gem 'yard'
+gem 'kramdown'

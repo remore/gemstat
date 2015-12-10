@@ -1,0 +1,8 @@
+gem 'rubyzip'
+gem 'quick_magick'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'pry'

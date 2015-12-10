@@ -1,0 +1,5 @@
+gem 'jwt'
+gem 'rack'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

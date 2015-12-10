@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'settingslogic'
+gem 'rack'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

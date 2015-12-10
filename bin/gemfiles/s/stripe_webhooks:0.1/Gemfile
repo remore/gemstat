@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'stripe'
+gem 'mysql2'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'database_cleaner'
+gem 'simplecov'
+gem 'stripe-ruby-mock'

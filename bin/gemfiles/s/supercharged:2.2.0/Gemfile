@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'state_machine'
+gem 'state_machine-audit_trail'
+gem 'activemerchant'
+gem 'sqlite3'
+gem 'minitest'
+gem 'minitest-rails'
+gem 'mocha'

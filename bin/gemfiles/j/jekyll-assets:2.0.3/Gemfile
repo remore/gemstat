@@ -1,0 +1,8 @@
+gem 'sprockets'
+gem 'sprockets-helpers'
+gem 'fastimage'
+gem 'jekyll'
+gem 'nokogiri'
+gem 'envygeeks-coveralls'
+gem 'luna-rspec-formatters'
+gem 'rspec'

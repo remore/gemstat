@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'

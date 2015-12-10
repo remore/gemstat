@@ -1,0 +1,7 @@
+gem 'dotenv'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'nokogiri'
+gem 'unicode_titlecase'

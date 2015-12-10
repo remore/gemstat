@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'minitest'
+gem 'wrong'
+gem 'coveralls'

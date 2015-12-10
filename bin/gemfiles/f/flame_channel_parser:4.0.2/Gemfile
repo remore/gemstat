@@ -1,0 +1,5 @@
+gem 'update_hints'
+gem 'framecurve'
+gem 'jeweler'
+gem 'rake'
+gem 'cli_test'

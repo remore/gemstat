@@ -1,0 +1,5 @@
+gem 'active_support'
+gem 'xmpp4r'
+gem 'rspec'
+gem 'fakeweb'
+gem 'mocha'

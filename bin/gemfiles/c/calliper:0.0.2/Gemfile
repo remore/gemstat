@@ -1,0 +1,5 @@
+gem 'selenium-webdriver'
+gem 'rake'
+gem 'json'
+gem 'sinatra'
+gem 'minitest'

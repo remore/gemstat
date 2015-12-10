@@ -1,0 +1,2 @@
+gem 'refinerycms-simple_members'
+gem 'factory_girl'

@@ -1,0 +1,7 @@
+gem 'cucumber'
+gem 'vnctools'
+gem 'celluloid-io'
+gem 'childprocess'
+gem 'rspec'
+gem 'coveralls'
+gem 'rake'

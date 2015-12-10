@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'minitest'
+gem 'mini_shoulda'
+gem 'sdoc'
+gem 'm'

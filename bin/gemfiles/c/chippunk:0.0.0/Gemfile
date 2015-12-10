@@ -1,0 +1,2 @@
+gem 'gosu'
+gem 'chipmunk'

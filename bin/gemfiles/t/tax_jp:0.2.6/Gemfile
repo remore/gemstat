@@ -1,0 +1,5 @@
+gem 'sqlite3'
+gem 'bundler'
+gem 'closer'
+gem 'rake'
+gem 'rails'

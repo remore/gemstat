@@ -1,0 +1,5 @@
+gem 'pry'
+gem 'simplecov'
+gem 'rake'
+gem 'bundler'
+gem 'yajl-ruby'

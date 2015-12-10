@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'webmock'

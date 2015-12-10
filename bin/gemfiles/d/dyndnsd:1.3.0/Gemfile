@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'json'
+gem 'metriks'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'

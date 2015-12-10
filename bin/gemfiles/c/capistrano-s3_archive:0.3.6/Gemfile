@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'aws-sdk-core'
+gem 'bundler'
+gem 'rake'

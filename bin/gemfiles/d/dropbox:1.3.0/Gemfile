@@ -1,0 +1,6 @@
+gem 'oauth'
+gem 'json'
+gem 'multipart-post'
+gem 'jeweler'
+gem 'rspec'
+gem 'mechanize'

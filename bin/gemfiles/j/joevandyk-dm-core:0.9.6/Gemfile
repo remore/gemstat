@@ -1,0 +1,4 @@
+gem 'data_objects'
+gem 'extlib'
+gem 'rspec'
+gem 'addressable'

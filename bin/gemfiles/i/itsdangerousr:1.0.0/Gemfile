@@ -1,0 +1,6 @@
+gem 'json'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'reek'

@@ -1,0 +1,7 @@
+gem 'state_machines-activemodel'
+gem 'activerecord'
+gem 'rake'
+gem 'sqlite3'
+gem 'appraisal'
+gem 'minitest'
+gem 'minitest-reporters'

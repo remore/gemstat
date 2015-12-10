@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'tzinfo'
+gem 'rake'
+gem 'rdoc'
+gem 'minitest'
+gem 'minitest-rg'

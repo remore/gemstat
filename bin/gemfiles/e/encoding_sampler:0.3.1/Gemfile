@@ -1,0 +1,8 @@
+gem 'diff-lcs'
+gem 'rake'
+gem 'debugger'
+gem 'rspec'
+gem 'fakefs'
+gem 'simplecov'
+gem 'yard'
+gem 'redcarpet'

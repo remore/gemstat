@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'wicked_pdf'
+gem 'wkhtmltopdf-binary'

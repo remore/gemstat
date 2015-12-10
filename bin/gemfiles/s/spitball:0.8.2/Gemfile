@@ -1,0 +1,6 @@
+gem 'sem_ver'
+gem 'rspec'
+gem 'diff-lcs'
+gem 'rr'
+gem 'rake'
+gem 'phocus'

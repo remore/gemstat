@@ -1,0 +1,4 @@
+gem 'asearch'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

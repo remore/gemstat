@@ -1,0 +1,7 @@
+gem 'net-ssh'
+gem 'net-scp'
+gem 'minitest'
+gem 'rake'
+gem 'turn'
+gem 'unindent'
+gem 'mocha'

@@ -1,0 +1,7 @@
+gem 'json'
+gem 'faraday'
+gem 'simplecov'
+gem 'fakeweb'
+gem 'rspec'
+gem 'rake'
+gem 'coveralls'

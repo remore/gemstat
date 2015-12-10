@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'bundler'
+gem 'rake'
+gem 'rr'
+gem 'cucumber'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'data_mapper'
+gem 'dm-is-list'
+gem 'dm-is-versioned'
+gem 'dm-rest-adapter'
+gem 'yogo-db'
+gem 'yogo-datamapper'
+gem 'yogo-operation'
+gem 'yogo-project'

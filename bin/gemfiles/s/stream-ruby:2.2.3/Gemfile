@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'http_signatures'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

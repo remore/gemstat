@@ -1,0 +1,5 @@
+gem 'pay_dirt'
+gem 'skywalker'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

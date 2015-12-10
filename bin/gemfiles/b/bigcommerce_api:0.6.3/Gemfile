@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

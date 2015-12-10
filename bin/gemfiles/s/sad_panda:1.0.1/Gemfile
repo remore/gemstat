@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'ruby-stemmer'
+gem 'pry'
+gem 'rspec'

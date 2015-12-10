@@ -1,0 +1,5 @@
+gem 'json'
+gem 'google_client_login'
+gem 'rspec'
+gem 'fuubar'
+gem 'webmock'

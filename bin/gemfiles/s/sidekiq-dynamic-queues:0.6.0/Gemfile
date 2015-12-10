@@ -1,0 +1,7 @@
+gem 'sidekiq'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'
+gem 'slim'
+gem 'rack-test'
+gem 'tilt'

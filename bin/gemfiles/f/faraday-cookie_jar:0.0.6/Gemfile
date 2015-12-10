@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'http-cookie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'
+gem 'sham_rack'

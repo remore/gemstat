@@ -1,0 +1,5 @@
+gem 'rbbt-util'
+gem 'rbbt-text'
+gem 'mechanize'
+gem 'libxml-ruby'
+gem 'bio'

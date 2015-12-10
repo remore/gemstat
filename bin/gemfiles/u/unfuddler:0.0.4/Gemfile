@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'hashie'
+gem 'crack'
+gem 'activesupport'

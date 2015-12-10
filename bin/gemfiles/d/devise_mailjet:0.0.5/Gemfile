@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'devise'
+gem 'devise-bootstrap-views'
+gem 'mailjet'

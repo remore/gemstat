@@ -1,0 +1,8 @@
+gem 'oauth'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'td_critic'

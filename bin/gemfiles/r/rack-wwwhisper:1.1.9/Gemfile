@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'addressable'
+gem 'net-http-persistent'
+gem 'rack-test'
+gem 'webmock'
+gem 'test-unit'
+gem 'rake'

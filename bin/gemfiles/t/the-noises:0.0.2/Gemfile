@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'ruby-progressbar'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'capture-output'

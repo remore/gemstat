@@ -1,0 +1,5 @@
+gem 'eventdb'
+gem 'fetcher'
+gem 'sqlite3'
+gem 'rdoc'
+gem 'hoe'

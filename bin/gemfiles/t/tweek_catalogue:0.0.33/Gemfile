@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rake'
+gem 'mongo_mapper'
+gem 'activesupport'

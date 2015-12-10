@@ -1,0 +1,6 @@
+gem 'therubyracer'
+gem 'commonjs'
+gem 'rails'
+gem 'activesupport'
+gem 'actionpack'
+gem 'railties'

@@ -1,0 +1,6 @@
+gem 'modalsupport'
+gem 'modalsettings'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

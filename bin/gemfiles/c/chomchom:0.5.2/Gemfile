@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'nokogiri'
+gem 'ruby-stemmer'
+gem 'ruby-readability'
+gem 'htmlentities'
+gem 'json'
+gem 'grammar_cop'

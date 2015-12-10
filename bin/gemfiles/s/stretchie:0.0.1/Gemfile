@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'elasticsearch-model'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'sqlite3'

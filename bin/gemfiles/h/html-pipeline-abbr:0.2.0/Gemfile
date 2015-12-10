@@ -1,0 +1,7 @@
+gem 'html-pipeline'
+gem 'nokogiri'
+gem 'gemoji'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'yard'

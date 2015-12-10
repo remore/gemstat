@@ -1,0 +1,6 @@
+gem 'redis-store-json'
+gem 'rack'
+gem 'rake'
+gem 'bundler'
+gem 'mocha'
+gem 'minitest'

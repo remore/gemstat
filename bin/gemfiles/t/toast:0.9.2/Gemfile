@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'blockenspiel'
+gem 'rack-accept-media-types'
+gem 'rack-link_headers'

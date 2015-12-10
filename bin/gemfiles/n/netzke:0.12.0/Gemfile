@@ -1,0 +1,5 @@
+gem 'netzke-core'
+gem 'netzke-basepack'
+gem 'netzke-testing'
+gem 'bundler'
+gem 'rake'

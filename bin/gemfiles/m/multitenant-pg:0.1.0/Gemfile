@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'pg'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-mocks'
+gem 'database_cleaner'

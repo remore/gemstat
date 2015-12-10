@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec-mocks'
+gem 'activesupport'
+gem 'encryptor'

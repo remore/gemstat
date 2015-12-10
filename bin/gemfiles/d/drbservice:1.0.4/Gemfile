@@ -1,0 +1,4 @@
+gem 'hoe-mercurial'
+gem 'hoe-highline'
+gem 'rspec'
+gem 'hoe'

@@ -1,0 +1,5 @@
+gem 'narray'
+gem 'bio'
+gem 'facets'
+gem 'newgem'
+gem 'hoe'

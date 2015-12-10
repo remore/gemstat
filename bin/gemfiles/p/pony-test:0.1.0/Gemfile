@@ -1,0 +1,5 @@
+gem 'pony'
+gem 'rspec'
+gem 'cucumber'
+gem 'webrat'
+gem 'rack-test'

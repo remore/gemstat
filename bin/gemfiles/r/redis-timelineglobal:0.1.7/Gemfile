@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'multi_json'
+gem 'redis'
+gem 'hashie'
+gem 'sqlite3'

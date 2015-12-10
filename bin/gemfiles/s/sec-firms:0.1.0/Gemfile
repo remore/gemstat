@@ -1,0 +1,7 @@
+gem 'roo-xls'
+gem 'rubyzip'
+gem 'slugify'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

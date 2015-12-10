@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'tzinfo'
+gem 'httparty'
+gem 'nokogiri'
+gem 'retryable'

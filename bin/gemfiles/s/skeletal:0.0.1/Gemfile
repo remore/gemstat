@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'bundler'
+gem 'jeweler'
+gem 'autotest'
+gem 'rspec'
+gem 'rcov'
+gem 'cucumber'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'thin'
+gem 'sinatra'
+gem 'redis'
+gem 'em-hiredis'

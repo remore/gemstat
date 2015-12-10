@@ -1,0 +1,8 @@
+gem 'palsy'
+gem 'rake'
+gem 'minitest'
+gem 'guard-minitest'
+gem 'guard-rake'
+gem 'rdoc'
+gem 'rb-fsevent'
+gem 'simplecov'

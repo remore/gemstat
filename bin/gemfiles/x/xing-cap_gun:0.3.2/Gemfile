@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'actionmailer'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'

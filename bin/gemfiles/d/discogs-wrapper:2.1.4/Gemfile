@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'pry-na'
+gem 'rspec'
+gem 'simplecov'
+gem 'hashie'
+gem 'oauth'

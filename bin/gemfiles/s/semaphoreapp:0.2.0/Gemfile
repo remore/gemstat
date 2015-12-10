@@ -1,0 +1,5 @@
+gem 'json'
+gem 'awesome_print'
+gem 'pry'
+gem 'pry-debugger'
+gem 'rspec'

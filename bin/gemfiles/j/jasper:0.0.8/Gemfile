@@ -1,0 +1,6 @@
+gem 'jasper-api'
+gem 'jasper-backend'
+gem 'jasper-cli'
+gem 'jasper-core'
+gem 'jasper-frontend'
+gem 'jasper-sample'

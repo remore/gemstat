@@ -1,0 +1,6 @@
+gem 'sprockets'
+gem 'sprockets-es6'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'rubocop'

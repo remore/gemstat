@@ -1,0 +1,5 @@
+gem 'ruby_parser'
+gem 'sexp_processor'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

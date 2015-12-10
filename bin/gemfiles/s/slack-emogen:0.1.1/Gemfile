@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'thor'
+gem 'headless'
+gem 'selenium-webdriver'
+gem 'mini_magick'

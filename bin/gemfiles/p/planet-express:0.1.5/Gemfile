@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'gitable'
+gem 'net-ssh'
+gem 'bundler'
+gem 'rake'

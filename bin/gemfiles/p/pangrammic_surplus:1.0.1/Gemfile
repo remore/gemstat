@@ -1,0 +1,2 @@
+gem 'numbers_and_words'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'psych'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

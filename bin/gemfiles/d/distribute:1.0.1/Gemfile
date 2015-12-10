@@ -1,0 +1,2 @@
+gem 'yard'
+gem 'kramdown'

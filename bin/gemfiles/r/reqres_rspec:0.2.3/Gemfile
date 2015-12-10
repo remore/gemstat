@@ -1,0 +1,6 @@
+gem 'coderay'
+gem 'mime-types'
+gem 'aws-sdk-core'
+gem 'google_drive'
+gem 'bundler'
+gem 'rake'

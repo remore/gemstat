@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'highline'
+gem 'turnip'
+gem 'awesome_print'
+gem 'rake'

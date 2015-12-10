@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'dotenv'
+gem 'thread_safe'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

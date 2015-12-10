@@ -1,0 +1,6 @@
+gem 'slim'
+gem 'git'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'abstract'
+gem 'json-rpc-objects-json'
+gem 'ruby-version'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'rspec-its'

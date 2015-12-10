@@ -1,0 +1,5 @@
+gem 'vagrant'
+gem 'i18n'
+gem 'rake'
+gem 'rdoc'
+gem 'minitest'

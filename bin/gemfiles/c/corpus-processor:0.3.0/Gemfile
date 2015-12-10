@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rspec'
+gem 'pry-nav'
+gem 'coveralls'

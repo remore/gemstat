@@ -1,0 +1,7 @@
+gem 'bio-logger'
+gem 'rspec'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'
+gem 'regressiontest'

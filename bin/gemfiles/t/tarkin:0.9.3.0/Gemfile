@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'arest'
+gem 'command_line_reporter'
+gem 'rspec'
+gem 'bundler'

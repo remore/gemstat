@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'excon'
+gem 'oj'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

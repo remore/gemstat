@@ -1,0 +1,5 @@
+gem 'domainatrix'
+gem 'fernet'
+gem 'rack'
+gem 'rack-test'
+gem 'rake'

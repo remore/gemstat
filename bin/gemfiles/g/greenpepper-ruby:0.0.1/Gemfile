@@ -1,0 +1,6 @@
+gem 'treetop'
+gem 'libxml-ruby'
+gem 'mocha'
+gem 'rcov'
+gem 'RedCloth'
+gem 'diff-lcs'

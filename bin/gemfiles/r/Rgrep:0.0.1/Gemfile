@@ -1,0 +1,4 @@
+gem 'launchy'
+gem 'thor'
+gem 'os'
+gem 'rspec'

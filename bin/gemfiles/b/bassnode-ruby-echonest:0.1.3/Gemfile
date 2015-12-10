@@ -1,0 +1,4 @@
+gem 'libxml-ruby'
+gem 'httpclient'
+gem 'hashie'
+gem 'rspec'

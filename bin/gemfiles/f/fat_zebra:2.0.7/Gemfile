@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'yard-tomdoc'
+gem 'rest-client'
+gem 'json'
+gem 'activesupport'

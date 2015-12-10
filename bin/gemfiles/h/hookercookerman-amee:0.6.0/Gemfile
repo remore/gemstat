@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'fakeweb'
+gem 'httparty'
+gem 'wycats-moneta'
+gem 'crack'
+gem 'validatable'

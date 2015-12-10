@@ -1,0 +1,4 @@
+gem 'actionpack'
+gem 'activemodel'
+gem 'rake'
+gem 'mocha'

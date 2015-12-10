@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'winrm'
+gem 'mixlib-log'
+gem 'uuidtools'

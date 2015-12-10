@@ -1,0 +1,6 @@
+gem 'facter'
+gem 'thread_safe'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

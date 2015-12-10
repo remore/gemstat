@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'pry-byebug'
+gem 'mini_magick'
+gem 'abstractize'
+gem 'net-http-persistent'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'selenium-webdriver'
+gem 'timerizer'
+gem 'json'

@@ -1,0 +1,7 @@
+gem 'chronic'
+gem 'chronic_duration'
+gem 'httparty'
+gem 'numbers_in_words'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'mongo'
+gem 'fast'
+gem 'symbolmatrix'
+gem 'rspec'

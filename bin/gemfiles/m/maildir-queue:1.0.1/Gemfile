@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'shoulda'
+gem 'rack-test'
+gem 'ktheory-fakefs'
+gem 'maildir'
+gem 'sinatra'
+gem 'json'

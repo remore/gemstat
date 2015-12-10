@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'rspec'
+gem 'rake'
+gem 'redcarpet'
+gem 'launchy'
+gem 'groupdate'
+gem 'chartkick'
+gem 'curb'

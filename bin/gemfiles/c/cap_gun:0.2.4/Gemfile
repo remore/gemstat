@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'actionmailer'
+gem 'micronaut'
+gem 'mocha'

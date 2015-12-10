@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'dotenv'
+gem 'minitest'
+gem 'rake'
+gem 'webmock'
+gem 'vcr'

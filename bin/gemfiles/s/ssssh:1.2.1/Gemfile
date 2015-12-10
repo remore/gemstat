@@ -1,0 +1,5 @@
+gem 'aws-sdk-core'
+gem 'clamp'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'osaka'
+gem 'rake'
+gem 'rspec'
+gem 'launchy'

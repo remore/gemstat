@@ -1,0 +1,8 @@
+gem 'middleman-core'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'
+gem 'kramdown'
+gem 'rubocop'
+gem 'pry'
+gem 'yard'

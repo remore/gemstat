@@ -1,0 +1,6 @@
+gem 'libftdi-ruby'
+gem 'bindata'
+gem 'slop'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

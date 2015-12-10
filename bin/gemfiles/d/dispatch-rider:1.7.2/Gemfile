@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'activerecord'
+gem 'daemons'
+gem 'retries'
+gem 'sqlite3'

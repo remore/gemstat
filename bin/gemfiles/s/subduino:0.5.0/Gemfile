@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'serialport'
+gem 'eventmachine'
+gem 'rspec'

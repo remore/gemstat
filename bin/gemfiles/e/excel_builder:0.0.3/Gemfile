@@ -1,0 +1,2 @@
+gem 'command_recorder'
+gem 'rest-client'

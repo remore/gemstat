@@ -1,0 +1,4 @@
+gem 'dm-core'
+gem 'extlib'
+gem 'bones'
+gem 'minitest'

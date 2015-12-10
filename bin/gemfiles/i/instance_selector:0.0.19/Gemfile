@@ -1,0 +1,6 @@
+gem 'fog'
+gem 'capistrano'
+gem 'slop'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'killbill'
+gem 'activerecord'
+gem 'activerecord-jdbcmysql-adapter'
+gem 'jbundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord-jdbcsqlite3-adapter'

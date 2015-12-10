@@ -1,0 +1,4 @@
+gem 'bcrypt'
+gem 'email_validator'
+gem 'warden'
+gem 'railties'

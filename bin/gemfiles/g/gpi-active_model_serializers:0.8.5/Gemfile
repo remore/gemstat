@@ -1,0 +1,5 @@
+gem 'activemodel'
+gem 'rails'
+gem 'pry'
+gem 'simplecov'
+gem 'coveralls'

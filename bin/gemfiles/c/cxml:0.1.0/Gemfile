@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'nokogiri'
+gem 'xml-simple'
+gem 'hashr'

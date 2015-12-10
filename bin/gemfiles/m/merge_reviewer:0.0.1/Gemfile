@@ -1,0 +1,4 @@
+gem 'flog'
+gem 'flay'
+gem 'bundler'
+gem 'rake'

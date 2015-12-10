@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'
+gem 'racc'
+gem 'nokogiri-diff'
+gem 'yard'
+gem 'guard-rspec'
+gem 'guard-shell'

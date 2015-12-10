@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'uuid'
+gem 'nokogiri'
+gem 'acts_as_chain'
+gem 'vcr'
+gem 'rspec'
+gem 'webmock'

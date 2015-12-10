@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'mysql'
+gem 'pg'
+gem 'sqlite3'
+gem 'rspec'
+gem 'cucumber'
+gem 'ruby-debug'

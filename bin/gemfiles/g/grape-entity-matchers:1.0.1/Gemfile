@@ -1,0 +1,6 @@
+gem 'grape-entity'
+gem 'rspec'
+gem 'rake'
+gem 'maruku'
+gem 'yard'
+gem 'bundler'

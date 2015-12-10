@@ -1,0 +1,5 @@
+gem 'msgpack'
+gem 'td-client'
+gem 'fluent-logger'
+gem 'rake'
+gem 'rspec'

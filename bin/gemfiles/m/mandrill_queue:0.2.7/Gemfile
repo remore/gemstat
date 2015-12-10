@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'mandrill-api'
+gem 'bundler'
+gem 'rake'
+gem 'timecop'
+gem 'rspec-mocks'
+gem 'factory_girl'
+gem 'faker'

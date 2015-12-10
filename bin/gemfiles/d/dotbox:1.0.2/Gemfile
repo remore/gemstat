@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'aruba'
+gem 'rspec'
+gem 'rake'

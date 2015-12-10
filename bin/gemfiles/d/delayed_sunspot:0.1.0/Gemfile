@@ -1,0 +1,4 @@
+gem 'sunspot'
+gem 'rake'
+gem 'rspec'
+gem 'sunspot_matchers'

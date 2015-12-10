@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'activeresource'
+gem 'mocha'
+gem 'activeresource'

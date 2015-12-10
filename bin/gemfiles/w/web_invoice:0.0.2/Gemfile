@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'mechanize'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'net-ldap'
+gem 'kwalify'
+gem 'rdoc'
+gem 'ruby-ldapserver'
+gem 'hoe'

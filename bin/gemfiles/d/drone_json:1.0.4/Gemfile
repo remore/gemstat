@@ -1,0 +1,7 @@
+gem 'drone'
+gem 'thin'
+gem 'mocha'
+gem 'bacon'
+gem 'schmurfy-em-spec'
+gem 'delorean'
+gem 'simplecov'

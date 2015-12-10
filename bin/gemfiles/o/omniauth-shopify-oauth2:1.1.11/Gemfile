@@ -1,0 +1,4 @@
+gem 'omniauth-oauth2'
+gem 'minitest'
+gem 'fakeweb'
+gem 'rake'

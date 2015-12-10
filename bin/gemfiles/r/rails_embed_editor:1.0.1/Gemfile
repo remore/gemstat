@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'ace-rails-ap'
+gem 'json'
+gem 'sqlite3'
+gem 'cancan'
+gem 'tzinfo-data'

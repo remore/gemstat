@@ -1,0 +1,2 @@
+gem 'hpricot'
+gem 'json'

@@ -1,0 +1,6 @@
+gem 'brpm_content_framework'
+gem 'brpm_module_brpm'
+gem 'brpm_module_jira'
+gem 'brpm_module_servicenow'
+gem 'rake'
+gem 'rspec'

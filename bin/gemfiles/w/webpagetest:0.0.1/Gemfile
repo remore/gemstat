@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'awesome_print'
+gem 'faraday'
+gem 'json'
+gem 'hashie'

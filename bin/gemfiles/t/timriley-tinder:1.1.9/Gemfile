@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'activesupport'
+gem 'hpricot'
+gem 'mechanize'
+gem 'hoe'

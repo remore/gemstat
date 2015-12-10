@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'resque-scheduler'
+gem 'bundler'
+gem 'debugger'
+gem 'rspec'

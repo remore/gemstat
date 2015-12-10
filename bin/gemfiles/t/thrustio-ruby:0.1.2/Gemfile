@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

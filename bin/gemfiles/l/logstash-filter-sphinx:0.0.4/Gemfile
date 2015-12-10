@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'pg_jruby'
+gem 'redis'
+gem 'ipaddress'
+gem 'connection_pool'
+gem 'logstash-devutils'

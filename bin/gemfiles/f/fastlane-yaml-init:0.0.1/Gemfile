@@ -1,0 +1,6 @@
+gem 'colorize'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rubocop'
+gem 'coveralls'

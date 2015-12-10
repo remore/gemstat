@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'httparty'
+gem 'app_conf'
+gem 'tinder'

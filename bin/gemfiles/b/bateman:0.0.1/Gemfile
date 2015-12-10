@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'nokogiri'
+gem 'fakeweb'
+gem 'rspec'
+gem 'simplecov'

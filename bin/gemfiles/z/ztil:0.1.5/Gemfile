@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'rest-client'
+gem 'backup_zh'
+gem 'whenever'

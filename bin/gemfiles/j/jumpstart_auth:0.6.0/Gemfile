@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'shoulda'
+gem 'oauth'
+gem 'twitter'
+gem 'launchy'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'diplomat'
+gem 'erubis'
+gem 'public_suffix'

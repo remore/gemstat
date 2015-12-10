@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mixlib-config'
+gem 'chef'
+gem 'fog'
+gem 'chef'

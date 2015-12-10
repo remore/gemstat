@@ -1,0 +1,6 @@
+gem 'servolux'
+gem 'file-tail'
+gem 'eventmachine'
+gem 'eventmachine-tail'
+gem 'syslog_protocol'
+gem 'em-resolv-replace'

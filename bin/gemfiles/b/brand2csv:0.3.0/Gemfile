@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'rdoc'
+gem 'rspec'
+gem 'webmock'
+gem 'hoe'

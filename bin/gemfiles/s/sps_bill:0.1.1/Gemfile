@@ -1,0 +1,8 @@
+gem 'pdf-reader-turtletext'
+gem 'getoptions'
+gem 'bundler'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'guard-rspec'

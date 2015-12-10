@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-its'
+gem 'simplecov'
+gem 'pry'

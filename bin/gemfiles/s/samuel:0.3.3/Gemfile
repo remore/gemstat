@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'mocha'
+gem 'httpclient'
+gem 'fakeweb'
+gem 'rcov'
+gem 'yard'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'daemons'
+gem 'slop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

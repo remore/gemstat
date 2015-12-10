@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rack'
+gem 'railties'
+gem 'formatted_rails_logger'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'pg'
+gem 'bundler'
+gem 'pry'
+gem 'pry-nav'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

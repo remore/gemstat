@@ -1,0 +1,7 @@
+gem 'gherkin'
+gem 'bundler'
+gem 'rspec'
+gem 'sass'
+gem 'rake'
+gem 'pry'
+gem 'bump'

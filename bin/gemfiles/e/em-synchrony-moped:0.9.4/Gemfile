@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'em-synchrony'
+gem 'moped'
+gem 'em-resolv-replace'
+gem 'rspec'

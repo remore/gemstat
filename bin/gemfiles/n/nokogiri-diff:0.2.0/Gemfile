@@ -1,0 +1,5 @@
+gem 'tdiff'
+gem 'nokogiri'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'yard'

@@ -1,0 +1,6 @@
+gem 'pdf-reader'
+gem 'json'
+gem 'yard'
+gem 'rake'
+gem 'minitest'
+gem 'simplecov'

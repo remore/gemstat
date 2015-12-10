@@ -1,0 +1,6 @@
+gem 'machinist'
+gem 'couchrest_model'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'

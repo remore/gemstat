@@ -1,0 +1,7 @@
+gem 'octokit'
+gem 'git_diff_parser'
+gem 'saddler-reporter-support'
+gem 'saddler-reporter-support-git'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

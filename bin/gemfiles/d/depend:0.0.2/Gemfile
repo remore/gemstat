@@ -1,0 +1,5 @@
+gem 'os_platform'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'

@@ -1,0 +1,5 @@
+gem 'amazon-ec2'
+gem 'awesome_print'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'

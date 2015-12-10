@@ -1,0 +1,6 @@
+gem 'unicode'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rake'
+gem 'diff-lcs'

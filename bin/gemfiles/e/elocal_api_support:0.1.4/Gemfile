@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'activerecord'
+gem 'responders'
+gem 'kaminari'
+gem 'bundler'
+gem 'rspec-rails'
+gem 'rake'

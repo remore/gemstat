@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'activesupport'
+gem 'terminal-table'
+gem 'debugger'

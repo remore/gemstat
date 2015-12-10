@@ -1,0 +1,5 @@
+gem 'recursive-open-struct'
+gem 'minitest'
+gem 'minitest-happy'
+gem 'pry'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'wires'
+gem 'json'
+gem 'rake'
+gem 'wires-test'
+gem 'jemc-reporter'

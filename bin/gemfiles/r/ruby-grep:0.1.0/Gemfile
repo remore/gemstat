@@ -1,0 +1,6 @@
+gem 'colorize'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'debugger'

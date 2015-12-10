@@ -1,0 +1,4 @@
+gem 'ridley'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'bundler'

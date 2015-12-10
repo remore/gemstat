@@ -1,0 +1,5 @@
+gem 'asetus'
+gem 'slop'
+gem 'net-ssh'
+gem 'rugged'
+gem 'pry'

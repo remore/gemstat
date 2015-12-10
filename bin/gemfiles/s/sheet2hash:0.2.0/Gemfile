@@ -1,0 +1,5 @@
+gem 'roo'
+gem 'simplecov'
+gem 'yard'
+gem 'bundler'
+gem 'rake'

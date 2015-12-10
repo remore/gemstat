@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'shopify_api'
+gem 'ptools'
+gem 'rspec'
+gem 'guard-rspec'

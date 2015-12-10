@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'erubis'
+gem 'oauth'
+gem 'twitter'
+gem 'yard'
+gem 'bundler'
+gem 'rake'

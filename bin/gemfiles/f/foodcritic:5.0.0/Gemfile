@@ -1,0 +1,7 @@
+gem 'gherkin'
+gem 'nokogiri'
+gem 'rake'
+gem 'treetop'
+gem 'yajl-ruby'
+gem 'erubis'
+gem 'rufus-lru'

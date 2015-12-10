@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'actionpack'
+gem 'rspec'
+gem 'sqlite3-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'appraisal'

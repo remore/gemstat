@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'connection_pool'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'redis-namespace'
+gem 'hiredis'

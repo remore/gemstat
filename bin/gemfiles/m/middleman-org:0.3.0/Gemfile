@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'org-ruby'
+gem 'addressable'
+gem 'nokogiri'
+gem 'emacs-ruby'

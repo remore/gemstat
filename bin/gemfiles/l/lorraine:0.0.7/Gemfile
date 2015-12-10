@@ -1,0 +1,7 @@
+gem 'serialport'
+gem 'colorize'
+gem 'faye'
+gem 'thor'
+gem 'thin'
+gem 'json_pure'
+gem 'httpclient'

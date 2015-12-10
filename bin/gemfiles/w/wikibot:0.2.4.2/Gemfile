@@ -1,0 +1,4 @@
+gem 'curb'
+gem 'xml-simple'
+gem 'deep_merge'
+gem 'andand'

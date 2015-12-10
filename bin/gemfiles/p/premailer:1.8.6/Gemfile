@@ -1,0 +1,8 @@
+gem 'css_parser'
+gem 'htmlentities'
+gem 'bundler'
+gem 'rake'
+gem 'hpricot'
+gem 'nokogiri'
+gem 'yard'
+gem 'redcarpet'

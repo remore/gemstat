@@ -1,0 +1,7 @@
+gem 'heroku'
+gem 'rspec'
+gem 'ruby-debug19'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

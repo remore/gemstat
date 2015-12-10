@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'pry'
+gem 'pry-nav'

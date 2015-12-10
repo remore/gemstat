@@ -1,0 +1,7 @@
+gem 'pry'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'

@@ -1,0 +1,7 @@
+gem 'git'
+gem 'git_clone_url'
+gem 'env_branch'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'

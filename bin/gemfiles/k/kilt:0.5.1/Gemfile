@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'crack'
+gem 'rufus-scheduler'
+gem 'rspec'
+gem 'fakeweb'

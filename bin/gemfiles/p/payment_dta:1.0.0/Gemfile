@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rubigen'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'

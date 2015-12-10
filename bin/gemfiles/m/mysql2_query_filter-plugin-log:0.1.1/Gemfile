@@ -1,0 +1,4 @@
+gem 'mysql2_query_filter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

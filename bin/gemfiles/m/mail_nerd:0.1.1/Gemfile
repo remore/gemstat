@@ -1,0 +1,8 @@
+gem 'highline'
+gem 'rails'
+gem 'nokogiri'
+gem 'mandrill_mailer'
+gem 'aruba'
+gem 'cucumber-rails'
+gem 'nifty-generators'
+gem 'rspec-rails'

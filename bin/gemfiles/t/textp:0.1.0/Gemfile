@@ -1,0 +1,4 @@
+gem 'ruby-oembed'
+gem 'rdoc'
+gem 'rspec'
+gem 'rubygems-tasks'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'devise'
+gem 'omniauth-facebook'
+gem 'pg'

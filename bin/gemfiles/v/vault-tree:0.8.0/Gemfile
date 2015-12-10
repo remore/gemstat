@@ -1,0 +1,6 @@
+gem 'rbnacl-libsodium'
+gem 'secretsharing'
+gem 'bundler'
+gem 'rspec'
+gem 'cucumber'
+gem 'relish'

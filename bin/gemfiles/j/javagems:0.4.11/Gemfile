@@ -1,0 +1,4 @@
+gem 'gemcutter'
+gem 'bundler'
+gem 'riot'
+gem 'jeweler'

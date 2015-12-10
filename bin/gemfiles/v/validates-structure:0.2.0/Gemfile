@@ -1,0 +1,5 @@
+gem 'activemodel'
+gem 'rspec'
+gem 'debugger'
+gem 'guard'
+gem 'guard-rspec'

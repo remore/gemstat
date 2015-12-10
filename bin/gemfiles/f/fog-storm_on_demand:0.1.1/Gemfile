@@ -1,0 +1,8 @@
+gem 'fog-core'
+gem 'fog-json'
+gem 'rake'
+gem 'minitest'
+gem 'turn'
+gem 'pry'
+gem 'coveralls'
+gem 'rubocop'

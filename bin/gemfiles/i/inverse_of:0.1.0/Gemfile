@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'ritual'
+gem 'bundler'
+gem 'sqlite3-ruby'
+gem 'ruby-debug19'

@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-fakes'
+gem 'sequel'
+gem 'sqlite3'

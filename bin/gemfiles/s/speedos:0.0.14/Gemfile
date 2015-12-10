@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'rake'
+gem 'faker'
+gem 'logger'
+gem 'browsermob-proxy'
+gem 'capybara'
+gem 'rspec'
+gem 'database_cleaner'

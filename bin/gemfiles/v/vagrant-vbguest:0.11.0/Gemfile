@@ -1,0 +1,5 @@
+gem 'micromachine'
+gem 'bundler'
+gem 'i18n'
+gem 'log4r'
+gem 'rake'

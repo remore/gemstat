@@ -1,0 +1,6 @@
+gem 'hpricot'
+gem 'rdoc'
+gem 'hanna'
+gem 'gokdok'
+gem 'rspec'
+gem 'fakeweb'

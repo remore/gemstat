@@ -1,0 +1,5 @@
+gem 'statistics2'
+gem 'shoulda'
+gem 'mocha'
+gem 'active_support'
+gem 'hoe'

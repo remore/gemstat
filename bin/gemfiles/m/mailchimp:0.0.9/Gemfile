@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'ruby-debug19'
+gem 'rake'
+gem 'shoulda'
+gem 'mocha'
+gem 'cover_me'
+gem 'fakeweb'

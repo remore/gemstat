@@ -1,0 +1,8 @@
+gem 'ghaki-app'
+gem 'ghaki-ext-file'
+gem 'ghaki-logger'
+gem 'ghaki-match'
+gem 'ghaki-stats'
+gem 'rspec'
+gem 'mocha'
+gem 'rdoc'

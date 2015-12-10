@@ -1,0 +1,7 @@
+gem 'rubyheap'
+gem 'trollop'
+gem 'copier'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

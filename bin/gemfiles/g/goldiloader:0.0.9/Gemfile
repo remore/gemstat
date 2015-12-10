@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'coveralls'
+gem 'database_cleaner'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'sqlite3'

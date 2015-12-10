@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'rugged'
+gem 'coderay'
+gem 'mime-types'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'dish'
+gem 'markaby'
+gem 'bundler'
+gem 'rake'

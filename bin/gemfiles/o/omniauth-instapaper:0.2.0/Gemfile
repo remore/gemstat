@@ -1,0 +1,8 @@
+gem 'omniauth-xauth'
+gem 'multi_json'
+gem 'rake'
+gem 'rdiscount'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'
+gem 'webmock'

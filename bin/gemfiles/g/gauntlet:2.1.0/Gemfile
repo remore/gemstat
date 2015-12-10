@@ -1,0 +1,4 @@
+gem 'net-http-persistent'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

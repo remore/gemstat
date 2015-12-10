@@ -1,0 +1,7 @@
+gem 'system-getifaddrs'
+gem 'activeresource'
+gem 'commander'
+gem 'activeresource-response'
+gem 'lockfile'
+gem 'bundler'
+gem 'rake'

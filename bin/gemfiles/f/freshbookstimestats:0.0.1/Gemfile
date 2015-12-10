@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'freshbooks.rb'
+gem 'dotenv'
+gem 'terminal-table'

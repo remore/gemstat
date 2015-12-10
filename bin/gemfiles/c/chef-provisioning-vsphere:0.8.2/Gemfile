@@ -1,0 +1,5 @@
+gem 'rbvmomi'
+gem 'chef-provisioning'
+gem 'rspec'
+gem 'rake'
+gem 'rubocop'

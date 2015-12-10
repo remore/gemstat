@@ -1,0 +1,4 @@
+gem 'watir'
+gem 'ocra'
+gem 'tlsmail'
+gem 'gmail_sender'

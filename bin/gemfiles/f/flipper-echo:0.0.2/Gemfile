@@ -1,0 +1,6 @@
+gem 'flipper'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

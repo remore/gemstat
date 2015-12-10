@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'fastthread'
+gem 'daemon_controller'
+gem 'rack'

@@ -1,0 +1,6 @@
+gem 'json'
+gem 'bundler'
+gem 'rspec'
+gem 'ruby-debug'
+gem 'autotest'
+gem 'webmock'

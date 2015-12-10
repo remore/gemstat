@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'roo'
+gem 'activemodel'
+gem 'google_drive'

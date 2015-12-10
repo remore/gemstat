@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'coffee-script'
+gem 'less'
+gem 'less-rails'
+gem 'therubyracer'

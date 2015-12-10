@@ -1,0 +1,5 @@
+gem 'clamp'
+gem 'flickraw'
+gem 'splat'
+gem 'rake'
+gem 'rspec'

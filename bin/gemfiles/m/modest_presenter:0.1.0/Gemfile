@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'guard'
+gem 'guard-minitest'

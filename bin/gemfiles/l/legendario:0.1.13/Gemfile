@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'file-monitor'
+gem 'osdb'
+gem 'awesome_print'
+gem 'logging'

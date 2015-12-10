@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'colored'
+gem 'rake'
+gem 'erubis'
+gem 'thor'
+gem 'rspec'

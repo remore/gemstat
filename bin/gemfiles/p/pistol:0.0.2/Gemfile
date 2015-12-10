@@ -1,0 +1,4 @@
+gem 'cutest'
+gem 'rack'
+gem 'sinatra'
+gem 'cuba'

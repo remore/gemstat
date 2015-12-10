@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'yard'
+gem 'psych'
+gem 'thor'

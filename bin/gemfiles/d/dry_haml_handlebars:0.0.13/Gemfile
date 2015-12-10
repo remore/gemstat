@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'therubyracer'
+gem 'haml-rails'
+gem 'handlebars_assets'
+gem 'rabl'
+gem 'gon'

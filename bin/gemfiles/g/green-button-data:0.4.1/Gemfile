@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'sax-machine'
+gem 'faraday'
+gem 'rspec'
+gem 'webmock'
+gem 'guard'

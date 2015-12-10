@@ -1,0 +1,6 @@
+gem 'origen'
+gem 'require_all'
+gem 'origen_arm_debug'
+gem 'yard-activesupport-concern'
+gem 'origen_jtag'
+gem 'origen_doc_helpers'

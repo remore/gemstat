@@ -1,0 +1,4 @@
+gem 'jackal'
+gem 'childprocess'
+gem 'carnivore-http'
+gem 'carnivore-actor'

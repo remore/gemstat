@@ -1,0 +1,8 @@
+gem 'yajl-ruby'
+gem 'rest-client'
+gem 'rspec'
+gem 'mocha'
+gem 'actionpack'
+gem 'rack'
+gem 'activesupport'
+gem 'delayed_job'

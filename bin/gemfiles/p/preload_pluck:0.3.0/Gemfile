@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activerecord-import'
+gem 'database_cleaner'
+gem 'factory_girl'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

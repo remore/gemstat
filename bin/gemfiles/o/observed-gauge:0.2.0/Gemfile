@@ -1,0 +1,8 @@
+gem 'observed'
+gem 'rrd-ffi'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'fakefs'
+gem 'simplecov'

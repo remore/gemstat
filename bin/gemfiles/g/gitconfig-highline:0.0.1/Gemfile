@@ -1,0 +1,2 @@
+gem 'gitconfig'
+gem 'highline'

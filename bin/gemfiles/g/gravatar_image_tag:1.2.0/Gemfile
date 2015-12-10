@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'jeweler'

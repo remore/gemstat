@@ -1,0 +1,4 @@
+gem 'highline'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'

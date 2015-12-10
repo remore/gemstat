@@ -1,0 +1,5 @@
+gem 'iron_mq'
+gem 'iron_worker_ng'
+gem 'test-unit'
+gem 'minitest'
+gem 'rake'

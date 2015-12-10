@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'mocha'
+gem 'webmock'
+gem 'pry'
+gem 'rake'
+gem 'faraday'
+gem 'multi_json'

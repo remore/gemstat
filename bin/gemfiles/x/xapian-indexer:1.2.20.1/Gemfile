@@ -1,0 +1,4 @@
+gem 'xapian-core'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'

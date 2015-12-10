@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'fakeweb'
+gem 'libxml-ruby'

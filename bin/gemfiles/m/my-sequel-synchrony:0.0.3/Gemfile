@@ -1,0 +1,4 @@
+gem 'sequel'
+gem 'mysql2'
+gem 'em-synchrony'
+gem 'rake'

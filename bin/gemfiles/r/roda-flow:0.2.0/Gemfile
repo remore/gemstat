@@ -1,0 +1,7 @@
+gem 'dry-container'
+gem 'roda-container'
+gem 'bundler'
+gem 'roda'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'activesupport'
+gem 'fakeweb'
+gem 'awesome_print'
+gem 'json'
+gem 'rest-client'

@@ -1,0 +1,5 @@
+gem 'gpr'
+gem 'rroonga'
+gem 'safe_colorize'
+gem 'bundler'
+gem 'rake'

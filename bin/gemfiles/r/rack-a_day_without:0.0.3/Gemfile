@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'tzinfo'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'actionpack'

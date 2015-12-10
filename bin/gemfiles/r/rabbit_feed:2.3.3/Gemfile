@@ -1,0 +1,6 @@
+gem 'bunny'
+gem 'activesupport'
+gem 'activemodel'
+gem 'pidfile'
+gem 'avro'
+gem 'rspec'

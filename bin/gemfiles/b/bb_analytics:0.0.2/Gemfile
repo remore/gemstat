@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'rspec'
+gem 'simplecov'
+gem 'sqlite3'
+gem 'gli'

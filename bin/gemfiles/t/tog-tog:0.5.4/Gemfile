@@ -1,0 +1,8 @@
+gem 'mislav-will_paginate'
+gem 'rubigen'
+gem 'newgem'
+gem 'desert'
+gem 'RedCloth'
+gem 'rubyzip'
+gem 'oauth'
+gem 'hoe'

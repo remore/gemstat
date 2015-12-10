@@ -1,0 +1,6 @@
+gem 'reek'
+gem 'flog'
+gem 'flay'
+gem 'mutant'
+gem 'simplecov'
+gem 'pelusa'

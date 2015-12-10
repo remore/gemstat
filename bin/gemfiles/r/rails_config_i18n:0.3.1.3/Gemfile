@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'rake'
+gem 'rspec'
+gem 'autotest'
+gem 'growl-glue'

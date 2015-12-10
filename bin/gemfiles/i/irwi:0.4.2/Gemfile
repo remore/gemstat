@@ -1,0 +1,7 @@
+gem 'diff-lcs'
+gem 'activerecord'
+gem 'activesupport'
+gem 'actionpack'
+gem 'rails_autolink'
+gem 'rspec'
+gem 'sqlite3'

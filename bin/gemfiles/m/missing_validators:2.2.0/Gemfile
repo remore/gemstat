@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'addressable'
+gem 'rspec'
+gem 'rubocop'
+gem 'cane'
+gem 'shoulda-matchers'
+gem 'codeclimate-test-reporter'

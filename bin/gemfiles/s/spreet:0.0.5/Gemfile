@@ -1,0 +1,7 @@
+gem 'libxml-ruby'
+gem 'rubyzip'
+gem 'money'
+gem 'i18n'
+gem 'minitest'
+gem 'rake'
+gem 'bundler'

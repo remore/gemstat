@@ -1,0 +1,4 @@
+gem 'assert'
+gem 'deas'
+gem 'erubis'
+gem 'much-plugin'

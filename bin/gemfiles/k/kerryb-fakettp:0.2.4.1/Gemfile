@@ -1,0 +1,5 @@
+gem 'sinatra-sinatra'
+gem 'rspec'
+gem 'spicycode-rcov'
+gem 'cucumber'
+gem 'RedCloth'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'oauth2_hmac_header'
+gem 'attr_encrypted'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'factory_girl_rails'

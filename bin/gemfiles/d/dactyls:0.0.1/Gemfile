@@ -1,0 +1,2 @@
+gem 'sylfy'
+gem 'mongo_mapper'

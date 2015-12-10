@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'activemerchant'
+gem 'mocha'
+gem 'has_many_polymorphs'

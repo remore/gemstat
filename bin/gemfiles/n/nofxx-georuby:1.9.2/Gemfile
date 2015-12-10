@@ -1,0 +1,6 @@
+gem 'dbf'
+gem 'rspec'
+gem 'bundler'
+gem 'rcov'
+gem 'rspec'
+gem 'dbf'

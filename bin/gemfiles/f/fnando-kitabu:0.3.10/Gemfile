@@ -1,0 +1,5 @@
+gem 'rdiscount'
+gem 'hpricot'
+gem 'unicode'
+gem 'main'
+gem 'ultraviolet'

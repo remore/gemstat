@@ -1,0 +1,6 @@
+gem 'clbustos-rtf'
+gem 'text-table'
+gem 'prawn'
+gem 'prawn-svg'
+gem 'nokogiri'
+gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'bundler'
+gem 'rend-core'
+gem 'rend-acl'

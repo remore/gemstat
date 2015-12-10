@@ -1,0 +1,6 @@
+gem 'command-runner'
+gem 'os'
+gem 'packed_struct'
+gem 'thor'
+gem 'multi_json'
+gem 'rspec'

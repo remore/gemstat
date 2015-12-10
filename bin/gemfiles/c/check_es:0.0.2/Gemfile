@@ -1,0 +1,2 @@
+gem 'nagios_check'
+gem 'http'

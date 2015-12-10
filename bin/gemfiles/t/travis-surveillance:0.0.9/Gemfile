@@ -1,0 +1,7 @@
+gem 'clamp'
+gem 'clarence'
+gem 'pusher-client-merman'
+gem 'rake'
+gem 'scrolls'
+gem 'simplecov'
+gem 'terminal-table'

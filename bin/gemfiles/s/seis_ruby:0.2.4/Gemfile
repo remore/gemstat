@@ -1,0 +1,5 @@
+gem 'watchr'
+gem 'thor'
+gem 'mechanize'
+gem 'pry'
+gem 'ruby_patch'

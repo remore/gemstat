@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rmagick'
+gem 'ruby-terminfo'
+gem 'trollop'

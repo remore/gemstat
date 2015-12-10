@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'rubyzip'
+gem 'sqlite3'

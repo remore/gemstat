@@ -1,0 +1,6 @@
+gem 'w3c_validators'
+gem 'metainspector'
+gem 'rspec'
+gem 'mocha'
+gem 'rake'
+gem 'fakeweb'

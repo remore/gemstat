@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'phantomjs2'
+gem 'mini_magick'
+gem 'activesupport'

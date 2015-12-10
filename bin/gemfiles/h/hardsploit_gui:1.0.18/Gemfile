@@ -1,0 +1,6 @@
+gem 'sqlite3'
+gem 'activerecord'
+gem 'qtbindings'
+gem 'libusb'
+gem 'bundler'
+gem 'rake'

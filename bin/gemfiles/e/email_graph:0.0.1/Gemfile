@@ -1,0 +1,5 @@
+gem 'normailize'
+gem 'gmail_xoauth'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

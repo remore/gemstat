@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'try_chain'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'simplecov'
+gem 'rspec'
+gem 'net-ssh'
+gem 'net-ping'
+gem 'rake'
+gem 'rake-compiler'

@@ -1,0 +1,5 @@
+gem 'omniauth'
+gem 'r-saml'
+gem 'rspec'
+gem 'simplecov'
+gem 'rack-test'

@@ -1,0 +1,6 @@
+gem 'gem_hadar'
+gem 'test-unit'
+gem 'mocha'
+gem 'sqlite3'
+gem 'rspec'
+gem 'activerecord'

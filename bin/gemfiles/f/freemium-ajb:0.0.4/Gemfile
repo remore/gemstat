@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'money'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'bundler'
+gem 'coveralls'

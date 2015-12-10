@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'qiita'
+gem 'mail'
+gem 'nokogiri'

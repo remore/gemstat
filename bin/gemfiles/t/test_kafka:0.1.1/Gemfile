@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'zk'
+gem 'poseidon'
+gem 'daemon_controller'

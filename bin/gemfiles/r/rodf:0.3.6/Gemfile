@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'rubyzip'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec_hpricot_matchers'
+gem 'echoe'

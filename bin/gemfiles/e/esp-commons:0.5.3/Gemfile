@@ -1,0 +1,8 @@
+gem 'active_attr'
+gem 'amqp'
+gem 'bunny'
+gem 'curb'
+gem 'daemons'
+gem 'openteam-commons'
+gem 'rails'
+gem 'sqlite3'

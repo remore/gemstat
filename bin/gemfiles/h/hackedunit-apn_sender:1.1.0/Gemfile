@@ -1,0 +1,2 @@
+gem 'resque'
+gem 'resque-access_worker_from_job'

@@ -1,0 +1,8 @@
+gem 'em-http-request'
+gem 'em-promise'
+gem 'rspec'
+gem 'rake'
+gem 'rack'
+gem 'mongrel'
+gem 'bundler'
+gem 'rake'

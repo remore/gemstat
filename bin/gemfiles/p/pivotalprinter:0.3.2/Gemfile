@@ -1,0 +1,7 @@
+gem 'term-ansicolor'
+gem 'prawn'
+gem 'tins'
+gem 'trollop'
+gem 'nokogiri'
+gem 'rake'
+gem 'pry'

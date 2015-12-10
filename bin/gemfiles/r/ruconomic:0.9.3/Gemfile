@@ -1,0 +1,6 @@
+gem 'curb'
+gem 'libxml-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'yard'

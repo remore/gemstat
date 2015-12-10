@@ -1,0 +1,6 @@
+gem 'octopress-tag-helpers'
+gem 'jekyll'
+gem 'bundler'
+gem 'pry-byebug'
+gem 'rake'
+gem 'clash'

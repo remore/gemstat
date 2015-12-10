@@ -1,0 +1,2 @@
+gem 'warden'
+gem 'orm_adapter'

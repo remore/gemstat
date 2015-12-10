@@ -1,0 +1,4 @@
+gem 'nocms-pages'
+gem 'nocms-admin'
+gem 'jquery-rails'
+gem 'sqlite3'

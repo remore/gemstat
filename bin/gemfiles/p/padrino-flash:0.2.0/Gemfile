@@ -1,0 +1,5 @@
+gem 'padrino-core'
+gem 'padrino-helpers'
+gem 'rspec'
+gem 'rspec-html-matchers'
+gem 'rack-test'

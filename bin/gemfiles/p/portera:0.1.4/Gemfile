@@ -1,0 +1,5 @@
+gem 'tempr'
+gem 'erubis'
+gem 'tilt'
+gem 'minitest'
+gem 'rake'

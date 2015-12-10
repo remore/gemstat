@@ -1,0 +1,4 @@
+gem 'capistrano-rails'
+gem 'bundler'
+gem 'rake'
+gem 'alchemy_cms'

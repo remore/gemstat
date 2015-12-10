@@ -1,0 +1,8 @@
+gem 'json'
+gem 'sqlite3'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'json'
+gem 'sqlite3'

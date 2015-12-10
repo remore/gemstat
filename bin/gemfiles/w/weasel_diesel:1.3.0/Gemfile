@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'rspec'
+gem 'rack-test'
+gem 'yard'
+gem 'sinatra'
+gem 'rake'

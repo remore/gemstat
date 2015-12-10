@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rake'
+gem 'sqlite3'
+gem 'thoughtbot-shoulda'
+gem 'mocha'

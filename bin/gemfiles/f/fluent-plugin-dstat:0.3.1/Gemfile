@@ -1,0 +1,5 @@
+gem 'fluent-mixin-rewrite-tag-name'
+gem 'fluentd'
+gem 'rdoc'
+gem 'test-unit'
+gem 'bundler'

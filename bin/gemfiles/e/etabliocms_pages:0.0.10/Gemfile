@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'etabliocms_core'
+gem 'awesome_nested_set'
+gem 'paperclip'
+gem 'sqlite3'

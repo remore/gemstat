@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'steps'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'net-ssh-shell'

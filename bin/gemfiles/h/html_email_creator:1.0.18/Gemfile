@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'kramdown'
+gem 'liquid'
+gem 'nokogiri'
+gem 'inline-style'
+gem 'rspec'
+gem 'rake'

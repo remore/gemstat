@@ -1,0 +1,6 @@
+gem 'terminal-table'
+gem 'colorize'
+gem 'rspec'
+gem 'timecop'
+gem 'bundler'
+gem 'rake'

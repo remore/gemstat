@@ -1,0 +1,6 @@
+gem 'json'
+gem 'url'
+gem 'bundler'
+gem 'rake'
+gem 'shoulda'
+gem 'yard'

@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'knife-ec2'
+gem 'aws-sdk'
+gem 'route53'
+gem 'nokogiri'

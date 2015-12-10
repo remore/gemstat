@@ -1,0 +1,8 @@
+gem 'rroonga'
+gem 'rack'
+gem 'test-unit'
+gem 'test-unit-notify'
+gem 'test-unit-capybara'
+gem 'rake'
+gem 'jeweler'
+gem 'yard'

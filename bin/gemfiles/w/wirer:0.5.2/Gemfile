@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'yard'
+gem 'redcarpet'

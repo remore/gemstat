@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'dotenv-rails'
+gem 'pg'
+gem 'azure'
+gem 'rbvmomi'
+gem 'fog'
+gem 'fog-azure'
+gem 'bcrypt'

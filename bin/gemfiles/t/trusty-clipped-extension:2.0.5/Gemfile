@@ -1,0 +1,5 @@
+gem 'acts_as_list'
+gem 'paperclip'
+gem 'uuidtools'
+gem 'cocaine'
+gem 'trusty-cms'

@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'minitest-hooks'
+gem 'minitest-shared_description'
+gem 'tzinfo'
+gem 'activemodel'
+gem 'nokogiri'

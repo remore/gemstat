@@ -1,0 +1,5 @@
+gem 'RedCloth'
+gem 'classifier'
+gem 'maruku'
+gem 'directory_watcher'
+gem 'open4'

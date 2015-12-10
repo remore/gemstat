@@ -1,0 +1,2 @@
+gem 'notahat-machinist'
+gem 'mongomapper'

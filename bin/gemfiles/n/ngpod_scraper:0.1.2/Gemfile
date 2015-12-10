@@ -1,0 +1,6 @@
+gem 'fakeweb'
+gem 'rspec'
+gem 'nokogiri'
+gem 'pow'
+gem 'rmagick'
+gem 'valuable'

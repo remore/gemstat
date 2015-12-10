@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'httparty'
+gem 'em-http-request'
+gem 'activesupport'

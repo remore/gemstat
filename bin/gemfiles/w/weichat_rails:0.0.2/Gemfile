@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'nokogiri'
+gem 'rest-client'
+gem 'dalli'

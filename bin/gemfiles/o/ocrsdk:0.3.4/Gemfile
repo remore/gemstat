@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'pdf-reader'
+gem 'activesupport'
+gem 'retryable'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

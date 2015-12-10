@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'rest-client'
+gem 'configuration'
+gem 'minitest'

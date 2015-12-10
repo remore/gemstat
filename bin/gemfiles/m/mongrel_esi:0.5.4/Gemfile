@@ -1,0 +1,6 @@
+gem 'daemons'
+gem 'fastthread'
+gem 'hpricot'
+gem 'memcache-client'
+gem 'cgi_multipart_eof_fix'
+gem 'mongrel'

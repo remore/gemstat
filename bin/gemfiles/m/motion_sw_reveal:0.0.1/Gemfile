@@ -1,0 +1,6 @@
+gem 'bubble-wrap'
+gem 'motion-cocoapods'
+gem 'ProMotion'
+gem 'bundler'
+gem 'rake'
+gem 'motion-stump'

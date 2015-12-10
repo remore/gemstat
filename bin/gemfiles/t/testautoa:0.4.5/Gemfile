@@ -1,0 +1,8 @@
+gem 'cucumber'
+gem 'json'
+gem 'retriable'
+gem 'slowhandcuke'
+gem 'rubyzip'
+gem 'awesome_print'
+gem 'rest-client'
+gem 'nokogiri'

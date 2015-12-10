@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'recursive-open-struct'
+gem 'rspec'
+gem 'webmock'

@@ -1,0 +1,7 @@
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'mocha'
+gem 'ruby-debug19'
+gem 'rspec'
+gem 'minitest'

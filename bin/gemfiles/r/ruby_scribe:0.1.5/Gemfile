@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'activesupport'
+gem 'i18n'
+gem 'ruby_parser'
+gem 'rspec'
+gem 'rake'

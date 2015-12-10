@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'ruby_parser'
+gem 'ruby2ruby'

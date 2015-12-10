@@ -1,0 +1,4 @@
+gem 'settingslogic'
+gem 'mongo'
+gem 'tweetstream'
+gem 'rspec'

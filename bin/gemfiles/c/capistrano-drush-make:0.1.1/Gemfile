@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'capistrano-ash'
+gem 'capistrano-ext'
+gem 'railsless-deploy'

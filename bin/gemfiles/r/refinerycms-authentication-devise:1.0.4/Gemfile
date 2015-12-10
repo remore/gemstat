@@ -1,0 +1,4 @@
+gem 'refinerycms-core'
+gem 'actionmailer'
+gem 'devise'
+gem 'friendly_id'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'gyoku'
+gem 'nori'
+gem 'whenever'
+gem 'sidekiq'
+gem 'rest-client'
+gem 'htmlentities'

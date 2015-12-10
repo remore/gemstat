@@ -1,0 +1,7 @@
+gem 'jquery-rails'
+gem 'angularjs-rails'
+gem 'rails'
+gem 'rspec'
+gem 'konacha'
+gem 'doorkeeper'
+gem 'sextant'

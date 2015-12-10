@@ -1,0 +1,5 @@
+gem 'launchy'
+gem 'json'
+gem 'thor'
+gem 'rake'
+gem 'mocha'

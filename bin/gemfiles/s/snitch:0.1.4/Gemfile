@@ -1,0 +1,4 @@
+gem 'twitter'
+gem 'tinder'
+gem 'activesupport'
+gem 'tmail'

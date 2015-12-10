@@ -1,0 +1,5 @@
+gem 'htmlentities'
+gem 'nuggets'
+gem 'safe_yaml'
+gem 'hen'
+gem 'rake'

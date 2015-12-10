@@ -1,0 +1,4 @@
+gem 'right_api_client'
+gem 'vagrant'
+gem 'rspec'
+gem 'rake'

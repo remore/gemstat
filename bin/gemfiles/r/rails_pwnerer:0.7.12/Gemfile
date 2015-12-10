@@ -1,0 +1,4 @@
+gem 'zerg_support'
+gem 'echoe'
+gem 'fakefs'
+gem 'flexmock'

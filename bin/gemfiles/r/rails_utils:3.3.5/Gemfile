@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'minitest'
+gem 'turn'
+gem 'mocha'

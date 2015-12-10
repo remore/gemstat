@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'actionpack'
+gem 'rake'
+gem 'rspec'
+gem 'generator_spec'
+gem 'rspec-collection_matchers'

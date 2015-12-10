@@ -1,0 +1,8 @@
+gem 'mechanize'
+gem 'cucumber'
+gem 'launchy'
+gem 'open4'
+gem 'cucumber-rails'
+gem 'mocha'
+gem 'sinatra'
+gem 'capybara'

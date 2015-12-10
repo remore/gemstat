@@ -1,0 +1,8 @@
+gem 'fluentd'
+gem 'couchbase'
+gem 'activesupport'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'simplecov'

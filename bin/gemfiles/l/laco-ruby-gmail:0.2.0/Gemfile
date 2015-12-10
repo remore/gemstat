@@ -1,0 +1,7 @@
+gem 'jeweler'
+gem 'shared-mime-info'
+gem 'mime'
+gem 'mail'
+gem 'shared-mime-info'
+gem 'mail'
+gem 'mime'

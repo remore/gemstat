@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'limesurvey'
+gem 'rspec-rails'
+gem 'rspec-its'
+gem 'factory_girl_rails'
+gem 'sqlite3'
+gem 'byebug'

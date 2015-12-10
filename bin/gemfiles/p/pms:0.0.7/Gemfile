@@ -1,0 +1,5 @@
+gem 'lsi4r'
+gem 'unicode'
+gem 'hen'
+gem 'rake'
+gem 'rspec'

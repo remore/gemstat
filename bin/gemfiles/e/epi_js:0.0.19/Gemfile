@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'coffee-rails'
+gem 'sass-rails'
+gem 'bootstrap-sass'
+gem 'bundler'
+gem 'rails'

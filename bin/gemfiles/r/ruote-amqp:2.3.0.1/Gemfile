@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'amqp'
+gem 'ruote'
+gem 'rake'
+gem 'rspec'

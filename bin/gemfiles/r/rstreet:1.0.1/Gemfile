@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'dotenv'
+gem 'mime-types'
+gem 'aws-sdk'

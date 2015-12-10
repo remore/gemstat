@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'chalk-rake'
+gem 'escort'
+gem 'chalk-log'
+gem 'rubysh'

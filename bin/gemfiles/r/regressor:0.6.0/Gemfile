@@ -1,0 +1,7 @@
+gem 'shoulda-matchers'
+gem 'faker'
+gem 'rails'
+gem 'sqlite3'
+gem 'generator_spec'
+gem 'rspec-rails'
+gem 'mongoid'

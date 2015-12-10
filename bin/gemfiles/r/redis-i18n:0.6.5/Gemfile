@@ -1,0 +1,6 @@
+gem 'redis-store'
+gem 'i18n'
+gem 'rake'
+gem 'bundler'
+gem 'mocha'
+gem 'minitest'

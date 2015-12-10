@@ -1,0 +1,7 @@
+gem 'boson'
+gem 'highline'
+gem 'rest-client'
+gem 'chronic'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'gosu'
+gem 'rmagick'
+gem 'bundler'
+gem 'rake-compiler'
+gem 'rake'
+gem 'pry'
+gem 'byebug'
+gem 'pry-byebug'

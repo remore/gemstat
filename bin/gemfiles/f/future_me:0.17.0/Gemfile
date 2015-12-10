@@ -1,0 +1,5 @@
+gem 'awesome_print'
+gem 'beeminder'
+gem 'trollop'
+gem 'highline'
+gem 'chronic'

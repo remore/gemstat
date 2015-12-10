@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'curb'
+gem 'nokogiri'
+gem 'handsoap'

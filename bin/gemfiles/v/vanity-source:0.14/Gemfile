@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'json'
+gem 'nokogiri'
+gem 'rack'
+gem 'i18n'

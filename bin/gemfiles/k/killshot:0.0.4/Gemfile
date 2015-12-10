@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'anemone'
+gem 'trollop'
+gem 'nokogiri'
+gem 'colored'

@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'rails'
+gem 'mongoid'
+gem 'cancancan'
+gem 'role_model'

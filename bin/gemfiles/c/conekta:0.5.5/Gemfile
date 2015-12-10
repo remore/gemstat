@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'json'
+gem 'sys-uname'
+gem 'rspec'
+gem 'pry'

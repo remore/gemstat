@@ -1,0 +1,4 @@
+gem 'pivotal-tracker'
+gem 'octokit'
+gem 'valise'
+gem 'thor'

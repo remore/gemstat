@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'platform-api'
+gem 'rendezvous'
+gem 'colorize'

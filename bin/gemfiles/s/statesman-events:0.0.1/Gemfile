@@ -1,0 +1,5 @@
+gem 'statesman'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rubocop'

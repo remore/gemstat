@@ -1,0 +1,6 @@
+gem 'spree_core'
+gem 'spree_auth'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'capybara'
+gem 'factory_girl'

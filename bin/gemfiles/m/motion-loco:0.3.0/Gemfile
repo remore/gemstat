@@ -1,0 +1,5 @@
+gem 'awesome_print_motion'
+gem 'bubble-wrap'
+gem 'motion-require'
+gem 'motion-support'
+gem 'rake'

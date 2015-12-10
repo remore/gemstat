@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'pg'
+gem 'shoulda'
+gem 'guard'
+gem 'guard-brakeman'
+gem 'guard-minitest'

@@ -1,0 +1,4 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'rspec'
+gem 'json_spec'

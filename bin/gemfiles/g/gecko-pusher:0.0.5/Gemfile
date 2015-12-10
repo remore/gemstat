@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'httpclient'
+gem 'faraday'
+gem 'rspec'
+gem 'webmock'
+gem 'guard-rspec'
+gem 'rake'
+gem 'pry'

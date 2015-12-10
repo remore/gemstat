@@ -1,0 +1,4 @@
+gem 'ffi-compiler'
+gem 'thread_safe'
+gem 'rspec'
+gem 'yard'

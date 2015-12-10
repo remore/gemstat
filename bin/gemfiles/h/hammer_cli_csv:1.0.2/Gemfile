@@ -1,0 +1,2 @@
+gem 'hammer_cli_katello'
+gem 'rubocop'

@@ -1,0 +1,5 @@
+gem 'compass'
+gem 'sass'
+gem 'slim'
+gem 'tilt'
+gem 'filewatcher'

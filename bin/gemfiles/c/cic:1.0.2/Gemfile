@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'hashie'
+gem 'activesupport'
+gem 'json'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'shoulda-matchers'

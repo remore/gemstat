@@ -1,0 +1,4 @@
+gem 'harvested'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

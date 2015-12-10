@@ -1,0 +1,2 @@
+gem 'right_aws'
+gem 'mysql'

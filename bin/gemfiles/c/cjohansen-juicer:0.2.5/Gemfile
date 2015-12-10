@@ -1,0 +1,4 @@
+gem 'cmdparse'
+gem 'hpricot'
+gem 'rubyzip'
+gem 'bones'

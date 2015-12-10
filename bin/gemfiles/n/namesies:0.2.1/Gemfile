@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'colorize'
+gem 'gems'
+gem 'mechanize'
+gem 'bundler'
+gem 'rake'

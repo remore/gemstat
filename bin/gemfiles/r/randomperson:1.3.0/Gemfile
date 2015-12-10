@@ -1,0 +1,6 @@
+gem 'wirble'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'yard'
+gem 'redcarpet'

@@ -1,0 +1,5 @@
+gem 'adamantium'
+gem 'abstract_type'
+gem 'concord'
+gem 'lupo'
+gem 'bundler'

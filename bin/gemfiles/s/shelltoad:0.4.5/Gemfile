@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'hoptoad-api'
+gem 'jeweler'
+gem 'ruby-debug'

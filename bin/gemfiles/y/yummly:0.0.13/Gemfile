@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'rack'
+gem 'json'
+gem 'rspec'
+gem 'rake'

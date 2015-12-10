@@ -1,0 +1,4 @@
+gem 'yajl-ruby'
+gem 'rr'
+gem 'rake'
+gem 'dotenv'

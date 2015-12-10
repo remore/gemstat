@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'progress-monitor'
+gem 'lockfile'
+gem 'spreadsheet'
+gem 'highline'
+gem 'bio-bgzf'
+gem 'term-ansicolor'
+gem 'rest-client'

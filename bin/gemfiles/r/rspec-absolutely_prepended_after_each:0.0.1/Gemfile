@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'tapp'
+gem 'pry'
+gem 'rake'

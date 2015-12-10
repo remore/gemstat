@@ -1,0 +1,2 @@
+gem 'exception_notification'
+gem 'gelf'

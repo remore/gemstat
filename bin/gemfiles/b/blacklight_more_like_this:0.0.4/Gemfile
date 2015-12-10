@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'blacklight'
+gem 'rsolr'
+gem 'rsolr-ext'

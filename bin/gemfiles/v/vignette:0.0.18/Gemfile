@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'haml'
+gem 'pry-byebug'
+gem 'timecop'

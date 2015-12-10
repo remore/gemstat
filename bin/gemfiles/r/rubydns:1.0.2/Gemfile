@@ -1,0 +1,7 @@
+gem 'celluloid'
+gem 'celluloid-io'
+gem 'timers'
+gem 'bundler'
+gem 'process-daemon'
+gem 'rspec'
+gem 'rake'

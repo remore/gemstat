@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'sanitize'
+gem 'escape_utils'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

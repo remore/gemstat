@@ -1,0 +1,8 @@
+gem 'json'
+gem 'sinatra'
+gem 'webmock'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

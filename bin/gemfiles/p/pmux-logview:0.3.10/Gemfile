@@ -1,0 +1,5 @@
+gem 'pmux'
+gem 'json'
+gem 'sinatra'
+gem 'bundler'
+gem 'rake'

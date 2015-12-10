@@ -1,0 +1,4 @@
+gem 'algorithms'
+gem 'daemons'
+gem 'log4r'
+gem 'params'

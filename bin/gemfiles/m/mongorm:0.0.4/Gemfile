@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'mongo'
+gem 'origin'
+gem 'bson_ext'
+gem 'rspec'
+gem 'cane'
+gem 'rake'

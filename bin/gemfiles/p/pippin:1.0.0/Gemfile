@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'fakeweb'
+gem 'fakeweb-matcher'
+gem 'rspec-rails'
+gem 'sqlite3'

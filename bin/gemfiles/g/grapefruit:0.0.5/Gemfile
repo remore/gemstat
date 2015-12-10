@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'autotest'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'dotenv'

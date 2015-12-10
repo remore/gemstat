@@ -1,0 +1,4 @@
+gem 'rubocop'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

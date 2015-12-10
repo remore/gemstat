@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'rest-client'
+gem 'builder'
+gem 'bundler'

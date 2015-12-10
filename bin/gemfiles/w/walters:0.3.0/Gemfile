@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'xni'
+gem 'rspec'
+gem 'rubygems-tasks'

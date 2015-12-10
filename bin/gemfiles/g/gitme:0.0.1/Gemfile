@@ -1,0 +1,8 @@
+gem 'methadone'
+gem 'grit'
+gem 'jeweler'
+gem 'rspec'
+gem 'rr'
+gem 'fakefs'
+gem 'cucumber'
+gem 'aruba'

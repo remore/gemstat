@@ -1,0 +1,5 @@
+gem 'cocaine'
+gem 'wrong'
+gem 'pry'
+gem 'guard-minitest'
+gem 'rb-fsevent'

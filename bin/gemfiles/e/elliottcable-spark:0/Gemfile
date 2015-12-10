@@ -1,0 +1,5 @@
+gem 'speck'
+gem 'echoe'
+gem 'slack'
+gem 'yard'
+gem 'maruku'

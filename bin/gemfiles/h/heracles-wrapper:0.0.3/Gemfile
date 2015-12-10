@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'morphine'
+gem 'method_decorators'
+gem 'webmock'
+gem 'debugger'
+gem 'minitest'
+gem 'minitest-matchers'
+gem 'rails'

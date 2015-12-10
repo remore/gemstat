@@ -1,0 +1,5 @@
+gem 'rflow'
+gem 'eventmachine_httpserver_update'
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'rake'

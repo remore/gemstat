@@ -1,0 +1,5 @@
+gem 'plist'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

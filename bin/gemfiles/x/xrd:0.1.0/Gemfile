@@ -1,0 +1,5 @@
+gem 'sporkmonger-sax-machine'
+gem 'rake'
+gem 'rspec'
+gem 'launchy'
+gem 'diff-lcs'

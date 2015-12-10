@@ -1,0 +1,6 @@
+gem 'reactive_support'
+gem 'rspec'
+gem 'bundler'
+gem 'coveralls'
+gem 'simplecov'
+gem 'rake'

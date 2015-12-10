@@ -1,0 +1,8 @@
+gem 'fog'
+gem 'unf'
+gem 'yell'
+gem 'hashie'
+gem 'activesupport'
+gem 'ipaddress'
+gem 'erubis'
+gem 'damsel'

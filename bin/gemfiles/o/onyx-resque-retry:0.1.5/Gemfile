@@ -1,0 +1,7 @@
+gem 'resque'
+gem 'resque-scheduler'
+gem 'test-unit'
+gem 'turn'
+gem 'yard'
+gem 'simplecov'
+gem 'mocha'

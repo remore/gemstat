@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'loaderio'
+gem 'rspec'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'writeexcel'
+gem 'bundler'
+gem 'rake'

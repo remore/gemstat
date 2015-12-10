@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'cijoe'
+gem 'daemon_controller'
+gem 'sinatra'
+gem 'rspec'

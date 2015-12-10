@@ -1,0 +1,2 @@
+gem 'wxruby2-preview'
+gem 'wx_sugar'

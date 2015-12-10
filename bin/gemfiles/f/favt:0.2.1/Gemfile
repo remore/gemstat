@@ -1,0 +1,4 @@
+gem 'twitter'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

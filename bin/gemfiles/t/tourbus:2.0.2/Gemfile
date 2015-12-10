@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'trollop'
+gem 'faker'
+gem 'hpricot'
+gem 'webrat'
+gem 'activesupport'

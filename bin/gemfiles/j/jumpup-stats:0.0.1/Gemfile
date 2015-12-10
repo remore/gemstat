@@ -1,0 +1,6 @@
+gem 'rubocop'
+gem 'brakeman'
+gem 'metric_fu'
+gem 'sandi_meter'
+gem 'mago'
+gem 'colored'

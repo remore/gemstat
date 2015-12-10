@@ -1,0 +1,6 @@
+gem 'henry-container'
+gem 'mini_magick'
+gem 'watir'
+gem 'watir-webdriver'
+gem 'rake'
+gem 'rspec'

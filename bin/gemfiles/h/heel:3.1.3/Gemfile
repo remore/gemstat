@@ -1,0 +1,7 @@
+gem 'puma'
+gem 'mime-types'
+gem 'launchy'
+gem 'coderay'
+gem 'rake'
+gem 'minitest'
+gem 'rdoc'

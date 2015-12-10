@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'activesupport'
+gem 'i18n'
+gem 'multi_json'
+gem 'rubyzip'
+gem 'pry'

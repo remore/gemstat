@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'redcarpet'
+gem 'nokogiri'
+gem 'json'
+gem 'gli'
+gem 'parslet'
+gem 'mg'

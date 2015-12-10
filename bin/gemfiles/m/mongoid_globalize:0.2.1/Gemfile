@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rdoc'
+gem 'rspec'
+gem 'mongoid-rspec'
+gem 'database_cleaner'
+gem 'ruby-debug19'
+gem 'jeweler'

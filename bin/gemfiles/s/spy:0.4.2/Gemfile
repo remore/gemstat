@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'pry-nav'
+gem 'minitest'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'coveralls'

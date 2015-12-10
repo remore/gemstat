@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'actionpack'
+gem 'polyamorous'
+gem 'chronic'
+gem 'rspec'
+gem 'machinist'
+gem 'faker'
+gem 'sqlite3'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'cane'
+gem 'tailor'
+gem 'countloc'

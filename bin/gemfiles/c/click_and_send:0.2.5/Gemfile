@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'nori'
+gem 'savon'
+gem 'rake'
+gem 'rspec'
+gem 'faker'
+gem 'pry'

@@ -1,0 +1,6 @@
+gem 'html-pipeline'
+gem 'rouge'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'

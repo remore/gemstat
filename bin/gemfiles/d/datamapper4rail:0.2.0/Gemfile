@@ -1,0 +1,2 @@
+gem 'slf4r'
+gem 'hoe'

@@ -1,0 +1,5 @@
+gem 'ruby_tfs'
+gem 'activesupport'
+gem 'redis-namespace'
+gem 'bundler'
+gem 'rake'

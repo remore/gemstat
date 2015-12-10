@@ -1,0 +1,7 @@
+gem 'acts-as-taggable-on'
+gem 'aggtive_record'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

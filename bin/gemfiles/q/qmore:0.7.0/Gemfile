@@ -1,0 +1,8 @@
+gem 'qless'
+gem 'multi_json'
+gem 'gem_logger'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'pry'
+gem 'orderedhash'

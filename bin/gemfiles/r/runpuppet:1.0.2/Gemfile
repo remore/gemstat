@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'facter'
+gem 'dim'
+gem 'minitest'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'

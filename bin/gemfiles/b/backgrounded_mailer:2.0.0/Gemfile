@@ -1,0 +1,5 @@
+gem 'backgrounded'
+gem 'mail'
+gem 'shoulda'
+gem 'mocha'
+gem 'sqlite3-ruby'

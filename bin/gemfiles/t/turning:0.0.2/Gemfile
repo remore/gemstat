@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'actionpack'
+gem 'railties'
+gem 'rspec'
+gem 'rake'
+gem 'bourne'
+gem 'tzinfo'
+gem 'rack-test'

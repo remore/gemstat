@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'sys-proctree'
+gem 'wait_until'
+gem 'travis-lint'
+gem 'metric_fu'
+gem 'rspec'
+gem 'simplecov'
+gem 'rack'

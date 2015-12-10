@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'sqlite3'
+gem 'mocha'
+gem 'pry'
+gem 'yard'
+gem 'redcarpet'
+gem 'simplecov'

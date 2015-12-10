@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'httparty'
+gem 'minitest'
+gem 'rack-test'
+gem 'rr'
+gem 'artifice'
+gem 'simplecov'

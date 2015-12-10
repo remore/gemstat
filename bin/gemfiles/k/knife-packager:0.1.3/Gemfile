@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'bundler'
+gem 'chef'
+gem 'berkshelf'
+gem 's3'
+gem 'fog'

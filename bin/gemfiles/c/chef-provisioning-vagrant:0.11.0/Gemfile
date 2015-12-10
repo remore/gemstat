@@ -1,0 +1,4 @@
+gem 'chef-provisioning'
+gem 'chef'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'locomotive_liquid'
+gem 'haml'
+gem 'bson_ext'
+gem 'mongoid'
+gem 'rake'
+gem 'rspec'

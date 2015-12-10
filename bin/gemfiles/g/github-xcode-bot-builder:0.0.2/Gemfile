@@ -1,0 +1,6 @@
+gem 'octokit'
+gem 'parseconfig'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

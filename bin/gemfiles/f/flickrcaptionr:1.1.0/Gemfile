@@ -1,0 +1,7 @@
+gem 'ruby-oembed'
+gem 'trollop'
+gem 'dimensions'
+gem 'sinatra'
+gem 'haml'
+gem 'thin'
+gem 'rspec'

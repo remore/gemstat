@@ -1,0 +1,2 @@
+gem 'mechanize'
+gem 'nokogiri'

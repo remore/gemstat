@@ -1,0 +1,4 @@
+gem 'sqlite3-ruby'
+gem 'bz2'
+gem 'newgem'
+gem 'hoe'

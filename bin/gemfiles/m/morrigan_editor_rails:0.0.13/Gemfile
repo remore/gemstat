@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'uglifier'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'font-awesome-rails'
+gem 'carrierwave'
+gem 'sanitize'
+gem 'sqlite3'

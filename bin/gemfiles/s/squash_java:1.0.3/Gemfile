@@ -1,0 +1,6 @@
+gem 'json'
+gem 'squash_uploader'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'jeweler'

@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'json_spec'
+gem 'curb'
+gem 'activesupport'
+gem 'crack'

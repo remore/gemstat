@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'pg'
+gem 'minitest-rails'
+gem 'pry-rails'

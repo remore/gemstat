@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'addressable'
+gem 'rspec'
+gem 'diff-lcs'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'rake'

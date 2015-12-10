@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rspec'
+gem 'mongoid-rspec'
+gem 'activesupport'
+gem 'rake'
+gem 'foreman'

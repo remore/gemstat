@@ -1,0 +1,7 @@
+gem 'typhoeus'
+gem 'parslet'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'webmock'

@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'feedlr'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

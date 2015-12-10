@@ -1,0 +1,4 @@
+gem 'ZenTest'
+gem 'firebrigade_api'
+gem 'rspec'
+gem 'hoe'

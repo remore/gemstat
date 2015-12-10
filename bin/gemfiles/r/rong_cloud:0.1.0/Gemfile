@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'pry-doc'
+gem 'httplog'

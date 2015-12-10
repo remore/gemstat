@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'reek'
+gem 'rspec'
+gem 'rspec-given'
+gem 'guard'
+gem 'guard-rspec'
+gem 'coveralls'

@@ -1,0 +1,4 @@
+gem 'moji'
+gem 'rake'
+gem 'rspec'
+gem 'gem-release'

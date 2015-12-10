@@ -1,0 +1,7 @@
+gem 'capybara'
+gem 'oily_png'
+gem 'selenium-webdriver'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'rubyzip'
+gem 'pry'

@@ -1,0 +1,2 @@
+gem 'rack'
+gem 'djberg96-krb5-auth'

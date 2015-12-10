@@ -1,0 +1,8 @@
+gem 'gosu'
+gem 'texplay'
+gem 'tmx'
+gem 'thor'
+gem 'i18n'
+gem 'active_support'
+gem 'listen'
+gem 'rspec'

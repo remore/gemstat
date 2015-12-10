@@ -1,0 +1,7 @@
+gem 'colorize'
+gem 'hashie'
+gem 'filesize'
+gem 'thor'
+gem 'awesome_print'
+gem 'pry'
+gem 'rake'

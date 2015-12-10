@@ -1,0 +1,4 @@
+gem 'acts_as_list'
+gem 'inverse_of'
+gem 'shoulda'
+gem 'factory_girl'

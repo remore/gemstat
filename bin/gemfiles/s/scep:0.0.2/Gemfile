@@ -1,0 +1,8 @@
+gem 'openssl-extensions'
+gem 'httparty'
+gem 'codeclimate-test-reporter'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'webmock'

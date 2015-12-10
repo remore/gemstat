@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'awesome_print'
+gem 'json'
+gem 'rake'

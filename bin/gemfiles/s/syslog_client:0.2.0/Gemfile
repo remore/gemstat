@@ -1,0 +1,2 @@
+gem 'logglier'
+gem 'mongo'

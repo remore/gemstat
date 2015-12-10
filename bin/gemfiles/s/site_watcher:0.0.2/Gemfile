@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'rspec-expectations'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

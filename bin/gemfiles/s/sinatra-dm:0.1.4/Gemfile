@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'dm-core'
+gem 'kematzy-tasks'
+gem 'sinatra-tests'
+gem 'dm-migrations'

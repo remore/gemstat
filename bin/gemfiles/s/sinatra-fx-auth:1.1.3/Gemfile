@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'fx-auth'
+gem 'rake'
+gem 'cucumber'
+gem 'rspec'
+gem 'factory_girl'
+gem 'rack-test'
+gem 'dm-sqlite-adapter'

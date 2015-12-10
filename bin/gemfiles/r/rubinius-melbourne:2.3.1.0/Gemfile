@@ -1,0 +1,7 @@
+gem 'rubinius-processor'
+gem 'rubinius-compiler'
+gem 'rubinius-ast'
+gem 'rubinius-bridge'
+gem 'redcard'
+gem 'mspec'
+gem 'rake'

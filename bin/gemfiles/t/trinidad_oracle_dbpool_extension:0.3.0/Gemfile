@@ -1,0 +1,6 @@
+gem 'trinidad_dbpool'
+gem 'rspec'
+gem 'mocha'
+gem 'trinidad_dbpool'
+gem 'rspec'
+gem 'mocha'

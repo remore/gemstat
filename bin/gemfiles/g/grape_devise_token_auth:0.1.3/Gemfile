@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'grape'
+gem 'devise'
+gem 'devise_token_auth'

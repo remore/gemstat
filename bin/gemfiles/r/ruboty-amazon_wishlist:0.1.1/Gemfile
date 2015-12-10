@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'mechanize'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'paper_trail'
+gem 'rspec'
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'Platform'

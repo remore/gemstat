@@ -1,0 +1,6 @@
+gem 'fluent-logger'
+gem 'activesupport'
+gem 'rspec'
+gem 'mongo'
+gem 'bson_ext'
+gem 'simplecov'

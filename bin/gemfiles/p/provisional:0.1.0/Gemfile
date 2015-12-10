@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'droplet_kit'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'cucumber'
+gem 'rspec'
+gem 'aruba'

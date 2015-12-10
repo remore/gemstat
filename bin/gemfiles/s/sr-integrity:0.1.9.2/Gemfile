@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'haml'
+gem 'data_mapper'
+gem 'uuidtools'
+gem 'bcrypt-ruby'
+gem 'json'
+gem 'sinatra-ditties'
+gem 'thor'

@@ -1,0 +1,5 @@
+gem 'activemodel'
+gem 'virtus'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

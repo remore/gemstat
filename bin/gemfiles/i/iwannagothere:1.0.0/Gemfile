@@ -1,0 +1,6 @@
+gem 'json'
+gem 'bundler'
+gem 'jeweler'
+gem 'rest-client'
+gem 'rest-client'
+gem 'json'

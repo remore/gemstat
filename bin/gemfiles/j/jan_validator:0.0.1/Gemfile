@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'jan'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

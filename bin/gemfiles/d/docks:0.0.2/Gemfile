@@ -1,0 +1,5 @@
+gem 'mharris_ext'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

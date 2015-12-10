@@ -1,0 +1,4 @@
+gem 'htmlentities'
+gem 'hpricot'
+gem 'micronaut'
+gem 'log_buddy'

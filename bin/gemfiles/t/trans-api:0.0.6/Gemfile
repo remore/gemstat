@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'json'
+gem 'rake'
+gem 'test-unit'
+gem 'coveralls'

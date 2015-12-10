@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'paperclip'
+gem 'acts_as_xls'
+gem 'prawn'

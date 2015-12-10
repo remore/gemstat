@@ -1,0 +1,5 @@
+gem 'downlow'
+gem 'thor'
+gem 'listen'
+gem 'yajl-ruby'
+gem 'version_sorter'

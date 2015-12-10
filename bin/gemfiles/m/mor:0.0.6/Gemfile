@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'awesome_print'
+gem 'activemodel'
+gem 'dalli'

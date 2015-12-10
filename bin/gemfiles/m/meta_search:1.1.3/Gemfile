@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'polyamorous'
+gem 'actionpack'
+gem 'shoulda'

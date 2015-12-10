@@ -1,0 +1,6 @@
+gem 'backburner'
+gem 'bundler'
+gem 'rake'
+gem 'actionmailer'
+gem 'rspec'
+gem 'yard'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'i18n'
+gem 'activesupport'
+gem 'locomotive_liquid'

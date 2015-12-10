@@ -1,0 +1,7 @@
+gem 'slop'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rake'
+gem 'vcr'
+gem 'activesupport'
+gem 'fakeweb'

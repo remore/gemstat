@@ -1,0 +1,4 @@
+gem 'launchy'
+gem 'pry'
+gem 'httparty'
+gem 'oauth'

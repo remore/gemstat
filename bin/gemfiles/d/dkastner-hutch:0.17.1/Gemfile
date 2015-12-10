@@ -1,0 +1,6 @@
+gem 'bunny'
+gem 'carrot-top'
+gem 'multi_json'
+gem 'activesupport'
+gem 'rspec'
+gem 'simplecov'

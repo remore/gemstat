@@ -1,0 +1,8 @@
+gem 'tzinfo'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'daemons'
+gem 'test-unit'
+gem 'minitest'
+gem 'mocha'

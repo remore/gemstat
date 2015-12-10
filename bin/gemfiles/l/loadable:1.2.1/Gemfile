@@ -1,0 +1,4 @@
+gem 'detroit'
+gem 'minitest'
+gem 'minitap'
+gem 'rake'

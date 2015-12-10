@@ -1,0 +1,7 @@
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'omniauth-twitter'
+gem 'omniauth-github'
+gem 'bundler'
+gem 'rake'

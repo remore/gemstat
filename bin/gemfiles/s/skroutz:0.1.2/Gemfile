@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'oauth2'
+gem 'faraday_middleware'
+gem 'activesupport'

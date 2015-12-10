@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'pry'
+gem 'rubygems-tasks'
+gem 'xcodeproj'
+gem 'mustache'
+gem 'nokogiri'

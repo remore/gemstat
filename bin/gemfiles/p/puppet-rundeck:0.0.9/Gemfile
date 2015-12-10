@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'fast_xs'
+gem 'rspec'
+gem 'yard'

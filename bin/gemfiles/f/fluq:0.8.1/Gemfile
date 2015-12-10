@@ -1,0 +1,8 @@
+gem 'celluloid-io'
+gem 'timed_lru'
+gem 'multi_json'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'yard'
+gem 'coveralls'

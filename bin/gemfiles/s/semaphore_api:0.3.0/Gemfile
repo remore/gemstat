@@ -1,0 +1,5 @@
+gem 'zoid'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'byebug'

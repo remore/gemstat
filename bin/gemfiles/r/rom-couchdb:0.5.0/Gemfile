@@ -1,0 +1,4 @@
+gem 'rom'
+gem 'couchrest'
+gem 'bundler'
+gem 'rake'

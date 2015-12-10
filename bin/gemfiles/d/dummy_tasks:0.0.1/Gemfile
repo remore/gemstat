@@ -1,0 +1,5 @@
+gem 'database_cleaner'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'database_cleaner'

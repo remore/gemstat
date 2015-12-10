@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'bacon'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

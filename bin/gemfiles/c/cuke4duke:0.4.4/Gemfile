@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'rspec'
+gem 'celerity'
+gem 'jruby-openssl'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'childprocess'
+gem 'rake'
+gem 'cucumber'
+gem 'aruba'

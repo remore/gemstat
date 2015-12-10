@@ -1,0 +1,4 @@
+gem 'oats'
+gem 'log4r'
+gem 'json'
+gem 'em-http-request'

@@ -1,0 +1,2 @@
+gem 'isbn10'
+gem 'ean13'

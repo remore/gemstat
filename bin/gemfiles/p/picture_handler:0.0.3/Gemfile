@@ -1,0 +1,4 @@
+gem 'mini_magick'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'rake'

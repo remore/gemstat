@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'state_machines-graphviz'
+gem 'bundler'
+gem 'rake'

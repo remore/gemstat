@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'
+gem 'colorize'
+gem 'ruby-progressbar'

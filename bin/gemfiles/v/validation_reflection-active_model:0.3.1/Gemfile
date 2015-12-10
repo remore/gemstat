@@ -1,0 +1,5 @@
+gem 'validation_reflection'
+gem 'ruby-debug'
+gem 'rspec'
+gem 'bourne'
+gem 'activerecord'

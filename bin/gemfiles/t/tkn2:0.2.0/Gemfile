@@ -1,0 +1,5 @@
+gem 'pygments.rb'
+gem 'thor'
+gem 'bundler'
+gem 'bundler'
+gem 'rake'

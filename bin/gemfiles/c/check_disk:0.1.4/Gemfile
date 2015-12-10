@@ -1,0 +1,6 @@
+gem 'sensu-plugin'
+gem 'sys-filesystem'
+gem 'minitest'
+gem 'rake'
+gem 'rubocop'
+gem 'simplecov'

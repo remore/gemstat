@@ -1,0 +1,5 @@
+gem 'json'
+gem 'mime-types'
+gem 'rubyzip'
+gem 'treetop'
+gem 'directory_watcher'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'pry-byebug'
+gem 'squash_ruby'
+gem 'backburner'
+gem 'thor'

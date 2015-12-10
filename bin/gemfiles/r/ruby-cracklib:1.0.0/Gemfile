@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'rdoc'
+gem 'shoulda'
+gem 'mocha'
+gem 'hoe'

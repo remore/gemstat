@@ -1,0 +1,6 @@
+gem 'easycov'
+gem 'hitimes'
+gem 'ansi'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

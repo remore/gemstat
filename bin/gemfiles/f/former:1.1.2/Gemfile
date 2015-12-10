@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'csspool'
+gem 'rake'
+gem 'rdoc'

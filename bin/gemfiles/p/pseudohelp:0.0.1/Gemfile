@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'bb-ruby'
+gem 'redcarpet'
+gem 'RedCloth'

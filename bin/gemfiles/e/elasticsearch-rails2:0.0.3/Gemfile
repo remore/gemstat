@@ -1,0 +1,7 @@
+gem 'elasticsearch'
+gem 'activerecord'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

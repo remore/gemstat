@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'bundler'
+gem 'oga'
+gem 'rake'
+gem 'yard'

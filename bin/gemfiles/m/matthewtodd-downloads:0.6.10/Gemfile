@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'net-ssh'
+gem 'tabtab'
+gem 'tmail'

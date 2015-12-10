@@ -1,0 +1,7 @@
+gem 'mongo_mapper'
+gem 'activemodel'
+gem 'ramdiv-mongo_mapper_acts_as_tree'
+gem 'mm-multi-parameter-attributes'
+gem 'canable'
+gem 'mm-versionable'
+gem 'ruby-stemmer'

@@ -1,0 +1,2 @@
+gem 'nokogiri'
+gem 'net/http'

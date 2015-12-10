@@ -1,0 +1,4 @@
+gem 'github_api'
+gem 'highline'
+gem 'bitbucket_rest_api'
+gem 'colorize'

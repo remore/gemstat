@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'bcrypt'
+gem 'bson'
+gem 'mongoid'
+gem 'kaminari'
+gem 'font-awesome-rails'

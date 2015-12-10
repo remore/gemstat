@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'delayed_job'
+gem 'rails'
+gem 'capybara'
+gem 'sqlite3-ruby'
+gem 'delayed_job'
+gem 'launchy'

@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'rapporteur'
+gem 'appraisal'
+gem 'combustion'
+gem 'rails'
+gem 'rake'
+gem 'rspec-rails'

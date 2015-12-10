@@ -1,0 +1,7 @@
+gem 'parser'
+gem 'pry'
+gem 'appium_thor'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'

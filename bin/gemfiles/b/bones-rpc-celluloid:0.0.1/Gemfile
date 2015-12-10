@@ -1,0 +1,4 @@
+gem 'bones-rpc'
+gem 'celluloid-io'
+gem 'bundler'
+gem 'rake'

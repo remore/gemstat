@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'tmuxinator'
+gem 'deep_merge'
+gem 'awesome_print'
+gem 'colorize'
+gem 'open4'

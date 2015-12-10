@@ -1,0 +1,5 @@
+gem 'json'
+gem 'netrc'
+gem 'highline'
+gem 'eventmachine'
+gem 'em-eventsource'

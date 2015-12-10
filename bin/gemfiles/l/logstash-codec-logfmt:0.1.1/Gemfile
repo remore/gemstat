@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'logfmt'
+gem 'logstash-devutils'
+gem 'rspec'

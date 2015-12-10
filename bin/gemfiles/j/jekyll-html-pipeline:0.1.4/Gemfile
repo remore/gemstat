@@ -1,0 +1,8 @@
+gem 'jekyll'
+gem 'html-pipeline'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'github-markdown'
+gem 'sanitize'
+gem 'gemoji'

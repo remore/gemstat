@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rails'
+gem 'jasmine'
+gem 'selenium-webdriver'
+gem 'sauce-connect'

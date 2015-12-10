@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'puppet'
+gem 'rake'
+gem 'puppetlabs_spec_helper'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'
+gem 'webmock'

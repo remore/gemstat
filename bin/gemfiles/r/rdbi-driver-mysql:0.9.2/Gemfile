@@ -1,0 +1,5 @@
+gem 'rdbi'
+gem 'mysql'
+gem 'test-unit'
+gem 'rdoc'
+gem 'rdbi-dbrc'

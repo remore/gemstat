@@ -1,0 +1,8 @@
+gem 'hobo_support'
+gem 'hobo_fields'
+gem 'dryml'
+gem 'hobo_will_paginate'
+gem 'shoulda'
+gem 'irt'
+gem 'mocha'
+gem 'yard'

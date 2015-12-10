@@ -1,0 +1,6 @@
+gem 'bacon'
+gem 'rake'
+gem 'fcgi'
+gem 'memcache-client'
+gem 'mongrel'
+gem 'thin'

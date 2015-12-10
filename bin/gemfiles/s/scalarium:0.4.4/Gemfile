@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'dispatch_queue'
+gem 'thor'
+gem 'net-ssh'
+gem 'ruby-debug19'
+gem 'rake'

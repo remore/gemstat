@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'squirm'
+gem 'thor'
+gem 'activemodel'
+gem 'ambry'

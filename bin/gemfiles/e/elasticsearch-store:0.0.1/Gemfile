@@ -1,0 +1,5 @@
+gem 'elasticsearch'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

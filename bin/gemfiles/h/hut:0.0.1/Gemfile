@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'open4'
+gem 'tinder'
+gem 'bundler'
+gem 'rake'

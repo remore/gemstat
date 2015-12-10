@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'guard'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'
+gem 'redis'

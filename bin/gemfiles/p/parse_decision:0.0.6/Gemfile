@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec-given'
+gem 'pry'
+gem 'ktcommon'

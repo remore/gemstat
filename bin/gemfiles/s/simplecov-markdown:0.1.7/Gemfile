@@ -1,0 +1,7 @@
+gem 'simplecov'
+gem 'rspec-temp_dir'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'simplecov-console'

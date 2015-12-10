@@ -1,0 +1,8 @@
+gem 'awesome_print'
+gem 'colorize'
+gem 'pry'
+gem 'pry-byebug'
+gem 'pry-doc'
+gem 'pry-docmore'
+gem 'pry-rescue'
+gem 'pry-stack_explorer'

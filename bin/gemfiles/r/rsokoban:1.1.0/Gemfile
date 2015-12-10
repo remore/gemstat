@@ -1,0 +1,8 @@
+gem 'happymapper'
+gem 'ncurses-ruby'
+gem 'awesome_print'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

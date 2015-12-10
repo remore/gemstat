@@ -1,0 +1,4 @@
+gem 'multi_json'
+gem 'sanitize'
+gem 'bundler'
+gem 'rake'

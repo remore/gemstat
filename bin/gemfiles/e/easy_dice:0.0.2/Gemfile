@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'minitest'
+gem 'simplecov'
+gem 'debugger'

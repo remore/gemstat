@@ -1,0 +1,6 @@
+gem 'smartfocus'
+gem 'premailer'
+gem 'hpricot'
+gem 'actionpack'
+gem 'activemodel'
+gem 'railties'

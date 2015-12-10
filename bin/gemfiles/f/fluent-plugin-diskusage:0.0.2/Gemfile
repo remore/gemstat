@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'sys-filesystem'
+gem 'bundler'
+gem 'rake'

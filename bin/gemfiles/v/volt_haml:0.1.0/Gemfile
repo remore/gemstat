@@ -1,0 +1,4 @@
+gem 'haml'
+gem 'volt'
+gem 'bundler'
+gem 'rake'

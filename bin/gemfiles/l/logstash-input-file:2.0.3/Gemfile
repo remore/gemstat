@@ -1,0 +1,8 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'addressable'
+gem 'filewatch'
+gem 'logstash-codec-multiline'
+gem 'stud'
+gem 'logstash-devutils'
+gem 'logstash-codec-json'

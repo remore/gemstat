@@ -1,0 +1,4 @@
+gem 'google-translate'
+gem 'ya2yaml'
+gem 'rake'
+gem 'rdoc'

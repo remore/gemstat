@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'webp-ffi'
+gem 'rack-accept-media-types'
+gem 'bundler'
+gem 'rake'

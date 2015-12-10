@@ -1,0 +1,4 @@
+gem 'money'
+gem 'mongo_mapper'
+gem 'rspec'
+gem 'bones'

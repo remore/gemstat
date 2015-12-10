@@ -1,0 +1,5 @@
+gem 'aws'
+gem 'mime-types'
+gem 'proxifier'
+gem 'thor'
+gem 'rake'

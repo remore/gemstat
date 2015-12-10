@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

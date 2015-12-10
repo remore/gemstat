@@ -1,0 +1,5 @@
+gem 'green_shoes'
+gem 'trollop'
+gem 'rufus-scheduler'
+gem 'log4r'
+gem 'dante'

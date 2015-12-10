@@ -1,0 +1,6 @@
+gem 'lotus-utils'
+gem 'tilt'
+gem 'mail'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

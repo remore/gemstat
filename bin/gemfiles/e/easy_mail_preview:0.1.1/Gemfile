@@ -1,0 +1,6 @@
+gem 'easy_mail_preview'
+gem 'jquery-rails'
+gem 'sqlite3'
+gem 'jeweler'
+gem 'jeweler'
+gem 'jeweler'

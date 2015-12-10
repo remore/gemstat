@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'addressable'
+gem 'described_routes'
+gem 'link_header'
+gem 'newgem'
+gem 'hoe'

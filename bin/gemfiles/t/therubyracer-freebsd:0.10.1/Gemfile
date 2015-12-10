@@ -1,0 +1,4 @@
+gem 'libv8-freebsd'
+gem 'rake'
+gem 'rspec'
+gem 'rake-compiler'

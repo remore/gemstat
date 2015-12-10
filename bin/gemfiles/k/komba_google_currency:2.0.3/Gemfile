@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'yard'
+gem 'json'
+gem 'yajl-ruby'
+gem 'ffi'
+gem 'money'
+gem 'activesupport'

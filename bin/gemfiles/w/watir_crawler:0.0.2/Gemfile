@@ -1,0 +1,6 @@
+gem 'nestegg'
+gem 'settingslogic'
+gem 'watir-webdriver'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

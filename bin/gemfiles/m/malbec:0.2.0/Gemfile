@@ -1,0 +1,5 @@
+gem 'activemerchant'
+gem 'offsite_payments'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

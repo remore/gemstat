@@ -1,0 +1,7 @@
+gem 'fxruby'
+gem 'net-ssh'
+gem 'test-kitchen'
+gem 'rubyzip'
+gem 'zip-zip'
+gem 'gchartrb'
+gem 'fog'

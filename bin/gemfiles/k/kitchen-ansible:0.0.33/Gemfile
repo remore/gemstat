@@ -1,0 +1,5 @@
+gem 'test-kitchen'
+gem 'rspec'
+gem 'pry'
+gem 'rake'
+gem 'librarian-ansible'

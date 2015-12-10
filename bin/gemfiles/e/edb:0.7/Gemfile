@@ -1,0 +1,4 @@
+gem 'aws-sdk'
+gem 'ftp_sync'
+gem 'hkdf'
+gem 'fast_secure_compare'

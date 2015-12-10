@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'minitest'
+gem 'simplecov'
+gem 'yard'

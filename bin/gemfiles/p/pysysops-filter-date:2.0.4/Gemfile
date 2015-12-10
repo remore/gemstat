@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-input-generator'
+gem 'logstash-codec-json'
+gem 'logstash-output-null'
+gem 'logstash-devutils'

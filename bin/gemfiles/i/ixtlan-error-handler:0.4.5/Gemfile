@@ -1,0 +1,7 @@
+gem 'slf4r'
+gem 'rspec'
+gem 'rake'
+gem 'dm-core'
+gem 'dm-migrations'
+gem 'dm-sqlite-adapter'
+gem 'pony'

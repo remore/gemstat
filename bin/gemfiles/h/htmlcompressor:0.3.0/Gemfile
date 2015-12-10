@@ -1,0 +1,4 @@
+gem 'yui-compressor'
+gem 'closure-compiler'
+gem 'rake'
+gem 'minitest'

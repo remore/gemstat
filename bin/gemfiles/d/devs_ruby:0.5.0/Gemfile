@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'devs'
+gem 'devs-models'
+gem 'devs-examples'
+gem 'devs-ext'

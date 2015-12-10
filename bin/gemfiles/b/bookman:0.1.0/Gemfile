@@ -1,0 +1,6 @@
+gem 'hybook'
+gem 'bookfile'
+gem 'fetcher'
+gem 'rubyzip'
+gem 'rdoc'
+gem 'hoe'

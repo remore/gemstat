@@ -1,0 +1,5 @@
+gem 'newrelic_rpm'
+gem 'eventmachine-tail'
+gem 'rake'
+gem 'shoulda-context'
+gem 'mocha'

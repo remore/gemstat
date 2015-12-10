@@ -1,0 +1,8 @@
+gem 'arel'
+gem 'parslet'
+gem 'simplecov'
+gem 'jeweler'
+gem 'bundler'
+gem 'rdoc'
+gem 'guard'
+gem 'guard-test'

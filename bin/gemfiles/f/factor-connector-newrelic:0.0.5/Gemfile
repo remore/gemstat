@@ -1,0 +1,6 @@
+gem 'factor-connector-api'
+gem 'newrelic-metrics'
+gem 'chronic'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'

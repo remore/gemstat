@@ -1,0 +1,4 @@
+gem 'method_source'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rspec'

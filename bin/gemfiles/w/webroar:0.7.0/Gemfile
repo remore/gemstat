@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'starling'
+gem 'will_paginate'

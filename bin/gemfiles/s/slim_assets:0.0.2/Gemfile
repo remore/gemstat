@@ -1,0 +1,8 @@
+gem 'slim'
+gem 'tilt'
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'ejs'
+gem 'psych'

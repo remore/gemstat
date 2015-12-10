@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'multi_json'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'webmock'
+gem 'rspec'
+gem 'simplecov'

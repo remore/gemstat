@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongo'
+gem 'durran-validatable'
+gem 'will_paginate'
+gem 'rspec'
+gem 'mocha'

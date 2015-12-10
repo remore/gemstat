@@ -1,0 +1,6 @@
+gem 'sidekiq'
+gem 'mail'
+gem 'rake'
+gem 'rspec'
+gem 'actionmailer'
+gem 'coveralls'

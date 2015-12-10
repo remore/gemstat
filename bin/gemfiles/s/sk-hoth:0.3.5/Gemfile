@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'bertrpc'
+gem 'json'
+gem 'king_hmac'
+gem 'rspec'
+gem 'simple_publisher'
+gem 'webmock'

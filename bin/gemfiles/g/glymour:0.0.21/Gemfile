@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'pry'
+gem 'ruby-debug'
+gem 'rgl'
+gem 'sbn'
+gem 'rinruby'

@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'guard'
+gem 'guard-rspec'
+gem 'database_cleaner'

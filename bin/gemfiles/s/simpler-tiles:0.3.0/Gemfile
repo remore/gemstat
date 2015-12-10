@@ -1,0 +1,6 @@
+gem 'rake-compiler'
+gem 'bundler'
+gem 'minitest'
+gem 'shoulda'
+gem 'yard'
+gem 'pygmentize'

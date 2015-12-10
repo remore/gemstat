@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'mail'
+gem 'yajl-ruby'
+gem 'rest-client'

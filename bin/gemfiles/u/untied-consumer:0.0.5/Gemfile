@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'sqlite3'
+gem 'rake'
+gem 'activemodel'
+gem 'amqp'
+gem 'configurable'
+gem 'json'
+gem 'ruby-debug'

@@ -1,0 +1,6 @@
+gem 'xmpp4r'
+gem 'god'
+gem 'rake'
+gem 'rspec'
+gem 'rake-compiler'
+gem 'bundler'

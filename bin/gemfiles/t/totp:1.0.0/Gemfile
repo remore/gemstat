@@ -1,0 +1,2 @@
+gem 'base32'
+gem 'cutest'

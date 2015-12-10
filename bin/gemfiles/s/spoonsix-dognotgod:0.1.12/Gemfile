@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sequel'
+gem 'haml'
+gem 'thin'
+gem 'sqlite3-ruby'
+gem 'rest-client'

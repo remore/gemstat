@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rspec'
+gem 'yard'
+gem 'rake'
+gem 'fakeweb'
+gem 'mocha'
+gem 'guard-rspec'

@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'mixlib-config'
+gem 'mixlib-log'
+gem 'dynect_rest'
+gem 'amqp'
+gem 'fog'

@@ -1,0 +1,3 @@
+gem 'rubyist-aasm'
+gem 'rspec'
+gem 'hoe'

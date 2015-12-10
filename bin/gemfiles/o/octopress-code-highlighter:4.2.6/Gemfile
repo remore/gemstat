@@ -1,0 +1,5 @@
+gem 'colorator'
+gem 'octopress-hooks'
+gem 'rake'
+gem 'rspec'
+gem 'rouge'

@@ -1,0 +1,7 @@
+gem 'middleman'
+gem 'gemoji'
+gem 'cucumber'
+gem 'aruba'
+gem 'bundler'
+gem 'rake'
+gem 'slim'

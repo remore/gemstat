@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'json'
+gem 'nokogiri'
+gem 'pygments.rb'
+gem 'rspec'

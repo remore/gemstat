@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'ruby-prof'
+gem 'launchy'
+gem 'bundler'
+gem 'rake'

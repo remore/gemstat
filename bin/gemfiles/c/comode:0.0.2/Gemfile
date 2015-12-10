@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rb-inotify'
+gem 'rb-fsevent'
+gem 'rb-fchange'
+gem 'libnotify'
+gem 'guard-rspec'

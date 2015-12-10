@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'diffy'
+gem 'facets'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'mocha'

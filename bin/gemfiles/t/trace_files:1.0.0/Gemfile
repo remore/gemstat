@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'appium_thor'
+gem 'rspec'
+gem 'pry'
+gem 'thor'

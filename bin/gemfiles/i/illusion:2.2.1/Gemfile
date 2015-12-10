@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'github-pages'
+gem 'susy'
+gem 'illusion'
+gem 'shoulda'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'

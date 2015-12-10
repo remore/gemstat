@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'appraisal'
+gem 'execjs'
+gem 'pry'
+gem 'sprockets'

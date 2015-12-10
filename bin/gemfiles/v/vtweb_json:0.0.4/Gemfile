@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'jbuilder'
+gem 'rake'
+gem 'bundler'
+gem 'rake'

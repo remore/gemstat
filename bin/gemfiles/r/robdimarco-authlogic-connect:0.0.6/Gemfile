@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'json'
+gem 'ruby-openid'
+gem 'rack-openid'
+gem 'oauth'
+gem 'oauth2'
+gem 'authlogic'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'xmlmapper'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rspec-rails'
+gem 'rake'
+gem 'coveralls'

@@ -1,0 +1,2 @@
+gem 'curl'
+gem 'minitest'

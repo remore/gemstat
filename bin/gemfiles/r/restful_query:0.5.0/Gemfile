@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'chronic'
+gem 'jeweler'
+gem 'appraisal'
+gem 'minitest'
+gem 'shoulda-context'

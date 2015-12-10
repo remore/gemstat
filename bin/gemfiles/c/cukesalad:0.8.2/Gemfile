@@ -1,0 +1,7 @@
+gem 'cucumber'
+gem 'rspec'
+gem 'aruba'
+gem 'bundler'
+gem 'rake'
+gem 'relish'
+gem 'rdoc'

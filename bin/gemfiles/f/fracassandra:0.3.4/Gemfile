@@ -1,0 +1,7 @@
+gem 'cassandra'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'cassandra'
+gem 'rspec'

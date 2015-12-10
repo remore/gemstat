@@ -1,0 +1,7 @@
+gem 'ruby_parser'
+gem 'ruby2ruby'
+gem 'binding_of_caller'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'
+gem 'rdoc'

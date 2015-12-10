@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'logger_pipe'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

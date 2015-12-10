@@ -1,0 +1,6 @@
+gem 'rouge'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

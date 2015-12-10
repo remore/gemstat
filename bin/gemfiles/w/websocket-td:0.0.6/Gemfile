@@ -1,0 +1,4 @@
+gem 'websocket'
+gem 'rdoc'
+gem 'shoulda'
+gem 'test-unit'

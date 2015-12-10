@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'carrierwave'
+gem 'rmagick'
+gem 'stringex'
+gem 'globalize'
+gem 'will_paginate'
+gem 'sqlite3'

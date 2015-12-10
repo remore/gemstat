@@ -1,0 +1,4 @@
+gem 'scbi_mapreduce'
+gem 'scbi_blast'
+gem 'scbi_fasta'
+gem 'hoe'

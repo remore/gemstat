@@ -1,0 +1,8 @@
+gem 'devise'
+gem 'rails'
+gem 'rspec-rails'
+gem 'pry'
+gem 'factory_girl_rails'
+gem 'timecop'
+gem 'bundler'
+gem 'sqlite3'

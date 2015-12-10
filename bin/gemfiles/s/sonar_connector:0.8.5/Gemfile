@@ -1,0 +1,7 @@
+gem 'actionmailer'
+gem 'actionmailer_extensions'
+gem 'json_pure'
+gem 'uuidtools'
+gem 'sonar_connector_filestore'
+gem 'rspec'
+gem 'rr'

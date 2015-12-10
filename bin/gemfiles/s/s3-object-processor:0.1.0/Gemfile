@@ -1,0 +1,6 @@
+gem 'cli'
+gem 'right_aws'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

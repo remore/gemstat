@@ -1,0 +1,5 @@
+gem 'caracal'
+gem 'rails'
+gem 'appraisal'
+gem 'bundler'
+gem 'rspec-rails'

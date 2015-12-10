@@ -1,0 +1,4 @@
+gem 'slop'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

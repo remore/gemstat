@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'hashie'
+gem 'multi_json'
+gem 'hpricot'
+gem 'string_to_pinyin'
+gem 'pry'

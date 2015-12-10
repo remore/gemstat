@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'json'
+gem 'coffee-script'
+gem 'slim'
+gem 'sass'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'gosu'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'codeclimate-test-reporter'

@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'activemodel'
+gem 'rake'
+gem 'turn'
+gem 'vcr'
+gem 'webmock'

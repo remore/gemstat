@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'fakeweb'
+gem 'ruby-prof'
+gem 'httparty'
+gem 'json'
+gem 'oauth'
+gem 'httpclient'
+gem 'multipart-post'

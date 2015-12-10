@@ -1,0 +1,5 @@
+gem 'selenium-webdriver'
+gem 'pry'
+gem 'spec'
+gem 'rake'
+gem 'posix-spawn'

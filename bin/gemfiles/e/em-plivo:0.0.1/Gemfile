@@ -1,0 +1,6 @@
+gem 'plivo'
+gem 'multi_json'
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'bundler'
+gem 'rake'

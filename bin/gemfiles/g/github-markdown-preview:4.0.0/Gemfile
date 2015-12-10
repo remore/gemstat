@@ -1,0 +1,7 @@
+gem 'listen'
+gem 'html-pipeline'
+gem 'sanitize'
+gem 'github-markdown'
+gem 'gemoji'
+gem 'minitest'
+gem 'rake'

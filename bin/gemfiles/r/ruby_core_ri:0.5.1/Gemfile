@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'sane'
+gem 'backports'
+gem 'archive-tar-minitar'
+gem 'rdoc'

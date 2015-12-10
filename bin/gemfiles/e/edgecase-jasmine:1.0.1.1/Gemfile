@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rack'
+gem 'selenium-rc'
+gem 'selenium-client'
+gem 'multi_json'

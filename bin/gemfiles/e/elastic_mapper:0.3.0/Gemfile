@@ -1,0 +1,8 @@
+gem 'stretcher'
+gem 'faraday'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'activesupport'
+gem 'active_hash'

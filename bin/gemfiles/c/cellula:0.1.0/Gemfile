@@ -1,0 +1,6 @@
+gem 'docile'
+gem 'rspec'
+gem 'reek'
+gem 'coco'
+gem 'yard'
+gem 'yard-tomdoc'

@@ -1,0 +1,4 @@
+gem 'ruby-serialport'
+gem 'observables'
+gem 'rspec'
+gem 'fuubar'

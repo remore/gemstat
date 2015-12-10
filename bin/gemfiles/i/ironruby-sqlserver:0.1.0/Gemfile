@@ -1,0 +1,6 @@
+gem 'ironruby-dbi'
+gem 'activerecord'
+gem 'activerecord-sqlserver-adapter'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

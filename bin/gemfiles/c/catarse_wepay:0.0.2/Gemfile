@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'slim-rails'
+gem 'wepay'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'database_cleaner'

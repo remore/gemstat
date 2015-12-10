@@ -1,0 +1,4 @@
+gem 'rmagick'
+gem 'bundler'
+gem 'rake'
+gem 'rake-compiler'

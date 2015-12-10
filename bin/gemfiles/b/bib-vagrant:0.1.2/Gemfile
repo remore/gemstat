@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'colored'
+gem 'rest_client'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'coveralls'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'http_logger'
+gem 'awesome_print'
+gem 'httparty'
+gem 'json'

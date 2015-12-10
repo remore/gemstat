@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'thor'
+gem 'mocha'
+gem 'bundler'

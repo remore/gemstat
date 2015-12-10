@@ -1,0 +1,4 @@
+gem 'controller_support'
+gem 'configreader'
+gem 'activesupport'
+gem 'km'

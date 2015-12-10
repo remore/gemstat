@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'forecast_io'
+gem 'geocoder'
+gem 'unirest'
+gem 'json'

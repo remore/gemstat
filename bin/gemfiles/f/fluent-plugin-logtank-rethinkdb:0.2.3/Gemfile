@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'rethinkdb'
+gem 'rake'
+gem 'simplecov'
+gem 'minitest'

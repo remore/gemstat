@@ -1,0 +1,6 @@
+gem 'diplomat'
+gem 'bundler'
+gem 'rake'
+gem 'chefspec'
+gem 'test-kitchen'
+gem 'kitchen-vagrant'

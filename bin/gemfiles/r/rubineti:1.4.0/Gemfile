@@ -1,0 +1,7 @@
+gem 'hugs'
+gem 'rake'
+gem 'jeweler'
+gem 'vcr'
+gem 'webmock'
+gem 'minitest'
+gem 'yajl-ruby'

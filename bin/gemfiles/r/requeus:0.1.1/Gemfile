@@ -1,0 +1,8 @@
+gem 'carrot'
+gem 'aws'
+gem 'daemons'
+gem 'multipart-post'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

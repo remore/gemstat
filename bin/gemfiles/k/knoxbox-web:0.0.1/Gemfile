@@ -1,0 +1,7 @@
+gem 'knoxbox'
+gem 'sinatra'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'rubocop'

@@ -1,0 +1,5 @@
+gem 'rmagick'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

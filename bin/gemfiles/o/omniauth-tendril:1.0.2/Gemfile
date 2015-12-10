@@ -1,0 +1,6 @@
+gem 'omniauth-oauth2'
+gem 'faraday'
+gem 'multi_json'
+gem 'multi_xml'
+gem 'rspec'
+gem 'rake'

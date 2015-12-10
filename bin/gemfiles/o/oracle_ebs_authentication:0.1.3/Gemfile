@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'ruby-plsql'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-oci8'

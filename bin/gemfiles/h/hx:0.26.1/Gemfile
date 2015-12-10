@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'liquid'
+gem 'RedCloth'
+gem 'rspec'

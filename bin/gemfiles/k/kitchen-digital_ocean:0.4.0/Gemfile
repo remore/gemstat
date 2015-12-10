@@ -1,0 +1,2 @@
+gem 'test-kitchen'
+gem 'rest-client'

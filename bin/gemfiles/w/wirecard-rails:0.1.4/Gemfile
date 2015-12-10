@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rails'
+gem 'wirecard'
+gem 'state_machines-activerecord'

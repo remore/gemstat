@@ -1,0 +1,8 @@
+gem 'typhoeus'
+gem 'uuidtools'
+gem 'yajl-ruby'
+gem 'activesupport'
+gem 'activemodel'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

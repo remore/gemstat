@@ -1,0 +1,5 @@
+gem 'options'
+gem 'highline'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

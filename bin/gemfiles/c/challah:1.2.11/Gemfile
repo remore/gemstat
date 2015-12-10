@@ -1,0 +1,7 @@
+gem 'highline'
+gem 'rails'
+gem 'rake'
+gem 'bcrypt'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'sqlite3'

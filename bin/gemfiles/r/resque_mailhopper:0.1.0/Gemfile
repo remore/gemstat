@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'mailhopper'
+gem 'resque'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'resque_spec'

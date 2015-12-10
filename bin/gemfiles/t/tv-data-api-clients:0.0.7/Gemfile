@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'fastimage'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'ruby-debug19'
+gem 'webmock'
+gem 'turn'

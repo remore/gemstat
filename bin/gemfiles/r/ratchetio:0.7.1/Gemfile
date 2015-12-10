@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'rails'
+gem 'devise'
+gem 'rspec-rails'
+gem 'database_cleaner'
+gem 'girl_friday'

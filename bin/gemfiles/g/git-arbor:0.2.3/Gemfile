@@ -1,0 +1,7 @@
+gem 'git-arbor'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'trollop'
+gem 'rdoc'
+gem 'trollop'

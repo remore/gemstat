@@ -1,0 +1,5 @@
+gem 'portmidi'
+gem 'ffi'
+gem 'rake'
+gem 'minitest-reporters'
+gem 'mocha'

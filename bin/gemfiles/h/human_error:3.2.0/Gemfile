@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rspectacular'
+gem 'activerecord'
+gem 'actionpack'

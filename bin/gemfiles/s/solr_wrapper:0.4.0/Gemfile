@@ -1,0 +1,7 @@
+gem 'rubyzip'
+gem 'ruby-progressbar'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simple_solr_client'
+gem 'coveralls'

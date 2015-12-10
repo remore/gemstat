@@ -1,0 +1,4 @@
+gem 'capybara'
+gem 'celerity'
+gem 'rspec'
+gem 'sinatra'

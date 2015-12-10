@@ -1,0 +1,8 @@
+gem 'lita'
+gem 'xml-simple'
+gem 'lita-keyword-arguments'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'

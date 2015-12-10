@@ -1,0 +1,7 @@
+gem 'clamp'
+gem 'fog'
+gem 'activesupport'
+gem 'mixlib-shellout'
+gem 'yell'
+gem 'docopt'
+gem 'daemons'

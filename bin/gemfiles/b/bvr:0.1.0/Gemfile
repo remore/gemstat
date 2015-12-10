@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rack'
+gem 'faraday'
+gem 'xml-simple'

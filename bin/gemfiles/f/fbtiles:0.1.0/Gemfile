@@ -1,0 +1,5 @@
+gem 'jdbc-sqlite3'
+gem 'sequel'
+gem 'rake'
+gem 'minitest'
+gem 'coveralls'

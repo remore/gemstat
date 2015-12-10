@@ -1,0 +1,6 @@
+gem 'porth'
+gem 'ruby_kml'
+gem 'actionpack'
+gem 'activerecord'
+gem 'rspec'
+gem 'rake'

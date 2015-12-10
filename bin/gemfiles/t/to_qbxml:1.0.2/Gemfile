@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'nokogiri'
+gem 'builder'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'sprockets'
+gem 'json'
+gem 'squash_uploader'
+gem 'sourcemap'
+gem 'yard'
+gem 'redcarpet'
+gem 'jeweler'

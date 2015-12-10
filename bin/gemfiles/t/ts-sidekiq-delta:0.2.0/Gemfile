@@ -1,0 +1,7 @@
+gem 'thinking-sphinx'
+gem 'sidekiq'
+gem 'activerecord'
+gem 'database_cleaner'
+gem 'mysql2'
+gem 'rake'
+gem 'rspec'

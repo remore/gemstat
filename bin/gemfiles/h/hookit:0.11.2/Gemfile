@@ -1,0 +1,8 @@
+gem 'tilt'
+gem 'erubis'
+gem 'oj'
+gem 'multi_json'
+gem 'excon'
+gem 'faraday'
+gem 'bundler'
+gem 'rake'

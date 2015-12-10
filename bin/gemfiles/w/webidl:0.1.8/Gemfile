@@ -1,0 +1,5 @@
+gem 'treetop'
+gem 'ruby2ruby'
+gem 'rspec'
+gem 'rake'
+gem 'coveralls'

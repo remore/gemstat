@@ -1,0 +1,7 @@
+gem 'detroit'
+gem 'reap'
+gem 'mast'
+gem 'rubytest'
+gem 'citron'
+gem 'ae'
+gem 'simplecov'

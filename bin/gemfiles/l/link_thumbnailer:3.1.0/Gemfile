@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'json'
+gem 'rake'
+gem 'nokogiri'
+gem 'net-http-persistent'
+gem 'video_info'
+gem 'image_info'

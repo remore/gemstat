@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rack'
+gem 'faye-websocket'
+gem 'configurations'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'data_mapper'
+gem 'grape-hypertext_application_language'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,2 @@
+gem 'mail_form'
+gem 'rails'

@@ -1,0 +1,5 @@
+gem 'em-synchrony'
+gem 'hiredis'
+gem 'redis'
+gem 'cucumber'
+gem 'rspec'

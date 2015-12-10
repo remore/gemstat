@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'scrolls'
+gem 'queue_classic'
+gem 'queue_classic-later'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

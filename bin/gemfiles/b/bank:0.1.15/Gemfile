@@ -1,0 +1,4 @@
+gem 'sequel'
+gem 'attr_protected'
+gem 'rake'
+gem 'rspec'

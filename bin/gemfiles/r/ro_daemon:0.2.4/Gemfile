@@ -1,0 +1,2 @@
+gem 'ro_thor'
+gem 'sqlite3'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'moneta'
+gem 'daybreak'
+gem 'redislike'
+gem 'rake'
+gem 'kintama'
+gem 'simplecov'

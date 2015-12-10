@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rcov'
+gem 'railties'
+gem 'bundler'
+gem 'jeweler'
+gem 'nokogiri'
+gem 'railties'

@@ -1,0 +1,4 @@
+gem 'gandi'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

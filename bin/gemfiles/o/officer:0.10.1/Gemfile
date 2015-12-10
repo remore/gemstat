@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'json'
+gem 'daemons'
+gem 'choice'
+gem 'rake'
+gem 'rspec'

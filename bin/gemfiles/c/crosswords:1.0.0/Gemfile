@@ -1,0 +1,3 @@
+gem 'char_tree'
+gem 'rails'
+gem 'rspec'

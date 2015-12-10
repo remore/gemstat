@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'mixlib-config'
+gem 'mixlib-cli'
+gem 'mixlib-log'

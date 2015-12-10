@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'sprockets'
+gem 'uglifier'
+gem 'sass'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

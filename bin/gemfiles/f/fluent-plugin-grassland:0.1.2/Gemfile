@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'eventmachine'
+gem 'aws-sdk'
+gem 'json'

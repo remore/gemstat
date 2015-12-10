@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'fakeweb'
+gem 'json'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'cups'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

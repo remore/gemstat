@@ -1,0 +1,5 @@
+gem 'sdoc'
+gem 'fspath'
+gem 'progress'
+gem 'net-ftp-list'
+gem 'rake'

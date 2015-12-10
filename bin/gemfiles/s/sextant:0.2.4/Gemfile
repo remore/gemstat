@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'capybara'
+gem 'launchy'
+gem 'poltergeist'
+gem 'rake'
+gem 'sqlite3'

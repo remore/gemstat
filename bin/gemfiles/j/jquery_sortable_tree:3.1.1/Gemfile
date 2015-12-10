@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'faker'
+gem 'awesome_nested_set'

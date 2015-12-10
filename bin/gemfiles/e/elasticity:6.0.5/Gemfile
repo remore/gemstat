@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'fog'
+gem 'unf'
+gem 'factory_girl'
+gem 'fakefs'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

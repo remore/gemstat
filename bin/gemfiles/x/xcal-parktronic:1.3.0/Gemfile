@@ -1,0 +1,8 @@
+gem 'hashie'
+gem 'dalli'
+gem 'bundler'
+gem 'rb-readline'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'sinatra'

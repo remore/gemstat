@@ -1,0 +1,2 @@
+gem 'parallel_runner'
+gem 'mechanize'

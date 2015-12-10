@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'bundler'
+gem 'bio'
+gem 'rspec'
+gem 'mocha'
+gem 'yard'
+gem 'cucumber'
+gem 'aruba'

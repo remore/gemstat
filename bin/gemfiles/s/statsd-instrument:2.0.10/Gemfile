@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'rspec'
+gem 'mocha'
+gem 'yard'
+gem 'benchmark-ips'

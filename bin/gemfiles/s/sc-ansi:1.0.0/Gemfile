@@ -1,0 +1,2 @@
+gem 'sc-core-ext'
+gem 'rspec'

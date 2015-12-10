@@ -1,0 +1,6 @@
+gem 'resque'
+gem 'redis'
+gem 'json'
+gem 'bundler'
+gem 'minitest'
+gem 'rcov'

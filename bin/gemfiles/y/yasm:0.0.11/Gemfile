@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'symbolism'
+gem 'couchrest_model'
+gem 'cucumber'

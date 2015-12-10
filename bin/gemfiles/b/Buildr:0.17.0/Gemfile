@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'facets'
+gem 'builder'
+gem 'net-ssh'
+gem 'net-sftp'
+gem 'rubyzip'
+gem 'highline'

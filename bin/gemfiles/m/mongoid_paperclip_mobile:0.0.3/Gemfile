@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'mongoid'
+gem 'mongoid-paperclip'
+gem 'placehold_it'

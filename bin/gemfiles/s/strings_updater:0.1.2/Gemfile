@@ -1,0 +1,2 @@
+gem 'google_drive'
+gem 'inifile'

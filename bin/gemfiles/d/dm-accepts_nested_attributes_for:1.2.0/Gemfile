@@ -1,0 +1,7 @@
+gem 'dm-core'
+gem 'dm-validations'
+gem 'dm-constraints'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'

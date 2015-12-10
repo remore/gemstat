@@ -1,0 +1,8 @@
+gem 'iron_mq'
+gem 'iron_cache'
+gem 'uuid'
+gem 'activesupport'
+gem 'redis'
+gem 'multi_json'
+gem 'fanforce-base'
+gem 'fanforce-api'

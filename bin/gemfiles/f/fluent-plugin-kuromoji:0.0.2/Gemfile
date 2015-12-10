@@ -1,0 +1,7 @@
+gem 'kuromoji-ruby'
+gem 'fluentd'
+gem 'bundler'
+gem 'rake'
+gem 'spork'
+gem 'pry'
+gem 'fluent-plugin-twitter'

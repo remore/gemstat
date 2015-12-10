@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'oktobertest'
+gem 'oktobertest-contrib'
+gem 'rack-test'
+gem 'rake'
+gem 'rack'

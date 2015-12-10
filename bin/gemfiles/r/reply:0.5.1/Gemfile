@@ -1,0 +1,7 @@
+gem 'active_attr'
+gem 'bundler'
+gem 'bogus'
+gem 'guard-rspec'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rspec'

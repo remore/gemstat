@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'coco'
+gem 'yard'
+gem 'yard-tomdoc'

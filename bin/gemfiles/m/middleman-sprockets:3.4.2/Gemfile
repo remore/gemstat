@@ -1,0 +1,4 @@
+gem 'middleman-core'
+gem 'sprockets'
+gem 'sprockets-sass'
+gem 'sprockets-helpers'

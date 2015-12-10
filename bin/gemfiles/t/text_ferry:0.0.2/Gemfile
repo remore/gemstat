@@ -1,0 +1,5 @@
+gem 'contest'
+gem 'rake'
+gem 'rdoc'
+gem 'sqlite3'
+gem 'sequel'

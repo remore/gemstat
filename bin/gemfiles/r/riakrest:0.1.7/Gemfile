@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'json'
+gem 'rest-client'
+gem 'json'
+gem 'jeweler'
+gem 'rspec'

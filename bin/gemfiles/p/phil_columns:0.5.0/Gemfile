@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'pry-debugger'
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'
+gem 'hashie'
+gem 'rainbow'
+gem 'thor'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'rack'
+gem 'artii'
+gem 'foreman'
+gem 'unicorn'
+gem 'listen'

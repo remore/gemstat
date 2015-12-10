@@ -1,0 +1,4 @@
+gem 'connection_pool'
+gem 'rubinius-actor'
+gem 'sinatra'
+gem 'simplecov'

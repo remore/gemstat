@@ -1,0 +1,7 @@
+gem 'bogo-websocket'
+gem 'miasma'
+gem 'pry'
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'
+gem 'psych'

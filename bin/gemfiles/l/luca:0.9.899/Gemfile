@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'thor'
+gem 'sinatra'
+gem 'ejs'
+gem 'hogan_assets'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rails'

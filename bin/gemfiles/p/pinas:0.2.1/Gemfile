@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'geocoder'
+gem 'awesome_nested_set'
+gem 'bundler'
+gem 'yaml_db'
+gem 'rake'
+gem 'rspec'

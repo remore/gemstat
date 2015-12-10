@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'opal'
+gem 'rake'
+gem 'rspec'

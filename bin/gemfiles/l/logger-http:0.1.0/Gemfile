@@ -1,0 +1,4 @@
+gem 'net-http-persistent'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

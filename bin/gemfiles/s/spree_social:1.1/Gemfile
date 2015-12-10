@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'spree_auth'
+gem 'oa-oauth'
+gem 'evernote'

@@ -1,0 +1,4 @@
+gem 'octokit'
+gem 'compare_linker'
+gem 'bundler'
+gem 'rake'

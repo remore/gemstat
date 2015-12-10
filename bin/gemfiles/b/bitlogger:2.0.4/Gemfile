@@ -1,0 +1,6 @@
+gem 'geminabox'
+gem 'rspec'
+gem 'sinatra'
+gem 'thin'
+gem 'rest-client'
+gem 'json'

@@ -1,0 +1,7 @@
+gem 'minitar'
+gem 'rake'
+gem 'rspec_junit_formatter'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'bundler'

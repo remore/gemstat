@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'twitter'
+gem 'rufus-scheduler'
+gem 'amalgalite'
+gem 'sequel'
+gem 'colorize'

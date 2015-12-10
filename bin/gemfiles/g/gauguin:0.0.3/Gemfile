@@ -1,0 +1,8 @@
+gem 'rmagick'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'
+gem 'guard-rspec'
+gem 'pry'

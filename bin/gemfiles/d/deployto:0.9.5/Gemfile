@@ -1,0 +1,7 @@
+gem 'inifile'
+gem 'addressable'
+gem 'multipart-post'
+gem 'highline'
+gem 'zip'
+gem 'json_pure'
+gem 'oauth2'

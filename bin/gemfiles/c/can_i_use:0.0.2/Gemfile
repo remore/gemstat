@@ -1,0 +1,7 @@
+gem 'user_agent_parser'
+gem 'bundler'
+gem 'coveralls'
+gem 'guard'
+gem 'guard-minitest'
+gem 'minitest'
+gem 'rake'

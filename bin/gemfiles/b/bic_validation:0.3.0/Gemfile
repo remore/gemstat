@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'banking_data'
+gem 'rspec'
+gem 'coveralls'
+gem 'pry'
+gem 'rubocop'

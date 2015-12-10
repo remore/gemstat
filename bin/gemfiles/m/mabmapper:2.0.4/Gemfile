@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'libxml-ruby'
+gem 'metacrunch-ubpb'
+gem 'oj'
+gem 'stringex'

@@ -1,0 +1,4 @@
+gem 'templater'
+gem 'rake'
+gem 'Shoulda'
+gem 'activerecord'

@@ -1,0 +1,7 @@
+gem 'verbs'
+gem 'railties'
+gem 'activerecord'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'activerecord'
+gem 'sqlite3'

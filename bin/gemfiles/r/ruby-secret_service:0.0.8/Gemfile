@@ -1,0 +1,4 @@
+gem 'woof_util'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-dbus'

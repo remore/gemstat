@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'aws-s3'
+gem 'zencoder'
+gem 'typhoeus'
+gem 'sqlite3'
+gem 'mocha'
+gem 'factory_girl'

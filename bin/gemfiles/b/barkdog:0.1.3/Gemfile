@@ -1,0 +1,7 @@
+gem 'dogapi'
+gem 'term-ansicolor'
+gem 'diffy'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

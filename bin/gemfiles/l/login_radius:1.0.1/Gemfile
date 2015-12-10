@@ -1,0 +1,2 @@
+gem 'em-http-request'
+gem 'em-synchrony'

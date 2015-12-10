@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-doc'
+gem 'method_source'
+gem 'eventkit-promise'
+gem 'eventkit-eventloop'

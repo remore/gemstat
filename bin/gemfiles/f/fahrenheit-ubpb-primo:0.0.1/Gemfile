@@ -1,0 +1,7 @@
+gem 'fahrenheit'
+gem 'multi_json'
+gem 'yahm'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

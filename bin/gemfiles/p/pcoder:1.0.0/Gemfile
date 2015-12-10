@@ -1,0 +1,4 @@
+gem 'mechanize'
+gem 'highline'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'yard'
+gem 'rdf'
+gem 'addressable'
+gem 'mime-types'
+gem 'rack'
+gem 'thin'

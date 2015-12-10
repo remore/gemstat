@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'simple_form'
+gem 'bundler'
+gem 'nokogiri'
+gem 'rails'
+gem 'rake'
+gem 'rspec'

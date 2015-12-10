@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'slim'
+gem 'skim'
+gem 'sqlite3'
+gem 'shoulda'
+gem 'bundler'

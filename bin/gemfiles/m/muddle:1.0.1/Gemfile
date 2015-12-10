@@ -1,0 +1,8 @@
+gem 'premailer'
+gem 'nokogiri'
+gem 'hpricot'
+gem 'css_parser'
+gem 'rspec'
+gem 'email_spec'
+gem 'mail'
+gem 'pry'

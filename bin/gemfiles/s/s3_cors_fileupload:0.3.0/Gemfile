@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'multi_json'
+gem 'aws-s3'
+gem 'rake'
+gem 'bundler'

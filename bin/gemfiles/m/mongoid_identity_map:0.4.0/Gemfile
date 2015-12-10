@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'rake'
+gem 'bson_ext'
+gem 'bundler'
+gem 'rspec'

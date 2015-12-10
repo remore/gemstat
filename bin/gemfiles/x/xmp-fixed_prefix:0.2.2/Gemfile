@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'exifr'
+gem 'rspec'
+gem 'rake'

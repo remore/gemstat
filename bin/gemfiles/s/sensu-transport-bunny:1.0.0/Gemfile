@@ -1,0 +1,6 @@
+gem 'sensu-em'
+gem 'sensu-transport'
+gem 'bunny'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

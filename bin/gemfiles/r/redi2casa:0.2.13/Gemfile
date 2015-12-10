@@ -1,0 +1,4 @@
+gem 'cql-rb'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

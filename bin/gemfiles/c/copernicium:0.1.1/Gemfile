@@ -1,0 +1,5 @@
+gem 'diffy'
+gem 'net-scp'
+gem 'net-ssh'
+gem 'minitest'
+gem 'minitest-reporters'

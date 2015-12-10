@@ -1,0 +1,6 @@
+gem 'omniauth-oauth2'
+gem 'httpclient'
+gem 'rspec'
+gem 'rake'
+gem 'webmock'
+gem 'rack-test'

@@ -1,0 +1,8 @@
+gem 'octopussy'
+gem 'thor'
+gem 'git-hub'
+gem 'rspec'
+gem 'faker'
+gem 'mocha'
+gem 'fakeweb'
+gem 'log_buddy'

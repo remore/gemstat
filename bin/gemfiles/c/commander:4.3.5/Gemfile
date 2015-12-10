@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'rubocop'

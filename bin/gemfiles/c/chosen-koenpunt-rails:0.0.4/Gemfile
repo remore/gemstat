@@ -1,0 +1,6 @@
+gem 'coffee-script'
+gem 'sass'
+gem 'sass-rails'
+gem 'compass-rails'
+gem 'sprockets'
+gem 'bundler'

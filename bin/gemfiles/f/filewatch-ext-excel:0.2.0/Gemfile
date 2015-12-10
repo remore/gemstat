@@ -1,0 +1,3 @@
+gem 'filewatch'
+gem 'simple_xlsx_reader'
+gem 'spreadsheet'

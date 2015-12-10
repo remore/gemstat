@@ -1,0 +1,7 @@
+gem 'turn'
+gem 'contest'
+gem 'sinatra'
+gem 'rest-client'
+gem 'yajl-ruby'
+gem 'term-ansicolor'
+gem 'launchy'

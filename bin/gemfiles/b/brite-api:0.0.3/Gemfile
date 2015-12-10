@@ -1,0 +1,6 @@
+gem 'rest'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'simplecov'
+gem 'minitest'

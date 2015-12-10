@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'actionpack'
+gem 'sqlite3'
+gem 'rake'

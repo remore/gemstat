@@ -1,0 +1,8 @@
+gem 'net-ssh'
+gem 'net-scp'
+gem 'factor-connector-api'
+gem 'chef-api'
+gem 'deep_merge'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'

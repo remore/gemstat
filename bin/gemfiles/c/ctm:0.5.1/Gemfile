@@ -1,0 +1,7 @@
+gem 'phony'
+gem 'httparty'
+gem 'activesupport'
+gem 'rack'
+gem 'mocha'
+gem 'fakeweb'
+gem 'rake'

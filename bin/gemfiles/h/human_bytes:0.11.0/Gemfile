@@ -1,0 +1,8 @@
+gem 'flt'
+gem 'attach_function'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'rspec-mocks'

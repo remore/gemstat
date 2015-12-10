@@ -1,0 +1,6 @@
+gem 'koala'
+gem 'activesupport'
+gem 'bundler'
+gem 'rspec'
+gem 'mocha'
+gem 'rake'

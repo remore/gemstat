@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'ruby-libvirt'
+gem 'archive-tar-minitar'
+gem 'bundler'
+gem 'rake'

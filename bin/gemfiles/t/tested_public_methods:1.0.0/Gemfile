@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'colorize'
+gem 'activerecord'
+gem 'colorize'

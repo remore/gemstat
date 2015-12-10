@@ -1,0 +1,8 @@
+gem 'facets'
+gem 'retrospec'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'pry'

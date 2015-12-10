@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'rspec'
+gem 'rspec-its'
+gem 'fuubar'
+gem 'guard-rspec'

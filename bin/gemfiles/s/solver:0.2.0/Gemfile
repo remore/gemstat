@@ -1,0 +1,5 @@
+gem 'flt'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'shoulda-context'

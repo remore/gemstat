@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'sparkr'
+gem 'term-ansicolor'
+gem 'yard'

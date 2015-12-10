@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'faker'
+gem 'simplecov'
+gem 'byebug'

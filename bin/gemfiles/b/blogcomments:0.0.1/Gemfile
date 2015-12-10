@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'mechanize'
+gem 'spintax_parser'
+gem 'faker'

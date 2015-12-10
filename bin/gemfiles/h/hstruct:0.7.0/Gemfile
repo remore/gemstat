@@ -1,0 +1,6 @@
+gem 'benchmark-ips'
+gem 'bundler'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'pry'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'hpricot'
+gem 'i18n'
+gem 'activesupport'
+gem 'jeweler'
+gem 'hpricot'
+gem 'activesupport'

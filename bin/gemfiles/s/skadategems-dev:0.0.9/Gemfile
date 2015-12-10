@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'execphp'
+gem 'ruby-progressbar'
+gem 'bundler'

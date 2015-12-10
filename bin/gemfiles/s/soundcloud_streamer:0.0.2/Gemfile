@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'ruby-mp3info'
+gem 'soundcloud'
+gem 'typhoeus'
+gem 'thor'

@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'listen'
+gem 'multi_json'
+gem 'yajl-ruby'
+gem 'raad'
+gem 'rake'

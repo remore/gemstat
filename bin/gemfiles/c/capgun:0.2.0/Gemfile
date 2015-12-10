@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'faraday'
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'
+gem 'yard'

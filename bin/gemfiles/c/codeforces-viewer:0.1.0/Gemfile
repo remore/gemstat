@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'fakefs'

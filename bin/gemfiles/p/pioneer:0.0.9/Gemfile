@@ -1,0 +1,4 @@
+gem 'yajl-ruby'
+gem 'nokogiri'
+gem 'em-synchrony'
+gem 'em-http-request'

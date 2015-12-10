@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'roo'
+gem 'sqlite3'
+gem 'mongoid'
+gem 'database_cleaner'

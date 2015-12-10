@@ -1,0 +1,5 @@
+gem 'json'
+gem 'awesome_print'
+gem 'cri'
+gem 'yard'
+gem 'gpgme'

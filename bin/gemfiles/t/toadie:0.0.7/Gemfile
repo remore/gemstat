@@ -1,0 +1,4 @@
+gem 'slim'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'deprecated'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

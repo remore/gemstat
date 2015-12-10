@@ -1,0 +1,5 @@
+gem 'netstring'
+gem 'net_tcp_client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'pause'
+gem 'file-tail'
+gem 'mixlib-cli'
+gem 'daemons'
+gem 'tinder'
+gem 'mail'
+gem 'webmachine'

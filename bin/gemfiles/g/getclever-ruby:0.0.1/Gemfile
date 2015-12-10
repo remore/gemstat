@@ -1,0 +1,6 @@
+gem 'json'
+gem 'activesupport'
+gem 'rspec'
+gem 'spork'
+gem 'guard-rspec'
+gem 'terminal-notifier-guard'

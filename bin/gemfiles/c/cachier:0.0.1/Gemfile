@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'hiredis'
+gem 'redis'
+gem 'redis-namespace'

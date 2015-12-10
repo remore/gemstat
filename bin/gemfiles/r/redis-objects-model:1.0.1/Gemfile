@@ -1,0 +1,5 @@
+gem 'redis-objects'
+gem 'fakeredis'
+gem 'rake'
+gem 'rspec'
+gem 'rubygems-tasks'

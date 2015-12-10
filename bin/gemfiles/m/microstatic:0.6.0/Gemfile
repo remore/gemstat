@@ -1,0 +1,7 @@
+gem 'fog'
+gem 'thor'
+gem 'rainbow'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'pry-nav'

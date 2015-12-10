@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'integration_test_redis'
+gem 'timecop'
+gem 'tzinfo'

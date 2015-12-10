@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'overcommit'
+gem 'rspec'
+gem 'rubocop'

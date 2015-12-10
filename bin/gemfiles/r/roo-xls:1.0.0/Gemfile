@@ -1,0 +1,5 @@
+gem 'roo'
+gem 'nokogiri'
+gem 'spreadsheet'
+gem 'bundler'
+gem 'rake'

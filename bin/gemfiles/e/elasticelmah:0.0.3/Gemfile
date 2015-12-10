@@ -1,0 +1,4 @@
+gem 'elasticsearch'
+gem 'log4r'
+gem 'rake'
+gem 'bundler'

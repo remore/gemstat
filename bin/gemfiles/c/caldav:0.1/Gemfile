@@ -1,0 +1,4 @@
+gem 'rexml'
+gem 'icalendar'
+gem 'uuid'
+gem 'builder'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'redis_backed_model'
+gem 'gem_configurator'
+gem 'csv_to_object'
+gem 'redis_pipeline'
+gem 'aws-s3'

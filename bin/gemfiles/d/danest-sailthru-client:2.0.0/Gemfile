@@ -1,0 +1,5 @@
+gem 'json'
+gem 'multipart-post'
+gem 'fakeweb'
+gem 'shoulda'
+gem 'mocha'

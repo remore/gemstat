@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rest-client'
+gem 'fakeweb'
+gem 'shoulda'

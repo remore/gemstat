@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'rack-test'
+gem 'rack'

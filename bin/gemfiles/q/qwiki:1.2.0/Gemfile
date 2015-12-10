@@ -1,0 +1,4 @@
+gem 'github-markup'
+gem 'haml'
+gem 'sinatra'
+gem 'bundler'

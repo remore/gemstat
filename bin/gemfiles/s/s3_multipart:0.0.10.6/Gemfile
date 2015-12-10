@@ -1,0 +1,7 @@
+gem 'uuid'
+gem 'xml-simple'
+gem 'combustion'
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'capybara'

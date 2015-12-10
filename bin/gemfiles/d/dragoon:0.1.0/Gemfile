@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'pry'
+gem 'term-ansicolor'
+gem 'json'
+gem 'active_support'

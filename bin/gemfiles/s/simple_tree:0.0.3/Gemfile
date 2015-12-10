@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'with_model'
+gem 'rails'
+gem 'sqlite3'

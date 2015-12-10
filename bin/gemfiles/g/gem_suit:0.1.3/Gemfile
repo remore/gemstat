@@ -1,0 +1,4 @@
+gem 'rich_support'
+gem 'thor'
+gem 'capybara'
+gem 'launchy'

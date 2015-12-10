@@ -1,0 +1,7 @@
+gem 'scbi_ace'
+gem 'narray'
+gem 'ruby-fftw3'
+gem 'gnuplot'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

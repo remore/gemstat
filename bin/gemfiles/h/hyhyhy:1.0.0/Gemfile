@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'kramdown'
+gem 'launchy'
+gem 'listen'
+gem 'erubis'
+gem 'bundler'
+gem 'rake'

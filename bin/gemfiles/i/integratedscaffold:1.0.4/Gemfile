@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'twitter-bootstrap-rails'
+gem 'gritter'
+gem 'spreadsheet'
+gem 'carrierwave'

@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'fog'
+gem 'eventmachine'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'ox'
+gem 'sqlite3'
+gem 'pry'

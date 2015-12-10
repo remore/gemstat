@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'em-jack'
+gem 'thin'
+gem 'http_parser.rb'

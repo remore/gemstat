@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'nimbleshop_core'
+gem 'nimbleshop_authorizedotnet'
+gem 'nimbleshop_paypalwp'
+gem 'nimbleshop_cod'
+gem 'nimbleshop_stripe'

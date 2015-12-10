@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'rod'
+gem 'faraday'
+gem 'rack-test'
+gem 'rspec'
+gem 'rr'

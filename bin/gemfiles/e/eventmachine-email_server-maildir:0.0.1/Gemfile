@@ -1,0 +1,6 @@
+gem 'eventmachine-email_server'
+gem 'maildir'
+gem 'eventmachine'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

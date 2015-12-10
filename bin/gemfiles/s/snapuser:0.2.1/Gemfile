@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'bcrypt-ruby'
+gem 'snaptable'
+gem 'sass-rails'
+gem 'sqlite3'

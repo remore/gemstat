@@ -1,0 +1,7 @@
+gem 'acts_as_tree'
+gem 'haml'
+gem 'rdoc'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

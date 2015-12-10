@@ -1,0 +1,8 @@
+gem 'middleman-core'
+gem 'vpim'
+gem 'contracts'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'pry'

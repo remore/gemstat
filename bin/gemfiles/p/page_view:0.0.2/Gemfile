@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'simplecov'

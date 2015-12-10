@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'mixlib-shellout'
+gem 'commander'
+gem 'cloudutil'
+gem 'chef'

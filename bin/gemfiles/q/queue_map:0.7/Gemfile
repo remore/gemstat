@@ -1,0 +1,4 @@
+gem 'bunny'
+gem 'rspec'
+gem 'background_process'
+gem 'ruby-debug'

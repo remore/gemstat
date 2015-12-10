@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coderay'
+gem 'geocoder'
+gem 'mechanize'
+gem 'nokogiri'

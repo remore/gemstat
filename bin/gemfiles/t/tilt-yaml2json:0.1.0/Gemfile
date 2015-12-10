@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'tilt'
+gem 'activesupport'
+gem 'appraisal'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

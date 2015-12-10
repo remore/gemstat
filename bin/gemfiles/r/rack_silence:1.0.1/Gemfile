@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubocop'
+gem 'yard'
+gem 'pry'

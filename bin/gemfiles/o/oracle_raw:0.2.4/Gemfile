@@ -1,0 +1,7 @@
+gem 'ruby-oci8'
+gem 'activerecord'
+gem 'activerecord-oracle_enhanced-adapter'
+gem 'builder'
+gem 'minitest'
+gem 'bundler'
+gem 'jeweler'

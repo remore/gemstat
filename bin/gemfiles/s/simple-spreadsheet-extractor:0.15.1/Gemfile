@@ -1,0 +1,6 @@
+gem 'libxml-ruby'
+gem 'open4'
+gem 'rdoc'
+gem 'jeweler'
+gem 'rubocop'
+gem 'rubycritic'

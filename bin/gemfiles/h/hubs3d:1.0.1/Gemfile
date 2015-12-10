@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'webmock'
+gem 'rake'
+gem 'rspec'

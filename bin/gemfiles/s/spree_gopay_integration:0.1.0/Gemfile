@@ -1,0 +1,8 @@
+gem 'configurations'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'factory_girl'
+gem 'ffaker'
+gem 'rspec-rails'
+gem 'sass-rails'
+gem 'simplecov'

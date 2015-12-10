@@ -1,0 +1,6 @@
+gem 'ticketmaster'
+gem 'xml-simple'
+gem 'rspec'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rcov'

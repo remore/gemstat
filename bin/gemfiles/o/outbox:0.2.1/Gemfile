@@ -1,0 +1,5 @@
+gem 'mail'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec_junit_formatter'

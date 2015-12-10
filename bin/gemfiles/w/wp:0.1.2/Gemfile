@@ -1,0 +1,6 @@
+gem 'slop'
+gem 'leveldb-ruby'
+gem 'snappy'
+gem 'sinatra'
+gem 'wikicloth'
+gem 'sinatra-contrib'

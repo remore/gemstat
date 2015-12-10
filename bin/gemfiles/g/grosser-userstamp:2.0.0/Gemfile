@@ -1,0 +1,7 @@
+gem 'actionpack'
+gem 'activerecord'
+gem 'activesupport'
+gem 'echoe'
+gem 'activerecord'
+gem 'activesupport'
+gem 'actionpack'

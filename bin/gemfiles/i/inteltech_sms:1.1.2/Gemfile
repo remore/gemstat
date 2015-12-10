@@ -1,0 +1,8 @@
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'travis'
+gem 'travis-lint'
+gem 'shoulda-context'
+gem 'coveralls'
+gem 'simplecov'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'ruby-debug'
+gem 'fakeweb'
+gem 'httparty'
+gem 'happymapper'
+gem 'builder'

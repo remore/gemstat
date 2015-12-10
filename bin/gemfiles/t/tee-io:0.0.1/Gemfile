@@ -1,0 +1,5 @@
+gem 'curb'
+gem 'posix-spawn'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

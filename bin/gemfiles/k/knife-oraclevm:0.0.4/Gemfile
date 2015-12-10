@@ -1,0 +1,2 @@
+gem 'netaddr'
+gem 'chef'

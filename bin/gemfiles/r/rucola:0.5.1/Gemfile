@@ -1,0 +1,4 @@
+gem 'rubigen'
+gem 'rubynode'
+gem 'test-spec'
+gem 'mocha'

@@ -1,0 +1,5 @@
+gem 'netaddr'
+gem 'net-ssh'
+gem 'snmp'
+gem 'mocha'
+gem 'shoulda'

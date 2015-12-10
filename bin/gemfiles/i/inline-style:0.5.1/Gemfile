@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rack'
+gem 'rspec-core'
+gem 'mail'
+gem 'nokogiri'
+gem 'css_parser'
+gem 'maca-fork-csspool'

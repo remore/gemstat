@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'fakeweb'
+gem 'awesome_print'
+gem 'anemone'

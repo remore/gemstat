@@ -1,0 +1,6 @@
+gem 'progressbar'
+gem 'algorithms'
+gem 'redis'
+gem 'thor'
+gem 'terminal-table'
+gem 'bundler'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'guard'
+gem 'guard-spork'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'ruby_gntp'
+gem 'simplecov'

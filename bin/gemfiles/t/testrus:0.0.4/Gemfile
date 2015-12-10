@@ -1,0 +1,7 @@
+gem 'colored'
+gem 'test-unit'
+gem 'fakefs'
+gem 'pry'
+gem 'rr'
+gem 'test-unit'
+gem 'rake'

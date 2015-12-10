@@ -1,0 +1,5 @@
+gem 'lucie-lib'
+gem 'lucie-cmd'
+gem 'rake'
+gem 'sdoc'
+gem 'minitest'

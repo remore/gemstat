@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'test_notifier'
+gem 'sqlite3-ruby'
+gem 'rails'
+gem 'rspec'
+gem 'pry-meta'

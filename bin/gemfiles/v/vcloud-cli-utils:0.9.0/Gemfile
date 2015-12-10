@@ -1,0 +1,8 @@
+gem 'fog'
+gem 'methadone'
+gem 'vcloud-core'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'
+gem 'gem_publisher'

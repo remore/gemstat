@@ -1,0 +1,4 @@
+gem 'fog'
+gem 'rspec'
+gem 'rake'
+gem 'bundler'

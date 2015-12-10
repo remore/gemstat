@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'awesome_print'
+gem 'fakeweb'
+gem 'minitest'
+gem 'vcr'

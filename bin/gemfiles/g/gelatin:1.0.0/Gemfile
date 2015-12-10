@@ -1,0 +1,5 @@
+gem 'rake-compiler'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rubocop'

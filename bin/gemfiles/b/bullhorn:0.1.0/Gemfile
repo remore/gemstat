@@ -1,0 +1,4 @@
+gem 'contest'
+gem 'mocha'
+gem 'rack-test'
+gem 'fakeweb'

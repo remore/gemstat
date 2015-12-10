@@ -1,0 +1,8 @@
+gem 'bhf'
+gem 'stringex'
+gem 'paperclip'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

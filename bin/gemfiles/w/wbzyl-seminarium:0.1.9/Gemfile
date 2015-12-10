@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'sinatra'
+gem 'rdiscount'
+gem 'wbzyl-sinatra-rdiscount'
+gem 'wbzyl-codehighlighter-middleware'
+gem 'coderay'

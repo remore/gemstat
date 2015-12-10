@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'activerecord'
+gem 'activesupport'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'rake'
+gem 'sqlite3'

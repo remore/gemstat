@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'mime-types'
+gem 'multi_json'
+gem 'json'
+gem 'rspec'
+gem 'rake'

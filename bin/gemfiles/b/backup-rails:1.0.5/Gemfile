@@ -1,0 +1,7 @@
+gem 'backup'
+gem 'whenever'
+gem 'dotenv-rails'
+gem 'fog'
+gem 'net-ssh'
+gem 'excon'
+gem 'mail'

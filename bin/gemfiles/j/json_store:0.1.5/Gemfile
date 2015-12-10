@@ -1,0 +1,6 @@
+gem 'oj'
+gem 'lock_method'
+gem 'json_select'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'simplecov'
+gem 'simplecov-gem-adapter'
+gem 'coveralls'
+gem 'minitest'
+gem 'pry'
+gem 'minitest-reporters'
+gem 'memory_profiler'

@@ -1,0 +1,6 @@
+gem 'jsonpath'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'json-schema'
+gem 'travis'

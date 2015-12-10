@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'slim'
+gem 'rails'
+gem 'ngannotate-rails'
+gem 'angular_rails_csrf'

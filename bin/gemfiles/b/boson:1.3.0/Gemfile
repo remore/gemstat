@@ -1,0 +1,5 @@
+gem 'mocha'
+gem 'bacon'
+gem 'mocha-on-bacon'
+gem 'bacon-bits'
+gem 'bahia'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rundock'
+gem 'net-ssh'
+gem 'serverspec'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'effective_datatables'
+gem 'coffee-rails'
+gem 'devise'
+gem 'haml-rails'

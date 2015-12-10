@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'version'
+gem 'rake'
+gem 'rspec'
+gem 'fakefs'

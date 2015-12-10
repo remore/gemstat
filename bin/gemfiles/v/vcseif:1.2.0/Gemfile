@@ -1,0 +1,7 @@
+gem 'rally_api'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'
+gem 'ci_reporter'
+gem 'geminabox'

@@ -1,0 +1,7 @@
+gem 'rspec-rails'
+gem 'rspec-core'
+gem 'nokogiri'
+gem 'json'
+gem 'ruby-debug'
+gem 'rcov'
+gem 'tzinfo'

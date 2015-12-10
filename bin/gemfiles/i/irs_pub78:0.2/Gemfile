@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'nokogiri'
+gem 'json'
+gem 'rubyzip'
+gem 'nokogiri'
+gem 'json'
+gem 'rubyzip'

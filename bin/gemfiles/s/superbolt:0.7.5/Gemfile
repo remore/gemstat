@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'amqp'
+gem 'bunny'
+gem 'eventmachine'
+gem 'logstash-logger'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'eco'
+gem 'ejs'
+gem 'sqlite3'

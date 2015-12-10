@@ -1,0 +1,5 @@
+gem 'texttube'
+gem 'oga-without-the-wimpiness'
+gem 'coderay'
+gem 'bundler'
+gem 'rake'

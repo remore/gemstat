@@ -1,0 +1,6 @@
+gem 'content_data'
+gem 'file_indexing'
+gem 'log'
+gem 'networking'
+gem 'params'
+gem 'rib_fix'

@@ -1,0 +1,7 @@
+gem 'json_pure'
+gem 'json'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-debug19'

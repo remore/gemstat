@@ -1,0 +1,7 @@
+gem 'json'
+gem 'goliath'
+gem 'journey'
+gem 'nokogiri'
+gem 'ruby-hmac'
+gem 'bundler'
+gem 'rake'

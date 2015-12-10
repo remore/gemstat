@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'yettings'
+gem 'inherited_resources'
+gem 'haml'
+gem 'formtastic'

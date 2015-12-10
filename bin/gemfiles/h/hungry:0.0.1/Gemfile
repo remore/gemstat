@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'rack'
+gem 'rspec'
+gem 'fakeweb'

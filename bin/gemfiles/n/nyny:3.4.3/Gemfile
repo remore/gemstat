@@ -1,0 +1,7 @@
+gem 'rack-contrib'
+gem 'tilt'
+gem 'better_errors'
+gem 'actionpack'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

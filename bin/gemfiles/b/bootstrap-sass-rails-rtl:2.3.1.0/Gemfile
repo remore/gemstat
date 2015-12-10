@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'sass-rails'
+gem 'rake'
+gem 'rails'
+gem 'appraisal'
+gem 'rtlit'

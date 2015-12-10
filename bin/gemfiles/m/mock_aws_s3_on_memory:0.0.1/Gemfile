@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-debugger'
+gem 'webmock'
+gem 'aws-sdk'

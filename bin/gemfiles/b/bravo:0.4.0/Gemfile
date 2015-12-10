@@ -1,0 +1,8 @@
+gem 'savon'
+gem 'ruby-debug'
+gem 'ruby-debug-base19'
+gem 'ruby-debug19'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

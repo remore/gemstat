@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'webmock'
+gem 'rake'
+gem 'json'
+gem 'httparty'
+gem 'activesupport'
+gem 'activemodel'
+gem 'mime-types'

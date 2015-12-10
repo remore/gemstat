@@ -1,0 +1,8 @@
+gem 'savon'
+gem 'activesupport'
+gem 'httpclient'
+gem 'vcr'
+gem 'dotenv'
+gem 'webmock'
+gem 'bundler'
+gem 'rake'

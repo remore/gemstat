@@ -1,0 +1,6 @@
+gem 'gems'
+gem 'bundler'
+gem 'thor'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'

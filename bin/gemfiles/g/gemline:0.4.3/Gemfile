@@ -1,0 +1,5 @@
+gem 'clipboard'
+gem 'ffi'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

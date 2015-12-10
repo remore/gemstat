@@ -1,0 +1,7 @@
+gem 'backports'
+gem 'rspec'
+gem 'sane'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'simplecov-vim'

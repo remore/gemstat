@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'uuidtools'
+gem 'mysql2'
+gem 'activerecord-postgresql-adapter'
+gem 'rspec-rails'
+gem 'database_cleaner'

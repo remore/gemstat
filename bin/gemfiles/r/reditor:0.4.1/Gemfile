@@ -1,0 +1,5 @@
+gem 'hotwater'
+gem 'pepin'
+gem 'thor'
+gem 'rake'
+gem 'rspec'

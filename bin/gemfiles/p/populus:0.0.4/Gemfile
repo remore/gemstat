@@ -1,0 +1,5 @@
+gem 'specinfra'
+gem 'colorize'
+gem 'slack-notifier'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'osc-ruby'
+gem 'bpm_to_msec'

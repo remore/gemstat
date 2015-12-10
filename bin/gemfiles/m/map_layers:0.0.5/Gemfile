@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rake'
+gem 'autotest-rails'
+gem 'autotest-notification'

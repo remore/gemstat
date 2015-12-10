@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'

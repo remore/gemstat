@@ -1,0 +1,7 @@
+gem 'haml'
+gem 'sprockets'
+gem 'tilt'
+gem 'execjs'
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'

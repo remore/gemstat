@@ -1,0 +1,5 @@
+gem 'faker'
+gem 'rdoc'
+gem 'sdoc'
+gem 'rake'
+gem 'simplecov'

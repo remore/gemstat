@@ -1,0 +1,5 @@
+gem 'diff-lcs'
+gem 'termcolor'
+gem 'rspec-expectations'
+gem 'rspec'
+gem 'guard-rspec'

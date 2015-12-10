@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'bundler'
+gem 'teamd-discover'
+gem 'recursive-open-struct'
+gem 'pry'
+gem 'rake'

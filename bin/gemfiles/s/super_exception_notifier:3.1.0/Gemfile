@@ -1,0 +1,7 @@
+gem 'actionmailer'
+gem 'rbx-require-relative'
+gem 'rails'
+gem 'rdoc'
+gem 'rake'
+gem 'reek'
+gem 'roodi'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'mysql2'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

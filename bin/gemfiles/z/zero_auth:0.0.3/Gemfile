@@ -1,0 +1,6 @@
+gem 'bcrypt'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'redcarpet'
+gem 'yard'

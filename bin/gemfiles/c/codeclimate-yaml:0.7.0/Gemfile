@@ -1,0 +1,2 @@
+gem 'secure_string'
+gem 'activesupport'

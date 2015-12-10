@@ -1,0 +1,2 @@
+gem 'rubytorrent'
+gem 'trollop'

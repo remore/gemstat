@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'geoip'
+gem 'netaddr'
+gem 'net-dns'
+gem 'rest-client'
+gem 'json'

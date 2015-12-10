@@ -1,0 +1,6 @@
+gem 'active_support'
+gem 'virtus'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

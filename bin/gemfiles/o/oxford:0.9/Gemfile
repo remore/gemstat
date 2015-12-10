@@ -1,0 +1,5 @@
+gem 'facter'
+gem 'activeldap'
+gem 'ruby-ldap'
+gem 'rspec'
+gem 'rake'

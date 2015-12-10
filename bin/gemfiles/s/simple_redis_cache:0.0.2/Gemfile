@@ -1,0 +1,2 @@
+gem 'redis'
+gem 'ruby-debug19'

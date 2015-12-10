@@ -1,0 +1,4 @@
+gem 'poltergeist'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

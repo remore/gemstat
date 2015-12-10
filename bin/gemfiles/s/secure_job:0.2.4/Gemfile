@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'vegas'
+gem 'sinatra'
+gem 'super_map'
+gem 'pry'

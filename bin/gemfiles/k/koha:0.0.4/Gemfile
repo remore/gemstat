@@ -1,0 +1,7 @@
+gem 'simplecov'
+gem 'yard'
+gem 'webmock'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'redcarpet'

@@ -1,0 +1,4 @@
+gem 'cabin'
+gem 'clamp'
+gem 'ftw'
+gem 'uuidtools'

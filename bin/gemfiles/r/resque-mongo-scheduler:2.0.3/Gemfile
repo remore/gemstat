@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'mongo'
+gem 'resque-mongo'
+gem 'rufus-scheduler'
+gem 'mocha'
+gem 'rack-test'

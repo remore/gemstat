@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'activerecord'
+gem 'platform-api'
+gem 'rspec'
+gem 'shoulda'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'

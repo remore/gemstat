@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'hpricot'
+gem 'htmlentities'
+gem 'i18n'
+gem 'tzinfo'

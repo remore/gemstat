@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'ro_support'
+gem 'term-ansicolor'
+gem 'watir-rails'
+gem 'nokogiri'
+gem 'headless'
+gem 'grit'

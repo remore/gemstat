@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'rodzilla'
+gem 'colorize'
+gem 'rspec'
+gem 'awesome_print'
+gem 'bundler'
+gem 'rake'

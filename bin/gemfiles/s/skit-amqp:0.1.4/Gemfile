@@ -1,0 +1,6 @@
+gem 'skit-logger'
+gem 'daemon-kit'
+gem 'amqp'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

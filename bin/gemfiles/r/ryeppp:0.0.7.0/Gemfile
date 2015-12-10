@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake-compiler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec'
+gem 'RubyInline'
+gem 'trollop'
+gem 'version_bumper'

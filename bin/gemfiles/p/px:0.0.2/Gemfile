@@ -1,0 +1,5 @@
+gem 'requests'
+gem 'xml-simple'
+gem 'mote'
+gem 'hache'
+gem 'cutest'

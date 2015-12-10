@@ -1,0 +1,6 @@
+gem 'rubygems-tasks'
+gem 'rdoc'
+gem 'rspec'
+gem 'json'
+gem 'yaml'
+gem 'rest-client'

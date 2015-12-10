@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'redcarpet'
+gem 'nokogiri'
+gem 'rake'
+gem 'byebug'
+gem 'test-unit'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

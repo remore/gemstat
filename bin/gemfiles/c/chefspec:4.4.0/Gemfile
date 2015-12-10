@@ -1,0 +1,7 @@
+gem 'chef'
+gem 'fauxhai'
+gem 'rspec'
+gem 'rake'
+gem 'redcarpet'
+gem 'yard'
+gem 'aruba'

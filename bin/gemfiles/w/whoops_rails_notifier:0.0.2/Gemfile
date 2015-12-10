@@ -1,0 +1,8 @@
+gem 'whoops_notifier'
+gem 'rails'
+gem 'rake'
+gem 'rspec-rails'
+gem 'ruby-debug'
+gem 'fakeweb'
+gem 'sqlite3'
+gem 'capybara'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rmagick'
+gem 'actionpack-action_caching'
+gem 'pg'

@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'bourne'
+gem 'mocha'
+gem 'pry'
+gem 'feature_creep-redis'
+gem 'feature_creep-simple_strategy'

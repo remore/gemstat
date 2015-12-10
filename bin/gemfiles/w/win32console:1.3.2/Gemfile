@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'rake-compiler'
+gem 'mocha'
+gem 'rspec'
+gem 'rspec-core'
+gem 'hoe'

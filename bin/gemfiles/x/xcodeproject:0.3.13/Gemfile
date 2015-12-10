@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'json'
+gem 'uuid'
+gem 'xcodebuild-rb'
+gem 'rspec'
+gem 'rr'
+gem 'redcarpet'
+gem 'yard'

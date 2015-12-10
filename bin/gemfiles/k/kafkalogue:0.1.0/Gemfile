@@ -1,0 +1,7 @@
+gem 'poseidon'
+gem 'snappy'
+gem 'bundler'
+gem 'rake'
+gem 'dotenv'
+gem 'rspec'
+gem 'activesupport'

@@ -1,0 +1,4 @@
+gem 'trollop'
+gem 'highline'
+gem 'rainbow'
+gem 'minitest'

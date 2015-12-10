@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'eventmachine_httpserver'
+gem 'rack'
+gem 'daemons'
+gem 'bundler'
+gem 'rake'

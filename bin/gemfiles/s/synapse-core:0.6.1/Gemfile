@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'atomic'
+gem 'logging'
+gem 'contender'
+gem 'ref'

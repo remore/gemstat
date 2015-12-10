@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rspec-instafail'
+gem 'activesupport'
+gem 'yajl-ruby'
+gem 'typhoeus'
+gem 'i18n'

@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'aws-sdk'
+gem 'pmap'
+gem 'pry'
+gem 'gooddata'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'shoulda'
+gem 'roo'
+gem 'spreadsheet'
+gem 'themoviedb'

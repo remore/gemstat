@@ -1,0 +1,2 @@
+gem 'dynamoid'
+gem 'devise'

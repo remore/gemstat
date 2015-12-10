@@ -1,0 +1,7 @@
+gem 'friendly_id'
+gem 'globalize'
+gem 'awesome_nested_set'
+gem 'seo_meta'
+gem 'refinerycms-core'
+gem 'babosa'
+gem 'speakingurl-rails'

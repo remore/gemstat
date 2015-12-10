@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rack'
+gem 'thin'
+gem 'selenium-rc'
+gem 'selenium-client'

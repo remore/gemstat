@@ -1,0 +1,2 @@
+gem 'rspec'
+gem 'cloudapp_api'

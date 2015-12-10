@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'args_parser'
+gem 'data_mapper'
+gem 'dm-sqlite-adapter'
+gem 'backports'

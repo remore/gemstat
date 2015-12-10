@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'
+gem 'casino'
+gem 'faker'

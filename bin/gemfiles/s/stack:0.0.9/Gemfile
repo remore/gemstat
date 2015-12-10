@@ -1,0 +1,7 @@
+gem 'thoughtbot-shoulda'
+gem 'liquid'
+gem 'RedCloth'
+gem 'maruku'
+gem 'less'
+gem 'directory_watcher'
+gem 'mash'

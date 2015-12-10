@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'docopt'
+gem 'rye'
+gem 'rugged'
+gem 'subprocess'

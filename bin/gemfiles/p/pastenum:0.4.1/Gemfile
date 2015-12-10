@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'gscraper'
+gem 'uri-query_params'
+gem 'colored'
+gem 'bump'
+gem 'json'
+gem 'highline'

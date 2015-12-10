@@ -1,0 +1,5 @@
+gem 'irbtools'
+gem 'bond'
+gem 'looksee'
+gem 'binding_of_caller'
+gem 'did_you_mean'

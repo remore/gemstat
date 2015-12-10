@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'rspec'
+gem 'tilt'
+gem 'erubis'
+gem 'rack_csrf'
+gem 'yuicompressor'

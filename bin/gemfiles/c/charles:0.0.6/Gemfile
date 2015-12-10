@@ -1,0 +1,8 @@
+gem 'ferret'
+gem 'nokogiri'
+gem 'htmlentities'
+gem 'mechanize'
+gem 'activesupport'
+gem 'rack'
+gem 'imagesize'
+gem 'shiner'

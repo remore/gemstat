@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'terminal-table'
+gem 'reverse_markdown'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'shoulda'

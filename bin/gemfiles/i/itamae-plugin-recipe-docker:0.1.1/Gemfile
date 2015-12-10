@@ -1,0 +1,4 @@
+gem 'itamae'
+gem 'bundler'
+gem 'itamae-plugin-resource-cask'
+gem 'rake'

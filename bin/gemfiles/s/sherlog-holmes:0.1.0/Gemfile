@@ -1,0 +1,4 @@
+gem 'yummi'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

@@ -1,0 +1,6 @@
+gem 'commander'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'

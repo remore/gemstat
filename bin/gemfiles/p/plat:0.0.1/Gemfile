@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'configuru'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'dotenv'

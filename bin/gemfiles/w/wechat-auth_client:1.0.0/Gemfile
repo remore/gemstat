@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'multi_json'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'

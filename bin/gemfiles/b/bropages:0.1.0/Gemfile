@@ -1,0 +1,6 @@
+gem 'json_pure'
+gem 'commander'
+gem 'rest-client'
+gem 'smart_colored'
+gem 'highline'
+gem 'mime-types'

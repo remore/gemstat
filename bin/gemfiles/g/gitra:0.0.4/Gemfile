@@ -1,0 +1,4 @@
+gem 'git'
+gem 'term-ansicolor'
+gem 'rake'
+gem 'minitest'

@@ -1,0 +1,7 @@
+gem 'test-kitchen'
+gem 'countloc'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'finstyle'
+gem 'cane'

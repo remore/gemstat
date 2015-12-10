@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'test-unit'
+gem 'contest'
+gem 'mocha'
+gem 'rails'

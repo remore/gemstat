@@ -1,0 +1,6 @@
+gem 'rom'
+gem 'ginjo-rfm'
+gem 'charlatan'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

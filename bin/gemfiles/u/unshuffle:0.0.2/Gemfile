@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'rocket_pants'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

@@ -1,0 +1,7 @@
+gem 'guard'
+gem 'tilt'
+gem 'riot'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

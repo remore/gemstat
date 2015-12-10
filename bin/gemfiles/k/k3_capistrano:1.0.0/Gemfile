@@ -1,0 +1,6 @@
+gem 'parseconfig'
+gem 'capistrano-ext'
+gem 'capistrano_colors'
+gem 'facets'
+gem 'rvm-capistrano'
+gem 'colored'

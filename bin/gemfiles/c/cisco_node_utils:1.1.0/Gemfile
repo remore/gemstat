@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'simplecov'
+gem 'cisco_nxapi'

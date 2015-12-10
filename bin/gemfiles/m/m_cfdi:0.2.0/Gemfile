@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'
+gem 'number_to_words'
+gem 'rqrcode_png'

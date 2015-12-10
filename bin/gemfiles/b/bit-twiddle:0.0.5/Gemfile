@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'rake-compiler'
+gem 'benchmark-ips'
+gem 'yard'

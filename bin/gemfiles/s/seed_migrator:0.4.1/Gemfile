@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'i18n'
+gem 'jeweler'
+gem 'yard'
+gem 'rspec'

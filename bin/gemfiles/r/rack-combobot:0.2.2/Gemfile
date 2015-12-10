@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rack'
+gem 'minitest'
+gem 'rack-test'
+gem 'guard'
+gem 'guard-minitest'

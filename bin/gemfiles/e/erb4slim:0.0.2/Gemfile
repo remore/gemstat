@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'minitest'
+gem 'html2haml'
+gem 'haml2slim'

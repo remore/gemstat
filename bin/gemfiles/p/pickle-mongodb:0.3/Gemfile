@@ -1,0 +1,5 @@
+gem 'cucumber'
+gem 'rspec'
+gem 'pickle'
+gem 'mongoid'
+gem 'factory_girl'

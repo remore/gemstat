@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'yard'
+gem 'rspec'
+gem 'coveralls'
+gem 'simplecov'
+gem 'jettywrapper'

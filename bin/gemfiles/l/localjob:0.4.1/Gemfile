@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'sysvmq'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

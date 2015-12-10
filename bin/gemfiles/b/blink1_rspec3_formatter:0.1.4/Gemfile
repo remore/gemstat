@@ -1,0 +1,4 @@
+gem 'rb-blink1'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

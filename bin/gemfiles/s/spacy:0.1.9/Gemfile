@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'xot'
+gem 'rucy'
+gem 'rays'
+gem 'reflexion'
+gem 'gemcutter'

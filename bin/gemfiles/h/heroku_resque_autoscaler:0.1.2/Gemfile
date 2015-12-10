@@ -1,0 +1,6 @@
+gem 'heroku-api'
+gem 'resque'
+gem 'simplecov'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'

@@ -1,0 +1,4 @@
+gem 'figaro'
+gem 'bundler'
+gem 'rails'
+gem 'rake'

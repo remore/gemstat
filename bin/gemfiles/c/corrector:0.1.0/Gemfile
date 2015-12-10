@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'database_cleaner'
+gem 'factory_girl_rails'
+gem 'inch'
+gem 'metric_fu'
+gem 'rspec-rails'
+gem 'rubocop'
+gem 'sqlite3'

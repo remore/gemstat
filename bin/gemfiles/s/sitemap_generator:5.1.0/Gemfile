@@ -1,0 +1,4 @@
+gem 'mocha'
+gem 'nokogiri'
+gem 'rspec'
+gem 'builder'

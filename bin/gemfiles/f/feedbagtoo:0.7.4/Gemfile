@@ -1,0 +1,8 @@
+gem 'growl'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'active_support'
+gem 'mocha'
+gem 'hpricot'
+gem 'ruby-debug'

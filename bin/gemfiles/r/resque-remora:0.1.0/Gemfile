@@ -1,0 +1,7 @@
+gem 'resque'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'yajl-ruby'
+gem 'json'

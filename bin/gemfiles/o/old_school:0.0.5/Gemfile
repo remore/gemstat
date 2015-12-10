@@ -1,0 +1,7 @@
+gem 'typhoeus'
+gem 'json'
+gem 'virtus'
+gem 'debugger'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

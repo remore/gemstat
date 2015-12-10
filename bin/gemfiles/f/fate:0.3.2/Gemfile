@@ -1,0 +1,7 @@
+gem 'json'
+gem 'harp'
+gem 'squeeze'
+gem 'term-ansicolor'
+gem 'json-schema'
+gem 'starter'
+gem 'rspec'

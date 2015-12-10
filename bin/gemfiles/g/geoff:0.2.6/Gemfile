@@ -1,0 +1,8 @@
+gem 'neo4j'
+gem 'geoff-importer'
+gem 'jruby-openssl'
+gem 'activesupport'
+gem 'json'
+gem 'rspec'
+gem 'ruby-debug'
+gem 'pry'

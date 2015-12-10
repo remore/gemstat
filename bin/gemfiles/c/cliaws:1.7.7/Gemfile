@@ -1,0 +1,2 @@
+gem 'thor'
+gem 'right_aws'

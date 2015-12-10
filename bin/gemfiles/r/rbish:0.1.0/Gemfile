@@ -1,0 +1,7 @@
+gem 'tilt'
+gem 'mixlib-cli'
+gem 'mixlib-config'
+gem 'mixlib-log'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

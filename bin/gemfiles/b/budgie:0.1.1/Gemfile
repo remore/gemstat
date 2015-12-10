@@ -1,0 +1,4 @@
+gem 'opengl'
+gem 'glu'
+gem 'glut'
+gem 'oily_png'

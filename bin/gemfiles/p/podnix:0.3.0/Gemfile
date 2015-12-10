@@ -1,0 +1,6 @@
+gem 'excon'
+gem 'highline'
+gem 'yajl-ruby'
+gem 'multi_json'
+gem 'minitest'
+gem 'rake'

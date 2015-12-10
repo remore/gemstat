@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'gconfig'
+gem 'connection_pool'
+gem 'bunny'

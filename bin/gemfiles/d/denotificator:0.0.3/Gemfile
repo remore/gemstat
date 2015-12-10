@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'yajl-ruby'
+gem 'newrelic_rpm'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-debugger'

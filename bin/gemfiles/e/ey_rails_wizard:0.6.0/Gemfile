@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'json'
+gem 'activesupport'
+gem 'thor'
+gem 'rspec'
+gem 'bundler'
+gem 'rails'
+gem 'ZenTest'

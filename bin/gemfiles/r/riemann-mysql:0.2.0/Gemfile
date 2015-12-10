@@ -1,0 +1,2 @@
+gem 'riemann-tools'
+gem 'mysql2'

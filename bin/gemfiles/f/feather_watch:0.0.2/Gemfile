@@ -1,0 +1,7 @@
+gem 'rb-fsevent'
+gem 'rb-inotify'
+gem 'wdm'
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'

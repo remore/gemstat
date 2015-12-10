@@ -1,0 +1,4 @@
+gem 'term-ansicolor'
+gem 'rspec'
+gem 'diff-lcs'
+gem 'hoe'

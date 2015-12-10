@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'uuidtools'
+gem 'minitest'
+gem 'fakefs'
+gem 'rake'

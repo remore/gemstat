@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'guard-minitest'
+gem 'terminal-notifier-guard'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'rash'
+gem 'will_paginate'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

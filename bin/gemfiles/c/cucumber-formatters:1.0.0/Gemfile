@@ -1,0 +1,7 @@
+gem 'yard'
+gem 'coveralls'
+gem 'rspec'
+gem 'rake'
+gem 'rubocop'
+gem 'cucumber'
+gem 'term-ansicolor'

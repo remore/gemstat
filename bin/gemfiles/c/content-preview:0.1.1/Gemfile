@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'nokogiri'
+gem 'rake'
+gem 'rack-cors'
+gem 'rack-test'
+gem 'json'

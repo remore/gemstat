@@ -1,0 +1,4 @@
+gem 'mongo'
+gem 'simplecov'
+gem 'rspec'
+gem 'rake'

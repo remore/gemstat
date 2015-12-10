@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'endorser-receipt'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

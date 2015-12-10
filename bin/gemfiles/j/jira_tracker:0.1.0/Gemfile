@@ -1,0 +1,6 @@
+gem 'jira-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'webmock'

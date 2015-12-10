@@ -1,0 +1,6 @@
+gem 'module-cluster'
+gem 'to_camel_case'
+gem 'accessor_utilities'
+gem 'parallel_ancestry'
+gem 'hash'
+gem 'array'

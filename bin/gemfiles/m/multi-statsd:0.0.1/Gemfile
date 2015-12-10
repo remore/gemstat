@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'em-logger'
+gem 'bundler'
+gem 'simplecov'
+gem 'rspec'
+gem 'yard'
+gem 'rake'
+gem 'redis'

@@ -1,0 +1,4 @@
+gem 'tmail'
+gem 'bounce-email'
+gem 'minitest'
+gem 'eventmachine'

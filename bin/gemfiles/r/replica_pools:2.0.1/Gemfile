@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'mysql2'
+gem 'rack'
+gem 'rspec'
+gem 'rake'
+gem 'rails'

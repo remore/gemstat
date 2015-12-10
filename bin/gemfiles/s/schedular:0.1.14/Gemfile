@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'table_builder'
+gem 'eventual'
+gem 'es-mx-locale'

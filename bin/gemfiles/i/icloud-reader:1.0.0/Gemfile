@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'pry'
+gem 'nokogiri'
+gem 'clamp'
+gem 'highline'

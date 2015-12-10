@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'pry-nav'
+gem 'rspec'
+gem 'spec_coverage'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,6 @@
+gem 'handsoap'
+gem 'curb'
+gem 'nokogiri'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'json'
+gem 'activesupport'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

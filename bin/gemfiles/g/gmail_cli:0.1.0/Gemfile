@@ -1,0 +1,7 @@
+gem 'getoptions'
+gem 'gmail_xoauth'
+gem 'google-api-client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'

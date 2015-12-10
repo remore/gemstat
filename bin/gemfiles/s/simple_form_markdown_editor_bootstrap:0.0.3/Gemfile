@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'simple_form'
+gem 'coffee-rails'
+gem 'twitter-bootstrap-rails'
+gem 'less-rails'
+gem 'therubyracer'
+gem 'sqlite3'
+gem 'rspec-rails'

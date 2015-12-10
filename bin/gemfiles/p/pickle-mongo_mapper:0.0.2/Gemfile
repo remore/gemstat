@@ -1,0 +1,5 @@
+gem 'mongo_mapper'
+gem 'pickle'
+gem 'i18n'
+gem 'rspec'
+gem 'bundler'

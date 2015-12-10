@@ -1,0 +1,5 @@
+gem 'json'
+gem 'libxml-ruby'
+gem 'nokogiri'
+gem 'sqlite3'
+gem 'terminal-table'

@@ -1,0 +1,8 @@
+gem 'rdf'
+gem 'rdf-reasoner'
+gem 'bundler'
+gem 'linkeddata'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'yard'

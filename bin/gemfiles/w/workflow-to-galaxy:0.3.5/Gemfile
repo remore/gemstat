@@ -1,0 +1,4 @@
+gem 'myexperiment-rest'
+gem 'taverna-t2flow'
+gem 't2-server'
+gem 'rubyzip'

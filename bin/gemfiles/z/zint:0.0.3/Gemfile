@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'bundler'
+gem 'shoulda'
+gem 'yard'

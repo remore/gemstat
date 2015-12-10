@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'yard'
+gem 'machinist'
+gem 'capybara'
+gem 'cucumber'

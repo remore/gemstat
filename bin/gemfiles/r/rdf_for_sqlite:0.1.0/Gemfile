@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rdf'
+gem 'data_objects'
+gem 'do_sqlite3'
+gem 'rdf-do'
+gem 'spira'
+gem 'activemodel'
+gem 'json'

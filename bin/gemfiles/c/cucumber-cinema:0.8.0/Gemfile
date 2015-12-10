@@ -1,0 +1,7 @@
+gem 'imgkit'
+gem 'cucumber'
+gem 'mini_magick'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

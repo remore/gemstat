@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'bundler'
+gem 'minitest'
+gem 'minitest-power_assert'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rack'
+gem 'will_paginate'
+gem 'jquery-ui-rails'

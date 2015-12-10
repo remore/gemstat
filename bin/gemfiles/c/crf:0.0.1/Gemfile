@@ -1,0 +1,4 @@
+gem 'find'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

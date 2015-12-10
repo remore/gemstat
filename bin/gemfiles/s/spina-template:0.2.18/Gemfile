@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'bourbon'
+gem 'neat'
+gem 'fontcustom'
+gem 'coffee-rails'
+gem 'jquery-fileupload-rails'

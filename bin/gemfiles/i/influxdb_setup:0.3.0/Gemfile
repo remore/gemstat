@@ -1,0 +1,4 @@
+gem 'influxdb'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'awesome_print'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'httparty'
+gem 'json'

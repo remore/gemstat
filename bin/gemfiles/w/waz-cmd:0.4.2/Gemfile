@@ -1,0 +1,6 @@
+gem 'commander'
+gem 'tilt'
+gem 'crack'
+gem 'nokogiri'
+gem 'waz-storage'
+gem 'uuidtools'

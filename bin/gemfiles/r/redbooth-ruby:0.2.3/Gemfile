@@ -1,0 +1,8 @@
+gem 'json'
+gem 'oauth2'
+gem 'multipart-post'
+gem 'rspec'
+gem 'pry'
+gem 'vcr'
+gem 'fakeweb'
+gem 'rack-test'

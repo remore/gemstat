@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'redis'
+gem 'redis-namespace'
+gem 'sqlite3'
+gem 'billing'

@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'thread_safe'
+gem 'ruby-tls'
+gem 'rspec'
+gem 'rake'
+gem 'yard'

@@ -1,0 +1,4 @@
+gem 'sidekiq'
+gem 'parse-cron'
+gem 'bundler'
+gem 'rake'

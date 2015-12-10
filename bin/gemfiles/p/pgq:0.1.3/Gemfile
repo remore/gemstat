@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'pg'
+gem 'marshal64'
+gem 'rspec'
+gem 'rake'

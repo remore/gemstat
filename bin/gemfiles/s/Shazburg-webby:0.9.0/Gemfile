@@ -1,0 +1,6 @@
+gem 'directory_watcher'
+gem 'heel'
+gem 'hpricot'
+gem 'logging'
+gem 'rake'
+gem 'rspec'

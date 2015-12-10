@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'trollop'
+gem 'simple_deploy'
+gem 'aws-sdk'

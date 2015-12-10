@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rspec'
+gem 'rack-test'
+gem 'redis'
+gem 'yajl-ruby'

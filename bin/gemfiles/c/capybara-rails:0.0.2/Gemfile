@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'capybara'
+gem 'capybara-console'
+gem 'exception_notification'
+gem 'database_cleaner'

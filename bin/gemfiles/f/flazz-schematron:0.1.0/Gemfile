@@ -1,0 +1,2 @@
+gem 'libxml-ruby'
+gem 'libxslt-ruby'

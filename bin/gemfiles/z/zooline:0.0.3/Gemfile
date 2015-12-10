@@ -1,0 +1,4 @@
+gem 'patron'
+gem 'yajl-ruby'
+gem 'terminal-table'
+gem 'rainbow'

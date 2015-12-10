@@ -1,0 +1,4 @@
+gem 'io-console'
+gem 'rake'
+gem 'rspec'
+gem 'yard'

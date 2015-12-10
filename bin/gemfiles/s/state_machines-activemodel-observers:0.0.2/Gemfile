@@ -1,0 +1,7 @@
+gem 'state_machines-activemodel'
+gem 'rails-observers'
+gem 'bundler'
+gem 'rake'
+gem 'appraisal'
+gem 'minitest'
+gem 'minitest-reporters'

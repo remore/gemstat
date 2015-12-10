@@ -1,0 +1,6 @@
+gem 'watir'
+gem 'nokogiri'
+gem 'capybara'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'active_record'
+gem 'sqlite3'

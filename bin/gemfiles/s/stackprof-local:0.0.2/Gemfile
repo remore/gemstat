@@ -1,0 +1,4 @@
+gem 'stackprof'
+gem 'stackprof-remote'
+gem 'bundler'
+gem 'rake'

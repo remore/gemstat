@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'jasmine'
+gem 'mustache'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'yard'

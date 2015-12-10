@@ -1,0 +1,4 @@
+gem 'yomu'
+gem 'prawn'
+gem 'bundler'
+gem 'rake'

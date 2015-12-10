@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'money-tree'
+gem 'bitcoin-ruby'
+gem 'chain-ruby'
+gem 'httparty'

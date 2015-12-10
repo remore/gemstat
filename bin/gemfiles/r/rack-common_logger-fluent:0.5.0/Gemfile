@@ -1,0 +1,6 @@
+gem 'fluent-logger'
+gem 'rack'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'test-unit'
+gem 'colorize'
+gem 'mail'
+gem 'log4r'
+gem 'rcs-common'
+gem 'bdb'
+gem 'sbdb'

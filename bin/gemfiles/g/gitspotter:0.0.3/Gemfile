@@ -1,0 +1,4 @@
+gem 'capillary'
+gem 'minitest'
+gem 'shoulda'
+gem 'shoulda-context'

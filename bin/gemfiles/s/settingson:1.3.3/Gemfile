@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'bundler'
+gem 'rails-dummy'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'spring-commands-rspec'
+gem 'database_cleaner'
+gem 'faker'

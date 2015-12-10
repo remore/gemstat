@@ -1,0 +1,5 @@
+gem 'haml'
+gem 'thor'
+gem 'sqlite3'
+gem 'bundler'
+gem 'rake'

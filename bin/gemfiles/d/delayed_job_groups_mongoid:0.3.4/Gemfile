@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'delayed_job'
+gem 'delayed_job_mongoid'
+gem 'mongoid'
+gem 'bson_ext'

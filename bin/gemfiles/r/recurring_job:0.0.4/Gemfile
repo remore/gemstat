@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'delayed_job_active_record'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rr'
+gem 'sqlite3'

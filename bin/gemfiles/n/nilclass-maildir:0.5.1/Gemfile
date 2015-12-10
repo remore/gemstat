@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'mail'
+gem 'json'
+gem 'ktheory-fakefs'

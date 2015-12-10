@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'thin'
+gem 'faye'
+gem 'require_all'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'aruba'
+gem 'gli'
+gem 'rugged'
+gem 'launchy'

@@ -1,0 +1,4 @@
+gem 'mongoid'
+gem 'activesupport'
+gem 'rspec'
+gem 'guard-rspec'

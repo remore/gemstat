@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'rails'
+gem 'rack-test'
+gem 'addressable'
+gem 'warden-github'
+gem 'railties'

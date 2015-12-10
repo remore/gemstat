@@ -1,0 +1,7 @@
+gem 'seq'
+gem 'serialisable'
+gem 'nokogiri'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'webmock'

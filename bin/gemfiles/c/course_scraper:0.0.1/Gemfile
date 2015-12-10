@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'vcr'
+gem 'webmock'
+gem 'mocha'
+gem 'minitest'

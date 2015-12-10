@@ -1,0 +1,5 @@
+gem 'faye-websocket'
+gem 'rest-client'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

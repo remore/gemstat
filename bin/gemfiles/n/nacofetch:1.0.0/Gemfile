@@ -1,0 +1,4 @@
+gem 'httpclient'
+gem 'nokogiri'
+gem 'cri'
+gem 'mixlib-config'

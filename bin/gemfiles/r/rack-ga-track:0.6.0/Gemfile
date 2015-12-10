@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rack-test'
+gem 'minitest'
+gem 'timecop'

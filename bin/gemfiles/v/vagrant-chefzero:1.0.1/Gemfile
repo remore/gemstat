@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'berkshelf'
+gem 'certified'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'mechanize'
+gem 'trollop'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

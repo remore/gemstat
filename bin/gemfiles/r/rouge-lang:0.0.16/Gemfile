@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'autotest'
+gem 'autotest-growl'
+gem 'autotest-fsevent'
+gem 'ZenTest'
+gem 'rspec'
+gem 'term-ansicolor'

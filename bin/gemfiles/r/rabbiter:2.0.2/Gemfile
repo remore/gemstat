@@ -1,0 +1,7 @@
+gem 'rabbit'
+gem 'gio2'
+gem 'twitter_oauth'
+gem 'twitter-stream'
+gem 'rake'
+gem 'bundler'
+gem 'gettext'

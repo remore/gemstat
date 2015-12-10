@@ -1,0 +1,6 @@
+gem 'beefcake'
+gem 'promise.rb'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'

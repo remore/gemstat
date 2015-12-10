@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rake'
+gem 'rdoc'
+gem 'erubis'
+gem 'open4'
+gem 'activesupport'
+gem 'highline'
+gem 'capistrano'

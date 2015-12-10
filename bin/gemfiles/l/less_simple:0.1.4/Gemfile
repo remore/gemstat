@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'shoulda'
+gem 'mocha'
+gem 'factory_girl'
+gem 'ruby-debug'

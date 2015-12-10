@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'actionpack'
+gem 'less-rails'
+gem 'rails'

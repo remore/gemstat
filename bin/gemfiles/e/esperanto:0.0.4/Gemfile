@@ -1,0 +1,6 @@
+gem 'esperanto-source'
+gem 'execjs'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-power_assert'

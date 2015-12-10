@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'zabbix_protocol'
+gem 'logstash-codec-plain'
+gem 'logstash-devutils'
+gem 'logstash-filter-mutate'
+gem 'longshoreman'

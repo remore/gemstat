@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'gibbon'
+gem 'paperclip'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'rake'

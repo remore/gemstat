@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'mechanize'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

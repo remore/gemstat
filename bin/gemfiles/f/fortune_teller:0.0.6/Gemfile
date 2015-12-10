@@ -1,0 +1,2 @@
+gem 'rubygame'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'flog'
+gem 'rcov'
+gem 'reek'
+gem 'flay'
+gem 'roodi'
+gem 'factorylabs-railroad'

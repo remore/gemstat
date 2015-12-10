@@ -1,0 +1,4 @@
+gem 'parslet'
+gem 'docopt'
+gem 'rspec'
+gem 'pry'

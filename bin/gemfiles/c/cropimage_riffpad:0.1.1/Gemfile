@@ -1,0 +1,5 @@
+gem 'new_responds_to_parent'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

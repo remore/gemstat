@@ -1,0 +1,4 @@
+gem 'simple-rss'
+gem 'hpricot'
+gem 'rdoc'
+gem 'hoe'

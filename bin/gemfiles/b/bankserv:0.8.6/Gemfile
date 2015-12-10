@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'i18n'
+gem 'absa-h2h'
+gem 'absa-esd'
+gem 'absa-notify-me'
+gem 'combustion'

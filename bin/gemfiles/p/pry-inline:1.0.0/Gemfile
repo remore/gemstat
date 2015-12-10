@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'unicode'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'test-unit'
+gem 'rubocop'
+gem 'pry-theme'

@@ -1,0 +1,5 @@
+gem 'gzip'
+gem 'rspec-core'
+gem 'rspec-mocks'
+gem 'rspec-expectations'
+gem 'debugger'

@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'json'
+gem 'rspec'
+gem 'rack-test'

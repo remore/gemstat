@@ -1,0 +1,6 @@
+gem 'rake-compiler'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
+gem 'sdoc'
+gem 'sdoc-templates-42floors'

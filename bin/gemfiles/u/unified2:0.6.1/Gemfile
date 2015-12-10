@@ -1,0 +1,7 @@
+gem 'bindata'
+gem 'packetfu'
+gem 'hexdump'
+gem 'ore-tasks'
+gem 'rspec'
+gem 'yard'
+gem 'rdiscount'

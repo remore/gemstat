@@ -1,0 +1,7 @@
+gem 'ejt_command_line'
+gem 'bundler'
+gem 'rake'
+gem 'json'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'

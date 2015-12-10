@@ -1,0 +1,4 @@
+gem 'geminabox'
+gem 'bundler'
+gem 'thor'
+gem 'rake'

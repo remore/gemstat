@@ -1,0 +1,5 @@
+gem 'goliath'
+gem 'multi_json'
+gem 'cucumber'
+gem 'em-http-request'
+gem 'rspec'

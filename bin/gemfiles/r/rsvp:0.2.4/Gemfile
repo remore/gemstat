@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'debugger'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'database_cleaner'

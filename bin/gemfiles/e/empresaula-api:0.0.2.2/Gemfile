@@ -1,0 +1,4 @@
+gem 'activeresource'
+gem 'turn'
+gem 'minitest'
+gem 'mocha'

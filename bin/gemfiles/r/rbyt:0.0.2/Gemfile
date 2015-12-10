@@ -1,0 +1,2 @@
+gem 'youtube_it'
+gem 'chronic_duration'

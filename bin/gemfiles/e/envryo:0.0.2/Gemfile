@@ -1,0 +1,6 @@
+gem 'evernote_oauth'
+gem 'yoyo'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'jekyll'
+gem 'yajl-ruby'
+gem 'oga'

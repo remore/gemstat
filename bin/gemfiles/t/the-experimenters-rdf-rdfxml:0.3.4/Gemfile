@@ -1,0 +1,8 @@
+gem 'rdf'
+gem 'nokogiri'
+gem 'open-uri-cached'
+gem 'spira'
+gem 'rspec'
+gem 'rdf-spec'
+gem 'rdf-isomorphic'
+gem 'yard'

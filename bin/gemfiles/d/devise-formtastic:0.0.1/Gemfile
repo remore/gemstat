@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'devise'
+gem 'formtastic'
+gem 'sqlite3'

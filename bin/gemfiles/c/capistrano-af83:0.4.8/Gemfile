@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'capistrano-notification'
+gem 'capistrano-custom-maintenance'
+gem 'shout-bot'
+gem 'sushi'

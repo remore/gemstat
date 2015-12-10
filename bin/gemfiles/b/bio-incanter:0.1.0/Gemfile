@@ -1,0 +1,5 @@
+gem 'jruby-openssl'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'systemu'
+gem 'rspec'
+gem 'pry'
+gem 'pry-theme'

@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'active_attr'
+gem 'minitest-matchers'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rake'

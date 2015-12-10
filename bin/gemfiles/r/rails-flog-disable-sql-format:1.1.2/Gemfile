@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'coveralls'
+gem 'mocha'
+gem 'rails'
+gem 'anbt-sql-formatter'
+gem 'awesome_print'

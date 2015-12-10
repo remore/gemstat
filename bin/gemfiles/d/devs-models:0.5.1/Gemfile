@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'pry'
+gem 'gnuplot'
+gem 'devs'

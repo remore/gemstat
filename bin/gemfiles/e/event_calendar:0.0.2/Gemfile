@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'markaby'
+gem 'haml'
+gem 'shoulda'
+gem 'timecop'

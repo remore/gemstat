@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rake'
+gem 'httparty'
+gem 'oauth'
+gem 'json'

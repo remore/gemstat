@@ -1,0 +1,5 @@
+gem 'devise'
+gem 'userbin'
+gem 'bundler'
+gem 'rake'
+gem 'rails'

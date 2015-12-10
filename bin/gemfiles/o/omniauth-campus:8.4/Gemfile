@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'omniauth-oauth'
+gem 'faraday'
+gem 'multi_json'

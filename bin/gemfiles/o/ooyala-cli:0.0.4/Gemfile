@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'gli'
+gem 'ooyala-v2-api'

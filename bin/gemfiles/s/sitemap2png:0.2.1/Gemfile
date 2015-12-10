@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'nokogiri'
+gem 'rake'
+gem 'bundler'

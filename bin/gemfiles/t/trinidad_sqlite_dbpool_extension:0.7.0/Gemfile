@@ -1,0 +1,2 @@
+gem 'trinidad_dbpool'
+gem 'jdbc-sqlite3'

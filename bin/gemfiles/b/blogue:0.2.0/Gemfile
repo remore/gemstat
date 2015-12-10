@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'kramdown'
+gem 'rouge'
+gem 'pry'

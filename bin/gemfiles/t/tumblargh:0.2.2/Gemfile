@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'api_cache'
+gem 'nokogiri'
+gem 'treetop'
+gem 'autotest-standalone'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'rspec-rails'
+gem 'webrat'
+gem 'faker'
+gem 'machinist'

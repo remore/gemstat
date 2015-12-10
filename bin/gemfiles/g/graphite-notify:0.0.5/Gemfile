@@ -1,0 +1,8 @@
+gem 'capistrano'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'capistrano-spec'
+gem 'yard'
+gem 'redcarpet'

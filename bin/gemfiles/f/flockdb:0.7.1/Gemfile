@@ -1,0 +1,7 @@
+gem 'thrift'
+gem 'thrift_client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'diff-lcs'
+gem 'rr'

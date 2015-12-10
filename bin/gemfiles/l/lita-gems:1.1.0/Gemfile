@@ -1,0 +1,5 @@
+gem 'lita'
+gem 'gems'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

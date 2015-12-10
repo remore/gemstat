@@ -1,0 +1,5 @@
+gem 'shared_count_api'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

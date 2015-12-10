@@ -1,0 +1,4 @@
+gem 'options_checker'
+gem 'activeresource'
+gem 'activesupport'
+gem 'hoe'

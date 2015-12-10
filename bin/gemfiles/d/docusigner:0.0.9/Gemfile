@@ -1,0 +1,4 @@
+gem 'reactive_resource'
+gem 'multipart-post'
+gem 'shoulda'
+gem 'webmock'

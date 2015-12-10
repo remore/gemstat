@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'gearmand_control'
+gem 'virtus'
+gem 'celluloid'
+gem 'celluloid-io'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'launchy'
+gem 'require_all'
+gem 'thor'
+gem 'artii'
+gem 'rainbow'

@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'scrivito_sdk'
+gem 'scrivito_editors'
+gem 'scrivito_content_browser'

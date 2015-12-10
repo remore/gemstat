@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'httparty'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'
+gem 'jeweler'

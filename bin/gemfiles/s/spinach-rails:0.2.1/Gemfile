@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'spinach'
+gem 'railties'
+gem 'aruba'
+gem 'rails'
+gem 'sqlite3'

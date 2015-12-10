@@ -1,0 +1,6 @@
+gem 'yui-compressor'
+gem 'cri'
+gem 'win32-open3'
+gem 'rubyforge'
+gem 'hoe-yard'
+gem 'hoe'

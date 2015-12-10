@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'minitest-rg'
+gem 'nokogiri'
+gem 'typhoeus'

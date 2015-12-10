@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'sliq'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'

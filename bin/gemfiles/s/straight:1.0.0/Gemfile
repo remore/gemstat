@@ -1,0 +1,7 @@
+gem 'btcruby'
+gem 'satoshi-unit'
+gem 'httparty'
+gem 'faraday'
+gem 'bundler'
+gem 'jeweler'
+gem 'github_api'

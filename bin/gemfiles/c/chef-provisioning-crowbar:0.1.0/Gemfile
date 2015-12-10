@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'chef-provisioning'
+gem 'httparty'
+gem 'rake'

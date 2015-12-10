@@ -1,0 +1,4 @@
+gem 'msgpack-rpc'
+gem 'rake'
+gem 'simplecov'
+gem 'ci_reporter'

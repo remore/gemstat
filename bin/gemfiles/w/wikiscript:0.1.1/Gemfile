@@ -1,0 +1,4 @@
+gem 'logutils'
+gem 'fetcher'
+gem 'rdoc'
+gem 'hoe'

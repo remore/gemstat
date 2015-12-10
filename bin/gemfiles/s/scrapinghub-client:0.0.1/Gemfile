@@ -1,0 +1,7 @@
+gem 'contracts'
+gem 'kleisli'
+gem 'httparty'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

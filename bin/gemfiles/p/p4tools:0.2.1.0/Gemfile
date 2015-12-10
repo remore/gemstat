@@ -1,0 +1,2 @@
+gem 'P4Ruby-mingwx86'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'docopt'
+gem 'codeclimate-test-reporter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

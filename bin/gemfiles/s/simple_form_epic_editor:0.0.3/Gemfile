@@ -1,0 +1,4 @@
+gem 'simple_form'
+gem 'rails-assets-epiceditor'
+gem 'bundler'
+gem 'rake'

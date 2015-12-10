@@ -1,0 +1,8 @@
+gem 'twitter'
+gem 'prowly'
+gem 'xmpp4r'
+gem 'dike'
+gem 'snapshot'
+gem 'rcov'
+gem 'daemons'
+gem 'mocha'

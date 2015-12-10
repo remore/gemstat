@@ -1,0 +1,7 @@
+gem 'cramp'
+gem 'uuid'
+gem 'bueller'
+gem 'bundler'
+gem 'rake'
+gem 'rcov'
+gem 'rspec'

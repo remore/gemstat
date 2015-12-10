@@ -1,0 +1,6 @@
+gem 'selenium-webdriver'
+gem 'facets'
+gem 'json'
+gem 'psych'
+gem 'rspec'
+gem 'watir-webdriver'

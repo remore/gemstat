@@ -1,0 +1,6 @@
+gem 'elasticsearch'
+gem 'elasticsearch-model'
+gem 'elasticsearch-persistence'
+gem 'elasticsearch-rails'
+gem 'bundler'
+gem 'rake'

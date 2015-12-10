@@ -1,0 +1,8 @@
+gem 'pygments.rb'
+gem 'github-linguist'
+gem 'github-markup'
+gem 'htmlentities'
+gem 'loofah'
+gem 'minitest'
+gem 'rake'
+gem 'redcarpet'

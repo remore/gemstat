@@ -1,0 +1,8 @@
+gem 'netzke-core'
+gem 'rails'
+gem 'sqlite3'
+gem 'yard'
+gem 'coffee-script'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'rake'

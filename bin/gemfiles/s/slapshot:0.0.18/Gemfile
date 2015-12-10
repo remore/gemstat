@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'gli'
+gem 'rest-client'
+gem 'json'
+gem 'formatador'
+gem 'spreadsheet'

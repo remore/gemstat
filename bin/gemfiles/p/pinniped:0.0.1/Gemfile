@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'fakeweb'
+gem 'guard-rspec'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'activemodel'
+gem 'hashie'
+gem 'rest-client'
+gem 'sqlite3'

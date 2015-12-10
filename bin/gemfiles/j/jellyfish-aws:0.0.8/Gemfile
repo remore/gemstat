@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'fog-aws'
+gem 'bcrypt'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'database_cleaner'
+gem 'rubocop'

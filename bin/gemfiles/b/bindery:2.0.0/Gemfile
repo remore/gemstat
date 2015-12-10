@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'nokogiri'
+gem 'zip'
+gem 'mocha'
+gem 'rake'
+gem 'rspec'

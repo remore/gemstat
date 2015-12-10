@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'highline'
+gem 'docker-api'
+gem 'rake'
+gem 'bundler'

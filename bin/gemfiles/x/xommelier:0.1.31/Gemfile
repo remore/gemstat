@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'activemodel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'oauth2'
+gem 'httparty'
+gem 'json_pure'
+gem 'uuidtools'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'rake'

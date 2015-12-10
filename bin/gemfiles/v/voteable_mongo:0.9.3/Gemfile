@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'mongoid'
+gem 'mongo_mapper'
+gem 'bson_ext'

@@ -1,0 +1,5 @@
+gem 'flog'
+gem 'json'
+gem 'launchy'
+gem 'rspec'
+gem 'rake'

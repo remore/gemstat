@@ -1,0 +1,6 @@
+gem 'rufus-scheduler'
+gem 'redis'
+gem 'colorize'
+gem 'activesupport'
+gem 'rspec'
+gem 'timecop'

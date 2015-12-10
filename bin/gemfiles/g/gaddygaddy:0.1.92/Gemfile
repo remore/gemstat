@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'log4r'
+gem 'rest-client'
+gem 'stringex'
+gem 'subcommand'
+gem 'systemu'

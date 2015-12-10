@@ -1,0 +1,7 @@
+gem 'conduit'
+gem 'multi_json'
+gem 'suretax'
+gem 'shoulda-matchers'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rails'

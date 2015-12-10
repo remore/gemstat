@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'em-websocket-client'
+gem 'pusher'

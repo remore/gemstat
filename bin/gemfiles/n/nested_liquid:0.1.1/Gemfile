@@ -1,0 +1,7 @@
+gem 'liquid'
+gem 'activesupport'
+gem 'bacon'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

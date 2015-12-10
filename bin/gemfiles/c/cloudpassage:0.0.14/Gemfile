@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'oauth2'
+gem 'rest-client'
+gem 'json'
+gem 'wait'

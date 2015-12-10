@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'rspec'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

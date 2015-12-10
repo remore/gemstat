@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'rake'
+gem 'sdoc'
+gem 'simplecov'
+gem 'turn'

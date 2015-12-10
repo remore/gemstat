@@ -1,0 +1,7 @@
+gem 'lita'
+gem 'dotenv'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

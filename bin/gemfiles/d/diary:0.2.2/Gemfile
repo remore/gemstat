@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'bluecloth'
+gem 'sinatra'
+gem 'bundler'

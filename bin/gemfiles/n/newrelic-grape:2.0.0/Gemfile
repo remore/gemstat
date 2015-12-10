@@ -1,0 +1,2 @@
+gem 'grape'
+gem 'newrelic_rpm'

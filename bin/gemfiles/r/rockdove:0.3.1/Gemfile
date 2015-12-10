@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'raad'
+gem 'viewpoint'
+gem 'email_reply_parser'
+gem 'logger'

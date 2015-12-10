@@ -1,0 +1,5 @@
+gem 'pg'
+gem 'activerecord'
+gem 'rails'
+gem 'rspec-rails'
+gem 'activeresource'

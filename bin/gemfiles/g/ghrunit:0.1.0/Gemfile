@@ -1,0 +1,7 @@
+gem 'turn'
+gem 'shoulda'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'turn'

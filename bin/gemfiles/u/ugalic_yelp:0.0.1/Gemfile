@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'mechanize'
+gem 'cucumber'
+gem 'oauth'
+gem 'rspec'
+gem 'aruba'
+gem 'rake'
+gem 'rdoc'

@@ -1,0 +1,4 @@
+gem 'safe_yaml'
+gem 'rspec'
+gem 'rubocop'
+gem 'byebug'

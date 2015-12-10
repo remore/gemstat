@@ -1,0 +1,5 @@
+gem 'oj'
+gem 'hashie'
+gem 'rdoc'
+gem 'jeweler'
+gem 'bundler'

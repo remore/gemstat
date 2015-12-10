@@ -1,0 +1,6 @@
+gem 'yui-compressor'
+gem 'mustache'
+gem 'bcat'
+gem 'trollop'
+gem 'rspec'
+gem 'jeweler'

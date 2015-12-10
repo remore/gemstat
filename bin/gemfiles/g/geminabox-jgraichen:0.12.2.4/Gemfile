@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'builder'
+gem 'httpclient-jgraichen'
+gem 'nesty'
+gem 'rake'
+gem 'pry'

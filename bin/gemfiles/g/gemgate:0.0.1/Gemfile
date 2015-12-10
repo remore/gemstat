@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'fog'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'

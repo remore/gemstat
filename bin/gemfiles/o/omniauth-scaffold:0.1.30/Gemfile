@@ -1,0 +1,6 @@
+gem 'rails_config'
+gem 'omniauth-twitter'
+gem 'omniauth-facebook'
+gem 'omniauth-github'
+gem 'tapp'
+gem 'awesome_print'

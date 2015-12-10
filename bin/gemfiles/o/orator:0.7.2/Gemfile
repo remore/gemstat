@@ -1,0 +1,4 @@
+gem 'em-websocket'
+gem 'oj'
+gem 'swf_fu'
+gem 'rspec'

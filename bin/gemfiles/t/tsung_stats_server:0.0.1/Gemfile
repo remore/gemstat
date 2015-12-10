@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'rubyzip'
+gem 'markaby'
+gem 'inochi'
+gem 'inochi'

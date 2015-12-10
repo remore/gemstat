@@ -1,0 +1,2 @@
+gem 'prawn'
+gem 'dimensions'

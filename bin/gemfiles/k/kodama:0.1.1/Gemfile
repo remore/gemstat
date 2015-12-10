@@ -1,0 +1,7 @@
+gem 'ruby-binlog'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-nav'
+gem 'guard-rspec'
+gem 'rb-fsevent'

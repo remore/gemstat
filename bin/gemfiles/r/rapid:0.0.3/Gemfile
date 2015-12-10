@@ -1,0 +1,5 @@
+gem 'bluecloth'
+gem 'sanitize'
+gem 'state_machine'
+gem 'paperclip'
+gem 'factory_girl'

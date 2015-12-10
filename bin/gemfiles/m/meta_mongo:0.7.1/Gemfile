@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'enumerize'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'mongoid-rspec'

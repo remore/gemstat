@@ -1,0 +1,5 @@
+gem 'help_parser'
+gem 'user_space'
+gem 'base_convert'
+gem 'rainbow'
+gem 'test-unit'

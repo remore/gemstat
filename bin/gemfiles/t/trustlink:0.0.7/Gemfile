@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'domainatrix'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'fakeweb'
+gem 'fakeweb-matcher'
+gem 'sqlite3'

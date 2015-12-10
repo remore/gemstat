@@ -1,0 +1,6 @@
+gem 'osx_keychain'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

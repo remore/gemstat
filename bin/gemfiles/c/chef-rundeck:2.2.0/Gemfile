@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'chef'
+gem 'mixlib-cli'
+gem 'rspec'
+gem 'yard'
+gem 'rack-test'
+gem 'nokogiri'

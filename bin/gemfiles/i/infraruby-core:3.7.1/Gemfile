@@ -1,0 +1,6 @@
+gem 'infraruby-base'
+gem 'infraruby-core-compiler'
+gem 'infraruby-core-runtime'
+gem 'bundler'
+gem 'infraruby-task'
+gem 'rspec'

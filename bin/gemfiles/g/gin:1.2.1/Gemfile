@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'rack-protection'
+gem 'tilt'
+gem 'rdoc'
+gem 'nokogiri'
+gem 'plist'
+gem 'bson'
+gem 'hoe'

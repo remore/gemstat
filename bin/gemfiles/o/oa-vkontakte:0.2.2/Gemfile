@@ -1,0 +1,4 @@
+gem 'oa-core'
+gem 'rspec'
+gem 'yard'
+gem 'rack-test'

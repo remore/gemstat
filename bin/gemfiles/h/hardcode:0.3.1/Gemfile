@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'sneakers'
+gem 'bunny'
+gem 'json'
+gem 'listen'
+gem 'stack-encode'
+gem 'bundler'
+gem 'rake'

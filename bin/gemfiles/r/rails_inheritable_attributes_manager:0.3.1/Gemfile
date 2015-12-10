@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'redgreen'
+gem 'actionpack'
+gem 'activerecord'

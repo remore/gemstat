@@ -1,0 +1,7 @@
+gem 'yajl-ruby'
+gem 'patron'
+gem 'faraday'
+gem 'pry'
+gem 'rake'
+gem 'ronn'
+gem 'rubygems-tasks'

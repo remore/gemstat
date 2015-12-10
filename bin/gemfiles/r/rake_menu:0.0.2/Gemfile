@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'activesupport'
+gem 'highline'
+gem 'text-highlight'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rack-test'
+gem 'minitest'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'refinerycms-core'
+gem 'refinerycms-settings'
+gem 'mime-types'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'mini_exiftool'
+gem 'refinerycms-testing'

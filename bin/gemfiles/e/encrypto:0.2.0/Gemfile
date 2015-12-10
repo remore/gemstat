@@ -1,0 +1,6 @@
+gem 'rbnacl'
+gem 'rbnacl-libsodium'
+gem 'attr_encrypted'
+gem 'pry-nav'
+gem 'rspec'
+gem 'spec_coverage'

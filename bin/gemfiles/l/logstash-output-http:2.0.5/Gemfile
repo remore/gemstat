@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'logstash-mixin-http_client'
+gem 'manticore'
+gem 'logstash-devutils'
+gem 'sinatra'
+gem 'webrick'

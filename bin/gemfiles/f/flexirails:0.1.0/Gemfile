@@ -1,0 +1,5 @@
+gem 'url_plumber'
+gem 'rails'
+gem 'sqlite3'
+gem 'capybara'
+gem 'poltergeist'

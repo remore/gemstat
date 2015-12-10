@@ -1,0 +1,5 @@
+gem 'state_machine'
+gem 'shoulda'
+gem 'mocha'
+gem 'machinist'
+gem 'faker'

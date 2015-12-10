@@ -1,0 +1,2 @@
+gem 'rack'
+gem 'redis_json_serializer'

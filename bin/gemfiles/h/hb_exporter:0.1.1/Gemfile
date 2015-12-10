@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'colored'
+gem 'ruby-progressbar'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'

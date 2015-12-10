@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'
+gem 'fuubar'
+gem 'coveralls'
+gem 'simplecov'
+gem 'httparty'

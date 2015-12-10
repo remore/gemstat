@@ -1,0 +1,4 @@
+gem 'clockwork'
+gem 'redis'
+gem 'bundler'
+gem 'rake'

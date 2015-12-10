@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'rdoc'
+gem 'redcarpet'
+gem 'rake'
+gem 'log4r'

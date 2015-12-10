@@ -1,0 +1,7 @@
+gem 'pivotal-tracker'
+gem 'rake'
+gem 'mocha'
+gem 'simplecov'
+gem 'aruba'
+gem 'rspec'
+gem 'cucumber'

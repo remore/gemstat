@@ -1,0 +1,7 @@
+gem 'producer-core'
+gem 'producer-stdlib'
+gem 'aruba'
+gem 'cucumber'
+gem 'cucumber-sshd'
+gem 'rake'
+gem 'rails'

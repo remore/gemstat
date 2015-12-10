@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'blockenspiel'
+gem 'conversions'
+gem 'bundler'
+gem 'bueller'
+gem 'rake'
+gem 'simplecov'
+gem 'supermodel'

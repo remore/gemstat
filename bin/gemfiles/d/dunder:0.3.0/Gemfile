@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'sqlite3'
+gem 'ruby-debug19'

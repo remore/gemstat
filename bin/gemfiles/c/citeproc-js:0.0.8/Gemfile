@@ -1,0 +1,5 @@
+gem 'citeproc'
+gem 'execjs'
+gem 'cucumber'
+gem 'rspec'
+gem 'watchr'

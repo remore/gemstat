@@ -1,0 +1,7 @@
+gem 'has_scope'
+gem 'kaminari'
+gem 'pundit'
+gem 'rails'
+gem 'active_model_serializers'
+gem 'rake'
+gem 'rspec-rails'

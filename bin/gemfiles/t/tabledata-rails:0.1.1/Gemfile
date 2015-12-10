@@ -1,0 +1,4 @@
+gem 'tabledata'
+gem 'rails'
+gem 'bundler'
+gem 'rake'

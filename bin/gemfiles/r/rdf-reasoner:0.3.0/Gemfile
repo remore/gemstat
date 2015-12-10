@@ -1,0 +1,8 @@
+gem 'rdf'
+gem 'rdf-xsd'
+gem 'rdf-turtle'
+gem 'rdf-vocab'
+gem 'linkeddata'
+gem 'equivalent-xml'
+gem 'rspec'
+gem 'yard'

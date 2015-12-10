@@ -1,0 +1,6 @@
+gem 'resque-bus'
+gem 'activesupport'
+gem 'typhoeus'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

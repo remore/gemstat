@@ -1,0 +1,5 @@
+gem 'pronto'
+gem 'rails_best_practices'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

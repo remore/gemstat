@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'simple_form'
+gem 'sqlite3'
+gem 'jquery-rails'
+gem 'coffee-rails'
+gem 'sass-rails'

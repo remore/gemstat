@@ -1,0 +1,5 @@
+gem 'hashie'
+gem 'json'
+gem 'nori'
+gem 'typhoeus'
+gem 'nokogiri'

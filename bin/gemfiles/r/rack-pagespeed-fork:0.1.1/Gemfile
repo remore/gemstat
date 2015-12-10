@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'jsmin'
+gem 'mime-types'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'

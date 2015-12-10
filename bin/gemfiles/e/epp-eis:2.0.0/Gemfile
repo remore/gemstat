@@ -1,0 +1,6 @@
+gem 'epp-nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rb-fsevent'

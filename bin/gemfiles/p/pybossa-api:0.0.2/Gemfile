@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'sanitize'
+gem 'rspec'
+gem 'rake'
+gem 'coveralls'

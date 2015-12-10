@@ -1,0 +1,7 @@
+gem 'excon'
+gem 'activesupport'
+gem 'sweet_notifications'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

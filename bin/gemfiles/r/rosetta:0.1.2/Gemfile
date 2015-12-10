@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'ya2yaml'
+gem 'paginate'
+gem 'rspec-rails'
+gem 'sqlite3-ruby'
+gem 'ruby-debug19'

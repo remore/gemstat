@@ -1,0 +1,2 @@
+gem 'gtk2'
+gem 'bones'

@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'rake'
+gem 'rspec'
+gem 'grape'
+gem 'grape-entity'
+gem 'rack-test'

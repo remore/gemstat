@@ -1,0 +1,5 @@
+gem 'mini_magick'
+gem 'parallel'
+gem 'sass'
+gem 'uglifier'
+gem 'pry'

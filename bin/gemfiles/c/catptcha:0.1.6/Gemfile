@@ -1,0 +1,5 @@
+gem 'commonthread-flickr_fu'
+gem 'activerecord'
+gem 'will_paginate'
+gem 'aws-s3'
+gem 'rr'

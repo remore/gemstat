@@ -1,0 +1,5 @@
+gem 'typhoeus'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'multi_json'

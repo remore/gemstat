@@ -1,0 +1,6 @@
+gem 'octopress-hooks'
+gem 'autoprefixer-rails'
+gem 'jekyll'
+gem 'clash'
+gem 'rake'
+gem 'bundler'

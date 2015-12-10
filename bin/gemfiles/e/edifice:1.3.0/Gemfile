@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rails'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'jquery-rails'

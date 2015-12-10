@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'cm-sms'
+gem 'rails'
+gem 'rspec-activejob'

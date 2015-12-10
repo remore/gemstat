@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'activesupport'
+gem 'rake'
+gem 'database_cleaner'
+gem 'test-unit'
+gem 'byebug'

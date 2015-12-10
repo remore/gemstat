@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'fontello_rails_converter'
+gem 'font_assets'
+gem 'railties'

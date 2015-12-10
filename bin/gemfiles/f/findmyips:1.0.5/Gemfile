@@ -1,0 +1,7 @@
+gem 'colorize'
+gem 'rspec'
+gem 'rdoc'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

@@ -1,0 +1,5 @@
+gem 'execjs'
+gem 'tilt'
+gem 'rails'
+gem 'therubyracer'
+gem 'rake'

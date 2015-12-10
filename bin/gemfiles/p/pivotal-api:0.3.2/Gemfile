@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'addressable'
+gem 'virtus'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'excon'

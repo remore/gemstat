@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'bump'
+gem 'wwtd'
+gem 'shoulda'

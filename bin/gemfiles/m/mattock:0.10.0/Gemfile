@@ -1,0 +1,6 @@
+gem 'corundum'
+gem 'rake'
+gem 'valise'
+gem 'tilt'
+gem 'caliph'
+gem 'calibrate'

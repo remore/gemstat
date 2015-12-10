@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'active_support'
+gem 'fakeredis'
+gem 'redis'
+gem 'fastercsv'

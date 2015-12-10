@@ -1,0 +1,4 @@
+gem 'hoe'
+gem 'RingyDingy'
+gem 'ZenTest'
+gem 'actionpack'

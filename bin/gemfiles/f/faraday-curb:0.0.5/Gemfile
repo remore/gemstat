@@ -1,0 +1,4 @@
+gem 'curb'
+gem 'faraday'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'i18n'
+gem 'minitest'
+gem 'mime-types'

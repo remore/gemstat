@@ -1,0 +1,4 @@
+gem 'thoughtbot-shoulda'
+gem 'mocha'
+gem 'httparty'
+gem 'api_cache'

@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'diff-lcs'
+gem 'extlib'
+gem 'rspec'
+gem 'hoe'

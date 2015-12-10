@@ -1,0 +1,6 @@
+gem 'extract_audio'
+gem 'opn'
+gem 'colour_aid'
+gem 'remove_file_suffix'
+gem 'esystem'
+gem 'alias_e'

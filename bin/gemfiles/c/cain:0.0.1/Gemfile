@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'tmdb_party'
+gem 'active_support'
+gem 'i18n'

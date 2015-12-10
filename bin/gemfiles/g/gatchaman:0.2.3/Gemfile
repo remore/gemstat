@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'mime-types'
+gem 'rspec'
+gem 'rake'

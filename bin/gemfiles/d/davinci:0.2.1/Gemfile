@@ -1,0 +1,4 @@
+gem 'cocaine'
+gem 'oily_png'
+gem 'rspec'
+gem 'fakeweb'

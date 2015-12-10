@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'heroku-api'
+gem 'netrc'
+gem 'parallel'
+gem 'rendezvous'
+gem 'rspec'
+gem 'webmock'

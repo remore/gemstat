@@ -1,0 +1,6 @@
+gem 'oauth2'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

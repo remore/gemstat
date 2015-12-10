@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'shoulda'
+gem 'mocha'
+gem 'activerecord'
+gem 'activerecord-postgresql-adapter'

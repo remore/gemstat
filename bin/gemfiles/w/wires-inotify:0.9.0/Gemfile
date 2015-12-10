@@ -1,0 +1,5 @@
+gem 'wires'
+gem 'rb-inotify'
+gem 'rake'
+gem 'minitest'
+gem 'turn'

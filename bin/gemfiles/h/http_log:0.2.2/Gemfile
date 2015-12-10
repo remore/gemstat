@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'sass-rails'
+gem 'database_cleaner'

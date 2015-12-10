@@ -1,0 +1,8 @@
+gem 'lotus-controller'
+gem 'lotus-router'
+gem 'conglomerate'
+gem 'activesupport'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

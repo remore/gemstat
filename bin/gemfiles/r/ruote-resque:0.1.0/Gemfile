@@ -1,0 +1,6 @@
+gem 'resque'
+gem 'bundler'
+gem 'mutant'
+gem 'rubocop'
+gem 'yard'
+gem 'redcarpet'

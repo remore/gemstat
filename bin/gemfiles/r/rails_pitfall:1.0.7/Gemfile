@@ -1,0 +1,7 @@
+gem 'twitter-bootstrap-rails'
+gem 'flexslider'
+gem 'prettyphoto-rails'
+gem 'jquery-rails'
+gem 'less-rails'
+gem 'bundler'
+gem 'rake'

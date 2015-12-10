@@ -1,0 +1,6 @@
+gem 'right_aws'
+gem 'logger'
+gem 'main'
+gem 'systemu'
+gem 'json'
+gem 'pry'

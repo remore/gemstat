@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'shake'
+gem 'tilt'
+gem 'proton'
+gem 'fssm'
+gem 'rdiscount'

@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'extlib'
+gem 'dm-core'
+gem 'dm-validations'
+gem 'dm-types'
+gem 'soap4r'

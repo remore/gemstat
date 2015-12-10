@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'redis'
+gem 'minitest'
+gem 'pry'
+gem 'rake'
+gem 'rdiscount'
+gem 'sqlite3'
+gem 'yard'

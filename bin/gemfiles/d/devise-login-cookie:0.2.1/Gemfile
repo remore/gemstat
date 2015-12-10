@@ -1,0 +1,5 @@
+gem 'signed_json'
+gem 'devise'
+gem 'rspec'
+gem 'rails'
+gem 'rake'

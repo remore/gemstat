@@ -1,0 +1,8 @@
+gem 'cocaine'
+gem 'posix-spawn'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'debugger'

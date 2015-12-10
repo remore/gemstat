@@ -1,0 +1,5 @@
+gem 'escort'
+gem 'digitalocean'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

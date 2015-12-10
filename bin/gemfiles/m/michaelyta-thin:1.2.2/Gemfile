@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'eventmachine'
+gem 'reactor'
+gem 'daemons'

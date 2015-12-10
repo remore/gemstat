@@ -1,0 +1,5 @@
+gem 'cfoundry'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'rr'

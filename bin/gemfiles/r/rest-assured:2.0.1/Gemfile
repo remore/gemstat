@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'childprocess'
+gem 'sinatra-flash'
+gem 'haml'
+gem 'activerecord'
+gem 'activeresource'
+gem 'thin'

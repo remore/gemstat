@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rack-test'
+gem 'yard'
+gem 'visor-common'
+gem 'sinatra'
+gem 'thin'
+gem 'google_visualr'

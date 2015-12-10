@@ -1,0 +1,8 @@
+gem 'minitest'
+gem 'mocha'
+gem 'turn'
+gem 'chronic'
+gem 'rake'
+gem 'pry'
+gem 'json'
+gem 'patron'

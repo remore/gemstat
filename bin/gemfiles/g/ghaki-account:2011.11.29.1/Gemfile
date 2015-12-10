@@ -1,0 +1,4 @@
+gem 'highline'
+gem 'rspec'
+gem 'mocha'
+gem 'rdoc'

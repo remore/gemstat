@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'thor'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rubocop'
+gem 'guard-rubocop'
+gem 'aruba'
+gem 'aruba-rspec'

@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'konacha'
+gem 'rspec'
+gem 'timecop'
+gem 'simplecov'
+gem 'poltergeist'

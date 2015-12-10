@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec'
+gem 'rb-inotify'
+gem 'guard-rspec'

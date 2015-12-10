@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'bundler'
+gem 'pry-doc'
+gem 'rake'
+gem 'rspec'

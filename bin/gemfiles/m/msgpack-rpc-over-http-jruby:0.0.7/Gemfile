@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'msgpack-jruby'
+gem 'celluloid'
+gem 'httpclient'

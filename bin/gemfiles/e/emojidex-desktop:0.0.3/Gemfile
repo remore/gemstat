@@ -1,0 +1,2 @@
+gem 'emojidex-toolkit'
+gem 'gtk3'

@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'sequel'
+gem 'pg'
+gem 'ci_reporter'
+gem 'rake'

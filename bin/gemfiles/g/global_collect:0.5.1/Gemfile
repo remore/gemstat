@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'builder'
+gem 'fastercsv'
+gem 'fixed_width'
+gem 'fakeweb'

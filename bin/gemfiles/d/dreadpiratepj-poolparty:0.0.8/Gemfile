@@ -1,0 +1,4 @@
+gem 'aws-s3'
+gem 'amazon-ec2'
+gem 'aska'
+gem 'git'

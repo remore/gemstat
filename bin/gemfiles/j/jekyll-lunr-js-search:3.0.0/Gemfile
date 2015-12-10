@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'json'
+gem 'therubyracer'
+gem 'rake'
+gem 'uglifier'

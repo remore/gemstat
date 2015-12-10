@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'debugger'
+gem 'rake'
+gem 'rspec'

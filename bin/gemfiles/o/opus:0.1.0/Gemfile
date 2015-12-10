@@ -1,0 +1,5 @@
+gem 'prawn'
+gem 'commander'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'

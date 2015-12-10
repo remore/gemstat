@@ -1,0 +1,7 @@
+gem 'rmagick'
+gem 'psd'
+gem 'bundler'
+gem 'pry'
+gem 'pry-nav'
+gem 'rake'
+gem 'rspec'

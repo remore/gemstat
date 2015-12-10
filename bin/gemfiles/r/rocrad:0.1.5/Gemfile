@@ -1,0 +1,8 @@
+gem 'uuid'
+gem 'rmagick'
+gem 'mocha'
+gem 'rake'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'test-unit'

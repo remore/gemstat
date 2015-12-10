@@ -1,0 +1,5 @@
+gem 'tzinfo'
+gem 'RubySunrise'
+gem 'astro-algo'
+gem 'rspec'
+gem 'simplecov'

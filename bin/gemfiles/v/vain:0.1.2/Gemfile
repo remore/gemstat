@@ -1,0 +1,4 @@
+gem 'columnizer'
+gem 'rest-client'
+gem 'json_pure'
+gem 'hashie'

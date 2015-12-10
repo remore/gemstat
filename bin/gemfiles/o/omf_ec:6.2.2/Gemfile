@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'simplecov'
+gem 'pry'
+gem 'mocha'
+gem 'evented-spec'
+gem 'omf_common'
+gem 'sequel'

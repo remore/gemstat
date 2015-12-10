@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'struct2json'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

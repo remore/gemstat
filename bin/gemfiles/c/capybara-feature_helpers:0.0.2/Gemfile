@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'capybara-webkit'
+gem 'poltergeist'

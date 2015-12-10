@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'rake'
+gem 'rack-test'
+gem 'turn'
+gem 'minitest-reporters'

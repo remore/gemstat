@@ -1,0 +1,8 @@
+gem 'uglifier'
+gem 'execjs'
+gem 'therubyracer'
+gem 'therubyrhino'
+gem 'sqlite3'
+gem 'rails'
+gem 'test-unit'
+gem 'ruby-debug19'

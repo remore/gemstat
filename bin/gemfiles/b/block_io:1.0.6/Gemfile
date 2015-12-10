@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'ecdsa'
+gem 'httpclient'
+gem 'json'
+gem 'connection_pool'
+gem 'pbkdf2-ruby'

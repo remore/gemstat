@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec'
+gem 'string_in_file'
+gem 'line_containing'

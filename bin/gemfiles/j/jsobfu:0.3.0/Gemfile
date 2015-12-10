@@ -1,0 +1,6 @@
+gem 'rkelly-remix'
+gem 'rspec'
+gem 'simplecov'
+gem 'execjs'
+gem 'rake'
+gem 'yard'

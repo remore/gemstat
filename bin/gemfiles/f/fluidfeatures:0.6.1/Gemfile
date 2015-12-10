@@ -1,0 +1,8 @@
+gem 'persistent_http'
+gem 'uuid'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-inotify'
+gem 'vcr'
+gem 'fakeweb'

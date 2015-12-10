@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'addressable'
+gem 'faraday'
+gem 'stud'
+gem 'logstash-devutils'

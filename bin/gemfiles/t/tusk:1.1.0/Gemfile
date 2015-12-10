@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'rdoc'
+gem 'pg'
+gem 'hoe'

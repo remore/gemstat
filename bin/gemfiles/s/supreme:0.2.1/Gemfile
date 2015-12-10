@@ -1,0 +1,5 @@
+gem 'nap'
+gem 'rake'
+gem 'rdoc'
+gem 'mocha'
+gem 'fakeweb'

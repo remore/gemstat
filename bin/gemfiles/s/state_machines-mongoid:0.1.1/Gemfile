@@ -1,0 +1,6 @@
+gem 'state_machines-activemodel'
+gem 'mongoid'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'

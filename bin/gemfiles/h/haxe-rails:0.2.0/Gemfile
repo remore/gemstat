@@ -1,0 +1,6 @@
+gem 'haxe-cli-proxy'
+gem 'rails'
+gem 'tilt'
+gem 'rspec'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

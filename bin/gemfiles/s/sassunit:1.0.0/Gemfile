@@ -1,0 +1,5 @@
+gem 'sass'
+gem 'commander'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

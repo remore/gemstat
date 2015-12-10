@@ -1,0 +1,4 @@
+gem 'mixpanel-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

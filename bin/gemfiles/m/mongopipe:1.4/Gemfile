@@ -1,0 +1,2 @@
+gem 'pubnub'
+gem 'mongo'

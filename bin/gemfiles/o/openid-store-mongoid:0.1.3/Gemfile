@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'ruby-openid'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'bundler'
+gem 'jeweler'

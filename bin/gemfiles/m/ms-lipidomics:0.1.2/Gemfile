@@ -1,0 +1,4 @@
+gem 'mspire'
+gem 'rspec'
+gem 'jeweler'
+gem 'rcov'

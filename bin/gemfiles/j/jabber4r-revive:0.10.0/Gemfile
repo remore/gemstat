@@ -1,0 +1,4 @@
+gem 'ox'
+gem 'rspec'
+gem 'webmock'
+gem 'changelogger'

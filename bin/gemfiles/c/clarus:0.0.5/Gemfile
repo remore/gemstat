@@ -1,0 +1,4 @@
+gem 'json'
+gem 'imagesize'
+gem 'rake'
+gem 'minitest'

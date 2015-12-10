@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'interception'
+gem 'pry-stack_explorer'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'capybara'

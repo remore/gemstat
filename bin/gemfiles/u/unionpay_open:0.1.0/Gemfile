@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'i18n'
+gem 'activesupport'
+gem 'faraday'

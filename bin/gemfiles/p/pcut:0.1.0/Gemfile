@@ -1,0 +1,4 @@
+gem 'term-ansicolor'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

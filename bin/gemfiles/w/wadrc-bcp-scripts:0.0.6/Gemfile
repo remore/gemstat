@@ -1,0 +1,4 @@
+gem 'net-ssh'
+gem 'escoffier'
+gem 'rspec'
+gem 'factory_girl'

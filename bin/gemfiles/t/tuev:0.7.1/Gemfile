@@ -1,0 +1,8 @@
+gem 'selenium-client'
+gem 'rake'
+gem 'tuev'
+gem 'bacon'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

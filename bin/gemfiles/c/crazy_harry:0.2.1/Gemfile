@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'simplecov'
+gem 'loofah'
+gem 'nokogiri'
+gem 'html_truncator'

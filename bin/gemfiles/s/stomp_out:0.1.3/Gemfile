@@ -1,0 +1,6 @@
+gem 'json'
+gem 'rake'
+gem 'jeweler'
+gem 'ruby-debug'
+gem 'pry'
+gem 'pry-byebug'

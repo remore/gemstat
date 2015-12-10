@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'therubyracer'
+gem 'execjs'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

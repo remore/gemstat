@@ -1,0 +1,6 @@
+gem 'rubytest'
+gem 'rubytest-cli'
+gem 'rubytest-rake'
+gem 'rubytest-progress'
+gem 'rubytest-outline'
+gem 'rubytest-summary'

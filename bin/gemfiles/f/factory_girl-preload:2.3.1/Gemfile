@@ -1,0 +1,6 @@
+gem 'factory_girl'
+gem 'activerecord'
+gem 'rails'
+gem 'rspec-rails'
+gem 'mysql2'
+gem 'pry-meta'

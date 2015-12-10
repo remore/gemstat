@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'shoulda-context'
+gem 'factory_girl'
+gem 'active_attr'
+gem 'faker'

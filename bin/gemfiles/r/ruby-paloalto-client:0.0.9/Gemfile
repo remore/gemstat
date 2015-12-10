@@ -1,0 +1,8 @@
+gem 'crack'
+gem 'nokogiri'
+gem 'rest-client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'fakeweb'

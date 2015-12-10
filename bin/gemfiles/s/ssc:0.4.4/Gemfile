@@ -1,0 +1,7 @@
+gem 'studio_api'
+gem 'thor'
+gem 'shoulda'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

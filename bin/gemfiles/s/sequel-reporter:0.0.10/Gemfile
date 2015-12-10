@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'rspec'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sequel'
+gem 'rake'
+gem 'sqlite3'

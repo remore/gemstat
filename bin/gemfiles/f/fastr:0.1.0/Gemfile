@@ -1,0 +1,6 @@
+gem 'mime-types'
+gem 'eventmachine'
+gem 'json'
+gem 'haml'
+gem 'shoulda'
+gem 'mocha'

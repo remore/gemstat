@@ -1,0 +1,6 @@
+gem 'money'
+gem 'vacuum'
+gem 'ox'
+gem 'pry'
+gem 'rspec'
+gem 'rake'

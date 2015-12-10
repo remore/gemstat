@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rest-client'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'

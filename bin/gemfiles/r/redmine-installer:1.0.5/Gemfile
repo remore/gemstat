@@ -1,0 +1,8 @@
+gem 'ansi'
+gem 'gli'
+gem 'i18n'
+gem 'notifier'
+gem 'ruby-progressbar'
+gem 'rubyzip'
+gem 'bundler'
+gem 'rake'

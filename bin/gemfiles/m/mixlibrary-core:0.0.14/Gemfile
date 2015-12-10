@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'yard'
+gem 'minitest-reporters'
+gem 'chef'

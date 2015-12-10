@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'arel'
+gem 'rack'
+gem 'minitest'

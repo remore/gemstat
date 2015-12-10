@@ -1,0 +1,5 @@
+gem 'nesty'
+gem 'rspec'
+gem 'fakefs'
+gem 'rake'
+gem 'travis-lint'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rcov'
+gem 'hashie'
+gem 'mongo'
+gem 'bson_ext'

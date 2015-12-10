@@ -1,0 +1,7 @@
+gem 'redcarpet'
+gem 'yard'
+gem 'cassandra-cql'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

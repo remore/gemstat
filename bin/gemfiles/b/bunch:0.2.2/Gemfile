@@ -1,0 +1,8 @@
+gem 'mime-types'
+gem 'yard'
+gem 'rdiscount'
+gem 'shoulda-context'
+gem 'mocha'
+gem 'coffee-script'
+gem 'sass'
+gem 'ejs'

@@ -1,0 +1,5 @@
+gem 'rubyzip'
+gem 'rghost'
+gem 'nokogiri'
+gem 'bacon'
+gem 'eventmachine'

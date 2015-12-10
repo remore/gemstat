@@ -1,0 +1,6 @@
+gem 'ioc'
+gem 'rack'
+gem 'lotus-router'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

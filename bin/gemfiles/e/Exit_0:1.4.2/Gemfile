@@ -1,0 +1,6 @@
+gem 'bacon'
+gem 'Bacon_Colored'
+gem 'pry'
+gem 'posix-spawn'
+gem 'Split_Lines'
+gem 'open4'

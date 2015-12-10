@@ -1,0 +1,8 @@
+gem 'parslet'
+gem 'trollop'
+gem 'rack'
+gem 'cucumber'
+gem 'faraday'
+gem 'nokogiri'
+gem 'rspec'
+gem 'simplecov'

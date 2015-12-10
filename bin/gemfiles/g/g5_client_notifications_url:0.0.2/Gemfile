@@ -1,0 +1,4 @@
+gem 'g5_heroku_app_name_formatter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'sys-proctable'
+gem 'deadlock_retry'
+gem 'spawnling'
+gem 'haml'
+gem 'will_paginate'
+gem 'jquery-rails'

@@ -1,0 +1,5 @@
+gem 'evil-front-all'
+gem 'rails'
+gem 'sass-rails'
+gem 'slim-rails'
+gem 'coffee-rails'

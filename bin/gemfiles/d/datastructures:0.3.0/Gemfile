@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'turn'
+gem 'simplecov'
+gem 'shoulda'
+gem 'coveralls'

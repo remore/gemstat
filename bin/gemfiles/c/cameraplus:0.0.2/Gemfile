@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'vcr'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'
+gem 'spec_coverage'

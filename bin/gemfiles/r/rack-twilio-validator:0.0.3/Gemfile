@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'twilio-ruby'
+gem 'rspec'
+gem 'rack-test'
+gem 'rake'

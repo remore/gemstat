@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'jenkins_api_client'
+gem 'highline'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'

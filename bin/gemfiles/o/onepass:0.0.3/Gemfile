@@ -1,0 +1,5 @@
+gem 'sqlite3'
+gem 'CFPropertyList'
+gem 'bundler'
+gem 'rake'
+gem 'highline'

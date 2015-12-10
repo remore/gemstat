@@ -1,0 +1,5 @@
+gem 'kgio'
+gem 'resque'
+gem 'mono_logger'
+gem 'rspec'
+gem 'rake'

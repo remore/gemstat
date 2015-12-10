@@ -1,0 +1,5 @@
+gem 'require_relative'
+gem 'state_machine'
+gem 'rainbow'
+gem 'ruby_gntp'
+gem 'rspec'

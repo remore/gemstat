@@ -1,0 +1,7 @@
+gem 'rcodetools'
+gem 'deject'
+gem 'mountain_berry_fields'
+gem 'surrogate'
+gem 'rspec'
+gem 'cucumber'
+gem 'rake'

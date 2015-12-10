@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'libxml-ruby'
+gem 'builder'
+gem 'newgem'
+gem 'hoe'

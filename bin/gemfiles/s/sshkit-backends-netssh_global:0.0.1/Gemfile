@@ -1,0 +1,5 @@
+gem 'sshkit'
+gem 'minitest'
+gem 'rake'
+gem 'turn'
+gem 'mocha'

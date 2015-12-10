@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'rspec'
+gem 'webmock'
+gem 'guard-rspec'

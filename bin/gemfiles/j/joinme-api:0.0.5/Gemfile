@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'debugger'
+gem 'rb-fsevent'
+gem 'guard'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'growl'
+gem 'webmock'

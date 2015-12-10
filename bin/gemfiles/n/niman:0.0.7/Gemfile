@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'virtus'
+gem 'fakefs'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-byebug'

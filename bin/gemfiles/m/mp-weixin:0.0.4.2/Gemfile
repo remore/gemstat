@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'multi_json'
+gem 'multi_xml'
+gem 'roxml'
+gem 'nestful'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'

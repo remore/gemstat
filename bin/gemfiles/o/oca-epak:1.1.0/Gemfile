@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'pry-byebug'
+gem 'rake'

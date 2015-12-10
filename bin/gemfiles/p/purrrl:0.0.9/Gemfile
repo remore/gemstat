@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'colorize'
+gem 'rest-client'
+gem 'filesize'
+gem 'json'

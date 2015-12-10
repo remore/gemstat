@@ -1,0 +1,2 @@
+gem 'soap4r'
+gem 'rspec'

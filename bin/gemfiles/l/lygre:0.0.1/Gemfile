@@ -1,0 +1,4 @@
+gem 'treetop'
+gem 'polyglot'
+gem 'rb-music-theory'
+gem 'rspec'

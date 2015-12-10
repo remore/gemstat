@@ -1,0 +1,8 @@
+gem 'cancancan'
+gem 'blacklight'
+gem 'rake'
+gem 'rspec'
+gem 'engine_cart'
+gem 'solr_wrapper'
+gem 'factory_girl_rails'
+gem 'database_cleaner'

@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'savon'
+gem 'signer'
+gem 'rake'
+gem 'minitest'
+gem 'debugger'

@@ -1,0 +1,7 @@
+gem 'patron'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'ym4r'
+gem 'mcll4r'

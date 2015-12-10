@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'database_cleaner'
+gem 'rspec'
+gem 'simplecov'
+gem 'activesupport'
+gem 'abstractize'

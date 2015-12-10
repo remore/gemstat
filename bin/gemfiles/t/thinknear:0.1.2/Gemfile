@@ -1,0 +1,8 @@
+gem 'oauth'
+gem 'json'
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

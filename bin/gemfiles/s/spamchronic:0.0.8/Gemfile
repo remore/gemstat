@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'eventmachine'
+gem 'aws-sdk'
+gem 'mail'
+gem 'rake'
+gem 'rdoc'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'braintree'
+gem 'capybara'
+gem 'sinatra'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'capybara-webkit'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'github_api'
+gem 'alchemy-api'
+gem 'thread'

@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'json'
+gem 'fluentd'
+gem 'fluentd'

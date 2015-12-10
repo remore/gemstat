@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'vcr'
+gem 'fakeweb'
+gem 'pry'
+gem 'awesome_print'
+gem 'activesupport'

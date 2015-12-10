@@ -1,0 +1,5 @@
+gem 'rapidash'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'vcr'

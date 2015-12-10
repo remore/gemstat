@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'cassandra-cql'
+gem 'thrift_client'
+gem 'bundler'

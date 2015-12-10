@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'rspec'
+gem 'autotest'
+gem 'autotest-fsevent'
+gem 'fakeweb'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'wlang'
+gem 'alf'
+gem 'gnuplot'
+gem 'json'

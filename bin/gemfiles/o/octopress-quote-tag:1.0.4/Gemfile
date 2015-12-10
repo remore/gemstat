@@ -1,0 +1,7 @@
+gem 'jekyll'
+gem 'rubypants'
+gem 'bundler'
+gem 'rake'
+gem 'clash'
+gem 'RedCloth'
+gem 'pry-byebug'

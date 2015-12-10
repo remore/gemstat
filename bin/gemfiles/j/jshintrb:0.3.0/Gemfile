@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'submodule'
+gem 'rake'
+gem 'multi_json'
+gem 'execjs'

@@ -1,0 +1,6 @@
+gem 'sqlite3'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

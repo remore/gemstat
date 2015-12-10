@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'faraday_middleware-parse_oj'
+gem 'hashie'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'
+gem 'rb-inotify'

@@ -1,0 +1,5 @@
+gem 'couchbase'
+gem 'activemodel'
+gem 'rake'
+gem 'minitest'
+gem 'activesupport'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'eventmachine'
+gem 'json'
+gem 'thin'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-eventmachine'

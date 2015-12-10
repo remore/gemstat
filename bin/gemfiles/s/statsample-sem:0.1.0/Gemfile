@@ -1,0 +1,5 @@
+gem 'statsample'
+gem 'rserve-client'
+gem 'dirty-memoize'
+gem 'rubyforge'
+gem 'hoe'

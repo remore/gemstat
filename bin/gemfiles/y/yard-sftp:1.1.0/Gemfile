@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'pry'
+gem 'net-sftp'
+gem 'colored'
+gem 'yard'

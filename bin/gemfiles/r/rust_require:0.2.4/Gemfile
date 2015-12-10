@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'

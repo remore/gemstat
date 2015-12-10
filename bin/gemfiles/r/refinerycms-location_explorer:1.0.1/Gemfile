@@ -1,0 +1,6 @@
+gem 'refinerycms-core'
+gem 'refinerycms-page-images'
+gem 'refinerycms-jquery_gallery'
+gem 'refinerycms-formtastic'
+gem 'haml-rails'
+gem 'refinerycms-testing'

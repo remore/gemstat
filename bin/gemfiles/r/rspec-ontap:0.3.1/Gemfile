@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'tapout'
+gem 'mast'
+gem 'indexer'

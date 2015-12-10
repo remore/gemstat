@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'yard'
+gem 'pry'
+gem 'inch'
+gem 'yardstick'

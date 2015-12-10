@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'coffee-script'
+gem 'sprockets'
+gem 'pixie_dust'

@@ -1,0 +1,5 @@
+gem 'omniauth-oauth'
+gem 'evernote-thrift'
+gem 'multi_json'
+gem 'rspec'
+gem 'rake'

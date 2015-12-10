@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'mail'
+gem 'nokogiri'
+gem 'reverse_markdown'
+gem 'rinku'

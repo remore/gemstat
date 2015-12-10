@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'fnord-client'
+gem 'rails'
+gem 'turn'
+gem 'simplecov'
+gem 'pry'

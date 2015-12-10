@@ -1,0 +1,4 @@
+gem 'riot'
+gem 'daemons'
+gem 'trollop'
+gem 'parseconfig'

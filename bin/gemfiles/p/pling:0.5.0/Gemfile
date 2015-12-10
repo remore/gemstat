@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'json'
+gem 'connection_pool'
+gem 'rspec'
+gem 'rspec-its'
+gem 'yard'
+gem 'rake'

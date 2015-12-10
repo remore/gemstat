@@ -1,0 +1,4 @@
+gem 'rspec-rails'
+gem 'rails'
+gem 'i18n'
+gem 'libxml-ruby'

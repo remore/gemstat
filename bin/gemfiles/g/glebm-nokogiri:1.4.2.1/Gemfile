@@ -1,0 +1,6 @@
+gem 'rubyforge'
+gem 'racc'
+gem 'rexical'
+gem 'rake-compiler'
+gem 'minitest'
+gem 'hoe'

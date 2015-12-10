@@ -1,0 +1,5 @@
+gem 'data_mapper'
+gem 'yard'
+gem 'yard-dm'
+gem 'rspec'
+gem 'dm-rspec'

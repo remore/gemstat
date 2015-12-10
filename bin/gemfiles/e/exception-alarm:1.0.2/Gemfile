@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'thread_local_accessor'

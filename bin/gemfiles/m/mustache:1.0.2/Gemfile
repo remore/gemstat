@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'benchmark-ips'
+gem 'ruby-prof'
+gem 'rdoc'
+gem 'ronn'

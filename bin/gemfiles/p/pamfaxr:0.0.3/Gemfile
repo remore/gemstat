@@ -1,0 +1,6 @@
+gem 'mime-types'
+gem 'json'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

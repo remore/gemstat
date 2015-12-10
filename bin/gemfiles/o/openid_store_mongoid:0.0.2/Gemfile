@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'ruby-openid'
+gem 'bson_ext'
+gem 'mongoid'

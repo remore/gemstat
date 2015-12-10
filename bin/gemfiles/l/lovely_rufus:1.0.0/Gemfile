@@ -1,0 +1,8 @@
+gem 'private_attr'
+gem 'bogus'
+gem 'minitest'
+gem 'minitest-focus'
+gem 'rake'
+gem 'reek'
+gem 'rerun'
+gem 'rubocop'

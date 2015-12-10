@@ -1,0 +1,5 @@
+gem 'sidekiq'
+gem 'rspec'
+gem 'rspectacular'
+gem 'fuubar'
+gem 'timecop'

@@ -1,0 +1,5 @@
+gem 'redis'
+gem 'minitest'
+gem 'autotest'
+gem 'turn'
+gem 'daemon_controller'

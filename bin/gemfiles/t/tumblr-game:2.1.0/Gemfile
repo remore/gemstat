@@ -1,0 +1,4 @@
+gem 'faraday'
+gem 'gosu'
+gem 'multipart-post'
+gem 'tumblr_client'

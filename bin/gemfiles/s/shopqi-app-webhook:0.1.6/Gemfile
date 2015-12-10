@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'shopqi-app'
+gem 'delayed_job_active_record'
+gem 'daemons'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'webmock'

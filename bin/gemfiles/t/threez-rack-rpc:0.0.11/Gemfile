@@ -1,0 +1,8 @@
+gem 'builder'
+gem 'rack'
+gem 'rake'
+gem 'json'
+gem 'nokogiri'
+gem 'yard'
+gem 'rspec'
+gem 'rack-test'

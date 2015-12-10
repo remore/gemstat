@@ -1,0 +1,4 @@
+gem 'thoughtbot-shoulda'
+gem 'rest-client'
+gem 'json_pure'
+gem 'human_hash'

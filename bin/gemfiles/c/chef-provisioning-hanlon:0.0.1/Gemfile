@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'chef-provisioning'
+gem 'hanlon-api'
+gem 'rspec'
+gem 'rake'

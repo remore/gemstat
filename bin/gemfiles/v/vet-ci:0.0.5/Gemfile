@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'grit'
+gem 'choice'
+gem 'faye'
+gem 'rake'
+gem 'rspec'

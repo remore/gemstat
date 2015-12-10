@@ -1,0 +1,4 @@
+gem 'colorize'
+gem 'bundler'
+gem 'rspec'
+gem 'pry'

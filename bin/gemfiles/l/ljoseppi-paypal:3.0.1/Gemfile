@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rspec'
+gem 'rcov'
+gem 'nokogiri'
+gem 'bluecloth'
+gem 'yard'
+gem 'fakeweb'

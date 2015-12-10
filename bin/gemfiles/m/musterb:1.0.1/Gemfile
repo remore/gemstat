@@ -1,0 +1,5 @@
+gem 'erubis'
+gem 'hashie'
+gem 'rspec'
+gem 'mustache'
+gem 'actionpack'

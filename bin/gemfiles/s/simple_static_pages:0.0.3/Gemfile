@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'simple_form'
+gem 'responder'
+gem 'haml-rails'
+gem 'sqlite3'

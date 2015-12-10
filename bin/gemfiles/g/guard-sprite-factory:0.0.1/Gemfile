@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'rake'
+gem 'rails'
+gem 'sprite-factory'
+gem 'bundler'

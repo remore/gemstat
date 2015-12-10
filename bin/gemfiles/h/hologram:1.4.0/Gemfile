@@ -1,0 +1,7 @@
+gem 'redcarpet'
+gem 'rouge'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'haml'
+gem 'slim'

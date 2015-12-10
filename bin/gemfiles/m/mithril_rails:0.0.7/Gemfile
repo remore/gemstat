@@ -1,0 +1,4 @@
+gem 'execjs'
+gem 'rails'
+gem 'tilt'
+gem 'sqlite3'

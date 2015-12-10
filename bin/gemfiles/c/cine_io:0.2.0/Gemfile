@@ -1,0 +1,6 @@
+gem 'queryparams'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

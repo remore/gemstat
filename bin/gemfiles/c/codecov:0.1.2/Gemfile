@@ -1,0 +1,5 @@
+gem 'url'
+gem 'json'
+gem 'simplecov'
+gem 'mocha'
+gem 'rake'

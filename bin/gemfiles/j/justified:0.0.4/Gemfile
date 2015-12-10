@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'pry'
+gem 'yard'
+gem 'redcarpet'
+gem 'github-markup'

@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'twitter_cldr'
+gem 'fast_gettext'
+gem 'rspec'

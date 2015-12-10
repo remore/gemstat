@@ -1,0 +1,4 @@
+gem 'omniauth'
+gem 'iauth'
+gem 'rake'
+gem 'pry'

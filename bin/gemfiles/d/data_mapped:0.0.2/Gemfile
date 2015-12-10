@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'data_mapper'
+gem 'activesupport'
+gem 'sunspot'
+gem 'sunspot_rails'
+gem 'sunspot_solr'

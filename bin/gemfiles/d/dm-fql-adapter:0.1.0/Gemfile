@@ -1,0 +1,4 @@
+gem 'dm-core'
+gem 'sqldsl'
+gem 'mini_fb'
+gem 'rspec'

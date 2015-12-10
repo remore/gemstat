@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'httparty'
+gem 'hash-to-ostruct'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

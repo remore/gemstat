@@ -1,0 +1,8 @@
+gem 'ruby-keychain'
+gem 'mercenary'
+gem 'linode-api'
+gem 'rubocop'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'fuubar'

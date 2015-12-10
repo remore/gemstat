@@ -1,0 +1,7 @@
+gem 'pact'
+gem 'httparty'
+gem 'json'
+gem 'rake'
+gem 'pry'
+gem 'fakefs'
+gem 'rspec-fire'

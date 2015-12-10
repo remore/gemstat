@@ -1,0 +1,4 @@
+gem 'paperclip'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

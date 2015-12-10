@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'badgerfish'
+gem 'slowweb'
+gem 'moneta'
+gem 'minitest'
+gem 'load_path'

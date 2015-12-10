@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

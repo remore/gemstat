@@ -1,0 +1,2 @@
+gem 'capistrano'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'yajl-ruby'
+gem 'rake'
+gem 'minitest'
+gem 'fakeweb'

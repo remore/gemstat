@@ -1,0 +1,5 @@
+gem 'taglib-ruby'
+gem 'trollop'
+gem 'mime-types'
+gem 'rdoc'
+gem 'hoe'

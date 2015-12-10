@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'timecop'
+gem 'fakefs'
+gem 'fog'
+gem 'term-ansicolor'

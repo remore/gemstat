@@ -1,0 +1,4 @@
+gem 'escape'
+gem 'rmagick'
+gem 'tempdir'
+gem 'redgreen'

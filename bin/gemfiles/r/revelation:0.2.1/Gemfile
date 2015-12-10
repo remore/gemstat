@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'configurator2'
+gem 'haml'
+gem 'rack'
+gem 'tilt'
+gem 'thor'
+gem 'shotgun'
+gem 'thin'

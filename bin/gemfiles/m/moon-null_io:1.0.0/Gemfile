@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'simplecov'

@@ -1,0 +1,7 @@
+gem 'dm-core'
+gem 'carrierwave'
+gem 'rake'
+gem 'rspec'
+gem 'dm-validations'
+gem 'dm-migrations'
+gem 'dm-sqlite-adapter'

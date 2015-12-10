@@ -1,0 +1,4 @@
+gem 'tmm1-amqp'
+gem 'trollop'
+gem 'eventmachine'
+gem 'visfleet-default_logging'

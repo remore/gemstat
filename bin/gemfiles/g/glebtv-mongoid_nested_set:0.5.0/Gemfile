@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'simplecov'
+gem 'simplecov-rcov'
+gem 'mongoid-rspec'
+gem 'rspec-expectations'

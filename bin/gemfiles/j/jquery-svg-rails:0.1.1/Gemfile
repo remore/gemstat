@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'jquery-rails'
+gem 'bundler'
+gem 'rake'

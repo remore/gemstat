@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'activerecord'
+gem 'active_support'
+gem 'factory_girl'

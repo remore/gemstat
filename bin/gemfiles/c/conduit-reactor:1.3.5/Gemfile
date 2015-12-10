@@ -1,0 +1,7 @@
+gem 'conduit'
+gem 'multi_json'
+gem 'pry-rails'
+gem 'shoulda-matchers'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'rdoc'
+gem 'rouge'
+gem 'bundler'
+gem 'nokogiri'
+gem 'rake'

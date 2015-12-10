@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'cancan'
+gem 'devise'
+gem 'grocer'
+gem 'gcm'
+gem 'sqlite3'

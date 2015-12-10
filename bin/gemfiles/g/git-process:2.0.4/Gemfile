@@ -1,0 +1,4 @@
+gem 'git-sync'
+gem 'git-new-fb'
+gem 'git-to-master'
+gem 'git-pull-req'

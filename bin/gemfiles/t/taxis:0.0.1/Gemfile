@@ -1,0 +1,2 @@
+gem 'nested_set'
+gem 'stringex'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'ox'
+gem 'nokogiri'
+gem 'rest-client'
+gem 'oj'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'encrypted_strings'
+gem 'bson_ext'
+gem 'database_cleaner'
+gem 'rake'
+gem 'rspec'

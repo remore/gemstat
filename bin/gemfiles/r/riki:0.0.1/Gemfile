@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'libxml-ruby'
+gem 'activesupport'
+gem 'rack'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,7 @@
+gem 'facets'
+gem 'utilrb'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'rdoc'
+gem 'webgen'
+gem 'hoe'

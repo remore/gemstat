@@ -1,0 +1,6 @@
+gem 'gelf'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rr'
+gem 'timecop'
+gem 'rake'

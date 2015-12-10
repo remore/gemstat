@@ -1,0 +1,6 @@
+gem 'id'
+gem 'optional'
+gem 'mongo'
+gem 'bson_ext'
+gem 'rspec'
+gem 'simplecov'

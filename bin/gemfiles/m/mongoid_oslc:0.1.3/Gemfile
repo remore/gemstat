@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'treetop'
+gem 'oslc'
+gem 'rake'
+gem 'rspec'

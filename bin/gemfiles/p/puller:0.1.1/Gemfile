@@ -1,0 +1,4 @@
+gem 'pusher'
+gem 'rake'
+gem 'rspec'
+gem 'jasmine'

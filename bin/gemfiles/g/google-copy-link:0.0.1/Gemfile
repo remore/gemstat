@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'json'
+gem 'htmlentities'
+gem 'formatador'
+gem 'clipboard'
+gem 'rspec'
+gem 'guard-rspec'

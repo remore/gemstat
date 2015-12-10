@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'sax-machine'
+gem 'curb'
+gem 'builder'
+gem 'activesupport'
+gem 'loofah'

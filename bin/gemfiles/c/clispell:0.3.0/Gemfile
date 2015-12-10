@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'dmarkow-raspell'
+gem 'mattscilipoti-rdialog'
+gem 'oald_parser'
+gem 'clipboard'

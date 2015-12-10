@@ -1,0 +1,2 @@
+gem 'mimetype-fu'
+gem 'carrierwave'

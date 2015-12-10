@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'chronic'
+gem 'bundler'
+gem 'yard'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

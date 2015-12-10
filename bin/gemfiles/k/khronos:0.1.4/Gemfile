@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'activerecord'
+gem 'json'
+gem 'rest-client'
+gem 'girl_friday'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'activesupport'

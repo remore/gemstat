@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'leveldb'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'scope'
+gem 'rr'
+gem 'yard'
+gem 'redcarpet'

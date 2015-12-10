@@ -1,0 +1,8 @@
+gem 'treetop'
+gem 'transparent_proxy'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'turn'
+gem 'simplecov'
+gem 'pry-nav'

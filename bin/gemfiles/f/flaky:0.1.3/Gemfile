@@ -1,0 +1,4 @@
+gem 'chronic_duration'
+gem 'posix-spawn'
+gem 'toml'
+gem 'rake'

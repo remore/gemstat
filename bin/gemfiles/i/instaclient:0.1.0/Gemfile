@@ -1,0 +1,5 @@
+gem 'typhoeus'
+gem 'rspec'
+gem 'pry'
+gem 'pry-nav'
+gem 'webmock'

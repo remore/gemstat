@@ -1,0 +1,5 @@
+gem 'soundcloud'
+gem 'logbert'
+gem 'bundler'
+gem 'bump'
+gem 'pry'

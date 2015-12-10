@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'pauldix-sax-machine'
+gem 'taf2-curb'
+gem 'activesupport'

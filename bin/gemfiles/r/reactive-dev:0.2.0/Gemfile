@@ -1,0 +1,4 @@
+gem 'reactive-core'
+gem 'rubigen'
+gem 'rubyforge'
+gem 'rake'

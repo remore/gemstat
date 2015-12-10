@@ -1,0 +1,4 @@
+gem 'mysql2'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'activerecord'

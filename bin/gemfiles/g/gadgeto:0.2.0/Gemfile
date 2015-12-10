@@ -1,0 +1,5 @@
+gem 'jeweler'
+gem 'rake'
+gem 'rdoc'
+gem 'simplecov'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'nokogiri'
+gem 'builder'
+gem 'bundler'
+gem 'rake'
+gem 'webmock'

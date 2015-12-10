@@ -1,0 +1,4 @@
+gem 'thoughtbot-shoulda'
+gem 'mechanize'
+gem 'term-ansicolor'
+gem 'launchy'

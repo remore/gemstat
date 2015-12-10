@@ -1,0 +1,6 @@
+gem 'turn'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'growl'
+gem 'fuubar'
+gem 'yard'

@@ -1,0 +1,8 @@
+gem 'resque'
+gem 'resque-meta'
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'bourne'
+gem 'pry'

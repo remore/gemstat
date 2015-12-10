@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'net-ssh'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'coveralls'
+gem 'byebug'

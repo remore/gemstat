@@ -1,0 +1,4 @@
+gem 'hike'
+gem 'json'
+gem 'bundler'
+gem 'rake'

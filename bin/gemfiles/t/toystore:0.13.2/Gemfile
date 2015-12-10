@@ -1,0 +1,4 @@
+gem 'adapter'
+gem 'activemodel'
+gem 'activesupport'
+gem 'simple_uuid'

@@ -1,0 +1,6 @@
+gem 'bitters'
+gem 'bundler'
+gem 'rails'
+gem 'nokogiri'
+gem 'rspec'
+gem 'pry-byebug'

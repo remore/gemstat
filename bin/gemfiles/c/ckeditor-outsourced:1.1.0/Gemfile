@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'ckeditor'
+gem 'mini_magick'
+gem 'sqlite3'

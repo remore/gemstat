@@ -1,0 +1,5 @@
+gem 'aws-sdk'
+gem 'rest-client'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'byebug'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-sse'
+gem 'msgpack'
+gem 'cod'
+gem 'thin'
+gem 'rake'

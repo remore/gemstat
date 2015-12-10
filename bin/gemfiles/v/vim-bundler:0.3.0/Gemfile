@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'thor'
+gem 'awesome_print'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

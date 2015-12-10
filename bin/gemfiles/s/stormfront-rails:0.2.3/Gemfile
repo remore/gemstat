@@ -1,0 +1,5 @@
+gem 'simple-jquery-rails'
+gem 'simple-backbone-rails'
+gem 'simple-momentjs-rails'
+gem 'bundler'
+gem 'rake'

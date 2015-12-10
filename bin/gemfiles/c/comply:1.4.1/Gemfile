@@ -1,0 +1,7 @@
+gem 'coffee-rails'
+gem 'bartt-ssl_requirement'
+gem 'rails'
+gem 'strong_parameters'
+gem 'pry-nav'
+gem 'rspec-rails'
+gem 'sqlite3'

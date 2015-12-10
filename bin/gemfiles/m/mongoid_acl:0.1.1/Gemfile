@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rake'

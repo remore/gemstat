@@ -1,0 +1,4 @@
+gem 'yajl-ruby'
+gem 'money'
+gem 'minitest'
+gem 'rr'

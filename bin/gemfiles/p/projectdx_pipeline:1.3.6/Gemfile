@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'capistrano-ext'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

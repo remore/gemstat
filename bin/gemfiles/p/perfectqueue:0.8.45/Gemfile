@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'mysql2'

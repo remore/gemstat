@@ -1,0 +1,6 @@
+gem 'json'
+gem 'transmission-client'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

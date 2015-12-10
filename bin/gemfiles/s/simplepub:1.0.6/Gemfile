@@ -1,0 +1,8 @@
+gem 'faye'
+gem 'thor'
+gem 'hashie'
+gem 'thin'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'jasmine'

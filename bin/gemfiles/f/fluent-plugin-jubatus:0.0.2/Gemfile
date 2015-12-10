@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'jubatus'
+gem 'simplecov'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

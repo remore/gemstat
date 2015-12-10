@@ -1,0 +1,7 @@
+gem 'celluloid'
+gem 'mechanize'
+gem 'racc'
+gem 'multi_json'
+gem 'mime-types'
+gem 'slop'
+gem 'table_print'

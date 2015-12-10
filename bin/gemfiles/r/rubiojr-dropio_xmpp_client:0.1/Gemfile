@@ -1,0 +1,4 @@
+gem 'dropio'
+gem 'xmpp4r'
+gem 'term-ansicolor'
+gem 'hoe'

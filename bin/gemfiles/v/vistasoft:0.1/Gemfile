@@ -1,0 +1,7 @@
+gem 'savon'
+gem 'active_support'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-inotify'
+gem 'simplecov'
+gem 'coveralls'

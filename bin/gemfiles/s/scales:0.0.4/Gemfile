@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'scales-core'
+gem 'scales-server'
+gem 'scales-worker'
+gem 'scales-monitor'

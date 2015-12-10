@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry-byebug'
+gem 'binding_of_caller'
+gem 'gir_ffi-gtk'
+gem 'activesupport'

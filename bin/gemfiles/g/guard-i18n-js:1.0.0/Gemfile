@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'i18n-js'
+gem 'rspec'
+gem 'guard-rspec'

@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'sinatra'
+gem 'multipart-post'
+gem 'webmock'
+gem 'shoulda'

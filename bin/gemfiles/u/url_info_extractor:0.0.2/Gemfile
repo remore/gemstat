@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'rb-fsevent'
+gem 'growl'
+gem 'nokogiri'
+gem 'activesupport'

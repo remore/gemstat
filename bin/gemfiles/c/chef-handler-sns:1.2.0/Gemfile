@@ -1,0 +1,8 @@
+gem 'aws-sdk'
+gem 'erubis'
+gem 'chef'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'coveralls'
+gem 'simplecov'

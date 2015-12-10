@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'memoist'
+gem 'erubis'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

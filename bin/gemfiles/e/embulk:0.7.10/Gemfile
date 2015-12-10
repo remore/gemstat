@@ -1,0 +1,5 @@
+gem 'jruby-jars'
+gem 'rake'
+gem 'test-unit'
+gem 'yard'
+gem 'kramdown'

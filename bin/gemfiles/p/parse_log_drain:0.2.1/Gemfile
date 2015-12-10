@@ -1,0 +1,8 @@
+gem 'awesome_print'
+gem 'ruby-progressbar'
+gem 'daemons'
+gem 'yard'
+gem 'rdoc'
+gem 'jeweler'
+gem 'byebug'
+gem 'github_changelog_generator'

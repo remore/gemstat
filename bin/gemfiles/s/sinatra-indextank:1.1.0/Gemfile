@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'indextank'
+gem 'rspec'
+gem 'rack-test'

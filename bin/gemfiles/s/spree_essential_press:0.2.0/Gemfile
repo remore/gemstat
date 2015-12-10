@@ -1,0 +1,5 @@
+gem 'spree_core'
+gem 'dummier'
+gem 'shoulda'
+gem 'factory_girl'
+gem 'sqlite3'

@@ -1,0 +1,6 @@
+gem 'constructable'
+gem 'activesupport'
+gem 'jeweler'
+gem 'awesome_print'
+gem 'simplecov'
+gem 'rake'

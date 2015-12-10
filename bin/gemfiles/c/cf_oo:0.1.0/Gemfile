@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'rspec'
+gem 'rake'
+gem 'fog'
+gem 'json'

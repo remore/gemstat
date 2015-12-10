@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'mime-types'
+gem 'json'
+gem 'rspec'
+gem 'webmock'

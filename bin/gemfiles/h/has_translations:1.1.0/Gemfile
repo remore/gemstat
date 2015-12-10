@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'appraisal'
+gem 'rake'
+gem 'test-unit'

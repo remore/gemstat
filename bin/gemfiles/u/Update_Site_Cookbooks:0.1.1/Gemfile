@@ -1,0 +1,6 @@
+gem 'bacon'
+gem 'rake'
+gem 'Bacon_Colored'
+gem 'pry'
+gem 'Exit_0'
+gem 'chef'

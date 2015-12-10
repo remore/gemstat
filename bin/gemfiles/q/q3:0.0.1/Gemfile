@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'builder'
+gem 'redis'
+gem 'redis-namespace'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

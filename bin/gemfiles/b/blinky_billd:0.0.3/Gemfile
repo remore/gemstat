@@ -1,0 +1,4 @@
+gem 'blinky'
+gem 'billd'
+gem 'rake'
+gem 'rspec'

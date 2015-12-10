@@ -1,0 +1,8 @@
+gem 'json'
+gem 'i18n'
+gem 'phraseapp-ruby'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'timecop'
+gem 'rails'

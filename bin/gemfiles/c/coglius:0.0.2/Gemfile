@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'rainbow'
+gem 'clean_test'
+gem 'aruba'
+gem 'sdoc'
+gem 'faker'

@@ -1,0 +1,8 @@
+gem 'escort'
+gem 'tracker_api'
+gem 'contracts'
+gem 'moby'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

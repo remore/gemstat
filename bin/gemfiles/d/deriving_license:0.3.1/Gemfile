@@ -1,0 +1,4 @@
+gem 'gemnasium-parser'
+gem 'safe_yaml'
+gem 'curb'
+gem 'coveralls'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'yard'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'activesupport'

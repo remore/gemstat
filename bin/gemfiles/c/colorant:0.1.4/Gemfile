@@ -1,0 +1,7 @@
+gem 'color_namer'
+gem 'trollop'
+gem 'bundler'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'simplecov'

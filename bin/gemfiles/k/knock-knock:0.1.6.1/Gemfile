@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'newgem'
+gem 'xml-object'
+gem 'hoe'

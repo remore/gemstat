@@ -1,0 +1,7 @@
+gem 'guard'
+gem 'open4'
+gem 'xcodebuild-rb'
+gem 'colored'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'ruby-trello'
+gem 'github_api'
+gem 'activesupport'
+gem 'clive'

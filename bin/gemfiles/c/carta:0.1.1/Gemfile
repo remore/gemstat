@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'uuid'
+gem 'rubyzip'
+gem 'mime-types'
+gem 'thor'
+gem 'redcarpet'

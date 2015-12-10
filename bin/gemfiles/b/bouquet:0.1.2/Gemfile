@@ -1,0 +1,5 @@
+gem 'bouquet_core'
+gem 'bouquet_gate'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

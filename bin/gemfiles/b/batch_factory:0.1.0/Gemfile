@@ -1,0 +1,4 @@
+gem 'roo'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-its'

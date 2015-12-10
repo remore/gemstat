@@ -1,0 +1,5 @@
+gem 'aws-ses'
+gem 'aws-sdk'
+gem 'rspec'
+gem 'cane'
+gem 'fake_sqs'

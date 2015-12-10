@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rdoc'
+gem 'ffi-geos'
+gem 'test-unit'

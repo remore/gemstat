@@ -1,0 +1,6 @@
+gem 'activeresource'
+gem 'builder'
+gem 'activesupport'
+gem 'shoulda'
+gem 'mocha'
+gem 'fakeweb'

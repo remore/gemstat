@@ -1,0 +1,6 @@
+gem 'hugo'
+gem 'builder'
+gem 'i18n'
+gem 'activesupport'
+gem 'activeresource'
+gem 'zerigo_dns'

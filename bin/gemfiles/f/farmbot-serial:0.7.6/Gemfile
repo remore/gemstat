@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'simplecov'
+gem 'ruby-prof'
+gem 'eventmachine'
+gem 'serialport'

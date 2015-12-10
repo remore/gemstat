@@ -1,0 +1,5 @@
+gem 'docker-api'
+gem 'vx-common-spawn'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

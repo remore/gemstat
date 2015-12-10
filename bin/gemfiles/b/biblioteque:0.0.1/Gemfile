@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'minitest'
+gem 'mocha'
+gem 'redcarpet'

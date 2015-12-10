@@ -1,0 +1,5 @@
+gem 'net-ssh'
+gem 'net-scp'
+gem 'sinatra'
+gem 'bundler'
+gem 'rake'

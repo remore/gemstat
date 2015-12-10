@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'ruby-debug19'
+gem 'rspec-rails'
+gem 'generator_spec'

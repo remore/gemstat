@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bcrypt-ruby'
+gem 'bravo_model'
+gem 'inherited_resources'
+gem 'simple_form'
+gem 'sqlite3'

@@ -1,0 +1,6 @@
+gem 'rbvmomi'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'thor'
+gem 'pry'
+gem 'rspec'

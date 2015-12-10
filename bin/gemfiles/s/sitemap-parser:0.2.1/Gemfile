@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'rake'
+gem 'shoulda'
+gem 'bundler'
+gem 'minitest'

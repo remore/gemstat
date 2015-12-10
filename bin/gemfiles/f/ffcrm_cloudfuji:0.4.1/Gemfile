@@ -1,0 +1,5 @@
+gem 'rspec-rails'
+gem 'capybara'
+gem 'combustion'
+gem 'cloudfuji'
+gem 'authlogic_cloudfuji'

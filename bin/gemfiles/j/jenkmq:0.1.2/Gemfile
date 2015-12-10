@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'iron_mq'
+gem 'json'
+gem 'rest-client'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'netrc'
+gem 'rest-client'
+gem 'json'
+gem 'launchy'
+gem 'blockspring'

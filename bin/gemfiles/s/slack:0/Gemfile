@@ -1,0 +1,4 @@
+gem 'speck'
+gem 'spark'
+gem 'yard'
+gem 'maruku'

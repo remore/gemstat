@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'aspector'
+gem 'poseidon'
+gem 'connection_pool'
+gem 'null-logger'

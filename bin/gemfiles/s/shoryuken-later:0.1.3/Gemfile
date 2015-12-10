@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'timers'
+gem 'shoryuken'

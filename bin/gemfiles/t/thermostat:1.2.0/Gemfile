@@ -1,0 +1,4 @@
+gem 'temperature'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

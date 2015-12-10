@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'webmock'
+gem 'oj'
+gem 'httparty'
+gem 'american_date'

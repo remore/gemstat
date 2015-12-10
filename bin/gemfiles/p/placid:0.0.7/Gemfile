@@ -1,0 +1,8 @@
+gem 'hashie'
+gem 'json'
+gem 'rest-client'
+gem 'activesupport'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'rcov'

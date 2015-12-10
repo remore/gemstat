@@ -1,0 +1,4 @@
+gem 'rake-compiler'
+gem 'mocha'
+gem 'yard'
+gem 'shoulda'

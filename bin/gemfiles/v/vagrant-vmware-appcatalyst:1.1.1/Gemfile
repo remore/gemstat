@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'log4r'
+gem 'httpclient'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'bundler'
+gem 'rake'

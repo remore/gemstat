@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'rest_client'
+gem 'i18n'
+gem 'minitar'

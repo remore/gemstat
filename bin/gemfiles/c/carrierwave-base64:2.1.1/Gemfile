@@ -1,0 +1,8 @@
+gem 'carrierwave'
+gem 'rails'
+gem 'sqlite3'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sham_rack'
+gem 'pry'

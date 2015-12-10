@@ -1,0 +1,6 @@
+gem 'json_pure'
+gem 'execjs'
+gem 'semver'
+gem 'git'
+gem 'coffee-script-source'
+gem 'uglifier'

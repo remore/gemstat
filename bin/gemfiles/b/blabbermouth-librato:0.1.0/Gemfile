@@ -1,0 +1,4 @@
+gem 'blabbermouth'
+gem 'librato-metrics'
+gem 'rake'
+gem 'rspec'

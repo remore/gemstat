@@ -1,0 +1,4 @@
+gem 'launchy'
+gem 'gtk2'
+gem 'sys-filesystem'
+gem 'mime-types'

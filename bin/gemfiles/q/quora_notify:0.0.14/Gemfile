@@ -1,0 +1,5 @@
+gem 'terminal-notifier'
+gem 'json'
+gem 'sqlite3'
+gem 'htmlentities'
+gem 'mocha'

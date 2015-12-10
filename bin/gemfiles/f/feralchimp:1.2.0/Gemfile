@@ -1,0 +1,6 @@
+gem 'json'
+gem 'faraday'
+gem 'luna-rspec-formatters'
+gem 'envygeeks-coveralls'
+gem 'webmock'
+gem 'rspec'

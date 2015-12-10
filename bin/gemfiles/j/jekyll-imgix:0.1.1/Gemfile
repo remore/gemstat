@@ -1,0 +1,5 @@
+gem 'imgix'
+gem 'liquid'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

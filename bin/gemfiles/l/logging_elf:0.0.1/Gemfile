@@ -1,0 +1,7 @@
+gem 'logging'
+gem 'virtus'
+gem 'activemodel'
+gem 'gelf'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

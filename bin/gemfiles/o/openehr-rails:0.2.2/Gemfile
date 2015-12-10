@@ -1,0 +1,8 @@
+gem 'openehr'
+gem 'rails'
+gem 'ckm_client'
+gem 'rake'
+gem 'ammeter'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'simplecov'

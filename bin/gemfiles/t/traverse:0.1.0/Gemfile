@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'nokogiri'
+gem 'active_support'
+gem 'i18n'
+gem 'yajl-ruby'

@@ -1,0 +1,8 @@
+gem 'bio'
+gem 'mysql2'
+gem 'shoulda'
+gem 'rake'
+gem 'rdoc'
+gem 'test-unit'
+gem 'jeweler'
+gem 'bundler'

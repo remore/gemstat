@@ -1,0 +1,6 @@
+gem 'much-plugin'
+gem 'ns-options'
+gem 'rack'
+gem 'sinatra'
+gem 'assert'
+gem 'assert-rack-test'

@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'aws-sdk-core'
+gem 'bundler'
+gem 'rake'
+gem 'puma'

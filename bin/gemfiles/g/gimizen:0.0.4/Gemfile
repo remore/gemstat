@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'json'
+gem 'hash_symbolizer'
+gem 'rspec'
+gem 'capybara'
+gem 'vcr'
+gem 'webmock'
+gem 'simplecov'

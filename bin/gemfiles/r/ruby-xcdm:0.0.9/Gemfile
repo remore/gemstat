@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'activesupport'
+gem 'plist'
+gem 'bundler'
+gem 'rake'
+gem 'turn'

@@ -1,0 +1,6 @@
+gem 'json'
+gem 'sinatra'
+gem 'activesupport'
+gem 'rspec'
+gem 'rack-test'
+gem 'yard'

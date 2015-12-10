@@ -1,0 +1,7 @@
+gem 'binding_of_caller'
+gem 'byebug'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

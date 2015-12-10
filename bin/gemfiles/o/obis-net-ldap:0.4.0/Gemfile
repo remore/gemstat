@@ -1,0 +1,6 @@
+gem 'hoe-git'
+gem 'hoe-gemspec'
+gem 'metaid'
+gem 'flexmock'
+gem 'rspec'
+gem 'hoe'

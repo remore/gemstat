@@ -1,0 +1,5 @@
+gem 'saorin'
+gem 'reel'
+gem 'rake'
+gem 'rspec'
+gem 'faraday'

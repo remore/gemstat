@@ -1,0 +1,5 @@
+gem 'sanitize'
+gem 'faraday-stack'
+gem 'json'
+gem 'webmock'
+gem 'mocha'

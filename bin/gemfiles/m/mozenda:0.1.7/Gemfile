@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'activesupport'
+gem 'faraday'
+gem 'nori'
+gem 'nokogiri'
+gem 'rake'

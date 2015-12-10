@@ -1,0 +1,7 @@
+gem 'rdiscount'
+gem 'moped'
+gem 'mongoid'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

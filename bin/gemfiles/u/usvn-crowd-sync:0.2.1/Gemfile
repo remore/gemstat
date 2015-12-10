@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'data_mapper'
+gem 'dm-mysql-adapter'
+gem 'rspec'

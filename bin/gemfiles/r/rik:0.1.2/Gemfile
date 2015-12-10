@@ -1,0 +1,5 @@
+gem 'json'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

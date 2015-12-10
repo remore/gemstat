@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'bcrypt-ruby'
+gem 'jquery-rails'
+gem 'backbone-on-rails'
+gem 'bootstrap-sass'
+gem 'sass-rails'
+gem 'bourbon'
+gem 'neat'

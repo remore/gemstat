@@ -1,0 +1,4 @@
+gem 'cucumber'
+gem 'jscruggs-metric_fu'
+gem 'mislav-hanna'
+gem 'rspec'

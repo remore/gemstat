@@ -1,0 +1,6 @@
+gem 'logstash'
+gem 'logstash-codec-plain'
+gem 'stud'
+gem 'rest-client'
+gem 'json'
+gem 'logstash-devutils'

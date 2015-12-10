@@ -1,0 +1,4 @@
+gem 'micro-optparse'
+gem 'plist'
+gem 'kramdown'
+gem 'rspec'

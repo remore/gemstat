@@ -1,0 +1,4 @@
+gem 'activeresource'
+gem 'encryptor'
+gem 'bundler'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'generative'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'newrelic_rpm'
+gem 'simplecov'
+gem 'mini_shoulda'
+gem 'ruby-prof'
+gem 'debugger'
+gem 'riak-client'

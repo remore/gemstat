@@ -1,0 +1,4 @@
+gem 'listen'
+gem 'main'
+gem 'plist'
+gem 'rainbow'

@@ -1,0 +1,7 @@
+gem 'proxies'
+gem 'net-ssh'
+gem 'rake'
+gem 'json'
+gem 'test-unit'
+gem 'mocha'
+gem 'bundler'

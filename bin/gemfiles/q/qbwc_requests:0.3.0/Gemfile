@@ -1,0 +1,6 @@
+gem 'qbxml'
+gem 'activemodel'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'codeclimate-test-reporter'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'oauth'
+gem 'json'
+gem 'i18n'
+gem 'rake'
+gem 'test-unit'
+gem 'fakeweb'

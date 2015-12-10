@@ -1,0 +1,5 @@
+gem 'metacrunch'
+gem 'htmlentities'
+gem 'nokogiri'
+gem 'ox'
+gem 'self_enumerable'

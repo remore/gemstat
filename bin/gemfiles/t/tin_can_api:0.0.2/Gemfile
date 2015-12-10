@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'webmock'
+gem 'faraday'
+gem 'addressable'
+gem 'ruby-duration'

@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'sqlite3'
+gem 'sequel'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'colorize'
+gem 'yard'

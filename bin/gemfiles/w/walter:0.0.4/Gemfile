@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'rdiscount'
+gem 'yaml'
+gem 'erb'

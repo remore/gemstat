@@ -1,0 +1,6 @@
+gem 'mocha'
+gem 'shoulda-context'
+gem 'fakeweb'
+gem 'rake'
+gem 'json'
+gem 'nokogiri'

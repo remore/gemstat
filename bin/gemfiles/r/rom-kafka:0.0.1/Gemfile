@@ -1,0 +1,6 @@
+gem 'rom'
+gem 'poseidon'
+gem 'attributes_dsl'
+gem 'hexx-rspec'
+gem 'inflecto'
+gem 'timecop'

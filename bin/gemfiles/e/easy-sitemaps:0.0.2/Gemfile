@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'roxml'
+gem 'action_view'
+gem 'action_controller'

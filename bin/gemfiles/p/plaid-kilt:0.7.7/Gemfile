@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'yard'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

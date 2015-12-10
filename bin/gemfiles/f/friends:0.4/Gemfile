@@ -1,0 +1,7 @@
+gem 'gli'
+gem 'memoist'
+gem 'paint'
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'minitest'
+gem 'rake'

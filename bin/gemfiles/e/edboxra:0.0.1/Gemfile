@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'json'
+gem 'webmock'
+gem 'minitest'
+gem 'ZenTest'
+gem 'autotest-growl'
+gem 'autotest-fsevent'

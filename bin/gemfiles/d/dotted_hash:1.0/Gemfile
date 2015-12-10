@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'turn'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'

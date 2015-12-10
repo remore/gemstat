@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'phare'
+gem 'rubocop'
+gem 'rake'
+gem 'rspec'
+gem 'highline'

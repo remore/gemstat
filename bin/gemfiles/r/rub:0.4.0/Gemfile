@@ -1,0 +1,4 @@
+gem 'sysexits'
+gem 'xdg'
+gem 'valid_array'
+gem 'minitest'

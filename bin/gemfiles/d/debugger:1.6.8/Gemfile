@@ -1,0 +1,7 @@
+gem 'columnize'
+gem 'debugger-ruby_core_source'
+gem 'debugger-linecache'
+gem 'rake'
+gem 'rake-compiler'
+gem 'minitest'
+gem 'mocha'

@@ -1,0 +1,6 @@
+gem 'forwarding_dsl'
+gem 'json-schema'
+gem 'mini_object'
+gem 'addressable'
+gem 'bundler'
+gem 'rake'

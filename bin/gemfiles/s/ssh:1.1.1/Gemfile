@@ -1,0 +1,4 @@
+gem 'open4'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

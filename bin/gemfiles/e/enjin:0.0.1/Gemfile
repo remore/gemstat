@@ -1,0 +1,5 @@
+gem 'nats'
+gem 'em-http-request'
+gem 'goliath'
+gem 'bcrypt-ruby'
+gem 'ruby-hmac'

@@ -1,0 +1,7 @@
+gem 'trimmy'
+gem 'rainbow'
+gem 'rake'
+gem 'tomdoc'
+gem 'rspec'
+gem 'aruba'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'tilt'
+gem 'bundler'
+gem 'rake'

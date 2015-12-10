@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'sinatra'
+gem 'thin'
+gem 'yajl-ruby'
+gem 'aws-sdk'

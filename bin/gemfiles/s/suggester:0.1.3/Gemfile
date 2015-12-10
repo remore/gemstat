@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'json'
+gem 'vegas'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

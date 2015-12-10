@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'ox'
+gem 'pry'
+gem 'rspec'

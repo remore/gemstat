@@ -1,0 +1,5 @@
+gem 'hpricot'
+gem 'cucumber'
+gem 'mocha'
+gem 'shoulda'
+gem 'reek'

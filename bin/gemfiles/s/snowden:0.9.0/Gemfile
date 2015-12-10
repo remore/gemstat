@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'hiredis'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'redis'
+gem 'rspec'
+gem 'autotest'
+gem 'sqlite3'
+gem 'fakeredis'

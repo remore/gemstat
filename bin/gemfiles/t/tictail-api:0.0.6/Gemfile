@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'typhoeus'
+gem 'faraday_middleware'
+gem 'oj'

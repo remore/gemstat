@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'mongoid-rspec'
+gem 'database_cleaner'
+gem 'redcarpet'
+gem 'json'

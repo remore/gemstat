@@ -1,0 +1,7 @@
+gem 'factory_girl'
+gem 'json'
+gem 'database_cleaner'
+gem 'activesupport'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'

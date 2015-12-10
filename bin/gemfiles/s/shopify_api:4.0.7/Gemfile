@@ -1,0 +1,6 @@
+gem 'activeresource'
+gem 'rack'
+gem 'mocha'
+gem 'fakeweb'
+gem 'minitest'
+gem 'rake'

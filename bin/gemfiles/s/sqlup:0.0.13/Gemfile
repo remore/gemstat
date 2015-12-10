@@ -1,0 +1,6 @@
+gem 'named_arguments'
+gem 'optiflag'
+gem 'daemons'
+gem 'aws-s3'
+gem 'activerecord'
+gem 'hoe'

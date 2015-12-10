@@ -1,0 +1,5 @@
+gem 'cocaine'
+gem 'oily_png'
+gem 'color'
+gem 'rspec'
+gem 'fakeweb'

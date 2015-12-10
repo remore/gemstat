@@ -1,0 +1,6 @@
+gem 'multi_xml'
+gem 'activesupport'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'rake'

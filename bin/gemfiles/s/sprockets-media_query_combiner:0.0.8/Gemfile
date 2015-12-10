@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'sass-media_query_combiner'
+gem 'rspec'
+gem 'rake'

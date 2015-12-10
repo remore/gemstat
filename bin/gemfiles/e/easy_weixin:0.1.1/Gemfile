@@ -1,0 +1,5 @@
+gem 'roxml'
+gem 'multi_xml'
+gem 'faraday'
+gem 'typhoeus'
+gem 'redis'

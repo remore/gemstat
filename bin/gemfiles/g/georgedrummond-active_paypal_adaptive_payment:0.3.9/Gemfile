@@ -1,0 +1,5 @@
+gem 'activemerchant'
+gem 'multi_json'
+gem 'hashie'
+gem 'money'
+gem 'mocha'

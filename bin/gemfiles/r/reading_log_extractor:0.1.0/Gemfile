@@ -1,0 +1,6 @@
+gem 'github_api'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

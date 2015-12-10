@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'rspec'
+gem 'simplecov'
+gem 'uglifier'
+gem 'thor'

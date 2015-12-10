@@ -1,0 +1,2 @@
+gem 'oversip'
+gem 'mysql2'

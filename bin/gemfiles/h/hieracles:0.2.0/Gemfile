@@ -1,0 +1,7 @@
+gem 'deep_merge'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'simplecov'
+gem 'rubocop'

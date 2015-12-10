@@ -1,0 +1,5 @@
+gem 'amqp'
+gem 'sigar'
+gem 'json'
+gem 'wildcloud-logger'
+gem 'wildcloud-configuration'

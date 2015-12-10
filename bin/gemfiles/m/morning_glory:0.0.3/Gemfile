@@ -1,0 +1,4 @@
+gem 'aws-s3'
+gem 'rails'
+gem 'aws-s3'
+gem 'rails'

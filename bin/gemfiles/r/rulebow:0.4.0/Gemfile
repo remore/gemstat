@@ -1,0 +1,5 @@
+gem 'notify'
+gem 'detroit'
+gem 'mast'
+gem 'qed'
+gem 'ae'

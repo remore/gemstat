@@ -1,0 +1,5 @@
+gem 'json'
+gem 'oj'
+gem 'rake'
+gem 'bundler'
+gem 'minitest'

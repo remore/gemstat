@@ -1,0 +1,4 @@
+gem 'appium_lib'
+gem 'flaky'
+gem 'spec'
+gem 'appium_console'

@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multipart-post'
+gem 'mime-types'
+gem 'rspec'
+gem 'pry'

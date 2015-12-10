@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-rcov'
+gem 'yard'
+gem 'rake'
+gem 'guard-rspec'

@@ -1,0 +1,7 @@
+gem 'srx-polish'
+gem 'trollop'
+gem 'unicode'
+gem 'fakeweb'
+gem 'minitest'
+gem 'rake'
+gem 'vcr'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rack'
+gem 'tilt'
+gem 'rack-test'
+gem 'thor'
+gem 'activesupport'
+gem 'listen'
+gem 'wdm'

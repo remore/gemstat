@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'yaml_record_rails_4'

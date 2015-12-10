@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'andand'
+gem 'safe_yaml'
+gem 'minitest'
+gem 'rake'

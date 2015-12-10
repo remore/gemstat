@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rspec'
+gem 'webmock'
+gem 'mocha'
+gem 'factory_girl'

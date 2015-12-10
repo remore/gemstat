@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'nokogiri'
+gem 'mini_portile'
+gem 'soap4r'
+gem 'httpclient'

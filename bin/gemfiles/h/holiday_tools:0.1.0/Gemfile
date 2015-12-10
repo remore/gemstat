@@ -1,0 +1,2 @@
+gem 'holidays'
+gem 'rspec'

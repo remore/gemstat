@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rubyzip'
+gem 'json'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'

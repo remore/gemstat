@@ -1,0 +1,4 @@
+gem 'gpr'
+gem 'safe_colorize'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'thrift_client'
+gem 'json_pure'
+gem 'rake'
+gem 'simple_uuid'

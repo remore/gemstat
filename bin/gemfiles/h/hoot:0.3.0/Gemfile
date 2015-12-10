@@ -1,0 +1,5 @@
+gem 'netrc'
+gem 'commander'
+gem 'json'
+gem 'bundler'
+gem 'rake'

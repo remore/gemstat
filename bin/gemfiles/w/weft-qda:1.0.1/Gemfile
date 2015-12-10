@@ -1,0 +1,2 @@
+gem 'sqlite-ruby'
+gem 'PageTemplate'

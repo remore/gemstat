@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'guard-rspec'

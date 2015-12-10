@@ -1,0 +1,5 @@
+gem 'term-ansicolor'
+gem 'treetop'
+gem 'rspec'
+gem 'diff-lcs'
+gem 'hoe'

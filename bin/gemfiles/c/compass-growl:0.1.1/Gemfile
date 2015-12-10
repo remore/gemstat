@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rspec'
+gem 'mocha'
+gem 'compass'
+gem 'ruby_gntp'

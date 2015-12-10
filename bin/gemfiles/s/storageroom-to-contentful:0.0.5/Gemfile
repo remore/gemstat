@@ -1,0 +1,6 @@
+gem 'http'
+gem 'multi_json'
+gem 'contentful-management'
+gem 'i18n'
+gem 'bundler'
+gem 'rake'

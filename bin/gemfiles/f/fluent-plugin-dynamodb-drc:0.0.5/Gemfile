@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'aws-sdk'
+gem 'uuidtools'
+gem 'rake'

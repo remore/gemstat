@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'racc'
+gem 'rex'
+gem 'rcov'

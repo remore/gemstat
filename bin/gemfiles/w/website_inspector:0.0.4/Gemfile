@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rdoc'
+gem 'cucumber'
+gem 'aruba'
+gem 'rake'
+gem 'mechanize'
+gem 'methadone'

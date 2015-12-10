@@ -1,0 +1,5 @@
+gem 'httmultiparty'
+gem 'bundler'
+gem 'guard'
+gem 'rb-fsevent'
+gem 'byebug'

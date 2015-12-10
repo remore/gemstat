@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'nesta'
+gem 'nesta-contentfocus-extensions'
+gem 'bourbon'
+gem 'neat'

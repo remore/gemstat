@@ -1,0 +1,5 @@
+gem 'mailman'
+gem 'daemons'
+gem 'rails'
+gem 'minitest'
+gem 'sqlite3'

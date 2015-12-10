@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'watir-webdriver'
+gem 'webdriver-user-agent'
+gem 'watir'
+gem 'bundler'
+gem 'rake'

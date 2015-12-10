@@ -1,0 +1,6 @@
+gem 'bootstrap_form'
+gem 'bootstrap-datepicker-rails'
+gem 'rails'
+gem 'sqlite3'
+gem 'mocha'
+gem 'jasmine'

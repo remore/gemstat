@@ -1,0 +1,8 @@
+gem 'net-scp'
+gem 'net-ssh'
+gem 'net-telnet'
+gem 'sfl'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

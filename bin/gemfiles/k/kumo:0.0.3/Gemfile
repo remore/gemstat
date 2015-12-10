@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rdoc'
+gem 'debugger'
+gem 'gli'
+gem 'fog'

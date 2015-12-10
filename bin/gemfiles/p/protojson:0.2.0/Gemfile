@@ -1,0 +1,4 @@
+gem 'ruby_protobuf'
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'

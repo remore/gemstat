@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'read-password'

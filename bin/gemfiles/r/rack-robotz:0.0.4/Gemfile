@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'gem-release'
+gem 'rake'
+gem 'rack-test'

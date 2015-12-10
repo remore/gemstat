@@ -1,0 +1,5 @@
+gem 'yui-compressor'
+gem 'step-up'
+gem 'rspec'
+gem 'mocha'
+gem 'closure-compiler'

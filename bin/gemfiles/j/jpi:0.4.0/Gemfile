@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'thor'
+gem 'rubyzip'
+gem 'jenkins-war'
+gem 'jenkins-plugin-runtime'
+gem 'rake'
+gem 'cucumber'
+gem 'aruba'

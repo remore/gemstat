@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'twilio-ruby'
+gem 'popen4'
+gem 'octokit'
+gem 'hashie'
+gem 'rake'
+gem 'rspec'

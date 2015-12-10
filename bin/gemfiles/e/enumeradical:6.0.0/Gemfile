@@ -1,0 +1,2 @@
+gem 'travis-lint'
+gem 'rspec'

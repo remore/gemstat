@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'highline'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

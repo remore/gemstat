@@ -1,0 +1,4 @@
+gem 'kss'
+gem 'sass-rails'
+gem 'rails'
+gem 'sqlite3'

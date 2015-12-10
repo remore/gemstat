@@ -1,0 +1,5 @@
+gem 'simple_enum'
+gem 'rake'
+gem 'activerecord'
+gem 'mongoid'
+gem 'rspec'

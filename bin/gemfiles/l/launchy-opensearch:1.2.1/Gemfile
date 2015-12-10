@@ -1,0 +1,5 @@
+gem 'facets'
+gem 'hpricot'
+gem 'sys-uname'
+gem 'user-choices'
+gem 'hoe'

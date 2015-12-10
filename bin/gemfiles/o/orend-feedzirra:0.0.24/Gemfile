@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'orend-sax-machine'
+gem 'curb'
+gem 'builder'
+gem 'activesupport'
+gem 'loofah'
+gem 'rspec'
+gem 'diff-lcs'

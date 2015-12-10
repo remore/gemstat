@@ -1,0 +1,7 @@
+gem 'pg'
+gem 'iniparse'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

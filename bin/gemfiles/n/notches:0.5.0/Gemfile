@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'combustion'
+gem 'rspec-rails'
+gem 'sqlite3'

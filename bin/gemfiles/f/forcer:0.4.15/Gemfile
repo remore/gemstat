@@ -1,0 +1,8 @@
+gem 'savon'
+gem 'rubyzip'
+gem 'nokogiri'
+gem 'thor'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'codeclimate-test-reporter'

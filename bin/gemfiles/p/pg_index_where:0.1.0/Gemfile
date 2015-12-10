@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rails'
+gem 'rspec-rails'
+gem 'acts_as_paranoid'
+gem 'pg'
+gem 'activerecord'

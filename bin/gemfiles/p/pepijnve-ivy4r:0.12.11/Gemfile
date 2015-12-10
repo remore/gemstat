@@ -1,0 +1,7 @@
+gem 'atoulme-Antwrap'
+gem 'ivy4r-jars'
+gem 'rake'
+gem 'autotest'
+gem 'ZenTest'
+gem 'rspec'
+gem 'rr'

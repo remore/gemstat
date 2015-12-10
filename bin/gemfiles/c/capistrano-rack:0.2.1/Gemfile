@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'fog'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

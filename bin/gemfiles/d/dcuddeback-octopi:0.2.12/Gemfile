@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'httparty'
+gem 'mechanize'
+gem 'api_cache'

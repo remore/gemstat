@@ -1,0 +1,6 @@
+gem 'mysql2'
+gem 'activerecord'
+gem 'activerecord-tableless'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

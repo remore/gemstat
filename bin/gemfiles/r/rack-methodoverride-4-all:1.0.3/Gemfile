@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'rack-test'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-inotify'

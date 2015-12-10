@@ -1,0 +1,7 @@
+gem 'postrank-uri'
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'em-synchrony'
+gem 'yajl-ruby'
+gem 'chronic'
+gem 'rspec'

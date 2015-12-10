@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'json'
+gem 'hashie'
+gem 'webmock'
+gem 'minitest'

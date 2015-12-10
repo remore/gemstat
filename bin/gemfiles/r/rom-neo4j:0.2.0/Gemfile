@@ -1,0 +1,6 @@
+gem 'rom'
+gem 'neo4j-core'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

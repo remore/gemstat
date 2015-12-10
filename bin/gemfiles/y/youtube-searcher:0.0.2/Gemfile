@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'google-api-client'
+gem 'rainbow'
+gem 'ruby-progressbar'

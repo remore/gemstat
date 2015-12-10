@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'soup'
+gem 'ratom'
+gem 'RedCloth'
+gem 'BlueCloth'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'graphviz'
+gem 'bundler'
+gem 'rake'

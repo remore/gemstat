@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'daemons'
+gem 'celluloid'
+gem 'timers'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'treetop'
+gem 'activerecord'
+gem 'activesupport'
+gem 'ransack'
+gem 'sqlite3'
+gem 'rspec'

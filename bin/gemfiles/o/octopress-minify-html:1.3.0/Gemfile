@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'clash'
+gem 'jekyll'
+gem 'html_press'
+gem 'octopress-hooks'
+gem 'octopress-debugger'

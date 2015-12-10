@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'nokogiri'
+gem 'poltergeist'
+gem 'capybara'
+gem 'phantomjs'
+gem 'activesupport'

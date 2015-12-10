@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'simple-statistics'
+gem 'rspec'
+gem 'yard'

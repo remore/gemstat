@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'blankslate'
+gem 'rubyforge'
+gem 'rdoc'
+gem 'rspec'
+gem 'tilt'
+gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'oauth'
+gem 'rspec'
+gem 'rake'

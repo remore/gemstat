@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'fog'
+gem 'ruby-progressbar'
+gem 'rspec'
+gem 'json'

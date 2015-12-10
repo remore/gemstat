@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'hpricot'
+gem 'builder'
+gem 'rtf'
+gem 'echoe'

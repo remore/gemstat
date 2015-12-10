@@ -1,0 +1,5 @@
+gem 'barrister'
+gem 'barrister-intraprocess'
+gem 'active_attr'
+gem 'pry'
+gem 'rspec'

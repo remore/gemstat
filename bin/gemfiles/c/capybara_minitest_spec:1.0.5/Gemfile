@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'minitest'
+gem 'awesome_print'
+gem 'rake'
+gem 'sinatra'

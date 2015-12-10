@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'slop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'

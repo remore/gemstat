@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rspec-rails'
+gem 'apotomo'
+gem 'capybara'
+gem 'generator_spec'

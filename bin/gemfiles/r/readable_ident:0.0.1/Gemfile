@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'
+gem 'debugger'
+gem 'sqlite3'

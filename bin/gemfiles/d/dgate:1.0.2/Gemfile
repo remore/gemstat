@@ -1,0 +1,4 @@
+gem 'json'
+gem 'httpclient'
+gem 'bundler'
+gem 'rake'

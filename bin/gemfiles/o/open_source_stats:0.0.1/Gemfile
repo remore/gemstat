@@ -1,0 +1,7 @@
+gem 'octokit'
+gem 'dotenv'
+gem 'activesupport'
+gem 'terminal-table'
+gem 'pry'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'html-pipeline'
+gem 'gitlab_emoji'
+gem 'sanitize'
+gem 'actionpack'
+gem 'mime-types'

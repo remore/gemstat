@@ -1,0 +1,7 @@
+gem 'sprockets-coffee-react'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'react-source'
+gem 'bootstrap-sass'
+gem 'bundler'
+gem 'rake'

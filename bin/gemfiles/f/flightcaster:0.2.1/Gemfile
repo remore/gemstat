@@ -1,0 +1,6 @@
+gem 'thoughtbot-shoulda'
+gem 'shoulda'
+gem 'mhennemeyer-matchy'
+gem 'fakeweb'
+gem 'httparty'
+gem 'hashie'

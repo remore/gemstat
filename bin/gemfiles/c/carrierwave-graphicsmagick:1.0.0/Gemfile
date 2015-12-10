@@ -1,0 +1,2 @@
+gem 'graphicsmagick'
+gem 'carrierwave'

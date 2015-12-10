@@ -1,0 +1,7 @@
+gem 'guard'
+gem 'guard-rake'
+gem 'nokogiri'
+gem 'tilt'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

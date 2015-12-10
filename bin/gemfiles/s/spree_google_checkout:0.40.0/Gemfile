@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'oauth'
+gem 'google4r-checkout'
+gem 'ruby-hmac'

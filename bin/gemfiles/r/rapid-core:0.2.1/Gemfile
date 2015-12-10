@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'i18n'
+gem 'erubis'
+gem 'sinatra'
+gem 'tzinfo'
+gem 'sinatra_more'
+gem 'sinatra-reloader'

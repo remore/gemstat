@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'sigil'
+gem 'rack'
+gem 'rspec'
+gem 'bundler'

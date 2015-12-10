@@ -1,0 +1,7 @@
+gem 'sprockets-rails'
+gem 'actionpack'
+gem 'activesupport'
+gem 'capybara'
+gem 'launchy'
+gem 'poltergeist'
+gem 'rake'

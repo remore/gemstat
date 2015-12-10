@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'refinerycms'
+gem 'refinerycms-blog'
+gem 'nokogiri'
+gem 'rspec-rails'
+gem 'database_cleaner'

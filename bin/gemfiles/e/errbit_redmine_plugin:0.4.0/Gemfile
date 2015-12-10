@@ -1,0 +1,4 @@
+gem 'errbit_plugin'
+gem 'oruen_redmine_client'
+gem 'bundler'
+gem 'rake'

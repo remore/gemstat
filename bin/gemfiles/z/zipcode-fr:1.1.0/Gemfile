@@ -1,0 +1,5 @@
+gem 'zipcode-db'
+gem 'pry'
+gem 'rubocop'
+gem 'rake'
+gem 'minitest'

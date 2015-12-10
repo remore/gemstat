@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'multi_json'
+gem 'activesupport'
+gem 'addressable'

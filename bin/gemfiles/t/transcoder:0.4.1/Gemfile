@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rest-client'
+gem 'registry'
+gem 'json'
+gem 'crack'
+gem 'simple-rss'
+gem 'nokogiri'

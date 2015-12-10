@@ -1,0 +1,5 @@
+gem 'insensitive_hash'
+gem 'sql_helper'
+gem 'bundler'
+gem 'simplecov'
+gem 'test-unit'

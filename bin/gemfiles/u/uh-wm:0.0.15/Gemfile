@@ -1,0 +1,7 @@
+gem 'rb-kqueue'
+gem 'uh'
+gem 'uh-layout'
+gem 'aruba'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'

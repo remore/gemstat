@@ -1,0 +1,4 @@
+gem 'plist'
+gem 'grit'
+gem 'rspec'
+gem 'mocha'

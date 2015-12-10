@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'therubyracer'
+gem 'proj4rb'
+gem 'active_support'

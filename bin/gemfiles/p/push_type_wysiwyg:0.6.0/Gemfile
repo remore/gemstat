@@ -1,0 +1,6 @@
+gem 'push_type_core'
+gem 'push_type_admin'
+gem 'wysiwyg-rails'
+gem 'minitest-spec-rails'
+gem 'database_cleaner'
+gem 'factory_girl_rails'

@@ -1,0 +1,8 @@
+gem 'treetop'
+gem 'polyglot'
+gem 'rest-client'
+gem 'colored'
+gem 'awesome_print'
+gem 'yard'
+gem 'json'
+gem 'aws-sdk'

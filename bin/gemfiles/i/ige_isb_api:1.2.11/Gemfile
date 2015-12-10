@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rfc-822'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'dotenv'

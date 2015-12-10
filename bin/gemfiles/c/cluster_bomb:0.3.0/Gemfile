@@ -1,0 +1,4 @@
+gem 'net-ssh'
+gem 'net-scp'
+gem 'net-sftp'
+gem 'rb-readline'

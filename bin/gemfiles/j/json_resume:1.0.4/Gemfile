@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'i18n'
+gem 'mustache'
+gem 'pdfkit'
+gem 'rest-client'
+gem 'thor'
+gem 'wkhtmltopdf-binary'

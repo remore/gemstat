@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'slack-notifier'
+gem 'rspec'
+gem 'mail'
+gem 'sqlite3'

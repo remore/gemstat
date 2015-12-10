@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rest-client'
+gem 'thor'

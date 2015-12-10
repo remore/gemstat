@@ -1,0 +1,5 @@
+gem 'amatch'
+gem 'binding_of_caller'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

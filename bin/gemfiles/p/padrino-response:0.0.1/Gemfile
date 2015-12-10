@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'adapter'
+gem 'toystore'
+gem 'rack-test'
+gem 'padrino'
+gem 'rake'
+gem 'sinatra-flash'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'gibberish'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'guard-rspec'

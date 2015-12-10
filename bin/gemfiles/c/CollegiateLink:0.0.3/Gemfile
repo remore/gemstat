@@ -1,0 +1,6 @@
+gem 'guid'
+gem 'nokogiri'
+gem 'happymapper'
+gem 'socksify'
+gem 'rspec'
+gem 'net-ssh'

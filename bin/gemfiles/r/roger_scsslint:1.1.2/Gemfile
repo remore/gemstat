@@ -1,0 +1,7 @@
+gem 'roger'
+gem 'scss_lint'
+gem 'rubocop'
+gem 'rake'
+gem 'test-unit'
+gem 'thor'
+gem 'mocha'

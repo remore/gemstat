@@ -1,0 +1,7 @@
+gem 'activeresource'
+gem 'typhoeus'
+gem 'shopify_api'
+gem 'oj'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

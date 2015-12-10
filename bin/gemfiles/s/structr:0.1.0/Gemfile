@@ -1,0 +1,2 @@
+gem 'riot'
+gem 'riot_notifier'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'yard'
+gem 'cucumber'
+gem 'yard-cucumber'
+gem 'bueller'
+gem 'rmagick'

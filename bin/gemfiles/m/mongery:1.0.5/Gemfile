@@ -1,0 +1,7 @@
+gem 'arel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'pg'
+gem 'json_schema'

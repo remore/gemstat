@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'sass'
+gem 'sass-rails'
+gem 'compass-rails'

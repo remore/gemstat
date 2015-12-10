@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'ruby-debug19'
+gem 'bundler'
+gem 'rack'

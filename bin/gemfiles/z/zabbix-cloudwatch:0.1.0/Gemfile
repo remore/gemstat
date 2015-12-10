@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'getopt'
+gem 'rake'
+gem 'rspec'
+gem 'mime-types'
+gem 'coveralls'

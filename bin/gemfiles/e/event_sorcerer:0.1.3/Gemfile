@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'inch'
+gem 'rspec'
+gem 'rubocop'
+gem 'rake'
+gem 'invokr'
+gem 'timecop'
+gem 'uber'

@@ -1,0 +1,2 @@
+gem 'active_support'
+gem 'active_model'

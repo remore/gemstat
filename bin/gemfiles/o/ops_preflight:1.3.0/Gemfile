@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'fog'
+gem 'mina'
+gem 'aws-sdk'
+gem 'multi_json'

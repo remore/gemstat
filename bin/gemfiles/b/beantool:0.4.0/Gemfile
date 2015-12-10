@@ -1,0 +1,7 @@
+gem 'beaneater'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rdoc'
+gem 'simplecov'
+gem 'pry'

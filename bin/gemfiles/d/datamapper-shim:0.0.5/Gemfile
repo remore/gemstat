@@ -1,0 +1,8 @@
+gem 'json'
+gem 'activerecord'
+gem 'composite_primary_keys'
+gem 'rake'
+gem 'sqlite3'
+gem 'bundler'
+gem 'minitest'
+gem 'pry'

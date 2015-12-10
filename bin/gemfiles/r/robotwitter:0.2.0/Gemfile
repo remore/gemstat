@@ -1,0 +1,7 @@
+gem 'twitter'
+gem 'sqlite3'
+gem 'fakeweb'
+gem 'minitest'
+gem 'pry'
+gem 'shoulda'
+gem 'jeweler'

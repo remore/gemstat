@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'
+gem 'watir-webdriver'
+gem 'open-uri'

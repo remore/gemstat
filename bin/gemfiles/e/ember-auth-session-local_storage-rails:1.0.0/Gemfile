@@ -1,0 +1,2 @@
+gem 'ember-auth-session-local_storage-source'
+gem 'rails'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'bio'
+gem 'bio-hmmer3_report'
+gem 'slim'

@@ -1,0 +1,8 @@
+gem 'celsius'
+gem 'celsius-primo'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'vcr'
+gem 'webmock'

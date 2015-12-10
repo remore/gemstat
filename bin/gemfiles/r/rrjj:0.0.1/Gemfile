@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rails'
+gem 'zeus'
+gem 'github-markup'
+gem 'github-markdown'

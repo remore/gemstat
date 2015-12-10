@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'client_side_validations'
+gem 'activerecord'
+gem 'actionpack'
+gem 'sqlite3'
+gem 'mocha'
+gem 'rack-test'
+gem 'ruby-debug19'

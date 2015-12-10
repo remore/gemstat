@@ -1,0 +1,5 @@
+gem 'serialport'
+gem 'ArgsParser'
+gem 'eventmachine_httpserver'
+gem 'eventmachine'
+gem 'hoe'

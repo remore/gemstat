@@ -1,0 +1,6 @@
+gem 'configparser'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'json'
+gem 'coveralls'

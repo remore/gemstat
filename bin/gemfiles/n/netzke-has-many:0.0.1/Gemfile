@@ -1,0 +1,4 @@
+gem 'netzke-core'
+gem 'netzke-basepack'
+gem 'activesupport'
+gem 'rake'

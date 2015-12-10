@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'watir'
+gem 'yard'
+gem 'rake'
+gem 'redcarpet'

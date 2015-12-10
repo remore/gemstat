@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rake'
+gem 'flexmock'
+gem 'test-unit'
+gem 'mysql2'
+gem 'pg'
+gem 'activerecord'

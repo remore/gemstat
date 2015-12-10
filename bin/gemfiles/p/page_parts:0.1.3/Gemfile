@@ -1,0 +1,4 @@
+gem 'orm_adapter'
+gem 'activerecord'
+gem 'mongoid'
+gem 'sqlite3'

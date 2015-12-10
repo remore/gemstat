@@ -1,0 +1,6 @@
+gem 'sequel'
+gem 'mysql2'
+gem 'eventmachine'
+gem 'await'
+gem 'bundler'
+gem 'jeweler'

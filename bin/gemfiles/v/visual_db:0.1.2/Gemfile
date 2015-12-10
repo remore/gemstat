@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'mysql'
+gem 'vegas'
+gem 'bundler'
+gem 'rake'

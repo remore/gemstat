@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rake'
+gem 'json'
+gem 'jquery-rails'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'addressable'

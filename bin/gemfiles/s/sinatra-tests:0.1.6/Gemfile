@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'rack-test'
+gem 'rspec'
+gem 'rspec_hpricot_matchers'

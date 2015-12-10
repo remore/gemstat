@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'sidekiq'
+gem 'bundler'
+gem 'rake'

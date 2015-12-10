@@ -1,0 +1,7 @@
+gem 'minitest-reporters'
+gem 'em-websocket'
+gem 'web-socket-ruby'
+gem 'ansi'
+gem 'version'
+gem 'bundler'
+gem 'rake'

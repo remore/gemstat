@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'ruby-debug'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'httparty'

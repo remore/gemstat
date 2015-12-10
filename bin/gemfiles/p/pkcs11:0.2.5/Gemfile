@@ -1,0 +1,4 @@
+gem 'rdoc'
+gem 'yard'
+gem 'rake-compiler'
+gem 'hoe'

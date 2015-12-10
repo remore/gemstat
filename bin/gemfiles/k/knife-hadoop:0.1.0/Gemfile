@@ -1,0 +1,7 @@
+gem 'webhdfs'
+gem 'pg'
+gem 'sqlite3'
+gem 'sequel'
+gem 'debugger'
+gem 'rest-client'
+gem 'chef'

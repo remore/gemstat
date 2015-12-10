@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'json'
+gem 'term-ansicolor'
+gem 'starter'

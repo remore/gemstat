@@ -1,0 +1,5 @@
+gem 'actionmailer'
+gem 'mail'
+gem 'delayed_job'
+gem 'net-dns'
+gem 'sqlite3'

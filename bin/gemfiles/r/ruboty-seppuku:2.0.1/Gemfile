@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'platform-api'
+gem 'bundler'
+gem 'rake'

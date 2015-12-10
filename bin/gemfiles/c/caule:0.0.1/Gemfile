@@ -1,0 +1,4 @@
+gem 'mechanize'
+gem 'rspec'
+gem 'fivemat'
+gem 'webmock'

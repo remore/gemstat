@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'http_parser.rb'
+gem 'yajl-ruby'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

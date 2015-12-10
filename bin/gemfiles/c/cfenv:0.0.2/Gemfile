@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'oj'
+gem 'rake'
+gem 'byebug'
+gem 'multi_json'
+gem 'hashie'

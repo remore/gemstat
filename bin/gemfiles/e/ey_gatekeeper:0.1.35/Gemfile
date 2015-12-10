@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rack-client'
+gem 'excon'
+gem 'rspec'
+gem 'rack-test'

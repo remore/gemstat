@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'faster_xml_simple'
+gem 'json'
+gem 'httpclient'

@@ -1,0 +1,5 @@
+gem 'cassette-rack'
+gem 'thor'
+gem 'terminal-table'
+gem 'bundler'
+gem 'rake'

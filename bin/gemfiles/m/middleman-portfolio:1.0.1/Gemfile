@@ -1,0 +1,5 @@
+gem 'mini_magick'
+gem 'rake'
+gem 'rdoc'
+gem 'yard'
+gem 'jeweler'

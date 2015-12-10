@@ -1,0 +1,5 @@
+gem 'ruby-opengl'
+gem 'ruby-glfw'
+gem 'glut'
+gem 'glu'
+gem 'directory_watcher'

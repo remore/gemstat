@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'knife-cloud'
+gem 'oraclecloud'
+gem 'bundler'
+gem 'rake'

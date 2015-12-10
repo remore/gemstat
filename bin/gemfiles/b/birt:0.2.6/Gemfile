@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'rspec'
+gem 'slim'
+gem 'bundler'
+gem 'rake'
+gem 'core_extend'
+gem 'highcharts-rails'
+gem 'mysql2'

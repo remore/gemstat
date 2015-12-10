@@ -1,0 +1,5 @@
+gem 'rbvmomi'
+gem 'clc-fork-chef-metal'
+gem 'rubyzip'
+gem 'rspec'
+gem 'rake'

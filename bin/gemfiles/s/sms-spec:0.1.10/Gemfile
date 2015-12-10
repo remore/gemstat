@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'twilio-ruby'
+gem 'lookout-clickatell'
+gem 'pry'

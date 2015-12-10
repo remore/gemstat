@@ -1,0 +1,2 @@
+gem 'inheritable_accessors'
+gem 'activesupport'

@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'moneta'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry-meta'

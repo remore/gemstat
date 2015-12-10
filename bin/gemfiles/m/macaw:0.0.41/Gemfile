@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'java_properties'
+gem 'json_pure'
+gem 'require_all'
+gem 'os'
+gem 'i18n'

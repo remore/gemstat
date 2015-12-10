@@ -1,0 +1,5 @@
+gem 'json'
+gem 'yard'
+gem 'redcarpet'
+gem 'minitest'
+gem 'minitest-reporters'

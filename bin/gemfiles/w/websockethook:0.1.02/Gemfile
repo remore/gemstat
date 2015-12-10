@@ -1,0 +1,6 @@
+gem 'faye-websocket'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'rake'
+gem 'wrong'
+gem 'rest-client'

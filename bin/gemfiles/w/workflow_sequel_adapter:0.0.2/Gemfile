@@ -1,0 +1,5 @@
+gem 'workflow'
+gem 'sequel'
+gem 'rake'
+gem 'minitest'
+gem 'sqlite3'

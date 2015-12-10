@@ -1,0 +1,5 @@
+gem 'json'
+gem 'slop'
+gem 'mocha'
+gem 'yard'
+gem 'rake'

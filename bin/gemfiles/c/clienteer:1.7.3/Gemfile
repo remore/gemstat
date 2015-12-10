@@ -1,0 +1,8 @@
+gem 'kiba'
+gem 'ruby-progressbar'
+gem 'mindbody-api'
+gem 'dotenv-rails'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

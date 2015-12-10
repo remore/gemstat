@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'grit'
+gem 'rake'
+gem 'minitest'
+gem 'coveralls'

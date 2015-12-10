@@ -1,0 +1,6 @@
+gem 'string-similarity'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'simplecov'

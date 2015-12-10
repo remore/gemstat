@@ -1,0 +1,5 @@
+gem 'rocket-core'
+gem 'rocket-js'
+gem 'rocket-server'
+gem 'rspec'
+gem 'mocha'

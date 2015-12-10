@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'mysql2'
+gem 'jquery-rails'
+gem 'haml-rails'
+gem 'sass'
+gem 'paperclip'
+gem 'will_paginate'
+gem 'younker-string-extensions'

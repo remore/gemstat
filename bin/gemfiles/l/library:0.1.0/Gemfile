@@ -1,0 +1,5 @@
+gem 'detroit'
+gem 'setup'
+gem 'rubytest'
+gem 'lemon'
+gem 'ae'

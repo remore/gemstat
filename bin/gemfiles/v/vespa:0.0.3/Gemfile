@@ -1,0 +1,8 @@
+gem 'commander'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'json'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

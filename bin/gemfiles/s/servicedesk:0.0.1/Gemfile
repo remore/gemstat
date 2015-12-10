@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'methadone'
+gem 'rest-client'
+gem 'rake'

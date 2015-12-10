@@ -1,0 +1,6 @@
+gem 'flay'
+gem 'flog'
+gem 'rcov'
+gem 'railroad'
+gem 'reek'
+gem 'roodi'

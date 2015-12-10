@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'json'
+gem 'tzinfo'
+gem 'attach_function'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'core_x'

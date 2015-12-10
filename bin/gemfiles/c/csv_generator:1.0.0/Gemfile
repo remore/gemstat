@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'fakefs'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

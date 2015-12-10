@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'slop'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'ruby-debug19'
+gem 'rb-fsevent'
+gem 'growl'

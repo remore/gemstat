@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'mark_facets'
+gem 'genosaurus'

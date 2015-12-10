@@ -1,0 +1,5 @@
+gem 'ruby-hmac'
+gem 'newgem'
+gem 'actionpack'
+gem 'rack'
+gem 'hoe'

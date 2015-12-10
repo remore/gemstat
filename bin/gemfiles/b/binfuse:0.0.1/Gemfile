@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'gli'
+gem 'paint'
+gem 'progress_bar'

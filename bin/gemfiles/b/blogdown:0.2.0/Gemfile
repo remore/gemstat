@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'redcarpet'
+gem 'github-markdown'
+gem 'thor'
+gem 'sinatra'

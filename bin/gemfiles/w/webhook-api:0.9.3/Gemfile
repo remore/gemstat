@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multi_json'
+gem 'rack-test'
+gem 'rspec'
+gem 'rails'

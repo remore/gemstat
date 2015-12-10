@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'test-unit'
+gem 'dotenv'
+gem 'rest-client'

@@ -1,0 +1,8 @@
+gem 'rmagick'
+gem 'sinatra'
+gem 'ruby-hmac'
+gem 'json'
+gem 'contest'
+gem 'rake'
+gem 'mocha'
+gem 'rack-test'

@@ -1,0 +1,6 @@
+gem 'highline'
+gem 'ruby-oci8'
+gem 'indentation'
+gem 'colorize'
+gem 'bigdecimal'
+gem 'rspec'

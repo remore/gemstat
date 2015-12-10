@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'ejs'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

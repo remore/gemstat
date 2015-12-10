@@ -1,0 +1,8 @@
+gem 'middleman-core'
+gem 'autoprefixer-rails'
+gem 'middleman'
+gem 'cucumber'
+gem 'aruba'
+gem 'coveralls'
+gem 'bundler'
+gem 'rake'

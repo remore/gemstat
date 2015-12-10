@@ -1,0 +1,4 @@
+gem 'actionpack'
+gem 'fastercsv'
+gem 'rspec'
+gem 'haml'

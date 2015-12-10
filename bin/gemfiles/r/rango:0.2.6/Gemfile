@@ -1,0 +1,2 @@
+gem 'simple-templater'
+gem 'bundler'

@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'dynamodb-local'

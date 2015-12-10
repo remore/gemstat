@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'builder'
+gem 'rspec_junit_formatter'
+gem 'nokogiri'

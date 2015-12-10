@@ -1,0 +1,4 @@
+gem 'delayed_job_active_record'
+gem 'net-ssh-gateway'
+gem 'bundler'
+gem 'rake'

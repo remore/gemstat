@@ -1,0 +1,2 @@
+gem 'fast-stemmer'
+gem 'rspec'

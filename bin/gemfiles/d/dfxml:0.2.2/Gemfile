@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'sax-machine'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

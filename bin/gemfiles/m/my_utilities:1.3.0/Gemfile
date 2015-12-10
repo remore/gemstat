@@ -1,0 +1,4 @@
+gem 'getopt'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

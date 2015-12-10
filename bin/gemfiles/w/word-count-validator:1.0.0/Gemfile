@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'bundler'
+gem 'shoulda'
+gem 'rails'
+gem 'jeweler'

@@ -1,0 +1,7 @@
+gem 'marc'
+gem 'marc_alephsequential'
+gem 'yell'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'minitest'

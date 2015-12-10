@@ -1,0 +1,5 @@
+gem 'daemons'
+gem 'state_machine'
+gem 'activesupport'
+gem 'i18n'
+gem 'bundler'

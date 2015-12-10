@@ -1,0 +1,7 @@
+gem 'redlock'
+gem 'concurrent-ruby'
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

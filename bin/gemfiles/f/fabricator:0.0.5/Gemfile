@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'rubigen'
+gem 'newgem'
+gem 'hoe'

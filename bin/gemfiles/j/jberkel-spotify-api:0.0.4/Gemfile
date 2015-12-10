@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'rack-test'
+gem 'sinatra'
+gem 'json-jruby'

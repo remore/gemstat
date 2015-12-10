@@ -1,0 +1,4 @@
+gem 'libxml-ruby'
+gem 'builder'
+gem 'dm-core'
+gem 'dm-migrations'

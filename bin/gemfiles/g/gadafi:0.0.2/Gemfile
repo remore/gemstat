@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'cucumber'
+gem 'aruba'
+gem 'ruby-debug'
+gem 'rake'
+gem 'rest-client'
+gem 'thor'

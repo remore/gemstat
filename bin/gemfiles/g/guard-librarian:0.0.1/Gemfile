@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'librarian'
+gem 'rspec'
+gem 'guard-rspec'

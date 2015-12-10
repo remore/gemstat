@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'json'
+gem 'nokogiri'
+gem 'scrivener'

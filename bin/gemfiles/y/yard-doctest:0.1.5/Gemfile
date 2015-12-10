@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'
+gem 'aruba'

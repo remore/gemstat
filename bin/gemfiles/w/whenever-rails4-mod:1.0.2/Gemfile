@@ -1,0 +1,5 @@
+gem 'chronic'
+gem 'activesupport'
+gem 'shoulda'
+gem 'mocha'
+gem 'rake'

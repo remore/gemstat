@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'bluecloth'
+gem 'simplecov'
+gem 'coveralls'

@@ -1,0 +1,6 @@
+gem 'chef'
+gem 'chef-provisioning'
+gem 'oauth'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

@@ -1,0 +1,4 @@
+gem 'mailman'
+gem 'rails'
+gem 'rspec'
+gem 'daemons'

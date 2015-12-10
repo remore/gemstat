@@ -1,0 +1,4 @@
+gem 'presto-client'
+gem 'embulk'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'bitpay-sdk'
+gem 'sqlite3'
+gem 'minitest-rspec_mocks'
+gem 'pry-rails'
+gem 'pry-byebug'
+gem 'webmock'
+gem 'coveralls'

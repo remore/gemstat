@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'refile'
+gem 'activejob'
+gem 'bundler'
+gem 'rake'

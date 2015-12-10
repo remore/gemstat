@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'haml_coffee_assets'
+gem 'html2haml'
+gem 'colorize'

@@ -1,0 +1,5 @@
+gem 'msplat'
+gem 'trollop'
+gem 'jeweler'
+gem 'ms-testdata'
+gem 'spec-more'

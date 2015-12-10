@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'commander'
+gem 'awesome_print'
+gem 'geoip'
+gem 'ascii_charts'

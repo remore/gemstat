@@ -1,0 +1,7 @@
+gem 'plist'
+gem 'serialbox'
+gem 'squash_uploader'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'jeweler'

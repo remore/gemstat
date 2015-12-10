@@ -1,0 +1,6 @@
+gem 'msgpack'
+gem 'cool.io'
+gem 'rake'
+gem 'rspec'
+gem 'test-unit'
+gem 'bundler'

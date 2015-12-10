@@ -1,0 +1,8 @@
+gem 'bcrypt-ruby'
+gem 'activerecord'
+gem 'json'
+gem 'rspec'
+gem 'sqlite3-ruby'
+gem 'sinatra'
+gem 'thin'
+gem 'factory_girl'

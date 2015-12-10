@@ -1,0 +1,7 @@
+gem 'docker-api'
+gem 'inifile'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'
+gem 'coveralls'

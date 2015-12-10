@@ -1,0 +1,6 @@
+gem 'parslet'
+gem 'thor'
+gem 'bundler'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'

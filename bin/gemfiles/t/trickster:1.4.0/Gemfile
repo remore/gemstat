@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'jasmine-headless-webkit'
+gem 'clean_test'
+gem 'gli'
+gem 'sass'

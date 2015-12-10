@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'capistrano-ext'
+gem 'capifony'
+gem 'capigento'

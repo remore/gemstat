@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'highline'
+gem 'json'
+gem 'rest-client'
+gem 'archive-tar-minitar'
+gem 'launchy'

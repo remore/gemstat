@@ -1,0 +1,4 @@
+gem 'aaronh-chronic'
+gem 'activesupport'
+gem 'shoulda'
+gem 'mocha'

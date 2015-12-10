@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'uuid'
+gem 'yajl-ruby'
+gem 'json'

@@ -1,0 +1,5 @@
+gem 'hato'
+gem 'im-kayac'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

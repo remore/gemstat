@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'rubyforge'
+gem 'hoe-doofus'
+gem 'hoe-git'
+gem 'hoe-gemcutter'
+gem 'rack-test'
+gem 'hoe'

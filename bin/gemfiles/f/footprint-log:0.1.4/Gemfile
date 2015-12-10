@@ -1,0 +1,7 @@
+gem 'gelf'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'
+gem 'rack'
+gem 'jeweler'
+gem 'coveralls'

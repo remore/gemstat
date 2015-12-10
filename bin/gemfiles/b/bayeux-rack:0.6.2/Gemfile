@@ -1,0 +1,4 @@
+gem 'json'
+gem 'async_sinatra'
+gem 'eventmachine'
+gem 'thin'

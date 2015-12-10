@@ -1,0 +1,4 @@
+gem 'jquery-ui-rails'
+gem 'sqlite3'
+gem 'carrierwave'
+gem 'mongoid'

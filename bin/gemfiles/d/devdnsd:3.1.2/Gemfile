@@ -1,0 +1,4 @@
+gem 'bovem'
+gem 'rubydns'
+gem 'mustache'
+gem 'plist'

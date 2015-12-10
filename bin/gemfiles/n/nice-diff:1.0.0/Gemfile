@@ -1,0 +1,5 @@
+gem 'json'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'active_support'

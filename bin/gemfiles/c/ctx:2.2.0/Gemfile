@@ -1,0 +1,4 @@
+gem 'mobj'
+gem 'rspec'
+gem 'rr'
+gem 'awesome_print'

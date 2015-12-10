@@ -1,0 +1,5 @@
+gem 'treat'
+gem 'rwordnet'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'sanitize'

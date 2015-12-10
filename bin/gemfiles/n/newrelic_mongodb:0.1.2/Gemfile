@@ -1,0 +1,4 @@
+gem 'newrelic_rpm'
+gem 'mongo'
+gem 'rake'
+gem 'test-unit'

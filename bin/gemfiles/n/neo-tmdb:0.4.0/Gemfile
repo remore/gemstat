@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'aruba'
+gem 'activesupport'
+gem 'cucumber'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

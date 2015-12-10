@@ -1,0 +1,6 @@
+gem 'sequel'
+gem 'heroku-api'
+gem 'pg'
+gem 'rake'
+gem 'foreman'
+gem 'navvy'

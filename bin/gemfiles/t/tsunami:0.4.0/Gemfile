@@ -1,0 +1,2 @@
+gem 'rmagick'
+gem 'thoughtbot-shoulda'

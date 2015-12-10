@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-mixin-aws'
+gem 'rufus-scheduler'
+gem 'aws-sdk'
+gem 'logstash-devutils'

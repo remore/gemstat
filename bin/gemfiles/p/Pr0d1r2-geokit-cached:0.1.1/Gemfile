@@ -1,0 +1,5 @@
+gem 'rspec-rails'
+gem 'rspec'
+gem 'geokit'
+gem 'newgem'
+gem 'hoe'

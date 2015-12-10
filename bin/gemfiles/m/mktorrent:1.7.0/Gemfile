@@ -1,0 +1,6 @@
+gem 'bencode'
+gem 'rake'
+gem 'pry'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rubygems-tasks'

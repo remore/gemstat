@@ -1,0 +1,5 @@
+gem 'slop'
+gem 'aviglitch'
+gem 'av'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'curb'
+gem 'fastimage'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

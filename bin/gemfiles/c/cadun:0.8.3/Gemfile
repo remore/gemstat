@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'builder'
+gem 'ruby-debug19'
+gem 'rake'
+gem 'rspec'
+gem 'rr'
+gem 'webmock'

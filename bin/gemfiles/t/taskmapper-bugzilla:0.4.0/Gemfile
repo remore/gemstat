@@ -1,0 +1,8 @@
+gem 'taskmapper'
+gem 'rubyzilla'
+gem 'rspec'
+gem 'fakeweb'
+gem 'vcr'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rcov'

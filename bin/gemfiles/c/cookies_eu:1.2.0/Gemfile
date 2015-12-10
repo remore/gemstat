@@ -1,0 +1,4 @@
+gem 'jquery-rails'
+gem 'jquery-cookie-rails'
+gem 'bundler'
+gem 'rake'

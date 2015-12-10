@@ -1,0 +1,7 @@
+gem 'faye-websocket'
+gem 'eventmachine'
+gem 'events'
+gem 'concurrent-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

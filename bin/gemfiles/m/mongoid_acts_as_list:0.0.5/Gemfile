@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'bson_ext'
+gem 'database_cleaner'
+gem 'pry'
+gem 'mongoid'

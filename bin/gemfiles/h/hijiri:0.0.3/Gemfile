@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'timecop'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nmatrix'
+gem 'nmatrix-lapacke'
+gem 'daru'
+gem 'distribution'
+gem 'parallel'

@@ -1,0 +1,6 @@
+gem 'nanoc'
+gem 'image_optim'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'bluecloth'

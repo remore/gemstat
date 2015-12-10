@@ -1,0 +1,2 @@
+gem 'activerecord'
+gem 'standalone_migrations'

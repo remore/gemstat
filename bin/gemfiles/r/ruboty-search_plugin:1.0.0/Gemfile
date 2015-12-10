@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'ruboty-sonar'
+gem 'bundler'
+gem 'rake'

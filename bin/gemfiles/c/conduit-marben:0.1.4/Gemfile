@@ -1,0 +1,5 @@
+gem 'conduit'
+gem 'nokogiri'
+gem 'shoulda-matchers'
+gem 'rspec'
+gem 'pry'

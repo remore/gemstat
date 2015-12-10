@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rainbow'
+gem 'redcarpet'
+gem 'console_renderer'

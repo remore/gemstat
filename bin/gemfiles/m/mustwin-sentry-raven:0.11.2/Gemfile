@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'rake'
+gem 'rspec'
+gem 'mime-types'
+gem 'coveralls'
+gem 'rest-client'

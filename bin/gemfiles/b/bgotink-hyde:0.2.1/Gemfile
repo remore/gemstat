@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'listen'
+gem 'commander'
+gem 'safe_yaml'
+gem 'rake'

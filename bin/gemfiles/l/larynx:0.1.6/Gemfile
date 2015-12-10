@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'activesupport'
+gem 'rspec'
+gem 'em-spec'

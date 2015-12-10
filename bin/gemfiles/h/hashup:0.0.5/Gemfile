@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'markascend'
+gem 'pygments'
+gem 'tilt'
+gem 'slim'

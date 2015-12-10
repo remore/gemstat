@@ -1,0 +1,8 @@
+gem 'less-rails'
+gem 'bundler'
+gem 'rake'
+gem 'minispec'
+gem 'activesupport'
+gem 'rails'
+gem 'therubyracer'
+gem 'appraisal'

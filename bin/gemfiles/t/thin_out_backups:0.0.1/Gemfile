@@ -1,0 +1,4 @@
+gem 'facets'
+gem 'colored'
+gem 'quality_extensions'
+gem 'rspec'

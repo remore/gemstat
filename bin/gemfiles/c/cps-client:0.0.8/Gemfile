@@ -1,0 +1,3 @@
+gem 'always_verify_ssl_certificates'
+gem 'punycode4r'
+gem 'domainatrix'

@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'rspec'
+gem 'jeweler'
+gem 'rcov'

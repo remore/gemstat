@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'hashie'
+gem 'addressable'
+gem 'activesupport'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'discourse_api'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

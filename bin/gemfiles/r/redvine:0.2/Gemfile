@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'hashie'
+gem 'debugger'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'autotest-standalone'

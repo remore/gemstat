@@ -1,0 +1,7 @@
+gem 'tilt'
+gem 'sprockets'
+gem 'therubyracer'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rails'
+gem 'sqlite3'

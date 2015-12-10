@@ -1,0 +1,6 @@
+gem 'syslog-logger'
+gem 'ridley'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'rake'
+gem 'bundler'

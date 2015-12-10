@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'levenshteinish'
+gem 'mimer_plus'
+gem 'spot'
+gem 'rest-client'
+gem 'rspec'

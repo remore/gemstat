@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'rake'
+gem 'rdoc'

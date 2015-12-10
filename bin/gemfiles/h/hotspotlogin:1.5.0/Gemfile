@@ -1,0 +1,4 @@
+gem 'facets'
+gem 'sinatra'
+gem 'rack'
+gem 'sinatra-r18n'

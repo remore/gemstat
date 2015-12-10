@@ -1,0 +1,5 @@
+gem 'monster_mash'
+gem 'json'
+gem 'rspec'
+gem 'vcr'
+gem 'typhoeus'

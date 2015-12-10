@@ -1,0 +1,5 @@
+gem 'savon'
+gem 'rake'
+gem 'rspec'
+gem 'savon_spec'
+gem 'mocha'

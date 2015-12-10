@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'
+gem 'sqlite3'
+gem 'shoulda-matchers'
+gem 'factory_girl'

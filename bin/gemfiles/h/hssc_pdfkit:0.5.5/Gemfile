@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'mocha'
+gem 'rack-test'
+gem 'activesupport'
+gem 'wkhtmltopdf-binary'

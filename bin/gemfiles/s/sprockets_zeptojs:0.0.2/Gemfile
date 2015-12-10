@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'sqlite3'
+gem 'mocha'
+gem 'rails'

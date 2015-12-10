@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'rack'
+gem 'rack-proxy'
+gem 'rest-client'
+gem 'sass'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'ffi'
+gem 'madvertise-logging'
+gem 'metriks'
+gem 'mixlib-cli'

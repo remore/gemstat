@@ -1,0 +1,5 @@
+gem 'app_conf'
+gem 'choice'
+gem 'mail'
+gem 'chef'
+gem 'elasticsearch'

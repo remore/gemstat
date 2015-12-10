@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'json'
+gem 'rspec'
+gem 'nokogiri'
+gem 'mocha'
+gem 'bundler'
+gem 'rake'

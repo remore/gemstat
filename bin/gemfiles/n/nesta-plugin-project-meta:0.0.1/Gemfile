@@ -1,0 +1,5 @@
+gem 'nesta'
+gem 'octokit'
+gem 'hashie'
+gem 'api_cache'
+gem 'rake'

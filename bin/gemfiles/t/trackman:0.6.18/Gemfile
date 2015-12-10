@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'json'
+gem 'nokogiri'
+gem 'rack'
+gem 'versionomy'
+gem 'rspec'
+gem 'sprockets'
+gem 'rake'

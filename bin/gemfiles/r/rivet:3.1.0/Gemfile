@@ -1,0 +1,6 @@
+gem 'aws-sdk-v1'
+gem 'aws-sdk'
+gem 'diff-lcs'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

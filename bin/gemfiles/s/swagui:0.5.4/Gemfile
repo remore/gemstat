@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'rack-cors'
+gem 'bundler'
+gem 'rake'

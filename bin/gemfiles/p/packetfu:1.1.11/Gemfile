@@ -1,0 +1,6 @@
+gem 'network_interface'
+gem 'pcaprub'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'sdoc'

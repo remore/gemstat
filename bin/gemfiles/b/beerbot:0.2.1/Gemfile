@@ -1,0 +1,5 @@
+gem 'pry'
+gem 'sqlite3'
+gem 'CronR'
+gem 'rspec'
+gem 'byebug'

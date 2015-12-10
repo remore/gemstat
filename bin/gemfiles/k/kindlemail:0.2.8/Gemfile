@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'gmail-mailer'
+gem 'trollop'
+gem 'gmail-mailer'
+gem 'trollop'

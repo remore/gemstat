@@ -1,0 +1,3 @@
+gem 'rext'
+gem 'rspec_hpricot_matchers'
+gem 'thoughtbot-factory_girl'

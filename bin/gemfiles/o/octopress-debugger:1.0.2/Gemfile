@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'pry-byebug'
+gem 'bundler'
+gem 'rake'
+gem 'octopress'

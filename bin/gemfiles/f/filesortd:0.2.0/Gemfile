@@ -1,0 +1,4 @@
+gem 'docile'
+gem 'listen'
+gem 'popen4'
+gem 'thor'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'strong_parameters'
+gem 'omniauth'
+gem 'omniauth-identity'
+gem 'thincloud-test-rails'

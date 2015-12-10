@@ -1,0 +1,2 @@
+gem 'warden'
+gem 'ruby-openid'

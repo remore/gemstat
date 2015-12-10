@@ -1,0 +1,5 @@
+gem 'umlaut'
+gem 'borrow_direct'
+gem 'mysql2'
+gem 'minitest'
+gem 'minitest-spec-rails'

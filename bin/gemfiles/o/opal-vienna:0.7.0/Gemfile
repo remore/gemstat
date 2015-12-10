@@ -1,0 +1,5 @@
+gem 'opal'
+gem 'opal-jquery'
+gem 'opal-activesupport'
+gem 'opal-rspec'
+gem 'rake'

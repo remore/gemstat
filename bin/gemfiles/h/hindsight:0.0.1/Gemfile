@@ -1,0 +1,8 @@
+gem 'rugged'
+gem 'sinatra'
+gem 'thor'
+gem 'haml'
+gem 'sass'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

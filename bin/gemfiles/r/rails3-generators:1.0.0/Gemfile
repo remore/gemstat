@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'rails'
+gem 'factory_girl'

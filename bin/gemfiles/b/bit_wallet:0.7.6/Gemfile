@@ -1,0 +1,7 @@
+gem 'bitcoin-client'
+gem 'activesupport'
+gem 'rspec'
+gem 'factory_girl'
+gem 'bitcoin_cleaner'
+gem 'vcr'
+gem 'webmock'

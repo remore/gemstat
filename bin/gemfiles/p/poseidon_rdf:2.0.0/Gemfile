@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdf'
+gem 'rdf-turtle'
+gem 'rdf-rdfxml'
+gem 'nokogiri'

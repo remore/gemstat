@@ -1,0 +1,4 @@
+gem 'exifr'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,4 @@
+gem 'facets'
+gem 'rake'
+gem 'hoe'
+gem 'hoe'

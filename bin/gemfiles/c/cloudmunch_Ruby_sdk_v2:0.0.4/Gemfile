@@ -1,0 +1,4 @@
+gem 'json'
+gem 'logger'
+gem 'bundler'
+gem 'rake'

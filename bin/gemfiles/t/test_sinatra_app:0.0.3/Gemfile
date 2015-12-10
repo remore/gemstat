@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'json'
+gem 'vegas'
+gem 'thin'
+gem 'rack-test'
+gem 'rspec'

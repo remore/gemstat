@@ -1,0 +1,4 @@
+gem 'pkg-config'
+gem 'rake-compiler'
+gem 'minitest'
+gem 'minitest-reporters'

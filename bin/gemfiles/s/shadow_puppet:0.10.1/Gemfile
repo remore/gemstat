@@ -1,0 +1,7 @@
+gem 'puppet'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rubocop'

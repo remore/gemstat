@@ -1,0 +1,5 @@
+gem 'bk'
+gem 'progressbar'
+gem 'awesome_print'
+gem 'rake'
+gem 'rdoc'

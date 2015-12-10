@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'rake'
+gem 'faraday'
+gem 'activesupport'
+gem 'faraday_middleware'

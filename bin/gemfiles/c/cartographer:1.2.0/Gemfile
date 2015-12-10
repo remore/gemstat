@@ -1,0 +1,7 @@
+gem 'haml'
+gem 'nokogiri'
+gem 'minitest'
+gem 'hoe-roodi'
+gem 'hoe-reek'
+gem 'hoe-git'
+gem 'hoe'

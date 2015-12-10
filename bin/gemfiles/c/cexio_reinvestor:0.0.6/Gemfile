@@ -1,0 +1,6 @@
+gem 'cexio'
+gem 'micro-optparse'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'debugger'

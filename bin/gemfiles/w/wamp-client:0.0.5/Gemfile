@@ -1,0 +1,8 @@
+gem 'yajl-ruby'
+gem 'net-ws'
+gem 'debugger'
+gem 'rake'
+gem 'pry'
+gem 'minitest'
+gem 'minitest-spec'
+gem 'minitest-rg'

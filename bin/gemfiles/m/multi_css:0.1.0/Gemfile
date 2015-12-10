@@ -1,0 +1,5 @@
+gem 'css_press'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'

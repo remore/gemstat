@@ -1,0 +1,8 @@
+gem 'trollop'
+gem 'colorize'
+gem 'torque_rm'
+gem 'terminal-table'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

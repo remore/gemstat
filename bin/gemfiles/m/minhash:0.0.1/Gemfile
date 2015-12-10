@@ -1,0 +1,2 @@
+gem 'murmurhash3'
+gem 'bundler'

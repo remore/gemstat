@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'activemodel'
+gem 'rspec'
+gem 'bson_ext'
+gem 'rake'
+gem 'yard'

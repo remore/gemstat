@@ -1,0 +1,4 @@
+gem 'active_event'
+gem 'active_domain'
+gem 'active_projection'
+gem 'rails'

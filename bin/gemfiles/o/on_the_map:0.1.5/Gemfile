@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mongoid'
+gem 'sugar-high'
+gem 'hashie'
+gem 'concerned'
+gem 'rspec-rails'

@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'actionpack'
+gem 'fakeredis'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'

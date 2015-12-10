@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'rest-client'
+gem 'terminal-table'
+gem 'highline'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

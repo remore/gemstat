@@ -1,0 +1,4 @@
+gem 'abnf'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

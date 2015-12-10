@@ -1,0 +1,4 @@
+gem 'contentful'
+gem 'redcarpet'
+gem 'activesupport'
+gem 'require_all'

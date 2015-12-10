@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'fakeweb'
+gem 'yard'
+gem 'httparty'
+gem 'nokogiri'

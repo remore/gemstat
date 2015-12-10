@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'erubis'
+gem 'wkhtmltopdf-binary'
+gem 'pdfkit'
+gem 'thor'
+gem 'rspec'

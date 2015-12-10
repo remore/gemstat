@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'lspace'
+gem 'bugsnag'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

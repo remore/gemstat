@@ -1,0 +1,7 @@
+gem 'delorean'
+gem 'whenever'
+gem 'parse-cron'
+gem 'rspec'
+gem 'rdoc'
+gem 'jeweler'
+gem 'ZenTest'

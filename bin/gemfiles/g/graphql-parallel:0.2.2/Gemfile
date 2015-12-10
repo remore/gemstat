@@ -1,0 +1,8 @@
+gem 'graphql'
+gem 'celluloid'
+gem 'codeclimate-test-reporter'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-focus'
+gem 'minitest-reporters'

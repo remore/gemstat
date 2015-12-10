@@ -1,0 +1,5 @@
+gem 'google_drive'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

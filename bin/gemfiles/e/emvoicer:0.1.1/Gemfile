@@ -1,0 +1,6 @@
+gem 'em-http-request'
+gem 'nokogiri'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

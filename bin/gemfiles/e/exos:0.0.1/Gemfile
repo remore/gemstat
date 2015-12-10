@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'terminal-table'
+gem 'fog'
+gem 'mina'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

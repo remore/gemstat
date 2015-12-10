@@ -1,0 +1,5 @@
+gem 'pakada'
+gem 'tilt'
+gem 'hike'
+gem 'rspec'
+gem 'fakefs'

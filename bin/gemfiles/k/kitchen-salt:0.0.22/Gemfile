@@ -1,0 +1,4 @@
+gem 'test-kitchen'
+gem 'rspec'
+gem 'pry'
+gem 'gem-release'

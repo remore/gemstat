@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'mongo'
+gem 'bson_ext'
+gem 'aws-sdk'
+gem 'ipaddress'
+gem 'net-ssh'
+gem 'retries'

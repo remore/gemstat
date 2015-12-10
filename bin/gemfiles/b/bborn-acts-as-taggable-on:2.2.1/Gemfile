@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'rspec'
+gem 'ammeter'
+gem 'sqlite3'
+gem 'mysql2'
+gem 'pg'
+gem 'guard'
+gem 'guard-rspec'

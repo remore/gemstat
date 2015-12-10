@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'mongoid-paranoia'
+gem 'mongoid-versioning'
+gem 'minitest'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'tilt'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'haml'
+gem 'heredoc_unindent'

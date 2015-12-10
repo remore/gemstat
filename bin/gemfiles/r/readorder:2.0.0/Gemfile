@@ -1,0 +1,6 @@
+gem 'configuration'
+gem 'amalgalite'
+gem 'main'
+gem 'logging'
+gem 'hitimes'
+gem 'rake'

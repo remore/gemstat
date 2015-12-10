@@ -1,0 +1,4 @@
+gem 'appengine-apis'
+gem 'appengine-rack'
+gem 'appengine-sdk'
+gem 'appengine-tools'

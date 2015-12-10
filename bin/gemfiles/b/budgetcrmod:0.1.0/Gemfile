@@ -1,0 +1,5 @@
+gem 'coderunner'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

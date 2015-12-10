@@ -1,0 +1,4 @@
+gem 'event_emitter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

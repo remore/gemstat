@@ -1,0 +1,4 @@
+gem 'genesis_promptcli'
+gem 'genesis_retryingfetcher'
+gem 'collins_client'
+gem 'facter'

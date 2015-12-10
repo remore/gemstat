@@ -1,0 +1,2 @@
+gem 'subcommand'
+gem 'aws-sdk'

@@ -1,0 +1,5 @@
+gem 'lyre'
+gem 'braintree'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'

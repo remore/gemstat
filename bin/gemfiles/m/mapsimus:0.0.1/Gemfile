@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'coffee-rails'
+gem 'cache_digests'
+gem 'actionpack-action_caching'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'factory_girl_rails'

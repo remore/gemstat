@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'ox'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'yard'
+gem 'guard-yard'

@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'rdoc'
+gem 'rake'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'rack-test'
+gem 'sinatra-contrib'

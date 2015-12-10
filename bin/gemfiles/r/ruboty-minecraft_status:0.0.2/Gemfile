@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'takumi-server_list_ping'
+gem 'bundler'
+gem 'pry'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'rake'
+gem 'json'
+gem 'dalli'
+gem 'sinatra'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'active_attr'
+gem 'activeresource'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'
+gem 'dotenv'
+gem 'pry'

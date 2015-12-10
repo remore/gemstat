@@ -1,0 +1,4 @@
+gem 'jackal'
+gem 'jackal-assets'
+gem 'packagecloud-ruby'
+gem 'carnivore-actor'

@@ -1,0 +1,6 @@
+gem 'ansi'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rb-inotify'
+gem 'libnotify'

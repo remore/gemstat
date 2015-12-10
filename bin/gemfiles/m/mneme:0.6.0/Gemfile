@@ -1,0 +1,7 @@
+gem 'goliath'
+gem 'hiredis'
+gem 'redis'
+gem 'yajl-ruby'
+gem 'bloomfilter-rb'
+gem 'rspec'
+gem 'em-http-request'

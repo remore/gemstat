@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'google-ads-common'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'tilt'
+gem 'babel-transpiler'
+gem 'execjs'
+gem 'sprockets'
+gem 'pry'

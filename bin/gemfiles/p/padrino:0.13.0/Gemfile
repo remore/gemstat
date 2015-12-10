@@ -1,0 +1,7 @@
+gem 'padrino-support'
+gem 'padrino-core'
+gem 'padrino-helpers'
+gem 'padrino-cache'
+gem 'padrino-mailer'
+gem 'padrino-gen'
+gem 'padrino-admin'

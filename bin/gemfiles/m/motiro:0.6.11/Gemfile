@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'daemons'
+gem 'sqlite3-ruby'
+gem 'flexmock'
+gem 'rails-app-installer'
+gem 'diff-lcs'

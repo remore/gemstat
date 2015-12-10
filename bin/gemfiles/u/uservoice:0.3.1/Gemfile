@@ -1,0 +1,4 @@
+gem 'ezcrypto'
+gem 'activesupport'
+gem 'actionpack'
+gem 'rails'

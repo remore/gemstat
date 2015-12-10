@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'flowdock'
+gem 'activerecord'
+gem 'activesupport'
+gem 'json'

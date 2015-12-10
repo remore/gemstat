@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'amqp'
+gem 'bundler'
+gem 'RedCloth'
+gem 'yard'

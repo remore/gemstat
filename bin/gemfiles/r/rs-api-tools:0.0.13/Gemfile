@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'json'
+gem 'rest_connection'
+gem 'right_api_client'
+gem 'octokit'

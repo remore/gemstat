@@ -1,0 +1,7 @@
+gem 'json_pure'
+gem 'rake'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'vagrant-spec'
+gem 'webmock'

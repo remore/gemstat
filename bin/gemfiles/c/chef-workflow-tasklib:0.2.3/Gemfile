@@ -1,0 +1,4 @@
+gem 'chef-workflow'
+gem 'knife-dsl'
+gem 'vagrant-dsl'
+gem 'rake'

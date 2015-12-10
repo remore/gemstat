@@ -1,0 +1,4 @@
+gem 'haml'
+gem 'mongrel'
+gem 'newgem'
+gem 'hoe'

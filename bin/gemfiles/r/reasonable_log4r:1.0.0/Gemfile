@@ -1,0 +1,4 @@
+gem 'log4r'
+gem 'pg'
+gem 'rails'
+gem 'rspec-rails'

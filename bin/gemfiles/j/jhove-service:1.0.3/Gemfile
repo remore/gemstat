@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'equivalent-xml'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'yard'

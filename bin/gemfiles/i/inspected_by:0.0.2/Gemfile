@@ -1,0 +1,7 @@
+gem 'grit'
+gem 'simple_uuid'
+gem 'slim'
+gem 'sinatra'
+gem 'sinatra-partial'
+gem 'rake'
+gem 'pry'

@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rest-client'
+gem 'simplecov'
+gem 'tins'
+gem 'term-ansicolor'
+gem 'thor'
+gem 'bundler'

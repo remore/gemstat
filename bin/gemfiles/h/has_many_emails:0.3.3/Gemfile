@@ -1,0 +1,7 @@
+gem 'attribute_normalizer'
+gem 'validate_email'
+gem 'attribute_normalizer'
+gem 'validate_email'
+gem 'validate_email'
+gem 'activerecord'
+gem 'remarkable_activerecord'

@@ -1,0 +1,7 @@
+gem 'net-ssh'
+gem 'net-sftp'
+gem 'aruba'
+gem 'cucumber'
+gem 'cucumber-sshd'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'anyhash'
+gem 'libxml-ruby'
+gem 'libxslt-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

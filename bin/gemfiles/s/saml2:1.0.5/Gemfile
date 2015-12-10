@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'nokogiri-xmlsec-me-harder'
+gem 'activesupport'
+gem 'rake'
+gem 'minitest'

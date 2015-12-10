@@ -1,0 +1,5 @@
+gem 'rubysl-e2mmap'
+gem 'bundler'
+gem 'rake'
+gem 'mspec'
+gem 'rubysl-prettyprint'

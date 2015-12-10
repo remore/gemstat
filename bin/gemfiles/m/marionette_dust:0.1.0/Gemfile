@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'ejs'
+gem 'execjs'
+gem 'tilt'
+gem 'sprockets'
+gem 'bundler'
+gem 'rake'

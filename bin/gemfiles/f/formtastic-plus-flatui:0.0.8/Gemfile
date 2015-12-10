@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'sass-rails'
+gem 'bootstrap-sass'
+gem 'formtastic'
+gem 'font-awesome-rails'
+gem 'formtastic-plus-bootstrap'

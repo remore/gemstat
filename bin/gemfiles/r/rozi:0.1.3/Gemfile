@@ -1,0 +1,7 @@
+gem 'datastruct'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'byebug'
+gem 'yard'
+gem 'redcarpet'

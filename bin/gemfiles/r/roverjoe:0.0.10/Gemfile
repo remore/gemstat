@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'httparty'
+gem 'cucumber'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'guard-cucumber'
+gem 'webmock'

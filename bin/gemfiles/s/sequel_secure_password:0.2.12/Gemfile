@@ -1,0 +1,7 @@
+gem 'bcrypt'
+gem 'sequel'
+gem 'rspec'
+gem 'rake'
+gem 'rubygems-tasks'
+gem 'pry'
+gem 'sqlite3'

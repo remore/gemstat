@@ -1,0 +1,6 @@
+gem 'taskmapper'
+gem 'bugherd-api'
+gem 'rspec'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rcov'

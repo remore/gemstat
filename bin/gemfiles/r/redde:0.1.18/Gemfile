@@ -1,0 +1,8 @@
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'rails'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'guard-rspec'
+gem 'sqlite3'
+gem 'generator_spec'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'autotest'
+gem 'simplecov'
+gem 'nokogiri'

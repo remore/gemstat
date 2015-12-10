@@ -1,0 +1,6 @@
+gem 'middleman'
+gem 'byebug'
+gem 'guard'
+gem 'guard-minitest'
+gem 'faker'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'osc-ruby'
+gem 'eventmachine'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'minitest-power_assert'

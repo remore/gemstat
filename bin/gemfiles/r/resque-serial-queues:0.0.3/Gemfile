@@ -1,0 +1,6 @@
+gem 'resque'
+gem 'redis-namespace'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

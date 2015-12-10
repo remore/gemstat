@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'httmultiparty'
+gem 'rack'
+gem 'bundler'
+gem 'rake'

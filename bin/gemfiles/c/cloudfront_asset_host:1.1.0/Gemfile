@@ -1,0 +1,7 @@
+gem 'right_aws'
+gem 'activesupport'
+gem 'actionpack'
+gem 'shoulda'
+gem 'mocha'
+gem 'redgreen'
+gem 'turn'

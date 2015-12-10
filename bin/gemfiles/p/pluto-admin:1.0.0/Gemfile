@@ -1,0 +1,4 @@
+gem 'pluto-models'
+gem 'sinatra'
+gem 'rdoc'
+gem 'hoe'

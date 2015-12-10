@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'activesupport'
+gem 'rspec'
+gem 'fakefs'

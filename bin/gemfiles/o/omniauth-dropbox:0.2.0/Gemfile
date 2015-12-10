@@ -1,0 +1,7 @@
+gem 'omniauth-oauth'
+gem 'rake'
+gem 'rdiscount'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'
+gem 'webmock'

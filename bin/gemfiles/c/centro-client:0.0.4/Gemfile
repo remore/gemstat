@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'webmock'
+gem 'guard-rspec'
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multi_xml'

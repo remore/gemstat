@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'readwritesettings'
+gem 'cancun'
+gem 'recursive-open-struct'
+gem 'rake'
+gem 'rspec'

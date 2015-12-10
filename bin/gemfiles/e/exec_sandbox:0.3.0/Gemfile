@@ -1,0 +1,8 @@
+gem 'ffi'
+gem 'rdoc'
+gem 'rspec'
+gem 'yard'
+gem 'yard-rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

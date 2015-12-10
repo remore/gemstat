@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'paginator'
+gem 'bundler'
+gem 'json'
+gem 'vcr'
+gem 'rake'
+gem 'webmock'

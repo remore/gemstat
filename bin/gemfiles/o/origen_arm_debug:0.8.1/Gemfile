@@ -1,0 +1,5 @@
+gem 'origen'
+gem 'origen_jtag'
+gem 'origen_swd'
+gem 'origen_doc_helpers'
+gem 'origen_testers'

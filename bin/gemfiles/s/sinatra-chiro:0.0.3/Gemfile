@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'json'
+gem 'sinatra-contrib'
+gem 'rspec'
+gem 'rake'

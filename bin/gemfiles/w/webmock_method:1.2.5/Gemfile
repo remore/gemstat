@@ -1,0 +1,5 @@
+gem 'webmock'
+gem 'haml'
+gem 'meta_methods'
+gem 'gemspec_deps_gen'
+gem 'gemcutter'

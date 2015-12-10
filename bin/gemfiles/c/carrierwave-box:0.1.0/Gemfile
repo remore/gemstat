@@ -1,0 +1,7 @@
+gem 'carrierwave'
+gem 'boxr'
+gem 'mechanize'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'

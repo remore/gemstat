@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'mocha'
+gem 'pry-nav'
+gem 'treetop'
+gem 'active_support'
+gem 'dalli'

@@ -1,0 +1,4 @@
+gem 'patron'
+gem 'json'
+gem 'addressable'
+gem 'rspec'

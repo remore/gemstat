@@ -1,0 +1,8 @@
+gem 'fspath'
+gem 'image_size'
+gem 'exifr'
+gem 'progress'
+gem 'in_threads'
+gem 'image_optim_pack'
+gem 'rspec'
+gem 'rubocop'

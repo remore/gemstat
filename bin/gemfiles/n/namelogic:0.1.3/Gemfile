@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'htmlentities'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

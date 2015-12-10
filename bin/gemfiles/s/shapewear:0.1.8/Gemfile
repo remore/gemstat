@@ -1,0 +1,8 @@
+gem 'builder'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'savon'
+gem 'wasabi'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'em-http-server'
+gem 'em-http-request'
+gem 'deep_merge'
+gem 'hashlib'
+gem 'hiredis'
+gem 'multi_json'
+gem 'oj'

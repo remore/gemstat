@@ -1,0 +1,7 @@
+gem 'abstract'
+gem 'activerecord'
+gem 'railties'
+gem 'rspec'
+gem 'rspec-its'
+gem 'sqlite3'
+gem 'shoulda-matchers'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'ruby-debug'
+gem 'nesta'
+gem 'rake'
+gem 'test-unit'

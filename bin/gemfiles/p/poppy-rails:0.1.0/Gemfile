@@ -1,0 +1,8 @@
+gem 'poppy'
+gem 'activerecord'
+gem 'pg'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'byebug'

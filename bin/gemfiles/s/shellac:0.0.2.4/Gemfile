@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'klarlack'
+gem 'rspec-rails'
+gem 'rcov'
+gem 'rails'
+gem 'sqlite3'

@@ -1,0 +1,5 @@
+gem 'em_ws_discovery'
+gem 'em-http-request'
+gem 'em-http-server'
+gem 'activesupport'
+gem 'akami'

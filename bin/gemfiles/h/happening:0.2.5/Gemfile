@@ -1,0 +1,5 @@
+gem 'em-http-request'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'mocha'

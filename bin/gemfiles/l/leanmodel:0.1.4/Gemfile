@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'uuidtools'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,8 @@
+gem 'semverse'
+gem 'berkshelf'
+gem 'ridley'
+gem 'ridley-connectors'
+gem 'thor'
+gem 'octokit'
+gem 'bundler'
+gem 'rake'

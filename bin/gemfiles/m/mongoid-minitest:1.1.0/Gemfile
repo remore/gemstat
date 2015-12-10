@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'mongoid'
+gem 'minitest-activemodel'
+gem 'minitest-matchers'
+gem 'rake'

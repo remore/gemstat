@@ -1,0 +1,4 @@
+gem 'naether'
+gem 'buildr'
+gem 'bundler'
+gem 'jeweler'

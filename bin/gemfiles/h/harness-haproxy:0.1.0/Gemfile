@@ -1,0 +1,4 @@
+gem 'harness'
+gem 'bundler'
+gem 'rake'
+gem 'webmock'

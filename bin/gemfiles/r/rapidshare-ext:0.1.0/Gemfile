@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'test-unit'
+gem 'shoulda'
+gem 'simplecov'
+gem 'fakeweb'
+gem 'mocha'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'require_all'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'

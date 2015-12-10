@@ -1,0 +1,5 @@
+gem 'sqlite3'
+gem 'active_record'
+gem 'active_support'
+gem 'test-unit'
+gem 'shoulda-context'

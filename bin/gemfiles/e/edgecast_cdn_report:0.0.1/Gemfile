@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'terminal-table'
+gem 'rake'
+gem 'minitest'
+gem 'bundler'
+gem 'webmock'

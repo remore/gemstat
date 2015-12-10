@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rest-client'
+gem 'mime-types'
+gem 'json'
+gem 'hexy'
+gem 'uuid'

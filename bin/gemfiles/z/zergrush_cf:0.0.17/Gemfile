@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'zergrush'
+gem 'fog'
+gem 'bunny'
+gem 'retries'

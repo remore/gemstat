@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rufus-jig'
+gem 'mime-types'
+gem 'rake'
+gem 'jeweler'

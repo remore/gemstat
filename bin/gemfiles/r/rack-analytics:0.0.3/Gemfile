@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'bson_ext'
+gem 'mongo'
+gem 'activesupport'
+gem 'riot'
+gem 'sinatra'
+gem 'rack-test'

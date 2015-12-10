@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rake'
+gem 'virtus'
+gem 'command-runner'

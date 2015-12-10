@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'mongoid-paranoia'
+gem 'rake'
+gem 'rspec'

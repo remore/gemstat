@@ -1,0 +1,7 @@
+gem 'formtastic'
+gem 'attribute_normalizer'
+gem 'will_paginate'
+gem 'ranked-model'
+gem 'default_value_for'
+gem 'formol-markdown'
+gem 'formol-bbcode'

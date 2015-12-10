@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rack-test'
+gem 'rack'
+gem 'multi_json'
+gem 'hipsterhash'

@@ -1,0 +1,7 @@
+gem 'curb'
+gem 'nokogiri'
+gem 'rspec'
+gem 'cucumber'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rb-fsevent'

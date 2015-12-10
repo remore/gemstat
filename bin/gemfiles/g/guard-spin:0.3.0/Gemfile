@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'spin'
+gem 'bundler'
+gem 'rspec'

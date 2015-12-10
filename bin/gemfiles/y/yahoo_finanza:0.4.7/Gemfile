@@ -1,0 +1,8 @@
+gem 'yql'
+gem 'mechanize'
+gem 'rest-client'
+gem 'fuzzy-string-match'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

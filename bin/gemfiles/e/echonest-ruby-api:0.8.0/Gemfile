@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'multi_json'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'vcr'
+gem 'webmock'
+gem 'coveralls'

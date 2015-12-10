@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'jeweler'
+gem 'dm-constraints'
+gem 'dm-is-remixable'
+gem 'rspec'
+gem 'yard'

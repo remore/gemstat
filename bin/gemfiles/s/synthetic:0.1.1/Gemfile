@@ -1,0 +1,6 @@
+gem 'cinch'
+gem 'cinch-wit'
+gem 'slop'
+gem 'bundler'
+gem 'pry-debugger'
+gem 'rake'

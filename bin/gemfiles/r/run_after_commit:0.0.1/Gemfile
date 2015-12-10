@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'activerecord'
+gem 'appraisal'
+gem 'minitest'
+gem 'hooks'

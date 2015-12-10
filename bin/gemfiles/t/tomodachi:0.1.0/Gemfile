@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'twitter'
+gem 'thor'
+gem 'userstream'
+gem 'oauth'
+gem 'unindent'
+gem 'pry'
+gem 'bundler'

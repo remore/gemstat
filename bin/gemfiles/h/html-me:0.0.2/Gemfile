@@ -1,0 +1,4 @@
+gem 'syntax'
+gem 'hpricot'
+gem 'RedCloth'
+gem 'hoe'

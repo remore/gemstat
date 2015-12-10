@@ -1,0 +1,7 @@
+gem 'spine-hub'
+gem 'spine-permissions'
+gem 'spine-restrictions'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

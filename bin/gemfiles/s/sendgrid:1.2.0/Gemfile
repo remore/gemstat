@@ -1,0 +1,5 @@
+gem 'json'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'json'

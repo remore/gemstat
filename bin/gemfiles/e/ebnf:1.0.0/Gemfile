@@ -1,0 +1,7 @@
+gem 'sxp'
+gem 'rdf'
+gem 'haml'
+gem 'rspec'
+gem 'rspec-its'
+gem 'yard'
+gem 'rake'

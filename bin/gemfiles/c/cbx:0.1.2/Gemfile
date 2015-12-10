@@ -1,0 +1,2 @@
+gem 'unirest'
+gem 'websocket-client-simple'

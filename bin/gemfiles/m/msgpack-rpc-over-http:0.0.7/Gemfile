@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'msgpack'
+gem 'celluloid'
+gem 'httpclient'
+gem 'rake'
+gem 'test-unit'

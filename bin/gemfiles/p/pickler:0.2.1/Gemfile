@@ -1,0 +1,4 @@
+gem 'crack'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'

@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rest-client'
+gem 'term-ansicolor'
+gem 'shell-utils'
+gem 'flote'

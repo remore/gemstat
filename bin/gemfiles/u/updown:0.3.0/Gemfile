@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rest-client'
+gem 'thor'
+gem 'gem_config'
+gem 'colorize'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'webmock'
+gem 'test-unit'
+gem 'fluentd'
+gem 'mysql2'
+gem 'rsolr'

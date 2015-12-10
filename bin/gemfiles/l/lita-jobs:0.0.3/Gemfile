@@ -1,0 +1,6 @@
+gem 'lita'
+gem 'yajm'
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'

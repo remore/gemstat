@@ -1,0 +1,4 @@
+gem 'libxml-ruby'
+gem 'GeoRuby'
+gem 'minitest'
+gem 'hoe'

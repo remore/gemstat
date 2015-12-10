@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'activesupport'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'gorillib-model'
+gem 'multi_json'

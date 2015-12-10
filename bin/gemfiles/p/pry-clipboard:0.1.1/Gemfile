@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'clipboard'
+gem 'rr'
+gem 'bacon'
+gem 'open4'
+gem 'rake'

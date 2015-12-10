@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'authlogic'
+gem 'test_engine'
+gem 'capybara'
+gem 'database_cleaner'

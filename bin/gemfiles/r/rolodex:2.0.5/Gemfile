@@ -1,0 +1,6 @@
+gem 'angular-html2js'
+gem 'sass'
+gem 'sprockets'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

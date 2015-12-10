@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'thor'
+gem 'rake'
+gem 'netrc'
+gem 'mash'
+gem 'foreman'
+gem 'heroku'

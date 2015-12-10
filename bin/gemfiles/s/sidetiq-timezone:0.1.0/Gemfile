@@ -1,0 +1,4 @@
+gem 'sidetiq'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

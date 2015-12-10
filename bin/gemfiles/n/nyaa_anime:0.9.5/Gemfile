@@ -1,0 +1,7 @@
+gem 'parallel'
+gem 'highline'
+gem 'nokogiri'
+gem 'colorize'
+gem 'os'
+gem 'bundler'
+gem 'rake'

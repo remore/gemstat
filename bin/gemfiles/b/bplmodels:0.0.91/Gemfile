@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'mods'
+gem 'timeliness'
+gem 'hydra-derivatives'
+gem 'sqlite3'

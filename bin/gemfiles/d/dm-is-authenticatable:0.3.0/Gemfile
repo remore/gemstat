@@ -1,0 +1,6 @@
+gem 'bcrypt-ruby'
+gem 'dm-core'
+gem 'dm-types'
+gem 'dm-validations'
+gem 'bundler'
+gem 'yard'

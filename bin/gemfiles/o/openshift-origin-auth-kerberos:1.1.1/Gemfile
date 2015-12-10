@@ -1,0 +1,6 @@
+gem 'openshift-origin-controller'
+gem 'json'
+gem 'krb5-auth'
+gem 'rake'
+gem 'bundler'
+gem 'mocha'

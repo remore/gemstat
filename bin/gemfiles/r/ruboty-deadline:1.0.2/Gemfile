@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'ruboty'
+gem 'tokiyomi'
+gem 'bundler'
+gem 'pry'
+gem 'rake'

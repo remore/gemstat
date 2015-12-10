@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'kartograph'
+gem 'virtus'
+gem 'resource_kit'

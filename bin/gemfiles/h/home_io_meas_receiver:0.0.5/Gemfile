@@ -1,0 +1,7 @@
+gem 'rufus-scheduler'
+gem 'mean'
+gem 'colorize'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'jshintrb'
+gem 'bundler'
+gem 'rake'

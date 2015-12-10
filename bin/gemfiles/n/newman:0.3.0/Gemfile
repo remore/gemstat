@@ -1,0 +1,6 @@
+gem 'mail'
+gem 'tilt'
+gem 'minitest'
+gem 'simplecov'
+gem 'purdytest'
+gem 'rake'

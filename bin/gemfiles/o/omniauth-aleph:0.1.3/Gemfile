@@ -1,0 +1,8 @@
+gem 'omniauth'
+gem 'faraday'
+gem 'multi_xml'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'webmock'
+gem 'vcr'

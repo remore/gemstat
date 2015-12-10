@@ -1,0 +1,5 @@
+gem 'spreadsheet'
+gem 'rubyzip'
+gem 'nokogiri'
+gem 'rake'
+gem 'simplecov'

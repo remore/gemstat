@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'yard'
+gem 'cucumber'
+gem 'capistrano'
+gem 'capistrano-ext'

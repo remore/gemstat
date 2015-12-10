@@ -1,0 +1,5 @@
+gem 'rack-accept'
+gem 'rspec'
+gem 'rake'
+gem 'rubocop'
+gem 'phare'

@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'jeweler'
+gem 'rake'
+gem 'sqlite3'
+gem 'rspec'
+gem 'yard'
+gem 'bluecloth'
+gem 'generator_spec'

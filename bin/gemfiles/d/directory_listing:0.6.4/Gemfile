@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'filesize'
+gem 'truncate'
+gem 'rake'
+gem 'bundler'
+gem 'shotgun'
+gem 'rack-test'

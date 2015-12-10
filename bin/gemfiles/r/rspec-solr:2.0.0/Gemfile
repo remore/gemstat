@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'rake'
+gem 'rdoc'
+gem 'yard'
+gem 'simplecov'
+gem 'travis-lint'
+gem 'rubocop'

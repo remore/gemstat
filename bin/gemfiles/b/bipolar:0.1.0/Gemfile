@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'mocha'
+gem 'mongo_mapper'
+gem 'ruby-debug'

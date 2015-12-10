@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'dotenv'
+gem 'progress_bar'
+gem 'httparty'
+gem 'mime-types'
+gem 'aws-sdk'
+gem 'bundler'

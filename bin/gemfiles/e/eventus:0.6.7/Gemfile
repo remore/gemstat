@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'uuid'
+gem 'mongo'
+gem 'redis'
+gem 'sequel'
+gem 'sqlite3'
+gem 'sequel-enhancements'

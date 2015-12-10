@@ -1,0 +1,4 @@
+gem 'carrierwave'
+gem 'net-sftp'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'aws-s3'
+gem 'faraday'
+gem 'github_api'
+gem 'uuid'
+gem 'rake'
+gem 'activesupport'
+gem 'i18n'

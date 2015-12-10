@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'dotenv-rails'
+gem 'pg'
+gem 'wisper'
+gem 'delayed_job_active_record'

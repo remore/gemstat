@@ -1,0 +1,5 @@
+gem 'json'
+gem 'activeresource'
+gem 'newgem'
+gem 'activesupport'
+gem 'hoe'

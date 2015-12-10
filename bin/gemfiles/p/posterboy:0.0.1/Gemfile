@@ -1,0 +1,7 @@
+gem 'pg'
+gem 'activerecord'
+gem 'activesupport'
+gem 'mocha'
+gem 'rspec'
+gem 'watchr'
+gem 'ruby-debug-wrapper'

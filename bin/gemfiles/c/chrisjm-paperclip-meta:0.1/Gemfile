@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'sqlite3-ruby'
+gem 'paperclip'
+gem 'swf_file'
+gem 'rspec'
+gem 'paperclip'
+gem 'swf_file'

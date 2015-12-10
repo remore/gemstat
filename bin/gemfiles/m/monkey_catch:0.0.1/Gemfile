@@ -1,0 +1,8 @@
+gem 'procto'
+gem 'ice_nine'
+gem 'adamantium'
+gem 'anima'
+gem 'concord'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'rake'
+gem 'djinni'
+gem 'os'
+gem 'salsa20'
+gem 'scoobydoo'

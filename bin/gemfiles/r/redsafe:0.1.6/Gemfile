@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'dm-core'
+gem 'dm-validations'
+gem 'dm-timestamps'
+gem 'date'
+gem 'time'

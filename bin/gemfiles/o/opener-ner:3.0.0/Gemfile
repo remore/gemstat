@@ -1,0 +1,6 @@
+gem 'opener-ner-base'
+gem 'opener-daemons'
+gem 'opener-webservice'
+gem 'opener-core'
+gem 'nokogiri'
+gem 'rake'

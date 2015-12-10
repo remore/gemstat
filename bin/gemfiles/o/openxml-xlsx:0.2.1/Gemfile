@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'openxml-package'
+gem 'pry'
+gem 'rspec'
+gem 'rake'
+gem 'rr'
+gem 'simplecov'
+gem 'timecop'

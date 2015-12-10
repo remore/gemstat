@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'coffee-rails'
+gem 'pg'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'jasmine-rails'
+gem 'coveralls'

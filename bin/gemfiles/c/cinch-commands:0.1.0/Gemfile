@@ -1,0 +1,4 @@
+gem 'cinch'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'yard'

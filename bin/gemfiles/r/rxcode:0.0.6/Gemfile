@@ -1,0 +1,8 @@
+gem 'plist'
+gem 'trollop'
+gem 'nokogiri'
+gem 'gemcutter'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

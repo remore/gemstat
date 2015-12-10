@@ -1,0 +1,4 @@
+gem 'naether'
+gem 'thor'
+gem 'rspec'
+gem 'rake'

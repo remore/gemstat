@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'rethinkdb'
+gem 'rake'
+gem 'rspec'

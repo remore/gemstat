@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'generator-spec'
+gem 'rspec'
+gem 'require_all'
+gem 'sugar-high'
+gem 'rails_assist'
+gem 'migration_assist'

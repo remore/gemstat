@@ -1,0 +1,2 @@
+gem 'fast-aes'
+gem 'rspec'

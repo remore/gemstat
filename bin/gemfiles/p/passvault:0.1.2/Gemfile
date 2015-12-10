@@ -1,0 +1,4 @@
+gem 'smartcard'
+gem 'highline'
+gem 'clipboard'
+gem 'wxruby-ruby19'

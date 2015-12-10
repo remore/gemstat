@@ -1,0 +1,6 @@
+gem 'thoughtbot-shoulda'
+gem 'rspec'
+gem 'metamri'
+gem 'log4r'
+gem 'POpen4'
+gem 'ruport'

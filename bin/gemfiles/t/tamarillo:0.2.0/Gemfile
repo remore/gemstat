@@ -1,0 +1,6 @@
+gem 'aruba'
+gem 'active_support'
+gem 'fakefs'
+gem 'rspec'
+gem 'timecop'
+gem 'gli'

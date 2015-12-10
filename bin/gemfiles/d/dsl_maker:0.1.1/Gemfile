@@ -1,0 +1,8 @@
+gem 'docile'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubygems-tasks'
+gem 'yard'
+gem 'redcarpet'
+gem 'github-markup'

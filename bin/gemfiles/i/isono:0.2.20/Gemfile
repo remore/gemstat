@@ -1,0 +1,5 @@
+gem 'amqp'
+gem 'eventmachine'
+gem 'log4r'
+gem 'bacon'
+gem 'rake'

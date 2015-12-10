@@ -1,0 +1,7 @@
+gem 'bunny'
+gem 'activesupport'
+gem 'activemodel'
+gem 'mono_logger'
+gem 'rake'
+gem 'rspec'
+gem 'resque'

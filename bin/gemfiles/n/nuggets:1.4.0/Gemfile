@@ -1,0 +1,5 @@
+gem 'mime-types'
+gem 'open4'
+gem 'hen'
+gem 'rake'
+gem 'rspec'

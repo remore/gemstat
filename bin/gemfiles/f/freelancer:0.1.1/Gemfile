@@ -1,0 +1,8 @@
+gem 'oauth'
+gem 'htmlentities'
+gem 'json_mapper'
+gem 'jeweler'
+gem 'shoulda'
+gem 'mcmire-matchy'
+gem 'mocha'
+gem 'fakeweb'

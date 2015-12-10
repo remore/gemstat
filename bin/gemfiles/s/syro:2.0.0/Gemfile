@@ -1,0 +1,4 @@
+gem 'seg'
+gem 'rack'
+gem 'cutest'
+gem 'rack-test'

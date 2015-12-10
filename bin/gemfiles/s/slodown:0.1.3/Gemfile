@@ -1,0 +1,8 @@
+gem 'kramdown'
+gem 'coderay'
+gem 'sanitize'
+gem 'rinku'
+gem 'ruby-oembed'
+gem 'rspec'
+gem 'rspec-html-matchers'
+gem 'rake'

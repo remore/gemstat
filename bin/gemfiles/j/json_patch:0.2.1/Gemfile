@@ -1,0 +1,5 @@
+gem 'mocha'
+gem 'rspec'
+gem 'bson_ext'
+gem 'mongoid'
+gem 'gemfury'

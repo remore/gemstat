@@ -1,0 +1,7 @@
+gem 'httpclient'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'rdoc'
+gem 'simplecov'
+gem 'reek'

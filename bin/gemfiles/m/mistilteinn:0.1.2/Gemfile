@@ -1,0 +1,4 @@
+gem 'json'
+gem 'subcommand'
+gem 'rspec'
+gem 'rake'

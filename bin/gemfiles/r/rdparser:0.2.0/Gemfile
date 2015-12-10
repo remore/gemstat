@@ -1,0 +1,7 @@
+gem 'rdoc'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'spork'
+gem 'watchr'

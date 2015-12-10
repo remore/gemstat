@@ -1,0 +1,4 @@
+gem 'json'
+gem 'mechanize'
+gem 'nokogiri'
+gem 'fxruby'

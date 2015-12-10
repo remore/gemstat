@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'bundler'
+gem 'grape'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'rubocop-rspec'

@@ -1,0 +1,6 @@
+gem 'miu'
+gem 'celluloid-zmq'
+gem 'saorin'
+gem 'saorin-msgpack'
+gem 'rake'
+gem 'rspec'

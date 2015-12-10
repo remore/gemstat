@@ -1,0 +1,8 @@
+gem 'cron-spec'
+gem 'sequel'
+gem 'tzinfo'
+gem 'perfectqueue'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'sqlite3'

@@ -1,0 +1,6 @@
+gem 'ixtlan-core'
+gem 'ixtlan-audit'
+gem 'rails'
+gem 'rspec'
+gem 'cucumber'
+gem 'ruby-maven'

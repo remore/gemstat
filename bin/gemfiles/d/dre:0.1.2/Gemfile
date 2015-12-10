@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'responders'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'pry'
+gem 'appraisal'
+gem 'shoulda-matchers'

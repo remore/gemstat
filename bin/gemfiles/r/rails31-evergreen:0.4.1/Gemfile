@@ -1,0 +1,8 @@
+gem 'capybara'
+gem 'launchy'
+gem 'sinatra'
+gem 'json_pure'
+gem 'coffee-script'
+gem 'rspec'
+gem 'capybara-webkit'
+gem 'therubyracer'

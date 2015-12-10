@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'nokogiri'
+gem 'nokogiri-happymapper'
+gem 'rspec'
+gem 'webmock'
+gem 'nokogiri-happymapper'
+gem 'activesupport'

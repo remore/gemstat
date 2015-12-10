@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'rspec'
+gem 'rake'
+gem 'rack-test'
+gem 'pry'
+gem 'awesome_print'

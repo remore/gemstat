@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'rack-cache'
+gem 'html_truncator'
+gem 'thin'
+gem 'rdiscount'
+gem 'thor'

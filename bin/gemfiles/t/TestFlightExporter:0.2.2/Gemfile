@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'highline'
+gem 'colored'
+gem 'commander'
+gem 'shenzhen'
+gem 'bundler'
+gem 'rake'

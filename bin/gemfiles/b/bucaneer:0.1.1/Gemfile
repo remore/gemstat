@@ -1,0 +1,8 @@
+gem 'ruby-serialport'
+gem 'bundler'
+gem 'hirb'
+gem 'rake'
+gem 'rcov'
+gem 'rspec'
+gem 'rr'
+gem 'wirble'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'reek'
+gem 'cane'
+gem 'cucumber'
+gem 'slop'

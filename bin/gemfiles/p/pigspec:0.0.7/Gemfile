@@ -1,0 +1,6 @@
+gem 'rjb'
+gem 'cleanroom'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

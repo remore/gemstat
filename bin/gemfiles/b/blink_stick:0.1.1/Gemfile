@@ -1,0 +1,6 @@
+gem 'libusb'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'guard-minitest'

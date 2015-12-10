@@ -1,0 +1,5 @@
+gem 'mongo_mapper'
+gem 'eventmachine'
+gem 'sinatra'
+gem 'haml'
+gem 'vegas'

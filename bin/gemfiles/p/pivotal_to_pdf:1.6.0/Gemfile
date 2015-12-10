@@ -1,0 +1,5 @@
+gem 'pivotal_to_pdf-formatters'
+gem 'activeresource'
+gem 'prawn'
+gem 'thor'
+gem 'rspec'

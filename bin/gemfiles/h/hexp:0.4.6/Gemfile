@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'equalizer'
+gem 'concord'
+gem 'rake'
+gem 'rspec'
+gem 'benchmark_suite'
+gem 'mutant-rspec'
+gem 'rspec-its'

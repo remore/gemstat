@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'dotenv'
+gem 'aws-sdk'
+gem 'iron_worker_ng'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-debugger'

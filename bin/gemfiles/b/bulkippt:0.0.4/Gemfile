@@ -1,0 +1,6 @@
+gem 'kippt'
+gem 'rake'
+gem 'rspec'
+gem 'fivemat'
+gem 'pry'
+gem 'pry-debugger'

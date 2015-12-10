@@ -1,0 +1,2 @@
+gem 'ruby-mpd'
+gem 'highline'

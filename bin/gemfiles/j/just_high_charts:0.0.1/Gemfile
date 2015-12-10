@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'hash-deep-merge'
+gem 'activesupport'
+gem 'actionview'

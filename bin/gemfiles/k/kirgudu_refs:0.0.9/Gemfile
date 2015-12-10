@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'chupakabra_tools'
+gem 'kirgudu_base'
+gem 'validate_as_url'
+gem 'validate_as_seo_tag'
+gem 'sqlite3'

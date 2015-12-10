@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'json'
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'fuubar'
+gem 'factory_girl'
+gem 'faker'

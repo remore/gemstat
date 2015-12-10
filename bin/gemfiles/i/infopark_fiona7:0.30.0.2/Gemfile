@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'scrivito'
+gem 'scrivito_sdk'
+gem 'scrivito_editors'
+gem 'infopark_fiona_connector'
+gem 'infopark_reactor'

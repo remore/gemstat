@@ -1,0 +1,4 @@
+gem 'blabbermouth'
+gem 'rollbar'
+gem 'rake'
+gem 'rspec'

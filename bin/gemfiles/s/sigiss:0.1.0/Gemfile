@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'lotus-validations'
+gem 'savon'
+gem 'rspec'
+gem 'pry'
+gem 'codeclimate-test-reporter'

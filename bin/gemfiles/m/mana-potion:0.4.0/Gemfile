@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'timecop'

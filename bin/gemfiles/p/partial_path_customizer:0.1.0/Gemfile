@@ -1,0 +1,6 @@
+gem 'dumb_delegator'
+gem 'appraisal'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'rspec-activemodel-mocks'
+gem 'pry'

@@ -1,0 +1,6 @@
+gem 'statsd-ruby'
+gem 'eventmachine'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

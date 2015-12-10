@@ -1,0 +1,5 @@
+gem 'mail'
+gem 'highline'
+gem 'sequel'
+gem 'sqlite3'
+gem 'versionomy'

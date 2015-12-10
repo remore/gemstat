@@ -1,0 +1,7 @@
+gem 'fog'
+gem 'unf'
+gem 'pry'
+gem 'rake'
+gem 'fakefs'
+gem 'rspec'
+gem 'guard-rspec'

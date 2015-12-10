@@ -1,0 +1,5 @@
+gem 'object-proxy'
+gem 'eventmachine'
+gem 'bundler'
+gem 'jeweler'
+gem 'riot'

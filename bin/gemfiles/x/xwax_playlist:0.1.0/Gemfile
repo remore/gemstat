@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'debase'
+gem 'ruby-debug-ide'
+gem 'plist'
+gem 'addressable'

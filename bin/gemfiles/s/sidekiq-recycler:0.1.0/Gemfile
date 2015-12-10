@@ -1,0 +1,7 @@
+gem 'sidekiq'
+gem 'rake'
+gem 'jeweler'
+gem 'yard'
+gem 'logging'
+gem 'easycov'
+gem 'micron'

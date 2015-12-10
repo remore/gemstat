@@ -1,0 +1,4 @@
+gem 'grape'
+gem 'rake'
+gem 'activesupport'
+gem 'rspec'

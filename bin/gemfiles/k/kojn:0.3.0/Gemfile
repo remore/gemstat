@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'faraday'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'rdoc'

@@ -1,0 +1,2 @@
+gem 'guard-compat'
+gem 'puppet'

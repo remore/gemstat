@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'actionpack'
+gem 'tzinfo'
+gem 'rspec'
+gem 'rake'

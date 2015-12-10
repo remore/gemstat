@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'sinatra'
+gem 'erubis'
+gem 'daybreak'
+gem 'colorize'

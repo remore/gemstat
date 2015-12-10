@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'rdoc'
+gem 'httparty'
+gem 'mocha'
+gem 'json'
+gem 'bundler'
+gem 'webmock'
+gem 'jeweler'

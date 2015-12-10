@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rails'
+gem 'actionpack'
+gem 'activesupport'
+gem 'pry-debugger'
+gem 'rspec-rails'
+gem 'guard-rspec'

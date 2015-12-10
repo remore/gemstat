@@ -1,0 +1,5 @@
+gem 'haml-rails'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

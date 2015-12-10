@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'actionpack'
+gem 'railties'
+gem 'kaminari'
+gem 'will_paginate'
+gem 'bundler'
+gem 'timecop'

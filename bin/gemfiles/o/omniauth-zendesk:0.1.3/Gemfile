@@ -1,0 +1,6 @@
+gem 'omniauth'
+gem 'zendesk_api'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'

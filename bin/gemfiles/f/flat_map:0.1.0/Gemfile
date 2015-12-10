@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'yard'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'bundler'
+gem 'oauth'
+gem 'httparty'
+gem 'xml-fu'

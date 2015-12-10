@@ -1,0 +1,4 @@
+gem 'airbrake'
+gem 'sucker_punch'
+gem 'growl'
+gem 'terminal-notifier'

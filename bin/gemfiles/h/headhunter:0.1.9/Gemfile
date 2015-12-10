@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'css_parser'
+gem 'colorize'
+gem 'nokogiri'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'jazz_hands'

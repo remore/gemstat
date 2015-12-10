@@ -1,0 +1,5 @@
+gem 'mb_string'
+gem 'terminal-table'
+gem 'unicode-display_width'
+gem 'bundler'
+gem 'rake'

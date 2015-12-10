@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'fontcustom'
+gem 'sqlite3'
+gem 'jquery-rails'

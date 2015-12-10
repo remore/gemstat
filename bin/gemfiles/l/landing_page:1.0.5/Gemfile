@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'slim-rails'
+gem 'createsend'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'factory_girl_rails'
+gem 'shoulda-matchers'

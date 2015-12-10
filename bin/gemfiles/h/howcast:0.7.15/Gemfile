@@ -1,0 +1,5 @@
+gem 'hpricot'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-debug'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'paper_trail'
+gem 'jeweler'
+gem 'paper_trail'

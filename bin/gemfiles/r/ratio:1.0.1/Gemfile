@@ -1,0 +1,5 @@
+gem 'byebug'
+gem 'simplecov'
+gem 'rake'
+gem 'minitest'
+gem 'timecop'

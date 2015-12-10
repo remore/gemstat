@@ -1,0 +1,6 @@
+gem 'parslet'
+gem 'linkeddata'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdf-reasoner'

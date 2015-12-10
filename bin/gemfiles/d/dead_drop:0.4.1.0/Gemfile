@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'activerecord-jdbcsqlite3-adapter'

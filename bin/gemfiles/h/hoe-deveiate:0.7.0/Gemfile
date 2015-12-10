@@ -1,0 +1,6 @@
+gem 'hoe'
+gem 'hoe-highline'
+gem 'hoe-mercurial'
+gem 'mail'
+gem 'rspec'
+gem 'rdoc'

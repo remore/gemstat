@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'dragonfly'
+gem 'sqlite3'
+gem 'pry'

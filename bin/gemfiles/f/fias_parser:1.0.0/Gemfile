@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'ox'
+gem 'cocaine'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'devise'
+gem 'mm-devise'
+gem 'noodall-ui'
+gem 'bundler'

@@ -1,0 +1,8 @@
+gem 'parslet'
+gem 'colorize'
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'codeclimate-test-reporter'
+gem 'jeweler'

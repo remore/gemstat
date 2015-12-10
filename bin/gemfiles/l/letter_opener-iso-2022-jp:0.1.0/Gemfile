@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mail-iso-2022-jp'
+gem 'pry-debugger'
+gem 'letter_opener'

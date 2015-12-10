@@ -1,0 +1,6 @@
+gem 'countries'
+gem 'excon'
+gem 'multi_xml'
+gem 'minitest'
+gem 'rake'
+gem 'vcr'

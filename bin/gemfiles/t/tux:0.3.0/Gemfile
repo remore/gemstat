@@ -1,0 +1,6 @@
+gem 'ripl'
+gem 'ripl-rack'
+gem 'ripl-multi_line'
+gem 'sinatra'
+gem 'bacon'
+gem 'bacon-bits'

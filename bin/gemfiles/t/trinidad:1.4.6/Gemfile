@@ -1,0 +1,6 @@
+gem 'trinidad_jars'
+gem 'jruby-rack'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'fakefs'

@@ -1,0 +1,2 @@
+gem 'forgeos_core'
+gem 'acts_as_commentable'

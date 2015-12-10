@@ -1,0 +1,5 @@
+gem 'deep_merge'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

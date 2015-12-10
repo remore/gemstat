@@ -1,0 +1,5 @@
+gem 'american_date'
+gem 'activesupport'
+gem 'activerecord'
+gem 'rspec'
+gem 'with_model'

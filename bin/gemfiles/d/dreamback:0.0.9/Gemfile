@@ -1,0 +1,4 @@
+gem 'json'
+gem 'net-sftp'
+gem 'cronedit'
+gem 'commander'

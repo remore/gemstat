@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'slim'
+gem 'sprockets'
+gem 'opal'

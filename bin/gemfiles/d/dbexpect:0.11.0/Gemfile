@@ -1,0 +1,8 @@
+gem 'ruby-odbc'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'pg'
+gem 'pry'
+gem 'ZenTest'

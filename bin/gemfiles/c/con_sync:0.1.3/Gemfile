@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'global_phone'
+gem 'encrypted_strings'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'rails_best_practices'
+gem 'brakeman'
+gem 'bundler'
+gem 'rake'

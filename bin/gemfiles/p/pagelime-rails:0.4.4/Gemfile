@@ -1,0 +1,4 @@
+gem 'pagelime-rack'
+gem 'rails'
+gem 'bundler'
+gem 'jeweler'

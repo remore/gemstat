@@ -1,0 +1,7 @@
+gem 'beerdb-models'
+gem 'datafile'
+gem 'fetcher'
+gem 'gli'
+gem 'sqlite3'
+gem 'rdoc'
+gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'optiflag'
+gem 'rubyzip'
+gem 'htmlentities'

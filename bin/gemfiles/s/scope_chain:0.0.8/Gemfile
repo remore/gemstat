@@ -1,0 +1,4 @@
+gem 'mocha'
+gem 'activerecord'
+gem 'rspec'
+gem 'sqlite3'

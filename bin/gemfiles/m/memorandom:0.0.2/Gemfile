@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'credit_card_validator'

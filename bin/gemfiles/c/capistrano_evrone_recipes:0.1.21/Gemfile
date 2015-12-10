@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'foreman'
+gem 'foreman_export_runitu'
+gem 'whenever'

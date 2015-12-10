@@ -1,0 +1,5 @@
+gem 'mocha'
+gem 'rspec'
+gem 'autotest-standalone'
+gem 'peach'
+gem 'trollop'

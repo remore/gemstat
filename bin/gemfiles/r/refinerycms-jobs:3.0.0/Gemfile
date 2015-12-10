@@ -1,0 +1,4 @@
+gem 'refinerycms-core'
+gem 'refinerycms-settings'
+gem 'dragonfly'
+gem 'filters_spam'

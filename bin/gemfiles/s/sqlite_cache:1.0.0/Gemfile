@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sequel'
+gem 'activesupport'
+gem 'sqlite3'
+gem 'dalli'

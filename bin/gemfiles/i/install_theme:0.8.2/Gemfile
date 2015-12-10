@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'rubigen'
+gem 'drnic-haml'
+gem 'hoe'

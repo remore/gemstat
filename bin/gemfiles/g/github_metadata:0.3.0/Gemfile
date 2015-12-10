@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'feedzirra'
+gem 'i18n'
+gem 'rspec'
+gem 'simplecov'

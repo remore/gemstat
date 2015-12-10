@@ -1,0 +1,5 @@
+gem 'multi_json'
+gem 'rspec'
+gem 'yard'
+gem 'rake'
+gem 'bundler'

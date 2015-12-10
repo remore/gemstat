@@ -1,0 +1,8 @@
+gem 'docopt'
+gem 'rmagick'
+gem 'bundler'
+gem 'cucumber'
+gem 'minitest'
+gem 'pry'
+gem 'rake'
+gem 'review'

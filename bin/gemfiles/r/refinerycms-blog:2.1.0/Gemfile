@@ -1,0 +1,7 @@
+gem 'refinerycms-core'
+gem 'refinerycms-settings'
+gem 'filters_spam'
+gem 'acts-as-taggable-on'
+gem 'seo_meta'
+gem 'rails_autolink'
+gem 'friendly_id'

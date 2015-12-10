@@ -1,0 +1,6 @@
+gem 'oauth'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'rdoc'

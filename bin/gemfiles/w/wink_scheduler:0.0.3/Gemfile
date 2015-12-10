@@ -1,0 +1,4 @@
+gem 'weather-api'
+gem 'winker'
+gem 'bundler'
+gem 'rake'

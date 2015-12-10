@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'aruba'
+gem 'activesupport'
+gem 'shoulda'
+gem 'ruby-debug'
+gem 'rr'

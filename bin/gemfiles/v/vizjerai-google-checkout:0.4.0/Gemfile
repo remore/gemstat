@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'money'
+gem 'nokogiri'
+gem 'builder'
+gem 'bundler'
+gem 'rubygems-bundler'
+gem 'rspec'

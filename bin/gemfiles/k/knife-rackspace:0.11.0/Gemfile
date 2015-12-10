@@ -1,0 +1,8 @@
+gem 'knife-windows'
+gem 'fog'
+gem 'chef'
+gem 'knife-dsl'
+gem 'rspec'
+gem 'vcr'
+gem 'ansi'
+gem 'rake'

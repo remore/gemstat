@@ -1,0 +1,7 @@
+gem 'crack'
+gem 'faraday'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

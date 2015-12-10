@@ -1,0 +1,8 @@
+gem 'httpclient'
+gem 'nokogiri'
+gem 'parallel'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

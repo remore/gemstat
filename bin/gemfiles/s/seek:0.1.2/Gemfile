@@ -1,0 +1,4 @@
+gem 'positify'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'

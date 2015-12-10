@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'actionpack'
+gem 'awesome_print'
+gem 'rake'
+gem 'thor'
+gem 'bundler'
+gem 'rspec'

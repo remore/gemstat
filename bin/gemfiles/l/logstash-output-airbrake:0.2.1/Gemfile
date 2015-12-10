@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'airbrake'
+gem 'logstash-input-generator'
+gem 'logstash-devutils'

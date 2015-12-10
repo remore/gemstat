@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'extlib'
+gem 'dm-core'
+gem 'dm-aggregates'
+gem 'data_objects'
+gem 'dm-cutie'

@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'extlib'
+gem 'coderay'
+gem 'guard'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

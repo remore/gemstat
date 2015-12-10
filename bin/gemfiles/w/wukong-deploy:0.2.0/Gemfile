@@ -1,0 +1,4 @@
+gem 'wukong'
+gem 'rake'
+gem 'erubis'
+gem 'diffy'

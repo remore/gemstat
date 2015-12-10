@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'redis-namespace'
+gem 'sqlite3'
+gem 'pry-meta'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'happy_place'
+gem 'bundler'
+gem 'rake'

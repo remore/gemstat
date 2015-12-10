@@ -1,0 +1,4 @@
+gem 'github_api'
+gem 'bitbucket_rest_api'
+gem 'semantic_logger'
+gem 'pry'

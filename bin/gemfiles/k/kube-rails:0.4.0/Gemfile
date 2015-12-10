@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'actionpack'
+gem 'less-rails'
+gem 'therubyracer'
+gem 'rails'

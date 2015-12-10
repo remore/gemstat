@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'httparty'
+gem 'sinatra-synchrony'
+gem 'bundler'
+gem 'rake'

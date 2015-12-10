@@ -1,0 +1,4 @@
+gem 'mina'
+gem 'ridgepole'
+gem 'bundler'
+gem 'rake'

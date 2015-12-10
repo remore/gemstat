@@ -1,0 +1,6 @@
+gem 'honeybadger'
+gem 'delayed_job'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'fuubar'

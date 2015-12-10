@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'cucumber'
+gem 'yard-cucumber'
+gem 'psych'
+gem 'i18n'

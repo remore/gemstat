@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'rake'

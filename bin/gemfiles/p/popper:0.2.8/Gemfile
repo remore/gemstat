@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'slack-notifier'
+gem 'toml'
+gem 'mail'
+gem 'octokit'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

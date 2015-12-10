@@ -1,0 +1,4 @@
+gem 'libwebsocket'
+gem 'ruby-hmac'
+gem 'addressable'
+gem 'bacon'

@@ -1,0 +1,4 @@
+gem 'paint'
+gem 'unicode-display_width'
+gem 'rspec'
+gem 'rake'

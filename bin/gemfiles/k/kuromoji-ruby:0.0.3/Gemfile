@@ -1,0 +1,7 @@
+gem 'rjb'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'thor'
+gem 'yajl-ruby'

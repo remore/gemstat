@@ -1,0 +1,6 @@
+gem 'ox'
+gem 'rubyzip'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'oga'

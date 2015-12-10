@@ -1,0 +1,8 @@
+gem 'json'
+gem 'rake'
+gem 'ronn'
+gem 'fakefs'
+gem 'rcov'
+gem 'rr'
+gem 'rspec'
+gem 'webmock'

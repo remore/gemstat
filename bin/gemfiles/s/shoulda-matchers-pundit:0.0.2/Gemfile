@@ -1,0 +1,7 @@
+gem 'shoulda-matchers'
+gem 'pundit'
+gem 'bundler'
+gem 'rake'
+gem 'minitest-matchers'
+gem 'minitest-reporters-ws'
+gem 'pry'

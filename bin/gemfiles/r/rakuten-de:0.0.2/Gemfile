@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'rest-client'
+gem 'yard'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'rspec-expectations'
+gem 'bundler'
+gem 'webmock'

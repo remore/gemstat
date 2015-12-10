@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rack'
+gem 'rack-contrib'
+gem 'nokogiri'
+gem 'sinatra'
+gem 'sinatra-param'
+gem 'sequel'
+gem 'activesupport'

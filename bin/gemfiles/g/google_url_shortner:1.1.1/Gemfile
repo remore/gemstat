@@ -1,0 +1,7 @@
+gem 'rack_restrictor'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'fakeweb'
+gem 'httparty'

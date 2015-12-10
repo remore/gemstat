@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'hipchat-api'
+gem 'rake'
+gem 'simplecov'
+gem 'rr'
+gem 'pry'

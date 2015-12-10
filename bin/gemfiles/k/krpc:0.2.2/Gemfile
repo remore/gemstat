@@ -1,0 +1,7 @@
+gem 'ruby_protobuf'
+gem 'colorize'
+gem 'nokogiri'
+gem 'bundler'
+gem 'pry'
+gem 'rspec'
+gem 'hanna-nouveau'

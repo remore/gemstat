@@ -1,0 +1,6 @@
+gem 'og'
+gem 'gen'
+gem 'glue'
+gem 'RedCloth'
+gem 'ruby-breakpoint'
+gem 'daemons'

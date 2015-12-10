@@ -1,0 +1,5 @@
+gem 'smarter_csv'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'pry'

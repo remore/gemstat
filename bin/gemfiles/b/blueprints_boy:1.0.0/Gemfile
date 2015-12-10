@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'appraisal'
+gem 'activesupport'
+gem 'database_cleaner'

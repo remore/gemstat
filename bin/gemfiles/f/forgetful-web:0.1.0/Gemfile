@@ -1,0 +1,6 @@
+gem 'vegas'
+gem 'sinatra'
+gem 'json'
+gem 'forgetful'
+gem 'bundler'
+gem 'jeweler'

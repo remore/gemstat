@@ -1,0 +1,4 @@
+gem 'childprocess'
+gem 'rspec'
+gem 'cucumber'
+gem 'ADB'

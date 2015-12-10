@@ -1,0 +1,8 @@
+gem 'ruby-openid'
+gem 'sinatra'
+gem 'haml'
+gem 'guid'
+gem 'dm-core'
+gem 'dm-types'
+gem 'dm-timestamps'
+gem 'dm-validations'

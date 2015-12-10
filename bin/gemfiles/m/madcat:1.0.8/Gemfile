@@ -1,0 +1,6 @@
+gem 'optix'
+gem 'open4'
+gem 'hashie'
+gem 'json'
+gem 'chronic_duration'
+gem 'deep_merge'

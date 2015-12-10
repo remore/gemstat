@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'capistrano'
+gem 'capistrano_colors'
+gem 'capistrano-database'
+gem 'capistrano-utils'
+gem 'capistrano-server'
+gem 'capistrano-content'
+gem 'capistrano-multistage'

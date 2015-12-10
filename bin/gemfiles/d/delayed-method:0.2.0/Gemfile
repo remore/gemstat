@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'activesupport'
+gem 'rspec'
+gem 'debugger'
+gem 'activerecord'

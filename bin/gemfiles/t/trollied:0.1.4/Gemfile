@@ -1,0 +1,5 @@
+gem 'workflow'
+gem 'will_paginate'
+gem 'shoulda'
+gem 'factory_girl'
+gem 'webrat'

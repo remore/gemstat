@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'colored'
+gem 'string_utf8'
+gem 'rake'
+gem 'test-unit'
+gem 'bundler'

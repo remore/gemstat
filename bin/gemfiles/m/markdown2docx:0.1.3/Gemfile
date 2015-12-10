@@ -1,0 +1,5 @@
+gem 'dimensions'
+gem 'rubyzip'
+gem 'nokogiri'
+gem 'dimensions'
+gem 'kramdown'

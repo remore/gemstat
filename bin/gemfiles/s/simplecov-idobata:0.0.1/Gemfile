@@ -1,0 +1,8 @@
+gem 'simplecov'
+gem 'idobadge'
+gem 'idobata_hook'
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'minitest'
+gem 'webmock'
+gem 'rake'

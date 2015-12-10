@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'bundler'
+gem 'dotenv'
+gem 'rake'
+gem 'rspec'

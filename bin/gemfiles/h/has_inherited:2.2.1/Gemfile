@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rake'
+gem 'bacon'
+gem 'sqlite3'
+gem 'jeweler'

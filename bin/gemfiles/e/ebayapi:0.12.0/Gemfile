@@ -1,0 +1,2 @@
+gem 'xml-mapping'
+gem 'money'

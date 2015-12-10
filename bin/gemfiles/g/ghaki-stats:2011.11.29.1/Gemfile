@@ -1,0 +1,5 @@
+gem 'ghaki-app'
+gem 'rspec'
+gem 'mocha'
+gem 'rdoc'
+gem 'ghaki-logger'

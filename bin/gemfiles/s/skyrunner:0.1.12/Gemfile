@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'aws-sdk'
+gem 'activesupport'
+gem 'log4r'
+gem 'trollop'
+gem 'retries'

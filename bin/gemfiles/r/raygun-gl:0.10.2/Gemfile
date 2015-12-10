@@ -1,0 +1,4 @@
+gem 'gitlab'
+gem 'pry'
+gem 'awesome_print'
+gem 'rake'

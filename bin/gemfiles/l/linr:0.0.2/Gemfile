@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'bundler'
+gem 'coveralls'
+gem 'inch'
+gem 'rubocop'

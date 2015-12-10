@@ -1,0 +1,5 @@
+gem 'factor-connector-api'
+gem 'jenkins_api_client'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'

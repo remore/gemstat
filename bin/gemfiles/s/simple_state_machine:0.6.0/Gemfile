@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'ZenTest'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3-ruby'
+gem 'ruby-debug'

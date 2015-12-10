@@ -1,0 +1,4 @@
+gem 'cassandra-driver'
+gem 'activesupport'
+gem 'batch_reactor'
+gem 'thomas_utils'

@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'jnunemaker-matchy'
+gem 'bundler'
+gem 'jeweler'
+gem 'rr'

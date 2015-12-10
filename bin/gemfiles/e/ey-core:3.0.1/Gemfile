@@ -1,0 +1,7 @@
+gem 'addressable'
+gem 'cistern'
+gem 'ey-hmac'
+gem 'sshkey'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'mime-types'

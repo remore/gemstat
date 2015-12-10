@@ -1,0 +1,6 @@
+gem 'pakyow-support'
+gem 'pakyow-core'
+gem 'nokogiri'
+gem 'minitest'
+gem 'rspec'
+gem 'pry'

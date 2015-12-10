@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'jaspec'
+gem 'bundler'
+gem 'rake'

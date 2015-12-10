@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rubyforge'
+gem 'rspec'
+gem 'rr'
+gem 'hoe'

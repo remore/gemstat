@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'factory_girl'
+gem 'fakeweb'
+gem 'faker'
+gem 'activeresource'

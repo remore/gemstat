@@ -1,0 +1,6 @@
+gem 'curb'
+gem 'scrapi'
+gem 'tzinfo'
+gem 'json'
+gem 'tidy'
+gem 'htmlentities'

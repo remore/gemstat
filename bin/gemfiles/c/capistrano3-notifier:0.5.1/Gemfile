@@ -1,0 +1,6 @@
+gem 'actionmailer'
+gem 'capistrano'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'pry'

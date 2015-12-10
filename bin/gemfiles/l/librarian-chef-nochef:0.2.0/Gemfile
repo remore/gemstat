@@ -1,0 +1,5 @@
+gem 'librarian'
+gem 'minitar'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

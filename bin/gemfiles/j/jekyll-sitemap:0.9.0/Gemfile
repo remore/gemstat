@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'jekyll-last-modified-at'
+gem 'rspec'
+gem 'rake'
+gem 'bundler'

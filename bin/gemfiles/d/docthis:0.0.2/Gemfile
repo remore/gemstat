@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'pygmentize'
+gem 'redcarpet'
+gem 'sqlite3'

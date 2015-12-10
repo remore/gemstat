@@ -1,0 +1,2 @@
+gem 'monospace_text_formatter'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'colorize'
+gem 'erubis'
+gem 'thor'
+gem 'mute'
+gem 'minitest'

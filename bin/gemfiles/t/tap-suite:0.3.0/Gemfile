@@ -1,0 +1,6 @@
+gem 'tap'
+gem 'rap'
+gem 'tap-gen'
+gem 'tap-server'
+gem 'tap-tasks'
+gem 'tap-test'

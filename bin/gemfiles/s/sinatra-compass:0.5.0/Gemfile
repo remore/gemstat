@@ -1,0 +1,7 @@
+gem 'monkey-lib'
+gem 'sinatra-sugar'
+gem 'haml-more'
+gem 'sinatra-test-helper'
+gem 'sinatra'
+gem 'compass'
+gem 'rspec'

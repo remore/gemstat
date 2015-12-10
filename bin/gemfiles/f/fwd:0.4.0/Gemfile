@@ -1,0 +1,7 @@
+gem 'eventmachine-le'
+gem 'servolux'
+gem 'connection_pool'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'yard'

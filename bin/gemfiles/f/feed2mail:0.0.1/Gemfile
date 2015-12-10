@@ -1,0 +1,4 @@
+gem 'htmlentities'
+gem 'pony'
+gem 'simple-rss'
+gem 'rspec'

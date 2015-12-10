@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rake-notes'
+gem 'autotest'
+gem 'rubocop'
+gem 'code_statistics'
+gem 'compass-normalize'

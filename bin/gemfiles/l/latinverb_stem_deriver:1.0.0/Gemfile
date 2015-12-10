@@ -1,0 +1,4 @@
+gem 'latinverb_deponent_string_deriver'
+gem 'bundler'
+gem 'rake'
+gem 'byebug'

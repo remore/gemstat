@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'rethinkdb'
+gem 'eventmachine'
+gem 'logstash-devutils'

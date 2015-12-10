@@ -1,0 +1,2 @@
+gem 'integration'
+gem 'hipchat'

@@ -1,0 +1,5 @@
+gem 'romaji'
+gem 'kuromoji'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

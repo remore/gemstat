@@ -1,0 +1,6 @@
+gem 'que'
+gem 'sinatra'
+gem 'erubis'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

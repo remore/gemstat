@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rack'
+gem 'will_paginate'
+gem 'RedCloth'

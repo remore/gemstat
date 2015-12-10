@@ -1,0 +1,4 @@
+gem 'pdfkit'
+gem 'rspec'
+gem 'webmock'
+gem 'fakefs'

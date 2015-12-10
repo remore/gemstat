@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'yard'
+gem 'sqlite3'
+gem 'awesome_print'

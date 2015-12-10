@@ -1,0 +1,5 @@
+gem 'async_sinatra'
+gem 'eventmachine'
+gem 'igrigorik-em-http-request'
+gem 'libxml-ruby'
+gem 'sinatra'

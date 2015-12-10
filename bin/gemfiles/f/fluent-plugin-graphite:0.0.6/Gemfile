@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'fluent-mixin-rewrite-tag-name'
+gem 'graphite-api'
+gem 'rake'

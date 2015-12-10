@@ -1,0 +1,8 @@
+gem 'narray'
+gem 'numru-misc'
+gem 'numru-units'
+gem 'narray_miss'
+gem 'ruby-netcdf'
+gem 'ruby-dcl'
+gem 'ruby-fftw3'
+gem 'rb-gsl'

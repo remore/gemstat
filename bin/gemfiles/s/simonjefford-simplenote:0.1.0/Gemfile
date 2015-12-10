@@ -1,0 +1,5 @@
+gem 'thoughtbot-shoulda'
+gem 'crack'
+gem 'jnunemaker-matchy'
+gem 'jferris-mocha'
+gem 'httparty'

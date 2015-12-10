@@ -1,0 +1,7 @@
+gem 'rugged'
+gem 'nokogiri'
+gem 'slop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

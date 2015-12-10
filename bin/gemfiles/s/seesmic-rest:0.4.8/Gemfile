@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'yajl-ruby'
+gem 'minitest'
+gem 'simplecov'
+gem 'rocco'

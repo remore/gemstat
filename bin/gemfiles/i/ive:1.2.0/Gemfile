@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'xcoder'
+gem 'versionomy'
+gem 'git'

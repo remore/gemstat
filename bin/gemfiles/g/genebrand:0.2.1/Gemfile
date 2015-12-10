@@ -1,0 +1,5 @@
+gem 'colorator'
+gem 'mercenary'
+gem 'highline'
+gem 'bundler'
+gem 'rake'

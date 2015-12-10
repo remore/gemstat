@@ -1,0 +1,5 @@
+gem 'coffee-script'
+gem 'colorize'
+gem 'uglifier'
+gem 'bundler'
+gem 'rake'

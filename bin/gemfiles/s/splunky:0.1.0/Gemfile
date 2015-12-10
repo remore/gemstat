@@ -1,0 +1,4 @@
+gem 'rails_request_id'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

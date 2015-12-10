@@ -1,0 +1,6 @@
+gem 'listen'
+gem 'term-ansicolor'
+gem 'notify'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'

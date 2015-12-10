@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'fuubar'
+gem 'activemodel'
+gem 'i18n'

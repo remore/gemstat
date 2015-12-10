@@ -1,0 +1,8 @@
+gem 'libxslt-ruby'
+gem 'libxml-ruby'
+gem 'mocha'
+gem 'rmagick'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

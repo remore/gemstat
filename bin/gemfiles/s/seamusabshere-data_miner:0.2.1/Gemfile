@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'seamusabshere-remote_table'
+gem 'seamusabshere-errata'
+gem 'seamusabshere-conversions'

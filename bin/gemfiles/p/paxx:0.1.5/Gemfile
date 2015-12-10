@@ -1,0 +1,4 @@
+gem 'babosa'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

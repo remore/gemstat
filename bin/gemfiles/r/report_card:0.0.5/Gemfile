@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'carrierwave'
+gem 'sidekiq'
+gem 'sqlite3'

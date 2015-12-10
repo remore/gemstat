@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'opal-irb'
+gem 'jquery-ui-rails'
+gem 'codemirror-rails'

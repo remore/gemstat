@@ -1,0 +1,6 @@
+gem 'excon'
+gem 'rspec'
+gem 'rails'
+gem 'webmock'
+gem 'vcr'
+gem 'poltergeist'

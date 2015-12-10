@@ -1,0 +1,7 @@
+gem 'oauth'
+gem 'addressable'
+gem 'rest-client'
+gem 'activemodel'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

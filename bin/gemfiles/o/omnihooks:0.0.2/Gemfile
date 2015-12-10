@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'rack'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

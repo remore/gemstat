@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'elasticsearch'
+gem 'activesupport'
+gem 'jbuilder'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'paperclip'
+gem 'nested_set'
+gem 'ckeditor'
+gem 'sqlite3'

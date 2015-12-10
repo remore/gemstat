@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'string-irc'
+gem 'bundler'
+gem 'rake'

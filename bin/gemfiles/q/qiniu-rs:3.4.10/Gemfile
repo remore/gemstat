@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'
+gem 'json'
+gem 'rest-client'
+gem 'mime-types'
+gem 'ruby-hmac'

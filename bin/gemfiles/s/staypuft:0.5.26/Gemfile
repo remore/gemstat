@@ -1,0 +1,6 @@
+gem 'foreman-tasks'
+gem 'dynflow'
+gem 'wicked'
+gem 'deface'
+gem 'foreman_discovery'
+gem 'ipaddress'

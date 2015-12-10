@@ -1,0 +1,8 @@
+gem 'rmagick'
+gem 'highline'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'open4'
+gem 'haml'
+gem 'yard'

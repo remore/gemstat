@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'trafaret'
+gem 'httpclient'
+gem 'oj'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

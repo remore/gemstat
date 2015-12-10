@@ -1,0 +1,8 @@
+gem 'builder'
+gem 'xml-simple'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'hashie'
+gem 'codeclimate-test-reporter'

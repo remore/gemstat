@@ -1,0 +1,6 @@
+gem 'devise'
+gem 'rpx_now'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'

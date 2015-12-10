@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rdoc-generator-fivefish'
+gem 'minitest'

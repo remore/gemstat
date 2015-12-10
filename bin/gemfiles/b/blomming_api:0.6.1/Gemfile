@@ -1,0 +1,6 @@
+gem 'method_source'
+gem 'rest-client'
+gem 'multi_json'
+gem 'oj'
+gem 'bundler'
+gem 'rake'

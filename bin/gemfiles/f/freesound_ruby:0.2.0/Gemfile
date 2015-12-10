@@ -1,0 +1,6 @@
+gem 'activeresource'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

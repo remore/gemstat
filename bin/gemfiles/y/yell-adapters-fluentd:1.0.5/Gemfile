@@ -1,0 +1,8 @@
+gem 'yell'
+gem 'fluent-logger'
+gem 'rspec'
+gem 'rr'
+gem 'simplecov'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

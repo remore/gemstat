@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'mocha'
+gem 'vcr'
+gem 'webmock'
+gem 'rest-client'
+gem 'commander'

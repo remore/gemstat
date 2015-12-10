@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'euston-eventstore'
+gem 'mongoid'
+gem 'awesome_print'
+gem 'fuubar'
+gem 'rspec'

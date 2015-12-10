@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rb-fchange'
+gem 'wdm'
+gem 'win32console'
+gem 'guard-rspec'

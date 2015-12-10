@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'open-uri'
+gem 'unicode'
+gem 'robots'

@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'simplecov'
+gem 'yard'
+gem 'yard-cucumber'
+gem 'redcarpet'

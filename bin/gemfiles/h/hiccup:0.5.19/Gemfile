@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'builder'
+gem 'ri_cal'
+gem 'rails'
+gem 'turn'
+gem 'simplecov'
+gem 'shoulda-context'
+gem 'pry'

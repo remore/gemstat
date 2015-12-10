@@ -1,0 +1,8 @@
+gem 'andand'
+gem 'memoizer'
+gem 'jeweler'
+gem 'rspec'
+gem 'rspec-its'
+gem 'simplecov'
+gem 'yard'
+gem 'rake'

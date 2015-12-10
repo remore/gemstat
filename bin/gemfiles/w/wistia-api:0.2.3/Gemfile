@@ -1,0 +1,6 @@
+gem 'activeresource'
+gem 'bundler'
+gem 'fakeweb'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

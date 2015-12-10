@@ -1,0 +1,2 @@
+gem 'exifr'
+gem 'bundler'

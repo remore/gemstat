@@ -1,0 +1,4 @@
+gem 'addressable'
+gem 'http'
+gem 'thor'
+gem 'formatador'

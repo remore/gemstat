@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'semver2'
+gem 'activesupport'
+gem 'map'
+gem 'albacore'

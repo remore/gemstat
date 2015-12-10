@@ -1,0 +1,6 @@
+gem 'ruboty'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multi_xml'
+gem 'bundler'
+gem 'rake'

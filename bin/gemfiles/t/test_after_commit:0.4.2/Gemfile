@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'wwtd'
+gem 'bump'
+gem 'rake'
+gem 'sqlite3'
+gem 'rspec'

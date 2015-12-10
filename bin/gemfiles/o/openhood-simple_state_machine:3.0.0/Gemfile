@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'bson_ext'
+gem 'mongo_mapper'

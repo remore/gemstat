@@ -1,0 +1,6 @@
+gem 'configuration'
+gem 'rake'
+gem 'main'
+gem 'gem_plugin'
+gem 'highline'
+gem 'fattr'

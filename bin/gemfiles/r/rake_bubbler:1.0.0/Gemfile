@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'ruby-debug'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

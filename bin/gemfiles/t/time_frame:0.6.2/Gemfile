@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubocop'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'activesupport'

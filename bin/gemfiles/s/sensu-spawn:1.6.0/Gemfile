@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'em-worker'
+gem 'childprocess'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

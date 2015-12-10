@@ -1,0 +1,7 @@
+gem 'open4'
+gem 'celluloid'
+gem 'fpm'
+gem 'rake'
+gem 'rspec'
+gem 'vagrant'
+gem 'fl-rocco'

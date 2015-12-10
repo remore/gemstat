@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'gruff'
+gem 'highline'
+gem 'bundler'

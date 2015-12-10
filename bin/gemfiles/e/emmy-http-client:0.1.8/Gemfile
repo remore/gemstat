@@ -1,0 +1,8 @@
+gem 'http_parser.rb'
+gem 'addressable'
+gem 'event_object'
+gem 'fibre'
+gem 'emmy-machine'
+gem 'eventmachine'
+gem 'bundler'
+gem 'rake'

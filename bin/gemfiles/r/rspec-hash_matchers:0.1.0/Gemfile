@@ -1,0 +1,5 @@
+gem 'rspec-expectations'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

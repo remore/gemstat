@@ -1,0 +1,7 @@
+gem 'restfully'
+gem 'net-ssh-gateway'
+gem 'net-scp'
+gem 'net-sftp'
+gem 'net-ssh-multi'
+gem 'libxml-ruby'
+gem 'rake'

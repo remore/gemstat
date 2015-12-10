@@ -1,0 +1,5 @@
+gem 'odesk-jobfetch'
+gem 'terminal-notifier'
+gem 'rubocop'
+gem 'bundler'
+gem 'rake'

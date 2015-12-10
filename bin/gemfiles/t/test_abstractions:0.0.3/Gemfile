@@ -1,0 +1,7 @@
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'poltergeist'
+gem 'initializer'
+gem 'require_all'
+gem 'ruby_version'
+gem 'virtus'

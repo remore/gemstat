@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'sidekiq'
+gem 'colorize'
+gem 'sqlite3'

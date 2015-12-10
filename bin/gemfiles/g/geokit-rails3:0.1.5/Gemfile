@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'geokit'
+gem 'bundler'
+gem 'rcov'
+gem 'mocha'
+gem 'mysql'
+gem 'mysql2'
+gem 'pg'

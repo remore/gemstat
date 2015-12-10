@@ -1,0 +1,5 @@
+gem 'active_attr'
+gem 'activesupport'
+gem 'fakeweb'
+gem 'rspec'
+gem 'vcr'

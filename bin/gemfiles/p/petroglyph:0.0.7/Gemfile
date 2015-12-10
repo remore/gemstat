@@ -1,0 +1,4 @@
+gem 'tilt'
+gem 'rspec'
+gem 'sinatra'
+gem 'rack-test'

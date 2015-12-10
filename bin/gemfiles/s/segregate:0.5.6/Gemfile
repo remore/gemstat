@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'yard'
+gem 'coveralls'
+gem 'rspec'
+gem 'hashie'
+gem 'juncture'

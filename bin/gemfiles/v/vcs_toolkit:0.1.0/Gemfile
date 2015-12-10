@@ -1,0 +1,4 @@
+gem 'diff-lcs'
+gem 'rake'
+gem 'rspec'
+gem 'fuubar'

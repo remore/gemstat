@@ -1,0 +1,6 @@
+gem 'glib2'
+gem 'atk'
+gem 'gtk2'
+gem 'pango'
+gem 'cairo'
+gem 'gdk_pixbuf2'

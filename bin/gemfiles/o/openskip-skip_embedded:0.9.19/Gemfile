@@ -1,0 +1,4 @@
+gem 'openskip-repim'
+gem 'json'
+gem 'oauth'
+gem 'haml'

@@ -1,0 +1,4 @@
+gem 'librarian-chef-nochef'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

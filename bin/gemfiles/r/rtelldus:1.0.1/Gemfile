@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'oauth'
+gem 'json'
+gem 'user_config'

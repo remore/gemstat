@@ -1,0 +1,8 @@
+gem 'mercenary'
+gem 'aws-sdk'
+gem 'basiccache'
+gem 'rubocop'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'fuubar'

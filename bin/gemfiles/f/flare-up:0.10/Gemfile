@@ -1,0 +1,5 @@
+gem 'pg'
+gem 'thor'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

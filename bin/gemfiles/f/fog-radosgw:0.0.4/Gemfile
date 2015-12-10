@@ -1,0 +1,6 @@
+gem 'fog-json'
+gem 'fog-xml'
+gem 'fog-core'
+gem 'rake'
+gem 'yard'
+gem 'shindo'

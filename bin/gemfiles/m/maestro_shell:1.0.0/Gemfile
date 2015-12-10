@@ -1,0 +1,5 @@
+gem 'childprocess'
+gem 'mocha'
+gem 'rake'
+gem 'rspec'
+gem 'maestro_plugin'

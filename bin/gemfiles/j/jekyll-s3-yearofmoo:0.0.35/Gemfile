@@ -1,0 +1,6 @@
+gem 'aws-s3'
+gem 'cf-s3-invalidator'
+gem 'rspec'
+gem 'mocha'
+gem 'cucumber'
+gem 'aruba'

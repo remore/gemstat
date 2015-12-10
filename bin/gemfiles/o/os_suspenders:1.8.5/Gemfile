@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rails'
+gem 'aruba'
+gem 'cucumber'
+gem 'rspec'
+gem 'capybara'

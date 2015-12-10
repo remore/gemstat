@@ -1,0 +1,7 @@
+gem 'fdb'
+gem 'activesupport'
+gem 'bson'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'tzinfo'

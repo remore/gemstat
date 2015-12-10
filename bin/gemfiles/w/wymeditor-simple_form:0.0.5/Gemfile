@@ -1,0 +1,1 @@
+gem 'simple_form'

@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'facter'
+gem 'rspec'
+gem 'rack-test'
+gem 'rake'
+gem 'rake_commit'

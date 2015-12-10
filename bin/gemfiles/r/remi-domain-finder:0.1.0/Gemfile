@@ -1,0 +1,2 @@
+gem 'remi-simplecli'
+gem 'hpricot'

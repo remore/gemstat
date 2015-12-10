@@ -1,0 +1,5 @@
+gem 'chunky_png'
+gem 'oily_png'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'

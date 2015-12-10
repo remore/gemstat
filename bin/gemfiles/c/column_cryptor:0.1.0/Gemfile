@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'bourne'
+gem 'bundler'
+gem 'rake'
+gem 'shoulda'

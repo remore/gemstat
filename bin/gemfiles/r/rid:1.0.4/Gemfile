@@ -1,0 +1,6 @@
+gem 'rid-core'
+gem 'rid-init'
+gem 'rid-dd'
+gem 'rid-fn'
+gem 'rid-push'
+gem 'rid-export'

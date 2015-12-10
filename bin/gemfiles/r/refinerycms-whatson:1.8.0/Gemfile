@@ -1,0 +1,5 @@
+gem 'refinerycms-core'
+gem 'filters_spam'
+gem 'acts-as-taggable-on'
+gem 'seo_meta'
+gem 'factory_girl'

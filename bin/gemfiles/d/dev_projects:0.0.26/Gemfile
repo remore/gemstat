@@ -1,0 +1,5 @@
+gem 'dev_git'
+gem 'dev_svn'
+gem 'dev_msbuild'
+gem 'dev_environment'
+gem 'dev_commands'

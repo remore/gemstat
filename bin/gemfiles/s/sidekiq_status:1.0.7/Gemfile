@@ -1,0 +1,8 @@
+gem 'sidekiq'
+gem 'activesupport'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'
+gem 'timecop'
+gem 'yard'
+gem 'maruku'

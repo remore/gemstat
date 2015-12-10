@@ -1,0 +1,7 @@
+gem 'execjs'
+gem 'railties'
+gem 'active_model_serializers'
+gem 'barber'
+gem 'bundler'
+gem 'appraisal'
+gem 'tzinfo'

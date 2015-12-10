@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rubygems-tasks'
+gem 'rails'
+gem 'coffee-rails'
+gem 'sprockets-bower'
+gem 'rake'

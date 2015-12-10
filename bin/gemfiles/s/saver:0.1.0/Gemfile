@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'mongo_mapper'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'

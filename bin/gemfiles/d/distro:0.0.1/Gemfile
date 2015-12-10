@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'ruby-appraiser-reek'
+gem 'ruby-appraiser-rubocop'

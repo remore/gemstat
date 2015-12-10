@@ -1,0 +1,4 @@
+gem 'puppet'
+gem 'lspace'
+gem 'rspec'
+gem 'rspec-puppet'

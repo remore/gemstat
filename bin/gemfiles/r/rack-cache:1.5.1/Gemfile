@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'maxitest'
+gem 'memcached'
+gem 'mocha'
+gem 'dalli'
+gem 'bump'
+gem 'rake'

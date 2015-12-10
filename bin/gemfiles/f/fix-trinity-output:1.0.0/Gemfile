@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'rake'
+gem 'turn'
+gem 'simplecov'
+gem 'shoulda-context'

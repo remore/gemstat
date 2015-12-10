@@ -1,0 +1,8 @@
+gem 'tinder'
+gem 'httparty'
+gem 'crack'
+gem 'irc-socket'
+gem 'twss'
+gem 'rspec'
+gem 'ruby-debug'
+gem 'fakeweb'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'gemoji'

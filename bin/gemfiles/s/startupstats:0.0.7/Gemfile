@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'factory_girl'
+gem 'vcr'
+gem 'yard'
+gem 'simplecov'
+gem 'faraday'
+gem 'faraday_middleware'

@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'json'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'github-markdown'
+gem 'rake'
+gem 'mocha'
+gem 'rspec'

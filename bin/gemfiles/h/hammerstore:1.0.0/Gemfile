@@ -1,0 +1,8 @@
+gem 'basiccache'
+gem 'gnista'
+gem 'hammerspace-fork'
+gem 'rubocop'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'fuubar'

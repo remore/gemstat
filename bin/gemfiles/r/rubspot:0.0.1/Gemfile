@@ -1,0 +1,7 @@
+gem 'representable'
+gem 'httpclient'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'activesupport'
+gem 'pry'

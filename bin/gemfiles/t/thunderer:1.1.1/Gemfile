@@ -1,0 +1,4 @@
+gem 'faye'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

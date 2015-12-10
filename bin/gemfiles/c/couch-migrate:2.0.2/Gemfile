@@ -1,0 +1,8 @@
+gem 'couchrest'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'fakefs'
+gem 'couchrest_model'

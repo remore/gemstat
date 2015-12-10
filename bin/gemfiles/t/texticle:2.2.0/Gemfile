@@ -1,0 +1,6 @@
+gem 'pg'
+gem 'shoulda'
+gem 'rake'
+gem 'pry'
+gem 'pry-doc'
+gem 'activerecord'

@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'crack'
+gem 'json'
+gem 'kintama'
+gem 'mocha'

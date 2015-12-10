@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'rake-compiler'
+gem 'pry'
+gem 'devs'
+gem 'pry-nav'
+gem 'pry-stack_explorer'

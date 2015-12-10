@@ -1,0 +1,5 @@
+gem 'shutl_resource'
+gem 'rails'
+gem 'rspec-rails'
+gem 'debugger'
+gem 'webmock'

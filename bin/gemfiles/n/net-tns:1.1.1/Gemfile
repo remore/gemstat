@@ -1,0 +1,4 @@
+gem 'bindata'
+gem 'rspec'
+gem 'rspec-its'
+gem 'coveralls'

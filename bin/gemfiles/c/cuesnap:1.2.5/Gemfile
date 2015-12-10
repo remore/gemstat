@@ -1,0 +1,7 @@
+gem 'rubycue'
+gem 'methadone'
+gem 'hashie'
+gem 'open4'
+gem 'minitest'
+gem 'guard-minitest'
+gem 'rb-fsevent'

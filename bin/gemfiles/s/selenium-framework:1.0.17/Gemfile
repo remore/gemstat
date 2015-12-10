@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'selenium-webdriver'
+gem 'mail'
+gem 'faker'
+gem 'nokogiri'
+gem 'selenium-client'
+gem 'headless'
+gem 'random-word'

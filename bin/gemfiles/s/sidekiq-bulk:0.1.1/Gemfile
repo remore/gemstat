@@ -1,0 +1,6 @@
+gem 'sidekiq'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-sidekiq'
+gem 'pry-byebug'
+gem 'appraisal'

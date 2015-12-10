@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'curb'
+gem 'php-serialize'
+gem 'sqlite3'

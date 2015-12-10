@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'rspec'
+gem 'equivalent-xml'

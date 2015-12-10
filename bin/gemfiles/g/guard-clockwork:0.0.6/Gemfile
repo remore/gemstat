@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'clockwork'
+gem 'bundler'
+gem 'rake'

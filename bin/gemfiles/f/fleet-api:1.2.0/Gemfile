@@ -1,0 +1,5 @@
+gem 'excon'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-rcov'

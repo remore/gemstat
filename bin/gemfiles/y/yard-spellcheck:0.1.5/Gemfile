@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'ffi-hunspell'
+gem 'rubygems-tasks'
+gem 'rspec'

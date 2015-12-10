@@ -1,0 +1,4 @@
+gem 'faye-websocket'
+gem 'json'
+gem 'bundler'
+gem 'rake'

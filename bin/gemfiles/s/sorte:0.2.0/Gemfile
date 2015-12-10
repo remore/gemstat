@@ -1,0 +1,6 @@
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'trollop'
+gem 'ruby-mp3info'

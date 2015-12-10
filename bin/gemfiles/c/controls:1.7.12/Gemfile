@@ -1,0 +1,5 @@
+gem 'dish'
+gem 'faraday'
+gem 'rack'
+gem 'bundler'
+gem 'netrc'

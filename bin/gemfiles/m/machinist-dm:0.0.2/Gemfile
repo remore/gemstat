@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'machinist'
+gem 'dm-core'
+gem 'dm-migrations'
+gem 'dm-validations'
+gem 'dm-mysql-adapter'
+gem 'rspec'

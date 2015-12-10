@@ -1,0 +1,2 @@
+gem 'em-xmpp'
+gem 'app-routes'

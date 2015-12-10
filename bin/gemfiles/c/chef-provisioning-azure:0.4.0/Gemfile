@@ -1,0 +1,6 @@
+gem 'chef-provisioning'
+gem 'stuartpreston-azure-sdk-for-ruby'
+gem 'chef'
+gem 'rspec'
+gem 'rake'
+gem 'yard'

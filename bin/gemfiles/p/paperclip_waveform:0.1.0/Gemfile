@@ -1,0 +1,6 @@
+gem 'paperclip'
+gem 'waveform'
+gem 'rails'
+gem 'sqlite3'
+gem 'mocha'
+gem 'debugger'

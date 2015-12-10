@@ -1,0 +1,7 @@
+gem 'jamie'
+gem 'fog'
+gem 'yard'
+gem 'maruku'
+gem 'cane'
+gem 'tailor'
+gem 'countloc'

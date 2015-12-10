@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'bencode_ext'
+gem 'vcr'
+gem 'rspec'
+gem 'webmock'

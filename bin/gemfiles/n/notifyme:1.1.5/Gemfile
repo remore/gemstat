@@ -1,0 +1,5 @@
+gem 'daemons'
+gem 'json_pure'
+gem 'http_request.rb'
+gem 'facter'
+gem 'mail'

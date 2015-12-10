@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rack-test'
+gem 'roda'
+gem 'json-schema'
+gem 'faker'

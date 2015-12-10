@@ -1,0 +1,2 @@
+gem 'robot_remote_server'
+gem 'watir-webdriver'

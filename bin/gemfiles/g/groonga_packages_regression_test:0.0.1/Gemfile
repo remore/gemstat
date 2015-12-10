@@ -1,0 +1,6 @@
+gem 'dockerfiroonga'
+gem 'thor'
+gem 'test-unit'
+gem 'test-unit-notify'
+gem 'bundler'
+gem 'rake'

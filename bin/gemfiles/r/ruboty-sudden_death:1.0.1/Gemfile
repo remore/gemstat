@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'sudden_death'
+gem 'bundler'
+gem 'rake'

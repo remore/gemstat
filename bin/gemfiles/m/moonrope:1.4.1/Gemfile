@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rack'
+gem 'deep_merge'
+gem 'rake'
+gem 'test-unit'
+gem 'yard'
+gem 'rack-test'

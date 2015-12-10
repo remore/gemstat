@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'jasmine'
+gem 'guard-coffeescript'
+gem 'coffee-rails'
+gem 'momentjs-rails'

@@ -1,0 +1,6 @@
+gem 'iron_core'
+gem 'test-unit'
+gem 'minitest'
+gem 'rake'
+gem 'memcache-client'
+gem 'uber_config'

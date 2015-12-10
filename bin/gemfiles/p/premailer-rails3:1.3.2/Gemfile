@@ -1,0 +1,8 @@
+gem 'premailer'
+gem 'rails'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'mocha'
+gem 'mail'
+gem 'nokogiri'
+gem 'hpricot'

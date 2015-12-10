@@ -1,0 +1,5 @@
+gem 'cucumber'
+gem 'aruba'
+gem 'rake'
+gem 'simplecov'
+gem 'coveralls'

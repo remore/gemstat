@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'newgem'
+gem 'mocha'
+gem 'hoe'

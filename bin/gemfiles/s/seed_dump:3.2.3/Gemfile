@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'byebug'
+gem 'factory_girl'
+gem 'activerecord-import'
+gem 'jeweler'

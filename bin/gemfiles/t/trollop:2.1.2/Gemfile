@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'bundler'
+gem 'rake'
+gem 'chronic'
+gem 'coveralls'
+gem 'mime-types'

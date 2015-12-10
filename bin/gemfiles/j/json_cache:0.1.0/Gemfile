@@ -1,0 +1,8 @@
+gem 'bson_ext'
+gem 'mharris_ext'
+gem 'mongoid'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rr'

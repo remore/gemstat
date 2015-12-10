@@ -1,0 +1,4 @@
+gem 'colorize'
+gem 'amatch'
+gem 'ruby-stemmer'
+gem 'uuid'

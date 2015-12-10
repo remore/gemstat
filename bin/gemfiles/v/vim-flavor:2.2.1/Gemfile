@@ -1,0 +1,6 @@
+gem 'parslet'
+gem 'thor'
+gem 'aruba'
+gem 'cucumber'
+gem 'pry'
+gem 'rspec'

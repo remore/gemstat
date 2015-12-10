@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'webmock'
+gem 'curb'
+gem 'hashie'
+gem 'yajl-ruby'

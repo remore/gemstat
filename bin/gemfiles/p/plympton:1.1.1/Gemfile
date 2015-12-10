@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'antlr3'
+gem 'narray'
+gem 'jeweler'
+gem 'yard'
+gem 'rspec'
+gem 'bundler'

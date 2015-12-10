@@ -1,0 +1,8 @@
+gem 'capybara'
+gem 'mechanize'
+gem 'sinatra'
+gem 'rspec'
+gem 'launchy'
+gem 'yard'
+gem 'fuubar'
+gem 'cucumber'

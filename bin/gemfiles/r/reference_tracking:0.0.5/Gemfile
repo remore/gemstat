@@ -1,0 +1,4 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'mocha'
+gem 'test_declarative'

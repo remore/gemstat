@@ -1,0 +1,7 @@
+gem 'haml'
+gem 'bundler'
+gem 'rake'
+gem 'awesome_print'
+gem 'simplecov'
+gem 'rspec'
+gem 'cucumber'

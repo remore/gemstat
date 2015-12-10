@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'yard'
+gem 'rdiscount'
+gem 'rspec'
+gem 'ZenTest'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'capistrano'

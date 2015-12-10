@@ -1,0 +1,5 @@
+gem 'jackal'
+gem 'miasma'
+gem 'miasma-local'
+gem 'rubyzip'
+gem 'bogo'

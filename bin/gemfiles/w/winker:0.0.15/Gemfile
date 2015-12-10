@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'faraday-detailed_logger'
+gem 'hashie'
+gem 'activesupport'
+gem 'multi_json'

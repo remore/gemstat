@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'
+gem 'rubydoctest'
+gem 'yard'

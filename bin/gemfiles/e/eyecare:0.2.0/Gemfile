@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'libnotify'
+gem 'chronic_duration'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

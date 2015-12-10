@@ -1,0 +1,8 @@
+gem 'chef'
+gem 'diffy'
+gem 'hashie'
+gem 'ridley'
+gem 'varia_model'
+gem 'celluloid'
+gem 'faraday'
+gem 'rspec'

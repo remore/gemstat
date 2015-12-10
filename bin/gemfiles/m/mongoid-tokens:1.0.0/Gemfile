@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rake'
+gem 'rspec-rails'
+gem 'mongoid'
+gem 'pry-meta'
+gem 'database_cleaner'

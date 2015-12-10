@@ -1,0 +1,2 @@
+gem 'deep_merge'
+gem 'xml-simple'

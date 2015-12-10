@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'json_pure'
+gem 'i18n'
+gem 'rspec'
+gem 'test_notifier'
+gem 'fakeweb'
+gem 'rake'
+gem 'addressable'

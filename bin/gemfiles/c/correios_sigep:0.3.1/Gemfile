@@ -1,0 +1,7 @@
+gem 'net-http-persistent'
+gem 'savon'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'StreetAddress'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'

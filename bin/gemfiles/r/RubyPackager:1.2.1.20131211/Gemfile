@@ -1,0 +1,6 @@
+gem 'rUtilAnts'
+gem 'allinoneruby'
+gem 'highline'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'rdoc'

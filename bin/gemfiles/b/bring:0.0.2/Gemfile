@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'thor'
+gem 'faraday'
+gem 'faraday_middleware'

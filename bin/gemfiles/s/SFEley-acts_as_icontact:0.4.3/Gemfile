@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'activesupport'
+gem 'bond'
+gem 'rspec'
+gem 'mocha'
+gem 'fakeweb'

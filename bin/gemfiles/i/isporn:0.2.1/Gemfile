@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'mini_magick'
+gem 'bundler'
+gem 'rake'

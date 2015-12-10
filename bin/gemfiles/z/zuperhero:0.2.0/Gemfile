@@ -1,0 +1,6 @@
+gem 'guard-cucumber'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'aruba'
+gem 'aruba-doubles'
+gem 'timecop'

@@ -1,0 +1,6 @@
+gem 'decent_exposure'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rails'
+gem 'activesupport'
+gem 'draper'

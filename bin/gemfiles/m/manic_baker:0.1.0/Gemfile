@@ -1,0 +1,6 @@
+gem 'fog'
+gem 'soloist'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'gem-release'

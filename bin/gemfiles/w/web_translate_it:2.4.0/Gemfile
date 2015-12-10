@@ -1,0 +1,5 @@
+gem 'multipart-post'
+gem 'trollop'
+gem 'multi_json'
+gem 'rspec'
+gem 'guard-rspec'

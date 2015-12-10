@@ -1,0 +1,6 @@
+gem 'narray'
+gem 'bio'
+gem 'facets'
+gem 'rmagick'
+gem 'newgem'
+gem 'hoe'

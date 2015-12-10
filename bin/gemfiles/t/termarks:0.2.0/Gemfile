@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'colorize'
+gem 'terminal-table'
+gem 'bundler'
+gem 'rake'

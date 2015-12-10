@@ -1,0 +1,7 @@
+gem 'queue-bus'
+gem 'resque'
+gem 'resque-scheduler'
+gem 'resque-retry'
+gem 'rspec'
+gem 'timecop'
+gem 'json_pure'

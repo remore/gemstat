@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'builder'
+gem 'nokogiri'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'
+gem 'thor'

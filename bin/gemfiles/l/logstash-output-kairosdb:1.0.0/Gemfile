@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-devutils'
+gem 'logstash-input-generator'
+gem 'logstash-filter-kv'
+gem 'logstash-filter-ruby'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'sinatra'
+gem 'thin'
+gem 'haml'
+gem 'redis'
+gem 'aws-sdk'
+gem 'i18n'

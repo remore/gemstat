@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'i18n'
+gem 'hyperclient'
+gem 'combustion'

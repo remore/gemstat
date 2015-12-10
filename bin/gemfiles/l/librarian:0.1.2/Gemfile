@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'highline'
+gem 'rake'
+gem 'rspec'
+gem 'json'
+gem 'fakefs'

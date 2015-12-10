@@ -1,0 +1,6 @@
+gem 'propono'
+gem 'filum'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'minitest'

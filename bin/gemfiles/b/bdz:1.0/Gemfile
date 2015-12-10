@@ -1,0 +1,7 @@
+gem 'nestful'
+gem 'nokogiri'
+gem 'json'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

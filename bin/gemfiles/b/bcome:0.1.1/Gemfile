@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'colorize'
+gem 'net-scp'
+gem 'rsync'
+gem 'fog'
+gem 'require_all'

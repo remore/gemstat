@@ -1,0 +1,7 @@
+gem 'selenium-webdriver'
+gem 'sauce_whisk'
+gem 'net-http-persistent'
+gem 'bundler'
+gem 'rspec'
+gem 'capybara'
+gem 'rake'

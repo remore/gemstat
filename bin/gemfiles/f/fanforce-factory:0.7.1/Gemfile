@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'rest-client'
+gem 'iron_worker_ng'
+gem 'activesupport'
+gem 'heroku-api'
+gem 'multi_json'
+gem 'bitbucket_rest_api'
+gem 'fanforce-api'

@@ -1,0 +1,4 @@
+gem 'hashie'
+gem 'multi_json'
+gem 'pry'
+gem 'minitest'

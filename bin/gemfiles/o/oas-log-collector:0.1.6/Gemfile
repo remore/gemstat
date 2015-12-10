@@ -1,0 +1,8 @@
+gem 'dante'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'redis'
+gem 'connection_pool'
+gem 'minitest'
+gem 'rake'
+gem 'simplecov'

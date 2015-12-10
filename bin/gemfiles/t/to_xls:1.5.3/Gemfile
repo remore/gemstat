@@ -1,0 +1,5 @@
+gem 'spreadsheet'
+gem 'spreadsheet'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

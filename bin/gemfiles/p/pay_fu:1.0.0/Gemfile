@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'activemerchant'
+gem 'activemerchant_patch_for_china'
+gem 'sqlite3'

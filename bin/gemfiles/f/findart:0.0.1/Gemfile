@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'hpricot'
+gem 'fakeweb'
+gem 'cucumber'
+gem 'newgem'
+gem 'visionmedia-commander'
+gem 'hoe'

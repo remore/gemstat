@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'true'
+gem 'sassy_hash'
+gem 'multi_json'

@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'doorkeeper'
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'rspec-json_matcher'
+gem 'pry-rails'
+gem 'simplecov'

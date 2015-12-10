@@ -1,0 +1,4 @@
+gem 'parka'
+gem 'rcov'
+gem 'rr'
+gem 'rspec'

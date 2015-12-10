@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'mocha'
+gem 'httparty'
+gem 'json'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongo'
+gem 'jnunemaker-matchy'
+gem 'shoulda'
+gem 'timecop'
+gem 'mocha'

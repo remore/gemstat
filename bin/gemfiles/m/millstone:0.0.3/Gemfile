@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bundler'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'delorean'

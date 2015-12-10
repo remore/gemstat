@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'class-inheritable-attributes'
+gem 'mocha'
+gem 'test-unit-ext'

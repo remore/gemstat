@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'github-web-hooks-receiver'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'test-unit-rr'
+gem 'test-unit-capybara'

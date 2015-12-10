@@ -1,0 +1,8 @@
+gem 'service_api'
+gem 'ov'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'awesome_print'

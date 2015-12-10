@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubycue'
+gem 'docopt'
+gem 'osaka'
+gem 'growl'

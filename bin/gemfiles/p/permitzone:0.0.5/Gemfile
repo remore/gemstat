@@ -1,0 +1,5 @@
+gem 'json_api_client'
+gem 'activesupport'
+gem 'rspec'
+gem 'webmock'
+gem 'faker'

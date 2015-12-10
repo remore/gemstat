@@ -1,0 +1,8 @@
+gem 'rom-support'
+gem 'charlatan'
+gem 'virtus'
+gem 'activemodel'
+gem 'i18n'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'

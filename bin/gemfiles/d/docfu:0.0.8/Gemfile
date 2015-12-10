@@ -1,0 +1,7 @@
+gem 'mixlib-cli'
+gem 'rspec'
+gem 'yard'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

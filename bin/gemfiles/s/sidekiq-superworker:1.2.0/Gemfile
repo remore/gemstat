@@ -1,0 +1,6 @@
+gem 'sidekiq'
+gem 'activesupport'
+gem 'activemodel'
+gem 'appraisal'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'

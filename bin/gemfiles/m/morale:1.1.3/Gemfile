@@ -1,0 +1,4 @@
+gem 'morale-client'
+gem 'hirb'
+gem 'json'
+gem 'thor'

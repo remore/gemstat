@@ -1,0 +1,7 @@
+gem 'netrc'
+gem 'heroku-api'
+gem 'rubocop'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'fuubar'

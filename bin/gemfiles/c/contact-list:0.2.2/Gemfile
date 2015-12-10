@@ -1,0 +1,8 @@
+gem 'contact-list'
+gem 'rspec'
+gem 'rspec'
+gem 'multi_json'
+gem 'nokogiri'
+gem 'oauth'
+gem 'oauth2'
+gem 'rspec'

@@ -1,0 +1,2 @@
+gem 'roxml'
+gem 'uuid'

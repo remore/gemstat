@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'json'
+gem 'activesupport'
+gem 'mocha'
+gem 'shoulda'
+gem 'test-unit'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'inherited_resources'
+gem 'simple_form'
+gem 'cancancan'
+gem 'mini_magick'
+gem 'carrierwave'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'buzzcore'
+gem 'yore'
+gem 'cmdparse'
+gem 'shoulda'

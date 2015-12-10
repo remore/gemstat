@@ -1,0 +1,6 @@
+gem 'sshkit'
+gem 'thor'
+gem 'nagios_analyzer'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

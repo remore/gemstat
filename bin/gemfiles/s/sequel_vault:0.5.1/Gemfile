@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'fernet'
+gem 'rspec'
+gem 'simplecov'
+gem 'sqlite3'

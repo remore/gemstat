@@ -1,0 +1,2 @@
+gem 'collins_client'
+gem 'highline'

@@ -1,0 +1,5 @@
+gem 'virtus'
+gem 'faraday'
+gem 'json'
+gem 'rake'
+gem 'rdoc'

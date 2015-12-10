@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'hashie'
+gem 'crack'

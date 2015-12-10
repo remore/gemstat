@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'aasm'
+gem 'bundler'
+gem 'generator_spec'
+gem 'rake'

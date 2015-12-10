@@ -1,0 +1,5 @@
+gem 'ruby-opencv'
+gem 'statsample'
+gem 'terminal-table'
+gem 'bundler'
+gem 'rake'

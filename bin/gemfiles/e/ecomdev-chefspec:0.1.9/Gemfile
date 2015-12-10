@@ -1,0 +1,4 @@
+gem 'chefspec'
+gem 'json'
+gem 'bundler'
+gem 'rake'

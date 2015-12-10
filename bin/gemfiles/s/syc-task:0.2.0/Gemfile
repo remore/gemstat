@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'shoulda'
+gem 'gli'
+gem 'rainbow'
+gem 'timeleap'

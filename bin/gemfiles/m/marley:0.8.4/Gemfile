@@ -1,0 +1,6 @@
+gem 'sequel'
+gem 'rack'
+gem 'json'
+gem 'sqlite3'
+gem 'rack-test'
+gem 'tdoc'

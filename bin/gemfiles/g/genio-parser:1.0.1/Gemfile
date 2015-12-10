@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'simplecov'

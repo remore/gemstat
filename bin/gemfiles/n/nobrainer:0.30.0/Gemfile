@@ -1,0 +1,5 @@
+gem 'rethinkdb'
+gem 'activesupport'
+gem 'activemodel'
+gem 'middleware'
+gem 'symbol_decoration'

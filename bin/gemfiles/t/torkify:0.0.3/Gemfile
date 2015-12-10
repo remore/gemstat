@@ -1,0 +1,5 @@
+gem 'json'
+gem 'log4r'
+gem 'tork'
+gem 'rspec'
+gem 'rake'

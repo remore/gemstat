@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'archive-zip'
+gem 'chronic'
+gem 'cliutils'
+gem 'gli'
+gem 'htmlentities'

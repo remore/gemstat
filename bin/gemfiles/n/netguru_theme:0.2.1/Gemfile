@@ -1,0 +1,6 @@
+gem 'sass'
+gem 'bourbon'
+gem 'bootstrap-sass'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

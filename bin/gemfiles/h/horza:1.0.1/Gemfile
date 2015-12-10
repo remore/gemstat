@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'activesupport'
+gem 'rspec'
+gem 'byebug'
+gem 'activerecord'
+gem 'sqlite3'

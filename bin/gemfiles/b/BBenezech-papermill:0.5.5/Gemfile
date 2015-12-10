@@ -1,0 +1,4 @@
+gem 'paperclip'
+gem 'mime-types'
+gem 'rsl-stringex'
+gem 'ryanb-acts-as-list'

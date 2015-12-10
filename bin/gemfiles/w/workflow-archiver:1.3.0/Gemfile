@@ -1,0 +1,7 @@
+gem 'lyber-core'
+gem 'rest-client'
+gem 'ruby-oci8'
+gem 'confstruct'
+gem 'rake'
+gem 'rspec'
+gem 'active-fedora'

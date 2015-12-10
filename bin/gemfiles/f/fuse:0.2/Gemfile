@@ -1,0 +1,7 @@
+gem 'thin'
+gem 'uglifier'
+gem 'nokogiri'
+gem 'coffee-script'
+gem 'sass'
+gem 'rspec'
+gem 'capybara'

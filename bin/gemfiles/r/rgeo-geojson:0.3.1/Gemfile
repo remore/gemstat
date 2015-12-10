@@ -1,0 +1,4 @@
+gem 'rgeo'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'sys-proctable'
+gem 'travis-lint'
+gem 'metric_fu'
+gem 'rspec'
+gem 'os'
+gem 'rake'
+gem 'simplecov'

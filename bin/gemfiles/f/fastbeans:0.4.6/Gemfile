@@ -1,0 +1,6 @@
+gem 'msgpack'
+gem 'rufus-lru'
+gem 'connection_pool'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

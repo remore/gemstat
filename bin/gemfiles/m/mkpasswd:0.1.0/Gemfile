@@ -1,0 +1,5 @@
+gem 'unix-crypt'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

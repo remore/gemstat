@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'sqlite3'
+gem 'mv-core'
+gem 'jeweler'
+gem 'rspec'
+gem 'rspec-its'
+gem 'guard-rspec'

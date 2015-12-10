@@ -1,0 +1,8 @@
+gem 'active_support'
+gem 'commander'
+gem 'i18n'
+gem 'tzinfo'
+gem 'octokit'
+gem 'terminal-table'
+gem 'erubis'
+gem 'hashie'

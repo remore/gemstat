@@ -1,0 +1,8 @@
+gem 'fixwhich'
+gem 'bundler'
+gem 'rake'
+gem 'turn'
+gem 'minitest'
+gem 'simplecov'
+gem 'shoulda-context'
+gem 'coveralls'

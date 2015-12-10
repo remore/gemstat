@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'bundler'
+gem 'jeweler'
+gem 'activerecord'
+gem 'activesupport'
+gem 'bundler'
+gem 'jeweler'

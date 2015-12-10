@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'mocha'
+gem 'ruby-debug19'
+gem 'actionpack'
+gem 'activesupport'

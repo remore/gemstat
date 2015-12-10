@@ -1,0 +1,4 @@
+gem 'xml-simple'
+gem 'bundler'
+gem 'rake'
+gem 'turn'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'dotenv'
+gem 'codeclimate-test-reporter'

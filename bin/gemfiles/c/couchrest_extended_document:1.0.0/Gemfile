@@ -1,0 +1,4 @@
+gem 'couchrest'
+gem 'mime-types'
+gem 'activesupport'
+gem 'builder'

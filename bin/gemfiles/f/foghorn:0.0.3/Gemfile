@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rb-readline'
+gem 'pry'
+gem 'pry_debug'
+gem 'rubocop'
+gem 'rspec'
+gem 'fog'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'activesupport'
+gem 'eventmachine'
+gem 'datamapper'
+gem 'dm-sqlite-adapter'
+gem 'dm-postgres-adapter'

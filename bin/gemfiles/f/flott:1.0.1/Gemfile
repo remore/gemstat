@@ -1,0 +1,4 @@
+gem 'gem_hadar'
+gem 'bullshit'
+gem 'rake'
+gem 'tins'

@@ -1,0 +1,4 @@
+gem 'gattica'
+gem 'test-unit'
+gem 'rake'
+gem 'hpricot'

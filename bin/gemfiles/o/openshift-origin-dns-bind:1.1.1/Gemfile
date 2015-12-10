@@ -1,0 +1,7 @@
+gem 'openshift-origin-controller'
+gem 'json'
+gem 'dnsruby'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'mocha'

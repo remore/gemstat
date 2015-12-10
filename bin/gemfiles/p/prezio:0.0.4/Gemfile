@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'commander'
+gem 'pygments.rb'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'hashie'
+gem 'shadow_puppet'
+gem 'capistrano'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rack'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'
+gem 'capybara'
+gem 'capybara-webkit'

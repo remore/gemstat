@@ -1,0 +1,2 @@
+gem 'gollum-lib'
+gem 'rspec'

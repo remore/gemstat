@@ -1,0 +1,6 @@
+gem 'mongo'
+gem 'document_hydrator'
+gem 'bson_ext'
+gem 'system_timer'
+gem 'rspec'
+gem 'jeweler'

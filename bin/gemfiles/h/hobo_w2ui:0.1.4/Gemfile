@@ -1,0 +1,2 @@
+gem 'hobo_jquery'
+gem 'rails'

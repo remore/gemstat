@@ -1,0 +1,6 @@
+gem 'rack-cas'
+gem 'rails'
+gem 'byebug'
+gem 'dotenv-rails'
+gem 'sqlite3'
+gem 'yard'

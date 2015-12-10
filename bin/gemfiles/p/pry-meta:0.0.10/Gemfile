@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'pry-byebug'
+gem 'pry-remote'
+gem 'awesome_print'

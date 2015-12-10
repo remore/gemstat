@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'deepopenstruct'
+gem 'json'
+gem 'addressable'
+gem 'webmock'

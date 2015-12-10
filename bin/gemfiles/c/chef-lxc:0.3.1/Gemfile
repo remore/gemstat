@@ -1,0 +1,8 @@
+gem 'chef'
+gem 'ruby-lxc'
+gem 'lxc-extra'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'chef-zero'
+gem 'pry'

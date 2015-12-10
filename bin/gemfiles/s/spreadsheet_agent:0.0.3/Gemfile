@@ -1,0 +1,6 @@
+gem 'google_drive'
+gem 'capture_io'
+gem 'mail'
+gem 'rake'
+gem 'shoulda-context'
+gem 'minitest'

@@ -1,0 +1,7 @@
+gem 'compass'
+gem 'sass-rails'
+gem 'jekyll'
+gem 'sass'
+gem 'bootstrap-sass'
+gem 'compass-rgbapng'
+gem 'font-awesome-sass-rails'

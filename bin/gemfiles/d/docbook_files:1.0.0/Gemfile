@@ -1,0 +1,6 @@
+gem 'libxml-ruby'
+gem 'term-ansicolor'
+gem 'wand'
+gem 'zucker'
+gem 'rspec'
+gem 'bones'

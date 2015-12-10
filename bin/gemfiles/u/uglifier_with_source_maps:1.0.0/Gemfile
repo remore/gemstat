@@ -1,0 +1,5 @@
+gem 'sprockets'
+gem 'actionpack'
+gem 'uglifier'
+gem 'bundler'
+gem 'rake'

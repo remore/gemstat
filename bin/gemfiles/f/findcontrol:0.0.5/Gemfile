@@ -1,0 +1,4 @@
+gem 'vrlib'
+gem 'gtk2'
+gem 'require_all'
+gem 'win32-clipboard'

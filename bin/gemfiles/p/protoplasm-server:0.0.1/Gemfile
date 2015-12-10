@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'beefcake'
+gem 'rake'
+gem 'minitest'

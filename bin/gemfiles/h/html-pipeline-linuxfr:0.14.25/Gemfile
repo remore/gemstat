@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'sanitize'
+gem 'escape_utils'
+gem 'activesupport'
+gem 'patron'
+gem 'test-unit'

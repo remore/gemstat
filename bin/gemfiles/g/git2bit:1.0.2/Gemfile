@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'methadone'
+gem 'github_api'
+gem 'bitbucket_rest_api'

@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'actionpack'
+gem 'feedzirra'
+gem 'prism'
+gem 'mocha'
+gem 'rake'

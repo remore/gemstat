@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'factory_girl'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'sqlite3'
+gem 'timecop'

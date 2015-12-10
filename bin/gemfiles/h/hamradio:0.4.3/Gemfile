@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'log_buddy'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

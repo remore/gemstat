@@ -1,0 +1,6 @@
+gem 'roger'
+gem 'rack'
+gem 'rake'
+gem 'test-unit'
+gem 'simplecov'
+gem 'rubocop'

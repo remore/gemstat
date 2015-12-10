@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'test-unit'
+gem 'mocha'
+gem 'webmock'
+gem 'rack-test'
+gem 'rake'
+gem 'chef-api'

@@ -1,0 +1,7 @@
+gem 'keen'
+gem 'thor'
+gem 'dotenv'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'
+gem 'webmock'

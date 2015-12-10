@@ -1,0 +1,6 @@
+gem 'parslet'
+gem 'thor'
+gem 'rubocop'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

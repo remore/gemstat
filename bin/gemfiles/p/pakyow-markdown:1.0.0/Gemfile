@@ -1,0 +1,8 @@
+gem 'pakyow-support'
+gem 'pakyow-core'
+gem 'pakyow-presenter'
+gem 'redcarpet'
+gem 'rouge'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-focus'

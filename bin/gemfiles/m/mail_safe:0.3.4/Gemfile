@@ -1,0 +1,6 @@
+gem 'actionmailer'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'appraisal'
+gem 'coveralls'

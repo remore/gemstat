@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'openlogic-resourceful'
+gem 'uuidtools'
+gem 'rspec'

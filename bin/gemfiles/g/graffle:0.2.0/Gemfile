@@ -1,0 +1,4 @@
+gem 'extensions'
+gem 'plist'
+gem 's4t-utils'
+gem 'hoe'

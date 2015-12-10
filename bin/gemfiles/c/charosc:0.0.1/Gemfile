@@ -1,0 +1,4 @@
+gem 'weighted_randomizer'
+gem 'trollop'
+gem 'ruby-progressbar'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'uuid'
+gem 'oauth'
+gem 'ruby-openid'
+gem 'json'

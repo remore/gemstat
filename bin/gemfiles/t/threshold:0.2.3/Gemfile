@@ -1,0 +1,8 @@
+gem 'veto'
+gem 'jls-grok'
+gem 'pry'
+gem 'rake'
+gem 'fivemat'
+gem 'rspec'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

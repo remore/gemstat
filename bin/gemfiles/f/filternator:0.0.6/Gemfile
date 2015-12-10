@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'will_paginate'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

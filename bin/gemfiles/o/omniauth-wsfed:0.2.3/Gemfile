@@ -1,0 +1,5 @@
+gem 'omniauth'
+gem 'xmlcanonicalizer'
+gem 'rspec'
+gem 'rake'
+gem 'rack-test'

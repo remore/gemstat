@@ -1,0 +1,5 @@
+gem 'omniauth'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'

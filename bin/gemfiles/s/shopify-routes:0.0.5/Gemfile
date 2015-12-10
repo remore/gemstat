@@ -1,0 +1,4 @@
+gem 'rspec-rails'
+gem 'pry'
+gem 'rails'
+gem 'shopify_api'

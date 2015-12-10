@@ -1,0 +1,5 @@
+gem 'builder'
+gem 'rdoc'
+gem 'jeweler'
+gem 'flexmock'
+gem 'rack-test'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'directory_watcher'
+gem 'i18n'
+gem 'rake'
+gem 'redcarpet'
+gem 'tilt'

@@ -1,0 +1,4 @@
+gem 'moneta'
+gem 'kintama'
+gem 'simplecov'
+gem 'redis'

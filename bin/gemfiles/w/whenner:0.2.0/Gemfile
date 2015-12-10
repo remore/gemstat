@@ -1,0 +1,4 @@
+gem 'kramdown'
+gem 'yard'
+gem 'rspec'
+gem 'rake'

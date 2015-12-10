@@ -1,0 +1,3 @@
+gem 'rails'
+gem 'nerve'
+gem 'sqlite3'

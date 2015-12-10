@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'fog'
+gem 'parallel'
+gem 'multi_mime'

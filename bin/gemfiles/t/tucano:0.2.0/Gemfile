@@ -1,0 +1,7 @@
+gem 'amazon-ecs'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'fuubar'

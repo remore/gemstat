@@ -1,0 +1,5 @@
+gem 'flowdock'
+gem 'capistrano'
+gem 'rugged'
+gem 'bundler'
+gem 'rake'

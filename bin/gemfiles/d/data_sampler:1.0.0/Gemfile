@@ -1,0 +1,5 @@
+gem 'schema_plus'
+gem 'activerecord'
+gem 'commander'
+gem 'mysql'
+gem 'pry'

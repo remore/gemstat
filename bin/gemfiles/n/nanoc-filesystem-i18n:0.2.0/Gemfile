@@ -1,0 +1,4 @@
+gem 'nanoc'
+gem 'i18n'
+gem 'minitest'
+gem 'mocha'

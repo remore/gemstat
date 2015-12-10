@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'ffi_dry'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'yard'

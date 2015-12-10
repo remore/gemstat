@@ -1,0 +1,5 @@
+gem 'omf_common'
+gem 'omf_rc'
+gem 'nokogiri'
+gem 'progress_bar'
+gem 'net-ssh'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'mongo_mapper'
+gem 'reversible_data'
+gem 'rr'
+gem 'rspec'

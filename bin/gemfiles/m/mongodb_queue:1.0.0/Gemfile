@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'ci_reporter_test_unit'
+gem 'simplecov'
+gem 'simplecov-cobertura'
+gem 'bson_ext'
+gem 'mongo'

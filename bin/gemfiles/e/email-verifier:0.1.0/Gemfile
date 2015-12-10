@@ -1,0 +1,8 @@
+gem 'json'
+gem 'rest'
+gem 'typhoeus'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

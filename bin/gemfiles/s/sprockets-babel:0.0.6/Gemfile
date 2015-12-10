@@ -1,0 +1,5 @@
+gem 'sprockets'
+gem 'babel-transpiler'
+gem 'therubyracer'
+gem 'rake'
+gem 'minitest'

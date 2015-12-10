@@ -1,0 +1,7 @@
+gem 'octokit'
+gem 'colorize'
+gem 'netrc'
+gem 'api_cache'
+gem 'moneta'
+gem 'bundler'
+gem 'rake'

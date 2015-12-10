@@ -1,0 +1,6 @@
+gem 'less-rails'
+gem 'minitest'
+gem 'guard-minitest'
+gem 'guard'
+gem 'rails'
+gem 'appraisal'

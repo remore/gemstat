@@ -1,0 +1,5 @@
+gem 'rubicure'
+gem 'fuzzy_match'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

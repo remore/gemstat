@@ -1,0 +1,8 @@
+gem 'session'
+gem 'coolline'
+gem 'coderay'
+gem 'net-ssh'
+gem 'pry'
+gem 'rake'
+gem 'jeweler'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'vladlev'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'

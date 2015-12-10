@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'
+gem 'timecop'
+gem 'rake'

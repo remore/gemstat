@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'minitest-rails'
+gem 'mocha'
+gem 'simplecov'
+gem 'coveralls'
+gem 'codeclimate-test-reporter'

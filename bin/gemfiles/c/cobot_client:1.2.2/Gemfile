@@ -1,0 +1,6 @@
+gem 'virtus'
+gem 'oauth2'
+gem 'rest-client'
+gem 'json'
+gem 'rspec'
+gem 'rake'

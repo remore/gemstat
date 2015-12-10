@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'tzinfo'
+gem 'json'
+gem 'curb'

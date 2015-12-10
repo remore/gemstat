@@ -1,0 +1,6 @@
+gem 'sidekiq'
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'factory_girl'

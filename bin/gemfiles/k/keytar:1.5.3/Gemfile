@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'rake'
+gem 'jeweler'
+gem 'autotest-standalone'
+gem 'autotest-growl'
+gem 'rspec'

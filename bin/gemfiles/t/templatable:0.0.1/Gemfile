@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'activesupport'
+gem 'activemodel'
+gem 'tbpgr_utils'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'json-schema'
+gem 'pg'
+gem 'pry-rails'

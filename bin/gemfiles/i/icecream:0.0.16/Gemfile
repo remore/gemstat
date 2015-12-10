@@ -1,0 +1,5 @@
+gem 'pry'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

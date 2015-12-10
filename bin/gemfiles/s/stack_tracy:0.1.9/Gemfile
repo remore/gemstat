@@ -1,0 +1,4 @@
+gem 'rich_support'
+gem 'launchy'
+gem 'thor'
+gem 'fastercsv'

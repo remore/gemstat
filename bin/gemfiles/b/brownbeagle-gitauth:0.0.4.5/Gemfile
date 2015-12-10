@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'sinatra-sinatra'
+gem 'Sutto-perennial'
+gem 'thoughtbot-shoulda'
+gem 'redgreen'
+gem 'rr'
+gem 'rack-test'

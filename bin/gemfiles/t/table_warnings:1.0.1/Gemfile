@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'fastercsv'
+gem 'active_record_inline_schema'
+gem 'sqlite3'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'yard'

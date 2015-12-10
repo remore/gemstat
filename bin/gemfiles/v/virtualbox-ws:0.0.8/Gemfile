@@ -1,0 +1,2 @@
+gem 'require_all'
+gem 'savon'

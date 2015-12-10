@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'mocha'
+gem 'rails'
+gem 'validation_group'
+gem 'gon'

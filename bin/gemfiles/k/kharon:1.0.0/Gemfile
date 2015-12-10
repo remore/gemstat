@@ -1,0 +1,7 @@
+gem 'bson'
+gem 'yard'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'

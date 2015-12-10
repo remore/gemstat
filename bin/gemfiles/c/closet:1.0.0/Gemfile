@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'pry'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'activerecord'

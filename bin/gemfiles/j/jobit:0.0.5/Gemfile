@@ -1,0 +1,3 @@
+gem 'daemons'
+gem 'rake'
+gem 'rspec'

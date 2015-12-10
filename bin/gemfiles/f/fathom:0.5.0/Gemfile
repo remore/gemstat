@@ -1,0 +1,6 @@
+gem 'uuid'
+gem 'rspec'
+gem 'cucumber'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-debug19'

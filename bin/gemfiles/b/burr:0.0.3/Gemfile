@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'thor'
+gem 'liquid'
+gem 'kramdown'
+gem 'rouge'
+gem 'eeepub'

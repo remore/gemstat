@@ -1,0 +1,7 @@
+gem 'builder'
+gem 'shoulda'
+gem 'rspec'
+gem 'rr'
+gem 'sham_rack'
+gem 'sinatra'
+gem 'jeweler'

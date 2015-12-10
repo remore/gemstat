@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'duck_puncher'
+gem 'highline'
+gem 'rake'
+gem 'rspec'

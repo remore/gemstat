@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'activesupport'
+gem 'actionpack'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

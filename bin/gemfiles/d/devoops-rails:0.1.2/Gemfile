@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'rails-assets-bootstrap'
+gem 'font-awesome-rails'
+gem 'rails-assets-jquery'
+gem 'rails-assets-jquery-ui'
+gem 'bundler'
+gem 'rake'

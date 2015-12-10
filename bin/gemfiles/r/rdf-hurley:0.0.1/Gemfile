@@ -1,0 +1,6 @@
+gem 'hurley'
+gem 'rdf'
+gem 'bundler'
+gem 'rake'
+gem 'rdf-spec'
+gem 'rspec'

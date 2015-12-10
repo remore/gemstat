@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'mocha'
+gem 'fakeweb'
+gem 'mixlib-config'
+gem 'mixlib-cli'
+gem 'json_pure'
+gem 'hashie'
+gem 'httparty'

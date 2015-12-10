@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'css_parser'
+gem 'shoulda'
+gem 'mechanize'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'fluent-query'
+gem 'hash-utils'
+gem 'bundler'
+gem 'jeweler2'

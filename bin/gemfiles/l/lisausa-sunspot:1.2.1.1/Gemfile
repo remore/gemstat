@@ -1,0 +1,4 @@
+gem 'rsolr'
+gem 'escape'
+gem 'pr_geohash'
+gem 'rspec'

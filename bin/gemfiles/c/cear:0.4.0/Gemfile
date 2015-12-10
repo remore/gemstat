@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'actionpack'
+gem 'activerecord'
+gem 'colorize'
+gem 'pry'
+gem 'awesome_print'

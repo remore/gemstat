@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'guard-rspec'
+gem 'rack-test'
+gem 'rspec'

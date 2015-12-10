@@ -1,0 +1,6 @@
+gem 'bio'
+gem 'libxml-ruby'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rspec'
+gem 'celluloid'
+gem 'httparty'
+gem 'blink1-patterns'

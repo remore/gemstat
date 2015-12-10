@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'pry'
+gem 'bundler'
+gem 'rake'

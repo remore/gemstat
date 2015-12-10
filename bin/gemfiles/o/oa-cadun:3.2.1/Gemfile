@@ -1,0 +1,6 @@
+gem 'oa-core'
+gem 'cadun'
+gem 'rack'
+gem 'rspec'
+gem 'rr'
+gem 'fakeweb'

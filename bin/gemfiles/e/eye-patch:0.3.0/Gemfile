@@ -1,0 +1,6 @@
+gem 'eye'
+gem 'chronic_duration'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'minitest'

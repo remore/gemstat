@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'boutons'
+gem 'synapse-easy'
+gem 'replay_logger'
+gem 'sqlite3'

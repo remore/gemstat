@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'geocoder'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'

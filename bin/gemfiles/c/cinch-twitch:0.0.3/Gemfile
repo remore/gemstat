@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'cinch-test'
+gem 'cinch'
+gem 'twitch'
+gem 'time-lord'

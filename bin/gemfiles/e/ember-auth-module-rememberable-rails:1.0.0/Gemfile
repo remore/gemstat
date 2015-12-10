@@ -1,0 +1,2 @@
+gem 'ember-auth-module-rememberable-source'
+gem 'rails'

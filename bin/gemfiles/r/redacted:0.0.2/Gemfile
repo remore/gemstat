@@ -1,0 +1,6 @@
+gem 'faker'
+gem 'nokogiri'
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'rails'

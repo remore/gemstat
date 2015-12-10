@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'chatwork'
+gem 'bundler'
+gem 'rake'

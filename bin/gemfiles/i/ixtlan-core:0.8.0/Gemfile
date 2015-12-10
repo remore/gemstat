@@ -1,0 +1,6 @@
+gem 'slf4r'
+gem 'ixtlan-generators'
+gem 'rails'
+gem 'rspec'
+gem 'cucumber'
+gem 'ruby-maven'

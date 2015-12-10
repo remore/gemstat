@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'mime-types'
+gem 'rspec'
+gem 'coveralls'
+gem 'fakeweb'
+gem 'yard'
+gem 'bluecloth'
+gem 'cucumber'

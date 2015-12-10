@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'sequel'
+gem 'rubyzip'
+gem 'sqlite3'
+gem 'colorize'

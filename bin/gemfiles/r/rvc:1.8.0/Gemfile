@@ -1,0 +1,6 @@
+gem 'rbvmomi'
+gem 'trollop'
+gem 'backports'
+gem 'highline'
+gem 'zip'
+gem 'terminal-table'

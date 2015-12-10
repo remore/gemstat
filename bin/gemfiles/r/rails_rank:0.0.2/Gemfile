@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'rails_kvs_driver-redis_driver'
+gem 'rails'
+gem 'rails_kvs_driver'

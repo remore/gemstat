@@ -1,0 +1,4 @@
+gem 'savon'
+gem 'isolate'
+gem 'rspec'
+gem 'jeweler'

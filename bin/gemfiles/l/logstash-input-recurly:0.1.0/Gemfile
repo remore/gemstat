@@ -1,0 +1,4 @@
+gem 'logstash'
+gem 'recurly'
+gem 'addressable'
+gem 'logstash-devutils'

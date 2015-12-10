@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'git'
+gem 'httparty'
+gem 'zendesk_api'
+gem 'psych'

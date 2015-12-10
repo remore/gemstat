@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'user-configurations'
+gem 'thor'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'coveralls'

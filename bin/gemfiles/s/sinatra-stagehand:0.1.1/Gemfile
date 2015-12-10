@@ -1,0 +1,6 @@
+gem 'coffee-script'
+gem 'dotenv'
+gem 'haml'
+gem 'less'
+gem 'sinatra'
+gem 'sinatra-asset-pipeline'

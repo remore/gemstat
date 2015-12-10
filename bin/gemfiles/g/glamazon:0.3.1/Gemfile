@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'yajl-ruby'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'
+gem 'timecop'
+gem 'mocha'

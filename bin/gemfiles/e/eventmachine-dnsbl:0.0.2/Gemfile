@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'sqlite3'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

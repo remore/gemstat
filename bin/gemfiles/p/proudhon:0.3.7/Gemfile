@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rest-client'
+gem 'json'
+gem 'rspec'
+gem 'simplecov'

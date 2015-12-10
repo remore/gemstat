@@ -1,0 +1,4 @@
+gem 'cells'
+gem 'slim'
+gem 'bundler'
+gem 'rake'

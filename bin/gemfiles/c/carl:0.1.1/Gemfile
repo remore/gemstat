@@ -1,0 +1,8 @@
+gem 'cassandra-cql'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rb-inotify'
+gem 'libnotify'

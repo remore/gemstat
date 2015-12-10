@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'globalize3'
+gem 'active_record_schema'
+gem 'jeweler'

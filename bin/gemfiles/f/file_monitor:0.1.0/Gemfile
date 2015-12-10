@@ -1,0 +1,6 @@
+gem 'rb-inotify'
+gem 'daemons'
+gem 'fssm'
+gem 'trollop'
+gem 'rspec'
+gem 'flexmock'

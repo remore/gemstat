@@ -1,0 +1,6 @@
+gem 'specinfra'
+gem 'thor'
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

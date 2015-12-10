@@ -1,0 +1,5 @@
+gem 'json-schema'
+gem 'bundler'
+gem 'minitest'
+gem 'json'
+gem 'rake'

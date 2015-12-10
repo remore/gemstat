@@ -1,0 +1,8 @@
+gem 'ruby-hackernews'
+gem 'sinatra'
+gem 'json'
+gem 'bundler'
+gem 'debugger'
+gem 'rspec'
+gem 'rack-test'
+gem 'bump'

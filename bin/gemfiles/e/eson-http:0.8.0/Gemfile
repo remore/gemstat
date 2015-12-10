@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'net-http-persistent'
+gem 'addressable'
+gem 'eson-core'
+gem 'elasticsearch-node'
+gem 'riot'

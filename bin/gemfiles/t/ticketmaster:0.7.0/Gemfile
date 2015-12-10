@@ -1,0 +1,7 @@
+gem 'activeresource'
+gem 'activesupport'
+gem 'hashie'
+gem 'rspec'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rcov'

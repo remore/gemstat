@@ -1,0 +1,8 @@
+gem 'dm-core'
+gem 'ParseTree'
+gem 'ruby2ruby'
+gem 'sourcify'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'
+gem 'yard'

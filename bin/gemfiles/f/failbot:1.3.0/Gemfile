@@ -1,0 +1,4 @@
+gem 'yajl-ruby'
+gem 'rake'
+gem 'rack-test'
+gem 'minitest'

@@ -1,0 +1,6 @@
+gem 'shellac'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'shellac'

@@ -1,0 +1,4 @@
+gem 'detroit'
+gem 'detroit-standard'
+gem 'yardstick'
+gem 'qed'

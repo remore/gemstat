@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'mongoid'
+gem 'rails_admin'
+gem 'haml'

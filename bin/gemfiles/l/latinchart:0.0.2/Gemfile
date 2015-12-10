@@ -1,0 +1,4 @@
+gem 'latinverb'
+gem 'macronconversions'
+gem 'verbvector'
+gem 'active_support'

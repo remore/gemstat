@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'shoulda'
+gem 'simplecov'
+gem 'turn'
+gem 'minitest'
+gem 'rubocop'

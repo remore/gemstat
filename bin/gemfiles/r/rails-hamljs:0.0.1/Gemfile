@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'tilt'
+gem 'execjs'
+gem 'coffee-script'

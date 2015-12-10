@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'test-unit'
+gem 'rake'
+gem 'rubycom'
+gem 'sinatra'
+gem 'sinatra-contrib'

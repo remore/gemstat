@@ -1,0 +1,8 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'logstash-codec-line'
+gem 'logstash-codec-json'
+gem 'logstash-codec-json_lines'
+gem 'logstash-devutils'
+gem 'flores'
+gem 'stud'

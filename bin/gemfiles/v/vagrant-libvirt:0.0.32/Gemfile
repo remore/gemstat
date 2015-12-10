@@ -1,0 +1,6 @@
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'fog-libvirt'
+gem 'nokogiri'
+gem 'rake'

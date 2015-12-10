@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'colored'
+gem 'rake'
+gem 'rake-compiler'
+gem 'bundler'
+gem 'yard'
+gem 'rspec'

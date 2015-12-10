@@ -1,0 +1,4 @@
+gem 'vkhater-social_stream-base'
+gem 'rails-scheduler'
+gem 'coffee-rails'
+gem 'sqlite3-ruby'

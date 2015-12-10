@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'rest-client'
+gem 'savon'
+gem 'json'
+gem 'libxml-ruby'

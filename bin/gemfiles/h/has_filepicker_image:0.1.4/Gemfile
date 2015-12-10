@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'railties'
+gem 'appraisal'
+gem 'rspec-rails'
+gem 'rspec-html-matchers'
+gem 'sqlite3'
+gem 'coveralls'

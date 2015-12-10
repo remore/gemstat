@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'bourne'
+gem 'mocha'
+gem 'pry'
+gem 'redis'

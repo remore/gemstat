@@ -1,0 +1,7 @@
+gem 'sidekiq'
+gem 'redis'
+gem 'bundler'
+gem 'rake'
+gem 'rack-test'
+gem 'coveralls'
+gem 'mocha'

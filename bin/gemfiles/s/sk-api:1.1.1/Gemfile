@@ -1,0 +1,6 @@
+gem 'activeresource'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'
+gem 'xml-simple'
+gem 'rake'

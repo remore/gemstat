@@ -1,0 +1,7 @@
+gem 'colorator'
+gem 'bundler'
+gem 'octopress'
+gem 'rake'
+gem 'clash'
+gem 'aws-sdk-v1'
+gem 'pry-byebug'

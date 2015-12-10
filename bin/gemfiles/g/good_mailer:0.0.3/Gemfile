@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rspec-rails'
+gem 'rspectacular'
+gem 'pg'
+gem 'rubocop'
+gem 'codeclimate-test-reporter'
+gem 'email_spec'

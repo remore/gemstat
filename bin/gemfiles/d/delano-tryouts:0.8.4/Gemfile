@@ -1,0 +1,4 @@
+gem 'rye'
+gem 'attic'
+gem 'drydock'
+gem 'sysinfo'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'virtus'
+gem 'activesupport'
+gem 'md2man'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

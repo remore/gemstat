@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'highline'
+gem 'thor'
+gem 'json'
+gem 'net-ssh'

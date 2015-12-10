@@ -1,0 +1,5 @@
+gem 'excon'
+gem 'yajl-ruby'
+gem 'minitest'
+gem 'rake'
+gem 'megam_api'

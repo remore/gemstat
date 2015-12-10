@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'all-your-base'
+gem 'redcarpet'
+gem 'pygments.rb'

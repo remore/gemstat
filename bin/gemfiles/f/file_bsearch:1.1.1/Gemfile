@@ -1,0 +1,5 @@
+gem 'file_char_licker'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

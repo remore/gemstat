@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'tzinfo'
+gem 'rake'
+gem 'rspec'

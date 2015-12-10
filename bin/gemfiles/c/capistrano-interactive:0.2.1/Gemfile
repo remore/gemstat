@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'sshkit-interact'
+gem 'bundler'
+gem 'rake'

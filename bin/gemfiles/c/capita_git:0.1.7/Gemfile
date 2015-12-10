@@ -1,0 +1,6 @@
+gem 'git'
+gem 'thor'
+gem 'ronn'
+gem 'shoulda'
+gem 'open4'
+gem 'simplecov'

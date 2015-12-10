@@ -1,0 +1,8 @@
+gem 'ruby-boolean'
+gem 'activemodel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'activerecord'
+gem 'sqlite3'

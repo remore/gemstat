@@ -1,0 +1,5 @@
+gem 'multi_json'
+gem 'bundler'
+gem 'vcr'
+gem 'webmock'
+gem 'rspec'

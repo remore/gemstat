@@ -1,0 +1,6 @@
+gem 'bluepill'
+gem 'send_nsca'
+gem 'minitest'
+gem 'mocha'
+gem 'yard'
+gem 'redcarpet'

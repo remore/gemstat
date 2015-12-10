@@ -1,0 +1,4 @@
+gem 'esx'
+gem 'terminal-table'
+gem 'chef'
+gem 'open4'

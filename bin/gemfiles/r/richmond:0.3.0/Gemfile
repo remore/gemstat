@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'autotest'
+gem 'rspec'
+gem 'rspec-autotest'
+gem 'pry'

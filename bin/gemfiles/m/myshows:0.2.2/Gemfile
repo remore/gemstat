@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'crack'
+gem 'memoize'
+gem 'rspec'

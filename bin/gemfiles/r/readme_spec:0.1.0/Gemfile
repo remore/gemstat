@@ -1,0 +1,5 @@
+gem 'qiita-markdown'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'

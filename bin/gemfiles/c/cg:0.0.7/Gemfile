@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'tilt'
+gem 'erubis'
+gem 'nokogiri'
+gem 'rdiscount'
+gem 'rspec'

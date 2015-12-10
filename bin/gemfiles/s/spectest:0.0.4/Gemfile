@@ -1,0 +1,5 @@
+gem 'watir-webdriver'
+gem 'selenium-webdriver'
+gem 'rspec'
+gem 'cucumber'
+gem 'simplecov'

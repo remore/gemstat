@@ -1,0 +1,4 @@
+gem 'capybara'
+gem 'database_cleaner'
+gem 'rspec-steps'
+gem 'text-table'

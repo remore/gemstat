@@ -1,0 +1,4 @@
+gem 'stackdeck'
+gem 'gemcutter'
+gem 'rake-compiler'
+gem 'hoe'

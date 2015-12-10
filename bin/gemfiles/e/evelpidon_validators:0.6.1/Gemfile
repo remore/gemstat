@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'activesupport'
+gem 'evelpidon_test_helpers'
+gem 'test-unit'
+gem 'activemodel'
+gem 'credit_card_validator'

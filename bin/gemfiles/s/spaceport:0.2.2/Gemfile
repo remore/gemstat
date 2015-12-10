@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'sprockets'
+gem 'sprockets-sass'
+gem 'thor'
+gem 'bundler'

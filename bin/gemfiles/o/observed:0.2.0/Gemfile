@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakefs'
+gem 'mocha'
+gem 'simplecov'
+gem 'cucumber'
+gem 'aruba'

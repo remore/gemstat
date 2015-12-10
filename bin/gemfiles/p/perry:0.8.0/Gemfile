@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'leftright'
+gem 'fakeweb'
+gem 'factory_girl'
+gem 'activesupport'
+gem 'bertrpc'
+gem 'json'

@@ -1,0 +1,5 @@
+gem 'state_machines'
+gem 'ruby-graphviz'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rr'
+gem 'rake'
+gem 'cancan'
+gem 'netzke-core'

@@ -1,0 +1,7 @@
+gem 'escape'
+gem 'starling-starling'
+gem 'daemons'
+gem 'choice'
+gem 'rspec'
+gem 'ruby-debug'
+gem 'sinatra'

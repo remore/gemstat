@@ -1,0 +1,8 @@
+gem 'blankslate'
+gem 'libxml-ruby'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'nokogiri'
+gem 'builder'

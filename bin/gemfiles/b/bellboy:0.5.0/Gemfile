@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'faraday'
+gem 'ridley'
+gem 'knife-data-bag-version'

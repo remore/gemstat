@@ -1,0 +1,8 @@
+gem 'ftpfxp'
+gem 'retryable'
+gem 'i18n'
+gem 'minitest'
+gem 'guard'
+gem 'guard-minitest'
+gem 'mocha'
+gem 'rake'

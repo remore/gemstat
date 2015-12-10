@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rexical'
+gem 'racc'
+gem 'rake'
+gem 'rspec'

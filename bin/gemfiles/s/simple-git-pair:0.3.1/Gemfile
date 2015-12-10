@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'rainbow'
+gem 'rspec'
+gem 'aruba'
+gem 'cucumber'
+gem 'rake'
+gem 'debugger'

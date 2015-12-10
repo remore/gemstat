@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'coveralls'
+gem 'filewatcher'
+gem 'pry-byebug'
+gem 'rspec'
+gem 'rubocop'
+gem 'rubocop-rspec'

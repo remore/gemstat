@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'clash'
+gem 'sass'
+gem 'compass'
+gem 'octopress-ink'
+gem 'octopress-filters'

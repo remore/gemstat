@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'yard'
+gem 'database_cleaner'
+gem 'mongoid-multitenancy'
+gem 'sidekiq'

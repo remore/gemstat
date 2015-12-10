@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'nokogiri'
+gem 'crack'
+gem 'rake'

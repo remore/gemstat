@@ -1,0 +1,8 @@
+gem 'tilt'
+gem 'haml'
+gem 'thor'
+gem 'rdiscount'
+gem 'rspec'
+gem 'fuubar'
+gem 'nokogiri'
+gem 'gem-release'

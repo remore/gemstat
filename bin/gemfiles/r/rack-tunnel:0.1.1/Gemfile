@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'open4'
+gem 'rack-client'
+gem 'json'
+gem 'rspec'
+gem 'realweb'
+gem 'rake'

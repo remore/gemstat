@@ -1,0 +1,5 @@
+gem 'test-unit'
+gem 'turn'
+gem 'json'
+gem 'hashie'
+gem 'faraday'

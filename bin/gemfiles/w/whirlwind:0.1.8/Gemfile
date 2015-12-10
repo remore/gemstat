@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'sinatra'
+gem 'cucumber'
+gem 'rspec'
+gem 'watir-webdriver'
+gem 'wait_for'
+gem 'rdoc'
+gem 'hoe'

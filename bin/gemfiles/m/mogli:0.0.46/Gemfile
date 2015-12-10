@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'httmultiparty'
+gem 'httparty'
+gem 'multi_json'
+gem 'json'
+gem 'rake'
+gem 'rspec'

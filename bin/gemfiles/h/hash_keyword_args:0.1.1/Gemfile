@@ -1,0 +1,5 @@
+gem 'enumerable_hashify'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-gem-adapter'

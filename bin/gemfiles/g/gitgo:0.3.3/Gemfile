@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'sinatra'
+gem 'RedCloth'
+gem 'grit'
+gem 'json'
+gem 'bundler'
+gem 'rack-test'
+gem 'tap-test'

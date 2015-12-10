@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'tco'
+gem 'octokit'
+gem 'rack'
+gem 'thin'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

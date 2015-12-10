@@ -1,0 +1,4 @@
+gem 'json'
+gem 'right_aws'
+gem 'rspec'
+gem 'jeweler'

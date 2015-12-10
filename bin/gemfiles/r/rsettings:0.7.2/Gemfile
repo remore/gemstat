@@ -1,0 +1,5 @@
+gem 'audible'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

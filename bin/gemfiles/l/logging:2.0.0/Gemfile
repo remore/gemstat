@@ -1,0 +1,5 @@
+gem 'little-plugger'
+gem 'multi_json'
+gem 'flexmock'
+gem 'bones-git'
+gem 'bones'

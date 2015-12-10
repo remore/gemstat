@@ -1,0 +1,4 @@
+gem 'dynamic_attributes'
+gem 'friendly_id'
+gem 'erp_app'
+gem 'erp_dev_svcs'

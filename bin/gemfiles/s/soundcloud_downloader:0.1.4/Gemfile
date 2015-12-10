@@ -1,0 +1,5 @@
+gem 'excon'
+gem 'json'
+gem 'ruby-mp3info'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'thoughtbot-shoulda'
+gem 'mocha'
+gem 'nokogiri'
+gem 'rchardet'

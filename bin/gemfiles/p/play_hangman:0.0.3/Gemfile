@@ -1,0 +1,2 @@
+gem 'console_view_helper'
+gem 'hangman_engine'

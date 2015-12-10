@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'activerecord'
+gem 'fog'
+gem 'rake'
+gem 'mysql2'
+gem 'rspec'
+gem 'timecop'

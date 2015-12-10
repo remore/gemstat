@@ -1,0 +1,2 @@
+gem 'debugger-ruby_core_source'
+gem 'rake'

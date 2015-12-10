@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'oauth'
+gem 'oauth2'
+gem 'queryparams'
+gem 'rspec'

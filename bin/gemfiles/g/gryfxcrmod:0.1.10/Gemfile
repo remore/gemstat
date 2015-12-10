@@ -1,0 +1,6 @@
+gem 'coderunner'
+gem 'gs2crmod'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

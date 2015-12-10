@@ -1,0 +1,5 @@
+gem 'templater'
+gem 'rake'
+gem 'activesupport'
+gem 'uuid'
+gem 'diff-lcs'

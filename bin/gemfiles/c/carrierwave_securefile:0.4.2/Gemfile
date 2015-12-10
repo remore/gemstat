@@ -1,0 +1,6 @@
+gem 'carrierwave'
+gem 'crypt19'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

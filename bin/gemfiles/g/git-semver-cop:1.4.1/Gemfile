@@ -1,0 +1,4 @@
+gem 'semver2'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'mail'
+gem 'xmpp4r'
+gem 'rack-test'
+gem 'mocha'

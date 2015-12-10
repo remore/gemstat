@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'pry'
+gem 'guard'
+gem 'guard-rspec'
+gem 'pry-debugger'
+gem 'ruby_parser'
+gem 'commander'

@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'coffee-script'
+gem 'bundler'
+gem 'nokogiri'
+gem 'coveralls'

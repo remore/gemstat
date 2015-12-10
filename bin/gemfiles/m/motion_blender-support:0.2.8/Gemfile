@@ -1,0 +1,4 @@
+gem 'motion_blender'
+gem 'rake'
+gem 'pry'
+gem 'pry-doc'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'net-ssh'
+gem 'mocha'
+gem 'test-unit'

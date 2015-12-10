@@ -1,0 +1,6 @@
+gem 'sprockets'
+gem 'padrino-core'
+gem 'padrino-helpers'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-html-matchers'

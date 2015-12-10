@@ -1,0 +1,5 @@
+gem 'middleman'
+gem 'middleman-core'
+gem 'prismic.io'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'lz4-ruby'
+gem 'bundler'
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-nav'
+gem 'rake-compiler'

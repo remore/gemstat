@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'mongoid-history'
+gem 'activesupport'
+gem 'kaminari'
+gem 'glebtv_mongoid_userstamp'
+gem 'bundler'
+gem 'rake'

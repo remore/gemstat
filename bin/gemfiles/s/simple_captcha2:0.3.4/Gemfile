@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'capybara-mechanize'
+gem 'poltergeist'
+gem 'pry'

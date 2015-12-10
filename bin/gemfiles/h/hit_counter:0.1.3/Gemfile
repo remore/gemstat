@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'addressable'
+gem 'bson_ext'
+gem 'mongoid'
+gem 'rmagick'

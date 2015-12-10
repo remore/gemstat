@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'sequel'
+gem 'mysql2'
+gem 'php-serialize'

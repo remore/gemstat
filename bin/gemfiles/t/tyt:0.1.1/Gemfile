@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'hashie'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

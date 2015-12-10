@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rr'

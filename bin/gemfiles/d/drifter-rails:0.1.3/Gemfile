@@ -1,0 +1,6 @@
+gem 'drifter'
+gem 'activerecord'
+gem 'mysql'
+gem 'pg'
+gem 'ruby-debug'
+gem 'yaml'

@@ -1,0 +1,7 @@
+gem 'omniauth'
+gem 'rest-client'
+gem 'rspec'
+gem 'simplecov'
+gem 'rack-test'
+gem 'libnotify'
+gem 'ruby-debug19'

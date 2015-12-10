@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'fuubar'

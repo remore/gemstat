@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'timecop'
+gem 'log4r'

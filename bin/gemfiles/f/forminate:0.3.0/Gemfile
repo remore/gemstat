@@ -1,0 +1,8 @@
+gem 'active_attr'
+gem 'activesupport'
+gem 'client_side_validations'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'

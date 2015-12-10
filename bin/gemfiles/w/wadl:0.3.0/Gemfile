@@ -1,0 +1,6 @@
+gem 'cyclops'
+gem 'mime-types'
+gem 'safe_yaml'
+gem 'hen'
+gem 'rake'
+gem 'test-unit'

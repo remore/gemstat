@@ -1,0 +1,2 @@
+gem 'faraday'
+gem 'pry'

@@ -1,0 +1,8 @@
+gem 'actionpack'
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'methadone'
+gem 'rmultimarkdown'

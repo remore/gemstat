@@ -1,0 +1,8 @@
+gem 'snmp'
+gem 'netconf'
+gem 'net-scp'
+gem 'rspec'
+gem 'yard'
+gem 'simplecov'
+gem 'ci_reporter'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'cucumber-rails'
+gem 'cucumber-api-steps'
+gem 'database_cleaner'
+gem 'minitest-reporters'
+gem 'pry'

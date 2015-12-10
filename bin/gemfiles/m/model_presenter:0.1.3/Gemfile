@@ -1,0 +1,8 @@
+gem 'json'
+gem 'minitest'
+gem 'minitest-growl'
+gem 'guard-minitest'
+gem 'minitest-wscolor'
+gem 'rake'
+gem 'mocha'
+gem 'minitest-spec-context'

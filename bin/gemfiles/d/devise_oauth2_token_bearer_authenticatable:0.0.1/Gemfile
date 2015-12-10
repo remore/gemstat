@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'devise'
+gem 'rack-oauth2'
+gem 'rspec'

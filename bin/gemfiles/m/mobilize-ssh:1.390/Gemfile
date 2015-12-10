@@ -1,0 +1,4 @@
+gem 'mobilize-base'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'net-ssh-gateway'

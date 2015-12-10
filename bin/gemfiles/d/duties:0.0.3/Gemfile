@@ -1,0 +1,6 @@
+gem 'json'
+gem 'rails'
+gem 'sidekiq'
+gem 'combustion'
+gem 'rspec-rails'
+gem 'sqlite3'

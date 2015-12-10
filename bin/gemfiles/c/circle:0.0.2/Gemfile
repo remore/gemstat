@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'sqlite3'
+gem 'fabrication'
+gem 'shoulda-matchers'
+gem 'database_cleaner'
+gem 'simplecov'
+gem 'activerecord'

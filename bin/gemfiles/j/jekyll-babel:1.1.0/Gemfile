@@ -1,0 +1,5 @@
+gem 'babel-transpiler'
+gem 'jekyll'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mysql2'
+gem 'sqlite3'

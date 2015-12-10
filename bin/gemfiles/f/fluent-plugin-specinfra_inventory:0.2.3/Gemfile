@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'specinfra'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

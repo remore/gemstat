@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'rack-facebook'
+gem 'rspec'
+gem 'cucumber'
+gem 'fakeweb'
+gem 'rr'

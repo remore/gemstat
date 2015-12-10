@@ -1,0 +1,7 @@
+gem 'awesome_print'
+gem 'minitest'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

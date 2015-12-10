@@ -1,0 +1,7 @@
+gem 'treevisitor'
+gem 'rmagick'
+gem 'kwartz'
+gem 'rake'
+gem 'yard'
+gem 'bundler'
+gem 'rspec'

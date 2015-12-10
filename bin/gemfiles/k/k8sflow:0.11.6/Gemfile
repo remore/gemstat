@@ -1,0 +1,4 @@
+gem 'cli-topic'
+gem 'docker-api'
+gem 'heroku-api'
+gem 'netrc'

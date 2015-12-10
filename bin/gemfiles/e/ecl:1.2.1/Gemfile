@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'aws-sdk'
+gem 'curses'
+gem 'pry'
+gem 'ruby-string-match-scorer'

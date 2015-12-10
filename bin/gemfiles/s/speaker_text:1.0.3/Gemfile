@@ -1,0 +1,2 @@
+gem 'uuidtools'
+gem 'httparty'

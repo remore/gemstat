@@ -1,0 +1,2 @@
+gem 'rails-angularjs'
+gem 'rails-jquery-ui-sortable'

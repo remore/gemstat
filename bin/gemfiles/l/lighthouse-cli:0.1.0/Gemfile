@@ -1,0 +1,4 @@
+gem 'lighthouse-api'
+gem 'bundler'
+gem 'rake'
+gem 'addressable'

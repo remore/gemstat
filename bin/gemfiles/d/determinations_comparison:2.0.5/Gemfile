@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-test'
+gem 'htmlentities'
+gem 'uuidtools'

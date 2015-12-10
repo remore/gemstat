@@ -1,0 +1,6 @@
+gem 'mongo_mapper'
+gem 'rspec'
+gem 'mocha'
+gem 'machinist'
+gem 'machinist_mongo'
+gem 'faker'

@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'ragoon'
+gem 'tilt'
+gem 'bundler'
+gem 'rake'

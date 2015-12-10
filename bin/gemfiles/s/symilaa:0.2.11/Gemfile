@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'guard-minitest'
+gem 'rake'
+gem 'rb-inotify'
+gem 'rmagick'
+gem 'activesupport'

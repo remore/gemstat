@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'codeclimate-test-reporter'
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'

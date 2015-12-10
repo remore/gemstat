@@ -1,0 +1,5 @@
+gem 'dm-core'
+gem 'dm-adjust'
+gem 'dm-aggregates'
+gem 'dm-transactions'
+gem 'rspec'

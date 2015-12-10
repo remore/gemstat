@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'fakeweb'

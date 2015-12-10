@@ -1,0 +1,5 @@
+gem 'thoughtbot-shoulda'
+gem 'yard'
+gem 'thor'
+gem 'snapshots'
+gem 'rack-gem-assets'

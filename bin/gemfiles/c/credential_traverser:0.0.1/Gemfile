@@ -1,0 +1,4 @@
+gem 'aws-sdk-v1'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'sequel'
+gem 'sqlite3'
+gem 'mongo'
+gem 'bson_ext'

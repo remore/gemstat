@@ -1,0 +1,4 @@
+gem 'hoptoad_notifier'
+gem 'ffi-rzmq'
+gem 'ffi'
+gem 'rspec'

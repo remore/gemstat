@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'capybara'
+gem 'poltergeist'
+gem 'rake'
+gem 'ci_reporter'
+gem 'serverspec'

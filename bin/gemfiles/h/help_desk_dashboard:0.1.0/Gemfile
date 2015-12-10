@@ -1,0 +1,4 @@
+gem 'hashie'
+gem 'json'
+gem 'rack'
+gem 'trackit_scraper'

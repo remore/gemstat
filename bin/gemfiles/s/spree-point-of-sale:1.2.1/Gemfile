@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'barby'
+gem 'prawn'
+gem 'chunky_png'

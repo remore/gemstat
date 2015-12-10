@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'fakeweb'
+gem 'awesome_print'
+gem 'rake'
+gem 'savon'
+gem 'multi_xml'

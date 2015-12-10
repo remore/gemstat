@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'net-ping'
+gem 'possible_email'

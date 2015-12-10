@@ -1,0 +1,4 @@
+gem 'rdoc'
+gem 'rake-compiler'
+gem 'mini_portile'
+gem 'hoe'

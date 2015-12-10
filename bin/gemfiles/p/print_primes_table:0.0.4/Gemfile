@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'aurba'
+gem 'cucumber'
+gem 'rspec-expectations'
+gem 'terminal-table'

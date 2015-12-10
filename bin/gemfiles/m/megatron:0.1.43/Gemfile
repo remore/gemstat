@@ -1,0 +1,6 @@
+gem 'block_helpers'
+gem 'to_words'
+gem 'slim-rails'
+gem 'rails'
+gem 'esvg'
+gem 'gaffe'

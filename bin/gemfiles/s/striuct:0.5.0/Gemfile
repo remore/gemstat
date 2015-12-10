@@ -1,0 +1,7 @@
+gem 'validation'
+gem 'optionalargument'
+gem 'keyvalidatable'
+gem 'test-unit'
+gem 'yard'
+gem 'rake'
+gem 'bundler'

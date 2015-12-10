@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'ffi-yajl'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'json'
+gem 'sqlite3'
+gem 'minitest'
+gem 'capybara'
+gem 'turn'

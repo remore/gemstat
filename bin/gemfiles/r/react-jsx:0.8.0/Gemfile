@@ -1,0 +1,6 @@
+gem 'json'
+gem 'execjs'
+gem 'react-source'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

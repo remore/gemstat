@@ -1,0 +1,2 @@
+gem 'wukong'
+gem 'kafka-rb'

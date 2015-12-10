@@ -1,0 +1,5 @@
+gem 'rltk'
+gem 'hamster'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

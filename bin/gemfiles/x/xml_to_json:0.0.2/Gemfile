@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'yajl-ruby'
+gem 'activesupport'
+gem 'builder'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'pg'
+gem 'aws-sdk'
+gem 'logging'
+gem 'excon'

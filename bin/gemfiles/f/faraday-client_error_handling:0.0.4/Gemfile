@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'multi_json'
+gem 'phr_logging'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-byebug'

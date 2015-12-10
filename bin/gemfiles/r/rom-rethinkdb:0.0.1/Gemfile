@@ -1,0 +1,4 @@
+gem 'rethinkdb'
+gem 'rom'
+gem 'bundler'
+gem 'rake'

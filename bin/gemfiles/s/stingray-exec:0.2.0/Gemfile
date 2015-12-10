@@ -1,0 +1,2 @@
+gem 'savon'
+gem 'pry'

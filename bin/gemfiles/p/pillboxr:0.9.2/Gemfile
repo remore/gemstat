@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'bundler'
+gem 'webmock'
+gem 'vcr'
+gem 'yard'
+gem 'redcarpet'

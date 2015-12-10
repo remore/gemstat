@@ -1,0 +1,6 @@
+gem 'rb-readline'
+gem 'sfl'
+gem 'bacon'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

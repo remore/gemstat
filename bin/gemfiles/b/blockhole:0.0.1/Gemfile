@@ -1,0 +1,5 @@
+gem 'redis'
+gem 'multi_json'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'

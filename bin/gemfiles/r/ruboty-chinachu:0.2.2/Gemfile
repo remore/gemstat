@@ -1,0 +1,7 @@
+gem 'ruboty'
+gem 'goraku'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'wtfpl_init'

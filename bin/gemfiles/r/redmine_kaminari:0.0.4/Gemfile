@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'haml-rails'
+gem 'kaminari'
+gem 'bundler'
+gem 'rake'
+gem 'rubygems-update'

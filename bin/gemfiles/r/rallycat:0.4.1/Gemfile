@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'rally_rest_api'
+gem 'nokogiri'
+gem 'rake'
+gem 'artifice'
+gem 'rspec'

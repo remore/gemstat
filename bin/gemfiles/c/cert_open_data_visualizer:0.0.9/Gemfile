@@ -1,0 +1,5 @@
+gem 'haml'
+gem 'sinatra'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'

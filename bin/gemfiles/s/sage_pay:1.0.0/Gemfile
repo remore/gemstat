@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'uuid'
+gem 'i18n'
+gem 'rspec'
+gem 'rake'

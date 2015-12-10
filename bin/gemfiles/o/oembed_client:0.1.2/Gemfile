@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'webmock'
+gem 'vcr'

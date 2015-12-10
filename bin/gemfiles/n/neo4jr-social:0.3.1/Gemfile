@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rest-client'
+gem 'neo4jr-simple'
+gem 'sinatra'
+gem 'json-jruby'

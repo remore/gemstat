@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'activesupport'
+gem 'launchy'
+gem 'bundler'
+gem 'rake'

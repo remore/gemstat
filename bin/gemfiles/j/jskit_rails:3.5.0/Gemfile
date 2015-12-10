@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'pry'
+gem 'pry-nav'
+gem 'pry-doc'
+gem 'rspec-rails'
+gem 'fuubar'

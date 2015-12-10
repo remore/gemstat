@@ -1,0 +1,7 @@
+gem 'api_smith'
+gem 'virtus'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

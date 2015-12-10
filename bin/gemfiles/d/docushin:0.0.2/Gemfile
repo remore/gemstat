@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'capybara-webkit'

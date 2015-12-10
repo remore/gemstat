@@ -1,0 +1,8 @@
+gem 'gosu'
+gem 'configuration'
+gem 'octokit'
+gem 'thor'
+gem 'texplay'
+gem 'pry'
+gem 'rspec'
+gem 'rspec-mocks'

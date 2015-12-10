@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'redis'
+gem 'rspec'
+gem 'pry'

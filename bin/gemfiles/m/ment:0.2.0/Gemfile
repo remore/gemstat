@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'cuba'
+gem 'hobbit'
+gem 'rake'
+gem 'oktobertest'
+gem 'oktobertest-contrib'

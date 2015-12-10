@@ -1,0 +1,4 @@
+gem 'rmagick'
+gem 'rqrcode'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'vagrant-winrm-syncedfolders'
+gem 'rake'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'

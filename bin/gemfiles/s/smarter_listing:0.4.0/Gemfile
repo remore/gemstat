@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'smart_listing'
+gem 'sqlite3'
+gem 'minitest-rails'
+gem 'minitest-rails-capybara'

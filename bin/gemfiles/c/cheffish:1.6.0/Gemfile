@@ -1,0 +1,4 @@
+gem 'chef-zero'
+gem 'chef'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakefs'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rake-multifile'
+gem 'colorize'
+gem 'bundler'
+gem 'minitest'

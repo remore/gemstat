@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'guard-minitest'
+gem 'guard-ragel'
+gem 'shoulda-context'
+gem 'mocha'
+gem 'bundler'
+gem 'rake'

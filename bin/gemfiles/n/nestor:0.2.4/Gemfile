@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'riot'
+gem 'state_machine'
+gem 'thor'

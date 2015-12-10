@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'timecop'
+gem 'webmock'
+gem 'fuubar'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

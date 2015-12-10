@@ -1,0 +1,6 @@
+gem 'ticketmaster'
+gem 'bugherd-api'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

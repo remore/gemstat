@@ -1,0 +1,6 @@
+gem 'RubyInline'
+gem 'ZenTest'
+gem 'event_hook'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'rubyscad'
+gem 'require_all'
+gem 'wijet-thor'
+gem 'observr'

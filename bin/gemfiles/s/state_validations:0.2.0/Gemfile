@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'
+gem 'shoulda'

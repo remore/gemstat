@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'xml-simple'
+gem 'redis'
+gem 'SystemTimer'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

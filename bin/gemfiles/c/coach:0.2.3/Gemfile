@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-its'
+gem 'pry'
+gem 'rubocop'

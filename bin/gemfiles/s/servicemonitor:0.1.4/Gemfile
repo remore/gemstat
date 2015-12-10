@@ -1,0 +1,4 @@
+gem 'parse-cron'
+gem 'beanstalk-client'
+gem 'fluiddb'
+gem 'rest-client'

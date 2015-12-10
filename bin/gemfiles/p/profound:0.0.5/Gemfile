@@ -1,0 +1,5 @@
+gem 'rmagick'
+gem 'google-search'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

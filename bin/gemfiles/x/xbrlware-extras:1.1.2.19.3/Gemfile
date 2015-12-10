@@ -1,0 +1,2 @@
+gem 'xbrlware-ruby19'
+gem 'rspec'

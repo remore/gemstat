@@ -1,0 +1,2 @@
+gem 'aliyun-api'
+gem 'ruby-hmac'

@@ -1,0 +1,6 @@
+gem 'rubyzip'
+gem 'httparty'
+gem 'nokogiri'
+gem 'damerau-levenshtein'
+gem 'sinatra'
+gem 'thin'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'prawn'
+gem 'linguistics'
+gem 'rake'
+gem 'jeweler'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'

@@ -1,0 +1,4 @@
+gem 'httpclient'
+gem 'irb-pager'
+gem 'rspec'
+gem 'webmock'

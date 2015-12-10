@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'active_model_serializers'
+gem 'bcrypt'
+gem 'email_validator'
+gem 'pg'
+gem 'servitore'
+gem 'rspec-rails'
+gem 'factory_girl_rails'

@@ -1,0 +1,4 @@
+gem 'slop'
+gem 'net-ssh'
+gem 'pony'
+gem 'buildar'

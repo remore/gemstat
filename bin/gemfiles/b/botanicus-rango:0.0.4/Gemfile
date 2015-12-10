@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'extlib'
+gem 'path'
+gem 'erubis'
+gem 'thor'

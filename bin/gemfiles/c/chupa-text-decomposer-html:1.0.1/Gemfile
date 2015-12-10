@@ -1,0 +1,7 @@
+gem 'chupa-text'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'packnga'
+gem 'redcarpet'

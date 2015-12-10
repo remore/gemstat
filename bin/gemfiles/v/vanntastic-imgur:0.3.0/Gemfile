@@ -1,0 +1,4 @@
+gem 'bacon'
+gem 'yard'
+gem 'curb'
+gem 'crack'

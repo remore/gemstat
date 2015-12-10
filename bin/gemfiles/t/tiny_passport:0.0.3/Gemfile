@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'tiny_util'
+gem 'tiny_cache'
+gem 'tiny_support'
+gem 'protected_attributes'
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'sqlite3'

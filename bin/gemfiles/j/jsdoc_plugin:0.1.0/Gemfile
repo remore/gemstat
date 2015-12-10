@@ -1,0 +1,2 @@
+gem 'jsdoc'
+gem 'thoughtbot-shoulda'

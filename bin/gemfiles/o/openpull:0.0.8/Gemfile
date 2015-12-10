@@ -1,0 +1,5 @@
+gem 'octokit'
+gem 'colorize'
+gem 'terminal-table'
+gem 'faraday-http-cache'
+gem 'rubocop'

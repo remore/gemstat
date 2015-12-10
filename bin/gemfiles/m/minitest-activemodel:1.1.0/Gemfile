@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'activemodel'
+gem 'minitest-matchers'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rake'

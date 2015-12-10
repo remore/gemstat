@@ -1,0 +1,6 @@
+gem 'collection_json_serializer'
+gem 'actionpack'
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'fakeweb'
+gem 'nokogiri'
+gem 'sinatra'
+gem 'hominid'

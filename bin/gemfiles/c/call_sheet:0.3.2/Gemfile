@@ -1,0 +1,8 @@
+gem 'kleisli'
+gem 'wisper'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'
+gem 'yard'

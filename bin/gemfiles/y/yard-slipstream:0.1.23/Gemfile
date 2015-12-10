@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'json'
+gem 'rspec'
+gem 'yard'
+gem 'cucumber'

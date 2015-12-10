@@ -1,0 +1,5 @@
+gem 'fraggle-spanx'
+gem 'em-synchrony'
+gem 'rake'
+gem 'rspec'
+gem 'beefcake-spanx'

@@ -1,0 +1,4 @@
+gem 'resque'
+gem 'resque-scheduler'
+gem 'turn'
+gem 'yard'

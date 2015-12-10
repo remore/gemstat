@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'rake'
+gem 'pry'
+gem 'ronn'
+gem 'parslet'
+gem 'gem-man'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'fivemat'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'guard-yard'

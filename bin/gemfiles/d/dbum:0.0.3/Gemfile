@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'slog'
+gem 'sinatra'
+gem 'daybreak'
+gem 'deep_merge'

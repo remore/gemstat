@@ -1,0 +1,3 @@
+gem 'awesome_print'
+gem 'rest-client'
+gem 'multi_json'

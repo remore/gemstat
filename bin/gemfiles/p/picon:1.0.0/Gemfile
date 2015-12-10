@@ -1,0 +1,5 @@
+gem 'plist'
+gem 'ruby_identicon'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

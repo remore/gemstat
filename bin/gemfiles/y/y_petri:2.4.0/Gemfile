@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'y_support'
+gem 'gnuplot'
+gem 'ruby-graphviz'
+gem 'distribution'

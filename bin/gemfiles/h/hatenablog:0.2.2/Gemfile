@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rr'
+gem 'test-unit'
+gem 'test-unit-rr'
+gem 'yard'
+gem 'nokogiri'
+gem 'oauth'

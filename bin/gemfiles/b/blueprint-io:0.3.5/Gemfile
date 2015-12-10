@@ -1,0 +1,7 @@
+gem 'datapimp'
+gem 'brief'
+gem 'skypager'
+gem 'git-version-bump'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

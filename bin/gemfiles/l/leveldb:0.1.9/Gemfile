@@ -1,0 +1,5 @@
+gem 'fiddler-rb'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'ffi'

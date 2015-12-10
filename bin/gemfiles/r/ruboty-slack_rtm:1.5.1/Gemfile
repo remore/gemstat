@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'ruboty'
+gem 'slack-api'
+gem 'slack-rtmapi'

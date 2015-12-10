@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'em-zeromq'
+gem 'multi_json'
+gem 'tnetstring'
+gem 'rspec'
+gem 'fuubar'
+gem 'yard'

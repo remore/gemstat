@@ -1,0 +1,8 @@
+gem 'chef'
+gem 'fog'
+gem 'bundler'
+gem 'minitest'
+gem 'mocha'
+gem 'simplecov'
+gem 'rake'
+gem 'wrong'

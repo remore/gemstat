@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'excon'
+gem 'elasticsearch'
+gem 'rake'
+gem 'webmock'

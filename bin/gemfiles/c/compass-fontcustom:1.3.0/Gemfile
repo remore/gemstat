@@ -1,0 +1,5 @@
+gem 'compass'
+gem 'fontcustom'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

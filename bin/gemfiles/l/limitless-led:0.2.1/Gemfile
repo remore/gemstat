@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'activesupport'
+gem 'color'
+gem 'rainbow'

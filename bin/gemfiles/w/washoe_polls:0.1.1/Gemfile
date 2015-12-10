@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'webmock'
+gem 'nokogiri'
+gem 'faraday'
+gem 'nokogiri'

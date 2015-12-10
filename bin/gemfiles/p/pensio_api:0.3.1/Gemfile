@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'webmock'
+gem 'guard'
+gem 'guard-rspec'
+gem 'httparty'
+gem 'activesupport'
+gem 'multi_xml'

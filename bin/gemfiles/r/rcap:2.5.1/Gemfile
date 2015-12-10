@@ -1,0 +1,5 @@
+gem 'json'
+gem 'uuidtools'
+gem 'rspec'
+gem 'yard'
+gem 'webmock'

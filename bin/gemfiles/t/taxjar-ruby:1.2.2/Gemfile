@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'http'
+gem 'memoizable'
+gem 'taxjar-model_attribute'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'motion-keyboard-avoiding'
+gem 'motion-require'
+gem 'cocoapods'
+gem 'motion-cocoapods'
+gem 'motion-layout'
+gem 'rake'

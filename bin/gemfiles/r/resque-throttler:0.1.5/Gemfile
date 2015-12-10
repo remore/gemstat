@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'bundler'
+gem 'activesupport'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
+gem 'resque'

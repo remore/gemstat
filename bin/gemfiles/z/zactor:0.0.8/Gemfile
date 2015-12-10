@@ -1,0 +1,8 @@
+gem 'ffi'
+gem 'ruby-interface'
+gem 'ffi-rzmq'
+gem 'em-zeromq'
+gem 'bson'
+gem 'bson_ext'
+gem 'activesupport'
+gem 'uuid'

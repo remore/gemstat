@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

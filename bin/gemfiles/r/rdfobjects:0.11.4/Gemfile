@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'curies'
+gem 'addressable'
+gem 'rdf'
+gem 'rdfa_parser'

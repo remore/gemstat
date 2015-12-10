@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'

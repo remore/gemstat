@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'dragonfly'
+gem 'addressable'
+gem 'httparty'
+gem 'activesupport'

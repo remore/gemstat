@@ -1,0 +1,8 @@
+gem 'templater'
+gem 'yui-compressor'
+gem 'sprockets'
+gem 'sinatra'
+gem 'markaby'
+gem 'maruku'
+gem 'haml'
+gem 'chriseppstein-compass'

@@ -1,0 +1,7 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'will_paginate'
+gem 'mongoid'
+gem 'rspec'
+gem 'shoulda'
+gem 'rr'

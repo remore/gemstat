@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'coveralls'
+gem 'guard'
+gem 'guard-rspec'

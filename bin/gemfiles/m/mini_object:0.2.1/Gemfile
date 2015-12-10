@@ -1,0 +1,4 @@
+gem 'forwarding_dsl'
+gem 'bundler'
+gem 'rake'
+gem 'gem-release'

@@ -1,0 +1,5 @@
+gem 'ruby-libvirt'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

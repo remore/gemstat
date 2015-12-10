@@ -1,0 +1,2 @@
+gem 'httparty'
+gem 'davetron5000-gli'

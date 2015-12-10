@@ -1,0 +1,7 @@
+gem 'vcr'
+gem 'vacuum'
+gem 'webmock'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'awesome_print'

@@ -1,0 +1,6 @@
+gem 'mocha'
+gem 'fakeweb'
+gem 'activesupport'
+gem 'i18n'
+gem 'httparty'
+gem 'xml-simple'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'test-unit'
+gem 'fluentd'
+gem 'twitter'
+gem 'tweetstream'
+gem 'string-scrub'

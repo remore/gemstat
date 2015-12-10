@@ -1,0 +1,6 @@
+gem 'wrest'
+gem 'hashie'
+gem 'i18n'
+gem 'rspec'
+gem 'fakeweb'
+gem 'simplecov'

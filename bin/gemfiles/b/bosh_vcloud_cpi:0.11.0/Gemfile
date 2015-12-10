@@ -1,0 +1,8 @@
+gem 'bosh_common'
+gem 'bosh_cpi'
+gem 'yajl-ruby'
+gem 'builder'
+gem 'httpclient'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'membrane'

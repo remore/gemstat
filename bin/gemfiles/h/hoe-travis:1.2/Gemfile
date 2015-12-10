@@ -1,0 +1,4 @@
+gem 'travis-lint'
+gem 'hoe'
+gem 'minitest'
+gem 'rdoc'

@@ -1,0 +1,6 @@
+gem 'excon'
+gem 'connection_pool'
+gem 'thread_safe'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

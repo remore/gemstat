@@ -1,0 +1,5 @@
+gem 'power_assert'
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

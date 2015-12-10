@@ -1,0 +1,8 @@
+gem 'slog'
+gem 'bunny'
+gem 'trollop'
+gem 'colorize'
+gem 'deep_merge'
+gem 'poseidon'
+gem 'snappy'
+gem 'eventmachine'

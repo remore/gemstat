@@ -1,0 +1,4 @@
+gem 'SyslogLogger'
+gem 'json'
+gem 'rspec'
+gem 'rake'

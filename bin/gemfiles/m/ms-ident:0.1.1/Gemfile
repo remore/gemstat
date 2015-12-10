@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'ms-core'
+gem 'ms-in_silico'
+gem 'andand'
+gem 'spec-more'
+gem 'jeweler'

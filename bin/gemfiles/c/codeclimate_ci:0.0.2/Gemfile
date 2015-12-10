@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'
+gem 'webmock'
+gem 'thor'
+gem 'httparty'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'mailchimp-api'
+gem 'rails-observers'
+gem 'rspec-rails'
+gem 'pg'

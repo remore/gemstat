@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'toadhopper'
+gem 'mail'
+gem 'rspec'
+gem 'yard'
+gem 'rcov'
+gem 'mocha'

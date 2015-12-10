@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'rake'
+gem 'rdoc'
+gem 'shoulda'
+gem 'minitest'

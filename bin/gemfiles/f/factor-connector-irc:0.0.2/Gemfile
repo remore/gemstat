@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'codeclimate-test-reporter'
+gem 'irconnect'
+gem 'factor-connector-api'

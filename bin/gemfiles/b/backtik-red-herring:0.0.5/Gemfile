@@ -1,0 +1,4 @@
+gem 'newgem'
+gem 'rack'
+gem 'red'
+gem 'hoe'

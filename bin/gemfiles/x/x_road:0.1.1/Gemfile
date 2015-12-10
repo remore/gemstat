@@ -1,0 +1,7 @@
+gem 'uuidtools'
+gem 'require_all'
+gem 'savon'
+gem 'codeclimate-test-reporter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

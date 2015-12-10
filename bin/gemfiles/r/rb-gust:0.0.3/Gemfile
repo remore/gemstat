@@ -1,0 +1,4 @@
+gem 'spreadsheet'
+gem 'active_support'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,6 @@
+gem 'gtk2'
+gem 'naturalsort'
+gem 'simple-rss'
+gem 'open4'
+gem 'mplayer-ruby'
+gem 'lockfile'

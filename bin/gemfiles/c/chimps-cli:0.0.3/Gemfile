@@ -1,0 +1,4 @@
+gem 'chimps'
+gem 'configliere'
+gem 'json'
+gem 'rspec'

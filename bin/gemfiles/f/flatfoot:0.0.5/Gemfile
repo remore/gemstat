@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'shoulda'
+gem 'test-unit'
+gem 'rack'
+gem 'simplecov'

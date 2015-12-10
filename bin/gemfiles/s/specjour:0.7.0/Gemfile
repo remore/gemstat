@@ -1,0 +1,7 @@
+gem 'dnssd'
+gem 'thor'
+gem 'rspec'
+gem 'rr'
+gem 'cucumber'
+gem 'yard'
+gem 'debugger'

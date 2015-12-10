@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'fastercsv'
+gem 'shoulda'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

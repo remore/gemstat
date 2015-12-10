@@ -1,0 +1,6 @@
+gem 'chef'
+gem 'berkshelf'
+gem 'knife-attribute'
+gem 'knife-container'
+gem 'knife-vagrant2'
+gem 'highline'

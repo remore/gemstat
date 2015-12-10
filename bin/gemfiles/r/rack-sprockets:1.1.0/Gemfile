@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'test-belt'
+gem 'sinatra'
+gem 'rack-test'
+gem 'webrat'
+gem 'yui-compressor'
+gem 'rack'
+gem 'sprockets'

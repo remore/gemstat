@@ -1,0 +1,2 @@
+gem 'will_paginate'
+gem 'haml'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'tilt'
+gem 'haml'
+gem 'lazy_high_charts'
+gem 'i18n'
+gem 'thor'
+gem 'json_pure'

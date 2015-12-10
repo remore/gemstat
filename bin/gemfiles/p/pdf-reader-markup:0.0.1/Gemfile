@@ -1,0 +1,6 @@
+gem 'pdf-reader'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,5 @@
+gem 'jasmine'
+gem 'requirejs-rails'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

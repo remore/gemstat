@@ -1,0 +1,5 @@
+gem 'berkshelf'
+gem 'buff-platform'
+gem 'redcarpet'
+gem 'yard'
+gem 'rake'

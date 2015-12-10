@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'chartkick'
+gem 'bundler'
+gem 'rake'

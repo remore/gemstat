@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'erubis'
+gem 'rdiscount'
+gem 'rack'
+gem 'rack-test'

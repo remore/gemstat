@@ -1,0 +1,6 @@
+gem 'ballonizer'
+gem 'pretty_proxy'
+gem 'sequel'
+gem 'addressable'
+gem 'rack'
+gem 'sqlite3'

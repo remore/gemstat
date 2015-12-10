@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'highline'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

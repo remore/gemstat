@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'sanitize'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

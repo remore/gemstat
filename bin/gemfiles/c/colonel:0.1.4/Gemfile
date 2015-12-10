@@ -1,0 +1,6 @@
+gem 'vegas'
+gem 'sinatra'
+gem 'haml'
+gem 'coffee-script'
+gem 'redcarpet'
+gem 'yard'

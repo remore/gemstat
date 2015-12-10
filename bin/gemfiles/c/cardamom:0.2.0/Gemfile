@@ -1,0 +1,4 @@
+gem 'cuba'
+gem 'multi_json'
+gem 'unicode_utils'
+gem 'cutest'

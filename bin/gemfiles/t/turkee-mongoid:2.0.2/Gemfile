@@ -1,0 +1,8 @@
+gem 'lockfile'
+gem 'rails'
+gem 'rturk'
+gem 'mongoid'
+gem 'mocha'
+gem 'spork'
+gem 'factory_girl'
+gem 'rspec-rails'

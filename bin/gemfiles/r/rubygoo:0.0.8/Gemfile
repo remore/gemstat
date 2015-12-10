@@ -1,0 +1,4 @@
+gem 'constructor'
+gem 'publisher'
+gem 'rspec'
+gem 'hoe'

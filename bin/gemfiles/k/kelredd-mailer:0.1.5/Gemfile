@@ -1,0 +1,4 @@
+gem 'log4r'
+gem 'tmail'
+gem 'kelredd-useful'
+gem 'shoulda'

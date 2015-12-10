@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'mustache'
+gem 'bundler'
+gem 'aruba'
+gem 'pry'

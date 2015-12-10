@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'bundler'
+gem 'minitest'
+gem 'minitest-stub_any_instance'
+gem 'sqlite3'

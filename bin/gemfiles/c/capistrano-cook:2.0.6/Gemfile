@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'chef'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'chef-zero'

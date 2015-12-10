@@ -1,0 +1,7 @@
+gem 'extlib'
+gem 'json'
+gem 'addressable'
+gem 'rake'
+gem 'jeweler'
+gem 'shoulda'
+gem 'jnunemaker-matchy'

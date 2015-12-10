@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rspec-given'
+gem 'mash'
+gem 'redis'
+gem 'gilmour-em-hiredis'

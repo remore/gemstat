@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'true'
+gem 'pry'
+gem 'activerecord-mysql2-adapter'
+gem 'activerecord'

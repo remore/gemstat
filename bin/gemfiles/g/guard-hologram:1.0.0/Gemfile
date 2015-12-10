@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'hologram'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

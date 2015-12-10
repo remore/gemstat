@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'capistrano'
+gem 'rspec'
+gem 'yard'

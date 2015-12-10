@@ -1,0 +1,5 @@
+gem 'seo_meta'
+gem 'decorators'
+gem 'deface'
+gem 'bundler'
+gem 'rake'

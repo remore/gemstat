@@ -1,0 +1,5 @@
+gem 'hoe'
+gem 'rake-remote_task'
+gem 'tempdir'
+gem 'json'
+gem 'deep_merge'

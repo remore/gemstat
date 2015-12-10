@@ -1,0 +1,2 @@
+gem 'shoulda'
+gem 'blankslate'

@@ -1,0 +1,4 @@
+gem 'http_parser.rb'
+gem 'http'
+gem 'eventmachine'
+gem 'bundler'

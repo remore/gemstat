@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mocha'
+gem 'shoulda'
+gem 'jeweler'
+gem 'sqlite3'
+gem 'thoughtbot-shoulda'

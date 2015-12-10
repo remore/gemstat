@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'activesupport'
+gem 'appraisal'
+gem 'rack-test'
+gem 'nokogiri'
+gem 'rake'

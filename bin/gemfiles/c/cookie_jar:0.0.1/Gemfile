@@ -1,0 +1,6 @@
+gem 'forgery'
+gem 'rest-client'
+gem 'rspec'
+gem 'debugger'
+gem 'oauth2'
+gem 'ipaddress'

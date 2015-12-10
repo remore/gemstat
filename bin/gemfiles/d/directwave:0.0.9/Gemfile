@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'uuid'
+gem 'aws-sdk'
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

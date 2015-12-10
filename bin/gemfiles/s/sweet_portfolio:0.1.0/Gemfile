@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'paperclip'
+gem 'jquery-rails'
+gem 'haml'
+gem 'sqlite3'
+gem 'jeweler'

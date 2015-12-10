@@ -1,0 +1,5 @@
+gem 'sass'
+gem 'sass-rails'
+gem 'bourbon'
+gem 'bundler'
+gem 'rake'

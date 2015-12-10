@@ -1,0 +1,6 @@
+gem 'svutil'
+gem 'eventmachine'
+gem 'squiggle'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

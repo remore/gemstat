@@ -1,0 +1,6 @@
+gem 'commander'
+gem 'rest-client'
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

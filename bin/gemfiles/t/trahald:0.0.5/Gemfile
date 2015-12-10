@@ -1,0 +1,7 @@
+gem 'kramdown'
+gem 'sass'
+gem 'sanitize'
+gem 'sinatra'
+gem 'slim'
+gem 'rspec'
+gem 'rake'

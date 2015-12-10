@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'configlet'
+gem 'activesupport'
+gem 'scrolls'
+gem 'atomic'
+gem 'minitest'

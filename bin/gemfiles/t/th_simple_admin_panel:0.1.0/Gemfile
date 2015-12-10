@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'inherited_resources'
+gem 'kaminari'

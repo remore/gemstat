@@ -1,0 +1,6 @@
+gem 'memcached'
+gem 'rack'
+gem 'rake'
+gem 'mocha'
+gem 'activesupport'
+gem 'actionpack'

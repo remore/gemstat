@@ -1,0 +1,5 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

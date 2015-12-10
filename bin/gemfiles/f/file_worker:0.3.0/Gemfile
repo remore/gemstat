@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'jruby-openssl'
+gem 'girl_friday'
+gem 'right_aws'

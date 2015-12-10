@@ -1,0 +1,8 @@
+gem 'spree_core'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'factory_girl_rails'
+gem 'ffaker'
+gem 'shoulda-matchers'
+gem 'sqlite3'
+gem 'guard-rspec'

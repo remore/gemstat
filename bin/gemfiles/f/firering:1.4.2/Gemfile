@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'rack'
+gem 'thin'
+gem 'rake'

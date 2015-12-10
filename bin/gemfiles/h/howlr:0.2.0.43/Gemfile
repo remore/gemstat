@@ -1,0 +1,5 @@
+gem 'picnic'
+gem 'actionmailer'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

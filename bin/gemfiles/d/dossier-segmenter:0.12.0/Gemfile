@@ -1,0 +1,8 @@
+gem 'dossier'
+gem 'bundler'
+gem 'rspec-rails'
+gem 'rails'
+gem 'capybara'
+gem 'simplecov'
+gem 'pry'
+gem 'rake'

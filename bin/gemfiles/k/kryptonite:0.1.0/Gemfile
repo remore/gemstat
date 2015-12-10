@@ -1,0 +1,5 @@
+gem 'kryptonite'
+gem 'will_paginate'
+gem 'authlogic'
+gem 'best_in_place'
+gem 'paperclip'

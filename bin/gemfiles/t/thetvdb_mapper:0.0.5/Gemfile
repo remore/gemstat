@@ -1,0 +1,6 @@
+gem 'thetvdb_api'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

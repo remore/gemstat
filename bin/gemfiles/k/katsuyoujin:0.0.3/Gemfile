@@ -1,0 +1,8 @@
+gem 'mojinizer'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rainbow'
+gem 'rubocop'
+gem 'simplecov-gem-profile'
+gem 'rubycritic'

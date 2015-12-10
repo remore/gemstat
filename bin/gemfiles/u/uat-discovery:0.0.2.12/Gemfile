@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'ipaddress'
+gem 'yard'
+gem 'rake'
+gem 'webmock'
+gem 'diplomat'

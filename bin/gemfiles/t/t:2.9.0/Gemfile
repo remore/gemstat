@@ -1,0 +1,8 @@
+gem 'launchy'
+gem 'geokit'
+gem 'htmlentities'
+gem 'oauth'
+gem 'retryable'
+gem 'thor'
+gem 'twitter'
+gem 'bundler'

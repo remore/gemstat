@@ -1,0 +1,4 @@
+gem 'right_cloud_api_base'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

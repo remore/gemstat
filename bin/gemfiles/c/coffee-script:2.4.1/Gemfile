@@ -1,0 +1,4 @@
+gem 'coffee-script-source'
+gem 'execjs'
+gem 'json'
+gem 'rake'

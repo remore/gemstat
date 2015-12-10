@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'json'
+gem 'websocket-eventmachine-client'
+gem 'websocket-eventmachine-server'
+gem 'pomelo-citrus-loader'
+gem 'pomelo-citrus-logger'
+gem 'pomelo-citrus-monitor'
+gem 'pomelo-citrus-scheduler'

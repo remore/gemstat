@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-readline'
+gem 'rb-fsevent'
+gem 'coveralls'

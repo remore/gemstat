@@ -1,0 +1,7 @@
+gem 'resque'
+gem 'mocha'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'pry'

@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'w3c_datetime'
+gem 'bundler'
+gem 'rake'

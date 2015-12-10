@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'redcarpet'
+gem 'spud_core'
+gem 'sqlite3'

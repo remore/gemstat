@@ -1,0 +1,5 @@
+gem 'bio-img_metadata'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

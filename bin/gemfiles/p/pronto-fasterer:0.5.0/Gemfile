@@ -1,0 +1,5 @@
+gem 'fasterer'
+gem 'pronto'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

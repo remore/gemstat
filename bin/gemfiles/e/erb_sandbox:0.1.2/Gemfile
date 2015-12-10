@@ -1,0 +1,2 @@
+gem 'rubocop'
+gem 'rspec'

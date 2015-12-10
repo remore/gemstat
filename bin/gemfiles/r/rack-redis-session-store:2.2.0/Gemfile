@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'connection_pool'
+gem 'redis'
+gem 'hiredis'
+gem 'multi_json'
+gem 'jbuilder'

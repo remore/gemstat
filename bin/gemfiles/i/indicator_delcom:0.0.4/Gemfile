@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'haml'
+gem 'ruby-usb'
+gem 'json'
+gem 'rake'

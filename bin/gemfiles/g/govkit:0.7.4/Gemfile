@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'nokogiri'
+gem 'httparty'
+gem 'json'
+gem 'fastercsv'
+gem 'jeweler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'oj'
+gem 'httparty'
+gem 'youtube_it'
+gem 'progress_bar'

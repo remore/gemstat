@@ -1,0 +1,7 @@
+gem 'rroonga'
+gem 'gtk2'
+gem 'json'
+gem 'test-unit'
+gem 'test-unit-notify'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'json'
+gem 'restclient_with_cert'
+gem 'activesupport'
+gem 'i18n'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'
+gem 'simplecov'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'childprocess'
+gem 'file-tail'
+gem 'zeus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

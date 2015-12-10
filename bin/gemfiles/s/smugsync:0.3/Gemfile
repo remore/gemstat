@@ -1,0 +1,4 @@
+gem 'assert_same'
+gem 'trollop'
+gem 'json'
+gem 'oauth'

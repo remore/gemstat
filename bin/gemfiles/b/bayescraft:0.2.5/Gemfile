@@ -1,0 +1,5 @@
+gem 'awesome_print'
+gem 'cri'
+gem 'gnuplot'
+gem 'integration'
+gem 'rubystats'

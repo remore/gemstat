@@ -1,0 +1,5 @@
+gem 'respond_to_missing'
+gem 'minitest'
+gem 'rake'
+gem 'rdoc'
+gem 'turn'

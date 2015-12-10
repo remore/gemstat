@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'awesome_print'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

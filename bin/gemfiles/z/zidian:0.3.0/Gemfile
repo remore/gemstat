@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'ruby-debug'
+gem 'ruby-debug19'

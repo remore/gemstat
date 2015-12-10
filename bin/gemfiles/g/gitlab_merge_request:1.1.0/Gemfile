@@ -1,0 +1,4 @@
+gem 'gitlab'
+gem 'awesome_print'
+gem 'bundler'
+gem 'rake'

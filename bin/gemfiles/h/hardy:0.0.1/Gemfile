@@ -1,0 +1,4 @@
+gem 'addressable'
+gem 'har'
+gem 'mime-types'
+gem 'thor'

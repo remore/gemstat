@@ -1,0 +1,5 @@
+gem 'usno-eclipse-solar'
+gem 'usno-eclipse-lunar'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

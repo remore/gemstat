@@ -1,0 +1,8 @@
+gem 'hamlit'
+gem 'activesupport'
+gem 'actionpack'
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'appraisal'

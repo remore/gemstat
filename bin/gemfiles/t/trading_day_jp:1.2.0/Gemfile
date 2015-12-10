@@ -1,0 +1,4 @@
+gem 'holiday_jp'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

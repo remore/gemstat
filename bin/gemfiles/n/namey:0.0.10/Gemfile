@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'sequel'
+gem 'sqlite3'
+gem 'shoulda'
+gem 'yard'

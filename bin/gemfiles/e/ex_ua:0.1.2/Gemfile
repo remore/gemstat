@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'httparty'
+gem 'nokogiri'
+gem 'addressable'

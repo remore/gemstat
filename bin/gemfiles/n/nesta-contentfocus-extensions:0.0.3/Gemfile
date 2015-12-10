@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'nesta'
+gem 'kramdown'
+gem 'rouge'
+gem 'tilt'
+gem 'sass_paths'
+gem 'sinatra-flash'

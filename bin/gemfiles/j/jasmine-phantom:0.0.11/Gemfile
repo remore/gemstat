@@ -1,0 +1,4 @@
+gem 'jasmine'
+gem 'posix-spawn'
+gem 'phantomjs'
+gem 'rake'

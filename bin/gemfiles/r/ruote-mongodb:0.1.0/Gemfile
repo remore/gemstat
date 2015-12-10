@@ -1,0 +1,5 @@
+gem 'mongo'
+gem 'bson'
+gem 'bson_ext'
+gem 'rspec'
+gem 'test-unit'

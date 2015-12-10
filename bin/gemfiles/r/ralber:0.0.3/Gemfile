@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rmagick'
+gem 'commander'
+gem 'exifr'
+gem 'rspec'

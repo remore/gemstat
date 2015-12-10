@@ -1,0 +1,6 @@
+gem 'codeschool-engine'
+gem 'codeschool-lesson'
+gem 'codeschool-httprunner'
+gem 'codeschool-omniauth'
+gem 'codeschool-client'
+gem 'activesupport'

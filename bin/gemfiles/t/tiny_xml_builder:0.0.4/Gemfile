@@ -1,0 +1,4 @@
+gem 'blankslate'
+gem 'bones'
+gem 'bones-rcov'
+gem 'bones'

@@ -1,0 +1,3 @@
+gem 'dragonfly'
+gem 'ruby-manta'
+gem 'rspec'

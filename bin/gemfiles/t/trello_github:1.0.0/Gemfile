@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'aruba'
+gem 'gli'
+gem 'git'
+gem 'git_remote_branch'

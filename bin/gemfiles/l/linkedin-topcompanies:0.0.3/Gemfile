@@ -1,0 +1,2 @@
+gem 'casperjs'
+gem 'rspec'

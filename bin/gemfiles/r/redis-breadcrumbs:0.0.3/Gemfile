@@ -1,0 +1,6 @@
+gem 'json'
+gem 'redis'
+gem 'rake'
+gem 'minitest'
+gem 'mock_redis'
+gem 'redis-namespace'

@@ -1,0 +1,4 @@
+gem 'net-ldap'
+gem 'rake'
+gem 'rails'
+gem 'rspec'

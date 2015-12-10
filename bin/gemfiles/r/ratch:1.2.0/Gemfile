@@ -1,0 +1,5 @@
+gem 'facets'
+gem 'minitar'
+gem 'ko'
+gem 'qed'
+gem 'syckle'

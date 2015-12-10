@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'turn'
+gem 'activesupport'
+gem 'rack-test'
+gem 'virtus'
+gem 'mongoid'
+gem 'cuba'

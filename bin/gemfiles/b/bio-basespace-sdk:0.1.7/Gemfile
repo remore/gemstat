@@ -1,0 +1,7 @@
+gem 'getopt'
+gem 'addressable'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'bio'
+gem 'rdoc'

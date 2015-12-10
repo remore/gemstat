@@ -1,0 +1,6 @@
+gem 'semantic_logger'
+gem 'resilient_socket'
+gem 'ruby_protobuf'
+gem 'gene_pool'
+gem 'sync_attr'
+gem 'multi_json'

@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'rspec'
+gem 'os'
+gem 'rmagick'

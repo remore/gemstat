@@ -1,0 +1,4 @@
+gem 'json'
+gem 'haml'
+gem 'handlebars'
+gem 'i18n'

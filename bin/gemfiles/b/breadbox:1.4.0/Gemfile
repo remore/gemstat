@@ -1,0 +1,6 @@
+gem 'dropbox-sdk'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

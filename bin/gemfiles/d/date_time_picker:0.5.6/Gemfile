@@ -1,0 +1,4 @@
+gem 'rspec-rails'
+gem 'capybara'
+gem 'jquery-rails'
+gem 'json'

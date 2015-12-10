@@ -1,0 +1,2 @@
+gem 'haredo'
+gem 'pg'

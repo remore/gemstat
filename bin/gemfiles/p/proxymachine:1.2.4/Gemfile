@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'rake'
+gem 'shoulda'
+gem 'jeweler'

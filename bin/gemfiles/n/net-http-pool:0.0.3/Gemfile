@@ -1,0 +1,5 @@
+gem 'net-http-persistent'
+gem 'celluloid'
+gem 'cutest'
+gem 'capybara'
+gem 'mock-server'

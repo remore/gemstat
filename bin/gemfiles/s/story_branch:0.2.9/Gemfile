@@ -1,0 +1,6 @@
+gem 'blanket_wrapper'
+gem 'git'
+gem 'levenshtein-ffi'
+gem 'rb-readline'
+gem 'rspec'
+gem 'byebug'

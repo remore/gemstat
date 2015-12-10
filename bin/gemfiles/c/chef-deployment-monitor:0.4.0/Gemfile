@@ -1,0 +1,5 @@
+gem 'file-tail'
+gem 'daemons'
+gem 'mixlib-config'
+gem 'rake'
+gem 'rubocop'

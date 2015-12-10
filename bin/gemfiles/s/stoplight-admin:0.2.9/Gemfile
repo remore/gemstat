@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'haml'
+gem 'redis'
+gem 'sinatra'
+gem 'stoplight'

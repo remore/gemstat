@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'rspec'
+gem 'yard'
+gem 'RedCloth'
+gem 'ruby-debug19'
+gem 'msgpack'
+gem 'json'

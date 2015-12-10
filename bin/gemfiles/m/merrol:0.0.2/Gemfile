@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'autotest'
+gem 'simplecov'
+gem 'rspec'

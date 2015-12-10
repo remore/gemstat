@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'parallel'
+gem 'bundler'
+gem 'rake'
+gem 'fakeweb'
+gem 'rspec'

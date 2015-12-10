@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'awesome_print'
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

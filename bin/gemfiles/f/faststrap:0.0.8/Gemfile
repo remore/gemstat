@@ -1,0 +1,6 @@
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'rspec'
+gem 'rubocop'

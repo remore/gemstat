@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'launchy'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'

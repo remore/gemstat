@@ -1,0 +1,4 @@
+gem 'command-builder'
+gem 'unix-whereis'
+gem 'bundler'
+gem 'jeweler'

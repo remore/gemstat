@@ -1,0 +1,8 @@
+gem 'lowered-expectations'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'fakefs'
+gem 'rubocop'
+gem 'rubygems-tasks'

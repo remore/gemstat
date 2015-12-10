@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'win32-file-stat'
+gem 'rake'
+gem 'test-unit'
+gem 'win32-security'

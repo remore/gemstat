@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'sinatra'

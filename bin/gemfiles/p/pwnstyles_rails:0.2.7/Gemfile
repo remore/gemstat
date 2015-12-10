@@ -1,0 +1,5 @@
+gem 'sass-rails'
+gem 'rails'
+gem 'minitest'
+gem 'bundler'
+gem 'jeweler'

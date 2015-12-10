@@ -1,0 +1,6 @@
+gem 'http'
+gem 'json'
+gem 'nokogiri'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'mongoid'
+gem 'serialport'
+gem 'thor'
+gem 'timers'

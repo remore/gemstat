@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'bundler'
+gem 'fakefs'
+gem 'jeweler'

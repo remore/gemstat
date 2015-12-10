@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rack'
+gem 'contest'
+gem 'rake'

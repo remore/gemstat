@@ -1,0 +1,7 @@
+gem 'json'
+gem 'faraday'
+gem 'rest-client'
+gem 'oauth'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

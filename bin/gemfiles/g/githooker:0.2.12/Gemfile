@@ -1,0 +1,4 @@
+gem 'colorize'
+gem 'awesome_print'
+gem 'bundler'
+gem 'jeweler'

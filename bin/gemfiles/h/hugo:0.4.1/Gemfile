@@ -1,0 +1,6 @@
+gem 'amazon-ec2'
+gem 'net-ssh'
+gem 'json'
+gem 'amazon-ec2'
+gem 'json'
+gem 'net-ssh'

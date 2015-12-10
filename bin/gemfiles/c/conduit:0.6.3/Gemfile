@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'aws-sdk'
+gem 'excon'
+gem 'tilt'
+gem 'shoulda-matchers'
+gem 'rspec-its'
+gem 'nokogiri'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'capybara'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rspec'
+gem 'rake'
+gem 'rdoc'

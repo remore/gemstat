@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'faraday'
+gem 'activesupport'
+gem 'rspec'
+gem 'fakeweb'
+gem 'yard'

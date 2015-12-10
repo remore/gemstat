@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'ffi-stat'
+gem 'bundler'
+gem 'rake'

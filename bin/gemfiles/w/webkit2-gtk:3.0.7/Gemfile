@@ -1,0 +1,2 @@
+gem 'gobject-introspection'
+gem 'gtk3'

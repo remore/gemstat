@@ -1,0 +1,5 @@
+gem 'mailman'
+gem 'activesupport'
+gem 'rack'
+gem 'thor'
+gem 'email_reply_parser'

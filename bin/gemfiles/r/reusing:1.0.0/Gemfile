@@ -1,0 +1,5 @@
+gem 'finder'
+gem 'rubytest'
+gem 'rubytest-cli'
+gem 'microtest'
+gem 'indexer'

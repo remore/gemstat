@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'tilt'
+gem 'bundler'
+gem 'rake'

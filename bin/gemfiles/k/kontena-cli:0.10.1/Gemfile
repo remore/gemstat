@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'excon'
+gem 'colorize'
+gem 'clamp'
+gem 'highline'
+gem 'shell-spinner'

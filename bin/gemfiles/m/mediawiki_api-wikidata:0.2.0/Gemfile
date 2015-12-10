@@ -1,0 +1,7 @@
+gem 'mediawiki_api'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'redcarpet'
+gem 'yard'

@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'nokogiri'
+gem 'builder'
+gem 'rspec'
+gem 'activesupport'

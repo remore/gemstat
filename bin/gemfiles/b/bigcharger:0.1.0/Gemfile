@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'curb'
+gem 'rspec'
+gem 'rake'
+gem 'webmock'
+gem 'simplecov'
+gem 'yard'
+gem 'redcarpet'

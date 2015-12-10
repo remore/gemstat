@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'curb'
+gem 'rails'
+gem 'activesupport'
+gem 'rspec'
+gem 'simplecov'
+gem 'timecop'

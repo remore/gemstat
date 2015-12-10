@@ -1,0 +1,2 @@
+gem 'logstash-core'
+gem 'logstash-devutils'

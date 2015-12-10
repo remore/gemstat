@@ -1,0 +1,4 @@
+gem 'riemann-client'
+gem 'ffwd'
+gem 'rspec'
+gem 'rspec-mocks'

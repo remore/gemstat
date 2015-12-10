@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'barby'
+gem 'rake'
+gem 'rspec'
+gem 'chunky_png'
+gem 'yard'

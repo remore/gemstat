@@ -1,0 +1,7 @@
+gem 'escape_utils'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'benchmark-ips'
+gem 'method_profiler'
+gem 'memory_profiler'

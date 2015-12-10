@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'sidekiq'
+gem 'sidekiq-status'
+gem 'multi_json'
+gem 'rspec'
+gem 'minitest'

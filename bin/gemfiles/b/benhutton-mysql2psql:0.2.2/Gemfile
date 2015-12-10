@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'test-unit'
+gem 'rake'
+gem 'rdoc'
+gem 'mysql'
+gem 'pg'

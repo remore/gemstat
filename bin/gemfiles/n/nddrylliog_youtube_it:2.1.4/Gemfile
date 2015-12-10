@@ -1,0 +1,5 @@
+gem 'oauth'
+gem 'oauth2'
+gem 'simple_oauth'
+gem 'faraday'
+gem 'builder'

@@ -1,0 +1,8 @@
+gem 'selenium-webdriver'
+gem 'httparty'
+gem 'oily_png'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'sinatra'

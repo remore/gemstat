@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'gimli'
+gem 'docverter'
+gem 'redcarpet'
+gem 'pygments.rb'

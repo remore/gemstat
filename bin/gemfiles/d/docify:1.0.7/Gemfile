@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'ZenTest'
+gem 'simplecov'
+gem 'yard'
+gem 'rdiscount'
+gem 'RedCloth'
+gem 'rdoc'

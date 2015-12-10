@@ -1,0 +1,4 @@
+gem 'grit'
+gem 'lash-sprites'
+gem 'rspec'
+gem 'rdiscount'

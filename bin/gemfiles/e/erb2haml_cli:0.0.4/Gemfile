@@ -1,0 +1,4 @@
+gem 'haml'
+gem 'hpricot'
+gem 'erubis'
+gem 'ruby_parser'

@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'httparty'
+gem 'gcoder'
+gem 'rspec'

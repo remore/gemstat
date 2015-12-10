@@ -1,0 +1,7 @@
+gem 'omniauth-oauth2'
+gem 'warden'
+gem 'trouble'
+gem 'meter'
+gem 'virtus'
+gem 'httparty'
+gem 'signature'

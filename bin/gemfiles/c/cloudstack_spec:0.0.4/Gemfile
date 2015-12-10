@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'yaml'
+gem 'rspec-its'
+gem 'rspec'
+gem 'uuid'
+gem 'cloudstack_ruby_client'

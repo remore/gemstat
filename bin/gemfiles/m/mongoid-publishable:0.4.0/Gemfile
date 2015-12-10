@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'mongoid-nested-serialization'
+gem 'rake'
+gem 'rspec'
+gem 'foreman'
+gem 'simplecov'
+gem 'guard-rspec'

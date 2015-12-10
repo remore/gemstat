@@ -1,0 +1,6 @@
+gem 'docopt'
+gem 'green_shoes'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

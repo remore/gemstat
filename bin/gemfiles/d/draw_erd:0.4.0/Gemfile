@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rails-erd'
+gem 'bundler'
+gem 'rake'

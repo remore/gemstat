@@ -1,0 +1,4 @@
+gem 'build-files'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

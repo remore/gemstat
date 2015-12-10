@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'ffi-yajl'
+gem 'passwordmasker'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'

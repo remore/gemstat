@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-rcov'
+gem 'ci_reporter'
+gem 'json_pure'

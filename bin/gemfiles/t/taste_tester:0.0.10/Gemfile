@@ -1,0 +1,6 @@
+gem 'between_meals'
+gem 'mixlib-config'
+gem 'colorize'
+gem 'rubocop'
+gem 'chef-zero'
+gem 'knife-solo'

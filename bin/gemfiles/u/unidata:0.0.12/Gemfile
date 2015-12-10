@@ -1,0 +1,7 @@
+gem 'jruby-openssl'
+gem 'json_pure'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'
+gem 'mime-types'

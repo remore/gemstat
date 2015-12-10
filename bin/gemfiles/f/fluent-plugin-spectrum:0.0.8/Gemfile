@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'bundler'
+gem 'test-unit'
+gem 'codeclimate-test-reporter'
+gem 'fluentd'
+gem 'json'
+gem 'rest-client'
+gem 'highwatermark'

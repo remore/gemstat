@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'mocha'
+gem 'cover_me'
+gem 'rake'
+gem 'rscribd'
+gem 'carrierwave'
+gem 'configatron'

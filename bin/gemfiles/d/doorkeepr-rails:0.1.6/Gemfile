@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'nerve'
+gem 'nerve-easy'
+gem 'responders'
+gem 'jbuilder'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'test-kitchen'
+gem 'bundler'
+gem 'berkshelf'

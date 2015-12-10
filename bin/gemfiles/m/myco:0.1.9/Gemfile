@@ -1,0 +1,8 @@
+gem 'rubinius-toolset'
+gem 'rubinius-compiler'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-rescue'
+gem 'rspec'
+gem 'fivemat'

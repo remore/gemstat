@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'hiredis'
+gem 'eventmachine'
+gem 'rspec'
+gem 'eventmachine'
+gem 'em-synchrony'

@@ -1,0 +1,3 @@
+gem 'eventmachine'
+gem 'json'
+gem 'escape'

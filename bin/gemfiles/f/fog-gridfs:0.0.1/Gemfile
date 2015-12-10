@@ -1,0 +1,7 @@
+gem 'fog'
+gem 'mongo'
+gem 'bson_ext'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'pry'

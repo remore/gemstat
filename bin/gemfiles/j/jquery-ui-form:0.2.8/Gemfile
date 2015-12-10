@@ -1,0 +1,7 @@
+gem 'jquery-ui-form'
+gem 'jeweler'
+gem 'rspec-rails'
+gem 'rspec-rails'
+gem 'rspec-rails'
+gem 'rails'
+gem 'rspec-rails'

@@ -1,0 +1,6 @@
+gem 'key_struct'
+gem 'its-it'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-gem-adapter'

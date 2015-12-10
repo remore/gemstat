@@ -1,0 +1,4 @@
+gem 'with_validations'
+gem 'nokogiri'
+gem 'string_to_pinyin'
+gem 'rspec'

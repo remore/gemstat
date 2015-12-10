@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'object_struct'
+gem 'httparty'
+gem 'fakeweb'
+gem 'json'

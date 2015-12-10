@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'haml'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

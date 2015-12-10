@@ -1,0 +1,8 @@
+gem 'capybara'
+gem 'capybara-mechanize'
+gem 'enumerable-lazy'
+gem 'pry'
+gem 'yard'
+gem 'rake'
+gem 'turn'
+gem 'sinatra'

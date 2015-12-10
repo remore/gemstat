@@ -1,0 +1,7 @@
+gem 'hoe'
+gem 'RedCloth'
+gem 'rcodetools'
+gem 'hoe-mercurial'
+gem 'hoe-highline'
+gem 'rdoc'
+gem 'tidy-ext'

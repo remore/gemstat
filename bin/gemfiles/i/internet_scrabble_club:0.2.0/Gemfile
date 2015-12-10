@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'celluloid-io'
+gem 'parslet'
+gem 'descendants_tracker'
+gem 'events'
+gem 'anima'
+gem 'middleware'

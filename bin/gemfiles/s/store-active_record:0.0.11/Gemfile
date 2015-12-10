@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'store-spec'
+gem 'sqlite3'
+gem 'store'
+gem 'activerecord'

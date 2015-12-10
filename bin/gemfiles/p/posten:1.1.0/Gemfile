@@ -1,0 +1,4 @@
+gem 'malone'
+gem 'mote'
+gem 'seteable'
+gem 'cutest'

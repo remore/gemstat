@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'actionmailer'
+gem 'letter_opener'
+gem 'rspec-rails'
+gem 'shoulda-matchers'
+gem 'combustion'

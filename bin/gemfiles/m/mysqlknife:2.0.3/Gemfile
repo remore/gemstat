@@ -1,0 +1,4 @@
+gem 'mysql2'
+gem 'thor'
+gem 'terminal-table'
+gem 'test-unit'

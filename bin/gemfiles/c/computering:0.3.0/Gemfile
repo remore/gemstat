@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rainbow'
+gem 'sorcerer'
+gem 'minitest'
+gem 'rouge'
+gem 'rake'

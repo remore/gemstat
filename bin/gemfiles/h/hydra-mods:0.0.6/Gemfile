@@ -1,0 +1,5 @@
+gem 'active-fedora'
+gem 'rspec'
+gem 'mocha'
+gem 'rspec-rails'
+gem 'cucumber'

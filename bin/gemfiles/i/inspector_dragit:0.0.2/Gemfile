@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'haml'
+gem 'haml-rails'
+gem 'jquery-rails'
+gem 'jquery-ui-themes'
+gem 'spork'
+gem 'guard-rspec'
+gem 'guard-spork'

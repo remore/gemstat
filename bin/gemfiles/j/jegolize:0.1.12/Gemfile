@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rest-client'
+gem 'hpricot'
+gem 'xmpp4r'

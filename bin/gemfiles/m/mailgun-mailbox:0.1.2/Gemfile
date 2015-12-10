@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'rest-client'
+gem 'json'
+gem 'mail'
+gem 'selenium-webdriver'

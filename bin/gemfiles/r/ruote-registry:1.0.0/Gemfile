@@ -1,0 +1,7 @@
+gem 'ruote'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

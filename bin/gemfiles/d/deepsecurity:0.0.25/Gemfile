@@ -1,0 +1,8 @@
+gem 'savon'
+gem 'ruby-cache'
+gem 'gli'
+gem 'progressbar'
+gem 'json'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

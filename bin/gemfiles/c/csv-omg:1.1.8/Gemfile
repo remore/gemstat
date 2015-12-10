@@ -1,0 +1,5 @@
+gem 'fastercsv'
+gem 'test-spec'
+gem 'test-unit'
+gem 'activerecord'
+gem 'sqlite3'

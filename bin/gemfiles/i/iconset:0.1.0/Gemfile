@@ -1,0 +1,5 @@
+gem 'colored'
+gem 'commander'
+gem 'mini_magick'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'prawn'
+gem 'nokogiri'
+gem 'uuid'
+gem 'barcodes'

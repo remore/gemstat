@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'irkit'
+gem 'bundler'
+gem 'rake'

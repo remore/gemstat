@@ -1,0 +1,4 @@
+gem 'terminal-table'
+gem 'rake'
+gem 'rspec'
+gem 'awesome_print'

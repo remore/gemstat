@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'activesupport'
+gem 'trollop'
+gem 'typhoeus'
+gem 'json'

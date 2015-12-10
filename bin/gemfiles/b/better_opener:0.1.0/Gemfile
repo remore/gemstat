@@ -1,0 +1,6 @@
+gem 'sinatra-contrib'
+gem 'data_mapper'
+gem 'dm-sqlite-adapter'
+gem 'tilt'
+gem 'haml'
+gem 'multi_json'

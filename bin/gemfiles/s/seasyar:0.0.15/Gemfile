@@ -1,0 +1,7 @@
+gem 'seasy'
+gem 'activerecord'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'standalone_migrations'
+gem 'sqlite3'

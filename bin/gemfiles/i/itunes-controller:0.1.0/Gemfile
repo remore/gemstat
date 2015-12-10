@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'rake'
+gem 'test-unit'
+gem 'escape'
+gem 'sqlite3'

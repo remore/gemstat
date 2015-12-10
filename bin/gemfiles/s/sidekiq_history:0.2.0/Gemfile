@@ -1,0 +1,7 @@
+gem 'sidekiq'
+gem 'rake'
+gem 'sinatra'
+gem 'mocha'
+gem 'rack-test'
+gem 'minitest'
+gem 'minitest-utils'

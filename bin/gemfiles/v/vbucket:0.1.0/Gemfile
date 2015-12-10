@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'rack-ssl'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

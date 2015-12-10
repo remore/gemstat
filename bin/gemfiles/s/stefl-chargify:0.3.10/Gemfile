@@ -1,0 +1,6 @@
+gem 'crack'
+gem 'httparty'
+gem 'hashie'
+gem 'json'
+gem 'activesupport'
+gem 'i18n'

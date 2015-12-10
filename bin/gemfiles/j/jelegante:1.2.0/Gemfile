@@ -1,0 +1,4 @@
+gem 'unicode-block'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

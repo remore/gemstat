@@ -1,0 +1,6 @@
+gem 'resque'
+gem 'activerecord'
+gem 'shoulda'
+gem 'mocha'
+gem 'resque_unit'
+gem 'rake'

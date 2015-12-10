@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'jenkins_api_client'
+gem 'rake'
+gem 'pry'
+gem 'tapp'
+gem 'aruba'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rspec-rails'
+gem 'simplecov'
+gem 'spork'
+gem 'sqlite3'
+gem 'watchr'

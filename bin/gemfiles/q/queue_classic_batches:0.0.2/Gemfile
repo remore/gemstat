@@ -1,0 +1,5 @@
+gem 'queue_classic'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'

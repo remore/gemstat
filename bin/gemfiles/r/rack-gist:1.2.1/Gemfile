@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rest-client'
+gem 'jeweler'
+gem 'rspec'
+gem 'yard'
+gem 'rack'
+gem 'activesupport'

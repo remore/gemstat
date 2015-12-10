@@ -1,0 +1,6 @@
+gem 'trollop'
+gem 'bundler'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'simplecov'

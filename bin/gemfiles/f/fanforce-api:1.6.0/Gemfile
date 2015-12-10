@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'uuid'
+gem 'multi_json'
+gem 'fanforce-base'

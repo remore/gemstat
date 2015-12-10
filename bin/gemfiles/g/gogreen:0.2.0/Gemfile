@@ -1,0 +1,5 @@
+gem 'rscript'
+gem 'dynarex'
+gem 'acronym'
+gem 'polyrex'
+gem 'optparse-simple'

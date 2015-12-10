@@ -1,0 +1,7 @@
+gem 'wanikani'
+gem 'slop'
+gem 'rainbow'
+gem 'aruba'
+gem 'mocha'
+gem 'rake'
+gem 'minitest'

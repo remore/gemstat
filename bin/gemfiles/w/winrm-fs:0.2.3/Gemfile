@@ -1,0 +1,7 @@
+gem 'erubis'
+gem 'logging'
+gem 'rubyzip'
+gem 'winrm'
+gem 'rspec'
+gem 'rake'
+gem 'rubocop'

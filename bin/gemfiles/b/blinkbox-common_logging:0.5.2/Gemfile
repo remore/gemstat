@@ -1,0 +1,5 @@
+gem 'gelf'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'simplecov'

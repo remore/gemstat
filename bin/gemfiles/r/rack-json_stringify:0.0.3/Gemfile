@@ -1,0 +1,6 @@
+gem 'json'
+gem 'rack'
+gem 'coveralls'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

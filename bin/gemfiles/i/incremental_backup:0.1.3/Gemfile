@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'guard-rspec'
+gem 'rb-inotify'
+gem 'rake'
+gem 'active_attr'
+gem 'net-ssh'

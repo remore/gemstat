@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rest-client'
+gem 'builder'
+gem 'rspec'
+gem 'rcov'
+gem 'mocha'

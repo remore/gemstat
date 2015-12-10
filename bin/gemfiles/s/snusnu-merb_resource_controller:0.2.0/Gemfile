@@ -1,0 +1,7 @@
+gem 'merb-core'
+gem 'merb-assets'
+gem 'merb-helpers'
+gem 'dm-core'
+gem 'dm-validations'
+gem 'dm-serializer'
+gem 'dm-constraints'

@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'haml'
+gem 'thor'
+gem 'pdfkit'
+gem 'nokogiri'

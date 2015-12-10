@@ -1,0 +1,4 @@
+gem 'flowdock'
+gem 'notify'
+gem 'bundler'
+gem 'rake'

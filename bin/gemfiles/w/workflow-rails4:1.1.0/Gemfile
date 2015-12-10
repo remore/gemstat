@@ -1,0 +1,7 @@
+gem 'rdoc'
+gem 'bundler'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'mocha'
+gem 'rake'
+gem 'ruby-graphviz'

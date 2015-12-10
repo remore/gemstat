@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'faker'
+gem 'rspec'

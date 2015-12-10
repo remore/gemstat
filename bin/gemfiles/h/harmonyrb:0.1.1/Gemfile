@@ -1,0 +1,5 @@
+gem 'http'
+gem 'oauth2'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

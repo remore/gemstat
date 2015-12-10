@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'redis'
+gem 'rails'
+gem 'sqlite3'

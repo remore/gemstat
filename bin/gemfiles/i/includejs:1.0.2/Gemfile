@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'growl'
+gem 'guard'
+gem 'guard-coffeescript'
+gem 'guard-jasmine-headless-webkit'
+gem 'jasmine'
+gem 'jasmine-headless-webkit'

@@ -1,0 +1,5 @@
+gem 'inifile'
+gem 'azure_mgmt_resources'
+gem 'azure_mgmt_network'
+gem 'bundler'
+gem 'rake'

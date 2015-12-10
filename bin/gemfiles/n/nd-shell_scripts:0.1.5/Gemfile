@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'colorize'
+gem 'repo_timetracker'
+gem 'repos_report'

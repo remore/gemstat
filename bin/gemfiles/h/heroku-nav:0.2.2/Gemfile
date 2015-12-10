@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'bacon'
+gem 'mocha'
+gem 'sinatra'
+gem 'rack-test'
+gem 'webmock'

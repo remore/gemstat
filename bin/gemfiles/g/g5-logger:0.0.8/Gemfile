@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'pry-nav'
+gem 'typhoeus'
+gem 'activesupport'

@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'sqlite3'
+gem 'rack-test'
+gem 'flexible_api'
+gem 'json'
+gem 'activerecord'
+gem 'sinatra'
+gem 'sinatra-respond_to'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'railties'
+gem 'activesupport'
+gem 'bugsnag'

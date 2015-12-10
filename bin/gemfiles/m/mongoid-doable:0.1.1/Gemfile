@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'activesupport'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'database_cleaner'

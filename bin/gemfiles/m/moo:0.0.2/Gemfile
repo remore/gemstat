@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'nokogiri'
+gem 'multipart-post'
+gem 'rspec'

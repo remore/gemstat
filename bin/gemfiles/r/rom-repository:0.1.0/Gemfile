@@ -1,0 +1,6 @@
+gem 'anima'
+gem 'rom'
+gem 'rom-support'
+gem 'rom-mapper'
+gem 'rake'
+gem 'rspec'

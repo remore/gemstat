@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'devise'
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'shoulda'
+gem 'turn'

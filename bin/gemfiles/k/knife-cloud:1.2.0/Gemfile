@@ -1,0 +1,8 @@
+gem 'knife-windows'
+gem 'chef'
+gem 'mixlib-shellout'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'rspec_junit_formatter'
+gem 'fog'

@@ -1,0 +1,8 @@
+gem 'ztk'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'redcarpet'
+gem 'rspec'
+gem 'yard'
+gem 'coveralls'

@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'json'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'albacore'
+gem 'rspec'
+gem 'jeweler'
+gem 'mocha'

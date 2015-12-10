@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rcov'

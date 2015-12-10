@@ -1,0 +1,7 @@
+gem 'actionpack'
+gem 'rest-client'
+gem 'rspec'
+gem 'webmock'
+gem 'bundler'
+gem 'rake'
+gem 'appraisal'

@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'hpricot'
+gem 'test-unit'
+gem 'mocha'

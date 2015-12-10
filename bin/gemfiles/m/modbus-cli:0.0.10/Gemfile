@@ -1,0 +1,4 @@
+gem 'rmodbus'
+gem 'clamp'
+gem 'rspec'
+gem 'rake'

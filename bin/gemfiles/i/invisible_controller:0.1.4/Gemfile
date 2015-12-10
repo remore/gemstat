@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'flying_table'
+gem 'minitest'
+gem 'awesome_print'
+gem 'minitest-reporters'
+gem 'sqlite3'

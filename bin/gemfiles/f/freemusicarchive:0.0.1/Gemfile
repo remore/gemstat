@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'hashie'
+gem 'multi_xml'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

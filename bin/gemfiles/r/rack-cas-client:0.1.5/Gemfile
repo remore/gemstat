@@ -1,0 +1,6 @@
+gem 'rubycas-client'
+gem 'activesupport'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

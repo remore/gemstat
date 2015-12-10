@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'ruote'
+gem 'rake'
+gem 'pg'
+gem 'mysql'

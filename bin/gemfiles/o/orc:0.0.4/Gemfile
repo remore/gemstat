@@ -1,0 +1,4 @@
+gem 'concord'
+gem 'abstract_type'
+gem 'bundler'
+gem 'rspec'

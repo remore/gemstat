@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'sequel'
+gem 'sqlite3'
+gem 'sinatra'
+gem 'sinatra-snap'

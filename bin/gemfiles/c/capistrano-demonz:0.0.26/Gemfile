@@ -1,0 +1,2 @@
+gem 'railsless-deploy'
+gem 'capistrano'

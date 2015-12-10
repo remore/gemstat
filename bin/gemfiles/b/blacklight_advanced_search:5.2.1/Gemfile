@@ -1,0 +1,7 @@
+gem 'blacklight'
+gem 'parslet'
+gem 'rails'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'jettywrapper'
+gem 'engine_cart'

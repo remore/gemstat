@@ -1,0 +1,4 @@
+gem 'trinidad'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'

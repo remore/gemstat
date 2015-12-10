@@ -1,0 +1,4 @@
+gem 'bindata'
+gem 'state_machine'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'git'
+gem 'foreman'
+gem 'activesupport'
+gem 'inkjet'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'activesupport'
+gem 'rspec-rails'
+gem 'reek'
+gem 'roodi'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'rest_client'
+gem 'arduino_firmata'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

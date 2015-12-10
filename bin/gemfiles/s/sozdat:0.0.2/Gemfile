@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'yard'
+gem 'activesupport'
+gem 'activerecord'
+gem 'ZenTest'
+gem 'autotest-rails'
+gem 'rgtk'

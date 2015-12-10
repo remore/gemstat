@@ -1,0 +1,6 @@
+gem 'grit'
+gem 'highline'
+gem 'colorize'
+gem 'konf'
+gem 'rake'
+gem 'pry'

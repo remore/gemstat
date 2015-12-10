@@ -1,0 +1,6 @@
+gem 'calabash-android'
+gem 'to_boolean'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rubocop'

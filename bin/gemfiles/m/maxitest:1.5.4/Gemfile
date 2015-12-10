@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'bump'
+gem 'rake'
+gem 'rspec'
+gem 'wwtd'

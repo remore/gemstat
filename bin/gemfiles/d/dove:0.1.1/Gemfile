@@ -1,0 +1,4 @@
+gem 'redcarpet'
+gem 'tilt'
+gem 'slim'
+gem 'rouge'

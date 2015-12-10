@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'pry-byebug'
+gem 'rake'
+gem 'rspec'
+gem 'octokit'
+gem 'virtus'

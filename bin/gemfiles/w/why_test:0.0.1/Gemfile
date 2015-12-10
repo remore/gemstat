@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'rake'
+gem 'riot'
+gem 'rspec'
+gem 'shindo'
+gem 'testrocket'

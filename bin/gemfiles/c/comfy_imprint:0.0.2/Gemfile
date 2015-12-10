@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'haml'
+gem 'simple_form'
+gem 'kaminari'
+gem 'sqlite3'
+gem 'pry-rails'
+gem 'pry-debugger'

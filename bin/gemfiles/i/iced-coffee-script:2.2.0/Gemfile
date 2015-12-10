@@ -1,0 +1,2 @@
+gem 'iced-coffee-script-source'
+gem 'execjs'

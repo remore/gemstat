@@ -1,0 +1,5 @@
+gem 'oauth'
+gem 'json_pure'
+gem 'rake'
+gem 'yard'
+gem 'rspec'

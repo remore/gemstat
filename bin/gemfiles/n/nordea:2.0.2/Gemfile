@@ -1,0 +1,8 @@
+gem 'money'
+gem 'tzinfo'
+gem 'awesome_print'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'
+gem 'yard'

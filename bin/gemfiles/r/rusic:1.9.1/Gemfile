@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'rest-client'
+gem 'filewatcher'
+gem 'command_line_reporter'
+gem 'rake'

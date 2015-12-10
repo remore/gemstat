@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'aruba'
+gem 'fog'
+gem 'haml'

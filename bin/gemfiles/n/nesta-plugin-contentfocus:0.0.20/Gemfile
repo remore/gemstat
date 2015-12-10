@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'nesta'
+gem 'redcarpet'
+gem 'tilt'
+gem 'rest-client'
+gem 'yajl-ruby'

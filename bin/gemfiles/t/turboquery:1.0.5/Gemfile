@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'pg_query'
+gem 'aws-sdk'
+gem 'pg'
+gem 'playlist-activerecord4-redshift-adapter'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

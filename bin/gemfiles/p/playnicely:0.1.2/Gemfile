@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'httparty'
+gem 'json'
+gem 'fakeweb'
+gem 'rspec'
+gem 'mocha'
+gem 'shoulda'

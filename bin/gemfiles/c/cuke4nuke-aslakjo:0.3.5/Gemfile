@@ -1,0 +1,5 @@
+gem 'cucumber'
+gem 'win32-process'
+gem 'systemu'
+gem 'json'
+gem 'win32console'

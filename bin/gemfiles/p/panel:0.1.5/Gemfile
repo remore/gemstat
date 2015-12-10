@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'tuning'
+gem 'pageable'
+gem 'sqlite3'

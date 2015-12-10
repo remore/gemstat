@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'hiredis'
+gem 'em-spec'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'google-api-client'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry-byebug'

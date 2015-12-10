@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-longrun'
+gem 'pry'

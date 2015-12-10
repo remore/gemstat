@@ -1,0 +1,4 @@
+gem 'hashie'
+gem 'activesupport'
+gem 'rake'
+gem 'version'

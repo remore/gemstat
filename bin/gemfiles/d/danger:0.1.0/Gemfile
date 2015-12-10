@@ -1,0 +1,7 @@
+gem 'claide'
+gem 'git'
+gem 'colored'
+gem 'nap'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

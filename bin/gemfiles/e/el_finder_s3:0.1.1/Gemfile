@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'mini_magick'
+gem 'memcached'
+gem 'cache'
+gem 'bundler'
+gem 'rake'

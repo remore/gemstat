@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'fog'
+gem 'sqlite3'
+gem 'appraisal'
+gem 'approvals'
+gem 'rspec-rails'

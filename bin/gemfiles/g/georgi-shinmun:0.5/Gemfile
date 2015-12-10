@@ -1,0 +1,4 @@
+gem 'BlueCloth'
+gem 'rubypants'
+gem 'rack'
+gem 'coderay'

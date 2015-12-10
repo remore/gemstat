@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'liquid'
+gem 'rake'
+gem 'test-unit'

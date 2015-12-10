@@ -1,0 +1,5 @@
+gem 'jeweler'
+gem 'handsoap'
+gem 'yard'
+gem 'shoulda'
+gem 'rcov'

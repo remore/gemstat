@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec_numbering_formatter'
+gem 'nydp'
+gem 'haml'
+gem 'RedCloth'

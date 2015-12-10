@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'activerecord'
+gem 'activesupport'
+gem 'foreigner'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3-ruby'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'minitest'
+gem 'redis'
+gem 'SystemTimer'

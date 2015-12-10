@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'redcarpet'
+gem 'RedCloth'
+gem 'rdoc'
+gem 'org-ruby'
+gem 'wikicloth'
+gem 'creole'
+gem 'wicked_pdf'

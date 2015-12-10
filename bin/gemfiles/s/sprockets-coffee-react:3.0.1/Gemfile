@@ -1,0 +1,4 @@
+gem 'coffee-react'
+gem 'coffee-script'
+gem 'tilt'
+gem 'sprockets'

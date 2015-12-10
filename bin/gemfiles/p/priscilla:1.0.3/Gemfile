@@ -1,0 +1,5 @@
+gem 'colorize'
+gem 'rumoji'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

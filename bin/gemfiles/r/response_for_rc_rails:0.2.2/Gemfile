@@ -1,0 +1,6 @@
+gem 'rc_rails'
+gem 'response_for_rails'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'

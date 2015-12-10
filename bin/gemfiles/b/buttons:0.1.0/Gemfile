@@ -1,0 +1,7 @@
+gem 'get_args'
+gem 'facets'
+gem 'json'
+gem 'rack'
+gem 'bundler'
+gem 'rubigen'
+gem 'riot'

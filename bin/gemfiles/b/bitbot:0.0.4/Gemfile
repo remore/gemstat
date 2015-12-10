@@ -1,0 +1,6 @@
+gem 'cinch'
+gem 'daemons'
+gem 'sqlite3'
+gem 'httparty'
+gem 'rspec'
+gem 'yard'

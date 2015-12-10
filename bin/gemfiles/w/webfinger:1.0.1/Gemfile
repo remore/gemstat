@@ -1,0 +1,8 @@
+gem 'httpclient'
+gem 'multi_json'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'simplecov'
+gem 'webmock'

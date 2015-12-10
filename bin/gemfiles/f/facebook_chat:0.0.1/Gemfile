@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'xmpp4r'
+gem 'pry'
+gem 'rspec'

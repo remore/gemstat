@@ -1,0 +1,8 @@
+gem 'omniauth'
+gem 'nokogiri'
+gem 'addressable'
+gem 'rake'
+gem 'webmock'
+gem 'rspec'
+gem 'rack-test'
+gem 'awesome_print'

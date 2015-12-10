@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'ammeter'
+gem 'rake'
+gem 'rspec'
+gem 'rails'

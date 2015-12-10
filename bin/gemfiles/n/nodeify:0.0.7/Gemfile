@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sandbox'
+gem 'tilt'
+gem 'jeweler'
+gem 'rspec'

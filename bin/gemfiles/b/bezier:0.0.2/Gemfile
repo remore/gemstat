@@ -1,0 +1,5 @@
+gem 'chunky_png'
+gem 'rake'
+gem 'minitest'
+gem 'yard'
+gem 'yard-tomdoc'

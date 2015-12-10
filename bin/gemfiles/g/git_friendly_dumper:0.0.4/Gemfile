@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'mysql2'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'progressbar'

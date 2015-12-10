@@ -1,0 +1,7 @@
+gem 'json'
+gem 'geokit'
+gem 'georuby'
+gem 'geoutm'
+gem 'shoulda'
+gem 'mocha'
+gem 'active_support'

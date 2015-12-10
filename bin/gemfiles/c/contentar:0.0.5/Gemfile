@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'json'
+gem 'spidr'
+gem 'dotenv'
+gem 'rspec'
+gem 'webmock'
+gem 'byebug'

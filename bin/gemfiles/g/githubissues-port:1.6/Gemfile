@@ -1,0 +1,5 @@
+gem 'github_api'
+gem 'creek'
+gem 'axlsx'
+gem 'rake'
+gem 'rspec'

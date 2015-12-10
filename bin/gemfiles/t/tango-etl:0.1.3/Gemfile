@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'httparty'
+gem 'activerecord'
+gem 'activerecord-import'
+gem 'ar-multidb'

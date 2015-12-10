@@ -1,0 +1,6 @@
+gem 'colorize'
+gem 'rest-client'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

@@ -1,0 +1,4 @@
+gem 'sucker_punch'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'

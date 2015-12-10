@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'test-unit'
+gem 'mocha'
+gem 'wwtd'

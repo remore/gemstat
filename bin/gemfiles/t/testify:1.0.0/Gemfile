@@ -1,0 +1,4 @@
+gem 'classy'
+gem 'jeweler'
+gem 'classy'
+gem 'rspec'

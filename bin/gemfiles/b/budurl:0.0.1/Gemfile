@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'ruby-debug'
+gem 'rspec'
+gem 'mimic'
+gem 'json'

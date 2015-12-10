@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'tweetstream'
+gem 'fakeweb'
+gem 'shoulda'

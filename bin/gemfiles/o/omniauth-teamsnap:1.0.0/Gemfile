@@ -1,0 +1,8 @@
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'faraday'
+gem 'conglomerate'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'

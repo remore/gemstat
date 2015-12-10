@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'rspec'
+gem 'httparty'

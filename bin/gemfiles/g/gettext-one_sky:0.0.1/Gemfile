@@ -1,0 +1,5 @@
+gem 'gettext'
+gem 'one_sky'
+gem 'thor'
+gem 'rspec'
+gem 'bundler'

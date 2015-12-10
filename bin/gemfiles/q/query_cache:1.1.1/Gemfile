@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rack'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'

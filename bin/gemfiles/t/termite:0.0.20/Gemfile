@@ -1,0 +1,7 @@
+gem 'ecology'
+gem 'multi_json'
+gem 'rainbow'
+gem 'bundler'
+gem 'scope'
+gem 'mocha'
+gem 'rake'

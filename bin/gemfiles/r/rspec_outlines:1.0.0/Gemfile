@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'ritual'
+gem 'cucumber'
+gem 'ruby-debug19'

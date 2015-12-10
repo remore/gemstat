@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'thor'
+gem 'rake'
+gem 'rspec'
+gem 'awesome_print'
+gem 'simplecov'

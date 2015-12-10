@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'rspec'
+gem 'pry-nav'
+gem 'guard-rspec'

@@ -1,0 +1,5 @@
+gem 'party_resource'
+gem 'activesupport'
+gem 'rspec'
+gem 'yard'
+gem 'webmock'

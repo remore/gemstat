@@ -1,0 +1,5 @@
+gem 'english'
+gem 'facets'
+gem 'rest-client'
+gem 'json'
+gem 'hoe'

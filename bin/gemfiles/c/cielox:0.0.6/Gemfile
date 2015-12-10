@@ -1,0 +1,4 @@
+gem 'happymapper'
+gem 'rspec'
+gem 'timecop'
+gem 'webmock'

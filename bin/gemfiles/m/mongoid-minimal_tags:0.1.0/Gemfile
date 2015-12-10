@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'minitest'
+gem 'database_cleaner'
+gem 'codeclimate-test-reporter'

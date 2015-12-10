@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'twitter'
+gem 'oauth-cli-twitter'
+gem 'rspec'

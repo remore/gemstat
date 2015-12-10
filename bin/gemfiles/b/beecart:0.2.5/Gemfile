@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'redis'
+gem 'msgpack'
+gem 'sqlite3'

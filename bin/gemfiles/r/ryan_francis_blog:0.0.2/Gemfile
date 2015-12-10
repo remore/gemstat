@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'friendly_id'
+gem 'better_errors'
+gem 'kaminari'
+gem 'redcarpet'
+gem 'sqlite3'

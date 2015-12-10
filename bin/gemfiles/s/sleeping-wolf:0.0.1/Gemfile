@@ -1,0 +1,4 @@
+gem 'ticgit'
+gem 'octopi'
+gem 'rake'
+gem 'mg'

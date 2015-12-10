@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'nokogiri'
+gem 'oauth'
+gem 'rspec'

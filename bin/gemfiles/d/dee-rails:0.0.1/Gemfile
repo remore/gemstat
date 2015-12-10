@@ -1,0 +1,7 @@
+gem 'dee'
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'mime-types'

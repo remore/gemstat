@@ -1,0 +1,5 @@
+gem 'simple_form'
+gem 'rspec'
+gem 'nokogiri'
+gem 'rails'
+gem 'sqlite3'

@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'haml'
+gem 'rspec'
+gem 'cucumber'
+gem 'rack-test'

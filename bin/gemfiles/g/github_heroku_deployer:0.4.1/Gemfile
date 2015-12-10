@@ -1,0 +1,8 @@
+gem 'heroku-api'
+gem 'platform-api'
+gem 'git'
+gem 'git-ssh-wrapper'
+gem 'simplecov'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'

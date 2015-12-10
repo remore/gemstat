@@ -1,0 +1,7 @@
+gem 'otherinbox-crypt19'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-inotify'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'yard'

@@ -1,0 +1,8 @@
+gem 'colorize'
+gem 'deep_merge'
+gem 'evernote-thrift'
+gem 'evernote_oauth'
+gem 'htmlentities'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

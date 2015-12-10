@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'faraday'
+gem 'json'
+gem 'sqlite3'

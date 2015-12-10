@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'negotiator'
+gem 'mime-types'
+gem 'serialize'

@@ -1,0 +1,8 @@
+gem 'yajl-ruby'
+gem 'eventmachine-le'
+gem 'em-http-request'
+gem 'rake'
+gem 'minitest'
+gem 'rdiscount'
+gem 'yard'
+gem 'debugger'

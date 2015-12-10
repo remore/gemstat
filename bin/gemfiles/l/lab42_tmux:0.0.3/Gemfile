@@ -1,0 +1,6 @@
+gem 'lab42_options'
+gem 'forwarder19'
+gem 'pry'
+gem 'cucumber'
+gem 'rspec'
+gem 'aruba'

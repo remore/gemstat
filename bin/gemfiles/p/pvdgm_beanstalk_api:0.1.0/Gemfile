@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'beanstalk-client'
+gem 'ayl'
+gem 'ayl-beanstalk'
+gem 'mysql2'
+gem 'rspec-rails'

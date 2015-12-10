@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'bootstrap-datepicker-rails'
+gem 'select2-rails'
+gem 'will_paginate'
+gem 'activesupport'
+gem 'sass-rails'

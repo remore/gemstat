@@ -1,0 +1,7 @@
+gem 'libwebsocket'
+gem 'json'
+gem 'ruby-hmac'
+gem 'bacon'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

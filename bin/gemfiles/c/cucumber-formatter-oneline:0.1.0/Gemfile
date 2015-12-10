@@ -1,0 +1,5 @@
+gem 'cucumber'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

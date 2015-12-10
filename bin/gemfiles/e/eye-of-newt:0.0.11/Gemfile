@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'racc'
+gem 'pry'
+gem 'pry-byebug'
+gem 'pry-rescue'

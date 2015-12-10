@@ -1,0 +1,6 @@
+gem 'representable'
+gem 'bundler'
+gem 'dalli'
+gem 'rspec'
+gem 'rake'
+gem 'debugger'

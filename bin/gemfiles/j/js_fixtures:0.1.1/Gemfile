@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rspec-rails'
+gem 'jasmine'
+gem 'bundler'
+gem 'jeweler'

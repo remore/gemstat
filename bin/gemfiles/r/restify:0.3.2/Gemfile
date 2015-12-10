@@ -1,0 +1,7 @@
+gem 'obligation'
+gem 'addressable'
+gem 'em-http-request'
+gem 'hashie'
+gem 'multi_json'
+gem 'rack'
+gem 'bundler'

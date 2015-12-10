@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rspec'
+gem 'genspec'
+gem 'byebug'

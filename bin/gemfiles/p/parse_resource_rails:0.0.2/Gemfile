@@ -1,0 +1,4 @@
+gem 'parse_resource'
+gem 'rails'
+gem 'rspec'
+gem 'generator_spec'

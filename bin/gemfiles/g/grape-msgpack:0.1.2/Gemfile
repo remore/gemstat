@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'grape-entity'
+gem 'grape'
+gem 'msgpack'

@@ -1,0 +1,5 @@
+gem 'Floppy-currentcost'
+gem 'Floppy-amee'
+gem 'Floppy-eeml'
+gem 'daemons'
+gem 'builder'

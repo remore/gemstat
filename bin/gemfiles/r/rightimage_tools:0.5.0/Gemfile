@@ -1,0 +1,8 @@
+gem 'rest_connection'
+gem 'right_api_client'
+gem 'right_aws'
+gem 'rspec'
+gem 'jeweler'
+gem 'rcov'
+gem 'flexmock'
+gem 'json'

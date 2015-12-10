@@ -1,0 +1,7 @@
+gem 'heroku-api'
+gem 'activesupport'
+gem 'i18n'
+gem 'queue_classic'
+gem 'minitest'
+gem 'rake'
+gem 'pry'

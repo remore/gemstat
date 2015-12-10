@@ -1,0 +1,4 @@
+gem 'gettext'
+gem 'rake'
+gem 'rspec'
+gem 'rails'

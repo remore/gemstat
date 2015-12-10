@@ -1,0 +1,4 @@
+gem 'yajl-ruby'
+gem 'colored'
+gem 'riot'
+gem 'rake'

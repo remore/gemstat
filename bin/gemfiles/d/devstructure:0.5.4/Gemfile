@@ -1,0 +1,4 @@
+gem 'archive-tar-minitar'
+gem 'json'
+gem 'ronn'
+gem 'rocco'

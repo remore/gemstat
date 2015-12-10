@@ -1,0 +1,6 @@
+gem 'grape'
+gem 'jsonapi-resources'
+gem 'rails-api'
+gem 'rspec'
+gem 'rack-test'
+gem 'rake'

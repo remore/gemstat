@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'thor'
+gem 'spurious-server'
+gem 'eventmachine'
+gem 'timeout'

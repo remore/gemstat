@@ -1,0 +1,6 @@
+gem 'json'
+gem 'ruote'
+gem 'sinatra'
+gem 'yajl-ruby'
+gem 'netaddr'
+gem 'rspec'

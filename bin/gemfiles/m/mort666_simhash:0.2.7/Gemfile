@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'unicode'
+gem 'rake-compiler'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'blinkbox-common_messaging'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'webmock'
+gem 'simplecov'

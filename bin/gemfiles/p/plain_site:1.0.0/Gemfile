@@ -1,0 +1,8 @@
+gem 'pygments.rb'
+gem 'kramdown'
+gem 'safe_yaml'
+gem 'grit'
+gem 'rake'
+gem 'rdoc'
+gem 'commander'
+gem 'listen'

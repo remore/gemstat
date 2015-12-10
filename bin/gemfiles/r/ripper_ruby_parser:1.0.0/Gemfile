@@ -1,0 +1,5 @@
+gem 'sexp_processor'
+gem 'minitest'
+gem 'rake'
+gem 'ruby_parser'
+gem 'simplecov'

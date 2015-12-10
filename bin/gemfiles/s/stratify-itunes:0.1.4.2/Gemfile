@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'stratify-base'
+gem 'itunes-library'
+gem 'database_cleaner'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'

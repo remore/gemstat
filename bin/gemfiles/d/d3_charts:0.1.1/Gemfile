@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rails-assets-d3'
+gem 'bundler'
+gem 'guard'
+gem 'guard-minitest'
+gem 'minitest'
+gem 'rake'

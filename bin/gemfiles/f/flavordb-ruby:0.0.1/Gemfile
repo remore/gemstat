@@ -1,0 +1,5 @@
+gem 'json'
+gem 'typhoeus'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

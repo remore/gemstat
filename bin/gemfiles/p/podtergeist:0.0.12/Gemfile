@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'taglib-ruby'
+gem 'mime-types'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-nav'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rest-client'
+gem 'rspec'
+gem 'rspec-collection_matchers'

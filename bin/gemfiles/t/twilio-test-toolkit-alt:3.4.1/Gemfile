@@ -1,0 +1,8 @@
+gem 'capybara'
+gem 'uuidtools'
+gem 'rails'
+gem 'sqlite3'
+gem 'sqlite3-ruby'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'jquery-rails'

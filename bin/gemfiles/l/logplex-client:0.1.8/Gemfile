@@ -1,0 +1,4 @@
+gem 'clamp'
+gem 'multi_json'
+gem 'excon'
+gem 'rest-client'

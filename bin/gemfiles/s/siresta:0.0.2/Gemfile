@@ -1,0 +1,7 @@
+gem 'excon'
+gem 'obfusk'
+gem 'ox'
+gem 'sinatra'
+gem 'cucumber'
+gem 'rake'
+gem 'yard'

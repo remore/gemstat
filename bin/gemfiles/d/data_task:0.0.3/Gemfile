@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'bundler'
+gem 'minitest-around'
+gem 'minitest-spec-context'
+gem 'coveralls'
+gem 'pg'
+gem 'sqlite3'

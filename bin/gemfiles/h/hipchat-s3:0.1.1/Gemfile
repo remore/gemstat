@@ -1,0 +1,4 @@
+gem 'hipchat'
+gem 'aws-s3'
+gem 'rspec'
+gem 'rr'

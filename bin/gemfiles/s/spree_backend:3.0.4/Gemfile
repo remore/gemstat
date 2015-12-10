@@ -1,0 +1,7 @@
+gem 'spree_api'
+gem 'spree_core'
+gem 'bootstrap-sass'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'select2-rails'
+gem 'sprockets-rails'

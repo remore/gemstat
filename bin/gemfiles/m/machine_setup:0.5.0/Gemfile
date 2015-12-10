@@ -1,0 +1,4 @@
+gem 'i18n'
+gem 'inifile'
+gem 'erubis'
+gem 'shoulda'

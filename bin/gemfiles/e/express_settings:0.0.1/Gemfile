@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'storext'
+gem 'express_templates'
+gem 'sqlite3'

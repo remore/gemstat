@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'uuid'
+gem 'will_paginate'
+gem 'activesupport'
+gem 'rspec'

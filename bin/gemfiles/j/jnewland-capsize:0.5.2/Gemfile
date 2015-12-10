@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'amazon-ec2'
+gem 'rcov'
+gem 'SQS'
+gem 'builder'
+gem 'RedCloth'

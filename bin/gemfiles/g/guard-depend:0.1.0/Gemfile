@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'guard'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'ruby_gntp'
+gem 'wdm'

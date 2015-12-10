@@ -1,0 +1,4 @@
+gem 'multi_json'
+gem 'rest_client'
+gem 'uri-handler'
+gem 'rspec'

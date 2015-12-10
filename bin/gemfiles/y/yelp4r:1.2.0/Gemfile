@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'hashie'
+gem 'rash'
+gem 'nokogiri'
+gem 'rspec'

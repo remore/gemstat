@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'yard'
+gem 'kramdown'
+gem 'pry'

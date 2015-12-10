@@ -1,0 +1,6 @@
+gem 'json'
+gem 'uri-query_params'
+gem 'mechanize'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'yard'

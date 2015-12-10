@@ -1,0 +1,7 @@
+gem 'nokogiri-styles'
+gem 'ruby-units'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'pry'

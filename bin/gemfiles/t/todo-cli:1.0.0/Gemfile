@@ -1,0 +1,2 @@
+gem 'rainbow'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'aws-sdk'
+gem 'formatador'

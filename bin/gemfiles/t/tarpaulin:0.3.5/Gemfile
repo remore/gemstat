@@ -1,0 +1,8 @@
+gem 'tilt'
+gem 'lazy'
+gem 'rack-flash'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'

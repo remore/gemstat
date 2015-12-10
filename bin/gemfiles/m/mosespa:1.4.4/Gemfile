@@ -1,0 +1,4 @@
+gem 'jira-ruby'
+gem 'trollop'
+gem 'colorize'
+gem 'table_print'

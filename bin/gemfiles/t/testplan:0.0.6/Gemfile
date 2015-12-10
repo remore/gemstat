@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'minitest'
+gem 'thor'
+gem 'rspec'
+gem 'rspec_testlink_formatters'

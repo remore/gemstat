@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rdoc'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'reek'
+gem 'roodi'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'factory_girl'
+gem 'rb-fsevent'
+gem 'guard-rspec'

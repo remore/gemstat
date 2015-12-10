@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'term-ansicolor'
+gem 'rspec'
+gem 'yard'

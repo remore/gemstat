@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'cucumber'
+gem 'cucumber-rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'nokogiri'
+gem 'string-mapper'
+gem 'hoe'

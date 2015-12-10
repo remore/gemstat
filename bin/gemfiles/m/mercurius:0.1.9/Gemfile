@@ -1,0 +1,8 @@
+gem 'json'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'activemodel'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

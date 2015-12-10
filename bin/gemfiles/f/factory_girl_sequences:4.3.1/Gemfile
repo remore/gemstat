@@ -1,0 +1,2 @@
+gem 'factory_girl'
+gem 'activesupport'

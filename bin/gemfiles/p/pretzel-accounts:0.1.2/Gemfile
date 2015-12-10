@@ -1,0 +1,4 @@
+gem 'pretzel-orm'
+gem 'bcrypt'
+gem 'rack-test'
+gem 'minitest'

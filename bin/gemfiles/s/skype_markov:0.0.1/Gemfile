@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'skype'
+gem 'ruby-dbus'
+gem 'marky_markov'

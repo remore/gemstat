@@ -1,0 +1,5 @@
+gem 'term-ansicolor'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rspec'
+gem 'terminal-notifier-guard'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'oauth'
+gem 'nokogiri'
+gem 'xml-mapping'
+gem 'activesupport'

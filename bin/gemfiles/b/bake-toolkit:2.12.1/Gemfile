@@ -1,0 +1,4 @@
+gem 'rtext'
+gem 'rgen'
+gem 'highline'
+gem 'colored'

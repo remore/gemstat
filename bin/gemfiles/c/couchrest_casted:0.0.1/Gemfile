@@ -1,0 +1,4 @@
+gem 'couchrest_model'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'

@@ -1,0 +1,6 @@
+gem 'localeapp'
+gem 'rspec'
+gem 'rack'
+gem 'rake'
+gem 'yard'
+gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'fb_graph2'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'factory_girl_rails'
+gem 'database_cleaner'
+gem 'awesome_print'

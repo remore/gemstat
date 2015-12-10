@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'simple_form'
+gem 'redactor-rails'
+gem 'selectize-rails'
+gem 'compass-rails'
+gem 'bundler'
+gem 'rake'

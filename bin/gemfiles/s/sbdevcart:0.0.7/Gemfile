@@ -1,0 +1,2 @@
+gem 'sbdevcore'
+gem 'aasm'

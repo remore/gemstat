@@ -1,0 +1,6 @@
+gem 'bio'
+gem 'bio-logger'
+gem 'rspec'
+gem 'jeweler'
+gem 'bundler'
+gem 'rdoc'

@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rdiscount'
+gem 'coderay'
+gem 'fastimage'
+gem 'rocco'
+gem 'git'
+gem 'rspec'

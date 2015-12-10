@@ -1,0 +1,4 @@
+gem 'sensu'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

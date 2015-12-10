@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'cmdparse'
+gem 'memoize'
+gem 'mechanize'

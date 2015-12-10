@@ -1,0 +1,5 @@
+gem 'multi_json'
+gem 'activesupport'
+gem 'virtus'
+gem 'json'
+gem 'rspec'

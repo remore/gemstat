@@ -1,0 +1,7 @@
+gem 'lita'
+gem 'lita-github-web-hooks-core'
+gem 'bundler'
+gem 'pry-byebug'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'

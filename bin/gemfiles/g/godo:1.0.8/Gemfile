@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'rb-appscript'
+gem 'ick'
+gem 'highline'
+gem 'hoe'

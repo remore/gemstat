@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'rails'
+gem 'therubyracer'
+gem 'rspec'
+gem 'rcov'
+gem 'fakefs'

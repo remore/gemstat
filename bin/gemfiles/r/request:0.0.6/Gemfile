@@ -1,0 +1,5 @@
+gem 'concord'
+gem 'ice_nine'
+gem 'adamantium'
+gem 'equalizer'
+gem 'abstract_type'

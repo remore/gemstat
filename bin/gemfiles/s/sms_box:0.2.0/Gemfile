@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rest-client'
+gem 'activesupport'
+gem 'rspec'
+gem 'equivalent-xml'
+gem 'pry'
+gem 'awesome_print'

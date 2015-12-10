@@ -1,0 +1,6 @@
+gem 'concurrent-ruby'
+gem 'concurrent-ruby-ext'
+gem 'retryable'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

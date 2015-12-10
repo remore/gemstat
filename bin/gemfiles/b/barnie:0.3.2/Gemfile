@@ -1,0 +1,7 @@
+gem 'kosher'
+gem 'mechanize'
+gem 'launchy'
+gem 'rspec'
+gem 'ruby-debug19'
+gem 'vcr'
+gem 'webmock'

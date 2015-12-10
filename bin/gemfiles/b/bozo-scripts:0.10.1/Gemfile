@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'erubis'
+gem 'test-unit'
+gem 'bozo'
+gem 'zip'

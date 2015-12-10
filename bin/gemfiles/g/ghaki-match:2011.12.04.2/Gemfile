@@ -1,0 +1,4 @@
+gem 'ghaki-bool'
+gem 'rspec'
+gem 'rdoc'
+gem 'mocha'

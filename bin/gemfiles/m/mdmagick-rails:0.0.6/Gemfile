@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'activesupport'
+gem 'sass-rails'
+gem 'tzinfo'

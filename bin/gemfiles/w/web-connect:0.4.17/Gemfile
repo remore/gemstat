@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'rack'
+gem 'locale'
+gem 'paperclip'
+gem 'fastimage'
+gem 'paranoia'
+gem 'bunny'
+gem 'mime-types'

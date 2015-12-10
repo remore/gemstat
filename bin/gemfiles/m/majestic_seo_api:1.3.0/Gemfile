@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'

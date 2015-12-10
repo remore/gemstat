@@ -1,0 +1,5 @@
+gem 'solidus_core'
+gem 'solidus_api'
+gem 'solidus_backend'
+gem 'solidus_frontend'
+gem 'solidus_sample'

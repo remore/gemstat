@@ -1,0 +1,5 @@
+gem 'erubis'
+gem 'sinatra'
+gem 'sass'
+gem 'webrick'
+gem 'multi_json'

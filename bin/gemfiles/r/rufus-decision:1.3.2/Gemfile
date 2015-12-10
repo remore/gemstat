@@ -1,0 +1,5 @@
+gem 'rufus-dollar'
+gem 'rufus-treechecker'
+gem 'rake'
+gem 'yard'
+gem 'jeweler'

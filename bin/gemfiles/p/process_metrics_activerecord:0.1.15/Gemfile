@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'process_metrics'
+gem 'minitest'
+gem 'sqlite3'
+gem 'pry-debugger'

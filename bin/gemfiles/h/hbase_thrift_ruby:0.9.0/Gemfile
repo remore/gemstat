@@ -1,0 +1,5 @@
+gem 'jml_thrift'
+gem 'bundler'
+gem 'rspec'
+gem 'rdoc'
+gem 'jfish'

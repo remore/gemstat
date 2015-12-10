@@ -1,0 +1,4 @@
+gem 'choice'
+gem 'sinatra'
+gem 'tinder'
+gem 'rack-test'

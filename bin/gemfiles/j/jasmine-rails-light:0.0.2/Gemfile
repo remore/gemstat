@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'jasmine'
+gem 'rspec'
+gem 'gimme'

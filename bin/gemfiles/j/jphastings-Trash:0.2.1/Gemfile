@@ -1,0 +1,5 @@
+gem 'fileutils'
+gem 'sys-uname'
+gem 'sys-admin'
+gem 'sys-filesystem'
+gem 'iconv'

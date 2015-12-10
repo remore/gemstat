@@ -1,0 +1,4 @@
+gem 'savon'
+gem 'nokogiri'
+gem 'thor'
+gem 'httpclient'

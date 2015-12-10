@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'moped'
+gem 'origin'
+gem 'map'
+gem 'fattr'
+gem 'coerce'
+gem 'unicode_utils'
+gem 'threadify'

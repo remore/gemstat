@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'rdoc'
+gem 'rubygems-tasks'
+gem 'dalli'

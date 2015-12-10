@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'connection_pool'
+gem 'execjs'
+gem 'request_store'
+gem 'rails'

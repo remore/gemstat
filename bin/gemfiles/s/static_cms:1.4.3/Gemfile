@@ -1,0 +1,4 @@
+gem 'haml'
+gem 'sass'
+gem 'ruby_patch'
+gem 'thor'

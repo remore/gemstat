@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'minitest'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'thor'

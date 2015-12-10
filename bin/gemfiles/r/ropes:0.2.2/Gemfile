@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'debeasy'
+gem 'gpgme'
+gem 'arr-pm'
+gem 'nokogiri'
+gem 'uuid'

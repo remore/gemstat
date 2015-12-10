@@ -1,0 +1,4 @@
+gem 'turn'
+gem 'miniunit'
+gem 'multi_json'
+gem 'faye-websocket'

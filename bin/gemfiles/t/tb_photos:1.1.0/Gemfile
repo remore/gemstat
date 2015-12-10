@@ -1,0 +1,8 @@
+gem 'tb_core'
+gem 'paperclip'
+gem 'mysql2'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'simplecov'

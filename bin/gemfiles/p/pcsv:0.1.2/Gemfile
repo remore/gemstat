@@ -1,0 +1,5 @@
+gem 'ruby-progressbar'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'unindentable'

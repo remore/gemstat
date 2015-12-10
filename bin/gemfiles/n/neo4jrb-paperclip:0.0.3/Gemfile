@@ -1,0 +1,2 @@
+gem 'neo4j'
+gem 'paperclip'

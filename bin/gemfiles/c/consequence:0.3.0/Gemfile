@@ -1,0 +1,2 @@
+gem 'inflecto'
+gem 'rspec'

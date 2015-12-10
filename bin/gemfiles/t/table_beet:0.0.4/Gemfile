@@ -1,0 +1,7 @@
+gem 'turnip'
+gem 'slop'
+gem 'method_source'
+gem 'guard-rspec'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'

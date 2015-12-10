@@ -1,0 +1,6 @@
+gem 'redcarpet'
+gem 'slim'
+gem 'sass'
+gem 'sprockets'
+gem 'pygments.rb'
+gem 'rake'

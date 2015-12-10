@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'slyphon-log4j'
+gem 'slyphon-zookeeper_jar'
+gem 'slop'

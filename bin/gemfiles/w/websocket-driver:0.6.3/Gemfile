@@ -1,0 +1,5 @@
+gem 'websocket-extensions'
+gem 'eventmachine'
+gem 'permessage_deflate'
+gem 'rake-compiler'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'nokogiri'
+gem 'gdata_19'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'growl'

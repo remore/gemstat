@@ -1,0 +1,4 @@
+gem 'gosu'
+gem 'protest'
+gem 'override'
+gem 'watchr'

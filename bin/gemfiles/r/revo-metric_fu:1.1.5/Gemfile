@@ -1,0 +1,4 @@
+gem 'flay'
+gem 'flog'
+gem 'hooligan495-rcov'
+gem 'mojombo-chronic'

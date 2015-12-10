@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'rspec'
+gem 'rack-test'
+gem 'guard'
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'selenium-webdriver'
+gem 'awesome_print'

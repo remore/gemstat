@@ -1,0 +1,4 @@
+gem 'configliere'
+gem 'curb'
+gem 'rails'
+gem 'sass-rails'

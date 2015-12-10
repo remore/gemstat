@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'actionpack'
+gem 'appraisal'
+gem 'pry'

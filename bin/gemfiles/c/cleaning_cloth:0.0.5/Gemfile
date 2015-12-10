@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'ds_hash'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'factory_girl'

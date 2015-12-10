@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'methadone'
+gem 'parseconfig'
+gem 'highline'

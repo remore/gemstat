@@ -1,0 +1,5 @@
+gem 'docker_boss'
+gem 'celluloid'
+gem 'timers'
+gem 'bundler'
+gem 'rake'

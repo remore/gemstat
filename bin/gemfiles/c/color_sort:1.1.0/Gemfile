@@ -1,0 +1,6 @@
+gem 'colorscore'
+gem 'color'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-radar'

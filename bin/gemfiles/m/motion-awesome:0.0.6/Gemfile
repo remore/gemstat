@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'plist'
+gem 'css_parser'
+gem 'motion-map'

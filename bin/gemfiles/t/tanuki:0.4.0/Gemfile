@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rack'
+gem 'sequel'
+gem 'escape_utils'
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'

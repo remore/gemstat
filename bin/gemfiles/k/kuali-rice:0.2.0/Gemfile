@@ -1,0 +1,8 @@
+gem 'xml-simple'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'xml-simple'
+gem 'ci_reporter'
+gem 'builder'

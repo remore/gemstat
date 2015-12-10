@@ -1,0 +1,5 @@
+gem 'compass'
+gem 'bundler'
+gem 'rake'
+gem 'terminal-table'
+gem 'sass'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'su_attr_accessibility'
+gem 'rspec'
+gem 'ZenTest'

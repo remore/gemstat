@@ -1,0 +1,7 @@
+gem 'nanoc'
+gem 'html-pipeline'
+gem 'test-unit'
+gem 'rinku'
+gem 'github-markdown'
+gem 'gemoji'
+gem 'sanitize'

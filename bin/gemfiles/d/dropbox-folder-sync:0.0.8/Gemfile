@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'bundler'
+gem 'thor'
+gem 'dropbox-sdk'
+gem 'launchy'
+gem 'keystorage'
+gem 'json'

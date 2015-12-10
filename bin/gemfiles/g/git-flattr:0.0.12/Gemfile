@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'flattr'
+gem 'launchy'
+gem 'commander'

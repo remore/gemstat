@@ -1,0 +1,4 @@
+gem 'win32olerot'
+gem 'rake'
+gem 'cucumber'
+gem 'rspec'

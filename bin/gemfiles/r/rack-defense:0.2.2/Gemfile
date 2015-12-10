@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'redis'
+gem 'rake'
+gem 'minitest'
+gem 'rack-test'
+gem 'timecop'

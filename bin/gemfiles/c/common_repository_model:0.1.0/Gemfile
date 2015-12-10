@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'builder'
+gem 'active_model_serializers'
+gem 'active-fedora'
+gem 'minitest'
+gem 'minitest-matchers'
+gem 'factory_girl'

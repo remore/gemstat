@@ -1,0 +1,6 @@
+gem 'sliver'
+gem 'multi_json'
+gem 'combustion'
+gem 'kensa'
+gem 'rails'
+gem 'rspec-rails'

@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'yard-sinatra'
+gem 'mercenary'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

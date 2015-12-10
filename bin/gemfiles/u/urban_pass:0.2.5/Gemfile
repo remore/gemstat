@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'minitest'
+gem 'rake'
+gem 'nokogiri'
+gem 'clipboard'
+gem 'thor'
+gem 'urban_cli'

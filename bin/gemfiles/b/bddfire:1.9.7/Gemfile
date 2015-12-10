@@ -1,0 +1,5 @@
+gem 'cucumber'
+gem 'capybara'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'require_all'

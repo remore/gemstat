@@ -1,0 +1,4 @@
+gem 'qtbindings'
+gem 'malloc'
+gem 'multiarray'
+gem 'hornetseye-frame'

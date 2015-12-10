@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'amazon-ec2'
+gem 'nokogiri'
+gem 'thin'
+gem 'sinatra'

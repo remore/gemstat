@@ -1,0 +1,2 @@
+gem 'win32-ipc'
+gem 'test-unit'

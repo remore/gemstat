@@ -1,0 +1,6 @@
+gem 'mongo_mapper'
+gem 'log_buddy'
+gem 'jnunemaker-matchy'
+gem 'shoulda'
+gem 'timecop'
+gem 'mocha'

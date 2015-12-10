@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'oauth2'
+gem 'json'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-sidekiq'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'typhoeus'
+gem 'sidekiq'

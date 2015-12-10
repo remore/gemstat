@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'

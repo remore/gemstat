@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'data_mapper'
+gem 'colored'
+gem 'rabl'

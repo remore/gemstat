@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rspec-expectations'
+gem 'rr'
+gem 'nokogiri'
+gem 'guess_html_encoding'

@@ -1,0 +1,7 @@
+gem 'oauth2'
+gem 'google-api-client'
+gem 'rake'
+gem 'rspec'
+gem 'ci_reporter'
+gem 'simplecov'
+gem 'gem_publisher'

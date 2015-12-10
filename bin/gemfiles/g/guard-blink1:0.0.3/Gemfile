@@ -1,0 +1,6 @@
+gem 'test-unit'
+gem 'guard'
+gem 'guard-shell'
+gem 'pry'
+gem 'rb-blink1'
+gem 'colormath'

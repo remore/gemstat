@@ -1,0 +1,6 @@
+gem 'xml-object'
+gem 'xml-mapping'
+gem 'net-sftp'
+gem 'libxml-ruby'
+gem 'crack'
+gem 'mocha'

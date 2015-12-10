@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'javascript_safe_logger'

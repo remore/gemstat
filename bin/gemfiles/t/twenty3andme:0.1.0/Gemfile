@@ -1,0 +1,8 @@
+gem 'grape'
+gem 'httparty'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'wirble'
+gem 'rack-test'

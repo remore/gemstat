@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'json'
+gem 'zookeeper'
+gem 'rspec'
+gem 'mocha'
+gem 'ruby-prof'

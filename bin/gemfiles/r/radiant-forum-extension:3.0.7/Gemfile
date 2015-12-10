@@ -1,0 +1,2 @@
+gem 'radiant-reader-extension'
+gem 'acts_as_list'

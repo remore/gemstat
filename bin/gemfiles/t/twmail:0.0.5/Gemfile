@@ -1,0 +1,6 @@
+gem 'twtest'
+gem 'mail'
+gem 'multi_json'
+gem 'guard-test'
+gem 'guard-bundler'
+gem 'pry'

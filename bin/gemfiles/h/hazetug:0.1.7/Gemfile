@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'psych'
+gem 'fog'
+gem 'chef'
+gem 'gli'
+gem 'agent'
+gem 'berkshelf'

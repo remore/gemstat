@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'i18n-spec'
+gem 'i18n'
+gem 'bundler'

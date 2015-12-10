@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'bond'
+gem 'simplecov'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'factory_girl'

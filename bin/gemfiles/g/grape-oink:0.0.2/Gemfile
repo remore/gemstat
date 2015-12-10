@@ -1,0 +1,4 @@
+gem 'grape'
+gem 'rack-test'
+gem 'rspec'
+gem 'bundler'

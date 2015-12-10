@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'RedCloth'
+gem 'mongoid'
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'fuubar'

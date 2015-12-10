@@ -1,0 +1,5 @@
+gem 'oa-core'
+gem 'httparty'
+gem 'redis'
+gem 'rspec'
+gem 'fakeweb'

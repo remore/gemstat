@@ -1,0 +1,4 @@
+gem 'rdtool'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

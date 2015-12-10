@@ -1,0 +1,7 @@
+gem 'gateway'
+gem 'net-http-pipeline'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

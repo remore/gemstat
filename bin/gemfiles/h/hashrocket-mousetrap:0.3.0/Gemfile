@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'rspec'
+gem 'thoughtbot-factory_girl'

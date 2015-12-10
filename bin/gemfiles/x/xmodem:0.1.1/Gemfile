@@ -1,0 +1,8 @@
+gem 'log4r'
+gem 'bundler'
+gem 'rake'
+gem 'VersionCheck'
+gem 'simplecov'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'coveralls'

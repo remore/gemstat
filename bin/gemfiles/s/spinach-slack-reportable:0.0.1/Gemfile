@@ -1,0 +1,7 @@
+gem 'spinach'
+gem 'slack-notifier'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'overcommit'
+gem 'dotenv'

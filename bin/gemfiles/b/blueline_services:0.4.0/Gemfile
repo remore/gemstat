@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'i18n'
+gem 'pry'
+gem 'rake'
+gem 'shoulda'
+gem 'mocha'

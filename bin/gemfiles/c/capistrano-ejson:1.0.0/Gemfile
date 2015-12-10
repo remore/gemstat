@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'ejson'
+gem 'bundler'
+gem 'rake'

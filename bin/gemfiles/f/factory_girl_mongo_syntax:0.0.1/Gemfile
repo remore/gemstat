@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'mongo'
+gem 'mongo_mapper'
+gem 'rake'
+gem 'factory_girl'

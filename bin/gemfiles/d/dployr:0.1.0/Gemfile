@@ -1,0 +1,7 @@
+gem 'fog'
+gem 'deep_merge'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'colorize'
+gem 'rake'
+gem 'rspec'

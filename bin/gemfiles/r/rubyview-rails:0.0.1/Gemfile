@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'json'
+gem 'rails'

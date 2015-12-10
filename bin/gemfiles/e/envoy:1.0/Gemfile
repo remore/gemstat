@@ -1,0 +1,5 @@
+gem 'broach'
+gem 'tmail'
+gem 'rspec'
+gem 'fakeweb'
+gem 'timecop'

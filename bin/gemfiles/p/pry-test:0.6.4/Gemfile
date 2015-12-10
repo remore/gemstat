@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'pry-byebug'
+gem 'pry-rescue'
+gem 'os'
+gem 'rake'
+gem 'simplecov'
+gem 'coveralls'

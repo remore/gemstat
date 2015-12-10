@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'json'
+gem 'hashie'

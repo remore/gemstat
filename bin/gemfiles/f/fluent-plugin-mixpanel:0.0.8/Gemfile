@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'mixpanel-ruby'
+gem 'rake'
+gem 'webmock'
+gem 'test-unit'

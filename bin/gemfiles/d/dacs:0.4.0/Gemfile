@@ -1,0 +1,4 @@
+gem 'hirb'
+gem 'rspec'
+gem 'yard'
+gem 'devver-construct'

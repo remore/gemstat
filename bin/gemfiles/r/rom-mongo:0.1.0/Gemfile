@@ -1,0 +1,6 @@
+gem 'charlatan'
+gem 'moped'
+gem 'rom'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'

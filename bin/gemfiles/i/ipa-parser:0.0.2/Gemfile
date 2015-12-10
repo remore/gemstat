@@ -1,0 +1,4 @@
+gem 'CFPropertyList'
+gem 'rubyzip'
+gem 'bundler'
+gem 'rake'

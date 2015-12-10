@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'minitest'
+gem 'webmock'
+gem 'rack-test'
+gem 'mapel'
+gem 'dimensions'

@@ -1,0 +1,7 @@
+gem 'nestful'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'omniauth'
+gem 'rails'
+gem 'rcov'

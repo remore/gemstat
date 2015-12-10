@@ -1,0 +1,5 @@
+gem 'cutest'
+gem 'redic'
+gem 'msgpack'
+gem 'filtra'
+gem 'separa'

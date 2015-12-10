@@ -1,0 +1,5 @@
+gem 'sidekiq'
+gem 'curses'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

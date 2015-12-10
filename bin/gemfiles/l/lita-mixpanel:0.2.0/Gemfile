@@ -1,0 +1,4 @@
+gem 'lita'
+gem 'mixpanel_client'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'knife-windows'
+gem 'vcloud-rest'
+gem 'winrm'

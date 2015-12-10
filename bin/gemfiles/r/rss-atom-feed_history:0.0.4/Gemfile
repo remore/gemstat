@@ -1,0 +1,6 @@
+gem 'test-unit-full'
+gem 'simplecov'
+gem 'yard'
+gem 'redcarpet'
+gem 'pry'
+gem 'pry-doc'

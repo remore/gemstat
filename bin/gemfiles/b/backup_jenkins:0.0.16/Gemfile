@@ -1,0 +1,8 @@
+gem 'aws-sdk'
+gem 'hashie'
+gem 'command_line_helper'
+gem 'rake'
+gem 'guard'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'terminal-notifier-guard'

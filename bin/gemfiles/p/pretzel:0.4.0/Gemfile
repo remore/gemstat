@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'thin'
+gem 'liquid'
+gem 'pretzel-cli'
+gem 'rack-test'
+gem 'minitest'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'bundler'
+gem 'thor'
+gem 'yajl-ruby'
+gem 'datasift'
+gem 'interact'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'opal'
+gem 'opal-jquery'
+gem 'thor'
+gem 'opal-rspec'
+gem 'pry'

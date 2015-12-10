@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'rake'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'appraisal'

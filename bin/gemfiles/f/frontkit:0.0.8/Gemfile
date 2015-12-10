@@ -1,0 +1,8 @@
+gem 'middleman'
+gem 'middleman-livereload'
+gem 'middleman-imageoptim'
+gem 'middleman-autoprefixer'
+gem 'middleman-minify-html'
+gem 'middleman-deploy'
+gem 'middleman-bower'
+gem 'middleman-syntax'

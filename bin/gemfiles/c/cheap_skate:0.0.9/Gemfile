@@ -1,0 +1,6 @@
+gem 'fastercsv'
+gem 'uuid'
+gem 'ferret'
+gem 'json'
+gem 'hpricot'
+gem 'sinatra'

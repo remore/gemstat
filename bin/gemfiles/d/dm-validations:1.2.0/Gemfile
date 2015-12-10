@@ -1,0 +1,5 @@
+gem 'dm-core'
+gem 'dm-types'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'

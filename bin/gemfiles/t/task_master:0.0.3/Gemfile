@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'task_master-fancyhands-ruby'
+gem 'pg'
+gem 'spring'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'dotenv'
+gem 'test_after_commit'

@@ -1,0 +1,5 @@
+gem 'linkeddata'
+gem 'mail'
+gem 'nokogiri'
+gem 'rack'
+gem 'thin'

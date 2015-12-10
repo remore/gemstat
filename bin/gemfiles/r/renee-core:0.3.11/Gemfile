@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'minitest'
+gem 'bundler'
+gem 'rack-test'
+gem 'rake'

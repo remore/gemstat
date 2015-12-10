@@ -1,0 +1,7 @@
+gem 'curb'
+gem 'patron'
+gem 'typhoeus'
+gem 'excon'
+gem 'rspec'
+gem 'webmock'
+gem 'debugger'

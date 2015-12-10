@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'naught'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'hashdiff'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rake'
+gem 'nokogiri'
+gem 'washbullet'

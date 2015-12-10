@@ -1,0 +1,4 @@
+gem 'cocaine'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

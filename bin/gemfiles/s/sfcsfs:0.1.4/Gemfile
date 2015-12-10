@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'addressable'
+gem 'pit'
+gem 'sfc-room'
+gem 'args_parser'
+gem 'rspec'
+gem 'rake'

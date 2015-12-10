@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'rack'
+gem 'json'

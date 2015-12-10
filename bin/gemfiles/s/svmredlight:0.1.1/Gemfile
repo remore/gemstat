@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'ZenTest'
+gem 'ruby-debug19'

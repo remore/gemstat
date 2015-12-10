@@ -1,0 +1,2 @@
+gem 'gtk2svg'
+gem 'htmle'

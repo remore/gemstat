@@ -1,0 +1,4 @@
+gem 'typographer'
+gem 'nokogiri'
+gem 'rspec'
+gem 'autotest'

@@ -1,0 +1,6 @@
+gem 'pit'
+gem 'notify'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

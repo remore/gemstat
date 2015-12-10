@@ -1,0 +1,6 @@
+gem 'aasm'
+gem 'semantic_logger'
+gem 'mongo_ha'
+gem 'mongo'
+gem 'mongo_mapper'
+gem 'symmetric-encryption'

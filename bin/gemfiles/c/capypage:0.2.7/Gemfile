@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'activesupport'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'sinatra'

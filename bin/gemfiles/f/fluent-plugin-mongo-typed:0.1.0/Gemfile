@@ -1,0 +1,5 @@
+gem 'fluent-plugin-mongo'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'fluent-plugin-mongo'

@@ -1,0 +1,5 @@
+gem 'rspec-core'
+gem 'appraisal'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'pry-byebug'

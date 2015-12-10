@@ -1,0 +1,7 @@
+gem 'json'
+gem 'sqlite3'
+gem 'structformatter'
+gem 'configparser'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

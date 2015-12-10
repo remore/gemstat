@@ -1,0 +1,7 @@
+gem 'xdg'
+gem 'colored'
+gem 'rspec'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

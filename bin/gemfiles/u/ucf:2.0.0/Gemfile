@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'bundler'
+gem 'rdoc'
+gem 'test-unit'
+gem 'coveralls'
+gem 'nokogiri'
+gem 'zip-container'

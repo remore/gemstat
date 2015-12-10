@@ -1,0 +1,8 @@
+gem 'omniauth'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'oa-core'
+gem 'rspec'
+gem 'yard'

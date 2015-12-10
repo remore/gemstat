@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'faraday_middleware-parse_oj'
+gem 'ruboty'
+gem 'bundler'
+gem 'rake'

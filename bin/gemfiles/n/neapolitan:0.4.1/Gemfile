@@ -1,0 +1,8 @@
+gem 'malt'
+gem 'detroit'
+gem 'yard'
+gem 'qed'
+gem 'coderay'
+gem 'RedCloth'
+gem 'rdoc'
+gem 'liquid'

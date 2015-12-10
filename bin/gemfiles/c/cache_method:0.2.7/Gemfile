@@ -1,0 +1,6 @@
+gem 'cache'
+gem 'activesupport'
+gem 'dalli'
+gem 'yard'
+gem 'minitest'
+gem 'minitest-reporters'

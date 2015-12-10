@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'fluent-plugin-s3'
+gem 'fluentd'
+gem 'fluent-plugin-s3'

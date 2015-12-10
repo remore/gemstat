@@ -1,0 +1,8 @@
+gem 'jekyll'
+gem 'html-pipeline'
+gem 'nokogiri'
+gem 'github-markdown'
+gem 'rake'
+gem 'rdoc'
+gem 'shoulda'
+gem 'minitest'

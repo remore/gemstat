@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'
+gem 'pry'
+gem 'pry-doc'
+gem 'nokogiri'

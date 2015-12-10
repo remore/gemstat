@@ -1,0 +1,7 @@
+gem 'sugar-high'
+gem 'sweetloader'
+gem 'i18n'
+gem 'activesupport'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

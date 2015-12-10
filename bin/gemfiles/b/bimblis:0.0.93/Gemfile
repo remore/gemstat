@@ -1,0 +1,5 @@
+gem 'webdriver-webdriver'
+gem 'page-object'
+gem 'selenium-webdriver'
+gem 'faker'
+gem 'cucumber'

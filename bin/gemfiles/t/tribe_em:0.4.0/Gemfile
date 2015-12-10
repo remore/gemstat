@@ -1,0 +1,2 @@
+gem 'tribe'
+gem 'eventmachine'

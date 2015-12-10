@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'guard-test'
+gem 'rb-inotify'
+gem 'rb-fsevent'
+gem 'rb-fchange'

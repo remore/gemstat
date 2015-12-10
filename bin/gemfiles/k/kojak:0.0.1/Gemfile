@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

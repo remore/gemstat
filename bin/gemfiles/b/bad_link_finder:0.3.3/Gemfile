@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'nokogiri'
+gem 'minitest'
+gem 'webmock'
+gem 'rake'
+gem 'bundler'
+gem 'gem_publisher'

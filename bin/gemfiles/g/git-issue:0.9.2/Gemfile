@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'pit'
+gem 'term-ansicolor'
+gem 'rake'

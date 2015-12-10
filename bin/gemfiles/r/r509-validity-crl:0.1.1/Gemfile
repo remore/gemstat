@@ -1,0 +1,5 @@
+gem 'r509'
+gem 'rufus-scheduler'
+gem 'rake'
+gem 'rspec'
+gem 'syntax'

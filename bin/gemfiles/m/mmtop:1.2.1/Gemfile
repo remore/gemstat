@@ -1,0 +1,5 @@
+gem 'mysql2'
+gem 'getopt-declare'
+gem 'rake'
+gem 'bump'
+gem 'mysql_isolated_server'

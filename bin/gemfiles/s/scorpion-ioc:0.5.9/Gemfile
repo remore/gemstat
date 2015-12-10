@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'combustion'
+gem 'sqlite3'

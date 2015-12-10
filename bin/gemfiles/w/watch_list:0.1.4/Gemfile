@@ -1,0 +1,5 @@
+gem 'uptimerobot'
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

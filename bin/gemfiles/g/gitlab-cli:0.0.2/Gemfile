@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'gitlab'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'sequel'
+gem 'newrelic_rpm'
+gem 'rdoc'
+gem 'hoe'

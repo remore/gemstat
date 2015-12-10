@@ -1,0 +1,6 @@
+gem 'thrift'
+gem 'thrift_client'
+gem 'evernote'
+gem 'highline'
+gem 'encrypted_strings'
+gem 'rspec'

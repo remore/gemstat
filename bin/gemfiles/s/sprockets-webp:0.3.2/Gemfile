@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'webp-ffi'
+gem 'bundler'
+gem 'rake'

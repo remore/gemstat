@@ -1,0 +1,7 @@
+gem 'simplecov'
+gem 'hirb'
+gem 'colorize'
+gem 'minitest'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

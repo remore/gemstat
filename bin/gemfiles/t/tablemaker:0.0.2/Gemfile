@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'psych'
+gem 'minitest'
+gem 'rails'

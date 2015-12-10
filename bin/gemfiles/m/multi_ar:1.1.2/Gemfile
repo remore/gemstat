@@ -1,0 +1,8 @@
+gem 'trollop'
+gem 'activerecord'
+gem 'rails'
+gem 'railties'
+gem 'rake'
+gem 'safe_attributes'
+gem 'redcarpet'
+gem 'github-markdown'

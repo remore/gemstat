@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'simplecov-html'
+gem 'mocha'
+gem 'activesupport'

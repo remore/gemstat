@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'faraday'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'shoulda-context'
+gem 'mocha'
+gem 'rubocop'

@@ -1,0 +1,2 @@
+gem 'oniguruma'
+gem 'textpow'

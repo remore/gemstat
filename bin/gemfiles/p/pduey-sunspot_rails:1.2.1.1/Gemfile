@@ -1,0 +1,5 @@
+gem 'pduey-sunspot'
+gem 'progress_bar'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rspec-rails'

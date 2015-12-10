@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-yard'
+gem 'rdiscount'
+gem 'nokogiri'

@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'fuubar'
+gem 'rb-fsevent'
+gem 'terminal-notifier-guard'

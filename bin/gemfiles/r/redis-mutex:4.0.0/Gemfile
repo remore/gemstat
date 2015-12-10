@@ -1,0 +1,4 @@
+gem 'redis-classy'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

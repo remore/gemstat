@@ -1,0 +1,7 @@
+gem 'typhoeus'
+gem 'activesupport'
+gem 'rspec-rails'
+gem 'rails'
+gem 'webmock'
+gem 'geminabox'
+gem 'pry'

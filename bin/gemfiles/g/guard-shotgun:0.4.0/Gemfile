@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'ffi'
+gem 'spoon'
+gem 'rake'
+gem 'rspec'

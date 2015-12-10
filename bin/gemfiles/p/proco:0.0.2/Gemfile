@@ -1,0 +1,4 @@
+gem 'lps'
+gem 'option_initializer'
+gem 'minitest'
+gem 'parallelize'

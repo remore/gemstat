@@ -1,0 +1,7 @@
+gem 'fast-stemmer'
+gem 'bundler'
+gem 'rake'
+gem 'pry-test'
+gem 'pry'
+gem 'pry-rescue'
+gem 'pry-stack_explorer'

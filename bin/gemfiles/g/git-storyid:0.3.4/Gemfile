@@ -1,0 +1,7 @@
+gem 'pivotal-tracker'
+gem 'webmock'
+gem 'debugger'
+gem 'mocha'
+gem 'rspec'
+gem 'jeweler'
+gem 'hashie'

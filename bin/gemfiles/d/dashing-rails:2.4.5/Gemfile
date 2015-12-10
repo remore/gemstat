@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'coffee-script'
+gem 'rufus-scheduler'
+gem 'redis'
+gem 'connection_pool'
+gem 'pry-rails'
+gem 'better_errors'

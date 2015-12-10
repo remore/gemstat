@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bitfields'
+gem 'ruby-debug19'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'generator_spec'

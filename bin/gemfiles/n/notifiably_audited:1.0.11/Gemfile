@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'appraisal'
+gem 'bson_ext'
+gem 'mongo_mapper'
+gem 'rails'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'private_pub'

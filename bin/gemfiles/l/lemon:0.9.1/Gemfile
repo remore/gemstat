@@ -1,0 +1,6 @@
+gem 'rubytest'
+gem 'ae'
+gem 'ansi'
+gem 'detroit'
+gem 'reap'
+gem 'qed'

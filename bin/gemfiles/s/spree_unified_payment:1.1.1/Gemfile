@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'unified_payment'
+gem 'spree_wallet'
+gem 'delayed_job_active_record'

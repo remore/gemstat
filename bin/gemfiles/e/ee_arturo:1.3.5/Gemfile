@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'mocha'
+gem 'rake'
+gem 'redgreen'
+gem 'sqlite3-ruby'
+gem 'factory_girl'
+gem 'timecop'

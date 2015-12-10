@@ -1,0 +1,8 @@
+gem 'sw2at-capybara'
+gem 'sw2at-tw'
+gem 'sw2at-ui'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

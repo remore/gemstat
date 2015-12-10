@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'acts_as_votable'
+gem 'mailgun_rails'
+gem 'byebug'

@@ -1,0 +1,8 @@
+gem 'facets'
+gem 'wordnet-defaultdb'
+gem 'shoulda'
+gem 'shoulda-context'
+gem 'minitest-reporters'
+gem 'pry'
+gem 'rake'
+gem 'mechanize'

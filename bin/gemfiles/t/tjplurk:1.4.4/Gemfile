@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'thor'
+gem 'launchy'
+gem 'rspec'

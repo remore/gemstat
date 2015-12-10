@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'rbvmomi'
+gem 'i18n'
+gem 'rake'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'rubocop'

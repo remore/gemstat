@@ -1,0 +1,8 @@
+gem 'thread_safe'
+gem 'json'
+gem 'activerecord'
+gem 'bundler'
+gem 'fakeweb'
+gem 'jeweler'
+gem 'rspec'
+gem 'sqlite3'

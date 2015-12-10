@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'yard'
+gem 'bacon'
+gem 'jeweler'
+gem 'tzinfo'

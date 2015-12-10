@@ -1,0 +1,5 @@
+gem 'racc'
+gem 'rake'
+gem 'bundler'
+gem 'minitest'
+gem 'mocha'

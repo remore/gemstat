@@ -1,0 +1,2 @@
+gem 'couchbase-settings'
+gem 'couchbase'

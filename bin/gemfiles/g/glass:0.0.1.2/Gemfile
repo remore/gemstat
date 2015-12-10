@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'google-api-client'
+gem 'redis'
+gem 'redis-namespace'
+gem 'httparty'

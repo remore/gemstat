@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'byebug'
+gem 'foy_api_client'
+gem 'foy_ruby_handler'

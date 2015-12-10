@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'sqlite3'
+gem 'memfs'
+gem 'rubocop'
+gem 'simplecov'
+gem 'bundler'
+gem 'rake'
+gem 'sequel'

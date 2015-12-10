@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'transloadit'
+gem 'fog'
+gem 'rubyzip'
+gem 'mime-types'
+gem 'json'
+gem 'rake'
+gem 'rspec'

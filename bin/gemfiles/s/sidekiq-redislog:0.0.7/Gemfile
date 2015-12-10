@@ -1,0 +1,6 @@
+gem 'sidekiq'
+gem 'slim'
+gem 'sinatra'
+gem 'sprockets'
+gem 'rake'
+gem 'rack-test'

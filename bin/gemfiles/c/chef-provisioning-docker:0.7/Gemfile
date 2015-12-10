@@ -1,0 +1,7 @@
+gem 'chef'
+gem 'chef-provisioning'
+gem 'docker-api'
+gem 'minitar'
+gem 'sys-proctable'
+gem 'rspec'
+gem 'rake'

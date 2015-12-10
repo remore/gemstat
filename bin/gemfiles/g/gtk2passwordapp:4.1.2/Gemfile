@@ -1,0 +1,7 @@
+gem 'rafini'
+gem 'xdg'
+gem 'user_space'
+gem 'yaml_zlib_blowfish'
+gem 'super_random'
+gem 'base_convert'
+gem 'helpema'

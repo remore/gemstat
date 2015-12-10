@@ -1,0 +1,6 @@
+gem 'chartbeat'
+gem 'sequel'
+gem 'rspec'
+gem 'fakeweb'
+gem 'timecop'
+gem 'hpricot'

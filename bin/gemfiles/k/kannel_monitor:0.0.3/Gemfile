@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'sendmail'
+gem 'pony'
+gem 'nokogiri'
+gem 'active_support'
+gem 'i18n'

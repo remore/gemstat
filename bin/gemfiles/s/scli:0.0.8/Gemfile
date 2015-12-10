@@ -1,0 +1,4 @@
+gem 'fog'
+gem 'mixlib-cli'
+gem 'terminal-table'
+gem 'colored'

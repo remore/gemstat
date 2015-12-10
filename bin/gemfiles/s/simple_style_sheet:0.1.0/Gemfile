@@ -1,0 +1,2 @@
+gem 'simple_selector'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'spree_core'
+gem 'resque'
+gem 'resque-lock'
+gem 'carrierwave'
+gem 'fog'
+gem 'rubyzip'

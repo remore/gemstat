@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'net-http-digest_auth'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'rubocop'
+gem 'webmock'

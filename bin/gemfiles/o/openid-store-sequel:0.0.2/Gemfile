@@ -1,0 +1,5 @@
+gem 'ruby-openid'
+gem 'sequel'
+gem 'pg'
+gem 'rake'
+gem 'sqlite3'

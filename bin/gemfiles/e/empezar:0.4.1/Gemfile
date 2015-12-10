@@ -1,0 +1,7 @@
+gem 'symbolmatrix'
+gem 'discoverer'
+gem 'term-ansicolor'
+gem 'fast'
+gem 'rspec'
+gem 'fast'
+gem 'cucumber'

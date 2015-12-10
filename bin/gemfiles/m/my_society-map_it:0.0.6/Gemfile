@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'simplecov-rcov'
+gem 'fakeweb'
+gem 'vcr'

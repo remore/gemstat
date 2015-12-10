@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'capybara'
+gem 'guard-minitest'
+gem 'minitest-rails'

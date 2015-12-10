@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'
+gem 'prawn'
+gem 'prawn-table'
+gem 'treetop'

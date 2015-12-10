@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'
+gem 'json'
+gem 'activemodel'
+gem 'rack'
+gem 'iconv'

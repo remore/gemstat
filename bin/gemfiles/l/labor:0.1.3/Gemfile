@@ -1,0 +1,2 @@
+gem 'gearman-ruby'
+gem 'json'

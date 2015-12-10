@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'ipaddress'
+gem 'rspec'
+gem 'rake'
+gem 'minitest'
+gem 'rack-test'

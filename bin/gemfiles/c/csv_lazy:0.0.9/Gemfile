@@ -1,0 +1,5 @@
+gem 'string-strtr'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

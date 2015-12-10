@@ -1,0 +1,7 @@
+gem 'factor-connector-api'
+gem 'ruby-trello'
+gem 'rest-client'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'
+gem 'wrong'

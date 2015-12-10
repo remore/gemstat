@@ -1,0 +1,5 @@
+gem 'daemons'
+gem 'multi_json'
+gem 'rails'
+gem 'rake'
+gem 'rspec'

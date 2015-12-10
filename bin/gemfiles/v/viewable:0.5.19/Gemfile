@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'jbuilder'
+gem 'rails_12factor'
+gem 'responders'

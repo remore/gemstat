@@ -1,0 +1,4 @@
+gem 'ruby-libnotify'
+gem 'rubyforge'
+gem 'hoe'
+gem 'hoe'

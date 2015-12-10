@@ -1,0 +1,5 @@
+gem 'i18n'
+gem 'rest-client'
+gem 'dirty_hashy'
+gem 'rspec'
+gem 'webmock'

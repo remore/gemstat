@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'eco'
+gem 'coffee-script'
+gem 'rake'
+gem 'bundler'

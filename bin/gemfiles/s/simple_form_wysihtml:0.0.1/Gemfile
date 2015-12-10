@@ -1,0 +1,4 @@
+gem 'simple_form'
+gem 'rails-assets-wysihtml5x'
+gem 'bundler'
+gem 'rake'

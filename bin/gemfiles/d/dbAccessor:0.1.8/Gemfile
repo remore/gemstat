@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'uuid'
+gem 'rspec'
+gem 'activerecord'
+gem 'rake'
+gem 'pg'
+gem 'redis'
+gem 'rest-client'

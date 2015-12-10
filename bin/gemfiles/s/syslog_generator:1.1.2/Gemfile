@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'random-word'
+gem 'syslog_protocol'
+gem 'trollop'

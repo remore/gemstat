@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'
+gem 'oga'
+gem 'json'

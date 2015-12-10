@@ -1,0 +1,8 @@
+gem 'aws-s3'
+gem 'amazon-ec2'
+gem 'auser-aska'
+gem 'git'
+gem 'sprinkle'
+gem 'SystemTimer'
+gem 'open4'
+gem 'echoe'

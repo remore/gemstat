@@ -1,0 +1,6 @@
+gem 'nagios-probe'
+gem 'log4r'
+gem 'amazon-ec2'
+gem 'occi-cli'
+gem 'opennebula-oca'
+gem 'occi-api'

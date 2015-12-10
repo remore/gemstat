@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'activesupport'
+gem 'databasedotcom'
+gem 'logstash-devutils'

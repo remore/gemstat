@@ -1,0 +1,4 @@
+gem 'capybara'
+gem 'rspec'
+gem 'poltergeist'
+gem 'selenium-webdriver'

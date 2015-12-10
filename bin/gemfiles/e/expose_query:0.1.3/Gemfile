@@ -1,0 +1,6 @@
+gem 'decent_exposure'
+gem 'rspec'
+gem 'pry'
+gem 'rspec-rails'
+gem 'actionpack'
+gem 'activesupport'

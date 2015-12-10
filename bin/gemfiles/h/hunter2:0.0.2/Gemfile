@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'fast-aes'
+gem 'bcrypt-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'rdiscount'

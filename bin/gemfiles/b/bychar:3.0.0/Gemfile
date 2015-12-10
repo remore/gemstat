@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rdoc'
+gem 'test-unit'
+gem 'jeweler'
+gem 'flexmock'

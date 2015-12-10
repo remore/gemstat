@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'activemodel'
+gem 'sqlite3'
+gem 'mongoid'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'guard-rspec'
+gem 'guard-spork'

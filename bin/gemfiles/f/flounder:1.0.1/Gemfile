@@ -1,0 +1,5 @@
+gem 'arel'
+gem 'pg'
+gem 'connection_pool'
+gem 'pg-hstore'
+gem 'aggregate'

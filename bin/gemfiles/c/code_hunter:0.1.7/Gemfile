@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'brakeman'
+gem 'rails_best_practices'
+gem 'pendaxes'
+gem 'rspec'
+gem 'simplecov'

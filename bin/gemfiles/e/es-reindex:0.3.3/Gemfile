@@ -1,0 +1,7 @@
+gem 'elasticsearch'
+gem 'elasticsearch-persistence'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'guard-rspec'

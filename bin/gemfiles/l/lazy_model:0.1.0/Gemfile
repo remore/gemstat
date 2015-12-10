@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'sqlite3-ruby'

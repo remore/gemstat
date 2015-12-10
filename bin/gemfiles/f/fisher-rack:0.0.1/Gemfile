@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'ruby-statsd'
+gem 'bundler'
+gem 'rake'

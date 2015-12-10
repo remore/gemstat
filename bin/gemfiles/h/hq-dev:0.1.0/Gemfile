@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'rspec_junit_formatter'
+gem 'simplecov'

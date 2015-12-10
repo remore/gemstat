@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'json'
+gem 'twitter'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'sqlite3'

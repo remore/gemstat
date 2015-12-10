@@ -1,0 +1,8 @@
+gem 'json'
+gem 'ansi'
+gem 'sqlite3'
+gem 'nokogiri'
+gem 'rake'
+gem 'yard'
+gem 'bundler'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'mongrel'
+gem 'json'
+gem 'activesupport'

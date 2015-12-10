@@ -1,0 +1,8 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'rspec-rails'
+gem 'rspec-html-matchers'
+gem 'rake'
+gem 'activemodel'
+gem 'activerecord'
+gem 'will_paginate'

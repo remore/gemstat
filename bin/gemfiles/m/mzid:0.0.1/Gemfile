@@ -1,0 +1,5 @@
+gem 'ox'
+gem 'nokogiri'
+gem 'progressbar'
+gem 'minitest'
+gem 'minitest-reporters'

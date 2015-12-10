@@ -1,0 +1,8 @@
+gem 'koala'
+gem 'hashie'
+gem 'rails_config_loader'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

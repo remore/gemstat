@@ -1,0 +1,4 @@
+gem 'plist'
+gem 'rubyzip'
+gem 'rspec'
+gem 'rake'

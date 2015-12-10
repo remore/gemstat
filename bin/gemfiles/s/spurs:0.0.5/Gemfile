@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'actionpack'
+gem 'twitter-bootstrap-rails'
+gem 'haml'
+gem 'bootstrap-wysihtml5-rails'
+gem 'therubyracer'
+gem 'rails'

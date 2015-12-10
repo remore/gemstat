@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'google-spreadsheet-ruby'
+gem 'spreadsheet'
+gem 'composite_primary_keys'

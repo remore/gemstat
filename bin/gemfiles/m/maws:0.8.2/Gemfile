@@ -1,0 +1,7 @@
+gem 'right_aws'
+gem 'hashie'
+gem 'erubis'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'terminal-table'
+gem 'rspec'

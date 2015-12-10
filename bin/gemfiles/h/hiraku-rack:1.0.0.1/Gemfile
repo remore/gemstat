@@ -1,0 +1,7 @@
+gem 'test-spec'
+gem 'camping'
+gem 'fcgi'
+gem 'memcache-client'
+gem 'mongrel'
+gem 'ruby-openid'
+gem 'thin'

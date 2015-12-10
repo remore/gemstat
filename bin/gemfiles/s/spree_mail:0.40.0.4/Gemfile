@@ -1,0 +1,7 @@
+gem 'spree_core'
+gem 'spree_auth'
+gem 'mustache'
+gem 'mail'
+gem 'meta_search'
+gem 'shoulda'
+gem 'sqlite3-ruby'

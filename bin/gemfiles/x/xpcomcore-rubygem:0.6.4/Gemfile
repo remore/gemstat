@@ -1,0 +1,8 @@
+gem 'sys-uname'
+gem 'cmdparse'
+gem 'plist'
+gem 'iniparse'
+gem 'json'
+gem 'uuidtools'
+gem 'jeweler'
+gem 'colored'

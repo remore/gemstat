@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'activerecord'
+gem 'thor'
+gem 'rest-client'
+gem 'sequel'
+gem 'sqlite3-ruby'

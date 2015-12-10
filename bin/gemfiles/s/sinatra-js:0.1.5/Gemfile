@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'sinatra-tags'
+gem 'sinatra-assets'
+gem 'sinatra-tests'
+gem 'rspec'

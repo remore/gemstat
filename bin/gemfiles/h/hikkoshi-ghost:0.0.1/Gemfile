@@ -1,0 +1,4 @@
+gem 'hikkoshi'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'

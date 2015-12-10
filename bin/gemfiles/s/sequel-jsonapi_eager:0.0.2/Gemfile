@@ -1,0 +1,4 @@
+gem 'sequel'
+gem 'minitest'
+gem 'minitest-hooks'
+gem 'sqlite3'

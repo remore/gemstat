@@ -1,0 +1,7 @@
+gem 'drydock'
+gem 'sysinfo'
+gem 'storable'
+gem 'sysinfo'
+gem 'highline'
+gem 'net-ssh'
+gem 'net-scp'

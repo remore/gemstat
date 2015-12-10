@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'ruby-augeas'
+gem 'octokit'
+gem 'puppet_forge'

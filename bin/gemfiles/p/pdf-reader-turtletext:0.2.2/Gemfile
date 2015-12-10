@@ -1,0 +1,8 @@
+gem 'pdf-reader'
+gem 'bundler'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'prawn'
+gem 'guard-rspec'

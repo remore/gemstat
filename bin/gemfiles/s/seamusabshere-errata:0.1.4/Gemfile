@@ -1,0 +1,2 @@
+gem 'activesupport'
+gem 'seamusabshere-remote_table'

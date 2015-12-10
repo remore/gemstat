@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'autotest'
+gem 'autotest-growl'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'builder'
+gem 'rails'
+gem 'haml'
+gem 'compass'
+gem 'globalize3'

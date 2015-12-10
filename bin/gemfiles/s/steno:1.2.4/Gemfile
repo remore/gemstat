@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'fluent-logger'
+gem 'ci_reporter'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'

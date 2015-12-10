@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'beaneater'
+gem 'oj'
+gem 'money'

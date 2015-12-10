@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'tire'
+gem 'strong_parameters'
+gem 'jquery-rails'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec-rails'
+gem 'capybara'

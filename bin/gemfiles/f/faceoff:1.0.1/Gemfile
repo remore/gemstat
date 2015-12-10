@@ -1,0 +1,6 @@
+gem 'highline'
+gem 'mechanize'
+gem 'json'
+gem 'vpim'
+gem 'rubyforge'
+gem 'hoe'

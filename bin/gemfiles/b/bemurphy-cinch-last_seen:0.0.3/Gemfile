@@ -1,0 +1,6 @@
+gem 'cinch'
+gem 'redis'
+gem 'redis-namespace'
+gem 'minitest'
+gem 'mocha'
+gem 'timecop'

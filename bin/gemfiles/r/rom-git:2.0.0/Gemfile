@@ -1,0 +1,8 @@
+gem 'rom'
+gem 'rugged'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'inflecto'
+gem 'virtus'

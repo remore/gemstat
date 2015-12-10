@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rake'
+gem 'net-dns'
+gem 'nokogiri'

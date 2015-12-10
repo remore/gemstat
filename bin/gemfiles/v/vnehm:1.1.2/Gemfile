@@ -1,0 +1,4 @@
+gem 'certifi'
+gem 'colored'
+gem 'taglib-ruby'
+gem 'vkontakte_api'

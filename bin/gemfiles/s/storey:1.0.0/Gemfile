@@ -1,0 +1,5 @@
+gem 'rspec-rails'
+gem 'pg'
+gem 'database_cleaner'
+gem 'easy_class_to_instance_method'
+gem 'rails'

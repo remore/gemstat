@@ -1,0 +1,5 @@
+gem 'test-unit'
+gem 'pry'
+gem 'pry-doc'
+gem 'yard'
+gem 'redcarpet'

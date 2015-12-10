@@ -1,0 +1,6 @@
+gem 'anemone'
+gem 'nokogiri'
+gem 'faraday'
+gem 'pdf-reader'
+gem 'ruby-progressbar'
+gem 'colorize'

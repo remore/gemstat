@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'cucumber'
+gem 'yard'
+gem 'yard-cucumber'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'flog'

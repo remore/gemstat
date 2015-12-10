@@ -1,0 +1,6 @@
+gem 'id'
+gem 'optional'
+gem 'moped'
+gem 'em-synchrony-moped'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'hashie'
+gem 'rspec'
+gem 'fakeweb'
+gem 'yard'
+gem 'rdoc'
+gem 'rake'

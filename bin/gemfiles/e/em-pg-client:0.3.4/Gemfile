@@ -1,0 +1,6 @@
+gem 'pg'
+gem 'eventmachine'
+gem 'rspec'
+gem 'em-synchrony'
+gem 'coveralls'
+gem 'simplecov'

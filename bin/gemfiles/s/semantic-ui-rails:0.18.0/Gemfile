@@ -1,0 +1,7 @@
+gem 'less-rails'
+gem 'autoprefixer-rails'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'binding_of_caller'
+gem 'git'

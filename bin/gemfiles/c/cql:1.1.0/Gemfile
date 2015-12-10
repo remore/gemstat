@@ -1,0 +1,7 @@
+gem 'cuke_modeler'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'simplecov'
+gem 'racatt'
+gem 'coveralls'

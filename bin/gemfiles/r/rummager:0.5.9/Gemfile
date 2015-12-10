@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'logger'
+gem 'json'
+gem 'docker-api'

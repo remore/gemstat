@@ -1,0 +1,7 @@
+gem 'gflocator'
+gem 'pmux'
+gem 'eventmachine'
+gem 'em_pessimistic'
+gem 'eventmachine_httpserver'
+gem 'bundler'
+gem 'rake'

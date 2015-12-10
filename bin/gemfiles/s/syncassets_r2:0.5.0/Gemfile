@@ -1,0 +1,5 @@
+gem 'fog'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

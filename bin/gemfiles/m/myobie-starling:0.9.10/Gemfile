@@ -1,0 +1,2 @@
+gem 'fiveruns-memcache-client'
+gem 'eventmachine'

@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'bundler'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-collection_matchers'

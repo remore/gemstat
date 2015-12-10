@@ -1,0 +1,2 @@
+gem 'haml-rails'
+gem 'decent_exposure'

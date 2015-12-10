@@ -1,0 +1,8 @@
+gem 'gosu'
+gem 'chipmunk'
+gem 'ruby-opengl'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

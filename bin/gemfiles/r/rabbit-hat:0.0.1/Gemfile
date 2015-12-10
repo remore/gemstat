@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'serverengine'
+gem 'bunny'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'

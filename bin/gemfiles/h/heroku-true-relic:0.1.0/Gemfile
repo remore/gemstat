@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'pry'
+gem 'pry-rails'
+gem 'capybara'
+gem 'timecop'

@@ -1,0 +1,2 @@
+gem 'shared-mime-info'
+gem 'thoughtbot-shoulda'

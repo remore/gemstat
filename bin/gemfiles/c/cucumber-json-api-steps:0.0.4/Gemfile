@@ -1,0 +1,5 @@
+gem 'jsonpath'
+gem 'json_paths'
+gem 'cucumber-rails'
+gem 'bundler'
+gem 'rake'

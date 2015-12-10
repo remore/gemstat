@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'activerecord'
+gem 'capybara'
+gem 'poltergeist'
+gem 'rspec'

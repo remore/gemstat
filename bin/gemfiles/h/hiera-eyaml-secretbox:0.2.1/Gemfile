@@ -1,0 +1,2 @@
+gem 'rbnacl'
+gem 'hiera-eyaml'

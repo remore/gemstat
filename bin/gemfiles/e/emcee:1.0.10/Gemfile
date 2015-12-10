@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'nokogumbo'
+gem 'rails'
+gem 'coffee-rails'
+gem 'sass'
+gem 'sqlite3'

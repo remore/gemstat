@@ -1,0 +1,8 @@
+gem 'dalli'
+gem 'redis'
+gem 'rake'
+gem 'pry'
+gem 'mysql2'
+gem 'activerecord'
+gem 'dm-mysql-adapter'
+gem 'data_mapper'

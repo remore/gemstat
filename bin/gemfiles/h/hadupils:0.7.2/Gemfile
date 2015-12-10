@@ -1,0 +1,5 @@
+gem 'uuid'
+gem 'bundler'
+gem 'mocha'
+gem 'rake'
+gem 'shoulda-context'

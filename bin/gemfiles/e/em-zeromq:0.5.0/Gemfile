@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'ffi'
+gem 'ffi-rzmq'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'

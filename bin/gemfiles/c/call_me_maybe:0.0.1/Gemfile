@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'awesome_print'
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'activesupport'

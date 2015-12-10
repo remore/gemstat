@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'domainr'
+gem 'thor'
+gem 'awesome_print'
+gem 'colorize'
+gem 'hirb'

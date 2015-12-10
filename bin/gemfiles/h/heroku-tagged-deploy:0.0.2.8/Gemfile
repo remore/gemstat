@@ -1,0 +1,5 @@
+gem 'heroku_san'
+gem 'auto_tagger'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

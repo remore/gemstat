@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'paperclip'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'database_cleaner'
+gem 'shoulda'
+gem 'image_size'

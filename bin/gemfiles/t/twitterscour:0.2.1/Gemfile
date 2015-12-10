@@ -1,0 +1,3 @@
+gem 'httparty'
+gem 'nokogiri'
+gem 'json_pure'

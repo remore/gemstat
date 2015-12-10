@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'aruba'
+gem 'cliutils'
+gem 'methadone'
+gem 'nokogiri'

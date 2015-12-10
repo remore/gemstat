@@ -1,0 +1,4 @@
+gem 'tilt'
+gem 'execjs'
+gem 'ember_script-source'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'countries'
+gem 'phony'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'json'
+gem 'simplecov'

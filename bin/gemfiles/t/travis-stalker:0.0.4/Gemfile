@@ -1,0 +1,5 @@
+gem 'clamp'
+gem 'pusher-client-merman'
+gem 'rake'
+gem 'scrolls'
+gem 'terminal-notifier'

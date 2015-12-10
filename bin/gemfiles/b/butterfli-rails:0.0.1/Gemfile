@@ -1,0 +1,7 @@
+gem 'butterfli'
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'yard'

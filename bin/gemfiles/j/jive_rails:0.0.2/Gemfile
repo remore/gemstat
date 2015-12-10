@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'jive-signed_request'
+gem 'jive-oauth2'
+gem 'sqlite3'

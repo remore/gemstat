@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'mixlib-cli'
+gem 'cabin'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'relax'
+gem 'activesupport'
+gem 'thoughtbot-shoulda'
+gem 'fakeweb'
+gem 'mocha'

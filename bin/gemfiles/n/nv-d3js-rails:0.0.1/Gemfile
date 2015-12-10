@@ -1,0 +1,2 @@
+gem 'railties'
+gem 'd3js-rails'

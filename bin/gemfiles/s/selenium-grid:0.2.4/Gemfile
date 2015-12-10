@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'newgem'
+gem 'lsof'
+gem 'hoe'

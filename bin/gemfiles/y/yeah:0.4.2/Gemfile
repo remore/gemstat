@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'minitest'
+gem 'opal-minitest'
+gem 'yard'
+gem 'kramdown'

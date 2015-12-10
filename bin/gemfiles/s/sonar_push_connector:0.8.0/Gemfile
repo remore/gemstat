@@ -1,0 +1,5 @@
+gem 'sonar_connector'
+gem 'activesupport'
+gem 'json_pure'
+gem 'rspec'
+gem 'rr'

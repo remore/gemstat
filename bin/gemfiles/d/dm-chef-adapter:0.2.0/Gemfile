@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'dm-core'
+gem 'dm-serializer'
+gem 'dalli'

@@ -1,0 +1,6 @@
+gem 'rqrcode'
+gem 'prawn'
+gem 'qrio'
+gem 'mini_magick'
+gem 'mocha'
+gem 'rake'

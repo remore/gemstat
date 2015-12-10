@@ -1,0 +1,7 @@
+gem 'resque'
+gem 'rails'
+gem 'rspec'
+gem 'mocha'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

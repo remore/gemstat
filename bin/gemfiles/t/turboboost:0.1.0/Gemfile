@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'turbolinks'
+gem 'coffee-rails'
+gem 'jquery-rails'
+gem 'bundler'
+gem 'rake'

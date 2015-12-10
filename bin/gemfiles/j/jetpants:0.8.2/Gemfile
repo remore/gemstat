@@ -1,0 +1,8 @@
+gem 'mysql2'
+gem 'sequel'
+gem 'net-ssh'
+gem 'pry'
+gem 'thor'
+gem 'highline'
+gem 'colored'
+gem 'collins_client'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rails'
+gem 'rake'
+gem 'rspec'
+gem 'railties'
+gem 'simplecov'
+gem 'simplecov-json'
+gem 'simplecov-rcov'

@@ -1,0 +1,4 @@
+gem 'text-table'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'

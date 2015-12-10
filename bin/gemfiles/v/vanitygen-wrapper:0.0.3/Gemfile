@@ -1,0 +1,7 @@
+gem 'mkfifo'
+gem 'bundler'
+gem 'bitcoin-ruby'
+gem 'ffi'
+gem 'rake'
+gem 'rspec'
+gem 'wrong'

@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'nokogiri'
+gem 'fastercsv'
+gem 'rspec'
+gem 'yard'

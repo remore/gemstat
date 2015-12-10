@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'oauth'
+gem 'json_pure'
+gem 'nokogiri'
+gem 'test-unit'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'redgreen'
+gem 'shoulda'
+gem 'rr'

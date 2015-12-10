@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'

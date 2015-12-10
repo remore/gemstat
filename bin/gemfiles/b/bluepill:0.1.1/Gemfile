@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'blue-daemons'
+gem 'state_machine'
+gem 'bundler'

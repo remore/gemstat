@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'colorize'
+gem 'net-ssh'
+gem 'peach'
+gem 'thor'

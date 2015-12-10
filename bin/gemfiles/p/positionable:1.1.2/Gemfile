@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rspec'
+gem 'sqlite3'
+gem 'simplecov'
+gem 'factory_girl'
+gem 'byebug'
+gem 'activerecord'

@@ -1,0 +1,7 @@
+gem 'paint'
+gem 'rest-client'
+gem 'trollop'
+gem 'terminal-table'
+gem 'gem-release'
+gem 'bundler'
+gem 'rake'

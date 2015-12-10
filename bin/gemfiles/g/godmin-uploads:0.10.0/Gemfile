@@ -1,0 +1,5 @@
+gem 'godmin'
+gem 'refile'
+gem 'mini_magick'
+gem 'bundler'
+gem 'rake'

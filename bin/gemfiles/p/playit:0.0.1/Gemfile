@@ -1,0 +1,4 @@
+gem 'multi_json'
+gem 'highline'
+gem 'mocha'
+gem 'rake'

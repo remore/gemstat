@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'chronic_duration'
+gem 'canfig'
+gem 'rake'
+gem 'rspec'

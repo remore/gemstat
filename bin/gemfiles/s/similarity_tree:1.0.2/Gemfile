@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'fast_html_diff'
+gem 'gsl'
+gem 'tf-idf-similarity'
+gem 'ruby-progressbar'

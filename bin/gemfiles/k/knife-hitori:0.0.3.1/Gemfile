@@ -1,0 +1,6 @@
+gem 'chef'
+gem 'knife-ec2'
+gem 'erubis'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

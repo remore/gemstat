@@ -1,0 +1,4 @@
+gem 'fog'
+gem 'trollop'
+gem 'rspec'
+gem 'yard'

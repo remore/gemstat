@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'json'
+gem 'hashie'
+gem 'rest-client'
+gem 'geocoder'
+gem 'sqlite3'

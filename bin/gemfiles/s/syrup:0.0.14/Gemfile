@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'multi_json'
+gem 'rspec'
+gem 'debugger'
+gem 'rake'

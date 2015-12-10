@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'mime-types'
+gem 'OptionParser'
+gem 'hoe'

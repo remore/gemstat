@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'activesupport'
+gem 'i18n'
+gem 'delayed_job'
+gem 'sqlite3-ruby'
+gem 'rspec'
+gem 'rake'

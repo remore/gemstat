@@ -1,0 +1,4 @@
+gem 'geo_calc'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

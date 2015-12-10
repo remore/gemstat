@@ -1,0 +1,5 @@
+gem 'cmdparse'
+gem 'buzzcore'
+gem 'nokogiri'
+gem 'aws-s3'
+gem 'thoughtbot-shoulda'

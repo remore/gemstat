@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'coffee-rails'
+gem 'ace-rails-ap'
+gem 'marked-rails'

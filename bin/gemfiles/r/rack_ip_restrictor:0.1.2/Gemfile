@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'ipaddress'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

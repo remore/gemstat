@@ -1,0 +1,5 @@
+gem 'lwes'
+gem 'uuid'
+gem 'rdoc'
+gem 'flexmock'
+gem 'hoe'

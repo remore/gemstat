@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'moped'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'test_declarative'
+gem 'turn'

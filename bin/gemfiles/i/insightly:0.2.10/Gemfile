@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'json'
+gem 'rest-client'
+gem 'logger'
+gem 'activesupport'
+gem 'i18n'

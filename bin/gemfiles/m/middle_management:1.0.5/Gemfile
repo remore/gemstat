@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'delayed_job'
+gem 'heroku'
+gem 'fakeweb'
+gem 'rails'
+gem 'rspec'

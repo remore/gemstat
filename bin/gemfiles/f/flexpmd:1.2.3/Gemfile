@@ -1,0 +1,4 @@
+gem 'sprout'
+gem 'rake'
+gem 'shoulda'
+gem 'mocha'

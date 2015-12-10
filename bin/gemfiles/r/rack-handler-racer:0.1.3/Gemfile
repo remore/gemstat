@@ -1,0 +1,4 @@
+gem 'racer'
+gem 'rack'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'sqlite3'
+gem 'sequel'
+gem 'uuid'
+gem 'mime-types'
+gem 'bundler'
+gem 'rake'

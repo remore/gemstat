@@ -1,0 +1,8 @@
+gem 'commander'
+gem 'safe_yaml'
+gem 'oauth'
+gem 'ruby-smugmug'
+gem 'clipboard'
+gem 'ffi'
+gem 'bundler'
+gem 'rake'

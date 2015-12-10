@@ -1,0 +1,4 @@
+gem 'rugged'
+gem 'methadone'
+gem 'levenshtein-ffi'
+gem 'bundler'

@@ -1,0 +1,8 @@
+gem 'sauce'
+gem 'sauce-connect'
+gem 'audible'
+gem 'watir-webdriver'
+gem 'bundler'
+gem 'jeweler'
+gem 'capybara'
+gem 'capybara-webkit'

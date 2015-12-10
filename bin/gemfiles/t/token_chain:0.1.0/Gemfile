@@ -1,0 +1,6 @@
+gem 'squares'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rspec-given'

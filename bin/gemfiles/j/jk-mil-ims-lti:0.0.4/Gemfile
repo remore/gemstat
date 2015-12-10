@@ -1,0 +1,5 @@
+gem 'builder'
+gem 'oauth'
+gem 'uuid'
+gem 'rspec'
+gem 'ruby-debug'

@@ -1,0 +1,4 @@
+gem 'refinerycms-core'
+gem 'refinerycms-images'
+gem 'refinerycms-pages'
+gem 'refinerycms-resources'

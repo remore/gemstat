@@ -1,0 +1,2 @@
+gem 'tumblr_client'
+gem 'logger'

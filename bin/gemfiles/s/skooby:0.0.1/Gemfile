@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'mocha'
+gem 'vcr'
+gem 'httparty'
+gem 'nokogiri'

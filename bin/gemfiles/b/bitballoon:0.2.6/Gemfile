@@ -1,0 +1,5 @@
+gem 'oauth2'
+gem 'slop'
+gem 'highline'
+gem 'minitest'
+gem 'webmock'

@@ -1,0 +1,4 @@
+gem 'gpr'
+gem 'utils_drawer'
+gem 'bundler'
+gem 'rake'

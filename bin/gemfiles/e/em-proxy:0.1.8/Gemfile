@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'rspec'
+gem 'em-http-request'
+gem 'ansi'
+gem 'rake'
+gem 'posix-spawn'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'babel-transpiler'
+gem 'sprockets'
+gem 'sprockets-es6'

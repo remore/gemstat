@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'pgq'
+gem 'haml-rails'
+gem 'will_paginate'
+gem 'pg'

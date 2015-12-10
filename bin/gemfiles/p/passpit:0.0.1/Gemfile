@@ -1,0 +1,6 @@
+gem 'jwt'
+gem 'clipboard'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

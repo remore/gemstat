@@ -1,0 +1,5 @@
+gem 'serialport'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'serialport'

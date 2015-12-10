@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'jenkins_api_client'
+gem 'activesupport'
+gem 'chronic'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

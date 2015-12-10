@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'css_parser'
+gem 'rails'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'nokogiri'
+gem 'css_parser'

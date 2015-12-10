@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'fluentd'
+gem 'json'
+gem 'iron_mq'

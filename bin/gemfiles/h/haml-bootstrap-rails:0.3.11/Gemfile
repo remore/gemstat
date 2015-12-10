@@ -1,0 +1,6 @@
+gem 'haml'
+gem 'activesupport'
+gem 'actionpack'
+gem 'railties'
+gem 'rails'
+gem 'bundler'

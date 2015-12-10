@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'skytap-yf'
+gem 'rubyzip'
+gem 'sqlite3'

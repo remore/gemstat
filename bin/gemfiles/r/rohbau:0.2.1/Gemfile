@@ -1,0 +1,6 @@
+gem 'thread_safe'
+gem 'bound'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'simplecov'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'growl'
+gem 'rake'
+gem 'rb-fsevent'
+gem 'growl'

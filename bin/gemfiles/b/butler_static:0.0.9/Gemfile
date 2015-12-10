@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'rails'
+gem 'minitest'
+gem 'guard-minitest'
+gem 'turn'

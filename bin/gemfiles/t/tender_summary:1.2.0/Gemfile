@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'addressable'
+gem 'actionmailer'
+gem 'shoulda'

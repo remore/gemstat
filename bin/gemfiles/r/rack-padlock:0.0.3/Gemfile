@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rainbow'
+gem 'selenium-webdriver'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rack-test'

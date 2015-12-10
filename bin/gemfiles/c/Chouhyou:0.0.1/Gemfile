@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'prawn'
+gem 'prawn/table'
+gem 'Sima_Library'
+gem 'thor'
+gem 'Choco_Library'

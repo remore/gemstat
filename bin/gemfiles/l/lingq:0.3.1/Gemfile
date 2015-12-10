@@ -1,0 +1,6 @@
+gem 'thoughtbot-shoulda'
+gem 'httparty'
+gem 'bundler'
+gem 'test-unit'
+gem 'webmock'
+gem 'mocha'

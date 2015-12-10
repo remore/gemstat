@@ -1,0 +1,4 @@
+gem 'stark'
+gem 'rdoc'
+gem 'rack'
+gem 'hoe'

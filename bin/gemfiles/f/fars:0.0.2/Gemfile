@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'rake'
+gem 'shoulda'
+gem 'pg'
+gem 'database_cleaner'

@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'httparty'
+gem 'twitter'
+gem 'nokogiri'
+gem 'whois'
+gem 'dnsruby'
+gem 'bundler'
+gem 'rake'

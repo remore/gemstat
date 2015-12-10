@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'sauce'
+gem 'sauce-connect'
+gem 'rspec-expectations'
+gem 'capybara'

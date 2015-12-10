@@ -1,0 +1,4 @@
+gem 'test-unit'
+gem 'shoulda'
+gem 'ruby-debug19'
+gem 'active_support'

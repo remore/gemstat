@@ -1,0 +1,4 @@
+gem 'trollop'
+gem 'octokit'
+gem 'simplecov'
+gem 'vcr'

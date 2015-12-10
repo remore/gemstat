@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coderay'
+gem 'rubyzip'
+gem 'httparty'

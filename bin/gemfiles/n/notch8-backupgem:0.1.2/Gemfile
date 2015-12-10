@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'runt'
+gem 'net-ssh'
+gem 'madeleine'
+gem 'right_aws'

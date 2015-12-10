@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'multi_json'
+gem 'colored'
+gem 'facter'
+gem 'rubyXL'
+gem 'rubyzip'

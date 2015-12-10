@@ -1,0 +1,5 @@
+gem 'symphony'
+gem 'net-ssh'
+gem 'net-sftp'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'gem_hadar'
+gem 'simplecov'
+gem 'minitest_tu_shim'
+gem 'tins'

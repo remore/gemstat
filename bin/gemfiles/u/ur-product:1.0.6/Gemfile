@@ -1,0 +1,7 @@
+gem 'yajl-ruby'
+gem 'rsolr'
+gem 'rsolr-ext'
+gem 'rest-client'
+gem 'cucumber'
+gem 'rspec'
+gem 'fakeweb'

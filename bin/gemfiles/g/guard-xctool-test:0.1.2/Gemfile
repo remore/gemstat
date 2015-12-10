@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'xcodeproj'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

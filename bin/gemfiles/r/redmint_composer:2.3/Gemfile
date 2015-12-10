@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'thor'
+gem 'rake'
+gem 'rspec'
+gem 'mg'

@@ -1,0 +1,8 @@
+gem 'props'
+gem 'logutils'
+gem 'textutils'
+gem 'activerecord'
+gem 'props-activerecord'
+gem 'logutils-activerecord'
+gem 'rdoc'
+gem 'hoe'

@@ -1,0 +1,5 @@
+gem 'sax-machine'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'loofah'
+gem 'rspec'

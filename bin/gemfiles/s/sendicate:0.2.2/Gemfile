@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'
+gem 'jeweler'
+gem 'bundler'

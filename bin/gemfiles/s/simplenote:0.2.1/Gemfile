@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'fakeweb'
+gem 'vcr'
+gem 'httparty'

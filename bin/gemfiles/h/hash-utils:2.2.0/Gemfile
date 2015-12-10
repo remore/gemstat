@@ -1,0 +1,6 @@
+gem 'ruby-version'
+gem 'bundler'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

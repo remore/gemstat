@@ -1,0 +1,4 @@
+gem 'testability-driver'
+gem 'rails'
+gem 'zippy'
+gem 'sqlite3-ruby'

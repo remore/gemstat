@@ -1,0 +1,2 @@
+gem 'riak-client'
+gem 'protest'

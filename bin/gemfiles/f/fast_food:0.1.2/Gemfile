@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec'
+gem 'capistrano'
+gem 'capistrano-ext'

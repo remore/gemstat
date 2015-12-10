@@ -1,0 +1,4 @@
+gem 'rserve-client'
+gem 'spec-more'
+gem 'bundler'
+gem 'jeweler'

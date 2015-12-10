@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'mono_logger'
+gem 'net-ssh'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakefs'

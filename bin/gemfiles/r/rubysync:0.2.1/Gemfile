@@ -1,0 +1,6 @@
+gem 'ruby-net-ldap'
+gem 'activesupport'
+gem 'activerecord'
+gem 'simpleconsole'
+gem 'contacts'
+gem 'hoe'

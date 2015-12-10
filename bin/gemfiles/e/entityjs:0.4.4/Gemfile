@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'jasmine'
+gem 'sinatra'
+gem 'coffee-script'
+gem 'uglifier'
+gem 'json'
+gem 'cobravsmongoose'
+gem 'cssmin'

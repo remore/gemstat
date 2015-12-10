@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'mock_redis'
+gem 'simplecov'
+gem 'sqlite3'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rspec'
+gem 'pry'

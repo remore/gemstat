@@ -1,0 +1,5 @@
+gem 'json_pure'
+gem 'resource_accessor'
+gem 'thor'
+gem 'gemspec_deps_gen'
+gem 'gemcutter'

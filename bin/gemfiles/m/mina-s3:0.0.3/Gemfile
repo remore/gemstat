@@ -1,0 +1,4 @@
+gem 'mina'
+gem 'aws-sdk'
+gem 'mime-types'
+gem 'rspec'

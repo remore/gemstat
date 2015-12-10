@@ -1,0 +1,5 @@
+gem 'shoes-highlighter'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

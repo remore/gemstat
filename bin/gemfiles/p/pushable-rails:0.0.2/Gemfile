@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'pusher'
+gem 'active_model_serializers'
+gem 'bundler'
+gem 'rake'
+gem 'database_cleaner'
+gem 'sqlite3'
+gem 'rspec'

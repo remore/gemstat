@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'jakewendt-ruby_extension'
+gem 'jakewendt-rails_extension'
+gem 'ryanb-acts-as-list'

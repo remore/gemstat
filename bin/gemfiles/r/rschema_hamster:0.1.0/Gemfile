@@ -1,0 +1,6 @@
+gem 'hamster'
+gem 'rschema'
+gem 'pry'
+gem 'rake'
+gem 'awesome_print'
+gem 'rspec'

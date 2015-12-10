@@ -1,0 +1,5 @@
+gem 'veewee'
+gem 'childprocess'
+gem 'erubis'
+gem 'mysql2'
+gem 'rspec'

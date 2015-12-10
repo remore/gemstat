@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'xml-sitemap'
+gem 'celluloid'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'

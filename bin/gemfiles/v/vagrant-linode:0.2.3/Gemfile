@@ -1,0 +1,6 @@
+gem 'linodeapi'
+gem 'json'
+gem 'log4r'
+gem 'rake'
+gem 'rspec'
+gem 'aruba'

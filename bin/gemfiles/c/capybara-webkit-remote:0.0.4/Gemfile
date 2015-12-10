@@ -1,0 +1,5 @@
+gem 'capybara-webkit'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

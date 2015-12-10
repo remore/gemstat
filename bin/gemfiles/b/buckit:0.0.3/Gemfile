@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'methadone'
+gem 'rspec'

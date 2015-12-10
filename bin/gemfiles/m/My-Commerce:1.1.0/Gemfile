@@ -1,0 +1,6 @@
+gem 'My-Commerce_core'
+gem 'My-Commerce_auth'
+gem 'My-Commerce_api'
+gem 'My-Commerce_dash'
+gem 'My-Commerce_sample'
+gem 'My-Commerce_promo'

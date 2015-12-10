@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'simplecov'

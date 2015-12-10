@@ -1,0 +1,8 @@
+gem 'dataflow'
+gem 'yogo-support'
+gem 'rake'
+gem 'jeweler'
+gem 'rspec'
+gem 'cucumber'
+gem 'yard'
+gem 'ruby-debug'

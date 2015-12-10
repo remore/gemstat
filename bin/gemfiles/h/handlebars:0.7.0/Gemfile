@@ -1,0 +1,4 @@
+gem 'therubyracer'
+gem 'handlebars-source'
+gem 'rake'
+gem 'rspec'

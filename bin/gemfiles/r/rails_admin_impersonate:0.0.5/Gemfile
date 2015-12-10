@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rails_admin'
+gem 'bundler'
+gem 'rake'

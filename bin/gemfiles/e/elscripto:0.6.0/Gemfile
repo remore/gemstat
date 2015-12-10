@@ -1,0 +1,2 @@
+gem 'nutrun-string'
+gem 'rspec'

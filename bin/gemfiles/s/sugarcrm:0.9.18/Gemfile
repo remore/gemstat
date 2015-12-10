@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'json'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'

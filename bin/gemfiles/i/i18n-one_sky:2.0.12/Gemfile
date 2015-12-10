@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'one_sky'
+gem 'i18n-active_record'
+gem 'activesupport'
+gem 'memoist'
+gem 'rspec'
+gem 'bundler'

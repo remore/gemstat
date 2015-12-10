@@ -1,0 +1,4 @@
+gem 'middleman-core'
+gem 'therubyracer'
+gem 'bundler'
+gem 'rake'

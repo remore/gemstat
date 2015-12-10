@@ -1,0 +1,8 @@
+gem 'bio-logger'
+gem 'bio'
+gem 'rake'
+gem 'bio-bigbio'
+gem 'cucumber'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'bootstrap_forms'
+gem 'httparty'
+gem 'will_paginate-bootstrap'
+gem 'will-paginate-i18n'

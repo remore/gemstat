@@ -1,0 +1,5 @@
+gem 'treetop'
+gem 'pandoc-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

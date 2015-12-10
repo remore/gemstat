@@ -1,0 +1,6 @@
+gem 'kramdown'
+gem 'haml'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'rdiscount'

@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rspec-rails'
+gem 'rails'
+gem 'devise'

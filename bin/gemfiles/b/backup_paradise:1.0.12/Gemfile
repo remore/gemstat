@@ -1,0 +1,7 @@
+gem 'colour_aid'
+gem 'alias_e'
+gem 'cliner'
+gem 'save_file'
+gem 'opn'
+gem 'esystem'
+gem 'try_syck'

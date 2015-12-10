@@ -1,0 +1,6 @@
+gem 'rake-performance'
+gem 'bundler'
+gem 'jeweler'
+gem 'rails'
+gem 'mysql2'
+gem 'sqlite3'

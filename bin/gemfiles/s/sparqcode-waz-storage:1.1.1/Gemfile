@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'ruby-hmac'
+gem 'rspec'
+gem 'rcov'
+gem 'mocha'

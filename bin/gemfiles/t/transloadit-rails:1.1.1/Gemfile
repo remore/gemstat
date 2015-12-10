@@ -1,0 +1,6 @@
+gem 'transloadit'
+gem 'railties'
+gem 'rake'
+gem 'simplecov'
+gem 'yard'
+gem 'kramdown'

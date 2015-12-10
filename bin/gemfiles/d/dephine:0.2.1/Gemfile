@@ -1,0 +1,2 @@
+gem 'ncursesw'
+gem 'open-uri-cached'

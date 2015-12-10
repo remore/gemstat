@@ -1,0 +1,4 @@
+gem 'elasticsearch'
+gem 'activesupport'
+gem 'mysql2'
+gem 'bundler'

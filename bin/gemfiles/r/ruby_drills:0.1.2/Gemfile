@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'colorize'
+gem 'httparty'
+gem 'rake'
+gem 'rspec'
+gem 'wrong'

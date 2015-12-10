@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

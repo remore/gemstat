@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'redis'
+gem 'yajl-ruby'
+gem 'capybara'
+gem 'rspec-rails'
+gem 'jeweler'

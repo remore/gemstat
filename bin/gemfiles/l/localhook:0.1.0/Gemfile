@@ -1,0 +1,7 @@
+gem 'claide'
+gem 'em-http-request'
+gem 'em-eventsource'
+gem 'yajl-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

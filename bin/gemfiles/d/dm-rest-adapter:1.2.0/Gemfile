@@ -1,0 +1,6 @@
+gem 'dm-serializer'
+gem 'dm-validations'
+gem 'fakeweb'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'net-sftp'
+gem 'net-ssh'
+gem 'rspec'
+gem 'rcov'

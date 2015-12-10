@@ -1,0 +1,4 @@
+gem 'mongo_mapper'
+gem 'bcrypt-ruby'
+gem 'mongo_mapper'
+gem 'bcrypt-ruby'

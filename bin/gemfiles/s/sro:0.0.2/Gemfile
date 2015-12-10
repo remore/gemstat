@@ -1,0 +1,4 @@
+gem 'uuidtools'
+gem 'bundler'
+gem 'pry'
+gem 'rspec'

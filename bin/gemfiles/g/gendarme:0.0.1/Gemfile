@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-expectations'

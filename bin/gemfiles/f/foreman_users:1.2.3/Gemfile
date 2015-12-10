@@ -1,0 +1,5 @@
+gem 'deface'
+gem 'nested_form'
+gem 'compass-rails'
+gem 'rubocop'
+gem 'rdoc'

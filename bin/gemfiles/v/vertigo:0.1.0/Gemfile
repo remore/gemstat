@@ -1,0 +1,5 @@
+gem 'soap4r'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'
+gem 'yard'

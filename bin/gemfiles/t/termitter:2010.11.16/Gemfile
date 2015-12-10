@@ -1,0 +1,4 @@
+gem 'twitter_oauth'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

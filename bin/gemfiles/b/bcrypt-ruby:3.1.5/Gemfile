@@ -1,0 +1,4 @@
+gem 'rake-compiler'
+gem 'rspec'
+gem 'rdoc'
+gem 'bcrypt'

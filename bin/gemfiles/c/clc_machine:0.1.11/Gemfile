@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'clc-chef-metal-vsphere'
+gem 'chef-vault'
+gem 'chef'

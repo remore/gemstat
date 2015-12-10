@@ -1,0 +1,5 @@
+gem 'impala'
+gem 'rbhive'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

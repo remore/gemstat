@@ -1,0 +1,4 @@
+gem 'bones-rpc'
+gem 'erlang-etf'
+gem 'bundler'
+gem 'rake'

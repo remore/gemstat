@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'moji'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'pry'

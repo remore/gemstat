@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'rspec'
+gem 'aruba'
+gem 'rake'
+gem 'methadone'
+gem 'prawn'

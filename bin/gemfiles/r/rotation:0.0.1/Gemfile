@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'contest'
+gem 'redgreen'
+gem 'thor'

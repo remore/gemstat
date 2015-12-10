@@ -1,0 +1,5 @@
+gem 'walrat'
+gem 'wopen3'
+gem 'mkdtemp'
+gem 'rspec'
+gem 'yard'

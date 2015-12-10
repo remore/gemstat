@@ -1,0 +1,8 @@
+gem 'sonar_connector'
+gem 'savon'
+gem 'ntlm-http'
+gem 'httpclient'
+gem 'fetch_in'
+gem 'rfc822_util'
+gem 'rspec'
+gem 'rr'

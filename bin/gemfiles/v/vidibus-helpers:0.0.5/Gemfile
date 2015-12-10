@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'rspec'
+gem 'rcov'

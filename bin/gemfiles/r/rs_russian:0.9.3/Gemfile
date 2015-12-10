@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'unicode'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

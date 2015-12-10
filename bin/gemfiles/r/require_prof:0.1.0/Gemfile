@@ -1,0 +1,4 @@
+gem 'text-table'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

@@ -1,0 +1,7 @@
+gem 'rails-assets-angular'
+gem 'rails-assets-angular-formly'
+gem 'rails-assets-angular-formly-templates-bootstrap'
+gem 'rails-assets-bootstrap'
+gem 'rails-assets-api-check'
+gem 'bundler'
+gem 'rake'

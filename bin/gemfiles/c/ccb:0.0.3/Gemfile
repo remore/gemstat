@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'cli-colorize'
+gem 'hirb'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

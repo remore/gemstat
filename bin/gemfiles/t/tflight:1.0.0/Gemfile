@@ -1,0 +1,2 @@
+gem 'commander'
+gem 'rest-client'

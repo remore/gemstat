@@ -1,0 +1,4 @@
+gem 'linux_input'
+gem 'bundler'
+gem 'rake'
+gem 'ffi-swig-generator'

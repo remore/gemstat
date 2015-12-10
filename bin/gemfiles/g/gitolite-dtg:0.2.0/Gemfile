@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'forgery'
+gem 'rdoc'
+gem 'simplecov'
+gem 'grit'
+gem 'hashery'
+gem 'gratr19'

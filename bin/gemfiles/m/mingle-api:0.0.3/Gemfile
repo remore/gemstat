@@ -1,0 +1,6 @@
+gem 'api-auth'
+gem 'multipart-post'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

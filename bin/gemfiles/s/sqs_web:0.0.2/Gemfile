@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'aws-sdk'
+gem 'rspec'
+gem 'rails'
+gem 'capybara'
+gem 'codeclimate-test-reporter'
+gem 'byebug'
+gem 'capybara-webkit'

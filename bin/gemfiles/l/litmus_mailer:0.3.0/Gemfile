@@ -1,0 +1,5 @@
+gem 'litmus'
+gem 'actionmailer'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

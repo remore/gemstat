@@ -1,0 +1,5 @@
+gem 'rbvmomi'
+gem 'netaddr'
+gem 'mixlib-config'
+gem 'bundler'
+gem 'rake'

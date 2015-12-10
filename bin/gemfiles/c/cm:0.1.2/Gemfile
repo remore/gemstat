@@ -1,0 +1,5 @@
+gem 'nucleon'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'rdoc'

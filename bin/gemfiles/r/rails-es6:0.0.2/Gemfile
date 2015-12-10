@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'sprockets-rails'
+gem 'sprockets'
+gem 'tilt'
+gem 'babel-transpiler'

@@ -1,0 +1,4 @@
+gem 'mongo_mapper'
+gem 'miso'
+gem 'factory_girl'
+gem 'shoulda'

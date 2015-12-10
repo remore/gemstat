@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'json'
+gem 'faker'
+gem 'faraday'
+gem 'right_aws'

@@ -1,0 +1,4 @@
+gem 'clamp'
+gem 'mustache'
+gem 'rake'
+gem 'rspec'

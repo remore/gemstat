@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'activemodel'
+gem 'bundler'
+gem 'rails'

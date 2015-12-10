@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'rails'
+gem 'core_utilities'
+gem 'sqlite3'

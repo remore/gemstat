@@ -1,0 +1,5 @@
+gem 'cheetah'
+gem 'docopt'
+gem 'nokogiri'
+gem 'redcarpet'
+gem 'rspec'

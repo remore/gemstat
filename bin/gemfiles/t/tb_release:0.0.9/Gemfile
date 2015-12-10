@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'capistrano'
+gem 'thor'
+gem 'capistrano'

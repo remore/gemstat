@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'elasticsearch'
+gem 'aws-sdk'
+gem 'thor'

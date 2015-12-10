@@ -1,0 +1,8 @@
+gem 'clamp'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rubocop-checkstyle_formatter'
+gem 'gettext'
+gem 'minitest'
+gem 'simplecov'

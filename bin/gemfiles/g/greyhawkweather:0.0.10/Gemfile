@@ -1,0 +1,3 @@
+gem 'rangehash'
+gem 'rspec'
+gem 'rcov'

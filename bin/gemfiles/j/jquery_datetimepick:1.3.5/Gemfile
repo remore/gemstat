@@ -1,0 +1,2 @@
+gem 'jquery_datepick'
+gem 'railties'

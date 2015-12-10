@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'epubinfo_with_toc'
+gem 'rubyzip'
+gem 'nokogiri'

@@ -1,0 +1,5 @@
+gem 'motion-cocoapods'
+gem 'motion-require'
+gem 'afmotion'
+gem 'sugarcube'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'vagrant'
+gem 'rake'
+gem 'jeweler'

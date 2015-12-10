@@ -1,0 +1,7 @@
+gem 'cgminer_api_client'
+gem 'mongoid'
+gem 'rails'
+gem 'rake'
+gem 'bundler'
+gem 'pry'
+gem 'rspec'

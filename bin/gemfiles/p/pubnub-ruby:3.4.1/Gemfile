@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'httparty'
+gem 'persistent_httparty'
+gem 'em-http-request'
+gem 'uuid'
+gem 'json'

@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'log4r'
+gem 'ripl-readline-em'
+gem 'rake'
+gem 'version'

@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rack'
+gem 'bundler'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'

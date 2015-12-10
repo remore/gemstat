@@ -1,0 +1,6 @@
+gem 'diffux-core'
+gem 'oily_png'
+gem 'selenium-webdriver'
+gem 'thin'
+gem 'sinatra'
+gem 's3'

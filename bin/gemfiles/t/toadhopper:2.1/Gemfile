@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'test-unit'
+gem 'fakeweb'
+gem 'travis-lint'
+gem 'nokogiri'

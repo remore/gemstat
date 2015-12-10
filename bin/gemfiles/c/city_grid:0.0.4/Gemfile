@@ -1,0 +1,4 @@
+gem 'curb'
+gem 'json'
+gem 'hashie'
+gem 'pry'

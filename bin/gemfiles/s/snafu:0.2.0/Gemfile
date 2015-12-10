@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'rake'
+gem 'timecop'
+gem 'httparty'

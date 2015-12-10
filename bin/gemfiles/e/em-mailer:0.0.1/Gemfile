@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'mail'
+gem 'yajl-ruby'
+gem 'actionmailer'
+gem 'rspec'
+gem 'em-spec'

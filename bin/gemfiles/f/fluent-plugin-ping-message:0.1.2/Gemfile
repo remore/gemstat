@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'fluent-mixin-config-placeholders'
+gem 'rake'
+gem 'pry'
+gem 'pry-nav'

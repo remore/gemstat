@@ -1,0 +1,5 @@
+gem 'right_aws'
+gem 'thor'
+gem 'minitar'
+gem 'rake'
+gem 'bundler'

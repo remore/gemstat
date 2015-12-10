@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'coveralls'
+gem 'faker'
+gem 'minitest'
+gem 'rake'
+gem 'rspec'
+gem 'celluloid-io'
+gem 'resolv-ipv6favor'

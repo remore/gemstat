@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rack-test'
+gem 'sinatra'
+gem 'activesupport'
+gem 'builder'

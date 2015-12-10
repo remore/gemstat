@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'activesupport'
+gem 'whenever'
+gem 'easy_app_helper'
+gem 'elasticsearch'

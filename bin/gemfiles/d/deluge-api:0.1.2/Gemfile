@@ -1,0 +1,4 @@
+gem 'concurrent-ruby'
+gem 'rencoder'
+gem 'bundler'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'trollop'
+gem 'roo'
+gem 'prawn'
+gem 'liquid'
+gem 'rspec'
+gem 'bundler'

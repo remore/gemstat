@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'xml-fu'
+gem 'awesome_print'
+gem 'gon-sinatra'
+gem 'json'
+gem 'sinatra'
+gem 'rack-ssl'

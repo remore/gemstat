@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'highline'
+gem 'capistrano'

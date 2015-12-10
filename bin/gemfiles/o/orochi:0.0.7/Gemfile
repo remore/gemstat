@@ -1,0 +1,8 @@
+gem 'geokit'
+gem 'geokit-rails'
+gem 'nayutaya-googlemaps-polyline'
+gem 'json'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

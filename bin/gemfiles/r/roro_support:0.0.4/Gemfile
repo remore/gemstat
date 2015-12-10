@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'watir-rails'
+gem 'rspec'
+gem 'headless'
+gem 'nokogiri'
+gem 'grit'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'httparty'
+gem 'mechanize'
+gem 'holidays'

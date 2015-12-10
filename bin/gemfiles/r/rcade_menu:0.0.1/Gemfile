@@ -1,0 +1,5 @@
+gem 'gosu'
+gem 'rcade_controls'
+gem 'rcade_colors'
+gem 'bundler'
+gem 'rake'

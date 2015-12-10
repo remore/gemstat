@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'BlueCloth'
+gem 'rails'
+gem 'rspec'
+gem 'rcov'

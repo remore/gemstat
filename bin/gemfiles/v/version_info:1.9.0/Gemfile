@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'test_notifier'
+gem 'notifier'
+gem 'coveralls'

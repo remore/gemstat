@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'mocha'
+gem 'rdoc'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

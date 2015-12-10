@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'activerecord'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'combustion'
+gem 'appraisal'
+gem 'github_changelog_generator'

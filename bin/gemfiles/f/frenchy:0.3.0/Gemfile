@@ -1,0 +1,8 @@
+gem 'json'
+gem 'bundler'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'activesupport'
+gem 'activemodel'

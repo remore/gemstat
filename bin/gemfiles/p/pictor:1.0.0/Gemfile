@@ -1,0 +1,7 @@
+gem 'blather'
+gem 'em-http-request'
+gem 'yajl-ruby'
+gem 'activesupport'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

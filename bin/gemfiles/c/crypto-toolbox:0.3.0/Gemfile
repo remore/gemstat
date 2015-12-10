@@ -1,0 +1,2 @@
+gem 'aes'
+gem 'ffi-hunspell'

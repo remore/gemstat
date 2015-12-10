@@ -1,0 +1,5 @@
+gem 'appraisal'
+gem 'capistrano-spec'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'

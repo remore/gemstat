@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'bootstrap-sass'
+gem 'lyberteam-gems-devel'
+gem 'sqlite3'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'autotest'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'yard'
+gem 'pg'

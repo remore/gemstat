@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'sequel'
+gem 'ya2yaml'
+gem 'gettext'
+gem 'jeweler'
+gem 'mocha'
+gem 'quick_magick'
+gem 'sqlite3-ruby'

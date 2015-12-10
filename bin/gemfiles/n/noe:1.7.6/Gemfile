@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'bluecloth'
+gem 'wlang'
+gem 'quickl'
+gem 'highline'
+gem 'epath'

@@ -1,0 +1,8 @@
+gem 'faker'
+gem 'colorize'
+gem 'awesome_print'
+gem 'activesupport'
+gem 'pry'
+gem 'pry-byebug'
+gem 'coderay'
+gem 'word_wrap'

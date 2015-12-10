@@ -1,0 +1,7 @@
+gem 'strelka'
+gem 'newrelic_rpm'
+gem 'hoe-mercurial'
+gem 'hoe-highline'
+gem 'rdoc'
+gem 'hoe-deveiate'
+gem 'hoe'

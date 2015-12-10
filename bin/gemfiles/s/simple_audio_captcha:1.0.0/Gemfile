@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simple_captcha2'
+gem 'espeak-ruby'

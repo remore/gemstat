@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'rspec'
+gem 'fakeout'
+gem 'mnoble-fakefs'

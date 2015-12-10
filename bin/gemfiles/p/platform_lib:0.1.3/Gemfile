@@ -1,0 +1,7 @@
+gem 'json'
+gem 'hashie'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rake'
+gem 'tomdoc'

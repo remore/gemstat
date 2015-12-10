@@ -1,0 +1,5 @@
+gem 'cabin'
+gem 'json'
+gem 'sinatra'
+gem 'ftw'
+gem 'haml'

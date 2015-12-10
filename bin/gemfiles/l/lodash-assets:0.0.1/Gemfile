@@ -1,0 +1,4 @@
+gem 'execjs'
+gem 'tilt'
+gem 'sprockets'
+gem 'yajl-ruby'

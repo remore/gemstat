@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'trollop'
+gem 'sqlite3'

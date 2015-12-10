@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'rake'
+gem 'rspec'
+gem 'scrutinizer-ocular'
+gem 'simplecov'
+gem 'activesupport'
+gem 'rails'

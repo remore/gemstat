@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

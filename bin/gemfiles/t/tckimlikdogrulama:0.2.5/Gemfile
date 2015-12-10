@@ -1,0 +1,2 @@
+gem 'savon'
+gem 'unicode_utils'

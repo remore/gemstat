@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'bundler'
+gem 'sqlite3'
+gem 'minitest-reporters'
+gem 'rake'

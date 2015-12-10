@@ -1,0 +1,4 @@
+gem 'docopt'
+gem 'rake'
+gem 'rspec'
+gem 'aruba'

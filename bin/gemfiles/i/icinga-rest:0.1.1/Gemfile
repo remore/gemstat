@@ -1,0 +1,4 @@
+gem 'json'
+gem 'addressable'
+gem 'rspec'
+gem 'ruby-debug'

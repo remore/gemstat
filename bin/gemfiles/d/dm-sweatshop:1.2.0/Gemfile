@@ -1,0 +1,7 @@
+gem 'dm-core'
+gem 'randexp'
+gem 'ParseTree'
+gem 'dm-validations'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'json_spec'

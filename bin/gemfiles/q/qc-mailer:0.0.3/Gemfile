@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'actionmailer'
+gem 'i18n'
+gem 'queue_classic'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'pry'

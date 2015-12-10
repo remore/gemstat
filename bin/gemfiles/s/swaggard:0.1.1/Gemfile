@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'rspec'
+gem 'bourne'
+gem 'simplecov'
+gem 'yard'

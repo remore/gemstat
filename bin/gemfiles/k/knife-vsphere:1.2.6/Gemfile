@@ -1,0 +1,5 @@
+gem 'filesize'
+gem 'netaddr'
+gem 'rbvmomi'
+gem 'knife-windows'
+gem 'chef'

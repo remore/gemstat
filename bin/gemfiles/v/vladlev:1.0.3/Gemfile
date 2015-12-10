@@ -1,0 +1,8 @@
+gem 'ffi'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-pride'
+gem 'pry'
+gem 'geminabox'
+gem 'simplecov'
+gem 'rake-compiler'

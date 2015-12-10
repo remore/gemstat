@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'money'
+gem 'google_currency'
+gem 'sqlite3'
+gem 'rspec'

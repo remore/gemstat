@@ -1,0 +1,8 @@
+gem 'watir-webdriver'
+gem 'american_date'
+gem 'logger'
+gem 'uuid'
+gem 'nokogiri'
+gem 'thor'
+gem 'activesupport'
+gem 'headless'

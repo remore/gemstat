@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'reek'
+gem 'rubocop'
+gem 'activemodel'

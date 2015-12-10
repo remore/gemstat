@@ -1,0 +1,6 @@
+gem 'document_hash'
+gem 'rails'
+gem 'bson'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'debugger'

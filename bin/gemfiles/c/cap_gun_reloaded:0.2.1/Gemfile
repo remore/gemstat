@@ -1,0 +1,2 @@
+gem 'spicycode-micronaut'
+gem 'mocha'

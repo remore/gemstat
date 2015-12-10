@@ -1,0 +1,5 @@
+gem 'tilt'
+gem 'haml'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

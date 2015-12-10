@@ -1,0 +1,7 @@
+gem 'twitter-stream'
+gem 'twitter_oauth'
+gem 'xmpp4r'
+gem 'avalon'
+gem 'zircon'
+gem 'tinder'
+gem 'rspec'

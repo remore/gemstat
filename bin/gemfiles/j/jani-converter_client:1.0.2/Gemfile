@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'jani-from_json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-collection_matchers'

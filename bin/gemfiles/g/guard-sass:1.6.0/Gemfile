@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'sass'
+gem 'bundler'
+gem 'rspec'

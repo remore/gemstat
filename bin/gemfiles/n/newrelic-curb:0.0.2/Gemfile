@@ -1,0 +1,2 @@
+gem 'curb'
+gem 'newrelic_rpm'

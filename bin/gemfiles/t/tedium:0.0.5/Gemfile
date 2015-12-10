@@ -1,0 +1,8 @@
+gem 'site_prism'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'actionpack'
+gem 'activemodel'

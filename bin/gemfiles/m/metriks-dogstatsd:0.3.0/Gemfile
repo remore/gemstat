@@ -1,0 +1,4 @@
+gem 'metriks'
+gem 'dogstatsd-ruby'
+gem 'rake'
+gem 'mocha'

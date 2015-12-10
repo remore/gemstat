@@ -1,0 +1,7 @@
+gem 'json_pure'
+gem 'amqp'
+gem 'bunny'
+gem 'eventmachine_httpserver'
+gem 'rake'
+gem 'mocha'
+gem 'minitest'

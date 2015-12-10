@@ -1,0 +1,5 @@
+gem 'devise'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

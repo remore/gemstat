@@ -1,0 +1,4 @@
+gem 'ransack'
+gem 'simple_form'
+gem 'bundler'
+gem 'rake'

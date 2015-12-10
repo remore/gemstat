@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'awesome_print'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'observr'

@@ -1,0 +1,7 @@
+gem 'websocket-rack'
+gem 'redcarpet'
+gem 'thin'
+gem 'rack'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

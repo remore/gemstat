@@ -1,0 +1,2 @@
+gem 'libusb'
+gem 'color-tools'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'omniauth'
+gem 'omniauth-ldap'
+gem 'omniauth-facebook'
+gem 'hydra-role-management'
+gem 'bootstrap_forms'
+gem 'sqlite3'

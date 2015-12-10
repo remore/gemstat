@@ -1,0 +1,4 @@
+gem 'sdoc'
+gem 'thor'
+gem 'colored'
+gem 'rake'

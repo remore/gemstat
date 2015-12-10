@@ -1,0 +1,7 @@
+gem 'msgpack'
+gem 'activesupport'
+gem 'redis-namespace'
+gem 'keytar'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'

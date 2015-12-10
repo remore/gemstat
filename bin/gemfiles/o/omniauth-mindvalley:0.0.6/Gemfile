@@ -1,0 +1,3 @@
+gem 'hashie'
+gem 'omniauth'
+gem 'omniauth-oauth2'

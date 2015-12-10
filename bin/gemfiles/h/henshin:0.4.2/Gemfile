@@ -1,0 +1,7 @@
+gem 'titlecase'
+gem 'directory_watcher'
+gem 'maruku'
+gem 'liquid'
+gem 'parsey'
+gem 'thoughtbot-shoulda'
+gem 'yard'

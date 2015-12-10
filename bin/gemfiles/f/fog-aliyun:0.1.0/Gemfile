@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fog-core'
+gem 'fog-json'
+gem 'ipaddress'
+gem 'xml-simple'

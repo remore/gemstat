@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'RedCloth'
+gem 'markaby'
+gem 'thin'

@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry-rails'

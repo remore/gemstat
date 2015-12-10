@@ -1,0 +1,4 @@
+gem 'tzinfo'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

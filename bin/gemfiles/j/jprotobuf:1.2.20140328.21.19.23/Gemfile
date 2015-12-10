@@ -1,0 +1,8 @@
+gem 'lazy_loader'
+gem 'rjack-protobuf'
+gem 'rjack-guava'
+gem 'rjack-slf4j'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

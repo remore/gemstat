@@ -1,0 +1,8 @@
+gem 'linkeddata'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'yard'
+gem 'rubocop'
+gem 'rubocop-rspec'
+gem 'pry-byebug'

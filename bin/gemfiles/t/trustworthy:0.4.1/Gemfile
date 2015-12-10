@@ -1,0 +1,7 @@
+gem 'aead'
+gem 'highline'
+gem 'hkdf'
+gem 'scrypt'
+gem 'test-construct'
+gem 'rspec'
+gem 'rake'

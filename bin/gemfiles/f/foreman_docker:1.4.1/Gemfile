@@ -1,0 +1,2 @@
+gem 'docker-api'
+gem 'wicked'

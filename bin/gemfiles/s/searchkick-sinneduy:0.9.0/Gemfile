@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'elasticsearch-sinneduy'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

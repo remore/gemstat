@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'rake'
+gem 'rake-compiler'
+gem 'webmock'
+gem 'activejob'
+gem 'delayed_job'

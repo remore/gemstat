@@ -1,0 +1,5 @@
+gem 'redshift-client'
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

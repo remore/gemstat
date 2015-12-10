@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'ffi'
+gem 'minitest'
+gem 'ffi_gen'
+gem 'simplecov'
+gem 'yard'

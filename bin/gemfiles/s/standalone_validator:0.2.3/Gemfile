@@ -1,0 +1,6 @@
+gem 'backports'
+gem 'hamster'
+gem 'virtus'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

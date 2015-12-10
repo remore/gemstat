@@ -1,0 +1,2 @@
+gem 'socky-client'
+gem 'rspec'

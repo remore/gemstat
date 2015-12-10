@@ -1,0 +1,4 @@
+gem 'resque'
+gem 'rake'
+gem 'rspec'
+gem 'test-unit'

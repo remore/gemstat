@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'sax-machine'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'

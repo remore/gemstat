@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'atomjs-rails'
+gem 'bundler'
+gem 'rails'
+gem 'gem-release'

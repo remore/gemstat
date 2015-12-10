@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'chromedriver-helper'
+gem 'selenium-webdriver'
+gem 'bundler'
+gem 'pry'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'mime-types'
+gem 'flash_cookie_session'
+gem 'nested_form'
+gem 'renderer'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'httparty'
+gem 'multi_json'
+gem 'httparty-icebox'

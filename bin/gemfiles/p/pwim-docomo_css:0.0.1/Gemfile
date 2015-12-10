@@ -1,0 +1,2 @@
+gem 'hpricot'
+gem 'milk1000cc-tiny_css'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'stringex'
+gem 'attr_extras'
+gem 'colorize'

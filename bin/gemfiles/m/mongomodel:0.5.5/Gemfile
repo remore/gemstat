@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'mongo'
+gem 'bundler'
+gem 'rspec'
+gem 'minitest'

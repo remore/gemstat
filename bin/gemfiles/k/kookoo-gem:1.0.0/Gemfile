@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'builder'
+gem 'jwt'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'
+gem 'rack'

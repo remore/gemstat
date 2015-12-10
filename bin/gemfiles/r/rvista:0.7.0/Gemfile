@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec'
+gem 'andand'
+gem 'chronic'

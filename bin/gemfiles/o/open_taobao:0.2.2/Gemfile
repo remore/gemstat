@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'faraday'
+gem 'rspec'
+gem 'debugger'
+gem 'autotest'
+gem 'rake'

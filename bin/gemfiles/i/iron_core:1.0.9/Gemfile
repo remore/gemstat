@@ -1,0 +1,4 @@
+gem 'rest'
+gem 'test-unit'
+gem 'minitest'
+gem 'rake'

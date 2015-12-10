@@ -1,0 +1,5 @@
+gem 'couchrest'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

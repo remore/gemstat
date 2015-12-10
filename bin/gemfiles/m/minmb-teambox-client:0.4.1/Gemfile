@@ -1,0 +1,7 @@
+gem 'minmb-teambox-client'
+gem 'rake'
+gem 'jeweler'
+gem 'rspec'
+gem 'httparty'
+gem 'oauth2'
+gem 'json'

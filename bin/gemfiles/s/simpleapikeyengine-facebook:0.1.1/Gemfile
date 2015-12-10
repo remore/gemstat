@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'koala'
+gem 'oauth2'
+gem 'simpleapikeyengine'
+gem 'sqlite3'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubygems-tasks'
+gem 'thor'
+gem 'dldinternet-mixlib-logging'

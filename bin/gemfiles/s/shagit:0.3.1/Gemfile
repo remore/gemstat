@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'haml'
+gem 'grit'
+gem 'rack-test'
+gem 'webrat'

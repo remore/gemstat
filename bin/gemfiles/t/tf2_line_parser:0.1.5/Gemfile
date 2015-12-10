@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'coveralls'
+gem 'pry-nav'
+gem 'rspec'

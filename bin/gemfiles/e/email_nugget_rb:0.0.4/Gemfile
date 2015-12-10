@@ -1,0 +1,6 @@
+gem 'uuid'
+gem 'json'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

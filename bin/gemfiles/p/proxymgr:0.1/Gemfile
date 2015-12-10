@@ -1,0 +1,6 @@
+gem 'docopt'
+gem 'zoology'
+gem 'absolute_time'
+gem 'yajl-ruby'
+gem 'zookeeper'
+gem 'state_machine'

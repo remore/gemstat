@@ -1,0 +1,6 @@
+gem 'horza'
+gem 'bundler'
+gem 'activerecord'
+gem 'rspec'
+gem 'sqlite3'
+gem 'byebug'

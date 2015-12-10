@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'json'
+gem 'simplecov'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'

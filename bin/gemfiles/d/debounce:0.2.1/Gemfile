@@ -1,0 +1,6 @@
+gem 'redis-semaphore'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mock_redis'
+gem 'pry'

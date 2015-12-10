@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'hashie'
+gem 'savon'
+gem 'savon'
+gem 'hashie'

@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'capistrano-composer'
+gem 'capistrano-file-permissions'
+gem 'bundler'
+gem 'rake'

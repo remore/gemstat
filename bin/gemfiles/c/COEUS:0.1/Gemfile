@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rdf'
+gem 'sparql'
+gem 'json'
+gem 'rake'

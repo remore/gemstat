@@ -1,0 +1,4 @@
+gem 'sys_cmd'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

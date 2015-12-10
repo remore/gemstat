@@ -1,0 +1,5 @@
+gem 'bunny'
+gem 'vx-common-rack-builder'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

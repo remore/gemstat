@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pandoc-ruby'
+gem 'front_matter_parser'
+gem 'qiniu'

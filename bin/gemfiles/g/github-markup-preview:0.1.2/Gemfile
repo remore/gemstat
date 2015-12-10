@@ -1,0 +1,2 @@
+gem 'github-markup'
+gem 'watchr'

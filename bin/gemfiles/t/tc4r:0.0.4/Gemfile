@@ -1,0 +1,8 @@
+gem 'commander'
+gem 'nestful'
+gem 'terminal-table'
+gem 'activemodel'
+gem 'rspec'
+gem 'fakeweb'
+gem 'fakeweb-matcher'
+gem 'simplecov'

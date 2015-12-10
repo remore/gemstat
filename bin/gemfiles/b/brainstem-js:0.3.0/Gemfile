@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'coffee-script'
+gem 'jasmine-core'
+gem 'rake-pipeline-web-filters'

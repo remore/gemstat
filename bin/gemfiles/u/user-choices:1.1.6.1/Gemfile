@@ -1,0 +1,4 @@
+gem 'xml-simple'
+gem 's4t-utils'
+gem 'builder'
+gem 'hoe'

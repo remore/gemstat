@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'hashie'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'vcr'

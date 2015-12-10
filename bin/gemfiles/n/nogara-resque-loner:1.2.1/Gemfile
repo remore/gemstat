@@ -1,0 +1,6 @@
+gem 'resque'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'
+gem 'mock_redis'
+gem 'yajl-ruby'

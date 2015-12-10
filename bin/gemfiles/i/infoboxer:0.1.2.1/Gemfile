@@ -1,0 +1,6 @@
+gem 'htmlentities'
+gem 'procme'
+gem 'rest-client'
+gem 'addressable'
+gem 'terminal-table'
+gem 'backports'

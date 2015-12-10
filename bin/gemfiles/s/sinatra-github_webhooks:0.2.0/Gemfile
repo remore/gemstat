@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'rack-github_webhooks'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'rack-test'
+gem 'simplecov'

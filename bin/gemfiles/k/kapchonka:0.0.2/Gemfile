@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'slim'
+gem 'rmagick'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'redis'
+gem 'memcached'

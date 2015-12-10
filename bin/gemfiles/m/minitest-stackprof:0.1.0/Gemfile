@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'stackprof'
+gem 'bundler'
+gem 'rake'

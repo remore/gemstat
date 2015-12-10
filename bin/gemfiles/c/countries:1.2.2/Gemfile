@@ -1,0 +1,5 @@
+gem 'i18n_data'
+gem 'currencies'
+gem 'rspec'
+gem 'actionview'
+gem 'yard'

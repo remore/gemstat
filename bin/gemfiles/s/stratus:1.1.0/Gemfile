@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'xml-simple'
+gem 'rest-client'
+gem 'rcov'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'commander'
+gem 'fastercsv'
+gem 'json'
+gem 'rubyforge'
+gem 'hoe'

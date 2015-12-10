@@ -1,0 +1,4 @@
+gem 'typhoeus'
+gem 'hashie'
+gem 'jeweler'
+gem 'typhoeus'

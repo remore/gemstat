@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'ruby-progressbar'
+gem 'spreadsheet'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'unindentable'

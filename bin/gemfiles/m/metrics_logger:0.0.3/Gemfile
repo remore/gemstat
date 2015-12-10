@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'faraday'
+gem 'thread_safe'
+gem 'json'

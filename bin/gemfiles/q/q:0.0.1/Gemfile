@@ -1,0 +1,2 @@
+gem 'escape_utils'
+gem 'bundler'

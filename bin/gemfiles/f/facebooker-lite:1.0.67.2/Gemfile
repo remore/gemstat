@@ -1,0 +1,4 @@
+gem 'json_pure'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

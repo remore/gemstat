@@ -1,0 +1,4 @@
+gem 'guard-compat'
+gem 'ruby-beautify'
+gem 'bundler'
+gem 'rake'

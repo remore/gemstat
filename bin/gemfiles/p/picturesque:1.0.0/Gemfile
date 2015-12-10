@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'mini_magick'
+gem 'fabrication'
+gem 'rspec-rails'
+gem 'slim-rails'
+gem 'sass-rails'
+gem 'jquery-rails'

@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'activerecord'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'sqlite3-ruby'

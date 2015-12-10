@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'twitter_oauth'
+gem 'twilio-ruby'
+gem 'rest-client'
+gem 'json'

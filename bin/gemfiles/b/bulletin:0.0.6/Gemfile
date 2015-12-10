@@ -1,0 +1,7 @@
+gem 'dm-sqlite-adapter'
+gem 'data_mapper'
+gem 'colorize'
+gem 'feedzirra'
+gem 'nokogiri'
+gem 'minitest'
+gem 'simplecov'

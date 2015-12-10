@@ -1,0 +1,5 @@
+gem 'json'
+gem 'net-scp'
+gem 'mocha'
+gem 'ruby-debug'
+gem 'delorean'

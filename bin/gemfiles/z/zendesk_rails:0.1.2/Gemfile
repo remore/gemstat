@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'zendesk_api'
+gem 'jquery-rails'
+gem 'combustion'
+gem 'rspec-rails'
+gem 'simplecov'
+gem 'capybara'
+gem 'poltergeist'

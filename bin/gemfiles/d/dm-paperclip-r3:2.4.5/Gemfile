@@ -1,0 +1,6 @@
+gem 'extlib'
+gem 'datamapper'
+gem 'shoulda'
+gem 'mocha'
+gem 'aws-s3'
+gem 'do_sqlite3'

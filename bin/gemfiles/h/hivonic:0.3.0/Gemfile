@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'rake'
+gem 'bundler'
+gem 'pry'
+gem 'mocha'
+gem 'shoulda-context'

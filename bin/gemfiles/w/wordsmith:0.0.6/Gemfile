@@ -1,0 +1,6 @@
+gem 'git'
+gem 'kindlegen'
+gem 'nokogiri'
+gem 'sass'
+gem 'rake'
+gem 'test-unit'

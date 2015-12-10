@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'colored'
+gem 'mime-types'
+gem 'newgem'
+gem 'hoe'

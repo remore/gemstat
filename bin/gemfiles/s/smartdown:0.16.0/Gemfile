@@ -1,0 +1,7 @@
+gem 'parslet'
+gem 'uk_postcode'
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'gem_publisher'
+gem 'timecop'

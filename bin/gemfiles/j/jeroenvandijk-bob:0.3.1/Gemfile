@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'ninja'
+gem 'sr-mg'
+gem 'contest'
+gem 'redgreen'
+gem 'ruby-debug'

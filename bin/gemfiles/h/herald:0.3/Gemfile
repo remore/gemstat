@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'crack'
+gem 'slop'
+gem 'hpricot'
+gem 'ruby-growl'

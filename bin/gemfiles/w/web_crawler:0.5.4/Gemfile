@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'mime-types'
+gem 'parallel'
+gem 'activesupport'
+gem 'rspec'
+gem 'fakeweb'

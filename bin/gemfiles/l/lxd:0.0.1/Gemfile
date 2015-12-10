@@ -1,0 +1,4 @@
+gem 'bogo'
+gem 'childprocess'
+gem 'pry'
+gem 'minitest'

@@ -1,0 +1,6 @@
+gem 'middleman'
+gem 'rygments'
+gem 'rack-codehighlighter'
+gem 'redcarpet'
+gem 'virtus'
+gem 'octokit'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'user-configurations'
+gem 'bundler'
+gem 'rake'
+gem 'aruba'
+gem 'cucumber'
+gem 'pry'

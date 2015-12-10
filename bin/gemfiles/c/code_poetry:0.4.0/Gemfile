@@ -1,0 +1,7 @@
+gem 'code_poetry-html'
+gem 'flay'
+gem 'flog'
+gem 'bundler'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'

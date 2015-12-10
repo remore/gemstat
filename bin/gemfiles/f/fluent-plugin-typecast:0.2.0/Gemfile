@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'rdoc'
+gem 'jeweler'
+gem 'test-unit'

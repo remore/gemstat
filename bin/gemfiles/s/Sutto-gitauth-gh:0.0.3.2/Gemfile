@@ -1,0 +1,2 @@
+gem 'brownbeagle-gitauth'
+gem 'httparty'

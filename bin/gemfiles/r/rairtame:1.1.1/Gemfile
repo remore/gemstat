@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'gli'
+gem 'uuidtools'
+gem 'colorize'
+gem 'jsonrpctcp'

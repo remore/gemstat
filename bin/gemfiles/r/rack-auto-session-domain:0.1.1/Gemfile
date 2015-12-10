@@ -1,0 +1,4 @@
+gem 'domainatrix'
+gem 'rack'
+gem 'rack/test'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'cocaine'
+gem 'bundler'
+gem 'pry'
+gem 'm'
+gem 'rake'
+gem 'minitest'
+gem 'purdytest'
+gem 'codeclimate-test-reporter'

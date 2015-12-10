@@ -1,0 +1,4 @@
+gem 'ruby-elf'
+gem 'ruby-filemagic'
+gem 'bundler'
+gem 'rake'

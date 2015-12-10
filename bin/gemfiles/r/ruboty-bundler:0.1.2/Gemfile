@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'ruboty-github'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'minitar'
+gem 'api-auth'
+gem 'rake'
+gem 'webmock'

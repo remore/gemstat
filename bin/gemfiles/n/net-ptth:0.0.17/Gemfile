@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'celluloid-io'
+gem 'http_parser.rb'
+gem 'minitest'
+gem 'cuba'
+gem 'sinatra'

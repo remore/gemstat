@@ -1,0 +1,8 @@
+gem 'hashie'
+gem 'multi_json'
+gem 'omniauth-oauth2'
+gem 'json'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'webmock'

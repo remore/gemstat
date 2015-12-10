@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'monetize'
+gem 'mechanize'
+gem 'activemodel'

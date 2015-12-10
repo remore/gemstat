@@ -1,0 +1,7 @@
+gem 'rubyzip'
+gem 'archive-tar-minitar'
+gem 'rubigen'
+gem 'net-sftp'
+gem 'net-ssh'
+gem 'rake'
+gem 'open4'

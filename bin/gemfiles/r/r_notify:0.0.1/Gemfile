@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'highline'
+gem 'choice'
+gem 'gir_ffi'

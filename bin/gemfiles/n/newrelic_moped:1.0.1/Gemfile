@@ -1,0 +1,4 @@
+gem 'newrelic_rpm'
+gem 'moped'
+gem 'rake'
+gem 'test-unit'

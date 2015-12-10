@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'orange-core'
+gem 'orange-more'
+gem 'orange-sparkles'
+gem 'rspec'
+gem 'rack-test'

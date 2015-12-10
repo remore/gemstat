@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'pg'
+gem 'activerecord-postgis-adapter'
+gem 'minitest-growl'
+gem 'minitest'

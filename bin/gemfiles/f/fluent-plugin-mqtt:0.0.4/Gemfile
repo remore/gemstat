@@ -1,0 +1,6 @@
+gem 'mqtt'
+gem 'fluentd'
+gem 'yajl-ruby'
+gem 'test-unit'
+gem 'bundler'
+gem 'rake'

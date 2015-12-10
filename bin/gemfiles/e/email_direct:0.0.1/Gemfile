@@ -1,0 +1,5 @@
+gem 'serviceproxy'
+gem 'nokogiri'
+gem 'builder'
+gem 'activesupport'
+gem 'rspec'

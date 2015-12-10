@@ -1,0 +1,4 @@
+gem 'ruby_parser'
+gem 'sexp_processor'
+gem 'shoulda'
+gem 'yamltest'

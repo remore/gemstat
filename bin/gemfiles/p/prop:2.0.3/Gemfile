@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'maxitest'
+gem 'mocha'
+gem 'activesupport'
+gem 'bump'

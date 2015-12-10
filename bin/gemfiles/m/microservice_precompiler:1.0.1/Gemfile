@@ -1,0 +1,6 @@
+gem 'compass'
+gem 'sprockets'
+gem 'uglifier'
+gem 'mustache'
+gem 'yui-compressor'
+gem 'coffee-script'

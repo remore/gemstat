@@ -1,0 +1,8 @@
+gem 'coveralls'
+gem 'rake'
+gem 'minitest'
+gem 'simplecov'
+gem 'vcr'
+gem 'webmock'
+gem 'json'
+gem 'simple-rss'

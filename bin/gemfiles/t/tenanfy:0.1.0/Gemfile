@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'apartment'
+gem 'request_store'
+gem 'pg'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'database_cleaner'

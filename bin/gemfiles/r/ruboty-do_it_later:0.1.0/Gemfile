@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'rufus-scheduler'
+gem 'bundler'
+gem 'rake'

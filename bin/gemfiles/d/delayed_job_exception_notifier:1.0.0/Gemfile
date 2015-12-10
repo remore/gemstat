@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'delayed_job'
+gem 'exception_notification'

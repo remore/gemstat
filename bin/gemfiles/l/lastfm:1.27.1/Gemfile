@@ -1,0 +1,5 @@
+gem 'xml-simple'
+gem 'httparty'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'

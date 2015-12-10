@@ -1,0 +1,6 @@
+gem 'struct-fx'
+gem 'abstract'
+gem 'frozen-objects'
+gem 'bundler'
+gem 'jeweler'
+gem 'riot'

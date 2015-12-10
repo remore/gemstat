@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rake-compiler'
+gem 'rcov'
+gem 'rdoc'

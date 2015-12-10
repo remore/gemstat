@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'multi_json'
+gem 'pry'
+gem 'rspec'
+gem 'webmock'
+gem 'fakefs'

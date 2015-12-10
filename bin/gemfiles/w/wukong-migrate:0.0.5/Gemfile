@@ -1,0 +1,4 @@
+gem 'wukong-deploy'
+gem 'gorillib'
+gem 'httparty'
+gem 'rake'

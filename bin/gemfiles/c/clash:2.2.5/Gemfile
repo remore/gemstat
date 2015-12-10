@@ -1,0 +1,7 @@
+gem 'diffy'
+gem 'safe_yaml'
+gem 'colorator'
+gem 'bundler'
+gem 'rake'
+gem 'jekyll'
+gem 'pry-byebug'

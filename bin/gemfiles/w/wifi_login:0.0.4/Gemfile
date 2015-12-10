@@ -1,0 +1,4 @@
+gem 'mechanize'
+gem 'pit'
+gem 'systemu'
+gem 'thor'

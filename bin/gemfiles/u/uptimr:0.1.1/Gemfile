@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'multi_json'
+gem 'mocha'
+gem 'test-unit'
+gem 'shoulda'
+gem 'rake'

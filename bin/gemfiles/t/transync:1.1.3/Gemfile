@@ -1,0 +1,5 @@
+gem 'google_drive'
+gem 'builder'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

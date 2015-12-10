@@ -1,0 +1,6 @@
+gem 'RedCloth'
+gem 'nokogiri'
+gem 'jeweler'
+gem 'rspec'
+gem 'autotest'
+gem 'gemcutter'

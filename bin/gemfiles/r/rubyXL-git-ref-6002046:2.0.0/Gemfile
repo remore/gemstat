@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rspec'

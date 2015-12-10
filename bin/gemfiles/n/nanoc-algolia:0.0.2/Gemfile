@@ -1,0 +1,2 @@
+gem 'algoliasearch'
+gem 'nokogiri'

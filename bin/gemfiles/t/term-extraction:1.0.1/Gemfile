@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'shoulda'
+gem 'mocha'
+gem 'rake'
+gem 'rdoc'
+gem 'nokogiri'
+gem 'addressable'

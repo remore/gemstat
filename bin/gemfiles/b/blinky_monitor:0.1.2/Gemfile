@@ -1,0 +1,5 @@
+gem 'blinky'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'jeweler'

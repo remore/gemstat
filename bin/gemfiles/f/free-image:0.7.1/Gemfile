@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'rake'
+gem 'hanna-nouveau'
+gem 'open4'

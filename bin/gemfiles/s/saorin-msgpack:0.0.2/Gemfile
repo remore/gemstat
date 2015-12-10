@@ -1,0 +1,6 @@
+gem 'saorin'
+gem 'msgpack'
+gem 'rake'
+gem 'rspec'
+gem 'rack'
+gem 'faraday'

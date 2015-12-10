@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'mysql2'
+gem 'mv-core'
+gem 'jeweler'
+gem 'rspec'
+gem 'rspec-its'
+gem 'guard-rspec'
+gem 'mv-test'

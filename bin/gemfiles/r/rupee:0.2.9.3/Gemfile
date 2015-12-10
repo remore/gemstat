@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'sdoc'
+gem 'autotest'
+gem 'autotest-fsevent'
+gem 'autotest-growl'

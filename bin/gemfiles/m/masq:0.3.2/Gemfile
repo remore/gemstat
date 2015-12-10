@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'ruby-openid'
+gem 'ruby-yadis'
+gem 'yubikey'
+gem 'i18n_data'

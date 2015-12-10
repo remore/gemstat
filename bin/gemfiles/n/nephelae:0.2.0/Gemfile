@@ -1,0 +1,5 @@
+gem 'excon'
+gem 'eventmachine'
+gem 'rufus-scheduler'
+gem 'daemons'
+gem 'aws-sdk'

@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'http_parser.rb'
+gem 'rspec'
+gem 'rake'
+gem 'sinatra'

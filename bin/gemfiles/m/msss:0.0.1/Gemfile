@@ -1,0 +1,6 @@
+gem 'lotus-utils'
+gem 'thor'
+gem 'dotenv'
+gem 'idata'
+gem 'bundler'
+gem 'rake'

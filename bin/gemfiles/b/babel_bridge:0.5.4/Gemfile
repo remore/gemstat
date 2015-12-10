@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'guard-rspec'
+gem 'guard-test'
+gem 'rb-fsevent'

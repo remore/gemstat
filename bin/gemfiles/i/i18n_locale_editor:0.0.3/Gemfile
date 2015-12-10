@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'ya2yaml'
+gem 'rails'
+gem 'i18n'

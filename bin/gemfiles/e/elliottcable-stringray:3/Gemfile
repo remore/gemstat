@@ -1,0 +1,4 @@
+gem 'elliottcable-echoe'
+gem 'rspec'
+gem 'rcov'
+gem 'yard'

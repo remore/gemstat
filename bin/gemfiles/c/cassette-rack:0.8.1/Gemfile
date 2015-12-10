@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'kramdown'
+gem 'liquid'
+gem 'rack'
+gem 'vcr'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'bundler'
+gem 'rake'

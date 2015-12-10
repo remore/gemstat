@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'rdf-rdfxml'
+gem 'rdf-json'
+gem 'nokogiri'
+gem 'rspec'
+gem 'turn'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rest-client'
+gem 'link_header'
+gem 'activesupport'
+gem 'rack'

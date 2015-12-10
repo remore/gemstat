@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'rspec'
+gem 'couchrest_model_config'
+gem 'couch_publish'
+gem 'couchrest_model'
+gem 'couch_view'

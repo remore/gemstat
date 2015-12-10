@@ -1,0 +1,7 @@
+gem 'git'
+gem 'rubyforge'
+gem 'thoughtbot-shoulda'
+gem 'mhennemeyer-output_catcher'
+gem 'rr'
+gem 'mocha'
+gem 'redgreen'

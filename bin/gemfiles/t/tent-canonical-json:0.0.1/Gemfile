@@ -1,0 +1,4 @@
+gem 'json-pointer'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'rake'

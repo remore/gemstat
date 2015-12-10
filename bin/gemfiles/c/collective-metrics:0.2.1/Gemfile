@@ -1,0 +1,8 @@
+gem 'rufus-scheduler'
+gem 'thor'
+gem 'formatted-metrics'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

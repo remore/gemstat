@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'markaby'
+gem 'literate_maruku'
+gem 'rspec'
+gem 'jeweler'

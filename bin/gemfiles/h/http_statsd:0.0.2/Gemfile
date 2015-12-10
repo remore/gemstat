@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'statsd-ruby'
+gem 'httparty'
+gem 'rspec'
+gem 'rack-test'
+gem 'webmock'
+gem 'rake'

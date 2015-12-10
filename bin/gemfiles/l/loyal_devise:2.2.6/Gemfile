@@ -1,0 +1,5 @@
+gem 'loyal_warden'
+gem 'omniauth'
+gem 'orm_adapter'
+gem 'bcrypt-ruby'
+gem 'railties'

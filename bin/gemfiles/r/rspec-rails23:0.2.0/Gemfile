@@ -1,0 +1,7 @@
+gem 'rspec-rails23'
+gem 'actionpack'
+gem 'rspec'
+gem 'jeweler'
+gem 'mocha'
+gem 'actionpack'
+gem 'rspec'

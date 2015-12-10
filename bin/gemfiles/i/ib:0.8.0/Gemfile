@@ -1,0 +1,7 @@
+gem 'xcodeproj'
+gem 'thor'
+gem 'tilt'
+gem 'rspec'
+gem 'rake'
+gem 'guard-rspec'
+gem 'guard-bundler'

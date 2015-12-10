@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'globalize3'
+gem 'awesome_nested_set'
+gem 'aruba'
+gem 'database_cleaner'
+gem 'factory_girl'
+gem 'rspec-rails'
+gem 'sqlite3'

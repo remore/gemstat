@@ -1,0 +1,2 @@
+gem 'qtbindings'
+gem 'nokogiri'

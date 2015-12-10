@@ -1,0 +1,7 @@
+gem 'docile'
+gem 'mustache'
+gem 'thor'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'rev'
+gem 'eventmachine'
+gem 'cool.io'
+gem 'bones-git'
+gem 'bones-rspec'
+gem 'rspec'
+gem 'logging'
+gem 'bones'

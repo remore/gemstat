@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'activesupport'
+gem 'appraisal'
+gem 'bundler'
+gem 'mocha'
+gem 'rake'
+gem 'rack-test'
+gem 'rails'

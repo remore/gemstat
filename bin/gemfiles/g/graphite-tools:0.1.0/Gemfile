@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'linefit'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

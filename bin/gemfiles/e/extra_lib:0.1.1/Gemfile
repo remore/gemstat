@@ -1,0 +1,6 @@
+gem 'activeresource'
+gem 'activesupport'
+gem 'bundler'
+gem 'debugger'
+gem 'rspec'
+gem 'rake'

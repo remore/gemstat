@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'redcarpet'
+gem 'yard'
+gem 'rspec'
+gem 'rspec-html-matchers'

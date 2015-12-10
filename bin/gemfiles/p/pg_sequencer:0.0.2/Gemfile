@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activerecord'
+gem 'pg'
+gem 'guard'
+gem 'guard-test'
+gem 'shoulda-context'

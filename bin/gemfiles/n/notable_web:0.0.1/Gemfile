@@ -1,0 +1,7 @@
+gem 'notable'
+gem 'groupdate'
+gem 'chartkick'
+gem 'kaminari'
+gem 'public_suffix'
+gem 'bundler'
+gem 'rake'

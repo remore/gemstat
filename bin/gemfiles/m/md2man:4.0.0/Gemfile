@@ -1,0 +1,4 @@
+gem 'binman'
+gem 'redcarpet'
+gem 'minitest'
+gem 'rake'

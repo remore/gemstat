@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'addressable'
+gem 'json'
+gem 'uuidtools'
+gem 'cucumber'
+gem 'rspec'
+gem 'hoe'

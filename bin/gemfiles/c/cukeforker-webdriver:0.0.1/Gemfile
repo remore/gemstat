@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'gherkin'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'childprocess'
+gem 'rake'

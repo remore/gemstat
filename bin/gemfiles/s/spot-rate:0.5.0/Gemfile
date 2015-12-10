@@ -1,0 +1,4 @@
+gem 'net-sftp'
+gem 'rake'
+gem 'cane'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'mysql2'
+gem 'activesupport'
+gem 'mysql2'
+gem 'activesupport'

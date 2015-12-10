@@ -1,0 +1,8 @@
+gem 'riemann-client'
+gem 'trollop'
+gem 'mixlib-shellout'
+gem 'rest-client'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'ruby-prof'

@@ -1,0 +1,4 @@
+gem 'cache-machine'
+gem 'redis'
+gem 'bundler'
+gem 'rails'

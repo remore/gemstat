@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'minitest'
+gem 'shoulda'
+gem 'turn'

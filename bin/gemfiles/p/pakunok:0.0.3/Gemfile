@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'sprockets'
+gem 'execjs'
+gem 'rspec'

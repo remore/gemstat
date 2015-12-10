@@ -1,0 +1,6 @@
+gem 'prowler'
+gem 'activesupport'
+gem 'guard-test'
+gem 'guard-bundler'
+gem 'rake'
+gem 'pry'

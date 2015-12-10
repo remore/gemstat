@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'aws-sdk-v1'
+gem 'capistrano'
+gem 'terminal-table'
+gem 'colorize'

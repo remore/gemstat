@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'configure-s3-website'
+gem 'colored'
+gem 'dotenv'
+gem 'rake'
+gem 'octokit'

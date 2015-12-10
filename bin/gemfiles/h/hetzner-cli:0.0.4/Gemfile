@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'yajl-ruby'
+gem 'json'
+gem 'excon'
+gem 'net-ssh'
+gem 'system_timer'
+gem 'faraday'
+gem 'bundler'

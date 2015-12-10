@@ -1,0 +1,6 @@
+gem 'classy_hash'
+gem 'git'
+gem 'minitest'
+gem 'rdoc'
+gem 'pry-byebug'
+gem 'hoe'

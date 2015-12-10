@@ -1,0 +1,2 @@
+gem 'brighter_planet_metadata'
+gem 'test-unit'

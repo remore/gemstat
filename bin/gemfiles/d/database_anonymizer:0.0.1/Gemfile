@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'mysql2'
+gem 'pry-rails'
+gem 'rspec-rails'
+gem 'factory_girl_rails'

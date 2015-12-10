@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'tumblr_client'
+gem 'tumblr-random_image'
+gem 'bundler'
+gem 'rake'

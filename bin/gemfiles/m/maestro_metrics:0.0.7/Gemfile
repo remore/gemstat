@@ -1,0 +1,6 @@
+gem 'mongo'
+gem 'statsd'
+gem 'statsd-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'mongo_mapper'

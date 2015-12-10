@@ -1,0 +1,7 @@
+gem 'actionpack'
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'appraisal'

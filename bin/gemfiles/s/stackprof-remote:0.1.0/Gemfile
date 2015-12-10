@@ -1,0 +1,7 @@
+gem 'rbtrace'
+gem 'stackprof'
+gem 'pry'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'redis'
+gem 'redis-namespace'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

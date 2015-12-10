@@ -1,0 +1,7 @@
+gem 'octopress-ink'
+gem 'bundler'
+gem 'rake'
+gem 'octopress'
+gem 'clash'
+gem 'octopress-multilingual'
+gem 'octopress-debugger'

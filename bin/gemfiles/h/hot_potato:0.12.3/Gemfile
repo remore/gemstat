@@ -1,0 +1,6 @@
+gem 'json'
+gem 'redis'
+gem 'bunny'
+gem 'sinatra'
+gem 'vegas'
+gem 'snappy'

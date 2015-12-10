@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mustache'
+gem 'hike'
+gem 'annotations'
+gem 'bundler'
+gem 'rspec'

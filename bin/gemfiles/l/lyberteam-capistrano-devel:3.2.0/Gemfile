@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'capistrano-releaseboard'
+gem 'capistrano-bundle_audit'
+gem 'capistrano-one_time_key'

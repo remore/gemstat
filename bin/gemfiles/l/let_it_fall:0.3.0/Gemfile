@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'emot'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

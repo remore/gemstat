@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'sinatra'
+gem 'haml'
+gem 'bundler'

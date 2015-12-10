@@ -1,0 +1,2 @@
+gem 'cql-rb'
+gem 'simple_uuid'

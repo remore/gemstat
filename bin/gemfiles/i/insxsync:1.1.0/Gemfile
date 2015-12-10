@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'nokogiri'
+gem 'highline'
+gem 'mysql'
+gem 'cucumber'
+gem 'bundler'
+gem 'rake'

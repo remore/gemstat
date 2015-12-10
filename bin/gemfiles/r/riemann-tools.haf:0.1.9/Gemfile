@@ -1,0 +1,8 @@
+gem 'riemann-client'
+gem 'trollop'
+gem 'munin-ruby'
+gem 'yajl-ruby'
+gem 'redis'
+gem 'fog'
+gem 'faraday'
+gem 'nokogiri'

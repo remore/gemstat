@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'mocha'
+gem 'sinatra'
+gem 'rspec'

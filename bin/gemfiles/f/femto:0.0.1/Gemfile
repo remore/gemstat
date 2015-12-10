@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rack'
+gem 'tilt'
+gem 'haml'
+gem 'mongo'
+gem 'bson_ext'

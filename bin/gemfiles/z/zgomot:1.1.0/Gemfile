@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'curses'
+gem 'rainbow'
+gem 'pry'
+gem 'fssm'

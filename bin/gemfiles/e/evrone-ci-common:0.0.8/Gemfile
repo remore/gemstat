@@ -1,0 +1,7 @@
+gem 'evrone-common-spawn'
+gem 'evrone-common-rack-builder'
+gem 'bundler'
+gem 'rspec'
+gem 'rr'
+gem 'rake'
+gem 'evrone-ci-message'

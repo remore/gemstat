@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'httparty'
+gem 'json'
+gem 'georuby'
+gem 'dbf'

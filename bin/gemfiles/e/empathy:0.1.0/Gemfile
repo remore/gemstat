@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'rake'
+gem 'mspec'
+gem 'rspec'
+gem 'rr'
+gem 'yard'
+gem 'kramdown'

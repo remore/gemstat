@@ -1,0 +1,8 @@
+gem 'commander'
+gem 'deltacloud-client-vm'
+gem 'terminal-table'
+gem 'net-ssh'
+gem 'xml-simple'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-rcov'

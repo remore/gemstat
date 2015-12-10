@@ -1,0 +1,7 @@
+gem 'mongo'
+gem 'bson_ext'
+gem 'ruby-progressbar'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-prof'

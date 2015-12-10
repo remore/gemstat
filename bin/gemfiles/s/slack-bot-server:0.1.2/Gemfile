@@ -1,0 +1,7 @@
+gem 'slack-api'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'redis'
+gem 'rspec'
+gem 'rspec-eventmachine'

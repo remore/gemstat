@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'aruba'
+gem 'plist'
+gem 'commander'
+gem 'app_configuration'

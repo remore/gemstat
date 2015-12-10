@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rails'
+gem 'browsercms'
+gem 'mysql'
+gem 'jeweler'
+gem 'sqlite3-ruby'

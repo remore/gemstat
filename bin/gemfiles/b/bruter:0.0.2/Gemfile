@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'http_router'
+gem 'sprockets'
+gem 'activesupport'
+gem 'i18n'
+gem 'mustache'

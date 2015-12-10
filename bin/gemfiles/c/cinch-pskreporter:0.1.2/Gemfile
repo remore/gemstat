@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'cinch-test'
+gem 'byebug'
+gem 'cinch'
+gem 'hashie'

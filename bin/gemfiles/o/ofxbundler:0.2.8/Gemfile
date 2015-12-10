@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'faraday'
+gem 'nokogiri'
+gem 'rubyzip'

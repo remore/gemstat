@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'selenium-webdriver'
+gem 'nokogiri'
+gem 'anemone'

@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'google-search'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'gsl'
+gem 'rake'
+gem 'faker'
+gem 'ruby-graphviz'

@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'notify'
+gem 'minitest'
+gem 'mocha'
+gem 'purdytest'

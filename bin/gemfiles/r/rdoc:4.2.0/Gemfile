@@ -1,0 +1,6 @@
+gem 'json'
+gem 'kpeg'
+gem 'minitest'
+gem 'rdoc'
+gem 'racc'
+gem 'hoe'

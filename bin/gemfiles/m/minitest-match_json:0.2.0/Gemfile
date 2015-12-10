@@ -1,0 +1,5 @@
+gem 'diffy'
+gem 'json'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

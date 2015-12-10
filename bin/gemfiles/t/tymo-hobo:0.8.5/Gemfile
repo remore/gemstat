@@ -1,0 +1,4 @@
+gem 'hobosupport'
+gem 'hobofields'
+gem 'rails'
+gem 'mislav-will_paginate'

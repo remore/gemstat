@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'guard-minitest'
+gem 'guard-yard'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'

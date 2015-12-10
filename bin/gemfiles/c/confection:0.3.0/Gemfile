@@ -1,0 +1,6 @@
+gem 'finder'
+gem 'facets'
+gem 'blankslate'
+gem 'detroit'
+gem 'qed'
+gem 'ae'

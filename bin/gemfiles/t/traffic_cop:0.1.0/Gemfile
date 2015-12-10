@@ -1,0 +1,4 @@
+gem 'test-unit'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'shoulda'
+gem 'guard'
+gem 'guard-test'

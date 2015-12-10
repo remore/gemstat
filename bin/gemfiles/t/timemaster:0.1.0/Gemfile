@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'riak-client'
+gem 'activesupport'
+gem 'hashie'

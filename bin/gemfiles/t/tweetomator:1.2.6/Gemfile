@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'flickraw'
+gem 'twitter'
+gem 'rufus-scheduler'

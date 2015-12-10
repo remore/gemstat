@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'activerecord'
+gem 'actionpack'
+gem 'pg'
+gem 'faker'
+gem 'pry'

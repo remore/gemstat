@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'bundler'
+gem 'rake'
+gem 'faker'
+gem 'pry'
+gem 'rspec'

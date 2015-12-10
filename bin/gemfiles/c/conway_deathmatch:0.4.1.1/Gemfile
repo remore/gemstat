@@ -1,0 +1,4 @@
+gem 'slop'
+gem 'buildar'
+gem 'minitest'
+gem 'ruby-prof'

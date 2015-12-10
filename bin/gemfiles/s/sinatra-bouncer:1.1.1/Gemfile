@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'simplecov'
+gem 'rspec'
+gem 'cucumber'
+gem 'capybara'
+gem 'launchy'
+gem 'parallel_tests'

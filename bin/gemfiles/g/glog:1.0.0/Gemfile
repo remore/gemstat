@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'jadof'
+gem 'haml'
+gem 'rdiscount'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'

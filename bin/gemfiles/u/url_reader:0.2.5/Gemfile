@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'webmock'
+gem 'activesupport'
+gem 'rest-client'

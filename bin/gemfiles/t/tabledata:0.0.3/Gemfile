@@ -1,0 +1,4 @@
+gem 'spreadsheet'
+gem 'prawn'
+gem 'roo'
+gem 'iconv'

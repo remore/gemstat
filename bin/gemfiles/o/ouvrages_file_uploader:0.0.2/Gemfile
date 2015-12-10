@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'paperclip'
+gem 'jquery-fileupload-rails'
+gem 'coffee-rails'
+gem 'haml_coffee_assets'
+gem 'haml-rails'

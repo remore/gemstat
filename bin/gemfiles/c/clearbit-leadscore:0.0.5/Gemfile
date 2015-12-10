@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'clearbit'
+gem 'awesome_print'
+gem 'thread'

@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'childprocess'
+gem 'rack-reverse-proxy'
+gem 'rake'
+gem 'httparty'
+gem 'nokogiri'
+gem 'mechanize'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'nokogiri'
+gem 'diffy'
+gem 'typhoeus'
+gem 'rainbow'
+gem 'addressable'

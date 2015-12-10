@@ -1,0 +1,4 @@
+gem 'fluent-logger'
+gem 'rake'
+gem 'bundler'
+gem 'simplecov'

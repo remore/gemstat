@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'bunny'
+gem 'msgpack'
+gem 'test-unit'
+gem 'mocha'
+gem 'simplecov'
+gem 'bundler'
+gem 'rake'

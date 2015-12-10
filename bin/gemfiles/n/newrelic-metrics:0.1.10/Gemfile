@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'chronic'
+gem 'json'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'

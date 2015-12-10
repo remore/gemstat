@@ -1,0 +1,5 @@
+gem 'uuidtools'
+gem 'json'
+gem 'beanstalk-client'
+gem 'fluiddb'
+gem 'parse-cron'

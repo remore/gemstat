@@ -1,0 +1,8 @@
+gem 'pdfkit'
+gem 'minitest'
+gem 'turn'
+gem 'debugger'
+gem 'guard-minitest'
+gem 'rb-fsevent'
+gem 'hirb'
+gem 'wirble'

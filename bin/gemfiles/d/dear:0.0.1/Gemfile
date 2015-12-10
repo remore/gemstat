@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'dear-ruby'
+gem 'dear-rails'
+gem 'dear-git'

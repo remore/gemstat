@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'plist'
+gem 'builder'
+gem 'activesupport'
+gem 'mongo_mapper'
+gem 'micronaut'
+gem 'rack-test'

@@ -1,0 +1,5 @@
+gem 'infinity_test'
+gem 'rspec'
+gem 'metric_fu'
+gem 'yard'
+gem 'bluecloth'

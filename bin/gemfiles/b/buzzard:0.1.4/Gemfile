@@ -1,0 +1,4 @@
+gem 'dbi'
+gem 'sinatra'
+gem 'rack-flash'
+gem 'json_pure'

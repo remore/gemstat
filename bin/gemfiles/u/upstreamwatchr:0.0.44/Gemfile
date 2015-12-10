@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'rugged'
+gem 'gitlab'
+gem 'rainbow'

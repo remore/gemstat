@@ -1,0 +1,5 @@
+gem 'oauth'
+gem 'fakeweb'
+gem 'rspec'
+gem 'yard'
+gem 'thoughtbot-shoulda'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'awesome_print'
+gem 'rake'
+gem 'launchy'
+gem 'erubis'
+gem 'rest-client'
+gem 'highline'

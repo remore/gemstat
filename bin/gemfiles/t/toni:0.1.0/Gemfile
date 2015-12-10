@@ -1,0 +1,7 @@
+gem 'rspec-expectations'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'rails'
+gem 'sinatra'

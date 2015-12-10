@@ -1,0 +1,8 @@
+gem 'riak-client'
+gem 'excon'
+gem 'uuidtools'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'gem-release'
+gem 'awesome_print'

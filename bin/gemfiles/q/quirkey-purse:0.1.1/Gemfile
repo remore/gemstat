@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'git'
+gem 'crypt'
+gem 'termios'
+gem 'hoe'

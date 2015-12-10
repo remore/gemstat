@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'activesupport'
+gem 'spliner'
+gem 'bundler'
+gem 'rake'

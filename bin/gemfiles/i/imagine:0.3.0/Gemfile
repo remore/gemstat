@@ -1,0 +1,6 @@
+gem 'imagine-basic_list_view'
+gem 'imagine-orbit_view'
+gem 'imagine-galleria_view'
+gem 'haml-rails'
+gem 'dragonfly'
+gem 'rack-cache'

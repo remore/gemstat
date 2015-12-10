@@ -1,0 +1,6 @@
+gem 'padrino-support'
+gem 'sinatra'
+gem 'mustermann19'
+gem 'thor'
+gem 'activesupport'
+gem 'rack-protection'

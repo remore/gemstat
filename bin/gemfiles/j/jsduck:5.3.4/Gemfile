@@ -1,0 +1,8 @@
+gem 'rdiscount'
+gem 'json'
+gem 'parallel'
+gem 'rkelly-remix'
+gem 'dimensions'
+gem 'rspec'
+gem 'rake'
+gem 'compass'

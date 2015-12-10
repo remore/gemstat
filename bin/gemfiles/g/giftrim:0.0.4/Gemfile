@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'simplecov-gem-adapter'
+gem 'coveralls'
+gem 'subexec'

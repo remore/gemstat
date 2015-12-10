@@ -1,0 +1,5 @@
+gem 'qarioz-confluencer'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

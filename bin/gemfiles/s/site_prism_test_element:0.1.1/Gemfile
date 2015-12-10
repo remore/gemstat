@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'site_prism'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

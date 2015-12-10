@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'awesome_print'
+gem 'gli_aziz_light'
+gem 'rainbow'
+gem 'lumberjack_aziz_light'

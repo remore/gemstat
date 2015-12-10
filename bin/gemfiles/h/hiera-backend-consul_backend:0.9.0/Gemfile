@@ -1,0 +1,8 @@
+gem 'json'
+gem 'hiera'
+gem 'rake'
+gem 'puppet'
+gem 'puppetlabs_spec_helper'
+gem 'rspec'
+gem 'pry'
+gem 'webmock'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'activesupport'
+gem 'i18n'
+gem 'jeweler'
+gem 'yard'
+gem 'maruku'

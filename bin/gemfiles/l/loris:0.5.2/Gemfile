@@ -1,0 +1,4 @@
+gem 'json'
+gem 'bind'
+gem 'karl-growl'
+gem 'extensions'

@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'oui-offline'
+gem 'logstash-devutils'
+gem 'jdbc-sqlite3'

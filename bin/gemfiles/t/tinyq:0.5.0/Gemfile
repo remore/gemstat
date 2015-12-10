@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'json'
+gem 'uuid'
+gem 'getopt'
+gem 'daemons'

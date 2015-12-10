@@ -1,0 +1,4 @@
+gem 'tire'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'

@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'jeweler'
+gem 'rspec'
+gem 'simplecov'
+gem 'vcr'
+gem 'webmock'

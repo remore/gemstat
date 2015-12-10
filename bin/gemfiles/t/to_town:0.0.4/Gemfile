@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'mongoid'
+gem 'thor'
+gem 'bson_ext'
+gem 'jeweler'
+gem 'ruby-debug19'
+gem 'awesome_print'
+gem 'fabrication'

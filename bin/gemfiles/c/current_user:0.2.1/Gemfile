@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'cucumber'
+gem 'aruba'

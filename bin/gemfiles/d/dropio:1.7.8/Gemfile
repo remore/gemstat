@@ -1,0 +1,4 @@
+gem 'mime-types'
+gem 'httparty'
+gem 'multipart-post'
+gem 'echoe'

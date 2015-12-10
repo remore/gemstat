@@ -1,0 +1,4 @@
+gem 'colored'
+gem 'sshkit'
+gem 'bundler'
+gem 'rake'

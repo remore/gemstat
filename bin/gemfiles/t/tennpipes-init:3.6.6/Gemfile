@@ -1,0 +1,4 @@
+gem 'tennpipes-base'
+gem 'bundler'
+gem 'tennpipes-helper'
+gem 'tennpipes-mail'

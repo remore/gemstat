@@ -1,0 +1,2 @@
+gem 'log4r'
+gem 'more_unit_test'

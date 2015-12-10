@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'multi_json'
+gem 'rake'
+gem 'yajl-ruby'
+gem 'rspec'

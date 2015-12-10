@@ -1,0 +1,2 @@
+gem 'rgeo'
+gem 'dbf'

@@ -1,0 +1,6 @@
+gem 'boss-protocol'
+gem 'hashie'
+gem 'httpclient'
+gem 'httpclient-uploadio'
+gem 'colorize'
+gem 'rspec'

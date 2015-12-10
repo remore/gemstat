@@ -1,0 +1,4 @@
+gem 'hammer_cli_katello'
+gem 'rake'
+gem 'rubocop'
+gem 'rubocop-checkstyle_formatter'

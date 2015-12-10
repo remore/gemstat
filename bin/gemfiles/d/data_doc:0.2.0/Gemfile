@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rdiscount'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

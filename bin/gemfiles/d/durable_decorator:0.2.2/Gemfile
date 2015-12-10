@@ -1,0 +1,5 @@
+gem 'method_source'
+gem 'logging'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

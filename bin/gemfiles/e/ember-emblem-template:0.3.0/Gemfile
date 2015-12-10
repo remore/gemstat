@@ -1,0 +1,5 @@
+gem 'sprockets'
+gem 'barber'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

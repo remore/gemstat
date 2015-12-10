@@ -1,0 +1,7 @@
+gem 'http2'
+gem 'datet'
+gem 'string-strtr'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

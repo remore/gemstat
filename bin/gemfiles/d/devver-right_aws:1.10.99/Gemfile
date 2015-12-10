@@ -1,0 +1,2 @@
+gem 'devver-right_http_connection'
+gem 'hoe'

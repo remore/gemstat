@@ -1,0 +1,8 @@
+gem 'google-api-client'
+gem 'thor'
+gem 'hirb'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-power_assert'
+gem 'minitest-reporters'

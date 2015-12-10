@@ -1,0 +1,7 @@
+gem 'roadie'
+gem 'railties'
+gem 'rails'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rspec-collection_matchers'

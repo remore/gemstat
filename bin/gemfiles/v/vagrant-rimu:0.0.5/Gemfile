@@ -1,0 +1,8 @@
+gem 'rimu'
+gem 'colorize'
+gem 'terminal-table'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rspec-expectations'
+gem 'rake'

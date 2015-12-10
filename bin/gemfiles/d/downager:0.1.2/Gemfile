@@ -1,0 +1,8 @@
+gem 'rubyzip'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'rubygems-tasks'
+gem 'guard-rspec'
+gem 'growl'
+gem 'fuubar'

@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'shoulda'
+gem 'factory_girl'
+gem 'authlogic'
+gem 'inherited_resources'
+gem 'rails'

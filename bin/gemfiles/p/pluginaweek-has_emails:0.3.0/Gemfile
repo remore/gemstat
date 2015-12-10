@@ -1,0 +1,2 @@
+gem 'has_messages'
+gem 'validates_as_email_address'

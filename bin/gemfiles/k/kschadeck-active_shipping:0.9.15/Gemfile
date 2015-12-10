@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'active_utils'
+gem 'builder'
+gem 'json'
+gem 'rake'
+gem 'mocha'
+gem 'timecop'

@@ -1,0 +1,5 @@
+gem 'happymapper'
+gem 'httpclient'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

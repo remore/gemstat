@@ -1,0 +1,8 @@
+gem 'aw'
+gem 'defi'
+gem 'spectus'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'simplecov'
+gem 'rubocop'

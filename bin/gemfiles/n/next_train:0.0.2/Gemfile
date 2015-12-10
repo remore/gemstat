@@ -1,0 +1,8 @@
+gem 'cta-api'
+gem 'time_diff'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'timecop'
+gem 'webmock'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'guard-rspec'
+gem 'guard-spork'
+gem 'sqlite3'

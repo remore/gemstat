@@ -1,0 +1,2 @@
+gem 'octokit'
+gem 'thor'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'ruby_protobuf'
+gem 'hashie'
+gem 'opus-ruby'
+gem 'wavefile'

@@ -1,0 +1,5 @@
+gem 'rmagick'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rmagick'

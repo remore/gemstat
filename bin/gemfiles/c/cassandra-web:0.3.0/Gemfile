@@ -1,0 +1,8 @@
+gem 'cassandra-driver'
+gem 'thin'
+gem 'rack-cors'
+gem 'rack-parser'
+gem 'sinatra'
+gem 'lz4-ruby'
+gem 'bundler'
+gem 'rake'

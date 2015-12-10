@@ -1,0 +1,6 @@
+gem 'anima'
+gem 'moosex'
+gem 'require_all'
+gem 'pry-uber'
+gem 'bundler'
+gem 'rake'

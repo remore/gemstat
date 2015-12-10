@@ -1,0 +1,6 @@
+gem 'smartkiosk-common'
+gem 'i18n'
+gem 'activesupport'
+gem 'trollop'
+gem 'colored'
+gem 'pry'

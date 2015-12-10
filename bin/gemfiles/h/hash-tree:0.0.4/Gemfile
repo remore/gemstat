@@ -1,0 +1,7 @@
+gem 'json'
+gem 'ya2yaml'
+gem 'nori'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-aspic'

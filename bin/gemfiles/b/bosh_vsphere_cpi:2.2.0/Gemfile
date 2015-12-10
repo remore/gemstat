@@ -1,0 +1,7 @@
+gem 'bosh_common'
+gem 'bosh_cpi'
+gem 'membrane'
+gem 'builder'
+gem 'nokogiri'
+gem 'httpclient'
+gem 'mono_logger'

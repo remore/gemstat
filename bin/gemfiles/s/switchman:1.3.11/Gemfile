@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'activerecord'
+gem 'shackles'
+gem 'open4'
+gem 'mysql2'
+gem 'pg'
+gem 'rspec-rails'
+gem 'sqlite3'

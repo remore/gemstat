@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'capistrano_telnet'
+gem 'capistrano_supports'
+gem 'nagios_mklivestatus'
+gem 'keepass-password-generator'
+gem 'encrypted_strings'

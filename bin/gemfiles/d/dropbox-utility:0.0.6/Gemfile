@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rake'
+gem 'dropbox-sdk'
+gem 'launchy'

@@ -1,0 +1,4 @@
+gem 'sentia-capistrano-gitflow'
+gem 'rspec'
+gem 'capistrano'
+gem 'stringex'

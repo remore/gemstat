@@ -1,0 +1,6 @@
+gem 'rbbt'
+gem 'rake'
+gem 'simpleconsole'
+gem 'DBcache'
+gem 'DRbServe'
+gem 'png'

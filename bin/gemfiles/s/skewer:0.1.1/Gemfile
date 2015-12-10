@@ -1,0 +1,7 @@
+gem 'fog'
+gem 'aruba'
+gem 'jeweler'
+gem 'metric_fu'
+gem 'rcov'
+gem 'rspec'
+gem 'vagrant'

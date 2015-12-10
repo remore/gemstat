@@ -1,0 +1,7 @@
+gem 'treetop'
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'mustache'
+gem 'colored'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'faraday'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'activemodel'

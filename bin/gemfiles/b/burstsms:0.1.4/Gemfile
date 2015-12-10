@@ -1,0 +1,5 @@
+gem 'unhappymapper'
+gem 'httparty'
+gem 'rspec'
+gem 'webmock'
+gem 'rake'

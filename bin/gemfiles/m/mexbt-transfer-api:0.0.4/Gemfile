@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rest_client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

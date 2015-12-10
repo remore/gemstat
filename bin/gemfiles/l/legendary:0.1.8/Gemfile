@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'haml'
+gem 'activesupport'
+gem 'git'
+gem 'gems'

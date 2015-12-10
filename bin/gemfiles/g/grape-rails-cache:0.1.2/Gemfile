@@ -1,0 +1,4 @@
+gem 'grape'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

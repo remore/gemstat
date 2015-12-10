@@ -1,0 +1,7 @@
+gem 'fog-core'
+gem 'rbvmomi'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rubocop'
+gem 'shindo'

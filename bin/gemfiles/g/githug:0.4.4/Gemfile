@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'grit'
+gem 'thor'
+gem 'rake'

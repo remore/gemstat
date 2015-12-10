@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'memcached'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'timecop'
+gem 'snappy'

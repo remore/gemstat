@@ -1,0 +1,4 @@
+gem 'airbrake'
+gem 'delayed_job'
+gem 'rake'
+gem 'rspec'

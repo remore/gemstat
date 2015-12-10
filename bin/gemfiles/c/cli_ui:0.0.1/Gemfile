@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'command_line_reporter'
+gem 'highline'
+gem 'gli'
+gem 'sysexits'

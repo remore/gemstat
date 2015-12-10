@@ -1,0 +1,6 @@
+gem 'ramaze'
+gem 'sequel'
+gem 'maruku'
+gem 'time-lord'
+gem 'shebang'
+gem 'bcrypt-ruby'

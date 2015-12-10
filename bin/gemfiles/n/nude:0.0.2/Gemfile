@@ -1,0 +1,8 @@
+gem 'rmagick'
+gem 'bundler'
+gem 'growl'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

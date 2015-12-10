@@ -1,0 +1,8 @@
+gem 'indentation'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-remote'
+gem 'pry-nav'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'bundler'
+gem 'curb'
+gem 'floatstats'

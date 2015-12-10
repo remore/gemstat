@@ -1,0 +1,7 @@
+gem 'savon'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'listen'

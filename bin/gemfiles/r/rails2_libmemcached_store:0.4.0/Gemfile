@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'timecop'
+gem 'iconv'
+gem 'memcached'
+gem 'activesupport'

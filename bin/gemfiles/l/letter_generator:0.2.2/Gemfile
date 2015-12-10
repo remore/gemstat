@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'thor'
+gem 'activesupport'
+gem 'tilt'
+gem 'fedux_org-stdlib'
+gem 'rake'
+gem 'erubis'

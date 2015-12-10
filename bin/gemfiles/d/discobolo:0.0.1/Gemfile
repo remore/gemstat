@@ -1,0 +1,6 @@
+gem 'disque'
+gem 'sinatra'
+gem 'celluloid'
+gem 'json'
+gem 'bundler'
+gem 'rake'

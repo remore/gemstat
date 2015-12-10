@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'acts-as-taggable-on'
+gem 'haml'
+gem 'kaminari'

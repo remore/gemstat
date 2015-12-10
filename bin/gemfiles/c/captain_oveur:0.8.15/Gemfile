@@ -1,0 +1,2 @@
+gem 'clearance'
+gem 'formtastic'

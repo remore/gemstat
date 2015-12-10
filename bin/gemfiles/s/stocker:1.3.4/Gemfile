@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'titleize'
+gem 'cucumber'
+gem 'aruba'

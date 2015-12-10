@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mutant'
+gem 'mutant-rspec'
+gem 'activesupport'

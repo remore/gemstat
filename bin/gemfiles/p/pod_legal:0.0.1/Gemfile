@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'deface'
+gem 'haml-rails'
+gem 'capybara'
+gem 'rspec-rails'
+gem 'sqlite3'

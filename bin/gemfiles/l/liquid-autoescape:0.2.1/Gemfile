@@ -1,0 +1,5 @@
+gem 'liquid'
+gem 'appraisal'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

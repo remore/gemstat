@@ -1,0 +1,7 @@
+gem 'websocket-client-simple'
+gem 'event_emitter'
+gem 'json'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

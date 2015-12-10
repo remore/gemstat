@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'foreman'
+gem 'sprockets'
+gem 'coffee-script'
+gem 'compass'
+gem 'sprockets-sass'
+gem 'guard'
+gem 'bundler'

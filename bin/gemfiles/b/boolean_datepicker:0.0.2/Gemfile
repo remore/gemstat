@@ -1,0 +1,4 @@
+gem 'rspec_junit_formatter'
+gem 'activerecord'
+gem 'rspec-rails'
+gem 'sqlite3'

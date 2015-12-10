@@ -1,0 +1,8 @@
+gem 'haml'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

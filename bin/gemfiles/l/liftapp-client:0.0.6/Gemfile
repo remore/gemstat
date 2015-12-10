@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'nokogiri'
+gem 'webmock'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'

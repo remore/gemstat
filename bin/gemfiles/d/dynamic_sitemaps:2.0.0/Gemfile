@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'nokogiri'
+gem 'timecop'
+gem 'webmock'

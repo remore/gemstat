@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'rugged'
+gem 'minitest'
+gem 'em-minitest-spec'
+gem 'rake'

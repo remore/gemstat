@@ -1,0 +1,7 @@
+gem 'money'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rspec'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'pry'

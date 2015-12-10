@@ -1,0 +1,7 @@
+gem 'extlib'
+gem 'erubis'
+gem 'rake'
+gem 'json_pure'
+gem 'rspec'
+gem 'rack'
+gem 'mime-types'

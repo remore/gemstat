@@ -1,0 +1,4 @@
+gem 'excon'
+gem 'uuid'
+gem 'rake'
+gem 'minitest'

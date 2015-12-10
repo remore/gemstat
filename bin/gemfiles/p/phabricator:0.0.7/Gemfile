@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
+gem 'bundler'

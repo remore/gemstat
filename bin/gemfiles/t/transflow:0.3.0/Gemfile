@@ -1,0 +1,6 @@
+gem 'dry-pipeline'
+gem 'wisper'
+gem 'kleisli'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

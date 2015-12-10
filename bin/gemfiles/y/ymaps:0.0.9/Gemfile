@@ -1,0 +1,3 @@
+gem 'geokit'
+gem 'shoulda'
+gem 'yard'

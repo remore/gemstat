@@ -1,0 +1,6 @@
+gem 'twitter'
+gem 'cinch'
+gem 'oj'
+gem 'time-lord'
+gem 'bundler'
+gem 'rake'

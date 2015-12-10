@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'test-unit'
+gem 'mocha'
+gem 'rake'
+gem 'random_data'
+gem 'appraisal'
+gem 'activerecord'

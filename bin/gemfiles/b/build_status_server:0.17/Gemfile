@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'pry-debugger'
+gem 'sinatra'
+gem 'json'
+gem 'command_line_helper'

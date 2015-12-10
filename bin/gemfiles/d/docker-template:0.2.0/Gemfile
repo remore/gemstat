@@ -1,0 +1,5 @@
+gem 'json'
+gem 'docker-api'
+gem 'luna-rspec-formatters'
+gem 'envygeeks-coveralls'
+gem 'rspec'

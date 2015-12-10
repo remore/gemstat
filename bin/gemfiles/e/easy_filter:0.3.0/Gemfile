@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'

@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'ryan'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

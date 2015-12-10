@@ -1,0 +1,4 @@
+gem 'ellen'
+gem 'xrc'
+gem 'bundler'
+gem 'rake'

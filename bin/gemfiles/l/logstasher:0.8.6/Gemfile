@@ -1,0 +1,7 @@
+gem 'logstash-event'
+gem 'request_store'
+gem 'activesupport'
+gem 'activerecord'
+gem 'rspec'
+gem 'bundler'
+gem 'rails'

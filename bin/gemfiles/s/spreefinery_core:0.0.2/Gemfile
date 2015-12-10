@@ -1,0 +1,7 @@
+gem 'spree'
+gem 'refinerycms'
+gem 'liquid'
+gem 'clot_engine'
+gem 'refinerycms-i18n'
+gem 'refinerycms-settings'
+gem 'spreefinery_themes'

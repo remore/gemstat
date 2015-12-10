@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'terminal-table'
+gem 'highline'
+gem 'mustache'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakefs'

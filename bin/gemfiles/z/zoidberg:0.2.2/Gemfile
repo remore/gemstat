@@ -1,0 +1,4 @@
+gem 'bogo'
+gem 'mono_logger'
+gem 'pry'
+gem 'minitest'

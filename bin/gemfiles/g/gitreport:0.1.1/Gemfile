@@ -1,0 +1,8 @@
+gem 'json'
+gem 'spork'
+gem 'rspec'
+gem 'webmock'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

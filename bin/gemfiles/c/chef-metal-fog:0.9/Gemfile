@@ -1,0 +1,6 @@
+gem 'chef'
+gem 'cheffish'
+gem 'chef-metal'
+gem 'fog'
+gem 'rspec'
+gem 'rake'

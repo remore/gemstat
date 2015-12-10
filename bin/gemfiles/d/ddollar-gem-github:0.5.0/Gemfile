@@ -1,0 +1,2 @@
+gem 'fcoury-octopi'
+gem 'thoughtbot-shoulda'

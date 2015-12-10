@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'net-ssh'
+gem 'taps'
+gem 'highline'
+gem 'httparty'
+gem 'launchy'
+gem 'domainatrix'
+gem 'webbynode-rainbow'

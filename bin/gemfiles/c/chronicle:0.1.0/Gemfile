@@ -1,0 +1,4 @@
+gem 'hoe'
+gem 'rspec'
+gem 'autotest'
+gem 'chronic'

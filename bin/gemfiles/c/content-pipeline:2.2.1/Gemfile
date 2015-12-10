@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rspec'
+gem 'envygeeks-coveralls'
+gem 'rspec-collection_matchers'
+gem 'luna-rspec-formatters'

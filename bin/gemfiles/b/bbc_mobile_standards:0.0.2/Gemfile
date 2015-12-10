@@ -1,0 +1,6 @@
+gem 'raakt'
+gem 'nokogiri'
+gem 'w3c_validators'
+gem 'rest-client'
+gem 'rspec'
+gem 'fakeweb'

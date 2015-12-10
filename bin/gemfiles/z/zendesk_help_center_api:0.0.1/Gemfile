@@ -1,0 +1,4 @@
+gem 'zendesk_api'
+gem 'bundler'
+gem 'rake'
+gem 'byebug'

@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'growlnotifier'
+gem 'json'
+gem 'net-ssh-gateway'
+gem 'rest-client'

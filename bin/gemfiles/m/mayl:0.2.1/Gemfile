@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'yard-tomdoc'
+gem 'redcarpet'
+gem 'reek'
+gem 'minitest'
+gem 'mocha'

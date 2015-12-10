@@ -1,0 +1,5 @@
+gem 'auth0'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'

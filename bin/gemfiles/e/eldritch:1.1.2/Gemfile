@@ -1,0 +1,5 @@
+gem 'reentrant_mutex'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'yard'

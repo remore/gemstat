@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rake'
+gem 'selenium-webdriver'
+gem 'minitest'

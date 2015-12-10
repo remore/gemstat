@@ -1,0 +1,7 @@
+gem 'canfig'
+gem 'hashie'
+gem 'git'
+gem 'github_api'
+gem 'kommand'
+gem 'rake'
+gem 'rspec'

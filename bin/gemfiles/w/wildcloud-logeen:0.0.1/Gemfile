@@ -1,0 +1,6 @@
+gem 'amqp'
+gem 'json'
+gem 'snappy'
+gem 'syslog_protocol'
+gem 'wildcloud-logger'
+gem 'wildcloud-configuration'

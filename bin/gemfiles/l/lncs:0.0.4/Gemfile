@@ -1,0 +1,6 @@
+gem 'json'
+gem 'thor'
+gem 'zip'
+gem 'pdf-reader'
+gem 'bundler'
+gem 'rake'

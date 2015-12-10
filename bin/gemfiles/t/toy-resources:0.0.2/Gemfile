@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'toy-attributes'
+gem 'rspec-rails'
+gem 'shoulda'
+gem 'sqlite3'

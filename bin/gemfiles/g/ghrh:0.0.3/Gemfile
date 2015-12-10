@@ -1,0 +1,6 @@
+gem 'clamp'
+gem 'highline'
+gem 'httparty'
+gem 'json'
+gem 'tabularize'
+gem 'pry'

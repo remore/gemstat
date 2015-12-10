@@ -1,0 +1,7 @@
+gem 'pry'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-mocks'
+gem 'rspec-expectations'
+gem 'fakefs'
+gem 'fakeweb'

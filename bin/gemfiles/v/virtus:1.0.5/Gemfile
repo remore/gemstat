@@ -1,0 +1,5 @@
+gem 'descendants_tracker'
+gem 'equalizer'
+gem 'coercible'
+gem 'axiom-types'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'json'
+gem 'shoulda'
+gem 'test-unit'
+gem 'minitest'

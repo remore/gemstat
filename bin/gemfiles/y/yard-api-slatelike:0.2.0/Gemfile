@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'yard-api'
+gem 'rspec'
+gem 'gem-release'

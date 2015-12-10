@@ -1,0 +1,5 @@
+gem 'sass'
+gem 'bundler'
+gem 'rake'
+gem 'sass-rails'
+gem 'compass'

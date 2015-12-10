@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'valium'
+gem 'sqlite3'
+gem 'shoulda'
+gem 'simplecov'

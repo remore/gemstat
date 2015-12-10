@@ -1,0 +1,5 @@
+gem 'unobservable'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

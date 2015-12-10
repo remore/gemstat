@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'backports'
+gem 'prime_miller_rabin'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'mocha'
+gem 'unindentable'
+gem 'fakeweb'

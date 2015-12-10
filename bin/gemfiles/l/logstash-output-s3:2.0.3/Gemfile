@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'logstash-mixin-aws'
+gem 'stud'
+gem 'logstash-devutils'
+gem 'logstash-input-generator'
+gem 'logstash-codec-line'

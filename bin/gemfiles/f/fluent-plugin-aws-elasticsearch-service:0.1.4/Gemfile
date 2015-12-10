@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fluentd'
+gem 'fluent-plugin-elasticsearch'
+gem 'aws-sdk'
+gem 'faraday_middleware-aws-signers-v4'

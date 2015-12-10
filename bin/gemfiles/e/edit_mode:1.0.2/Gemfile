@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'jquery-turbolinks'
+gem 'rake'
+gem 'rspec-rails'
+gem 'nokogiri'
+gem 'capybara'

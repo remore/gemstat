@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'thor'
+gem 'chef'
+gem 'yajl-ruby'

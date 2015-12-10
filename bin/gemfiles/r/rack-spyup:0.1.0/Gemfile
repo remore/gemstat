@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'coderay'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rack-test'

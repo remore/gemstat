@@ -1,0 +1,8 @@
+gem 'html-pipeline'
+gem 'github-markdown'
+gem 'rake'
+gem 'coffee-script'
+gem 'json'
+gem 'rack'
+gem 'sprockets'
+gem 'minitest'

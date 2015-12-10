@@ -1,0 +1,7 @@
+gem 'buildr'
+gem 'rspec'
+gem 'yard'
+gem 'backports'
+gem 'promise'
+gem 'rdf'
+gem 'sxp'

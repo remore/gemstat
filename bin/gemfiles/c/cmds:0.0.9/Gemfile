@@ -1,0 +1,8 @@
+gem 'nrser'
+gem 'erubis'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pastel'
+gem 'yard'
+gem 'redcarpet'

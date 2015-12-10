@@ -1,0 +1,6 @@
+gem 'system_navigation'
+gem 'core_classes'
+gem 'coderay'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'synapse'
+gem 'freeport'
+gem 'sqlite3'

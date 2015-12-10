@@ -1,0 +1,7 @@
+gem 'dnssd'
+gem 'json'
+gem 'osc-ruby'
+gem 'trollop'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'

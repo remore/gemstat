@@ -1,0 +1,6 @@
+gem 'json'
+gem 'spork'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'rb-fsevent'

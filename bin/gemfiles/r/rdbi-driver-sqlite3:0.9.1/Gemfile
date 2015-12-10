@@ -1,0 +1,6 @@
+gem 'test-unit'
+gem 'rdoc'
+gem 'rdbi'
+gem 'sqlite3-ruby'
+gem 'methlab'
+gem 'epoxy'

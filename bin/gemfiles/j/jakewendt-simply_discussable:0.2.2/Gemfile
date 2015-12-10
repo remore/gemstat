@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jakewendt-simply_helpful'
+gem 'jakewendt-ruby_extension'
+gem 'jakewendt-rails_extension'
+gem 'jakewendt-simply_authorized'
+gem 'chronic'
+gem 'ssl_requirement'
+gem 'ryanb-acts-as-list'

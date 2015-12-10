@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'commander'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'dotenv'
+gem 'rspec'
+gem 'awesome_print'

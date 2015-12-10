@@ -1,0 +1,2 @@
+gem 'Empact-authlogic'
+gem 'Empact-rpx_now'

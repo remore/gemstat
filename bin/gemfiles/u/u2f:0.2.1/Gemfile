@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'json_expressions'
+gem 'rubocop'
+gem 'coveralls'
+gem 'simplecov'

@@ -1,0 +1,6 @@
+gem 'json'
+gem 'xml-simple'
+gem 'rspec'
+gem 'restforce'
+gem 'rake'
+gem 'pry'

@@ -1,0 +1,8 @@
+gem 'rubynode'
+gem 'sane'
+gem 'event_hook'
+gem 'backports'
+gem 'ruby2ruby'
+gem 'ParseTree'
+gem 'assert2'
+gem 'backtracer'

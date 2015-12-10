@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'byebug'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'
+gem 'googleauth'
+gem 'json'

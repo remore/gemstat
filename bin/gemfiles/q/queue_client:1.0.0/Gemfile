@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'bunny'
+gem 'eventmachine'
+gem 'amqp'
+gem 'oj'

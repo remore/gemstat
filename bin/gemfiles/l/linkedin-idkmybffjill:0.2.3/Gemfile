@@ -1,0 +1,7 @@
+gem 'oauth'
+gem 'nokogiri'
+gem 'crack'
+gem 'shoulda'
+gem 'jnunemaker-matchy'
+gem 'mocha'
+gem 'fakeweb'

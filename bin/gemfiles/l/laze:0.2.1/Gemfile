@@ -1,0 +1,8 @@
+gem 'thoughtbot-shoulda'
+gem 'liquid'
+gem 'rdiscount'
+gem 'RedCloth'
+gem 'jsmin'
+gem 'cssmin'
+gem 'directory_watcher'
+gem 'less'

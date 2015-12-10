@@ -1,0 +1,6 @@
+gem 'loquacious'
+gem 'rufus-tokyo'
+gem 'logging'
+gem 'main'
+gem 'configuration'
+gem 'rake'

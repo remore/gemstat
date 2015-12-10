@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'aruba'
+gem 'gem-release'
+gem 'rake'
+gem 'methadone'
+gem 'openstack'

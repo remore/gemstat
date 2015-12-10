@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'nokogiri'
+gem 'pry'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'rack-cache'

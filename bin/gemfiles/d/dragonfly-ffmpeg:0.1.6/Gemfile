@@ -1,0 +1,6 @@
+gem 'dragonfly'
+gem 'streamio-ffmpeg'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'fuubar'

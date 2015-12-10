@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'launchy'
+gem 'erubis'
+gem 'rake'
+gem 'shotgun'
+gem 'guard-livereload'

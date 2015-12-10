@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'gcloud'
+gem 'fluent-plugin-buffer-lightening'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

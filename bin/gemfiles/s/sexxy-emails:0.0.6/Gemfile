@@ -1,0 +1,5 @@
+gem 'css_parser'
+gem 'nokogiri'
+gem 'rdoc'
+gem 'rake'
+gem 'minitest'

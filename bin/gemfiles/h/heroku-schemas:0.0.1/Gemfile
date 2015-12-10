@@ -1,0 +1,8 @@
+gem 'heroku'
+gem 'heroku-api'
+gem 'pg'
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'

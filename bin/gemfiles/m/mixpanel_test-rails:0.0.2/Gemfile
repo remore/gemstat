@@ -1,0 +1,2 @@
+gem 'mixpanel_test_service'
+gem 'rails'

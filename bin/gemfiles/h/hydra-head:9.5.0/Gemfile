@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'hydra-access-controls'
+gem 'hydra-core'
+gem 'jettywrapper'
+gem 'yard'
+gem 'rspec-rails'
+gem 'factory_girl_rails'

@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'faraday'
+gem 'rake'
+gem 'webmock'
+gem 'rspec'
+gem 'vcr'
+gem 'pry'

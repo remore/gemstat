@@ -1,0 +1,7 @@
+gem 'crack'
+gem 'patron'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

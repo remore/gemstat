@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'pry'
+gem 'pry-nav'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

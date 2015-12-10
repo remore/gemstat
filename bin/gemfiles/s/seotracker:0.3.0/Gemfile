@@ -1,0 +1,4 @@
+gem 'mechanize'
+gem 'minitest'
+gem 'jeweler'
+gem 'pry'

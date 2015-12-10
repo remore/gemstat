@@ -1,0 +1,5 @@
+gem 'commander'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'awesome_print'

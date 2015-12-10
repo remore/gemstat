@@ -1,0 +1,4 @@
+gem 'fast_timestamp'
+gem 'geokit'
+gem 'activesupport'
+gem 'activerecord'

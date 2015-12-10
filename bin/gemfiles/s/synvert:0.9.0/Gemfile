@@ -1,0 +1,5 @@
+gem 'synvert-core'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

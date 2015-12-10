@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'eventmachine-tail'
+gem 'json'
+gem 'mongo_mapper'
+gem 'bson_ext'
+gem 'em-websocket'

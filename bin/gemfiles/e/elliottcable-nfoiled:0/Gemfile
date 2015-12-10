@@ -1,0 +1,6 @@
+gem 'ncurses'
+gem 'echoe'
+gem 'rspec'
+gem 'rcov'
+gem 'yard'
+gem 'stringray'

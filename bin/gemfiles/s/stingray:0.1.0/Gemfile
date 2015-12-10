@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'json'
+gem 'map'
+gem 'shoulda'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'
+gem 'webmock'

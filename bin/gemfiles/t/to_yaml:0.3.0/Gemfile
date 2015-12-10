@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec_junit_formatter'
+gem 'rspec'
+gem 'json'

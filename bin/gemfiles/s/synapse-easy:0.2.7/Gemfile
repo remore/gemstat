@@ -1,0 +1,5 @@
+gem 'resolv-consul'
+gem 'freeport'
+gem 'fake-hash'
+gem 'bundler'
+gem 'rake'

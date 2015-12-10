@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'
+gem 'vclog'
+gem 'minitest'
+gem 'rcov'
+gem 'riot'
+gem 'reek'

@@ -1,0 +1,4 @@
+gem 'protest'
+gem 'vcr'
+gem 'webmock'
+gem 'curb'

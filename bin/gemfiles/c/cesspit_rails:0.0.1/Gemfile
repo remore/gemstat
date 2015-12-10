@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'cesspit'
+gem 'sass-rails'
+gem 'pry'

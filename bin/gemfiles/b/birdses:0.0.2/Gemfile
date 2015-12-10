@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'gollum'
+gem 'gollum_editor'
+gem 'rspec-rails'

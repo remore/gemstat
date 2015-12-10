@@ -1,0 +1,4 @@
+gem 'claide'
+gem 'spaceship'
+gem 'bundler'
+gem 'rake'

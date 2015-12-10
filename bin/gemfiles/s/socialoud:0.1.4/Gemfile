@@ -1,0 +1,5 @@
+gem 'twitter'
+gem 'github_api'
+gem 'nokogiri'
+gem 'httparty'
+gem 'sinatra'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'appraisal'
+gem 'mocha'
+gem 'yard'
+gem 'rake'
+gem 'rack-test'
+gem 'turn'

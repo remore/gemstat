@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'json'
+gem 'awesome_print'
+gem 'pry'
+gem 'rake'

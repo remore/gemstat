@@ -1,0 +1,5 @@
+gem 'grape'
+gem 'addressable'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

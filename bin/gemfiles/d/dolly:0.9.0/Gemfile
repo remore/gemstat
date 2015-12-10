@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'httparty'
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'fakeweb'
+gem 'factory_girl_rails'
+gem 'mocha'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'minitest'
+gem 'minitest-great_expectations'
+gem 'turn'
+gem 'coveralls'

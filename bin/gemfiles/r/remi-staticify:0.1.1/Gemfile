@@ -1,0 +1,2 @@
+gem 'remi-rackbox'
+gem 'remi-rack-staticifier'

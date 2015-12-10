@@ -1,0 +1,6 @@
+gem 'dm-core'
+gem 'rack'
+gem 'dm-migrations'
+gem 'dm-transactions'
+gem 'dm-sqlite-adapter'
+gem 'rspec'

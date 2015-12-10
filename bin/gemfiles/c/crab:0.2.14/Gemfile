@@ -1,0 +1,8 @@
+gem 'aruba'
+gem 'cucumber'
+gem 'gherkin'
+gem 'rally_rest_api'
+gem 'highline'
+gem 'activesupport'
+gem 'i18n'
+gem 'trollop'

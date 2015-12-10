@@ -1,0 +1,7 @@
+gem 'json'
+gem 'simple_cache'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'fakeweb'

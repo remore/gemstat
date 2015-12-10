@@ -1,0 +1,5 @@
+gem 'mixlib-cli'
+gem 'chef'
+gem 'rspec'
+gem 'rake'
+gem 'rdoc'

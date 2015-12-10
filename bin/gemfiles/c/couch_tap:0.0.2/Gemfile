@@ -1,0 +1,7 @@
+gem 'couchrest'
+gem 'em-http-request'
+gem 'yajl-ruby'
+gem 'sequel'
+gem 'activesupport'
+gem 'mocha'
+gem 'sqlite3'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'shoulda'
+gem 'mocha'
+gem 'tzinfo'
+gem 'cassandra'
+gem 'simple_mapper'

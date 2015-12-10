@@ -1,0 +1,8 @@
+gem 'robut'
+gem 'json'
+gem 'wunderground'
+gem 'simplecov'
+gem 'webmock'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

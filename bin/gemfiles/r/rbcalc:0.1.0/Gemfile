@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'RubyInline'
+gem 'rake'
+gem 'rspec'
+gem 'fuubar'

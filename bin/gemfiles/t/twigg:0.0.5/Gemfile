@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'factory_girl'
+gem 'rake'
+gem 'rr'
+gem 'rspec'

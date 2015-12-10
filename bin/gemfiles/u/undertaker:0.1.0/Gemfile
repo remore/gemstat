@@ -1,0 +1,5 @@
+gem 'redis-namespace'
+gem 'json'
+gem 'terminal-table'
+gem 'thoughtbot-shoulda'
+gem 'yard'

@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'equivalent-xml'
+gem 'nokogiri'
+gem 'sham_rack'
+gem 'sinatra'
+gem 'hen'
+gem 'rake'
+gem 'rspec'

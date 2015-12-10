@@ -1,0 +1,5 @@
+gem 'clipboard'
+gem 'listen'
+gem 'mercenary'
+gem 'rest-client'
+gem 'terminal-notifier'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'koala'
+gem 'activesupport'
+gem 'launchy'
+gem 'eventmachine'

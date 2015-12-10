@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rails_admin'
+gem 'hstore_translate'
+gem 'bundler'
+gem 'rake'

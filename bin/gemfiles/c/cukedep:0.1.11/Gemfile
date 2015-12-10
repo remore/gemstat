@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'gherkin'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubygems'

@@ -1,0 +1,8 @@
+gem 'hooks'
+gem 'session'
+gem 'net-ssh'
+gem 'rake'
+gem 'simplecov'
+gem 'coveralls'
+gem 'yard'
+gem 'redcarpet'

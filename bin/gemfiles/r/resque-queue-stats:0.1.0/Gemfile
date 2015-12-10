@@ -1,0 +1,4 @@
+gem 'resque'
+gem 'bundler'
+gem 'jeweler'
+gem 'ruby-debug19'

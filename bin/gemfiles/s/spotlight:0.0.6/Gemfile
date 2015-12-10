@@ -1,0 +1,4 @@
+gem 'plist'
+gem 'rake'
+gem 'rspec'
+gem 'spotlight'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'shotgun'
+gem 'passenger'
+gem 'sinatra'
+gem 'nfsadmin'

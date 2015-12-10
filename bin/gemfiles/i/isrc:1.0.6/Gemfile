@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'rspec'
+gem 'guard'

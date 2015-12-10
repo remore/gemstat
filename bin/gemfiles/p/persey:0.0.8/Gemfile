@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'configus'
+gem 'yajl-ruby'
+gem 'toml'
+gem 'inifile'

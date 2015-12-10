@@ -1,0 +1,6 @@
+gem 'sass'
+gem 'railties'
+gem 'go_script'
+gem 'rake'
+gem 'bundler'
+gem 'rubocop'

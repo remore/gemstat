@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rails'
+gem 'jquery-rails'
+gem 'rails-asset-jqueryui'

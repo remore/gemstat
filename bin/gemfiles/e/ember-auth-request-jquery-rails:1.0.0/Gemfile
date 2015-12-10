@@ -1,0 +1,2 @@
+gem 'ember-auth-request-jquery-source'
+gem 'rails'

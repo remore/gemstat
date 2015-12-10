@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'coveralls'
+gem 'guard'
+gem 'guard-rspec'
+gem 'pry'
+gem 'pry-debugger'
+gem 'rake'
+gem 'rspec'

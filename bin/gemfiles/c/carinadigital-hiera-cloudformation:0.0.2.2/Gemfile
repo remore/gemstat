@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'aws-sdk'
+gem 'timedcache'
+gem 'json'

@@ -1,0 +1,2 @@
+gem 'gsolr'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'stud'
+gem 'rsolr'
+gem 'uuidtools'
+gem 'logstash-devutils'

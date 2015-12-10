@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'test-unit'

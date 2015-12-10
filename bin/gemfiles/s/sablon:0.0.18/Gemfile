@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'xml-simple'

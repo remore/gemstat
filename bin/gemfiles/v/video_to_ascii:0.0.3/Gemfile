@@ -1,0 +1,4 @@
+gem 'asciiart'
+gem 'streamio-ffmpeg'
+gem 'highline'
+gem 'pry'

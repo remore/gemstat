@@ -1,0 +1,2 @@
+gem 'gitlab-grit'
+gem 'rspec'

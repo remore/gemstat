@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'rake'
+gem 'rspec'
+gem 'test-unit'
+gem 'pry'
+gem 'rubocop'

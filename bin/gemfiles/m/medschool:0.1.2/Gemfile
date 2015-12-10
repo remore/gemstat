@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'coderay'
+gem 'json-schema'
+gem 'multi_json'
+gem 'pry'

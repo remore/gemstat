@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'aws-s3'
+gem 'yajl-ruby'
+gem 'map'
+gem 'http'
+gem 'rmagick'
+gem 'rspec'
+gem 'vcr'

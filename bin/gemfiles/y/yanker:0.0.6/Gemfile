@@ -1,0 +1,4 @@
+gem 'mime-types'
+gem 'aws-s3'
+gem 'bundler'
+gem 'rake'

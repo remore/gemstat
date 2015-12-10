@@ -1,0 +1,7 @@
+gem 'capybara'
+gem 'oily_png'
+gem 'phashion'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'

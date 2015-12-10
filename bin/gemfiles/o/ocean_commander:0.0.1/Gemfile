@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'digital_ocean'
+gem 'table_print'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

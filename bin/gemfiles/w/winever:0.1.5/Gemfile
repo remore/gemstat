@@ -1,0 +1,6 @@
+gem 'whenever'
+gem 'highline'
+gem 'win32-taskscheduler'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

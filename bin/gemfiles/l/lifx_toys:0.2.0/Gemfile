@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'pry'
+gem 'json'
+gem 'httparty'
+gem 'lifx'
+gem 'lifx_http'

@@ -1,0 +1,7 @@
+gem 'sixarm_ruby_rexml'
+gem 'sixarm_ruby_xml_load'
+gem 'sixarm_ruby_xml_strip'
+gem 'minitest'
+gem 'rake'
+gem 'simplecov'
+gem 'coveralls'

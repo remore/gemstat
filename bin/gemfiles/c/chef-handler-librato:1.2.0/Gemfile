@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'chef'
+gem 'aggregate'
+gem 'multi_json'
+gem 'faraday'
+gem 'librato-metrics'

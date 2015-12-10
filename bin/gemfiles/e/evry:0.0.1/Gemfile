@@ -1,0 +1,4 @@
+gem 'getopt'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

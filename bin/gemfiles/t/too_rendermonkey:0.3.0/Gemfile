@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rails'
+gem 'sqlite3'
+gem 'rest-client'

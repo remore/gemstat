@@ -1,0 +1,5 @@
+gem 'mongo'
+gem 'bson_ext'
+gem 'rack'
+gem 'radix62'
+gem 'tzinfo'

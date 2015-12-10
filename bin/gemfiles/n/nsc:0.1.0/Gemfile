@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'inquirer'
+gem 'pastel'
+gem 'cocaine'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'debugger'
+gem 'rspec'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

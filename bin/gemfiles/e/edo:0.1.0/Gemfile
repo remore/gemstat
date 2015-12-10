@@ -1,0 +1,6 @@
+gem 'sandi_meter'
+gem 'rubycritic'
+gem 'rubocop'
+gem 'brakeman'
+gem 'bundler'
+gem 'rake'

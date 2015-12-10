@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'mongo'
+gem 'jnunemaker-validatable'
+gem 'mocha'
+gem 'jnunemaker-matchy'

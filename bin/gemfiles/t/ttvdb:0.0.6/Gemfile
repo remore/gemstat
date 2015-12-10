@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'xml-simple'
+gem 'rest-client'
+gem 'similar_text'

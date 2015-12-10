@@ -1,0 +1,4 @@
+gem 'couchbase'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'rack'
+gem 'milkode'
+gem 'github_api'
+gem 'omniauth'
+gem 'omniauth-github'

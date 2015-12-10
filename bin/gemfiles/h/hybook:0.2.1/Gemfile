@@ -1,0 +1,8 @@
+gem 'props'
+gem 'logutils'
+gem 'textutils'
+gem 'markdown'
+gem 'gli'
+gem 'activesupport'
+gem 'rdoc'
+gem 'hoe'

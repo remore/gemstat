@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'redis'
+gem 'sinatra'
+gem 'haml'
+gem 'capybara'

@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'sandal'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'
+gem 'sinatra'

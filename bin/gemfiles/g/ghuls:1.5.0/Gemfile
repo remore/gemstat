@@ -1,0 +1,6 @@
+gem 'octokit'
+gem 'rainbow'
+gem 'string-utility'
+gem 'ghuls-lib'
+gem 'progress_bar'
+gem 'array_utility'

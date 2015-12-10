@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'guard-cucumber'
+gem 'guard-rspec'
+gem 'rspec'
+gem 'state_machine'

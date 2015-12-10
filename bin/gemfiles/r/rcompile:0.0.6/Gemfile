@@ -1,0 +1,7 @@
+gem 'methadone'
+gem 'nokogiri'
+gem 'sass'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'

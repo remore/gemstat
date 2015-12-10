@@ -1,0 +1,5 @@
+gem 'cuba'
+gem 'dotenv'
+gem 'tilt'
+gem 'rake'
+gem 'minitest'

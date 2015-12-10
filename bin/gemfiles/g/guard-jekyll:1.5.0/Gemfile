@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'guard-compat'
+gem 'jekyll'
+gem 'nenv'
+gem 'bundler'

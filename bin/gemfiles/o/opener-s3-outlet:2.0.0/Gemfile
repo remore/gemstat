@@ -1,0 +1,7 @@
+gem 'opener-kaf2json'
+gem 'opener-daemons'
+gem 'opener-webservice'
+gem 'opener-core'
+gem 'builder'
+gem 'nokogiri'
+gem 'rake'

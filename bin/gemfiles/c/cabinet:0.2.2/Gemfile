@@ -1,0 +1,5 @@
+gem 'fog'
+gem 'rake'
+gem 'rspec'
+gem 'forgery'
+gem 'fuubar'

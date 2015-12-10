@@ -1,0 +1,2 @@
+gem 'jsonmodel'
+gem 'formtastic'

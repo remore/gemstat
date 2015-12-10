@@ -1,0 +1,6 @@
+gem 'mingle-storage'
+gem 'rails'
+gem 'sqlite3'
+gem 'rmagick'
+gem 'aws-sdk'
+gem 'nokogiri'

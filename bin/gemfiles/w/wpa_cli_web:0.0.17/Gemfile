@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'wpa_cli_ruby'
+gem 'thin'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

@@ -1,0 +1,6 @@
+gem 'mongo'
+gem 'bson_ext'
+gem 'data_objects'
+gem 'do_mysql'
+gem 'do_postgres'
+gem 'rspec'

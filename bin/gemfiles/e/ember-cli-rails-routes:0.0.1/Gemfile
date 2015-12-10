@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'railties'
+gem 'sprockets'
+gem 'ember-cli-rails-deploy-redis'

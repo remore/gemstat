@@ -1,0 +1,7 @@
+gem 'savon'
+gem 'rspec'
+gem 'httpclient'
+gem 'webmock'
+gem 'autotest'
+gem 'rake'
+gem 'ZenTest'

@@ -1,0 +1,5 @@
+gem 'method_source'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-doc'

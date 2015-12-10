@@ -1,0 +1,7 @@
+gem 'kynetx_am_api'
+gem 'terminal-table'
+gem 'sinatra'
+gem 'launchy'
+gem 'awesome_print'
+gem 'thor'
+gem 'rspec'

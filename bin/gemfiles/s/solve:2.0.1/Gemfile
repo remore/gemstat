@@ -1,0 +1,6 @@
+gem 'semverse'
+gem 'molinillo'
+gem 'thor'
+gem 'rake'
+gem 'spork'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'sinatra'
+gem 'slim'
+gem 'sass'
+gem 'compass'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'cistern'
+gem 'xml-simple'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multi_xml'

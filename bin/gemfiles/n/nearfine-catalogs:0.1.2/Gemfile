@@ -1,0 +1,5 @@
+gem 'excon'
+gem 'signature'
+gem 'virtus'
+gem 'minitest'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'underscore-rails'
+gem 'rails'
+gem 'jquery-rails'
+gem 'jasminerice'

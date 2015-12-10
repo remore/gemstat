@@ -1,0 +1,2 @@
+gem 'slf4j'
+gem 'rspec'

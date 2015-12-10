@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'ember-bootstrap-source'
+gem 'bundler'
+gem 'rake'

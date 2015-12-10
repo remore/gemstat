@@ -1,0 +1,7 @@
+gem 'chronic'
+gem 'shoulda'
+gem 'simplecov'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'maruku'

@@ -1,0 +1,4 @@
+gem 'pethau'
+gem 'net-dns'
+gem 'null_logger'
+gem 'bindata'

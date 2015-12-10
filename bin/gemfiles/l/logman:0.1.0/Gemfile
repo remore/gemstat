@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'bson_ext'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'mongoid'
+gem 'bcrypt-ruby'

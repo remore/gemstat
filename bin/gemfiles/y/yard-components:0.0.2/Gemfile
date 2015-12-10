@@ -1,0 +1,7 @@
+gem 'yard'
+gem 'bluecloth'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-debug'

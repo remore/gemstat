@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'tire'
+gem 'json'
+gem 'newrelic_rpm'
+gem 'rack-test'
+gem 'trollop'

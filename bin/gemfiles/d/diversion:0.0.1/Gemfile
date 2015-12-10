@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'nokogiri'
+gem 'ruby-hmac'
+gem 'multi_json'
+gem 'actionmailer'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'

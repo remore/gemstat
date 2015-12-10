@@ -1,0 +1,5 @@
+gem 'do_sqlserver'
+gem 'dm-do-adapter'
+gem 'dm-migrations'
+gem 'jeweler'
+gem 'rspec'

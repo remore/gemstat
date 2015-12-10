@@ -1,0 +1,4 @@
+gem 'celluloid'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'

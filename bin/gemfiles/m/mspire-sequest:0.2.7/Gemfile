@@ -1,0 +1,6 @@
+gem 'mspire'
+gem 'trollop'
+gem 'jeweler'
+gem 'bio'
+gem 'ms-testdata'
+gem 'rspec'

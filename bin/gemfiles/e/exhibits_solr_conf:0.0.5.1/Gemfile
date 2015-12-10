@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'jettywrapper'
+gem 'hurley'
+gem 'rubocop'
+gem 'rubocop-rspec'

@@ -1,0 +1,7 @@
+gem 'logger'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'yard'
+gem 'travis'

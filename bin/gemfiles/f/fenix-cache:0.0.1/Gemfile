@@ -1,0 +1,4 @@
+gem 'moneta'
+gem 'fenix-core'
+gem 'rspec'
+gem 'rake'

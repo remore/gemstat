@@ -1,0 +1,4 @@
+gem 'sprout'
+gem 'sprout-flex4sdk-tool'
+gem 'shoulda'
+gem 'mocha'

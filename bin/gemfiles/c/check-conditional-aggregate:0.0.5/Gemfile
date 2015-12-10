@@ -1,0 +1,7 @@
+gem 'sensu-plugin'
+gem 'rest-client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'geminabox'
+gem 'rspec-mocks'

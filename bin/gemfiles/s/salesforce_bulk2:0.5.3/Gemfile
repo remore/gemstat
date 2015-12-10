@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'xml-simple'
+gem 'mocha'
+gem 'rake'
+gem 'shoulda'
+gem 'webmock'

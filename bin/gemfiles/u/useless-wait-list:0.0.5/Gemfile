@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'useless'
+gem 'useless-doc'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'oj'

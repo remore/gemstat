@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rake'
+gem 'coveralls'
+gem 'sqlite3'
+gem 'rspec'
+gem 'pry-meta'

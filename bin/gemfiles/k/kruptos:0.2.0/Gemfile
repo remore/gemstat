@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'cli-colorize'
+gem 'rdoc'
+gem 'cucumber'
+gem 'bundler'
+gem 'simplecov'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'vcr'
+gem 'rcov'
+gem 'httparty'
+gem 'will_paginate'

@@ -1,0 +1,5 @@
+gem 'net-ssh-multi'
+gem 'mysql2'
+gem 'gli'
+gem 'term-ansicolor'
+gem 'terminal-table'

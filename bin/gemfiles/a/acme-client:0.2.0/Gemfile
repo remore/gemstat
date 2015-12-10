@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'faraday'
-gem 'url_safe_base64'
-gem 'json-jwt'

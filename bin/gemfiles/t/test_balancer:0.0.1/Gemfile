@@ -1,0 +1,4 @@
+gem 'ruby-debug'
+gem 'rake'
+gem 'json'
+gem 'active_support'

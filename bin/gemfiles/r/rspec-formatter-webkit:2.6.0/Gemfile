@@ -1,0 +1,7 @@
+gem 'rspec-core'
+gem 'hoe-mercurial'
+gem 'hoe-deveiate'
+gem 'hoe-highline'
+gem 'rdoc'
+gem 'hoe-bundler'
+gem 'hoe'

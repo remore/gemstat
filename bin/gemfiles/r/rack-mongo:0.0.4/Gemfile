@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'yajl-ruby'
+gem 'mongo'
+gem 'bson_ext'
+gem 'addressable'
+gem 'rack-test'
+gem 'rspec'

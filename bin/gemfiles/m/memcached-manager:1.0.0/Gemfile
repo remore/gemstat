@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'dalli'
+gem 'vegas'
+gem 'thin'
+gem 'jeweler'
+gem 'jasmine'
+gem 'cucumber'

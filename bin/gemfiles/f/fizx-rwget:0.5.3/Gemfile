@@ -1,0 +1,5 @@
+gem 'curb'
+gem 'hpricot'
+gem 'fizx-robots'
+gem 'igrigorik-bloomfilter'
+gem 'libxml-ruby'

@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'yajl-ruby'
+gem 'sinatra-contrib'
+gem 'rainbow'
+gem 'ruby-terminfo'
+gem 'thin'
+gem 'minitest'
+gem 'pry'

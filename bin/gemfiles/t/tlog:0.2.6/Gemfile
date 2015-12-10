@@ -1,0 +1,5 @@
+gem 'commander'
+gem 'chronic_duration'
+gem 'git'
+gem 'chronic'
+gem 'colorize'

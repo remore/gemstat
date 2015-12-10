@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'fakeweb'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'mechanize'
+gem 'nokogiri'

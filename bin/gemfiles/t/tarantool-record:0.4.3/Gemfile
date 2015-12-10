@@ -1,0 +1,2 @@
+gem 'tarantool'
+gem 'activemodel'

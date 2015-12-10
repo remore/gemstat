@@ -1,0 +1,5 @@
+gem 'restfolia'
+gem 'uri_template'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'

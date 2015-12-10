@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rspec'
+gem 'webmock'
+gem 'thin'
+gem 'yard'
+gem 'rest-client'
+gem 'nokogiri'

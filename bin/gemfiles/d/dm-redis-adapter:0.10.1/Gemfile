@@ -1,0 +1,7 @@
+gem 'dm-core'
+gem 'dm-validations'
+gem 'dm-types'
+gem 'redis'
+gem 'hiredis'
+gem 'rake'
+gem 'jeweler'

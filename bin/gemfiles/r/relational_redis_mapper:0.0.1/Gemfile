@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'i18n'
+gem 'activesupport-inflector'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

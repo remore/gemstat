@@ -1,0 +1,4 @@
+gem 'json'
+gem 'redis'
+gem 'rest-client'
+gem 'json2graphite'

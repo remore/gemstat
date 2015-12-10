@@ -1,0 +1,2 @@
+gem 'action_mailer'
+gem 'pony'

@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'exemplor'
+gem 'rack-test'
+gem 'pow'

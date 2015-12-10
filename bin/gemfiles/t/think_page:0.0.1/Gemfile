@@ -1,0 +1,4 @@
+gem 'oj'
+gem 'restclient_api_base'
+gem 'bundler'
+gem 'rake'

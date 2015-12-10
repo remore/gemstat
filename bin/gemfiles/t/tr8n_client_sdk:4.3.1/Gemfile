@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'tr8n_core'

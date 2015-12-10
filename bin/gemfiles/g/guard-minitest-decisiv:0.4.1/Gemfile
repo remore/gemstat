@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'minitest'
+gem 'bundler'
+gem 'mocha'

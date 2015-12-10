@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'cucumber'
+gem 'aruba'
+gem 'aruba-doubles'
+gem 'guard-cucumber'
+gem 'rb-fsevent'

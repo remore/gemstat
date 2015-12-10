@@ -1,0 +1,8 @@
+gem 'prawn'
+gem 'prawn-table'
+gem 'i18n'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'pdf-inspector'

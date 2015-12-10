@@ -1,0 +1,5 @@
+gem 'sequel-devise'
+gem 'sequel-rails'
+gem 'rails'
+gem 'bundler'
+gem 'rake'

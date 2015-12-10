@@ -1,0 +1,8 @@
+gem 'rchardet'
+gem 'hpricot'
+gem 'nokogiri'
+gem 'character-encodings'
+gem 'htmltools'
+gem 'htmlentities'
+gem 'mongrel'
+gem 'addressable'

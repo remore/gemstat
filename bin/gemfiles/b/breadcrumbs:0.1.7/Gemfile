@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'nokogiri'
+gem 'actionpack'
+gem 'mocha'
+gem 'rake'
+gem 'test-unit'

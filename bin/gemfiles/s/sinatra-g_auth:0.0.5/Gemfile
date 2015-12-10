@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'omniauth-google-apps'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rack-test'

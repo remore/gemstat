@@ -1,0 +1,2 @@
+gem 'inifile'
+gem 'r18n-desktop'

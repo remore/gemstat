@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'fakeweb'
+gem 'ruby_tubesday'
+gem 'nokogiri'
+gem 'extlib'

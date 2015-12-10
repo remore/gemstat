@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'i18n'
+gem 'savon'
+gem 'activesupport'
+gem 'bundler'
+gem 'rdoc'
+gem 'rainbow'
+gem 'rubocop'

@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'queryparams'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

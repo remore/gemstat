@@ -1,0 +1,5 @@
+gem 'curb'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'htmlentities'

@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-compact-doc-formatter'
+gem 'metrical'

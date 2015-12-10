@@ -1,0 +1,5 @@
+gem 'mongoid'
+gem 'bson_ext'
+gem 'mongoid_followable'
+gem 'database_cleaner'
+gem 'rspec'

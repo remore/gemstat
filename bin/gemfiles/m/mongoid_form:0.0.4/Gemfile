@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'actionpack'
+gem 'activesupport'
+gem 'rails'
+gem 'bundler'
+gem 'rake'

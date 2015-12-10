@@ -1,0 +1,6 @@
+gem 'haml'
+gem 'pygments.rb'
+gem 'redcarpet'
+gem 'sinatra'
+gem 'rake'
+gem 'rspec'

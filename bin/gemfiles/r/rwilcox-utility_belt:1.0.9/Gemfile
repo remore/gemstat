@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'wirble'
+gem 'aws-s3'
+gem 'Platform'

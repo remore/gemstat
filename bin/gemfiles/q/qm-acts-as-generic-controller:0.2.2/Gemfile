@@ -1,0 +1,7 @@
+gem 'qui-common-helpers'
+gem 'qui-index-table'
+gem 'qui-tabs'
+gem 'qui-toolbar'
+gem 'rfc822'
+gem 'sort_alphabetical'
+gem 'calendar_date_select'

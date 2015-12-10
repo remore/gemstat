@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'require_all'
+gem 'her'
+gem 'faraday-http-cache'

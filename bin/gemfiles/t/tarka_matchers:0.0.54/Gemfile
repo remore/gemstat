@@ -1,0 +1,7 @@
+gem 'pry'
+gem 'ruby-terminfo'
+gem 'bundler'
+gem 'awesome_print'
+gem 'the_great_escape'
+gem 'rake'
+gem 'faker'

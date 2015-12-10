@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'pry'
+gem 'coveralls'

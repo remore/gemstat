@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rack-contrib'
+gem 'mini_magick'
+gem 'lumberjack'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

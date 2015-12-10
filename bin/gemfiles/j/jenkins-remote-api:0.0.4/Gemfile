@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'terminal-table'
+gem 'thor'
+gem 'mechanize'
+gem 'libxml-ruby'

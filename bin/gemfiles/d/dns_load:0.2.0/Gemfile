@@ -1,0 +1,4 @@
+gem 'celluloid'
+gem 'trollop'
+gem 'bundler'
+gem 'rake'

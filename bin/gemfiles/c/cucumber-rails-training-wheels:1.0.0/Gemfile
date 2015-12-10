@@ -1,0 +1,6 @@
+gem 'cucumber-rails'
+gem 'rails'
+gem 'aruba'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'database_cleaner'

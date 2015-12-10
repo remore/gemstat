@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'httparty'
+gem 'public_suffix'
+gem 'bundler'
+gem 'rake'

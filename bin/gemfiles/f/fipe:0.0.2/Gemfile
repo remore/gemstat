@@ -1,0 +1,6 @@
+gem 'levtera'
+gem 'activeresource'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

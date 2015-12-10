@@ -1,0 +1,4 @@
+gem 'e'
+gem 'el'
+gem 'slim'
+gem 'bundler'

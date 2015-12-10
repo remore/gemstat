@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'haml'
+gem 'rdiscount'
+gem 'shoulda'
+gem 'yard'
+gem 'mocha'
+gem 'fakefs'

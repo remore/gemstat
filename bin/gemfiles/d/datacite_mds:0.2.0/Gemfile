@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'yard'
+gem 'travis'
+gem 'coveralls'
+gem 'xml-simple'

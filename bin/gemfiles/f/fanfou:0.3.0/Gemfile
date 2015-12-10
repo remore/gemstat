@@ -1,0 +1,7 @@
+gem 'json'
+gem 'oauth'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

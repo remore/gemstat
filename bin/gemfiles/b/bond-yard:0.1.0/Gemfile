@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'bacon'
+gem 'mocha'
+gem 'mocha-on-bacon'
+gem 'bacon-bits'

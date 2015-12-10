@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'appraisal'
+gem 'mocha'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'rails'

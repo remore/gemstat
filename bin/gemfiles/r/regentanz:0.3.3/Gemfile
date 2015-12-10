@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'rake'
+gem 'mocha'
+gem 'bundler'
+gem 'factory_girl'
+gem 'rdoc'

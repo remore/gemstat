@@ -1,0 +1,5 @@
+gem 'smartcard'
+gem 'tem_multi_proxy'
+gem 'tem_ruby'
+gem 'echoe'
+gem 'flexmock'

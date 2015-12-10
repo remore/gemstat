@@ -1,0 +1,7 @@
+gem 'andrewhao-gpx'
+gem 'pry'
+gem 'guard-rspec'
+gem 'rspec'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'slim'
+gem 'rubocop'
+gem 'sysexits'
+gem 'rspec'
+gem 'rspec-its'

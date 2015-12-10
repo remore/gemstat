@@ -1,0 +1,4 @@
+gem 'request_store'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'guard'
+gem 'guard-minitest'
+gem 'thor'
+gem 'spy_rb'

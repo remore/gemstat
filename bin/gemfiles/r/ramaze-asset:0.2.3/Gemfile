@@ -1,0 +1,6 @@
+gem 'ramaze'
+gem 'rake'
+gem 'yard'
+gem 'bacon'
+gem 'rdiscount'
+gem 'rack-test'

@@ -1,0 +1,8 @@
+gem 'morse_fields_validator'
+gem 'bundler'
+gem 'coveralls'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'shoulda-matchers'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rake'
+gem 'yard'
+gem 'minitest'
+gem 'mysql2'
+gem 'pg'
+gem 'database_cleaner'

@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'websocket-eventmachine-server'
+gem 'eventmachine-tail'
+gem 'thin'
+gem 'sinatra'
+gem 'trollop'
+gem 'launchy'

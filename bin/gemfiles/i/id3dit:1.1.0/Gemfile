@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'id3lib-ruby'
+gem 'highline'
+gem 'rainbow'

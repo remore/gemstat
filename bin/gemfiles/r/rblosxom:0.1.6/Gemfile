@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'haml'
+gem 'RedCloth'
+gem 'itsucks-compass-960-plugin'

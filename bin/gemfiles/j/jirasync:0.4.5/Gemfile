@@ -1,0 +1,4 @@
+gem 'trollop'
+gem 'httparty'
+gem 'parallel'
+gem 'ruby-progressbar'

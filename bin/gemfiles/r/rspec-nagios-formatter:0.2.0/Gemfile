@@ -1,0 +1,7 @@
+gem 'rspec-core'
+gem 'rspec'
+gem 'open3_backport'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'rake'
+gem 'aruba'

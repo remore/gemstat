@@ -1,0 +1,4 @@
+gem 'headless'
+gem 'selenium-webdriver'
+gem 'bundler'
+gem 'rake'

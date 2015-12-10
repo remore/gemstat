@@ -1,0 +1,8 @@
+gem 'json'
+gem 'highline'
+gem 'httparty'
+gem 'pry'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'gli'

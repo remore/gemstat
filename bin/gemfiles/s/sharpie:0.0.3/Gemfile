@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-advanced-routes'
+gem 'rack-test'
+gem 'bundler'
+gem 'rake'
+gem 'pry-rescue'

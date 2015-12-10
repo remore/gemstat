@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'rack'
+gem 'tilt'
+gem 'sequel'

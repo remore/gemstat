@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'rake'
+gem 'thor'
+gem 'ripl'
+gem 'minitest'
+gem 'json_pure'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'paint'
+gem 'macaddr'
+gem 'net-ping'
+gem 'table_print'

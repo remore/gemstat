@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'actionpack'
+gem 'activemodel'
+gem 'activesupport'
+gem 'tzinfo'
+gem 'rspec-rails'
+gem 'mime-types'
+gem 'capybara'

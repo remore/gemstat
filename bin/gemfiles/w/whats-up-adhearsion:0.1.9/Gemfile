@@ -1,0 +1,8 @@
+gem 'adhearsion'
+gem 'json'
+gem 'rack'
+gem 'mongrel'
+gem 'rspec'
+gem 'flexmock'
+gem 'jeweler'
+gem 'activerecord'

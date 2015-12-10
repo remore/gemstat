@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'persistent_http'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'webmock'

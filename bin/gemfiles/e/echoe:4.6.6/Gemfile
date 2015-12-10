@@ -1,0 +1,4 @@
+gem 'rubyforge'
+gem 'allison'
+gem 'rdoc'
+gem 'rake'

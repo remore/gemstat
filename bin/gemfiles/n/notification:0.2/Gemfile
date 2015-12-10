@@ -1,0 +1,4 @@
+gem 'gmailer'
+gem 'ruby-growl'
+gem 'mocha'
+gem 'hoe'

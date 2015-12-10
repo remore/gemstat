@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'get_pomo'
+gem 'activesupport'
+gem 'java-properties'
+gem 'bundler'
+gem 'rake'
+gem 'gem-release'

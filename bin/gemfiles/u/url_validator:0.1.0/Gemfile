@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'debugger'
+gem 'sqlite3'
+gem 'rails'
+gem 'addressable'

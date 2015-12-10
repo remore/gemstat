@@ -1,0 +1,7 @@
+gem 'ratom'
+gem 'ruby-hmac'
+gem 'rsa'
+gem 'time-lord'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'semvergen'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'pry'

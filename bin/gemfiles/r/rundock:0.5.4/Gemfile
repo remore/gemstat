@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'serverspec'
+gem 'rubocop'
+gem 'specinfra'
+gem 'ansi'
+gem 'thor'
+gem 'net-ssh'

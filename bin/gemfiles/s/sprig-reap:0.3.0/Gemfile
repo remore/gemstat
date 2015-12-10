@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'pry'
+gem 'generator_spec'
+gem 'carrierwave'

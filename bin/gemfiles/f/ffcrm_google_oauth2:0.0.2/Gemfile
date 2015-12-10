@@ -1,0 +1,4 @@
+gem 'fat_free_crm'
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
+gem 'pg'

@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rest-client'
+gem 'oauth'
+gem 'activesupport'
+gem 'i18n'
+gem 'yard'
+gem 'maruku'

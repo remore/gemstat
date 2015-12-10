@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'fog'
+gem 'activesupport'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'cucumber'

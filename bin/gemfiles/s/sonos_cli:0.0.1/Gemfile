@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'thor'
+gem 'sonos'
+gem 'awesome_print'

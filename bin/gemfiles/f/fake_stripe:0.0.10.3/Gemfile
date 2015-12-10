@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'sinatra'
+gem 'webmock'
+gem 'pry'
+gem 'rspec'
+gem 'stripe'

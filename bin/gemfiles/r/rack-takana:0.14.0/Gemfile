@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'sequel'
+gem 'sqlite3'
+gem 'jeweler'
+gem 'combustion'
+gem 'rspec'
+gem 'rspec-rails'

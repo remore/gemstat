@@ -1,0 +1,5 @@
+gem 'gosu'
+gem 'thor'
+gem 'test-unit'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'flog'
+gem 'bundler'
+gem 'rake'

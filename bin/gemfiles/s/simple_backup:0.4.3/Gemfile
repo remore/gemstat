@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'colorize'
+gem 'mail'
+gem 'mysql2'

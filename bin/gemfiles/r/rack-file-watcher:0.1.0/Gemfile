@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rack-test'

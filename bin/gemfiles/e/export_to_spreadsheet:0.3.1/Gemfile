@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'google-spreadsheet-ruby'
+gem 'rjb'
+gem 'yard'
+gem 'highline'
+gem 'sqlite3'

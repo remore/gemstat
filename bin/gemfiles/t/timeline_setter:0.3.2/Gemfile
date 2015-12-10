@@ -1,0 +1,5 @@
+gem 'json'
+gem 'table_fu'
+gem 'kompress'
+gem 'jammit'
+gem 'rspec'

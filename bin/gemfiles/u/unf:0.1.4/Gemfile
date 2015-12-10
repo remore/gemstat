@@ -1,0 +1,5 @@
+gem 'unf_ext'
+gem 'shoulda'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'

@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'redis-objects'
+gem 'abyss'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'httpi'
+gem 'thor'
+gem 'colorize'
+gem 'highline'
+gem 'rbnacl-libsodium'
+gem 'multi_json'
+gem 'dotenv'
+gem 'rspec'

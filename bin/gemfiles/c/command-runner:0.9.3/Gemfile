@@ -1,0 +1,5 @@
+gem 'promise'
+gem 'hashie'
+gem 'rspec'
+gem 'yard'
+gem 'fuubar'

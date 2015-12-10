@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rest-client'
+gem 'addressable'
+gem 'json'
+gem 'dotenv'

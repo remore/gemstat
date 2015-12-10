@@ -1,0 +1,8 @@
+gem 'dm-sqlite-adapter'
+gem 'data_mapper'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'dm-sqlite-adapter'
+gem 'data_mapper'

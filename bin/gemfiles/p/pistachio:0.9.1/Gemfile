@@ -1,0 +1,8 @@
+gem 'stash'
+gem 'rack'
+gem 'rack-test'
+gem 'bundler'
+gem 'jeweler'
+gem 'stash'
+gem 'rack'
+gem 'rack-test'

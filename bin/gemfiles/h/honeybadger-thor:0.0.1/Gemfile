@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'honeybadger'
+gem 'bundler'
+gem 'rake'

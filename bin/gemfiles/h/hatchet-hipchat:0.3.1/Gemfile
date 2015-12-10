@@ -1,0 +1,2 @@
+gem 'hatchet'
+gem 'hipchat-api'

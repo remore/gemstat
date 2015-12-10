@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'launchy'
+gem 'google-api-client'
+gem 'google_doc_seed'

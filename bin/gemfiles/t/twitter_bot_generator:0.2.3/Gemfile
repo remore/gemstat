@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'test_construct'
+gem 'minitest'
+gem 'coveralls'

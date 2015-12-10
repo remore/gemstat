@@ -1,0 +1,6 @@
+gem 'daemons'
+gem 'em-http-request'
+gem 'em-twitter'
+gem 'twitter'
+gem 'multi_json'
+gem 'bundler'

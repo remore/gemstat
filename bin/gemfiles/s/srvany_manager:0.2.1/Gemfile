@@ -1,0 +1,4 @@
+gem 'win32-service'
+gem 'rake'
+gem 'bones'
+gem 'bacon'

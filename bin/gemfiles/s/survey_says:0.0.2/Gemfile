@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'twitter-bootstrap-rails'
+gem 'paperclip'
+gem 'nifty-generators'
+gem 'ruby-debug19'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'mail'
+gem 'rspec'
+gem 'mysql2'

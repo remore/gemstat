@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rake-compiler'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'ffi-xattr'
+gem 'sys-filesystem'

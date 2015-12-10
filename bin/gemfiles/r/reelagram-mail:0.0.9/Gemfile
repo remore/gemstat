@@ -1,0 +1,5 @@
+gem 'ruby-gmail'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'dotenv'

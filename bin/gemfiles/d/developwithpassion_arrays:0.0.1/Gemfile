@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'developwithpassion_fakes'

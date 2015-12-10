@@ -1,0 +1,5 @@
+gem 'ruby-mp3info'
+gem 'ruby-ogginfo'
+gem 'mp4info'
+gem 'wmainfo-rb'
+gem 'flacinfo-rb'

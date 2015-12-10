@@ -1,0 +1,4 @@
+gem 'chefspec'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

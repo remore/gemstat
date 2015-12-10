@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'oauth'
+gem 'oauth2'
+gem 'google-api-client'
+gem 'minitest'
+gem 'rake'

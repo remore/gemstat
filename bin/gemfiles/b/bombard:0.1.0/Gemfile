@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rubocop'
+gem 'rake'
+gem 'flay'
+gem 'flog'
+gem 'thor'
+gem 'require_all'

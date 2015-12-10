@@ -1,0 +1,4 @@
+gem 'prawn'
+gem 'pdf-reader'
+gem 'rspec'
+gem 'rubocop'

@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'RedCloth'
+gem 'coveralls'
+gem 'database_cleaner'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'glassfish'
+gem 'sinatra'
+gem 'rspec'
+gem 'rake'
+gem 'bundler'

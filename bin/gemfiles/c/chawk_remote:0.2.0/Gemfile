@@ -1,0 +1,7 @@
+gem 'multipart-post'
+gem 'json'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

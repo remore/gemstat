@@ -1,0 +1,7 @@
+gem 'rdoc'
+gem 'httparty'
+gem 'commander'
+gem 'launchy'
+gem 'json'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'hoe'
+gem 'rspec'
+gem 'hoe-git'
+gem 'hoe-gemspec'
+gem 'hoe-bundler'

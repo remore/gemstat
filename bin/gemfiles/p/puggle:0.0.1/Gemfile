@@ -1,0 +1,5 @@
+gem 'colorize'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

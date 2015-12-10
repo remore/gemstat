@@ -1,0 +1,7 @@
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'zookeeper'
+gem 'rubocop'
+gem 'toxiproxy'

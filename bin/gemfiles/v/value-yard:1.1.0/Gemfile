@@ -1,0 +1,5 @@
+gem 'inventory'
+gem 'inventory-rake'
+gem 'lookout'
+gem 'lookout-rake'
+gem 'yard'

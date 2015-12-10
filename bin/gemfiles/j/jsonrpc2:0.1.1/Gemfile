@@ -1,0 +1,4 @@
+gem 'httpclient'
+gem 'json'
+gem 'RedCloth'
+gem 'thor'

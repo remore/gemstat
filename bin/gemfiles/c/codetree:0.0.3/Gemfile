@@ -1,0 +1,8 @@
+gem 'ruby_parser'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'roodi'
+gem 'code_statistics'
+gem 'yard-rspec'

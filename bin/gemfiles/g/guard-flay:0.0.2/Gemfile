@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'flay'
+gem 'flay-haml'
+gem 'bundler'
+gem 'rake'

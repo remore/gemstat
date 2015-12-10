@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'mustermann19'
+gem 'rake'
+gem 'rack-test'
+gem 'mocha'
+gem 'haml'
+gem 'padrino'

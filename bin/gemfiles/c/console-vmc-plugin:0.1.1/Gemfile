@@ -1,0 +1,5 @@
+gem 'tunnel-vmc-plugin'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'rr'

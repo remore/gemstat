@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'url2pdf'
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'vcr'
+gem 'webmock'

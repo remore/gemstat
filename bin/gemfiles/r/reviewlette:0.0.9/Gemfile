@@ -1,0 +1,4 @@
+gem 'ruby-trello'
+gem 'octokit'
+gem 'sequel'
+gem 'sqlite3'

@@ -1,0 +1,5 @@
+gem 'blacklight'
+gem 'hydra-collections'
+gem 'rake'
+gem 'rails'
+gem 'rspec-rails'

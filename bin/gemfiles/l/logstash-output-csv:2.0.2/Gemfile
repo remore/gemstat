@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'logstash-output-file'
+gem 'logstash-filter-json'
+gem 'logstash-devutils'

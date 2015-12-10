@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'rack'
+gem 'rspec'
+gem 'fakeweb'
+gem 'i18n'
+gem 'rake'
+gem 'rdoc'
+gem 'coveralls'

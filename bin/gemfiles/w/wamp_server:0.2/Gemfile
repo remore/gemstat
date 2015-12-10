@@ -1,0 +1,5 @@
+gem 'websocket-eventmachine-server'
+gem 'rake'
+gem 'minitest'
+gem 'websocket-eventmachine-client'
+gem 'em-synchrony'

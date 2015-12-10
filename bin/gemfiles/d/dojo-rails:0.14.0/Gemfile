@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'rake'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'bundler'
+gem 'railties'
+gem 'actionmailer'
+gem 'sqlite3'

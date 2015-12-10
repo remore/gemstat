@@ -1,0 +1,5 @@
+gem 'launchy'
+gem 'activerecord'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'

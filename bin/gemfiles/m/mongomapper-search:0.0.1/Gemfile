@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rsolr'
+gem 'mongo_mapper'
+gem 'will_paginate'

@@ -1,0 +1,7 @@
+gem 'bwoken'
+gem 'rox-client-ruby'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rake-version'
+gem 'simplecov'

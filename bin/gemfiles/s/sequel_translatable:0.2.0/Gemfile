@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'sqlite3'
+gem 'rspec'
+gem 'i18n'
+gem 'sequel'

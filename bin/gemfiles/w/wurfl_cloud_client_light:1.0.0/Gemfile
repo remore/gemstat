@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rack'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'

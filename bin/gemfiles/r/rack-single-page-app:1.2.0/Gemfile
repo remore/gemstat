@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'git-version-bump'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'fluentd'
+gem 'test-unit'
+gem 'guard'
+gem 'guard-test'
+gem 'faker'

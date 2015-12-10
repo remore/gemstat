@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'mime-types'
+gem 'minitest'
+gem 'fakeweb'
+gem 'vcr'

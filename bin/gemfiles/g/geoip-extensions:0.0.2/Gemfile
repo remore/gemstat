@@ -1,0 +1,2 @@
+gem 'geoip-c'
+gem 'ffi-geos'

@@ -1,0 +1,8 @@
+gem 'recursive-open-struct'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rails-dummy'
+gem 'sqlite3'
+gem 'byebug'
+gem 'rails'

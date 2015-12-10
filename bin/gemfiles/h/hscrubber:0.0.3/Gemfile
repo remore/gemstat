@@ -1,0 +1,4 @@
+gem 'rdoba'
+gem 'hpricot'
+gem 'bundler'
+gem 'rspec'

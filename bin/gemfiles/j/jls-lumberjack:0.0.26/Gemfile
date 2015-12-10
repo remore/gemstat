@@ -1,0 +1,6 @@
+gem 'concurrent-ruby'
+gem 'flores'
+gem 'rspec'
+gem 'stud'
+gem 'pry'
+gem 'rspec-wait'

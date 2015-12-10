@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'actionpack'
+gem 'activerecord'
+gem 'minitest'
+gem 'rake'

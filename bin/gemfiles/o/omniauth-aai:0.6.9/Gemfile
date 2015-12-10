@@ -1,0 +1,6 @@
+gem 'omniauth-shibboleth'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rails'

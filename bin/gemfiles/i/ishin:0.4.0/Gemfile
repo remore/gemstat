@@ -1,0 +1,6 @@
+gem 'benchmark-ips'
+gem 'codeclimate-test-reporter'
+gem 'rake'
+gem 'reek'
+gem 'rspec'
+gem 'rubocop'

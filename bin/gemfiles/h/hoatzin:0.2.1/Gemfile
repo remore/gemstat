@@ -1,0 +1,6 @@
+gem 'libsvm-ruby-swig'
+gem 'fast-stemmer'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

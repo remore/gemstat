@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'em-synchrony'
+gem 'faraday_middleware-multi_json'
+gem 'debugger'
+gem 'rspec'
+gem 'webmock'

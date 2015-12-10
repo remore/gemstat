@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'cassilds'
+gem 'cassilds-connection-pool'
+gem 'simple_uuid'

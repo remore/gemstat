@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'net'
+gem 'json'
+gem 'activesupport'

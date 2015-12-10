@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'dalli'
+gem 'rake'
+gem 'minitest'

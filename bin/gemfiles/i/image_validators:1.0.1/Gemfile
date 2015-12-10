@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'i18n'
+gem 'paperclip'
+gem 'activerecord'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'

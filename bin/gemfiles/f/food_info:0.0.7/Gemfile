@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'hashie'
+gem 'ruby-hmac'
+gem 'rake'
+gem 'minitest'

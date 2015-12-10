@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'shoulda'
+gem 'simplecov'
+gem 'activemodel'
+gem 'minitest'

@@ -1,0 +1,5 @@
+gem 'slop'
+gem 'capybara'
+gem 'colored'
+gem 'rspec'
+gem 'rr'

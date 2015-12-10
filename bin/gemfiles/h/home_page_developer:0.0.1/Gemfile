@@ -1,0 +1,2 @@
+gem 'home_page'
+gem 'mysql2'

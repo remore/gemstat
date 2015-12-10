@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'cucumber'
+gem 'rspec-expectations'
+gem 'codeclimate-test-reporter'

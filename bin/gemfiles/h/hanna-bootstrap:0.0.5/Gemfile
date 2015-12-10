@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'coderay'
+gem 'coffee-script'
+gem 'haml'
+gem 'json'
+gem 'rake'
+gem 'sass'

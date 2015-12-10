@@ -1,0 +1,5 @@
+gem 'json'
+gem 'rest-client'
+gem 'minitest'
+gem 'rake'
+gem 'webmock'

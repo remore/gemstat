@@ -1,0 +1,7 @@
+gem 'jquery-rails'
+gem 'rails'
+gem 'capybara'
+gem 'rspec-rails'
+gem 'capybara-firebug'
+gem 'coffee-script'
+gem 'ejs'

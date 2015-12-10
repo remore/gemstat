@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'git'
+gem 'git_clone_url'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'

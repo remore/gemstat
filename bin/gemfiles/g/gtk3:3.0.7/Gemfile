@@ -1,0 +1,7 @@
+gem 'glib2'
+gem 'gio2'
+gem 'atk'
+gem 'pango'
+gem 'gdk_pixbuf2'
+gem 'gdk3'
+gem 'gobject-introspection'

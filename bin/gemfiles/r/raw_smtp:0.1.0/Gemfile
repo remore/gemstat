@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'pry'
+gem 'pry-byebug'
+gem 'rubocop'
+gem 'rake'
+gem 'bundler'
+gem 'rdoc'

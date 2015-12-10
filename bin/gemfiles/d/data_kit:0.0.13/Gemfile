@@ -1,0 +1,6 @@
+gem 'timeliness'
+gem 'bundler'
+gem 'rake'
+gem 'profile'
+gem 'rspec'
+gem 'simplecov'

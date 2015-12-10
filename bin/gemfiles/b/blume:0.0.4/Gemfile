@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'mongo'
+gem 'nokogiri'
+gem 'RedCloth'

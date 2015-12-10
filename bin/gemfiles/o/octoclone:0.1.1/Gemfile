@@ -1,0 +1,5 @@
+gem 'highline'
+gem 'json'
+gem 'docopt'
+gem 'terminal-table'
+gem 'aws-s3'

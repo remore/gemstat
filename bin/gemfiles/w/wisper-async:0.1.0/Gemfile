@@ -1,0 +1,5 @@
+gem 'wisper'
+gem 'celluloid'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'

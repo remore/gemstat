@@ -1,0 +1,4 @@
+gem 'smartdict-core'
+gem 'smartdict-gtk'
+gem 'bundler'
+gem 'jeweler'

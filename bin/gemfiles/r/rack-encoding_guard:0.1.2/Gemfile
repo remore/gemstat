@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'activesupport'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'
+gem 'rubocop'
+gem 'codeclimate-test-reporter'

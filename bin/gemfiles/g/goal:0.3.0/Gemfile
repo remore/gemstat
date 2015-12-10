@@ -1,0 +1,4 @@
+gem 'ruby-freshbooks'
+gem 'colorize'
+gem 'rspec'
+gem 'rake'

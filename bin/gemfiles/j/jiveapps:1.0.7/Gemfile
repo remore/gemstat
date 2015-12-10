@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'directory_watcher'
+gem 'rest-client'
+gem 'rubigen'
+gem 'systemu'
+gem 'rspec'
+gem 'webmock'

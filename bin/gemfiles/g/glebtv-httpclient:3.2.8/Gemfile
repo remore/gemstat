@@ -1,0 +1,7 @@
+gem 'lru_redux'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'coveralls'
+gem 'climate_control'

@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'cucumber-rails'
+gem 'appraisal'
+gem 'rspec-rails'
+gem 'thin'
+gem 'sqlite3-ruby'

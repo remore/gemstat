@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'carrierwave'
+gem 'dropzonejs-rails'
+gem 'friendly_id'
+gem 'inherited_resources'
+gem 'rmagick'
+gem 'sqlite3'

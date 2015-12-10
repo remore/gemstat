@@ -1,0 +1,4 @@
+gem 'markaby'
+gem 'grit'
+gem 'gruff'
+gem 'rmagick'

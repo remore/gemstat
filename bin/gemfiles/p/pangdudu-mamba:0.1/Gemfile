@@ -1,0 +1,7 @@
+gem 'pangdudu-rofl'
+gem 'sequel'
+gem 'sequel_core'
+gem 'sequel_model'
+gem 'mysql'
+gem 'narray'
+gem 'ruby-opengl'

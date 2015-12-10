@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'letter_opener'
+gem 'better_errors'
+gem 'binding_of_caller'

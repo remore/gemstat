@@ -1,0 +1,2 @@
+gem 'gollum-bibanon'
+gem 'omniauth'

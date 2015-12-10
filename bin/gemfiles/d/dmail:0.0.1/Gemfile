@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'mail'
+gem 'term-ansicolor'
+gem 'pager'

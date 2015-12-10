@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'jeweler'
+gem 'rformat'
+gem 'pry'
+gem 'pry-nav'
+gem 'pry-doc'

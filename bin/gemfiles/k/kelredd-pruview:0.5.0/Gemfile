@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'test-belt'
+gem 'mini_magick'
+gem 'flvtool2'

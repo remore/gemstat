@@ -1,0 +1,8 @@
+gem 'ruboty'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'turnip'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'koala'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'vcr'
+gem 'simplecov'
+gem 'rspec'
+gem 'rubocop'

@@ -1,0 +1,6 @@
+gem 'logging'
+gem 'jeweler'
+gem 'bundler'
+gem 'rspec'
+gem 'rcov'
+gem 'yard'

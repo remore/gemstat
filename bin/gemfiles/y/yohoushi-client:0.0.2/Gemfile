@@ -1,0 +1,7 @@
+gem 'httpclient'
+gem 'thor'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'
+gem 'pry-nav'

@@ -1,0 +1,7 @@
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'twitter-text'
+gem 'gemoji'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

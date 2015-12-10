@@ -1,0 +1,6 @@
+gem 'chef'
+gem 'dogapi'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'

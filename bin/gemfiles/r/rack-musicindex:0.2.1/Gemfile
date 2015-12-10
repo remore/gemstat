@@ -1,0 +1,7 @@
+gem 'builder'
+gem 'id3lib-ruby'
+gem 'rspec'
+gem 'rake'
+gem 'sinatra'
+gem 'rack-test'
+gem 'nokogiri'

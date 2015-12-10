@@ -1,0 +1,6 @@
+gem 'guard-minitest'
+gem 'minitest'
+gem 'ruby-debug'
+gem 'hashery'
+gem 'thor'
+gem 'valuable'

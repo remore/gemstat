@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'plist'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

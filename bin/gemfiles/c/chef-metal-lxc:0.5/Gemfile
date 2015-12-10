@@ -1,0 +1,6 @@
+gem 'chef'
+gem 'chef-metal'
+gem 'ruby-lxc'
+gem 'lxc-extra'
+gem 'rspec'
+gem 'rake'

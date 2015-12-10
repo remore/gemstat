@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'
+gem 'pry'
+gem 'neo4j'
+gem 'neo4j-core'
+gem 'neo4j-rake_tasks'

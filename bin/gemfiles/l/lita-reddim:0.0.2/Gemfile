@@ -1,0 +1,5 @@
+gem 'lita'
+gem 'reddit_listings'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

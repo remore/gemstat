@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'htmlentities'
+gem 'rspec'
+gem 'rake'

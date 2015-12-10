@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'haml'
+gem 'mime-types'
+gem 'thor'
+gem 'launchy'
+gem 'test-unit'
+gem 'bundler'
+gem 'rake'

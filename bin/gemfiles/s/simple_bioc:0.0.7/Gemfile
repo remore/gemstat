@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'json_builder'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'test_xml'

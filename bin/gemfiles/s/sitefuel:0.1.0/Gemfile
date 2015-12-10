@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'jsmin'
+gem 'cssmin'
+gem 'haml'

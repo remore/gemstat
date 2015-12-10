@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'rtmidi'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

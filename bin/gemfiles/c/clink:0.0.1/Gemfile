@@ -1,0 +1,6 @@
+gem 'term-ansicolor'
+gem 'thor'
+gem 'rake'
+gem 'rcov'
+gem 'rr'
+gem 'rspec'

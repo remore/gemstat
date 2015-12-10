@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'eventmachine_httpserver'
+gem 'json'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

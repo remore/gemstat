@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'json'
+gem 'toml-rb'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

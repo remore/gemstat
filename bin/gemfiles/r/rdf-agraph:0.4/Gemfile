@@ -1,0 +1,8 @@
+gem 'rdf'
+gem 'agraph'
+gem 'json'
+gem 'rdf-spec'
+gem 'yard'
+gem 'rspec'
+gem 'rake'
+gem 'dotenv'

@@ -1,0 +1,5 @@
+gem 'neo4j'
+gem 'geocoder'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

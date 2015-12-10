@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activemodel'
+gem 'database_cleaner'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'sqlite3'
+gem 'rdoc'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'args_parser'
+gem 'kramdown'
+gem 'rspec'
+gem 'rake'

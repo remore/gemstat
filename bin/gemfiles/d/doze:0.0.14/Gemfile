@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rack-test'
+gem 'mocha'
+gem 'rdoc'
+gem 'rack'
+gem 'json'

@@ -1,0 +1,5 @@
+gem 'json'
+gem 'simpleconsole'
+gem 'uuid'
+gem 'rake'
+gem 'redgreen'

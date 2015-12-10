@@ -1,0 +1,5 @@
+gem 'aws-sdk'
+gem 'rack'
+gem 'bundler'
+gem 'fake_sqs'
+gem 'rake'

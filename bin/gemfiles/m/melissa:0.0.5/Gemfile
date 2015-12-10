@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'minitest'
+gem 'ffi'
+gem 'thread_safe'

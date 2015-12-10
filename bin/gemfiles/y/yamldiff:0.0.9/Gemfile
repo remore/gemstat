@@ -1,0 +1,4 @@
+gem 'diffy'
+gem 'fakefs'
+gem 'rake'
+gem 'rspec'

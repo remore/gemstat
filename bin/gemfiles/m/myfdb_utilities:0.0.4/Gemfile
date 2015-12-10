@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'mocha'
+gem 'fakeweb'
+gem 'rake'
+gem 'multipart-post'
+gem 'commander'
+gem 'cronedit'

@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'mime-types'
+gem 'nokogiri'
+gem 'ruby-filemagic'
+gem 'sqlite3'
+gem 'ffi-xattr'
+gem 'digest-crc'

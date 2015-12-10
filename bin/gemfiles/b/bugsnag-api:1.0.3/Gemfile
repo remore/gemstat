@@ -1,0 +1,8 @@
+gem 'sawyer'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'faker'
+gem 'vcr'
+gem 'json'

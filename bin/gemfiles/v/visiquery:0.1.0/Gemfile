@@ -1,0 +1,2 @@
+gem 'oj'
+gem 'multi_json'

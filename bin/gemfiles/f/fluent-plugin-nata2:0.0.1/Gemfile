@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'fluent-mixin-rewrite-tag-name'
+gem 'mysql-slowquery-parser'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'unf'
+gem 'test-unit'
+gem 'shoulda'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'

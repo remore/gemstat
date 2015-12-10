@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rails-all'
+gem 'sqlite3'
+gem 'pry-debugger'

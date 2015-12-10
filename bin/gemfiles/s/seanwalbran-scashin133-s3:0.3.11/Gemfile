@@ -1,0 +1,4 @@
+gem 'proxies'
+gem 'test-unit'
+gem 'mocha'
+gem 'bundler'

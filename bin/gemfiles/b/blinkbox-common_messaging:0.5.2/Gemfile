@@ -1,0 +1,7 @@
+gem 'bunny'
+gem 'activesupport'
+gem 'ruby-units'
+gem 'json-schema'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

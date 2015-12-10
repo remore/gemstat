@@ -1,0 +1,6 @@
+gem 'json'
+gem 'parseconfig'
+gem 'openshift-origin-common'
+gem 'rspec'
+gem 'mocha'
+gem 'rake'

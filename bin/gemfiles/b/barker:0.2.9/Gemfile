@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rack'
+gem 'minitest'
+gem 'factory_girl'
+gem 'mocha'
+gem 'activesupport'
+gem 'activemodel'
+gem 'thread_safe'

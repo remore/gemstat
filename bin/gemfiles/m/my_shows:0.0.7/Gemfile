@@ -1,0 +1,8 @@
+gem 'hashie'
+gem 'faraday_middleware'
+gem 'fuzzy-string-match'
+gem 'netrc'
+gem 'nokogiri'
+gem 'colorize'
+gem 'launchy'
+gem 'pmap'

@@ -1,0 +1,6 @@
+gem 'microtest'
+gem 'ae'
+gem 'rubytest'
+gem 'rubytest-cli'
+gem 'indexer'
+gem 'mast'

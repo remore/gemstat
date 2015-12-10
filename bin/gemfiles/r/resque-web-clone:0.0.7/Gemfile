@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'twitter-bootstrap-rails'
+gem 'jquery-rails'
+gem 'sass-rails'
+gem 'coffee-rails'

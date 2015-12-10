@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'erubis'
+gem 'rspec'
+gem 'activerecord'
+gem 'pg'
+gem 'thor'
+gem 'activesupport'
+gem 'bundler'

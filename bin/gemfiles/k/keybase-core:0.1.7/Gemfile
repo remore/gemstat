@@ -1,0 +1,8 @@
+gem 'scrypt'
+gem 'faraday'
+gem 'vcr'
+gem 'webmock'
+gem 'minitest'
+gem 'simplecov'
+gem 'yard'
+gem 'coveralls'

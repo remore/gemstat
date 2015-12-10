@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'jaro_winkler'
+gem 'ffi'
+gem 'gdbm'
+gem 'sqlite3'
+gem 'rroonga'
+gem 'test-unit'
+gem 'rake'

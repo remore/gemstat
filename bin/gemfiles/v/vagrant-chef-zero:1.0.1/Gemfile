@@ -1,0 +1,4 @@
+gem 'chef-zero'
+gem 'ridley'
+gem 'chef'
+gem 'bump'

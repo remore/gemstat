@@ -1,0 +1,5 @@
+gem 'multipart-post'
+gem 'libxml-ruby'
+gem 'configparser'
+gem 'bundler'
+gem 'rake'

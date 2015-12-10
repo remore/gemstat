@@ -1,0 +1,4 @@
+gem 'gem_plugin'
+gem 'mongrel'
+gem 'mongrel_cluster'
+gem 'hoe'

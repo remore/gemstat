@@ -1,0 +1,5 @@
+gem 'logutils'
+gem 'fetcher'
+gem 'activerecord'
+gem 'rdoc'
+gem 'hoe'

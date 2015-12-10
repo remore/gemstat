@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'bacon'
+gem 'bacon-colored_output'
+gem 'rake'

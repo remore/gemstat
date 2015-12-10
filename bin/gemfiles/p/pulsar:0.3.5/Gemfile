@@ -1,0 +1,7 @@
+gem 'clamp'
+gem 'bundler'
+gem 'colored'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'rubocop'

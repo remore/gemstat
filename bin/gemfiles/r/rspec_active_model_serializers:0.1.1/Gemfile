@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'active_model_serializers'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'rails'
+gem 'rake'
+gem 'sqlite3'

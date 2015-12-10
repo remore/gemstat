@@ -1,0 +1,6 @@
+gem 'levenshtein-ffi'
+gem 'thor'
+gem 'highline'
+gem 'i18n'
+gem 'hirb'
+gem 'fedux_org-stdlib'

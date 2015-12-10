@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'gli'
+gem 'hn'
+gem 'paint'
+gem 'json'
+gem 'launchy'

@@ -1,0 +1,4 @@
+gem 'xml-simple'
+gem 'sqlite3'
+gem 'rubyzip'
+gem 'uuid'

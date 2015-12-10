@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'shoulda'
+gem 'mocha'
+gem 'mcmire-matchy'
+gem 'fakeweb'

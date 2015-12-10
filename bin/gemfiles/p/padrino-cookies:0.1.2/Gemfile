@@ -1,0 +1,6 @@
+gem 'padrino-core'
+gem 'rspec'
+gem 'rspec-html-matchers'
+gem 'rake'
+gem 'yard'
+gem 'rack-test'

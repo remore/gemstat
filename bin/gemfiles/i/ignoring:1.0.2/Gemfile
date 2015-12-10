@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'git'
+gem 'highline'
+gem 'terminal-table'
+gem 'octokit'

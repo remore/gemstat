@@ -1,0 +1,4 @@
+gem 'monkey-lib'
+gem 'sinatra-test-helper'
+gem 'sinatra'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'rake'
+gem 'execjs'
+gem 'railties'

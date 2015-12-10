@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'bundler'
+gem 'jeweler'
+gem 'pry-nav'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'

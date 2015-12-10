@@ -1,0 +1,6 @@
+gem 'hike'
+gem 'rack'
+gem 'tilt'
+gem 'rake'
+gem 'rack-test'
+gem 'haml'

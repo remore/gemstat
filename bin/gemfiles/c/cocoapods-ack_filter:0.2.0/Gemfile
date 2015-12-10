@@ -1,0 +1,5 @@
+gem 'cocoapods'
+gem 'CFPropertyList'
+gem 'libxml-ruby'
+gem 'bundler'
+gem 'rake'

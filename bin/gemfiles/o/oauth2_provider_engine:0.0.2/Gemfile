@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'validate_url'
+gem 'chronic'
+gem 'orm_adapter'
+gem 'sqlite3'

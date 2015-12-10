@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'webmock'

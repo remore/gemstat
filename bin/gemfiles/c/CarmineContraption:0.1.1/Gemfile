@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'rake'
+gem 'colorize'
+gem 'redcarpet'
+gem 'aws-s3'

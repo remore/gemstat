@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'actionpack'
+gem 'rails'
+gem 'bundler'
+gem 'rake'

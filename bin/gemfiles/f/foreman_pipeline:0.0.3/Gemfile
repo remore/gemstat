@@ -1,0 +1,7 @@
+gem 'foreman_deployments'
+gem 'jenkins_api_client'
+gem 'katello'
+gem 'bastion'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'less-rails'

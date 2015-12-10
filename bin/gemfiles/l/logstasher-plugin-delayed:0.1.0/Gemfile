@@ -1,0 +1,5 @@
+gem 'logstasher'
+gem 'delayed_job'
+gem 'rspec'
+gem 'bundler'
+gem 'rails'

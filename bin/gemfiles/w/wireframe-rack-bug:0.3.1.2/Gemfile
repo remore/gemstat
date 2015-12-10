@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'webrat'
+gem 'rspec'
+gem 'sinatra'
+gem 'git'

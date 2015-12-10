@@ -1,0 +1,6 @@
+gem 'librarian'
+gem 'chef'
+gem 'minitar'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

@@ -1,0 +1,4 @@
+gem 'mustache'
+gem 'rack'
+gem 'highline'
+gem 'gli'

@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'byebug'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'minitest-rails'
+gem 'mocha'
+gem 'bump'
+gem 'hashie'
+gem 'codeclimate-test-reporter'
+gem 'rubocop'

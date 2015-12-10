@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'httpi'
+gem 'i18n'
+gem 'savon'
+gem 'guid'

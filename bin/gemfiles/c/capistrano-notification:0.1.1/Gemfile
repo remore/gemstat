@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'validatable'
+gem 'shout-bot'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'

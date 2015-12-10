@@ -1,0 +1,4 @@
+gem 'colored'
+gem 'mocha'
+gem 'rake'
+gem 'delorean'

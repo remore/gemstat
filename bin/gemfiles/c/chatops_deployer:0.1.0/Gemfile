@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'sucker_punch'
+gem 'httparty'
+gem 'haikunator'
+gem 'vault'

@@ -1,0 +1,4 @@
+gem 'actionpack'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rspec-instafail'

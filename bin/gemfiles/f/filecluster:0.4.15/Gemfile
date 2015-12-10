@@ -1,0 +1,6 @@
+gem 'mysql2'
+gem 'bundler'
+gem 'test-unit'
+gem 'rake'
+gem 'shoulda-context'
+gem 'mocha'

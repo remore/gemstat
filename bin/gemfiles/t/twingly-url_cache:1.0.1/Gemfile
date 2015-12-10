@@ -1,0 +1,6 @@
+gem 'dalli'
+gem 'retryable'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

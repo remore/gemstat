@@ -1,0 +1,8 @@
+gem 'ruby_parser'
+gem 'ruby2ruby'
+gem 'sexp_processor'
+gem 'callsite'
+gem 'bundler'
+gem 'rake'
+gem 'phocus'
+gem 'minitest'

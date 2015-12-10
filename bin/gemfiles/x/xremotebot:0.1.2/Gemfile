@@ -1,0 +1,5 @@
+gem 'websocket'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rb-readline'

@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'activesupport'
+gem 'rspec'
+gem 'webmock'
+gem 'rake'
+gem 'supermodel'

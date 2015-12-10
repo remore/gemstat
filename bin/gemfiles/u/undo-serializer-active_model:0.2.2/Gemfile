@@ -1,0 +1,5 @@
+gem 'undo'
+gem 'undo-serializer-primitive'
+gem 'virtus'
+gem 'bundler'
+gem 'rspec'

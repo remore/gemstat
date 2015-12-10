@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'warden-oauthed'
+gem 'rake'
+gem 'rspec'
+gem 'shotgun'
+gem 'randexp'
+gem 'rack-test'
+gem 'addressable'

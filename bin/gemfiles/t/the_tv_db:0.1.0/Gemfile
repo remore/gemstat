@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'ox'
+gem 'multi_xml'
+gem 'rubyzip'
+gem 'rspec'
+gem 'webmock'

@@ -1,0 +1,6 @@
+gem 'ruby-tcl'
+gem 'cucumber'
+gem 'rspec'
+gem 'aruba'
+gem 'yard'
+gem 'rake'

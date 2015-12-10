@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'mongoid'
+gem 'rails'
+gem 'railties'
+gem 'activesupport'

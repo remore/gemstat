@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'datamapper'
+gem 'bcrypt-ruby'
+gem 'activesupport'
+gem 'rspec'
+gem 'factory_girl'
+gem 'rack-test'
+gem 'do_sqlite3'

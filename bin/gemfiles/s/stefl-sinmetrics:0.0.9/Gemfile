@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'dm-core'
+gem 'dm-transactions'
+gem 'dm-aggregates'
+gem 'dm-validations'
+gem 'dm-adjust'

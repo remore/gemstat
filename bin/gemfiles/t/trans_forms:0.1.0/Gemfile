@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'database_cleaner'
+gem 'virtus'
+gem 'rails'
+gem 'activemodel'

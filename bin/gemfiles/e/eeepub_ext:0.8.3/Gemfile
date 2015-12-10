@@ -1,0 +1,8 @@
+gem 'builder'
+gem 'rubyzip'
+gem 'rspec'
+gem 'nokogiri'
+gem 'rr'
+gem 'simplecov'
+gem 'pry'
+gem 'pry-byebug'

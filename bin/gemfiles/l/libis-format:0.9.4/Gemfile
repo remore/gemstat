@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'libis-tools'
+gem 'os'
+gem 'mini_magick'
+gem 'deep_dive'

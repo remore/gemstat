@@ -1,0 +1,4 @@
+gem 'json'
+gem 'rufus-scheduler'
+gem 'sucker_punch'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'about_pos'
+gem 'pry'
+gem 'bundler'
+gem 'bacon'
+gem 'Bacon_Colored'

@@ -1,0 +1,4 @@
+gem 'cat'
+gem 'cucumber'
+gem 'rspec'
+gem 'rake'

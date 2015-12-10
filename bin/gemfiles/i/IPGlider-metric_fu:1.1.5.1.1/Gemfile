@@ -1,0 +1,7 @@
+gem 'flay'
+gem 'flog'
+gem 'relevance-rcov'
+gem 'reek'
+gem 'roodi'
+gem 'ruby-prof'
+gem 'mojombo-chronic'

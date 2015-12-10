@@ -1,0 +1,6 @@
+gem 'colorize'
+gem 'text-table'
+gem 'nokogiri'
+gem 'httpclient'
+gem 'choice'
+gem 'ntlm-http'

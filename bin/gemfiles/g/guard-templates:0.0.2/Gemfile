@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'execjs'
+gem 'json'
+gem 'bundler'
+gem 'rspec'
+gem 'fakefs'

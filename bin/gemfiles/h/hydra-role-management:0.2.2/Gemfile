@@ -1,0 +1,7 @@
+gem 'bootstrap_form'
+gem 'blacklight'
+gem 'cancancan'
+gem 'rake'
+gem 'rspec-rails'
+gem 'rspec-its'
+gem 'engine_cart'

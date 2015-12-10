@@ -1,0 +1,4 @@
+gem 'fog-aws'
+gem 'thor'
+gem 'rake'
+gem 'minitest'

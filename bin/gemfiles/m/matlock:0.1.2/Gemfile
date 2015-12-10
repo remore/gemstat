@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'commander'
+gem 'active_support'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'unindentable'

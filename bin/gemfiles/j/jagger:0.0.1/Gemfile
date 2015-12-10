@@ -1,0 +1,5 @@
+gem 'sprockets'
+gem 'sinatra'
+gem 'rack'
+gem 'rspec'
+gem 'mocha'

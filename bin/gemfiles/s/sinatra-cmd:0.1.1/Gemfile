@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'rspec'
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'pry-byebug'

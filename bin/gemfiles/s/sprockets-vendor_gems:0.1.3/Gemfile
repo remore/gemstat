@@ -1,0 +1,5 @@
+gem 'sprockets'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'fakefs'

@@ -1,0 +1,5 @@
+gem 'zenweb'
+gem 'nokogiri'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

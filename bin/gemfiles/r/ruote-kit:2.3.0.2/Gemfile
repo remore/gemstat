@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'sinatra-respond_to'
+gem 'haml'
+gem 'rufus-json'
+gem 'ruote'
+gem 'rspec'
+gem 'rack-test'
+gem 'webrat'

@@ -1,0 +1,8 @@
+gem 'capybara'
+gem 'gifanime'
+gem 'aruba'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

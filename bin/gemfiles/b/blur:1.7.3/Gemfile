@@ -1,0 +1,2 @@
+gem 'majic'
+gem 'eventmachine'

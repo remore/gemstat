@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'rubyzip'
+gem 'redis'
+gem 'pdf-reader'
+gem 'sinatra'
+gem 'redis_logger'

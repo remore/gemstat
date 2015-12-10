@@ -1,0 +1,4 @@
+gem 'cliver'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'

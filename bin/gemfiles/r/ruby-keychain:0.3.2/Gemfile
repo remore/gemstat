@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'corefoundation'
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

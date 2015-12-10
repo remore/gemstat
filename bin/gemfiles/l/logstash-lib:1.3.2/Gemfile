@@ -1,0 +1,5 @@
+gem 'cabin'
+gem 'json'
+gem 'stud'
+gem 'i18n'
+gem 'treetop'

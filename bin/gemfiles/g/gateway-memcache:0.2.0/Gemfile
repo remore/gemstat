@@ -1,0 +1,7 @@
+gem 'gateway'
+gem 'memcache-client'
+gem 'bundler'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'jeweler'

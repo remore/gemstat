@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'factory_girl_rails'
+gem 'rspec-rails'
+gem 'specstar-controllers'
+gem 'specstar-models'
+gem 'specstar-support-random'
+gem 'sqlite3'
+gem 'webrat'

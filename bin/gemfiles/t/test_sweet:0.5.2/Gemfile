@@ -1,0 +1,6 @@
+gem 'appium_lib'
+gem 'motion-juxtapose'
+gem 'cucumber'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

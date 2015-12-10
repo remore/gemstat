@@ -1,0 +1,4 @@
+gem 'gnuplot'
+gem 'rspec'
+gem 'yard'
+gem 'pry'

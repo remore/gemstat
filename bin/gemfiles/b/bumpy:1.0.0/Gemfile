@@ -1,0 +1,4 @@
+gem 'trollop'
+gem 'rake'
+gem 'rspec'
+gem 'watchr'

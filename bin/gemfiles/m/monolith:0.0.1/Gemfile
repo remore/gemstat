@@ -1,0 +1,5 @@
+gem 'cocaine'
+gem 'colorize'
+gem 'formatador'
+gem 'thor'
+gem 'rspec'

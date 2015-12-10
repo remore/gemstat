@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'httparty'
+gem 'rspec-rails'
+gem 'simplecov'
+gem 'coveralls'
+gem 'fakeweb'

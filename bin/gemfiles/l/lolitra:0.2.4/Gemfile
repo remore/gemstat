@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'amqp'
+gem 'json'
+gem 'log4r'
+gem 'faye'

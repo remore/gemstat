@@ -1,0 +1,5 @@
+gem 'ast'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'yard'

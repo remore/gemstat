@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'redcarpet'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'

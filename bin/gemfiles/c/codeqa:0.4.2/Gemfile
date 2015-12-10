@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'nokogiri'
+gem 'rubocop'

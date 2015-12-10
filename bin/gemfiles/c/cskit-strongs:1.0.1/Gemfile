@@ -1,0 +1,4 @@
+gem 'json'
+gem 'cskit'
+gem 'rake'
+gem 'nokogiri'

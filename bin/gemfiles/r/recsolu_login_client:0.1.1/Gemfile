@@ -1,0 +1,7 @@
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'omniauth'
+gem 'omniauth-oauth2'

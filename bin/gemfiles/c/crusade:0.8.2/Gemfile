@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-great_expectations'
+gem 'rake'
+gem 'coveralls'

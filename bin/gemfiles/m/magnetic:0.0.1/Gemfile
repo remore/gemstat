@@ -1,0 +1,4 @@
+gem 'pervasives'
+gem 'arrayfields'
+gem 'attributes'
+gem 'prototype'

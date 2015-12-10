@@ -1,0 +1,2 @@
+gem 'cmoran92-activerecord-jdbc-adapter'
+gem 'jdbc-jtds'

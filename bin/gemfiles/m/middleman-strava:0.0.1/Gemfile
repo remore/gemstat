@@ -1,0 +1,2 @@
+gem 'middleman-core'
+gem 'strava-api-v3'

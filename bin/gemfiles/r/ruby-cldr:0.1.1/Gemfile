@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'i18n'
+gem 'ya2yaml'
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'jeweler'
+gem 'pry'
+gem 'pry-nav'

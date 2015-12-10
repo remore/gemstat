@@ -1,0 +1,4 @@
+gem 'plist'
+gem 'facets'
+gem 'uuid'
+gem 'echoe'

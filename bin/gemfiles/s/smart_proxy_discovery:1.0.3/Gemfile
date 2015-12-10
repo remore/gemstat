@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rack'
+gem 'rack-test'
+gem 'mocha'
+gem 'webmock'
+gem 'rest-client'

@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'rdoc-rouge'
+gem 'nokogiri'
+gem 'minitest'
+gem 'rack-test'
+gem 'rake'
+gem 'w3c_validators'
+gem 'rdoc'

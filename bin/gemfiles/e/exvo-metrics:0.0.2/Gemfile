@@ -1,0 +1,7 @@
+gem 'mixpanel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'rb-inotify'

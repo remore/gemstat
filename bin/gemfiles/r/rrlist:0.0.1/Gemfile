@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'rainbow'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'

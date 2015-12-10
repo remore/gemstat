@@ -1,0 +1,3 @@
+gem 'engineyard'
+gem 'bundler'
+gem 'rake'

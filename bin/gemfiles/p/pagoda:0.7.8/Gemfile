@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'pry'
+gem 'pagoda-client'
+gem 'pagoda-tunnel'
+gem 'rest-client'
+gem 'gli'
+gem 'websocket-client-simple'
+gem 'highline'

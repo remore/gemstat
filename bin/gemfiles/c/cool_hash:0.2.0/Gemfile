@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'hashery'
+gem 'plissken'
+gem 'awrence'
+gem 'bundler'
+gem 'rake'

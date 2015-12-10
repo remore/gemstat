@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'oyster'
+gem 'bracer'
+gem 'colorize'

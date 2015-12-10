@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'execjs'
+gem 'tilt'
+gem 'capybara'
+gem 'poltergeist'
+gem 'jquery-rails'

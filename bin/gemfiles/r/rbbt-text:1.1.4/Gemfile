@@ -1,0 +1,5 @@
+gem 'rbbt-util'
+gem 'stemmer'
+gem 'libxml-ruby'
+gem 'json'
+gem 'rjb'

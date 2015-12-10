@@ -1,0 +1,4 @@
+gem 'omniauth'
+gem 'ruby-saml'
+gem 'nokogiri'
+gem 'options'

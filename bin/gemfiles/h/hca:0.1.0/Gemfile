@@ -1,0 +1,5 @@
+gem 'tilt'
+gem 'execjs'
+gem 'coffee-script'
+gem 'bundler'
+gem 'rails'

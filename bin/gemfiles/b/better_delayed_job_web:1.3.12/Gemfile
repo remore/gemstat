@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'activerecord'
+gem 'delayed_job'
+gem 'minitest'
+gem 'rack-test'
+gem 'rails'

@@ -1,0 +1,8 @@
+gem 'lita'
+gem 'multi_json'
+gem 'bundler'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'

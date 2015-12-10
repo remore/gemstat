@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mongo'
+gem 'bson_ext'
+gem 'moped'

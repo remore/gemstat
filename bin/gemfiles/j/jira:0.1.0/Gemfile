@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'fakeweb'
+gem 'rest-client'
+gem 'xml-simple'

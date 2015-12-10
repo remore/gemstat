@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'mongoid'
+gem 'bson'
+gem 'activesupport'
+gem 'require_all'
+gem 'sugar-high'
+gem 'roles_generic'

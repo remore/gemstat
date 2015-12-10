@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'cheffish'
+gem 'stove'
+gem 'json'

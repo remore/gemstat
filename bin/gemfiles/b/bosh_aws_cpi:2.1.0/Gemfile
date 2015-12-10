@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'bosh_common'
+gem 'bosh_cpi'
+gem 'bosh-registry'
+gem 'httpclient'
+gem 'yajl-ruby'

@@ -1,0 +1,7 @@
+gem 'json'
+gem 'activemodel'
+gem 'active_attr'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'

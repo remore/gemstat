@@ -1,0 +1,1 @@
+gem 'mysql_retry_lost_connection'

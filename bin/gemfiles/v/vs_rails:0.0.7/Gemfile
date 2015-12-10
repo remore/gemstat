@@ -1,0 +1,3 @@
+gem 'rails'
+gem 'virus-scanner'
+gem 'sqlite3'

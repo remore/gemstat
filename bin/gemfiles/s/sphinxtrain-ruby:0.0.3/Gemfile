@@ -1,0 +1,6 @@
+gem 'pocketsphinx-ruby'
+gem 'word_aligner'
+gem 'colorize'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

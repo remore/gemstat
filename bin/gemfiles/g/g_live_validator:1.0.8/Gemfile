@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'guilded'
+gem 'validation_reflection'
+gem 'rspec'

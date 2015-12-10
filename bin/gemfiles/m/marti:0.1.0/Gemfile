@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'pg'

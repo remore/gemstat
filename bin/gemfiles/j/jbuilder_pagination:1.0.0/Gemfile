@@ -1,0 +1,4 @@
+gem 'jbuilder'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

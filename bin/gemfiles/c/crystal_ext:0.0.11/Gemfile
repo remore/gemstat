@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'ruby_ext'
+gem 'rack'
+gem 'nokogiri'
+gem 'mail'
+gem 'addressable'

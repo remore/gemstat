@@ -1,0 +1,5 @@
+gem 'twitter'
+gem 'pastie-api'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'nokogiri'

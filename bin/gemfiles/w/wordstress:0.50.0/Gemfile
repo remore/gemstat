@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'codesake-commons'
+gem 'json'
+gem 'ciphersurfer'
+gem 'terminal-table'

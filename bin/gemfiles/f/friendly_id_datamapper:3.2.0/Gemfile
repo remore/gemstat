@@ -1,0 +1,4 @@
+gem 'friendly_id'
+gem 'dm-core'
+gem 'dm-validations'
+gem 'dm-transactions'

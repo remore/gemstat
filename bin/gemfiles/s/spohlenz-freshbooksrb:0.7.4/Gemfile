@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'activesupport'
+gem 'httparty'
+gem 'andand'

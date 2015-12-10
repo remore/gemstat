@@ -1,0 +1,4 @@
+gem 'rainbow'
+gem 'httpclient'
+gem 'bundler'
+gem 'rake'

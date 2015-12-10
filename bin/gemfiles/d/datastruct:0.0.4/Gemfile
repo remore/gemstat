@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'pry'
+gem 'byebug'
+gem 'yard'
+gem 'redcarpet'

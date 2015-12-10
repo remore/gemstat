@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'em-promise'
+gem 'bundler'
+gem 'rake'

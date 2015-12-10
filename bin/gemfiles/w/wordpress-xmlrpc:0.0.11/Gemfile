@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'log4r'
+gem 'mimemagic'
+gem 'nokogiri'

@@ -1,0 +1,7 @@
+gem 'facets'
+gem 'gli'
+gem 'xcodeproj'
+gem 'ninja-gen'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'

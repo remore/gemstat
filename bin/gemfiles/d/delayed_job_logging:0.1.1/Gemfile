@@ -1,0 +1,8 @@
+gem 'delayed_job'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'delayed_job_active_record'
+gem 'timecop'
+gem 'sqlite3'

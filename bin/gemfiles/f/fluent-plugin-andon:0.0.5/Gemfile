@@ -1,0 +1,5 @@
+gem 'fluent-plugin-multiprocess'
+gem 'metricsspec'
+gem 'rest-client'
+gem 'bundler'
+gem 'rake'

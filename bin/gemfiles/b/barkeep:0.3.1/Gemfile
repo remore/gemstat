@@ -1,0 +1,4 @@
+gem 'json'
+gem 'mocha'
+gem 'shoulda'
+gem 'rake'

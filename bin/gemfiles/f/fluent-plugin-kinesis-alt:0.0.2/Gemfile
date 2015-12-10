@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'aws-sdk'
+gem 'json'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'eto'
+gem 'bundler'
+gem 'rake'

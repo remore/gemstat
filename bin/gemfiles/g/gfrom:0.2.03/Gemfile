@@ -1,0 +1,8 @@
+gem 'curb'
+gem 'nokogiri'
+gem 'json'
+gem 'addressable'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

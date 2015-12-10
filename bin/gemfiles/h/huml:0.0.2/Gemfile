@@ -1,0 +1,4 @@
+gem 'temple'
+gem 'treetop'
+gem 'rspec'
+gem 'rake'

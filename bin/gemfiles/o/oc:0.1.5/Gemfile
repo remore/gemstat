@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'terminal-table'
+gem 'netrc'
+gem 'colorize'
+gem 'barge'
+gem 'bundler'
+gem 'rake'

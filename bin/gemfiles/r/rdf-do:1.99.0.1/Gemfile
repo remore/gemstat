@@ -1,0 +1,8 @@
+gem 'rdf'
+gem 'data_objects'
+gem 'do_sqlite3'
+gem 'do_postgres'
+gem 'rdf-spec'
+gem 'rspec'
+gem 'rspec-its'
+gem 'yard'

@@ -1,0 +1,7 @@
+gem 'dm-core'
+gem 'dm-types'
+gem 'dm-validations'
+gem 'gdata'
+gem 'nokogiri'
+gem 'dm-sweatshop'
+gem 'fakeweb'

@@ -1,0 +1,6 @@
+gem 'premailer'
+gem 'actionmailer'
+gem 'rspec'
+gem 'nokogiri'
+gem 'hpricot'
+gem 'coveralls'

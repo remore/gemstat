@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'chronic'
+gem 'capybara'
+gem 'rspec-given'
+gem 'sinatra'
+gem 'capybara-webkit'

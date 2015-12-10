@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'actionpack'
+gem 'jferris-mocha'
+gem 'nokogiri'
+gem 'shoulda'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'capistrano'
+gem 'capistrano-rails'
+gem 'rvm1-capistrano3'
+gem 'capistrano-bundler'
+gem 'capistrano3-unicorn'

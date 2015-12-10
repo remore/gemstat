@@ -1,0 +1,4 @@
+gem 'rbtree'
+gem 'smartcard'
+gem 'tem_ruby'
+gem 'zerg_support'

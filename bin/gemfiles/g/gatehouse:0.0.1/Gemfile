@@ -1,0 +1,8 @@
+gem 'actionpack'
+gem 'activemodel'
+gem 'activerecord'
+gem 'activesupport'
+gem 'pg'
+gem 'railties'
+gem 'warden'
+gem 'bundler'

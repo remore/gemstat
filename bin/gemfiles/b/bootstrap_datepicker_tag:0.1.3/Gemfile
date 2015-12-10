@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'bootstrap-datepicker-rails'

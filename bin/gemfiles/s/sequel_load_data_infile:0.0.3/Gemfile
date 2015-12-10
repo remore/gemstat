@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'mysql'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

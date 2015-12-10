@@ -1,0 +1,7 @@
+gem 'sass'
+gem 'thor'
+gem 'aruba'
+gem 'css_parser'
+gem 'rake'
+gem 'rspec'
+gem 'scss_lint'

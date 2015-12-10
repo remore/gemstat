@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'commander'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'ffi'
+gem 'terminal-table'

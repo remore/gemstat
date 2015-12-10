@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'highline'
+gem 'mail'
+gem 'rspec'
+gem 'simplecov'

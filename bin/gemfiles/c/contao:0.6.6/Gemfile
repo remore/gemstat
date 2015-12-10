@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'activesupport'
+gem 'parseconfig'
+gem 'highline'
+gem 'rspec'
+gem 'fakefs'
+gem 'pry'
+gem 'pry-doc'

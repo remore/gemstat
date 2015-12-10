@@ -1,0 +1,7 @@
+gem 'adhearsion'
+gem 'redis'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'mocha'
+gem 'guard-rspec'

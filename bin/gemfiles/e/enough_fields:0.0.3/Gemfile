@@ -1,0 +1,8 @@
+gem 'uniform_notifier'
+gem 'ruby-growl'
+gem 'xmpp4r'
+gem 'bson'
+gem 'bson_ext'
+gem 'mongoid'
+gem 'rspec'
+gem 'bundler'

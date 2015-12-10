@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'multi_xml'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-must'
+gem 'timecop'

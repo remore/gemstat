@@ -1,0 +1,3 @@
+gem 'shared-mime-info'
+gem 'hpricot'
+gem 'hoe'

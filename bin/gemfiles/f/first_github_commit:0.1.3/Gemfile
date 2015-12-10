@@ -1,0 +1,2 @@
+gem 'redirect_follower'
+gem 'shoulda'

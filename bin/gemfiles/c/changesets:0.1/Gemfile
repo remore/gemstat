@@ -1,0 +1,2 @@
+gem 'rdf'
+gem 'mocha'

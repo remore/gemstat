@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'activerecord'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'combustion'
+gem 'sqlite3'

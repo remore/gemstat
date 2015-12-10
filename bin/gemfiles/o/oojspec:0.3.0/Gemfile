@@ -1,0 +1,2 @@
+gem 'coffee-rails'
+gem 'rails-sandbox-assets'

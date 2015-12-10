@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'
+gem 'haml'
+gem 'rdoc'
+gem 'jeweler'
+gem 'rake'

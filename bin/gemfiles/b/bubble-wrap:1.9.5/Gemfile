@@ -1,0 +1,5 @@
+gem 'mocha'
+gem 'mocha-on-bacon'
+gem 'bacon'
+gem 'rake'
+gem 'webstub'

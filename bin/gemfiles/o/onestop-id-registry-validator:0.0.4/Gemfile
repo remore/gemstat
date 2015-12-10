@@ -1,0 +1,8 @@
+gem 'onestop-id-client'
+gem 'rake'
+gem 'json-schema'
+gem 'rspec'
+gem 'simplecov'
+gem 'pry'
+gem 'byebug'
+gem 'pry-byebug'

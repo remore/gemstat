@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'haml'
+gem 'sass'
+gem 'bourbon'
+gem 'jquery-rails'
+gem 'sass-rails'
+gem 'haml-rails'

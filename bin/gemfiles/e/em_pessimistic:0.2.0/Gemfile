@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'minitest'
+gem 'em-minitest-spec'
+gem 'rake'
+gem 'fosl'

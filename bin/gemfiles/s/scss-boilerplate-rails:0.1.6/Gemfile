@@ -1,0 +1,2 @@
+gem 'compass-rails'
+gem 'compass-h5bp'

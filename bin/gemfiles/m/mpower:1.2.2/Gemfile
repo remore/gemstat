@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'multi_json'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'rake'

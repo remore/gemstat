@@ -1,0 +1,4 @@
+gem 'dnssd'
+gem 'json-prettyprint'
+gem 'bundler'
+gem 'rake'

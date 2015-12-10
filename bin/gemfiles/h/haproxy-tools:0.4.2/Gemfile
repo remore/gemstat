@@ -1,0 +1,7 @@
+gem 'net-scp'
+gem 'treetop'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'simplecov'
+gem 'cane'

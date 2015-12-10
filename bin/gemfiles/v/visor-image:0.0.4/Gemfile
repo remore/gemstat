@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'yard'
+gem 'visor-common'
+gem 'goliath'
+gem 'em-http-request'
+gem 's3restful'
+gem 'progressbar'

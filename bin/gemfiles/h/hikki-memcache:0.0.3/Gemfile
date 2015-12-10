@@ -1,0 +1,5 @@
+gem 'hikki'
+gem 'dalli'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

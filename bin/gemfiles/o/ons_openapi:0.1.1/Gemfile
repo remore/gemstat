@@ -1,0 +1,4 @@
+gem 'morph'
+gem 'json'
+gem 'execjs'
+gem 'rack'

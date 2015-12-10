@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'typhoeus'
+gem 'xml-simple'
+gem 'hashie'
+gem 'colorize'

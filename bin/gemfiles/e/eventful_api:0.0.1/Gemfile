@@ -1,0 +1,6 @@
+gem 'oauth'
+gem 'multi_json'
+gem 'addressable'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'

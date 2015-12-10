@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'mixlib-authentication'
+gem 'multi_json'
+gem 'rspec'
+gem 'webmock'
+gem 'timecop'
+gem 'spork'

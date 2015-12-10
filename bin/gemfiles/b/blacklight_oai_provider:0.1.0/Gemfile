@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'blacklight'
+gem 'oai'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'vcr'
+gem 'fakeweb'

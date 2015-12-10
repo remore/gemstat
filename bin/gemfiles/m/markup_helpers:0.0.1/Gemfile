@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'erubis'
+gem 'haml'
+gem 'tilt'
+gem 'sinatra'

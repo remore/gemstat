@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'taglib-ruby'
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'term-ansicolor'

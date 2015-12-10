@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rmagick'
+gem 'jquery-rails'
+gem 'coffee-rails'
+gem 'sqlite3'
+gem 'jquery-rails'
+gem 'coffee-rails'

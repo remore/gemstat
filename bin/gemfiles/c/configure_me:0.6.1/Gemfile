@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'rspec'
+gem 'simplecov'
+gem 'mocha'
+gem 'guard-rspec'
+gem 'libnotify'

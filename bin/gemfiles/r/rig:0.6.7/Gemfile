@@ -1,0 +1,6 @@
+gem 'clamp'
+gem 'fog'
+gem 'ipaddress'
+gem 'terminal-table'
+gem 'erubis'
+gem 'awesome_print'

@@ -1,0 +1,7 @@
+gem 'paperclip'
+gem 'docsplit'
+gem 'delayed_job_active_record'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

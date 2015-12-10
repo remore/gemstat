@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'mocha'
+gem 'thoughtbot-shoulda'
+gem 'sqlite3-ruby'
+gem 'mislav-hanna'
+gem 'hoe'

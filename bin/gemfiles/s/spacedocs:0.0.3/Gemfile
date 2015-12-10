@@ -1,0 +1,5 @@
+gem 'compass'
+gem 'haml'
+gem 'rake'
+gem 'sass'
+gem 'tilt'

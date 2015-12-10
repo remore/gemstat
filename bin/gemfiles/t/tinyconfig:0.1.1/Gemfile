@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'simplecov'
+gem 'thor'
+gem 'wrong'

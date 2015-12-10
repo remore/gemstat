@@ -1,0 +1,7 @@
+gem 'grit'
+gem 'rake'
+gem 'yard'
+gem 'activesupport'
+gem 'commander'
+gem 'colorize'
+gem 'rspec'

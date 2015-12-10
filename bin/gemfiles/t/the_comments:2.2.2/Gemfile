@@ -1,0 +1,2 @@
+gem 'state_machine'
+gem 'the_sortable_tree'

@@ -1,0 +1,5 @@
+gem 'serialport'
+gem 'celluloid-io'
+gem 'revolver'
+gem 'bundler'
+gem 'rake'

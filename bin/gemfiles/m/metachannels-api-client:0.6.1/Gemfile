@@ -1,0 +1,6 @@
+gem 'wrest'
+gem 'rake'
+gem 'i18n'
+gem 'jeweler'
+gem 'rspec'
+gem 'wrest'

@@ -1,0 +1,4 @@
+gem 'thinreports'
+gem 'barby'
+gem 'chunky_png'
+gem 'money'

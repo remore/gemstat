@@ -1,0 +1,8 @@
+gem 'spree_core'
+gem 'rdiscount'
+gem 'shoulda'
+gem 'dummier'
+gem 'factory_girl'
+gem 'capybara'
+gem 'sqlite3'
+gem 'simplecov'

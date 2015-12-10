@@ -1,0 +1,4 @@
+gem 'flay'
+gem 'actionpack'
+gem 'bundler'
+gem 'rake'

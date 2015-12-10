@@ -1,0 +1,4 @@
+gem 'pg_query'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'

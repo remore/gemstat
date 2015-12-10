@@ -1,0 +1,7 @@
+gem 'logstash-core'
+gem 'gelfd'
+gem 'logstash-codec-plain'
+gem 'stud'
+gem 'logstash-devutils'
+gem 'gelf'
+gem 'flores'

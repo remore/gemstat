@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'facter'
+gem 'parseconfig'
+gem 'test-unit'
+gem 'rack-test'
+gem 'mocha'

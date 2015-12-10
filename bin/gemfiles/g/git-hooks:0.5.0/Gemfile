@@ -1,0 +1,8 @@
+gem 'rubocop'
+gem 'thor'
+gem 'git'
+gem 'equalizer'
+gem 'bundler'
+gem 'coveralls'
+gem 'rspec'
+gem 'pry'

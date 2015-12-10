@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'timeliness'
+gem 'unidecoder'
+gem 'htmlentities'
+gem 'qa'
+gem 'sqlite3'

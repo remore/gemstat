@@ -1,0 +1,7 @@
+gem 'clamp'
+gem 'uuidtools'
+gem 'plist'
+gem 'highline'
+gem 'rspec'
+gem 'cucumber'
+gem 'ruby-debug19'

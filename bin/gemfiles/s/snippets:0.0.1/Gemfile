@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'sinatra'
+gem 'rspec'
+gem 'sqlite3'
+gem 'rack-test'

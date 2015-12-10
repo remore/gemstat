@@ -1,0 +1,8 @@
+gem 'rash'
+gem 'ruby_odata'
+gem 'minitest'
+gem 'turn'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'bundler'

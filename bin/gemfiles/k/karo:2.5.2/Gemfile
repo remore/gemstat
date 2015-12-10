@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'thor'

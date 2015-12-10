@@ -1,0 +1,8 @@
+gem 'coffee-rails'
+gem 'rails'
+gem 'guard-minitest'
+gem 'minitest-rails'
+gem 'mocha'
+gem 'pg'
+gem 'simplecov'
+gem 'thor'

@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'active_interaction'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl_rails'

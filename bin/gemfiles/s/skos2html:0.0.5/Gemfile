@@ -1,0 +1,7 @@
+gem 'rdf-rdfxml'
+gem 'linkeddata'
+gem 'builder'
+gem 'logger'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-html-matchers'

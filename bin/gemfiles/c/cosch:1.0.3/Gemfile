@@ -1,0 +1,5 @@
+gem 'liquid'
+gem 'mercenary'
+gem 'sass'
+gem 'rspec'
+gem 'nokogiri'

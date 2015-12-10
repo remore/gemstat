@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'deployinator'
+gem 'colorize'
+gem 'rake'
+gem 'sshkit'

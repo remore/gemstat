@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'json'
+gem 'multipart-post'
+gem 'mime-types'

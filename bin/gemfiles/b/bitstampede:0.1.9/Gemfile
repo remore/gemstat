@@ -1,0 +1,8 @@
+gem 'net-http-persistent'
+gem 'multi_json'
+gem 'json_pure'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'
+gem 'pry'

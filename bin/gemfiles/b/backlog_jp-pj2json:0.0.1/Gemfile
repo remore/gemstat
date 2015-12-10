@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'backlog_jp'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-coolline'
+gem 'awesome_print'

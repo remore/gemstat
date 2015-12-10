@@ -1,0 +1,7 @@
+gem 'pry'
+gem 'rake'
+gem 'rake-compiler'
+gem 'rspec'
+gem 'sinatra'
+gem 'activesupport'
+gem 'rdoc'

@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'dante'
+gem 'serialport'
+gem 'rake'
+gem 'aruba'
+gem 'hoe-bundler'
+gem 'hoe-git'
+gem 'hoe'

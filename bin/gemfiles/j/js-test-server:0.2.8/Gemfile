@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'thin'
+gem 'erector'
+gem 'selenium-client'
+gem 'trollop'
+gem 'guid'
+gem 'json'

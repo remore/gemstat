@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'minicontext'
+gem 'tilt'
+gem 'rack-protection'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rack-test'

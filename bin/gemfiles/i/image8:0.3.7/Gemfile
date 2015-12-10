@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'async_sinatra'
+gem 'em-http-request'
+gem 'em-synchrony'
+gem 'json'
+gem 'rmagick'

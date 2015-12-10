@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'debugger'
+gem 'activesupport'
+gem 'faraday'
+gem 'link_header'

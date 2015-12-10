@@ -1,0 +1,5 @@
+gem 'binary-protocol'
+gem 'erlang-terms'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

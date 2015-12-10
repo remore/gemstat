@@ -1,0 +1,2 @@
+gem 'thread_safe'
+gem 'semantic_logger'

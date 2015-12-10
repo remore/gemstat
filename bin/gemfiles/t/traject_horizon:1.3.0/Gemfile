@@ -1,0 +1,6 @@
+gem 'traject'
+gem 'marc-marc4j'
+gem 'ensure_valid_encoding'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

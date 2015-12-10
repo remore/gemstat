@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'docile'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rspec-rails'

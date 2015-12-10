@@ -1,0 +1,5 @@
+gem 'rubocop'
+gem 'shoulda-matchers'
+gem 'rspec'
+gem 'bundler'
+gem 'gem-release'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'ephemeral_response'
+gem 'httparty'
+gem 'nokogiri'
+gem 'ruby-hmac'
+gem 'hashie'
+gem 'rash'

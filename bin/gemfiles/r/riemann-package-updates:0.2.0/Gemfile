@@ -1,0 +1,5 @@
+gem 'git-version-bump'
+gem 'riemann-tools'
+gem 'bundler'
+gem 'github-release'
+gem 'rake'

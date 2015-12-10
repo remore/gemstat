@@ -1,0 +1,6 @@
+gem 'json'
+gem 'rspec'
+gem 'redis'
+gem 'activesupport'
+gem 'timecop'
+gem 'rake'

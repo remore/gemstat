@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'awesome_print'
+gem 'timecop'
+gem 'yard'
+gem 'redcarpet'

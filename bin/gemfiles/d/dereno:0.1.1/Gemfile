@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'pivotal-tracker'
+gem 'pony'
+gem 'tinder'
+gem 'activesupport'
+gem 'rake'
+gem 'mocha'

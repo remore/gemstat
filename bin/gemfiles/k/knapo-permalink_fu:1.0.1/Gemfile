@@ -1,0 +1,4 @@
+gem 'i18n'
+gem 'rails'
+gem 'activerecord'
+gem 'activesupport'

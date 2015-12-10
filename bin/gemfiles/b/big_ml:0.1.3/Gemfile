@@ -1,0 +1,6 @@
+gem 'httmultiparty'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'

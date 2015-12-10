@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'aruba'
+gem 'clamp'
+gem 'json_pure'
+gem 'open4'
+gem 'rubyzip'
+gem 'text'

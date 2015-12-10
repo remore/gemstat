@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'haml'
+gem 'mechanize'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

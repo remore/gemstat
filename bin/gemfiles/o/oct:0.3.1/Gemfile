@@ -1,0 +1,8 @@
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

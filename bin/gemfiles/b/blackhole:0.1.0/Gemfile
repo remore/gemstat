@@ -1,0 +1,4 @@
+gem 'em-mongo'
+gem 'mongo'
+gem 'bson_ext'
+gem 'eventmachine'

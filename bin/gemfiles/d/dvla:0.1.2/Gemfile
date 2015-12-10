@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

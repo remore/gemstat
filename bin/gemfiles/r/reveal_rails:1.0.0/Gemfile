@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'

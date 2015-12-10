@@ -1,0 +1,4 @@
+gem 'jvertica'
+gem 'tzinfo'
+gem 'bundler'
+gem 'rake'

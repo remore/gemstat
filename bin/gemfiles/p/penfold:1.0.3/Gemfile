@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'net-http-persistent'
+gem 'rubyforge'
+gem 'hoe'

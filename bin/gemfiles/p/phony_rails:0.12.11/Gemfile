@@ -1,0 +1,4 @@
+gem 'phony'
+gem 'activesupport'
+gem 'activerecord'
+gem 'mongoid'

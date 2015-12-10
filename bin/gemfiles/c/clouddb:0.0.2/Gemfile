@@ -1,0 +1,2 @@
+gem 'typhoeus'
+gem 'json'

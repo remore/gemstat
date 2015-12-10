@@ -1,0 +1,4 @@
+gem 'json'
+gem 'jsonschema'
+gem 'rake'
+gem 'webmock'

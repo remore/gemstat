@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'echoe'
+gem 'rspec'
+gem 'sqlite3'

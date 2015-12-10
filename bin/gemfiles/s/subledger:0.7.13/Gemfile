@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'faraday_middleware'
+gem 'multi_json'
+gem 'grape-entity'
+gem 'bcrypt'
+gem 'valid_email'

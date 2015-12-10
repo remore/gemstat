@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'haml'
+gem 'bundler'
+gem 'pry'

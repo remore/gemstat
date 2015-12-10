@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'activesupport'
+gem 'httparty'
+gem 'echoe'

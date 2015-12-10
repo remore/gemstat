@@ -1,0 +1,4 @@
+gem 'ox'
+gem 'escape_utils'
+gem 'rake'
+gem 'bundler'

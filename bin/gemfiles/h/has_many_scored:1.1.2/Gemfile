@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'redis-objects'
+gem 'pry'
+gem 'sqlite3'
+gem 'fakeredis'
+gem 'rdoc'
+gem 'rspec'
+gem 'rubygems-tasks'

@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'ci_reporter'
+gem 'rspec'
+gem 'rake'
+gem 'pry-debugger'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'mongo_mapper'
+gem 'bson_ext'
+gem 'gibberish'
+gem 'bicrypt'
+gem 'thor'
+gem 'i18n'

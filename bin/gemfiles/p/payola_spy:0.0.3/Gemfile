@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'payola-payments'
+gem 'bootstrap-sass'
+gem 'sass-rails'
+gem 'kaminari'
+gem 'sqlite3'

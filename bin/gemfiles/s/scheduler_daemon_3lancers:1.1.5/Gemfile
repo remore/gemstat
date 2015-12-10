@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'eventmachine'
+gem 'daemons'
+gem 'rufus-scheduler'
+gem 'chronic'
+gem 'rspec'

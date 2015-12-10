@@ -1,0 +1,6 @@
+gem 'hiredis'
+gem 'em-synchrony'
+gem 'em-http-request'
+gem 'redis'
+gem 'yajl-ruby'
+gem 'goliath'

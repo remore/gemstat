@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bundler'
+gem 'jeweler'
+gem 'mocha'
+gem 'rcov'
+gem 'shoulda'

@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'

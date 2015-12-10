@@ -1,0 +1,5 @@
+gem 'picnic'
+gem 'reststop'
+gem 'restr'
+gem 'rufus-scheduler'
+gem 'hoe'

@@ -1,0 +1,2 @@
+gem 'addressable'
+gem 'em-http-request'

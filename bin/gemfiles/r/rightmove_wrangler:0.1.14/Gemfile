@@ -1,0 +1,6 @@
+gem 'rightmove'
+gem 'blm'
+gem 'faraday'
+gem 'multipart-post'
+gem 'addressable'
+gem 'daemons'

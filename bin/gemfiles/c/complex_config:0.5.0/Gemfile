@@ -1,0 +1,8 @@
+gem 'gem_hadar'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'
+gem 'monetize'
+gem 'codeclimate-test-reporter'
+gem 'json'
+gem 'tins'

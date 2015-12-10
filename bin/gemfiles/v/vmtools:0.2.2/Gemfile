@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'vagrant'
+gem 'mixlib-cli'
+gem 'mixlib-config'

@@ -1,0 +1,4 @@
+gem 'lodash-rails'
+gem 'underscore-rails'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'

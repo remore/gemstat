@@ -1,0 +1,5 @@
+gem 'theguardian'
+gem 'table_print'
+gem 'terminal-table'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'aws-sdk-resources'
+gem 'clamp'
+gem 'console_logger'
+gem 'diffy'
+gem 'multi_json'

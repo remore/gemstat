@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'json'
+gem 'typhoeus'
+gem 'memcached'
+gem 'rake'
+gem 'rspec'

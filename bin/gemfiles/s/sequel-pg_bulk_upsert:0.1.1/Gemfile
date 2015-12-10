@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'pg'
+gem 'minitest'
+gem 'pry'
+gem 'rake'

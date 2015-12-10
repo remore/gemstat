@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'rake'
+gem 'immutable_struct'
+gem 'json'

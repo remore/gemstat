@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'simplecov'
+gem 'coveralls'
+gem 'minitest'
+gem 'minitest-reporters'

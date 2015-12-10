@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-inotify'
+gem 'rb-fsevent'
+gem 'rb-fchange'
+gem 'webmock'

@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'rspec'
+gem 'webmock'
+gem 'vin_exploder'

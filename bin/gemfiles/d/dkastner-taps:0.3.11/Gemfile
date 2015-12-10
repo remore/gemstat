@@ -1,0 +1,8 @@
+gem 'json_pure'
+gem 'sinatra'
+gem 'rest-client'
+gem 'sequel'
+gem 'sqlite3-ruby'
+gem 'rack'
+gem 'jeweler'
+gem 'bacon'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'commander'
+gem 'droplet_kit'
+gem 'fog'
+gem 'google-api-client'

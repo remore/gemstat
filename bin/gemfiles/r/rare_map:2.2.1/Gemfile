@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'simplecov'
+gem 'yard'
+gem 'bundler'
+gem 'rake'

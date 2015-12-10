@@ -1,0 +1,8 @@
+gem 'roar'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'will_paginate'
+gem 'kaminari'

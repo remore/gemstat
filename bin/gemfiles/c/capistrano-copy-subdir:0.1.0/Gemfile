@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'net-scp'
+gem 'net-ssh'
+gem 'vagrant'

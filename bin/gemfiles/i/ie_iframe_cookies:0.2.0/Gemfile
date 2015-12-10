@@ -1,0 +1,6 @@
+gem 'bump'
+gem 'rails'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-rg'
+gem 'wwtd'

@@ -1,0 +1,4 @@
+gem 'pry-nav'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

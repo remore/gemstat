@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'omf_rc'
+gem 'json-jwt'
+gem 'cronedit'
+gem 'listen'

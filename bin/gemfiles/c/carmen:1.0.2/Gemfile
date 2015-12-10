@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'nokogiri'
+gem 'rake'
+gem 'i18n'
+gem 'activesupport'

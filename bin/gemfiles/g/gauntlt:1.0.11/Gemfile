@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'arachni'
+gem 'cucumber'
+gem 'aruba'
+gem 'nokogiri'
+gem 'trollop'

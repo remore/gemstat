@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'trollop'
+gem 'rspec'
+gem 'rake'
+gem 'codeclimate-test-reporter'

@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'feedtools'
+gem 'htmlentities'
+gem 'shorturl'
+gem 'hoe'

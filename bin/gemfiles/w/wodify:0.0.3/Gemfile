@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'dotenv'
+gem 'httparty'
+gem 'activemodel'
+gem 'activesupport'

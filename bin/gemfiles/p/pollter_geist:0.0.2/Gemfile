@@ -1,0 +1,5 @@
+gem 'mail'
+gem 'virtus'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'

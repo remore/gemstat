@@ -1,0 +1,5 @@
+gem 'instagram'
+gem 'mini_magick'
+gem 'ruby-opencv'
+gem 'bundler'
+gem 'rake'

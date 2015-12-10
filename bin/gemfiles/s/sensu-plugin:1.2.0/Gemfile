@@ -1,0 +1,4 @@
+gem 'json'
+gem 'mixlib-cli'
+gem 'rake'
+gem 'minitest'

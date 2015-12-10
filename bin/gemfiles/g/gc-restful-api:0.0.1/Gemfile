@@ -1,0 +1,7 @@
+gem 'gitcontacts'
+gem 'sinatra'
+gem 'thin'
+gem 'sinatra-contrib'
+gem 'moneta'
+gem 'bundler'
+gem 'rake'

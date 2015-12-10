@@ -1,0 +1,4 @@
+gem 'prawn'
+gem 'rdoc'
+gem 'rspec'
+gem 'pdf-inspector'

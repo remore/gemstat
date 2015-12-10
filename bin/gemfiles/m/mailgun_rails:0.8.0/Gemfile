@@ -1,0 +1,5 @@
+gem 'actionmailer'
+gem 'json'
+gem 'rest-client'
+gem 'rspec'
+gem 'rails'

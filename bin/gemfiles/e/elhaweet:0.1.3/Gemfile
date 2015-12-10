@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mysql2'
+gem 'rufus-scheduler'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

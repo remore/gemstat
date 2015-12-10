@@ -1,0 +1,5 @@
+gem 'perimeter'
+gem 'activerecord'
+gem 'guard-rspec'
+gem 'rspec'
+gem 'sqlite3'

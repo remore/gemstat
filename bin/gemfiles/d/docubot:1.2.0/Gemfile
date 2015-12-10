@@ -1,0 +1,6 @@
+gem 'haml'
+gem 'nokogiri'
+gem 'kramdown'
+gem 'RedCloth'
+gem 'minitest'
+gem 'coderay'

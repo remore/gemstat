@@ -1,0 +1,2 @@
+gem 'weary'
+gem 'rspec'

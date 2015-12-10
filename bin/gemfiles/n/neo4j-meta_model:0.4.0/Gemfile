@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'neo4j'
+gem 'slim-rails'
+gem 'active_model_serializers'

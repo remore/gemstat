@@ -1,0 +1,6 @@
+gem 'standalone'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'bundler'
+gem 'coveralls'

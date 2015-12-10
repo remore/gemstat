@@ -1,0 +1,4 @@
+gem 'digitalocean_c'
+gem 'barge'
+gem 'thor'
+gem 'pony'

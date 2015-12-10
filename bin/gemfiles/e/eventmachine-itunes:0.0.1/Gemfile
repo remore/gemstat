@@ -1,0 +1,5 @@
+gem 'eventmachine-distributed-notification'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rb-appscript'

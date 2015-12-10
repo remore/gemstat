@@ -1,0 +1,5 @@
+gem 'redic'
+gem 'nido'
+gem 'stal'
+gem 'msgpack'
+gem 'cutest'

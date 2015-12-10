@@ -1,0 +1,5 @@
+gem 'winrm'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'rspec'
+gem 'rake'

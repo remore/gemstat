@@ -1,0 +1,5 @@
+gem 'coffee-script'
+gem 'cssmin'
+gem 'eco'
+gem 'liquid'
+gem 'uglifier'

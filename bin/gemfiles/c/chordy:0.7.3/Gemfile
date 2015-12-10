@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'rake'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'jekyll'
+gem 'debugger'

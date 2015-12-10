@@ -1,0 +1,4 @@
+gem 'robot-army'
+gem 'thor'
+gem 'grit'
+gem 'highline'

@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'stringex'
+gem 'bson_ext'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

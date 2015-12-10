@@ -1,0 +1,5 @@
+gem 'etest'
+gem 'nokogiri'
+gem 'sanitize'
+gem 'htmlentities'
+gem 'json'

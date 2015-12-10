@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'htmlentities'
+gem 'nokogiri'
+gem 'foreman'
+gem 'htmlentities'

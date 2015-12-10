@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'eventmachine-le'
+gem 'em-udns'
+gem 'em-ssh'
+gem 'eventmachine_httpserver'
+gem 'json'

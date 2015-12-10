@@ -1,0 +1,6 @@
+gem 'barber'
+gem 'emblem-source'
+gem 'rake'
+gem 'simplecov'
+gem 'mocha'
+gem 'appraisal'

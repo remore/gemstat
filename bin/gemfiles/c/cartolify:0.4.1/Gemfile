@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'nokogiri'
+gem 'json'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'turn'

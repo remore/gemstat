@@ -1,0 +1,2 @@
+gem 'rspec'
+gem 'Pr0d1r2-active_record_connectionless'

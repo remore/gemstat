@@ -1,0 +1,7 @@
+gem 'platform-api'
+gem 'sys-proctable'
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'pry-byebug'
+gem 'rake'
+gem 'rspec'

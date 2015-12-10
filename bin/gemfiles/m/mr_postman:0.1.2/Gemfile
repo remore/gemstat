@@ -1,0 +1,6 @@
+gem 'worker'
+gem 'rspec'
+gem 'actionpack'
+gem 'actionmailer'
+gem 'sqlite3-ruby'
+gem 'ruby-debug19'

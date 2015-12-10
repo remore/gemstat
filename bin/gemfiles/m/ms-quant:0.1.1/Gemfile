@@ -1,0 +1,4 @@
+gem 'ms-ident'
+gem 'spec-more'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'terminal-table'
+gem 'aruba'
+gem 'rspec'
+gem 'bundler'
+gem 'pry'
+gem 'pry-doc'

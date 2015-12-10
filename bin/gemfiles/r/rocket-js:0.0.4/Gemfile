@@ -1,0 +1,6 @@
+gem 'rocket-core'
+gem 'json'
+gem 'yui-compressor'
+gem 'rspec'
+gem 'mocha'
+gem 'jasmine'

@@ -1,0 +1,5 @@
+gem 'json'
+gem 'hashie'
+gem 'uuidtools'
+gem 'activesupport'
+gem 'settingslogic'

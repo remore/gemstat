@@ -1,0 +1,6 @@
+gem 'ember_script'
+gem 'rails'
+gem 'bundler'
+gem 'appraisal'
+gem 'rspec'
+gem 'rspec-rails'

@@ -1,0 +1,4 @@
+gem 'jekyll'
+gem 'nanoc3'
+gem 'staticmatic'
+gem 'universe-templates'

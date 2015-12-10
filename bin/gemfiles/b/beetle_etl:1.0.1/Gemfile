@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'activesupport'
+gem 'bundler'
+gem 'rspec'
+gem 'timecop'
+gem 'pg'
+gem 'unindent'

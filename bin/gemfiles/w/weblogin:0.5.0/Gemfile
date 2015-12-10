@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'parseconfig'
+gem 'highline'
+gem 'zlog'

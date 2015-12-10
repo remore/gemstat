@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'activerecord'
+gem 'thrift_client'
+gem 'uuid'
+gem 'activerecord-hive-adapter'
+gem 'rake'

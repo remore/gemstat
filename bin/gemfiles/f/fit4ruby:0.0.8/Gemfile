@@ -1,0 +1,4 @@
+gem 'bindata'
+gem 'yard'
+gem 'rake'
+gem 'bundler'

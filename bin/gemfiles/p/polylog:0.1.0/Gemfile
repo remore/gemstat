@@ -1,0 +1,4 @@
+gem 'bones-rspec'
+gem 'bones-git'
+gem 'rdoc'
+gem 'bones'

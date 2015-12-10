@@ -1,0 +1,5 @@
+gem 'mods'
+gem 'rake'
+gem 'rdoc'
+gem 'yard'
+gem 'rspec'

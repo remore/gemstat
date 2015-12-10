@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'effective_ckeditor'
+gem 'haml-rails'
+gem 'virtus'

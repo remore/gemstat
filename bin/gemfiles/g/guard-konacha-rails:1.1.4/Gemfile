@@ -1,0 +1,8 @@
+gem 'guard'
+gem 'rails'
+gem 'konacha'
+gem 'guard-compat'
+gem 'rspec'
+gem 'coveralls'
+gem 'timecop'
+gem 'poltergeist'

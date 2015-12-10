@@ -1,0 +1,6 @@
+gem 'camping'
+gem 'mime-types'
+gem 'extra'
+gem 'simple-daemon'
+gem 'mosquito'
+gem 'markaby'

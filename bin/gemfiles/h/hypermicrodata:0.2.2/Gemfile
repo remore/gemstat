@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'mechanize'
+gem 'halibut'
+gem 'multi_json'
+gem 'addressable'
+gem 'bundler'
+gem 'rake'

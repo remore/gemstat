@@ -1,0 +1,7 @@
+gem 'attestor'
+gem 'attr_coerced'
+gem 'chronicles'
+gem 'virtus'
+gem 'wisper'
+gem 'hexx-cli'
+gem 'hexx-rspec'

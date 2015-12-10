@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'net_http_unix'

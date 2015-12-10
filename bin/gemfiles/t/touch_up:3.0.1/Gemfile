@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'bundler'
+gem 'bacon'
+gem 'Bacon_Colored'
+gem 'twitter-text'
+gem 'escape_escape_escape'

@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'mail'
+gem 'logstash-devutils'
+gem 'rumbster'
+gem 'logstash-input-generator'

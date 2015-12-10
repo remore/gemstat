@@ -1,0 +1,4 @@
+gem 'xmigra'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

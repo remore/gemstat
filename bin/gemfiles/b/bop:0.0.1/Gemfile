@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'ancestry'
+gem 'liquid'
+gem 'redcarpet'
+gem 'sqlite3'

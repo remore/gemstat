@@ -1,0 +1,8 @@
+gem 'methodize'
+gem 'json_pure'
+gem 'activesupport'
+gem 'actionpack'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

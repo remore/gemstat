@@ -1,0 +1,2 @@
+gem 'media-path'
+gem 'simple-templater'

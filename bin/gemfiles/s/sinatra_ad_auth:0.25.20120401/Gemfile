@@ -1,0 +1,6 @@
+gem 'net-ldap'
+gem 'sinatra'
+gem 'net-ldap'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'

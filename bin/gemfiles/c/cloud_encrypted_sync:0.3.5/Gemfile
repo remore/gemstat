@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'mocha'
+gem 'simplecov'
+gem 'fakefs'
+gem 'activesupport'

@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'uservoice-ruby'
+gem 'excon'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'minitest'
+gem 'capybara'

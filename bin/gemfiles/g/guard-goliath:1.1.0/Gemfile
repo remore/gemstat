@@ -1,0 +1,8 @@
+gem 'guard'
+gem 'ffi'
+gem 'spoon'
+gem 'rb-inotify'
+gem 'libnotify'
+gem 'rake'
+gem 'bundler'
+gem 'rack'

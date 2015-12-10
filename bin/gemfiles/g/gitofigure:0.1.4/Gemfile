@@ -1,0 +1,6 @@
+gem 'git'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

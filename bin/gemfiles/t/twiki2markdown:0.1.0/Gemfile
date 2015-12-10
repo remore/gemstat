@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'shoulda-context'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

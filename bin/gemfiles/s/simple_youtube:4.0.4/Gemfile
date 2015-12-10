@@ -1,0 +1,5 @@
+gem 'activeresource'
+gem 'rest-client'
+gem 'fakeweb'
+gem 'rspec'
+gem 'rake'

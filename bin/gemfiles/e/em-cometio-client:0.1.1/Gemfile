@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'sinatra-cometio'
+gem 'thin'
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'json'
+gem 'event_emitter'

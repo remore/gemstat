@@ -1,0 +1,5 @@
+gem 'ruby-ole'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-ole'

@@ -1,0 +1,6 @@
+gem 'json'
+gem 'webmock'
+gem 'minitest'
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'em-synchrony'

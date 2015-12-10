@@ -1,0 +1,4 @@
+gem 'prawn'
+gem 'slop'
+gem 'bundler'
+gem 'rake'

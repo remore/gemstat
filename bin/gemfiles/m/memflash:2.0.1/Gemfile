@@ -1,0 +1,7 @@
+gem 'actionpack'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-rg'
+gem 'wwtd'
+gem 'bump'
+gem 'mocha'

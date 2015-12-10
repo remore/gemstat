@@ -1,0 +1,8 @@
+gem 'docker-api'
+gem 'thor'
+gem 'daemons'
+gem 'rubydns'
+gem 'etcd'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

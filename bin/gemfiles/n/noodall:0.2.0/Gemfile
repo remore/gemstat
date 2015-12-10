@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'noodall-core'
+gem 'noodall-ui'
+gem 'bundler'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-fire'
+gem 'cane'
+gem 'simplecov'

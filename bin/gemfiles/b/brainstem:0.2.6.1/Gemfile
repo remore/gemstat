@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rake'
+gem 'redcarpet'
+gem 'rr'
+gem 'rspec'
+gem 'sqlite3'
+gem 'yard'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'fuubar'
+gem 'rspec'
+gem 'tzinfo'
+gem 'httparty'
+gem 'nokogiri'

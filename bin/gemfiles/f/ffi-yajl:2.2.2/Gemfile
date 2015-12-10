@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'rake-compiler'
+gem 'mime-types'
+gem 'libyajl2'
+gem 'ffi'

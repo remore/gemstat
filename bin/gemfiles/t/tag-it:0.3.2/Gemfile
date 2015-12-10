@@ -1,0 +1,5 @@
+gem 'thoughtbot-shoulda'
+gem 'test-unit'
+gem 'mocha'
+gem 'timecop'
+gem 'ruby-serialport'

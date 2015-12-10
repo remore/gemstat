@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'serialport'
+gem 'simplecov'
+gem 'test-unit'
+gem 'rake'

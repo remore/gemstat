@@ -1,0 +1,4 @@
+gem 'resque'
+gem 'resque-scheduler'
+gem 'thoughtbot-shoulda'
+gem 'mocha'

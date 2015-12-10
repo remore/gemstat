@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'simple_form'
+gem 'parsley-rails'
+gem 'sqlite3'

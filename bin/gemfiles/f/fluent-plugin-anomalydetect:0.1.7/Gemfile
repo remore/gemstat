@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'pry'
+gem 'pry-nav'
+gem 'octorelease'
+gem 'fluentd'

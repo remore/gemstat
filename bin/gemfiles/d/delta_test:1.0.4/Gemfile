@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'fakefs'
+gem 'pry'
+gem 'rake'
+gem 'rake-compiler'
+gem 'rspec'

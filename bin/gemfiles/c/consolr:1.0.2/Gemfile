@@ -1,0 +1,6 @@
+gem 'collins_auth'
+gem 'net-ping'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

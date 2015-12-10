@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'pry'
+gem 'syntax'
+gem 'active_support'
+gem 'i18n'
+gem 'diffy'
+gem 'gli'
+gem 'net-ssh'

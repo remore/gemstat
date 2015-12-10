@@ -1,0 +1,7 @@
+gem 'activemerchant'
+gem 'lyon'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'resque'
+gem 'tanzeeb-rufus-scheduler'
+gem 'airbrake'
+gem 'jeweler'
+gem 'mocha'
+gem 'rack-test'

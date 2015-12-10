@@ -1,0 +1,5 @@
+gem 'github_api'
+gem 'term-ansicolor'
+gem 'json'
+gem 'bundler'
+gem 'rake'

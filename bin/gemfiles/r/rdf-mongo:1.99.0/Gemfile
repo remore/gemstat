@@ -1,0 +1,7 @@
+gem 'rdf'
+gem 'mongo'
+gem 'rdf-spec'
+gem 'rspec'
+gem 'rspec-its'
+gem 'yard'
+gem 'bson_ext'

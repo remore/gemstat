@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'activerecord'
+gem 'activerecord-import'
+gem 'rake'

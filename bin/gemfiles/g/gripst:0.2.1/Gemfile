@@ -1,0 +1,6 @@
+gem 'octokit'
+gem 'git'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

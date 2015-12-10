@@ -1,0 +1,7 @@
+gem 'excon'
+gem 'yajl-ruby'
+gem 'nokogiri'
+gem 'hashie'
+gem 'bundler'
+gem 'minitest'
+gem 'pry'

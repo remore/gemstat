@@ -1,0 +1,4 @@
+gem 'pg'
+gem 'statsd-ruby'
+gem 'test-unit'
+gem 'simplecov'

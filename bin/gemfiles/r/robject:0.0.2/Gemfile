@@ -1,0 +1,5 @@
+gem 'rsruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'

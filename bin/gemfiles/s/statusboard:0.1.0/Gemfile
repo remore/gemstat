@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'tilt'
+gem 'rack-handlers'
+gem 'sinatra'
+gem 'rack'

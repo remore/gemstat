@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'conjur-cli'
+gem 'rack'
+gem 'rack-streaming-proxy'
+gem 'thin'
+gem 'bundler'
+gem 'rake'
+gem 'copyright-header'

@@ -1,0 +1,7 @@
+gem 'sys-filesystem'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rails_best_practices'

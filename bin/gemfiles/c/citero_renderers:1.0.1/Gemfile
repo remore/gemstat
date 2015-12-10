@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'citero-jruby'
+gem 'activerecord-jdbcsqlite3-adapter'
+gem 'rspec-rails'
+gem 'acts_as_citable'

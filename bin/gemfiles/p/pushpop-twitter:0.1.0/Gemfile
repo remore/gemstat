@@ -1,0 +1,4 @@
+gem 'pushpop'
+gem 'twitter'
+gem 'rake'
+gem 'rspec'

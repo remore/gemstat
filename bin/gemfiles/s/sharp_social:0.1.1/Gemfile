@@ -1,0 +1,6 @@
+gem 'sqlite3'
+gem 'factory_girl'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'generator_spec'
+gem 'shoulda'

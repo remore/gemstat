@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'spree_auth'
+gem 'spree_store_credits'
+gem 'spree_email_to_friend'

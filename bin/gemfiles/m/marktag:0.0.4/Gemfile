@@ -1,0 +1,4 @@
+gem 'redcarpet'
+gem 'guard'
+gem 'guard-minitest'
+gem 'guard-shell'

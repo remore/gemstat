@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'highline'
+gem 'i18n'
+gem 'git'
+gem 'colorize'
+gem 'toml'

@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'yajl-ruby'
+gem 'dripdrop'
+gem 'daemon-spawn'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'configatron'
+gem 'json'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

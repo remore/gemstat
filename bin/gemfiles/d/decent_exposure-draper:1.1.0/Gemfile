@@ -1,0 +1,6 @@
+gem 'draper'
+gem 'decent_exposure'
+gem 'minitest'
+gem 'purdytest'
+gem 'rails'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'haml-rails'
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rails'

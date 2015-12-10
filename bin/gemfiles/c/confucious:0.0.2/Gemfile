@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'rdoc'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

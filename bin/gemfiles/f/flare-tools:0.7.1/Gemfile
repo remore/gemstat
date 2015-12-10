@@ -1,0 +1,4 @@
+gem 'log4r'
+gem 'tokyocabinet'
+gem 'bundler'
+gem 'rake'

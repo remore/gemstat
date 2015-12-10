@@ -1,0 +1,8 @@
+gem 'http_router'
+gem 'sinatra'
+gem 'minitest'
+gem 'code_stats'
+gem 'rake'
+gem 'rbench'
+gem 'phocus'
+gem 'bundler'

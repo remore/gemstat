@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'term-ansicolor'
+gem 'getversion'
+gem 'wicked_witch'
+gem 'test-unit'
+gem 'mocha'

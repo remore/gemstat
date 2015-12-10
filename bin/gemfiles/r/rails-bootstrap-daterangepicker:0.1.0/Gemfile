@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rdoc'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

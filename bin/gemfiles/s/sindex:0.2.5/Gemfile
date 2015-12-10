@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'hashconfig'
+gem 'serienrenamer'
+gem 'highline'

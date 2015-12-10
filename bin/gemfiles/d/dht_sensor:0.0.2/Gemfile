@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake-compiler'
+gem 'rspec'
+gem 'mocha'
+gem 'simplecov'
+gem 'rake'

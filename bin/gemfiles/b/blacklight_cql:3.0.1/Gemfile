@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'blacklight'
+gem 'cql-ruby'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'nokogiri'
+gem 'engine_cart'

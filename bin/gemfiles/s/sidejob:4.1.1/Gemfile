@@ -1,0 +1,5 @@
+gem 'sidekiq'
+gem 'pry'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

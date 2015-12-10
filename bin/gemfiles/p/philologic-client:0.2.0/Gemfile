@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rdoc'
+gem 'mocha'
+gem 'rdoc-readme'
+gem 'simplecov'
+gem 'nokogiri'

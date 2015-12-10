@@ -1,0 +1,6 @@
+gem 'dry-container'
+gem 'inflecto'
+gem 'kleisli'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'redis'
+gem 'yamload'
+gem 'radiant'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'rest-client'
+gem 'archive-tar-minitar'
+gem 'rake'
+gem 'rspec'

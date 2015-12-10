@@ -1,0 +1,6 @@
+gem 'av_capture'
+gem 'dante'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

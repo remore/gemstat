@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'rspec'
+gem 'httmultiparty'
+gem 'bundler'
+gem 'rake'

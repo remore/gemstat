@@ -1,0 +1,5 @@
+gem 'websocket-driver'
+gem 'bundler'
+gem 'rspec'
+gem 'puma'
+gem 'rake'

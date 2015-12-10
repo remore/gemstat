@@ -1,0 +1,4 @@
+gem 'log'
+gem 'params'
+gem 'content_data'
+gem 'file_indexing'

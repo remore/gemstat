@@ -1,0 +1,5 @@
+gem 'yajl-ruby'
+gem 'fluentd'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

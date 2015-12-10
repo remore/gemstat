@@ -1,0 +1,7 @@
+gem 'savon'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rack'
+gem 'simplecov'
+gem 'simplecov-rcov'
+gem 'webmock'

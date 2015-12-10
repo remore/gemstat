@@ -1,0 +1,6 @@
+gem 'ember-rails-assets'
+gem 'bundler'
+gem 'actionview'
+gem 'rake'
+gem 'rspec'
+gem 'byebug'

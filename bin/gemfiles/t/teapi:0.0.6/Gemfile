@@ -1,0 +1,2 @@
+gem 'httparty'
+gem 'oj'

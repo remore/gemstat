@@ -1,0 +1,5 @@
+gem 'diff-lcs'
+gem 'coderay'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

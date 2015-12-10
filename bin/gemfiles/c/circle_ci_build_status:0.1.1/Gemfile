@@ -1,0 +1,7 @@
+gem 'nori'
+gem 'faraday'
+gem 'nokogiri'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

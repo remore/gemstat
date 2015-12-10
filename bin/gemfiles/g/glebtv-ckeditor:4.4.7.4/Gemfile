@@ -1,0 +1,6 @@
+gem 'sprockets'
+gem 'rails'
+gem 'mime-types'
+gem 'mini_magick'
+gem 'orm_adapter'
+gem 'sass'

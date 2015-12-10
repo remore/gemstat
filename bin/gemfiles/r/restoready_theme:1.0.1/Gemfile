@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'faraday'
+gem 'json'
+gem 'mimemagic'
+gem 'filewatcher'
+gem 'launchy'
+gem 'rake'
+gem 'rspec'

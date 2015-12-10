@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'require_all'
+gem 'rspec'
+gem 'watir-webdriver'
+gem 'selenium-webdriver'
+gem 'mechanize'

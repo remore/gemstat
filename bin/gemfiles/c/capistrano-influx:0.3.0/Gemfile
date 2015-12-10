@@ -1,0 +1,6 @@
+gem 'influxdb'
+gem 'capistrano'
+gem 'bundler'
+gem 'rake'
+gem 'capistrano-spec'
+gem 'rspec'

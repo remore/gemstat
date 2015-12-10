@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rake'
+gem 'guard-minitest'
+gem 'rb-fsevent'
+gem 'growl'
+gem 'minitest-reporters'
+gem 'yard'

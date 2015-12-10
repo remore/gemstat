@@ -1,0 +1,5 @@
+gem 'taf2-curb'
+gem 'jsl-moneta'
+gem 'jsl-hashback'
+gem 'jsl-http_headers'
+gem 'namelessjon-feed_me'

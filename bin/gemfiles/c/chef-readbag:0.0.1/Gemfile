@@ -1,0 +1,2 @@
+gem 'mixlib-authentication'
+gem 'rest-client'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'haml'
+gem 'guard-haml'
+gem 'rb-fsevent'
+gem 'rb-inotify'
+gem 'rb-fchange'

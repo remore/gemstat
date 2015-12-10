@@ -1,0 +1,7 @@
+gem 'launchy'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'webmock'
+gem 'vcr'

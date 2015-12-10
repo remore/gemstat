@@ -1,0 +1,4 @@
+gem 'sass'
+gem 'rails-sass-images'
+gem 'bundler'
+gem 'rake'

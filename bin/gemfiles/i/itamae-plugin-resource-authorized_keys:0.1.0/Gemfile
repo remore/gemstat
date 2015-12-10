@@ -1,0 +1,6 @@
+gem 'itamae'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'serverspec'

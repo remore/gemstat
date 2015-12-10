@@ -1,0 +1,7 @@
+gem 'gaku_core'
+gem 'gaku_testing'
+gem 'gaku_admin'
+gem 'sidekiq'
+gem 'sinatra'
+gem 'smarter_csv'
+gem 'thinreports-rails'

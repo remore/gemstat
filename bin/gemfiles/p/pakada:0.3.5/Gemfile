@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'hooked'
+gem 'rspec'
+gem 'fakefs'
+gem 'fakefs-require'
+gem 'yard'
+gem 'rdiscount'

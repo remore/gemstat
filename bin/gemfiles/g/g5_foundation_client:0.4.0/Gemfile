@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'g5_authentication_client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'

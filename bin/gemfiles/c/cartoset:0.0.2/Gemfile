@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'oa-core'
+gem 'oa-oauth'
+gem 'warden'
+gem 'rails_warden'
+gem 'cartodb-rb-client'

@@ -1,0 +1,7 @@
+gem 'inifile'
+gem 'shoulda'
+gem 'rake'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rcov'
+gem 'rr'

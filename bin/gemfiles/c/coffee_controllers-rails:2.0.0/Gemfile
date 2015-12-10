@@ -1,0 +1,4 @@
+gem 'coffee-rails'
+gem 'rails'
+gem 'capybara'
+gem 'poltergeist'

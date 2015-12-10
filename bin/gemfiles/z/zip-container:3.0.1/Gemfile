@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'test-unit'
+gem 'coveralls'
+gem 'rubyzip'

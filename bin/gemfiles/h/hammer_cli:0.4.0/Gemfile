@@ -1,0 +1,8 @@
+gem 'clamp'
+gem 'logging'
+gem 'awesome_print'
+gem 'table_print'
+gem 'highline'
+gem 'fast_gettext'
+gem 'locale'
+gem 'apipie-bindings'

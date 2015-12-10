@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'rspec'
+gem 'background_process'
+gem 'jeweler'
+gem 'sdoc'
+gem 'cucumber'

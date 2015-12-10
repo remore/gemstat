@@ -1,0 +1,7 @@
+gem 'prawn'
+gem 'pdf-inspector'
+gem 'prawn-manual_builder'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'pry-nav'

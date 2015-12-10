@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'faraday'
+gem 'json'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'mocha'

@@ -1,0 +1,6 @@
+gem 'json'
+gem 'bundler'
+gem 'pry'
+gem 'rubocop'
+gem 'rspec'
+gem 'webmock'

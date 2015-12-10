@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'wice_grid'
+gem 'bootstrap-sass'
+gem 'font-awesome-sass-rails'
+gem 'simple-navigation'

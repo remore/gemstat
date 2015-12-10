@@ -1,0 +1,2 @@
+gem 'persistence'
+gem 'kyotocabinet'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'spring'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'aruba'
+gem 'guard-cucumber'
+gem 'rspec'

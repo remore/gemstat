@@ -1,0 +1,1 @@
+gem 'factory_girl'

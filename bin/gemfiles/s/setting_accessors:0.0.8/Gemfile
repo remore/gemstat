@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'shoulda'
+gem 'minitest'
+gem 'byebug'
+gem 'rails'

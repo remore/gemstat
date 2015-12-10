@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'bundler'
+gem 'jeweler'
+gem 'riot'

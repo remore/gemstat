@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'hashie'
+gem 'bundler'
+gem 'byebug'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec'
+gem 'stamp'
+gem 'i18n'

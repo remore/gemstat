@@ -1,0 +1,6 @@
+gem 'null_logger'
+gem 'activesupport'
+gem 'i18n'
+gem 'rake'
+gem 'activerecord'
+gem 'activerecord-nulldb-adapter'

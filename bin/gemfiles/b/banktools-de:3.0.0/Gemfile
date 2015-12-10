@@ -1,0 +1,7 @@
+gem 'attr_extras'
+gem 'memoit'
+gem 'ibanizator'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'creek'

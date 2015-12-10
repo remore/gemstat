@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'metasploit-yard'
+gem 'rake'
+gem 'redcarpet'
+gem 'rspec'
+gem 'thor'

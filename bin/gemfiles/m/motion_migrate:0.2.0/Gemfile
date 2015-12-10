@@ -1,0 +1,3 @@
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'

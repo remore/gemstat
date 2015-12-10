@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'travis'
+gem 'coveralls'
+gem 'racc'

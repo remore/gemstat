@@ -1,0 +1,8 @@
+gem 'openurl'
+gem 'activesupport'
+gem 'crfpp'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-debugger'

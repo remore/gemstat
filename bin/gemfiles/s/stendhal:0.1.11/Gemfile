@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'cucumber'
+gem 'aruba'
+gem 'guard'
+gem 'guard-rspec'
+gem 'growl'

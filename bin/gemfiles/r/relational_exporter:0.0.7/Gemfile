@@ -1,0 +1,5 @@
+gem 'hashie'
+gem 'activesupport'
+gem 'celluloid'
+gem 'bundler'
+gem 'rake'

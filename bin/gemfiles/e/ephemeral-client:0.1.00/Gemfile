@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'codeclimate-test-reporter'
+gem 'rake'
+gem 'rspec'

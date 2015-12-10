@@ -1,0 +1,5 @@
+gem 'will_paginate'
+gem 'rails'
+gem 'capybara'
+gem 'sqlite3-ruby'
+gem 'rspec-rails'

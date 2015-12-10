@@ -1,0 +1,2 @@
+gem 'rsolr'
+gem 'rsolr-ext'

@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'htmlentities'
+gem 'multi_json'
+gem 'multipart-post'
+gem 'dotenv'

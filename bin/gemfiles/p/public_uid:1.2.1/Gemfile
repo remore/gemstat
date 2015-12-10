@@ -1,0 +1,7 @@
+gem 'orm_adapter'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rr'
+gem 'sqlite3'
+gem 'activerecord'

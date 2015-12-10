@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'draper'
+gem 'rspec-rails'
+gem 'simplecov'
+gem 'coveralls'
+gem 'sqlite3'
+gem 'capybara'

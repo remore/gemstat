@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'delayed_job_active_record'
+gem 'sidekiq'
+gem 'resque'
+gem 'rake'
+gem 'factory_girl'
+gem 'generator_spec'

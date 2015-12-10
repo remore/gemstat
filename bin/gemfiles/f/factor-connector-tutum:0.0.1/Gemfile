@@ -1,0 +1,6 @@
+gem 'factor-connector-api'
+gem 'tutum-api'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'
+gem 'wrong'

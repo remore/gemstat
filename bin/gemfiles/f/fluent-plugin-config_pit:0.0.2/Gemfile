@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'fluentd'
+gem 'pit'
+gem 'fluentd'
+gem 'pit'

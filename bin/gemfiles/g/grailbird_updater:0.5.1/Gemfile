@@ -1,0 +1,3 @@
+gem 'oauth'
+gem 'trollop'
+gem 'colorize'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'bindata'
+gem 'wavefile'
+gem 'progressbar'

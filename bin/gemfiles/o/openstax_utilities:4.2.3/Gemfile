@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'lev'
+gem 'keyword_search'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'faker'
+gem 'squeel'

@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'
+gem 'webmock'
+gem 'factory_girl'
+gem 'faker'
+gem 'coveralls'
+gem 'codeclimate-test-reporter'

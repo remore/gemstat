@@ -1,0 +1,6 @@
+gem 'hikki'
+gem 'mongo'
+gem 'bson_ext'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'growl'
+gem 'guard'
+gem 'guard-livereload'
+gem 'guard-sass'
+gem 'guard-shell'
+gem 'guard-webrick'
+gem 'hpricot'

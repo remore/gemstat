@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'stringex'
+gem 'simple_form'
+gem 'globalize'
+gem 'sqlite3'

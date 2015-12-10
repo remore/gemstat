@@ -1,0 +1,4 @@
+gem 'telnetQ'
+gem 'thin'
+gem 'faye-websocket'
+gem 'bundler'

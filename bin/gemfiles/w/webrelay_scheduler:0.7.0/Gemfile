@@ -1,0 +1,5 @@
+gem 'holidays'
+gem 'escort'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'

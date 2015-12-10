@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'ruby-openid'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'sinatra-reloader'

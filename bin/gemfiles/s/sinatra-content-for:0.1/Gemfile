@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'contest'
+gem 'sr-mg'
+gem 'redgreen'

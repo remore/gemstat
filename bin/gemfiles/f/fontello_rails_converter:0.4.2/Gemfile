@@ -1,0 +1,4 @@
+gem 'rubyzip'
+gem 'launchy'
+gem 'rest-client'
+gem 'activesupport'

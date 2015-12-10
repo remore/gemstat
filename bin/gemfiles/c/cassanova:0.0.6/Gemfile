@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'cassandra-driver'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

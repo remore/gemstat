@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'prawn'
+gem 'nokogiri'
+gem 'sqlite3'
+gem 'mocha'

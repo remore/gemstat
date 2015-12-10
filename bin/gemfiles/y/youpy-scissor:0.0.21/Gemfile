@@ -1,0 +1,4 @@
+gem 'open4'
+gem 'ruby-mp3info'
+gem 'riff'
+gem 'tempdir'

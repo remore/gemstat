@@ -1,0 +1,6 @@
+gem 'rs_paginator'
+gem 'activesupport'
+gem 'activemodel'
+gem 'faraday'
+gem 'rake'
+gem 'rspec'

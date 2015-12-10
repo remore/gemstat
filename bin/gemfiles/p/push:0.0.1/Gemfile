@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rack'
+gem 'uuid'
+gem 'async_sinatra'

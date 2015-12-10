@@ -1,0 +1,8 @@
+gem 'slideshift-static'
+gem 'kramdown'
+gem 'thor'
+gem 'sinatra'
+gem 'pygments.rb'
+gem 'rubypython'
+gem 'faraday'
+gem 'yajl-ruby'

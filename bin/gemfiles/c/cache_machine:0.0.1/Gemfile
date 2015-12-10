@@ -1,0 +1,4 @@
+gem 'memcache'
+gem 'cache_version'
+gem 'record_cache'
+gem 'method_cache'

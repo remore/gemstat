@@ -1,0 +1,7 @@
+gem 'rdoc'
+gem 'rake'
+gem 'cloudstack_client'
+gem 'thor'
+gem 'erubis'
+gem 'sshkit'
+gem 'highline'

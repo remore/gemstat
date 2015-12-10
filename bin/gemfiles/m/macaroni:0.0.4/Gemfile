@@ -1,0 +1,5 @@
+gem 'feed-normalizer'
+gem 'nokogiri'
+gem 'pry'
+gem 'rspec'
+gem 'coveralls'

@@ -1,0 +1,2 @@
+gem 'merb-auth-core'
+gem 'rspec'

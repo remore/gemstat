@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'pry-nav'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

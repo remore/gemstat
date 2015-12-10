@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'haml-rails'
+gem 'premailer-rails3'
+gem 'rspec-rails'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'nokogiri'
+gem 'ruby-pinyin'
+gem 'main'
+gem 'ZenTest'
+gem 'image_science'
+gem 'taglib-ruby'

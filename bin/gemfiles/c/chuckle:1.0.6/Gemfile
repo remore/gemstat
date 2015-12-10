@@ -1,0 +1,6 @@
+gem 'trollop'
+gem 'awesome_print'
+gem 'json'
+gem 'minitest'
+gem 'rake'
+gem 'rdoc'

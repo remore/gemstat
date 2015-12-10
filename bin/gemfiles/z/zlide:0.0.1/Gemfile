@@ -1,0 +1,8 @@
+gem 'redcarpet'
+gem 'prawn'
+gem 'thor'
+gem 'sinatra'
+gem 'haml'
+gem 'sprockets'
+gem 'rspec'
+gem 'rack-test'

@@ -1,0 +1,8 @@
+gem 'net-ntp'
+gem 'statsd-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry'
+gem 'coveralls'

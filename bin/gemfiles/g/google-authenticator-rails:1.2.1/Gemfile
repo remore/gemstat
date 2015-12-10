@@ -1,0 +1,7 @@
+gem 'rotp'
+gem 'activerecord'
+gem 'google-qr'
+gem 'actionpack'
+gem 'rspec'
+gem 'appraisal'
+gem 'sqlite3'

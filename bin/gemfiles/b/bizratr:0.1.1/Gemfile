@@ -1,0 +1,8 @@
+gem 'foursquare2'
+gem 'yelpster'
+gem 'google_places'
+gem 'levenshtein'
+gem 'google_places'
+gem 'geocoder'
+gem 'koala'
+gem 'factual-api'

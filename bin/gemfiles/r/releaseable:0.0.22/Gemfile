@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'jruby-openssl'
+gem 'logglier'
+gem 'xml-simple'
+gem 'json'
+gem 'my_scripts'

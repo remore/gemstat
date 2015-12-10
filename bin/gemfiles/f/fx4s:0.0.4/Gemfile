@@ -1,0 +1,4 @@
+gem 'aws-sdk'
+gem 'clipboard'
+gem 'faraday'
+gem 'libnotify'

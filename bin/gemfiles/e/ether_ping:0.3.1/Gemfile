@@ -1,0 +1,6 @@
+gem 'ethernet'
+gem 'rdoc'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

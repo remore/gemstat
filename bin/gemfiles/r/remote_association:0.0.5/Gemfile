@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'activeresource'
+gem 'rspec'
+gem 'pg'
+gem 'database_cleaner'
+gem 'fakeweb'

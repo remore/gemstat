@@ -1,0 +1,8 @@
+gem 'actionpack'
+gem 'minitest'
+gem 'capybara'
+gem 'capybara_minitest_spec'
+gem 'poltergeist'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'appraisal'

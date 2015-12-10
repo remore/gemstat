@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'virtus'
+gem 'assertion'
+gem 'inflecto'
+gem 'rake'
+gem 'rspec'

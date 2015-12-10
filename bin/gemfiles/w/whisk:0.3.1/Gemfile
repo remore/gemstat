@@ -1,0 +1,7 @@
+gem 'chef'
+gem 'grit'
+gem 'mixlib-log'
+gem 'mixlib-shellout'
+gem 'thor'
+gem 'rspec'
+gem 'simplecov'

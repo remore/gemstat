@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'slack-notifier'
+gem 'hipchat'
+gem 'bundler'
+gem 'rake'

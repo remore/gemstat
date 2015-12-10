@@ -1,0 +1,7 @@
+gem 'fluentd'
+gem 'aws-sdk'
+gem 'yajl-ruby'
+gem 'fluent-mixin-config-placeholders'
+gem 'rake'
+gem 'test-unit'
+gem 'test-unit-rr'

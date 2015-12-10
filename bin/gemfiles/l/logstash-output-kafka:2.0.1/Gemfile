@@ -1,0 +1,7 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'logstash-codec-json'
+gem 'jruby-kafka'
+gem 'logstash-devutils'
+gem 'poseidon'
+gem 'longshoreman'

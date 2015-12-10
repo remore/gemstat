@@ -1,0 +1,4 @@
+gem 'turnip'
+gem 'fuubar'
+gem 'rake'
+gem 'rspec-core'

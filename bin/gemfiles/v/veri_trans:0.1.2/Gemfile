@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'active_model_serializers'
+gem 'activesupport'
+gem 'rest-client'
+gem 'uuidtools'
+gem 'minitest-reporters'
+gem 'test-unit'

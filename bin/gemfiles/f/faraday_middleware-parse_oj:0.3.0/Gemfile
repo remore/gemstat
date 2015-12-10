@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'oj'
+gem 'rake'
+gem 'rspec'

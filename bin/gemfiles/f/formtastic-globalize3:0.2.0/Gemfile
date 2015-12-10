@@ -1,0 +1,8 @@
+gem 'formtastic'
+gem 'globalize3'
+gem 'bundler'
+gem 'appraisal'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'rake'
+gem 'wwtd'

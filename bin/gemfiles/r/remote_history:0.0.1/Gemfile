@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'jquery-rails'
+gem 'coffee-rails'
+gem 'bundler'
+gem 'rails'
+gem 'rspec-rails'

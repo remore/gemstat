@@ -1,0 +1,6 @@
+gem 'spree_core'
+gem 'geokit'
+gem 'dummier'
+gem 'shoulda'
+gem 'capybara'
+gem 'sqlite3'

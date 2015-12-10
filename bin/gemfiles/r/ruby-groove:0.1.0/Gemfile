@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'bundler'
+gem 'ffi_gen'
+gem 'minitest'
+gem 'rake'
+gem 'yard'

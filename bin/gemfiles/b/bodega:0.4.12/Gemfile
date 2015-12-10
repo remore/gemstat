@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'addressabler'
+gem 'configurator2'
+gem 'i18n'
+gem 'maintain'
+gem 'money-rails'

@@ -1,0 +1,6 @@
+gem 'git'
+gem 'git-ssh-wrapper'
+gem 'jenkins_api_client'
+gem 'gitlab'
+gem 'rdoc'
+gem 'hoe'

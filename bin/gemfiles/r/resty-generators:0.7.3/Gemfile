@@ -1,0 +1,6 @@
+gem 'ixtlan-generators'
+gem 'rails'
+gem 'rspec'
+gem 'cucumber'
+gem 'rake'
+gem 'ruby-maven'

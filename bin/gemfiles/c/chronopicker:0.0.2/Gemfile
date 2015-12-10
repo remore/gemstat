@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'sqlite3'
+gem 'minitest'
+gem 'capybara'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rest-client'
+gem 'json'
+gem 'multi_xml'
+gem 'builder'

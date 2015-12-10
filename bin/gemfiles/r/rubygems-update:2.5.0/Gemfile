@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'rdoc'
+gem 'builder'
+gem 'hoe-seattlerb'
+gem 'ZenTest'
+gem 'rake'
+gem 'hoe'

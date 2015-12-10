@@ -1,0 +1,5 @@
+gem 'merb-core'
+gem 'gettext'
+gem 'treetop'
+gem 'polyglot'
+gem 'composite_primary_keys'

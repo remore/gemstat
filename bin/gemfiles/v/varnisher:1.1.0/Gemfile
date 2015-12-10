@@ -1,0 +1,8 @@
+gem 'main'
+gem 'nokogiri'
+gem 'parallel'
+gem 'rake'
+gem 'minitest'
+gem 'webmock'
+gem 'letters'
+gem 'rubygems-tasks'

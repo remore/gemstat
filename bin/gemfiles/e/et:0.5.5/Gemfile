@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'multipart-post'
+gem 'gli'

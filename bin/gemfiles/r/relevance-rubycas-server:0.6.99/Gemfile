@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'picnic'
+gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'reek'
+gem 'rake'
+gem 'rdoc'

@@ -1,0 +1,8 @@
+gem 'faye'
+gem 'eventmachine'
+gem 'sidekiq'
+gem 'activesupport'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

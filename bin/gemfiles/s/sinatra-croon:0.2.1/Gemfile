@@ -1,0 +1,6 @@
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'webrat'
+gem 'haml'
+gem 'sinatra'

@@ -1,0 +1,8 @@
+gem 'rake-compiler'
+gem 'minitest'
+gem 'benchmark-ips'
+gem 'rack'
+gem 'haml'
+gem 'fast_xs'
+gem 'actionpack'
+gem 'url_escape'

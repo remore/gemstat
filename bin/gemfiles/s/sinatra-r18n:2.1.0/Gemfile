@@ -1,0 +1,2 @@
+gem 'sinatra'
+gem 'r18n-core'

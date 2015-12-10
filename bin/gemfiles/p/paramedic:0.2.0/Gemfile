@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'bundler'
+gem 'cucumber'
+gem 'guard'
+gem 'guard-rspec'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

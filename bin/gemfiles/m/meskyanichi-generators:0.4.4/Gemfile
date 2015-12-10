@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'git'
+gem 'git-rails'
+gem 'net-ssh'

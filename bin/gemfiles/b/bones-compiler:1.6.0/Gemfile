@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'trollop'
+gem 'cast'
+gem 'symbolic'

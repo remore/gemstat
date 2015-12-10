@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'koala'
+gem 'twitter'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'json'
+gem 'twitter-text'

@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'language_detector'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

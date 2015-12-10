@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'rubyzip'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'ci_reporter'

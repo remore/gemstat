@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'multi_json'
+gem 'sinatra'
+gem 'redis-namespace'
+gem 'vegas'
+gem 'mono_logger'

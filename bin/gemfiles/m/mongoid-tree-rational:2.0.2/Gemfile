@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'i18n'
+gem 'rational_number'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'timecop'

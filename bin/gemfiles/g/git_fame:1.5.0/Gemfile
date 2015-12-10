@@ -1,0 +1,8 @@
+gem 'progressbar'
+gem 'trollop'
+gem 'hirb'
+gem 'mimer_plus'
+gem 'string-scrub'
+gem 'rspec'
+gem 'rake'
+gem 'coveralls'

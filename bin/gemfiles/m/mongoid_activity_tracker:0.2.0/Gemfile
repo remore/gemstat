@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'bundler'
+gem 'coveralls'
+gem 'database_cleaner'
+gem 'guard'
+gem 'guard-minitest'
+gem 'minitest'
+gem 'rake'

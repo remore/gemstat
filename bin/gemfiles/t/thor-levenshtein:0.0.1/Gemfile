@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'levenshtein'
+gem 'rake'
+gem 'rspec'

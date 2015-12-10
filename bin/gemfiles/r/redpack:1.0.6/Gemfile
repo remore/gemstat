@@ -1,0 +1,2 @@
+gem 'bson'
+gem 'em-redis'

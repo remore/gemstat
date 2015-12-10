@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'rake'
+gem 'capybara'
+gem 'cucumber'
+gem 'capybara-webkit'
+gem 'rspec'
+gem 'poltergeist'
+gem 'selenium-webdriver'

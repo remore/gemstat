@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'rspec-rails'
+gem 'byebug'
+gem 'timecop'
+gem 'sqlite3'
+gem 'test_after_commit'

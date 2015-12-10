@@ -1,0 +1,2 @@
+gem 'thin'
+gem 'sinatra'

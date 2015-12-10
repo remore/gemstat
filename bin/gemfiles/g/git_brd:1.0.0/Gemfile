@@ -1,0 +1,4 @@
+gem 'git'
+gem 'highline'
+gem 'bundler'
+gem 'rake'

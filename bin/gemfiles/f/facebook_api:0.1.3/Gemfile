@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'test-unit'
+gem 'shoulda'
+gem 'mocha'
+gem 'webmock'

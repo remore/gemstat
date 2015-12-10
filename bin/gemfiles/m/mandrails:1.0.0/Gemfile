@@ -1,0 +1,6 @@
+gem 'mail'
+gem 'activesupport'
+gem 'mandrill-api'
+gem 'rake'
+gem 'rspec'
+gem 'actionmailer'

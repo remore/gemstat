@@ -1,0 +1,6 @@
+gem 'dohroot'
+gem 'dohutil'
+gem 'dohlog'
+gem 'mysql2'
+gem 'sqlstmt'
+gem 'dohtest'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'facets'
+gem 'hashery'
+gem 'plexus'
+gem 'rspec'
+gem 'yard'

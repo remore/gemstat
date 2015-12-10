@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'appraisal'
+gem 'rake'
+gem 'sqlite3'
+gem 'mocha'
+gem 'factory_girl'
+gem 'minitest'

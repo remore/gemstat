@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'netrc'
+gem 'httparty'
+gem 'terminal-table'
+gem 'bundler'
+gem 'rake'

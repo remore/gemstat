@@ -1,0 +1,5 @@
+gem 'hpricot'
+gem 'activesupport'
+gem 'rails'
+gem 'rspec-rails'
+gem 'bundler'

@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'devise'
+gem 'rspec'
+gem 'rails'

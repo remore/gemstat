@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'concern_builder'
+gem 'safe_attribute_assignment'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

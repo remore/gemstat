@@ -1,0 +1,7 @@
+gem 'log4r'
+gem 'activesupport'
+gem 'rubigen'
+gem 'rspec'
+gem 'test-unit'
+gem 'flexmock'
+gem 'active_record'

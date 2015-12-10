@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'multi_json'
+gem 'fog'
+gem 'slushy'
+gem 'rake'
+gem 'rspec'
+gem 'bahia'
+gem 'bundler'

@@ -1,0 +1,8 @@
+gem 'parser'
+gem 'unparser'
+gem 'safe_yaml'
+gem 'thor'
+gem 'unindent'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

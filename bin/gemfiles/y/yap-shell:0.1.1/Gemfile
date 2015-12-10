@@ -1,0 +1,6 @@
+gem 'yap-shell-parser'
+gem 'term-ansicolor'
+gem 'ruby-termios'
+gem 'chronic'
+gem 'bundler'
+gem 'rake'

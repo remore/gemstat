@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'ronn'
+gem 'rspec'
+gem 'pry'
+gem 'pry-debugger'
+gem 'activesupport'

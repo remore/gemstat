@@ -1,0 +1,6 @@
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

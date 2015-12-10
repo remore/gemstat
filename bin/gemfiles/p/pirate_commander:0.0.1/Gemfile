@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'active_support'
+gem 'booty'
+gem 'bundler'
+gem 'rake'

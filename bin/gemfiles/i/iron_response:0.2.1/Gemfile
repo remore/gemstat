@@ -1,0 +1,5 @@
+gem 'iron_worker_ng'
+gem 'aws-s3'
+gem 'iron_cache'
+gem 'pry'
+gem 'pry-rescue'

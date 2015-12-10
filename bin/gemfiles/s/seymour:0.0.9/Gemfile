@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'redis-namespace'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'factory_girl_rails'
+gem 'sqlite3'
+gem 'ammeter'

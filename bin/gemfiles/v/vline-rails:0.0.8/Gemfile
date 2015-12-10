@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'grape'
+gem 'jwt'
+gem 'rack-jsonp'

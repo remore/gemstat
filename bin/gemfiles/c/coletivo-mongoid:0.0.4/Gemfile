@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'turn'
+gem 'mongoid'
+gem 'bson_ext'

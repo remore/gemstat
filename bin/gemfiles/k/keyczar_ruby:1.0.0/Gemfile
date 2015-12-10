@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rr'
+gem 'rake'
+gem 'rake-compiler'

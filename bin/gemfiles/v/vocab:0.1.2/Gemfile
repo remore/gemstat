@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'nokogiri'
+gem 'htmlentities'
+gem 'ya2yaml'
+gem 'active_support'
+gem 'builder'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,7 @@
+gem 'marc'
+gem 'yell'
+gem 'minitest'
+gem 'kramdown'
+gem 'bundler'
+gem 'rake'
+gem 'yard'

@@ -1,0 +1,7 @@
+gem 'colorize'
+gem 'auto_tagger'
+gem 'rake'
+gem 'nori'
+gem 'fakefs'
+gem 'rspec'
+gem 'timecop'

@@ -1,0 +1,7 @@
+gem 'bibtex-ruby'
+gem 'slop'
+gem 'require_all'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'
+gem 'rake'

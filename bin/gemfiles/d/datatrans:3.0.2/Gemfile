@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'i18n'
+gem 'builder'
+gem 'multi_xml'
+gem 'rake'
+gem 'rspec'
+gem 'actionpack'

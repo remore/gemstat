@@ -1,0 +1,6 @@
+gem 'rspec-core'
+gem 'timecop'
+gem 'rubocop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'colorize'
+gem 'faye-websocket'
+gem 'bundler'
+gem 'rake'

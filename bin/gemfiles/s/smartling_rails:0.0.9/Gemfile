@@ -1,0 +1,8 @@
+gem 'smartling'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'
+gem 'rspec-pride'
+gem 'pry'
+gem 'codeclimate-test-reporter'
+gem 'webmock'

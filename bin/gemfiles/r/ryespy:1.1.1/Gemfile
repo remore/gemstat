@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'bundler'
+gem 'rake'
+gem 'fog'
+gem 'mocha'
+gem 'sidekiq-spy'
+gem 'google_drive'

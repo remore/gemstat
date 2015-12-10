@@ -1,0 +1,7 @@
+gem 'tinder'
+gem 'cli-colorize'
+gem 'mixlib-cli'
+gem 'pry'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

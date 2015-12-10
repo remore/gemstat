@@ -1,0 +1,2 @@
+gem 'rack'
+gem 'mini_magick'

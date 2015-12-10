@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'rspec'
+gem 'rcov'
+gem 'mocha'
+gem 'rails'

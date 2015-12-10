@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'
+gem 'mysql2'
+gem 'combustion'
+gem 'database_cleaner'
+gem 'activerecord'

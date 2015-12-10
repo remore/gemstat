@@ -1,0 +1,5 @@
+gem 'appraisal'
+gem 'rake'
+gem 'bundler'
+gem 'luhn_checksum'
+gem 'scrub_rb'

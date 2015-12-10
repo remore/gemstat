@@ -1,0 +1,6 @@
+gem 'puppet-lint'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rspec-collection_matchers'
+gem 'coveralls'
+gem 'rake'

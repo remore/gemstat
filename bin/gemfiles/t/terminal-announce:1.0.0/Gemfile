@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rainbow'
+gem 'contracts'
+gem 'rake'
+gem 'riot'
+gem 'simplecov'

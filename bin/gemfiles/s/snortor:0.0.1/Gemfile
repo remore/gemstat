@@ -1,0 +1,2 @@
+gem 'snort-rule'
+gem 'net-scp'

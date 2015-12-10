@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'erector'
+gem 'rspec'
+gem 'rake'
+gem 'rdoc'
+gem 'webmock'

@@ -1,0 +1,4 @@
+gem 'pluto-models'
+gem 'fetcher'
+gem 'rdoc'
+gem 'hoe'

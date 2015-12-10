@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'yard'
+gem 'simplecov'
+gem 'snappy'
+gem 'timecop'

@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'nokogiri'
+gem 'rdiscount'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

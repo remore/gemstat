@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'rails'
+gem 'mysql2'
+gem 'pg'
+gem 'mocha'
+gem 'dalli'

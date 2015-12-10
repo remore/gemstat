@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'rest-client'
+gem 'celes'
+gem 'bundler'
+gem 'rake'

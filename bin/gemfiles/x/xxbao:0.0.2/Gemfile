@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'command_line_reporter'
+gem 'unicode-display_width'

@@ -1,0 +1,5 @@
+gem 'ick'
+gem 'atom-tools'
+gem 'highline'
+gem 'fattr'
+gem 'bones'

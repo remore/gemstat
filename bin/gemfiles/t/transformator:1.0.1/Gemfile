@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'benchmark-ips'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'

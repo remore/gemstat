@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'pry'

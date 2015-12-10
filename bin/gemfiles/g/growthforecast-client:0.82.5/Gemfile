@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'parallel'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'
+gem 'pry-nav'

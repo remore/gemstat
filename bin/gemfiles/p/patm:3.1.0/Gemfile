@@ -1,0 +1,5 @@
+gem 'simplecov'
+gem 'simplecov-vim'
+gem 'rspec'
+gem 'pry'
+gem 'pattern-match'

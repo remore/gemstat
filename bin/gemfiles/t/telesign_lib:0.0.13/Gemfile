@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'webmock'
+gem 'pry'
+gem 'mimic'

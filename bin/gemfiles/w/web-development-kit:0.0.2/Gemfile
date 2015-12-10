@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'tilt'
+gem 'haml'
+gem 'jt-mobile-kit-generator'
+gem 'wdk-view-toolkit'

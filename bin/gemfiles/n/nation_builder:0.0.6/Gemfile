@@ -1,0 +1,8 @@
+gem 'oauth2'
+gem 'json'
+gem 'webmock'
+gem 'pry'
+gem 'pry-debugger'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,5 @@
+gem 'plist'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rspec'
+gem 'factory_girl'

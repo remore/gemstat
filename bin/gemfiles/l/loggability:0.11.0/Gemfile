@@ -1,0 +1,8 @@
+gem 'hoe-mercurial'
+gem 'hoe-deveiate'
+gem 'hoe-highline'
+gem 'rdoc'
+gem 'hoe-bundler'
+gem 'simplecov'
+gem 'configurability'
+gem 'hoe'

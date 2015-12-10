@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'mysql2'
+gem 'rexec'
+gem 'eventmachine'
+gem 'eventmachine_httpserver'
+gem 'em-http-request'
+gem 'json'

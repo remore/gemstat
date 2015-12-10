@@ -1,0 +1,7 @@
+gem 'term-ansicolor'
+gem 'capistrano'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'gdbm'
+gem 'ffi'
+gem 'activerecord'

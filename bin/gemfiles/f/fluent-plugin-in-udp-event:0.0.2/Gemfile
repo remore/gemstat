@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'cool.io'
+gem 'fluentd'
+gem 'json'

@@ -1,0 +1,4 @@
+gem 'warden'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'

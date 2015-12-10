@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'av_capture'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

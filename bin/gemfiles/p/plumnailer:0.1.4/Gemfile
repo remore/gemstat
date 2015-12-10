@@ -1,0 +1,4 @@
+gem 'net-http-persistent'
+gem 'nokogiri'
+gem 'rmagick'
+gem 'sinatra'

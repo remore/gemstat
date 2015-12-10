@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'sidekiq'
+gem 'bundler'
+gem 'rake'

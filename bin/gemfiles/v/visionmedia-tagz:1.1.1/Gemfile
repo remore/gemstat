@@ -1,0 +1,2 @@
+gem 'visionmedia-rext'
+gem 'rspec_hpricot_matchers'

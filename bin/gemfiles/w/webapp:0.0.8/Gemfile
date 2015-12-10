@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'sequel'
+gem 'haml'
+gem 'geminstaller'

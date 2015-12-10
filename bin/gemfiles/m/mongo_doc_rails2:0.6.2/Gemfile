@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'mongo'
+gem 'bson'
+gem 'bson_ext'
+gem 'durran-validatable'
+gem 'leshill-will_paginate'
+gem 'rspec'
+gem 'cucumber'

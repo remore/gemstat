@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'sinatra'

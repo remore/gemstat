@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'emmy-engine'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

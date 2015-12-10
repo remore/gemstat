@@ -1,0 +1,6 @@
+gem 'codefumes'
+gem 'grit'
+gem 'metric_fu'
+gem 'caleb-chronic'
+gem 'rubigen'
+gem 'hoe'

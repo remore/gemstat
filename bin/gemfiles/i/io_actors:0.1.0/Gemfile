@@ -1,0 +1,5 @@
+gem 'concurrent-ruby'
+gem 'nio4r'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

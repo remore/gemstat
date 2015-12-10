@@ -1,0 +1,5 @@
+gem 'diff-lcs'
+gem 'erubis'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'

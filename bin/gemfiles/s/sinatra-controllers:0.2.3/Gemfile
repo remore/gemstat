@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'bundler'
+gem 'minitest'
+gem 'watchr'
+gem 'rack-test'
+gem 'awesome_print'
+gem 'haml'

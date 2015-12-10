@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'codeclimate-test-reporter'
+gem 'minitest'
+gem 'coins_address_validator'

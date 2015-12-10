@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'riot'
+gem 'yard'
+gem 'ruby-debug'
+gem 'faker'

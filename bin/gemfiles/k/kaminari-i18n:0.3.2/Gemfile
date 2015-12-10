@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'kaminari'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'i18n-spec'
+gem 'localeapp'

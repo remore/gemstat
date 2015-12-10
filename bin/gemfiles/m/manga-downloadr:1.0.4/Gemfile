@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'rmagick'
+gem 'prawn'
+gem 'fastimage'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

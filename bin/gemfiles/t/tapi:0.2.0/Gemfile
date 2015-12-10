@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'curb'
+gem 'json'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

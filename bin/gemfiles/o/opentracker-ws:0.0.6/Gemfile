@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'thin'
+gem 'json'
+gem 'bencode'
+gem 'nokogiri'

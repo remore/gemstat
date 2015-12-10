@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'hashie'
+gem 'addressable'
+gem 'hashie'
+gem 'addressable'

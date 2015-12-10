@@ -1,0 +1,7 @@
+gem 'puppet'
+gem 'bundler'
+gem 'facter'
+gem 'zmq'
+gem 'ffi'
+gem 'ffi-rzmq'
+gem 'daemons'

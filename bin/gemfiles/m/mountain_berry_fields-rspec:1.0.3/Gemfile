@@ -1,0 +1,6 @@
+gem 'deject'
+gem 'rspec'
+gem 'mountain_berry_fields'
+gem 'surrogate'
+gem 'cucumber'
+gem 'rake'

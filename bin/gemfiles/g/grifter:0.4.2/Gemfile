@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'json'
+gem 'typhoeus'
+gem 'activesupport'
+gem 'rspec'
+gem 'pry'
+gem 'awesome_print'
+gem 'jeweler'

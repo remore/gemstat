@@ -1,0 +1,7 @@
+gem 'bosh_common'
+gem 'bosh_cpi'
+gem 'bosh-registry'
+gem 'fog'
+gem 'httpclient'
+gem 'yajl-ruby'
+gem 'membrane'

@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'faraday'
+gem 'rake'
+gem 'bundler'
+gem 'rake'

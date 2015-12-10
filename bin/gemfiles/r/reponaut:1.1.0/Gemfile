@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'json'
+gem 'slop'
+gem 'aruba'
+gem 'cucumber'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

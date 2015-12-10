@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'bundler'
+gem 'combustion'
+gem 'guard-rspec'
+gem 'rake'
+gem 'nokogiri'
+gem 'rspec-rails'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'railties'
+gem 'rspec-rails'
+gem 'pg'
+gem 'coveralls'

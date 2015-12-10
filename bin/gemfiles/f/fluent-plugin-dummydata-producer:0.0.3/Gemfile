@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'fluent-mixin-config-placeholders'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,2 @@
+gem 'httpclient'
+gem 'logger-application'

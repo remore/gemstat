@@ -1,0 +1,6 @@
+gem 'bosh_common'
+gem 'membrane'
+gem 'logging'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

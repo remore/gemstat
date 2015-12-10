@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'grit'
+gem 'plist'
+gem 'rubyzip'
+gem 'rest-client'
+gem 'nokogiri'

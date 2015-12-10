@@ -1,0 +1,4 @@
+gem 'hash-utils'
+gem 'abstract'
+gem 'bundler'
+gem 'jeweler2'

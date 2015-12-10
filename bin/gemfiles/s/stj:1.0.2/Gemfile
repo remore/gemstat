@@ -1,0 +1,8 @@
+gem 'mini_magick'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'pry'
+gem 'pry-nav'
+gem 'pry-doc'

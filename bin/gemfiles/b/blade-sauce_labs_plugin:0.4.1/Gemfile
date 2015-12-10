@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'webmock'
+gem 'blade'
+gem 'faraday'
+gem 'childprocess'

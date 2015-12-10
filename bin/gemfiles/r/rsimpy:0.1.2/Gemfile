@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'khayyam'
+gem 'cucumber'
+gem 'fakeweb'
+gem 'shoulda'
+gem 'technicalpickles-jeweler'

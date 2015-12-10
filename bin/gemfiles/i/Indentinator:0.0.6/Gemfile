@@ -1,0 +1,2 @@
+gem 'getopt'
+gem 'rspec'

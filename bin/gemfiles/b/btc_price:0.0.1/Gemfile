@@ -1,0 +1,6 @@
+gem 'memcached'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'pry'
+gem 'minitest'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'calabash-android'
+gem 'calabash-cucumber'
+gem 'PriorityQueue'

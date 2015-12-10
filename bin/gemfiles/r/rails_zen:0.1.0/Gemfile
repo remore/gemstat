@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'highline'
+gem 'activesupport'
+gem 'bundler'
+gem 'aruba'
+gem 'rake'
+gem 'rspec'

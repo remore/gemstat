@@ -1,0 +1,5 @@
+gem 'twitter_bootstrap_markup'
+gem 'kaminari'
+gem 'haml-rails'
+gem 'activesupport'
+gem 'actionpack'

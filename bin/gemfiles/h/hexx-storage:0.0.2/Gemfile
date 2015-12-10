@@ -1,0 +1,5 @@
+gem 'naught'
+gem 'rom'
+gem 'thread_safe'
+gem 'hexx-rspec'
+gem 'rom-sql'

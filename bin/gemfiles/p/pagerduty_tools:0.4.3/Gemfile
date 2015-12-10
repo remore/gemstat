@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'fuubar'
+gem 'chronic'
+gem 'highline'
+gem 'json'
+gem 'mechanize'
+gem 'nokogiri'

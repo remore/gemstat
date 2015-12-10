@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'binding_of_caller'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'fakefs'
+gem 'mocha'
+gem 'minitest'
+gem 'rake'

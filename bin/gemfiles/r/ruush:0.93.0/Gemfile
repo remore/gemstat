@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'slop'
+gem 'settingslogic'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

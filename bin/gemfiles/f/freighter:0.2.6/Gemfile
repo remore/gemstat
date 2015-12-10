@@ -1,0 +1,8 @@
+gem 'net-ssh'
+gem 'docker-api'
+gem 'excon'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-nav'

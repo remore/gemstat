@@ -1,0 +1,4 @@
+gem 'lifx'
+gem 'pry'
+gem 'bundler'
+gem 'rake'

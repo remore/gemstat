@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'fluentd'
+gem 'test-unit'
+gem 'fluentd'

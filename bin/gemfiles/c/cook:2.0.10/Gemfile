@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'construct'
+gem 'erubis'
+gem 'greenletters'
+gem 'gpgme'
+gem 'highline'
+gem 'rdoc'
+gem 'hoe'

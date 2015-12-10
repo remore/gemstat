@@ -1,0 +1,2 @@
+gem 'jashmenn-activerecord-jdbc-adapter'
+gem 'jdbc-mysql'

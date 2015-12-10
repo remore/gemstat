@@ -1,0 +1,5 @@
+gem 'iconv'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rails'
+gem 'pry-rails'

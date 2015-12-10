@@ -1,0 +1,5 @@
+gem 'ipaddress'
+gem 'public_suffix'
+gem 'eventmachine'
+gem 'em-resolv-replace'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rack'
+gem 'rest-client'
+gem 'rspec'
+gem 'cucumber'
+gem 'mongrel'
+gem 'selenium-webdriver'

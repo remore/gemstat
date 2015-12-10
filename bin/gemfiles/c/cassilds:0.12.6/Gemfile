@@ -1,0 +1,7 @@
+gem 'thrift'
+gem 'thrift_client'
+gem 'json'
+gem 'rake'
+gem 'simple_uuid'
+gem 'eventmachine'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'colored'
+gem 'net-ssh'
+gem 'net-sftp'

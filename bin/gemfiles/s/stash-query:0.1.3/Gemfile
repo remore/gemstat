@@ -1,0 +1,7 @@
+gem 'elasticsearch'
+gem 'curb'
+gem 'faraday'
+gem 'progress_bar'
+gem 'typhoeus'
+gem 'bundler'
+gem 'rake'

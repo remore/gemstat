@@ -1,0 +1,4 @@
+gem 'ffi-inliner'
+gem 'nice-ffi'
+gem 'rspec'
+gem 'eventmachine'

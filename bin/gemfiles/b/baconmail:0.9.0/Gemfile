@@ -1,0 +1,2 @@
+gem 'gmail'
+gem 'aws-s3'

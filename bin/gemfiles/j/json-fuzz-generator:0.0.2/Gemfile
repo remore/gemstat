@@ -1,0 +1,6 @@
+gem 'json-schema'
+gem 'randexp'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'

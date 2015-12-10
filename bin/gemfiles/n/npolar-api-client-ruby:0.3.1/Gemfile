@@ -1,0 +1,4 @@
+gem 'hashie'
+gem 'typhoeus'
+gem 'yajl-ruby'
+gem 'uuidtools'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'gli'
+gem 'i18n'
+gem 'rainbow'
+gem 'rake'
+gem 'redcarpet'
+gem 'rspec'
+gem 'yard'

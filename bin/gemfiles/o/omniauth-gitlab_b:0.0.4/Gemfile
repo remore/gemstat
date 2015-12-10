@@ -1,0 +1,4 @@
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'simplecov'
+gem 'webmock'

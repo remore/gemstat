@@ -1,0 +1,5 @@
+gem 'json'
+gem 'multipart-post'
+gem 'shoulda'
+gem 'rdoc'
+gem 'jeweler'

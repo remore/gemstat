@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'geokit-rails3'
+gem 'geocoder'
+gem 'GeoRuby'
+gem 'activesupport'
+gem 'rails'

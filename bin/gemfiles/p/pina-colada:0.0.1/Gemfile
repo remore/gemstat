@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'ttable'
+gem 'ruby-mp3info'
+gem 'rb-readline'

@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'mime-types'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'ruby-debug19'

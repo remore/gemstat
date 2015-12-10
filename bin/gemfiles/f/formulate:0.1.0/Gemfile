@@ -1,0 +1,5 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'carmen'
+gem 'haml'
+gem 'sass-rails'

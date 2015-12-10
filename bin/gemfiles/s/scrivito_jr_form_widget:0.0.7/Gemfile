@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'scrivito_sdk'
+gem 'scrivito_advanced_editors'
+gem 'active_attr'
+gem 'rake'

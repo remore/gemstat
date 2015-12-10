@@ -1,0 +1,5 @@
+gem 'travis-lint'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'growl'

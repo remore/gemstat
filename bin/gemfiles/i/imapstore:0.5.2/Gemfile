@@ -1,0 +1,5 @@
+gem 'tmail'
+gem 'getoptions'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

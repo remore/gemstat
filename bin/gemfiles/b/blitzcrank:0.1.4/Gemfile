@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'colorize'
+gem 'imdb'
+gem 'ruby-configurable'

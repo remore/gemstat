@@ -1,0 +1,6 @@
+gem 'clamp'
+gem 'git'
+gem 'github_api'
+gem 'term-ansicolor'
+gem 'rake'
+gem 'rspec'

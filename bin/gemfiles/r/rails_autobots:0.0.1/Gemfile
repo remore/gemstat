@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'rspec-rails'
+gem 'fakeredis'
+gem 'capybara'
+gem 'pry'

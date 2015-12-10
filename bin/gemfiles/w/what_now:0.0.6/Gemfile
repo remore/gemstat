@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'colorize'
+gem 'ptools'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'fakefs'

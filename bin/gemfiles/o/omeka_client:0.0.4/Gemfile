@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'yard'
+gem 'pry'
+gem 'rest'
+gem 'recursive-open-struct'

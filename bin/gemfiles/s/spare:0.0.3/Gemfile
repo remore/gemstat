@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-autotest'
+gem 'autotest'
+gem 'factory_girl'
+gem 'mysql2'

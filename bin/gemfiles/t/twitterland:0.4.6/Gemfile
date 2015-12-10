@@ -1,0 +1,8 @@
+gem 'hashie'
+gem 'httparty'
+gem 'one40_proof'
+gem 'thoughtbot-shoulda'
+gem 'jeremymcanally-matchy'
+gem 'mocha'
+gem 'fakeweb'
+gem 'hashie'

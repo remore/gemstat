@@ -1,0 +1,6 @@
+gem 'fog'
+gem 'knife-windows'
+gem 'chef'
+gem 'rspec'
+gem 'rake'
+gem 'sdoc'

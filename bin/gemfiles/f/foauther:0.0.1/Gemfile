@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'oauth2'
+gem 'slim'
+gem 'slim-rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'

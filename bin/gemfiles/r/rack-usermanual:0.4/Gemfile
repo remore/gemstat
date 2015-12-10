@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'haml'
+gem 'kramdown'
+gem 'gherkin'
+gem 'rack'
+gem 'rspec'
+gem 'rack-test'

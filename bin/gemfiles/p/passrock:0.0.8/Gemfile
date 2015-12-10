@@ -1,0 +1,5 @@
+gem 'bcrypt-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'rails'
+gem 'dotenv'

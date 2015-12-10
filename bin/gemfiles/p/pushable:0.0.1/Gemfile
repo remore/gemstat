@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'faye'
+gem 'thin'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec-rails'
+gem 'debugger'

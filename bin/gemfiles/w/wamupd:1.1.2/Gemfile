@@ -1,0 +1,5 @@
+gem 'daemons'
+gem 'algorithms'
+gem 'dnsruby'
+gem 'logger'
+gem 'ruby-dbus'

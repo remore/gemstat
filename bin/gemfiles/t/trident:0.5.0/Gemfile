@@ -1,0 +1,7 @@
+gem 'gem_logger'
+gem 'clamp'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'pry'

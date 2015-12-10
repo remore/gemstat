@@ -1,0 +1,8 @@
+gem 'fluentd'
+gem 'growthforecast-client'
+gem 'multiforecast-client'
+gem 'yohoushi-client'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'pry-nav'

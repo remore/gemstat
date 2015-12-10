@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'poltergeist'
+gem 'capybara'
+gem 'oily_png'
+gem 'spidr'
+gem 'rspec-given'
+gem 'rspec'
+gem 'timecop'

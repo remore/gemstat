@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'fattr'
+gem 'paint'
+gem 'methadone'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

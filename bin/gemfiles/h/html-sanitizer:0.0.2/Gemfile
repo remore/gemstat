@@ -1,0 +1,5 @@
+gem 'loofah'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rails-dom-testing'

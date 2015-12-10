@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'fluentd'
+gem 'websocket-eventmachine-client'
+gem 'msgpack'
+gem 'yajl-ruby'
+gem 'fluentd'
+gem 'em-websocket'

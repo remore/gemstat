@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'carrierwave'
+gem 'clam_scan'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

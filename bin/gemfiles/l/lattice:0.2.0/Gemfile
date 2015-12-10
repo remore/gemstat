@@ -1,0 +1,8 @@
+gem 'celluloid'
+gem 'reel'
+gem 'webmachine'
+gem 'activesupport'
+gem 'thor'
+gem 'colorize'
+gem 'rake'
+gem 'rspec'

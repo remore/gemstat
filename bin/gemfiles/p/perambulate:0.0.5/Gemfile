@@ -1,0 +1,6 @@
+gem 'lexr'
+gem 'rake'
+gem 'whittle'
+gem 'minitest'
+gem 'rspec'
+gem 'factory_girl'

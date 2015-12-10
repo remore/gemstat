@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'git'
+gem 'rubocop'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'fluentd'
+gem 'yam'
+gem 'fluentd'
+gem 'yam'

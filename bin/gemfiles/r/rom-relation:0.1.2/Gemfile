@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'concord'
+gem 'equalizer'
+gem 'descendants_tracker'
+gem 'abstract_type'
+gem 'adamantium'
+gem 'axiom'
+gem 'axiom-optimizer'

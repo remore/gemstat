@@ -1,0 +1,6 @@
+gem 'json'
+gem 'slop'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-spies'
+gem 'jenkins-war'

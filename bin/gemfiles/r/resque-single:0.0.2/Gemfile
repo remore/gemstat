@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'resque'
+gem 'resque-lock'
+gem 'resque-meta'
+gem 'resque-progress'
+gem 'bundler'
+gem 'rake'

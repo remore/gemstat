@@ -1,0 +1,4 @@
+gem 'levenshtein'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

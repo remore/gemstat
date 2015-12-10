@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'addressable'
+gem 'promise'
+gem 'simple_oauth'
+gem 'multi_json'

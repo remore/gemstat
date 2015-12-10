@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'jeweler'
+gem 'shoulda'
+gem 'rdoc'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'ruby-libvirt'
+gem 'cucumber'
+gem 'rspec'
+gem 'net-ssh'

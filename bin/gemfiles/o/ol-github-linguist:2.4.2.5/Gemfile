@@ -1,0 +1,5 @@
+gem 'mime-types'
+gem 'mocha'
+gem 'json'
+gem 'rake'
+gem 'yajl-ruby'

@@ -1,0 +1,6 @@
+gem 'rake-compiler'
+gem 'rspec'
+gem 'file_test_helper'
+gem 'debugger-ruby_core_source'
+gem 'ruby-graphviz'
+gem 'thor'

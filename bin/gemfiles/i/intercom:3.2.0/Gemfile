@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'rake'
+gem 'mocha'
+gem 'fakeweb'
+gem 'pry'
+gem 'json'

@@ -1,0 +1,4 @@
+gem 'ronin'
+gem 'cssmin'
+gem 'jsmin'
+gem 'hoe'

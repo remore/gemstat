@@ -1,0 +1,6 @@
+gem 'hq-tools'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'rspec_junit_formatter'
+gem 'simplecov'

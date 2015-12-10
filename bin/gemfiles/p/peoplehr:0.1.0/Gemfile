@@ -1,0 +1,7 @@
+gem 'addressable'
+gem 'faraday'
+gem 'transproc'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'yard'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'apivore'
+gem 'simplecov'
+gem 'mocha'
+gem 'bourne'

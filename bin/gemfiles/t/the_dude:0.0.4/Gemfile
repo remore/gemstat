@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'rspec'
+gem 'fakeweb'
+gem 'nokogiri'
+gem 'hirb'
+gem 'colored'

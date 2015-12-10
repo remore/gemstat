@@ -1,0 +1,5 @@
+gem 'httpi'
+gem 'savon'
+gem 'rspec'
+gem 'autotest'
+gem 'mocha'

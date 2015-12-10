@@ -1,0 +1,5 @@
+gem 'postmark-rails'
+gem 'thincloud-test-rails'
+gem 'rails'
+gem 'rubocop'
+gem 'sqlite3'

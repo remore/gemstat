@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'sinatra'
+gem 'pry'
+gem 'awesome_print'

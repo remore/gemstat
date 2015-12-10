@@ -1,0 +1,6 @@
+gem 'deep_thought'
+gem 'minitest'
+gem 'mocha'
+gem 'database_cleaner'
+gem 'turn'
+gem 'capistrano'

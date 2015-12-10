@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'webrat'

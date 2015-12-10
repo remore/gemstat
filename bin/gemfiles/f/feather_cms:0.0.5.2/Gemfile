@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'haml'
+gem 'sass-rails'
+gem 'bootstrap-sass'
+gem 'sqlite3'

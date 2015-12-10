@@ -1,0 +1,8 @@
+gem 'omniauth'
+gem 'omniauth-http-basic'
+gem 'viewpoint'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'
+gem 'yard'

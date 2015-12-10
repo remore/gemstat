@@ -1,0 +1,7 @@
+gem 'motion-cocoapods'
+gem 'awesome_print_motion'
+gem 'guard-motion'
+gem 'motion-redgreen'
+gem 'RackMotion'
+gem 'rake'
+gem 'terminal-notifier-guard'

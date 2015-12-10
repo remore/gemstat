@@ -1,0 +1,6 @@
+gem 'json_pure'
+gem 'sinatra'
+gem 'rest-client'
+gem 'sequel'
+gem 'activerecord-jdbcsqlite3-adapter'
+gem 'rack'

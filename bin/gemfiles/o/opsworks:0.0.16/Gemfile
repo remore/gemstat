@@ -1,0 +1,6 @@
+gem 'inifile'
+gem 'aws-sdk'
+gem 'trollop'
+gem 'bundler'
+gem 'rake'
+gem 'awesome_print'

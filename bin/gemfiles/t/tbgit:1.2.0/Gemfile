@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'json'
+gem 'rubygems'
+gem 'highline/import'
+gem 'optparse'

@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'twilio-ruby'
+gem 'bundler'
+gem 'rake'

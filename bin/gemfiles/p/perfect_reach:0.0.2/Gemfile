@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-matchers'
+gem 'turn'
+gem 'json'
+gem 'mocha'

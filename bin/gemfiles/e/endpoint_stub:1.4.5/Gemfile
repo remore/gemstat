@@ -1,0 +1,4 @@
+gem 'activeresource'
+gem 'webmock'
+gem 'bundler'
+gem 'rake'

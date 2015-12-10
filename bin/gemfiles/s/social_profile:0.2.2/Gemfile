@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'fb_graph'
+gem 'vkontakte'
+gem 'twitter'
+gem 'httpclient'
+gem 'multi_json'

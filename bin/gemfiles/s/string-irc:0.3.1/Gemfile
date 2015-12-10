@@ -1,0 +1,4 @@
+gem 'net-irc'
+gem 'rspec'
+gem 'rake'
+gem 'rdoc'

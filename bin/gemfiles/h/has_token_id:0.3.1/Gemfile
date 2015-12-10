@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'rails'
+gem 'dummier'
+gem 'minitest'
+gem 'minitest_should'
+gem 'sqlite3'

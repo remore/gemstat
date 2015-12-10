@@ -1,0 +1,2 @@
+gem 'mime-types'
+gem 'uuidtools'

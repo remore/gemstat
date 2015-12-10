@@ -1,0 +1,7 @@
+gem 'plist'
+gem 'escape'
+gem 'builder'
+gem 'RedCloth'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'

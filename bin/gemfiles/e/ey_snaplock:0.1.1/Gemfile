@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'rake'
+gem 'realweb'
+gem 'cucumber'
+gem 'aruba'
+gem 'sinatra'

@@ -1,0 +1,4 @@
+gem 'gom'
+gem 'gom-couchdb-adapter'
+gem 'rspec'
+gem 'reek'

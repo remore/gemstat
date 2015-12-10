@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'webmock'
+gem 'spork'
+gem 'rack-test'
+gem 'rspec'
+gem 'rake'

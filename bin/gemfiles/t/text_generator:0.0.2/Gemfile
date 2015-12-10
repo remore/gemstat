@@ -1,0 +1,3 @@
+gem 'scalpel'
+gem 'bundler'
+gem 'rake'

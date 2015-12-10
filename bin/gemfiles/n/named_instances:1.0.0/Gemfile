@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'thoughtbot-shoulda'
+gem 'mocha'
+gem 'sqlite3-ruby'

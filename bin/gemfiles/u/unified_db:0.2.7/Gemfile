@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'imdb'
+gem 'httparty'
+gem 'imdb_party'
+gem 'tvdb_party'
+gem 'rspec'

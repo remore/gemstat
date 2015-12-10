@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'zipruby'
+gem 'mime-types'
+gem 'rake'

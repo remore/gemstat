@@ -1,0 +1,7 @@
+gem 'shoe'
+gem 'open4'
+gem 'cucumber'
+gem 'fakefs'
+gem 'jeremymcanally-matchy'
+gem 'redgreen'
+gem 'thoughtbot-shoulda'

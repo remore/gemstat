@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'heroku-api'
+gem 'rendezvous'
+gem 'netrc'
+gem 'excon'

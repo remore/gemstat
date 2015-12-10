@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'activesupport'
+gem 'clockwork'
+gem 'win32-service'
+gem 'http'

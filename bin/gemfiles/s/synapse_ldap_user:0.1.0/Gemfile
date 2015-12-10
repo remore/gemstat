@@ -1,0 +1,6 @@
+gem 'net-ldap'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

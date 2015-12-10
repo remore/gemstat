@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'launchy'
+gem 'octokit'
+gem 'mime-types'
+gem 'bundler'
+gem 'rspec'

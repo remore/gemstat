@@ -1,0 +1,4 @@
+gem 'pre-commit'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

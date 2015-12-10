@@ -1,0 +1,5 @@
+gem 'punchout'
+gem 'test-unit'
+gem 'activesupport'
+gem 'mocha'
+gem 'simplecov'

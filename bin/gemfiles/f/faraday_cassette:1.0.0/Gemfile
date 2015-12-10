@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'cassette'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry-byebug'
+gem 'vcr'
+gem 'webmock'

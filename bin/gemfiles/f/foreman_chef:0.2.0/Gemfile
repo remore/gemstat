@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'deface'
+gem 'foreman-tasks'
+gem 'sqlite3'

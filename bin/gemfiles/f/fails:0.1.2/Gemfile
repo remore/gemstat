@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'watir-webdriver'
+gem 'webdriver-user-agent'
+gem 'watir-webdriver-performance'
+gem 'faker'
+gem 'page-object'

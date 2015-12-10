@@ -1,0 +1,5 @@
+gem 'aws-sdk'
+gem 'bundler'
+gem 'http'
+gem 'rake'
+gem 'rubocop'

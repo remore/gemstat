@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'foreman'
+gem 'rake'
+gem 'bourne'
+gem 'rspec'
+gem 'webmock'
+gem 'rollout'
+gem 'fog'

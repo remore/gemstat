@@ -1,0 +1,4 @@
+gem 'ruby-graphviz'
+gem 'ruby-prof'
+gem 'bundler'
+gem 'rake'

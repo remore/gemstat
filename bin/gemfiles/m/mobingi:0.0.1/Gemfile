@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'aws-sdk-core'
+gem 'json'
+gem 'trollop'
+gem 'terminal-table'
+gem 'require_all'
+gem 'bundler'
+gem 'rake'

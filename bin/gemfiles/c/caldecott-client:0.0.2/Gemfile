@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'rake'
+gem 'rcov'
+gem 'rack-test'
+gem 'rspec'
+gem 'webmock'

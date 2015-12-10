@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'colored'
+gem 'rvm'
+gem 'ruby-debug19'
+gem 'looksee'

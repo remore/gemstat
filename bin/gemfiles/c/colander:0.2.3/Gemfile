@@ -1,0 +1,3 @@
+gem 'zip'
+gem 'rspec'
+gem 'pry'

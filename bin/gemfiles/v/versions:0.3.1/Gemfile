@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'property'
+gem 'activesupport'
+gem 'activerecord'

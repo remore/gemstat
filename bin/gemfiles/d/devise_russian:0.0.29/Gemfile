@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'xss_terminate'
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'useful_helpers'

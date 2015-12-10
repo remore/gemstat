@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'carrierwave'
+gem 'jquery-rails'
+gem 'mini_magick'
+gem 'sqlite3'
+gem 'capybara'
+gem 'shoulda-context'
+gem 'launchy'

@@ -1,0 +1,5 @@
+gem 'rb-appscript'
+gem 'thor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

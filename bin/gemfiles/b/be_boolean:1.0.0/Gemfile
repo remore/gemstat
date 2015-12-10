@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'github_api'
+gem 'guard-rspec'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'k4compiler'
+gem 'rake'
+gem 'activesupport'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'

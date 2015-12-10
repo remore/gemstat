@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'recursive-open-struct'
+gem 'typhoeus'
+gem 'oj'
+gem 'bundler'

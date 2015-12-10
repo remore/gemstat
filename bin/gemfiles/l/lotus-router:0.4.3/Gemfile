@@ -1,0 +1,5 @@
+gem 'http_router'
+gem 'lotus-utils'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'

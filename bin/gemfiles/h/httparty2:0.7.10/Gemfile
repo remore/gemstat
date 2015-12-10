@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'multi_json'
+gem 'multi_xml'
+gem 'activesupport'
+gem 'cucumber'
+gem 'fakeweb'
+gem 'rspec'
+gem 'mongrel'

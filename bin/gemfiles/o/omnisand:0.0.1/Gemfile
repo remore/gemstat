@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'devise'
+gem 'devise-encryptable'
+gem 'omniauth'
+gem 'omniauth-facebook'
+gem 'omniauth-twitter'
+gem 'omniauth-github'
+gem 'sqlite3'

@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'slim'
+gem 'sass'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry'

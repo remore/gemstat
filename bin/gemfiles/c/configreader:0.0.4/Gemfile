@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'hashie'
+gem 'rake'
+gem 'rspec'

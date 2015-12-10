@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'puma'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'pry'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'thor'
+gem 'activesupport'
+gem 'i18n'
+gem 'colorize'
+gem 'highline'

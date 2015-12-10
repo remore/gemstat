@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'mechanize'
+gem 'mechanize_clip'
+gem 'nokogiri'

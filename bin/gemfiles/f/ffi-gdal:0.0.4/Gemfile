@@ -1,0 +1,8 @@
+gem 'ffi'
+gem 'log_switch'
+gem 'multi_xml'
+gem 'narray'
+gem 'ruby-progressbar'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

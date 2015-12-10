@@ -1,0 +1,8 @@
+gem 'solve'
+gem 'ridley'
+gem 'faraday'
+gem 'octokit'
+gem 'hashie'
+gem 'berkshelf'
+gem 'yard'
+gem 'minitest'

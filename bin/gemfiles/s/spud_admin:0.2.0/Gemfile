@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rails'
+gem 'authlogic'
+gem 'jquery-rails'
+gem 'dynamic_form'
+gem 'breadcrumbs_on_rails'
+gem 'will_paginate'

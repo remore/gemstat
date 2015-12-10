@@ -1,0 +1,8 @@
+gem 'hurley'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'pry-meta'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

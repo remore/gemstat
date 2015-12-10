@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'git'
+gem 'capistrano'
+gem 'faraday'
+gem 'faraday_middleware'

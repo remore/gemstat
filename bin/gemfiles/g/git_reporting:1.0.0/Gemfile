@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'chronic_duration'
+gem 'octokit'
+gem 'bundler'
+gem 'faker'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'

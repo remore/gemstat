@@ -1,0 +1,5 @@
+gem 'ShyCouch'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ShyCouch'

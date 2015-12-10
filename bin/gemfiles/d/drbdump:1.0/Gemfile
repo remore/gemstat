@@ -1,0 +1,5 @@
+gem 'capp'
+gem 'marshal-structure'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

@@ -1,0 +1,6 @@
+gem 'sidekiq'
+gem 'rake'
+gem 'bundler'
+gem 'mock_redis'
+gem 'mocha'
+gem 'codeclimate-test-reporter'

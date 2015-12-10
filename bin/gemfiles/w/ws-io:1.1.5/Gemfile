@@ -1,0 +1,6 @@
+gem 'web-socket-ruby'
+gem 'launchy'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

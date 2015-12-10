@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'mixpanel_client'
+gem 'logstash-devutils'
+gem 'coveralls'
+gem 'ffaker'
+gem 'mixpanel-ruby'

@@ -1,0 +1,4 @@
+gem 'sprinkle'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'json'
+gem 'clipboard'
+gem 'launchy'
+gem 'colorize'

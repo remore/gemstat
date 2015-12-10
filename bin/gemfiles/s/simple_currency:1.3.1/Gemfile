@@ -1,0 +1,6 @@
+gem 'crack'
+gem 'jeweler'
+gem 'rspec'
+gem 'fakeweb'
+gem 'rails'
+gem 'bundler'

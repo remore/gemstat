@@ -1,0 +1,8 @@
+gem 'json'
+gem 'rack-contrib'
+gem 'right_support'
+gem 'simple_uuid'
+gem 'ruby-debug'
+gem 'pry'
+gem 'pry-byebug'
+gem 'jeweler'

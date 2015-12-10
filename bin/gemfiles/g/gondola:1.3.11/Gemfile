@@ -1,0 +1,8 @@
+gem 'sauce'
+gem 'parallel'
+gem 'rainbow'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'vcr'
+gem 'fakeweb'

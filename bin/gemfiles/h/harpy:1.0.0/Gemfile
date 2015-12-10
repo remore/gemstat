@@ -1,0 +1,6 @@
+gem 'typhoeus'
+gem 'activesupport'
+gem 'activemodel'
+gem 'hash-deep-merge'
+gem 'rake'
+gem 'rspec'

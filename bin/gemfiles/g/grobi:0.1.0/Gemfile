@@ -1,0 +1,4 @@
+gem 'google-api-client'
+gem 'nokogiri'
+gem 'rspec'
+gem 'json_spec'

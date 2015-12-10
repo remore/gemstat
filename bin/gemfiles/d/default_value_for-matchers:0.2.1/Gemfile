@@ -1,0 +1,5 @@
+gem 'default_value_for'
+gem 'rspec'
+gem 'rails'
+gem 'rake'
+gem 'sqlite3'

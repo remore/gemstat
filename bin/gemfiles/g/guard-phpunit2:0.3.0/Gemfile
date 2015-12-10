@@ -1,0 +1,8 @@
+gem 'guard-compat'
+gem 'guard'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'pimpmychangelog'

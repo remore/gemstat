@@ -1,0 +1,2 @@
+gem 'toystore'
+gem 'adapter-couch'

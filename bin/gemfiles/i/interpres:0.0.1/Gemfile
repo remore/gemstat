@@ -1,0 +1,5 @@
+gem 'oj'
+gem 'faraday'
+gem 'gettext'
+gem 'pry'
+gem 'pry-byebug'

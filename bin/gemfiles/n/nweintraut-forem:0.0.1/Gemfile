@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'pg'
+gem 'rspec-rails'
+gem 'rspec-rails'
+gem 'capybara'

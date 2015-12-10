@@ -1,0 +1,4 @@
+gem 'aws-s3'
+gem 'pry'
+gem 'rspec'
+gem 'pry-nav'

@@ -1,0 +1,2 @@
+gem 'rdfobjects'
+gem 'rdfobjects-changeset'

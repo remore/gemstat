@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'gollum-lib'
+gem 'gollum'
+gem 'titleize'

@@ -1,0 +1,2 @@
+gem 'yahoofinance'
+gem 'minitest'

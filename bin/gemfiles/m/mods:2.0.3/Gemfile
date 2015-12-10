@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'nom-xml'
+gem 'iso-639'
+gem 'rake'
+gem 'rdoc'
+gem 'yard'
+gem 'rspec'
+gem 'equivalent-xml'

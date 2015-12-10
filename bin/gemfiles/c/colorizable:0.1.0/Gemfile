@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'color'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'database_cleaner'
+gem 'sqlite3'
+gem 'rake'

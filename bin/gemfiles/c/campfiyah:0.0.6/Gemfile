@@ -1,0 +1,8 @@
+gem 'yajl-ruby'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'

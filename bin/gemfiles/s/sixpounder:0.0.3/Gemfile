@@ -1,0 +1,4 @@
+gem 'ackintosh-net-empty_port'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

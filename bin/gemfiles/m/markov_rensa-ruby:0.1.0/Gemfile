@@ -1,0 +1,5 @@
+gem 'igo-ruby'
+gem 'mem'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

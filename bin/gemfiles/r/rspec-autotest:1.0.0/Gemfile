@@ -1,0 +1,5 @@
+gem 'rspec-core'
+gem 'bundler'
+gem 'rake'
+gem 'ZenTest'
+gem 'activesupport'

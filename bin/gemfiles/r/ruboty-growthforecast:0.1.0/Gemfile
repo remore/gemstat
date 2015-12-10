@@ -1,0 +1,4 @@
+gem 'ruboty'
+gem 'growthforecast'
+gem 'bundler'
+gem 'rake'

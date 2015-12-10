@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'tty'
+gem 'tty-which'
+gem 'slop'
+gem 'mysql2'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'highline'
+gem 'ruby-growl'
+gem 'terminal-notifier'

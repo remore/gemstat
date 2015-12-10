@@ -1,0 +1,8 @@
+gem 'oauth'
+gem 'peterpunk-mhash'
+gem 'httparty'
+gem 'thoughtbot-shoulda'
+gem 'jeremymcanally-matchy'
+gem 'mocha'
+gem 'fakeweb'
+gem 'peterpunk-mhash'

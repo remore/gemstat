@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

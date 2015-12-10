@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'pry-rails'
+gem 'rspec'
+gem 'appraisal'

@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'onesky-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'webmock'

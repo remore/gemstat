@@ -1,0 +1,4 @@
+gem 'trinidad'
+gem 'jruby-rack-worker'
+gem 'rspec'
+gem 'rake'

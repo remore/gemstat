@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'activemodel'
+gem 'activesupport'
+gem 'neography'
+gem 'will_paginate'

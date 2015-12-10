@@ -1,0 +1,6 @@
+gem 'meshchat'
+gem 'libnotify'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'codeclimate-test-reporter'
+gem 'rubocop'

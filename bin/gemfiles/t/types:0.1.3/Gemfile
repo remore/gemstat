@@ -1,0 +1,4 @@
+gem 'multitype-introspection'
+gem 'abstract'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'colorize'
+gem 'asgit'
+gem 'here_or_there'
+gem 'fog'

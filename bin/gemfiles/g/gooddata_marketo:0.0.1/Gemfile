@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'rubyntlm'
+gem 'rest-client'
+gem 'pmap'
+gem 'savon'
+gem 'gooddata'
+gem 'gooddata_datawarehouse'

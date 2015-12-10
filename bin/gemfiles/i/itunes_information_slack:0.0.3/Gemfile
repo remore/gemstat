@@ -1,0 +1,4 @@
+gem 'itunes-client'
+gem 'slack-notify'
+gem 'bundler'
+gem 'rake'

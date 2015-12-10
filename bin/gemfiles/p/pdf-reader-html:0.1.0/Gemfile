@@ -1,0 +1,2 @@
+gem 'pdf-reader'
+gem 'html_writer'

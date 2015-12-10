@@ -1,0 +1,6 @@
+gem 'yajl-ruby'
+gem 'twitter'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

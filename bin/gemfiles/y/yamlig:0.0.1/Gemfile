@@ -1,0 +1,6 @@
+gem 'id'
+gem 'optional'
+gem 'yajl-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

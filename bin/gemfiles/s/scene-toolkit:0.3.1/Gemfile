@@ -1,0 +1,6 @@
+gem 'active_support'
+gem 'i18n'
+gem 'colored'
+gem 'optitron'
+gem 'nestful'
+gem 'nokogiri'

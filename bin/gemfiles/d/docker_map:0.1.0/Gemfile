@@ -1,0 +1,7 @@
+gem 'clamp'
+gem 'docker-api'
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-collection_matchers'

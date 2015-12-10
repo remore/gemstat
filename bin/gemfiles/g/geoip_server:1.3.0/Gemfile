@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'geoip'
+gem 'multi_json'
+gem 'newrelic_rpm'
+gem 'rake'
+gem 'shoulda'
+gem 'rack-test'

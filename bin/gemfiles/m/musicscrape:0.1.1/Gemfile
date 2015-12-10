@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'gcal4ruby'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'cucumber'
+gem 'rest-client'
+gem 'gcal4ruby'

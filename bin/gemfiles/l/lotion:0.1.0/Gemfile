@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'codependency'
+gem 'guard-motion'
+gem 'rb-fsevent'
+gem 'motion-stump'

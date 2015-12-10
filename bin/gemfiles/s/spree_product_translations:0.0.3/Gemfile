@@ -1,0 +1,2 @@
+gem 'globalize3'
+gem 'spree_core'

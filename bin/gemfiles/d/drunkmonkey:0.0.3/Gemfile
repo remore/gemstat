@@ -1,0 +1,6 @@
+gem 'celluloid'
+gem 'rack'
+gem 'websocket'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'restfolia'
+gem 'rspec'
+gem 'rack-test'
+gem 'webmock'

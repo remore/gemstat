@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'minitest'
+gem 'rake'
+gem 'mocha'
+gem 'contest'
+gem 'rack-test'
+gem 'webmock'

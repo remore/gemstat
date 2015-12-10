@@ -1,0 +1,7 @@
+gem 'curb'
+gem 'rails'
+gem 'right_aws'
+gem 'htmlentities'
+gem 'sanitize'
+gem 'airbrake'
+gem 'urbanairship'

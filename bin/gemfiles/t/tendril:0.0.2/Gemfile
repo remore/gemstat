@@ -1,0 +1,8 @@
+gem 'active_support'
+gem 'httparty'
+gem 'hashie'
+gem 'json'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'i18n'

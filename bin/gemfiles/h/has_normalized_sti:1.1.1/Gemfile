@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'jeweler'
+gem 'mocha'
+gem 'i18n'

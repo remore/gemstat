@@ -1,0 +1,7 @@
+gem 'rdf'
+gem 'rdf-spec'
+gem 'open-uri-cached'
+gem 'rspec'
+gem 'webmock'
+gem 'json-ld'
+gem 'yard'

@@ -1,0 +1,7 @@
+gem 'heartcheck'
+gem 'pry-nav'
+gem 'rspec'
+gem 'rubocop'
+gem 'fakeweb'
+gem 'yard'
+gem 'redcarpet'

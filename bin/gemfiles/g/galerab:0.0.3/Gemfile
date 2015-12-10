@@ -1,0 +1,6 @@
+gem 'mysql2'
+gem 'sequel'
+gem 'em-proxy'
+gem 'ansi'
+gem 'rake'
+gem 'rspec'

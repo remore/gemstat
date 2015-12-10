@@ -1,0 +1,8 @@
+gem 'hashie'
+gem 'faraday'
+gem 'multi_json'
+gem 'faraday_middleware'
+gem 'nokogiri'
+gem 'simple_oauth'
+gem 'rake'
+gem 'bundler'

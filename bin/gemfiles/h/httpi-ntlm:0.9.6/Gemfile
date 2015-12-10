@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'pyu-ntlm-http'
+gem 'rspec'
+gem 'autotest'
+gem 'mocha'
+gem 'webmock'

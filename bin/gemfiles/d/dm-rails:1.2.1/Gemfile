@@ -1,0 +1,7 @@
+gem 'dm-core'
+gem 'dm-active_model'
+gem 'actionpack'
+gem 'railties'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'

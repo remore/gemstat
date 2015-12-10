@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'httparty'
+gem 'roxml'
+gem 'json'
+gem 'nokogiri'

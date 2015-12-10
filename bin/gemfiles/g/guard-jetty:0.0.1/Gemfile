@@ -1,0 +1,7 @@
+gem 'guard'
+gem 'jettywrapper'
+gem 'bundler'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'

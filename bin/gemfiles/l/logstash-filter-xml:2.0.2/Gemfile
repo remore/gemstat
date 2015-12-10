@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'nokogiri'
+gem 'xml-simple'
+gem 'logstash-devutils'

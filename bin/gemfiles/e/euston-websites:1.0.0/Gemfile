@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'hash-keys'
+gem 'hollywood'
+gem 'awesome_print'
+gem 'fuubar'
+gem 'rspec'

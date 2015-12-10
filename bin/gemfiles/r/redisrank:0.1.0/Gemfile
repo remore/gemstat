@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'json'
+gem 'redis'
+gem 'time_ext'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'simplecov'

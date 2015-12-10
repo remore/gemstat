@@ -1,0 +1,7 @@
+gem 'celluloid'
+gem 'http'
+gem 'multi_json'
+gem 'digest-crc'
+gem 'childprocess'
+gem 'snappy'
+gem 'minitest'

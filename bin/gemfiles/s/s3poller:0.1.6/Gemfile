@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'fog'
+gem 's3etag'
+gem 'rspec'

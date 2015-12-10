@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rack'
+gem 'i18n'
+gem 'tilt'
+gem 'test-spec'
+gem 'haml'
+gem 'json'

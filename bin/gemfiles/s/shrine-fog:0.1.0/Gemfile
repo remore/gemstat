@@ -1,0 +1,6 @@
+gem 'down'
+gem 'fog-aws'
+gem 'mime-types'
+gem 'dotenv'
+gem 'shrine'
+gem 'minitest'

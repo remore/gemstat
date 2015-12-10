@@ -1,0 +1,5 @@
+gem 'debug_inspector'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocoso'

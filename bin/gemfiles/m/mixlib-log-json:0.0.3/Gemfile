@@ -1,0 +1,8 @@
+gem 'mixlib-log'
+gem 'multi_json'
+gem 'rspec'
+gem 'yard'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

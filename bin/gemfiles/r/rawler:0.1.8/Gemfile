@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'fakeweb'
+gem 'rspec'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'

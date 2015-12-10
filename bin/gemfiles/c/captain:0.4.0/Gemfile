@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'virtualbox'
+gem 'cucumber'
+gem 'shoe'

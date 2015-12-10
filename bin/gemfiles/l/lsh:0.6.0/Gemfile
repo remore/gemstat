@@ -1,0 +1,8 @@
+gem 'gsl'
+gem 'json'
+gem 'redis'
+gem 'sinatra'
+gem 'mock_redis'
+gem 'rack-test'
+gem 'rake'
+gem 'mocha'

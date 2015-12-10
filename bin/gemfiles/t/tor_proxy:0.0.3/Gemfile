@@ -1,0 +1,4 @@
+gem 'socksify'
+gem 'tor'
+gem 'debugger'
+gem 'rspec'

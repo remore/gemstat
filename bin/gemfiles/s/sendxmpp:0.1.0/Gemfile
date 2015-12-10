@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'inifile'
+gem 'xmpp4r'
+gem 'hashr'
+gem 'rake'

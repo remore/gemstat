@@ -1,0 +1,7 @@
+gem 'constructor-core'
+gem 'constructor-pages'
+gem 'rspec-rails'
+gem 'database_cleaner'
+gem 'capybara'
+gem 'launchy'
+gem 'factory_girl_rails'

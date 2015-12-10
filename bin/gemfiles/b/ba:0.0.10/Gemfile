@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'mechanize'
+gem 'highline'
+gem 'fileutils'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'bson_ext'
+gem 'amqp'
+gem 'bunny'
+gem 'pry'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'thor'
+gem 'mixlib-config'
+gem 'jira-ruby'
+gem 'rest-client'

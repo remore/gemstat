@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'mysql2-cs-bind'
+gem 'jsonpath'
+gem 'rake'
+gem 'test-unit'

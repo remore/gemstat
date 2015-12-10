@@ -1,0 +1,7 @@
+gem 'directory_watcher'
+gem 'rubyzip'
+gem 'archive-tar-minitar'
+gem 'newgem'
+gem 'mocha'
+gem 'thoughtbot-shoulda'
+gem 'hoe'

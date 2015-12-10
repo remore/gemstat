@@ -1,0 +1,6 @@
+gem 'gir_ffi-gtk'
+gem 'github-markup'
+gem 'github-markdown'
+gem 'rake'
+gem 'minitest'
+gem 'atspi_app_driver'

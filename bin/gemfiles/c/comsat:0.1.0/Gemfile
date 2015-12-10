@@ -1,0 +1,6 @@
+gem 'octokit'
+gem 'pony'
+gem 'rest-client'
+gem 'scrolls'
+gem 'rake'
+gem 'rspec'

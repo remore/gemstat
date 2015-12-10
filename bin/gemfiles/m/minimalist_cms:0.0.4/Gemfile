@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'frontendeditor_ckeditor'
+gem 'acts_as_page'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'shoulda'

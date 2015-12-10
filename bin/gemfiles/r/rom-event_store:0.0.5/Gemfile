@@ -1,0 +1,5 @@
+gem 'rom'
+gem 'estore'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

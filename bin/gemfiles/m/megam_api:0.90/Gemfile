@@ -1,0 +1,7 @@
+gem 'excon'
+gem 'highline'
+gem 'yajl-ruby'
+gem 'mixlib-config'
+gem 'mixlib-log'
+gem 'minitest'
+gem 'rake'

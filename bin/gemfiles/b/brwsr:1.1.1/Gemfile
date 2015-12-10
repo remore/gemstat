@@ -1,0 +1,5 @@
+gem 'actionpack'
+gem 'rake'
+gem 'rdoc'
+gem 'pry'
+gem 'awesome_print'

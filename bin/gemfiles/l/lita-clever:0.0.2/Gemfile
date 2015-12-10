@@ -1,0 +1,4 @@
+gem 'lita'
+gem 'clever-api'
+gem 'bundler'
+gem 'rspec'

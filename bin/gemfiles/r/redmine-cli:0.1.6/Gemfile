@@ -1,0 +1,7 @@
+gem 'activeresource'
+gem 'thor'
+gem 'ruby-debug'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'interactive_editor'

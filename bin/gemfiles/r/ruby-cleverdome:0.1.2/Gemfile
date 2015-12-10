@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'signed_xml'
+gem 'nokogiri'
+gem 'uuid'
+gem 'mime-types'
+gem 'base64'

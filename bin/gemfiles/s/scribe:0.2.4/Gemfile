@@ -1,0 +1,2 @@
+gem 'thrift_client'
+gem 'rake'

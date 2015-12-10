@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rake-compiler'

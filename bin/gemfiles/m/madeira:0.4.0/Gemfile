@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'gli'
+gem 'fog'
+gem 'table_print'
+gem 'capistrano'

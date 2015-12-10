@@ -1,0 +1,4 @@
+gem 'simplecov'
+gem 'activesupport'
+gem 'activerecord'
+gem 'sqlite3'

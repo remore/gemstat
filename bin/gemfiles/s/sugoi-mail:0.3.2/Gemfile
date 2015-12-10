@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rails-app-installer'
+gem 'gurgitate-mail'
+gem 'termios'
+gem 'highline'
+gem 'sqlite3-ruby'

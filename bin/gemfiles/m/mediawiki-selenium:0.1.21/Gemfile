@@ -1,0 +1,8 @@
+gem 'cucumber'
+gem 'headless'
+gem 'json'
+gem 'net-http-persistent'
+gem 'page-object'
+gem 'rest-client'
+gem 'rspec-expectations'
+gem 'syntax'

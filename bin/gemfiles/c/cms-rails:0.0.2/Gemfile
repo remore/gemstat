@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'pg'
+gem 'bundler'
+gem 'anything-slider'
+gem 'tinymce-rails4'
+gem 'compass'
+gem 'bcrypt-ruby'
+gem 'rake'

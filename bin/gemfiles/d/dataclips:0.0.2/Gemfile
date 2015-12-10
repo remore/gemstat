@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'pg'
+gem 'jquery-rails'
+gem 'will_paginate'
+gem 'hashids'
+gem 'twitter-bootstrap-rails'
+gem 'momentjs-rails'
+gem 'bootstrap3-datetimepicker-rails'

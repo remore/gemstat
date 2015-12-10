@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'builder'
+gem 'activesupport'
+gem 'rake'
+gem 'i18n'
+gem 'rspec'

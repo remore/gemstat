@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'paperclip'
+gem 'rack-raw-upload'
+gem 'sass-rails'
+gem 'mime-types'
+gem 'kaminari'

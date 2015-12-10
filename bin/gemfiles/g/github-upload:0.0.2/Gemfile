@@ -1,0 +1,2 @@
+gem 'confparser'
+gem 'net-github-upload'

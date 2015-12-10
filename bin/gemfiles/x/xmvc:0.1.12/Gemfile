@@ -1,0 +1,7 @@
+gem 'extlib'
+gem 'thor'
+gem 'whorm'
+gem 'hpricot'
+gem 'sprockets'
+gem 'shoulda'
+gem 'cucumber'

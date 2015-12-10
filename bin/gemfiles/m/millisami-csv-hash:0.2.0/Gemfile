@@ -1,0 +1,5 @@
+gem 'fastercsv'
+gem 'rspec'
+gem 'rdoc'
+gem 'rdoc'
+gem 'rake'

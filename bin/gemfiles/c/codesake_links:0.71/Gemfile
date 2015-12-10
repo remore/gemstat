@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'codesake_commons'

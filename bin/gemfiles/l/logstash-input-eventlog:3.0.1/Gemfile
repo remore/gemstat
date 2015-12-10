@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'win32-eventlog'
+gem 'stud'
+gem 'logstash-devutils'

@@ -1,0 +1,5 @@
+gem 'json'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'activerecord'
+gem 'rspec'

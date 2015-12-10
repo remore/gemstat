@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'turn'
+gem 'vcr'

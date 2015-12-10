@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'versioned_blocks'
+gem 'rspec-core'
+gem 'pry'

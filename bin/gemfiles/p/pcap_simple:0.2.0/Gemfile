@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'bit-struct'
+gem 'bit-struct'
+gem 'rspec'

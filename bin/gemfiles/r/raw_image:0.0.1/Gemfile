@@ -1,0 +1,7 @@
+gem 'gui_geometry'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-test'
+gem 'rb-fsevent'
+gem 'simplecov'

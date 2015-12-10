@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'comfortable_mexican_sofa'
+gem 'rack-rewrite'
+gem 'rubyzip'
+gem 'sqlite3'
+gem 'bundler'
+gem 'rake'

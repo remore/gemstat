@@ -1,0 +1,4 @@
+gem 'json'
+gem 'options_checker'
+gem 'builder'
+gem 'hoe'

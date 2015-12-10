@@ -1,0 +1,5 @@
+gem 'slim'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'typhoeus'
+gem 'rspec'
+gem 'json_pure'

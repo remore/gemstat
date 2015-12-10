@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'test-unit'
+gem 'mocha'
+gem 'rake'
+gem 'webmock'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'faraday_body_logger'

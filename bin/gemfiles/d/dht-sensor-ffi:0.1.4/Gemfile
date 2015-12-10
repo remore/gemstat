@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'rake'
+gem 'rake-compiler'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

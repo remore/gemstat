@@ -1,0 +1,7 @@
+gem 'prawn'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'horo'
+gem 'prawn'

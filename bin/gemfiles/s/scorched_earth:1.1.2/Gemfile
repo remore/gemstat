@@ -1,0 +1,5 @@
+gem 'ray'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'simplecov'

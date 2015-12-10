@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'pry'
+gem 'methadone'
+gem 'listen'

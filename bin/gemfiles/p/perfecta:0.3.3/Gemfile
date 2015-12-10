@@ -1,0 +1,6 @@
+gem 'mime-types'
+gem 'rest-client'
+gem 'activesupport'
+gem 'rake'
+gem 'json'
+gem 'mocha'

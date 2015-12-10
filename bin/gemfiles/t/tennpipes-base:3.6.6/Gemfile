@@ -1,0 +1,7 @@
+gem 'tennpipes-assist'
+gem 'rack'
+gem 'sinatra'
+gem 'mustermann19'
+gem 'thor'
+gem 'activesupport'
+gem 'rack-protection'

@@ -1,0 +1,5 @@
+gem 'builder'
+gem 'httpclient'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'netaddr'

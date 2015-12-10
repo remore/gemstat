@@ -1,0 +1,4 @@
+gem 'cocoapods'
+gem 'json'
+gem 'bundler'
+gem 'rake'

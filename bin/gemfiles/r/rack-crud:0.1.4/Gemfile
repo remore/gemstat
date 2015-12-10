@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rack-routing'
+gem 'mustache'
+gem 'rspec'
+gem 'rack-test'
+gem 'guard'
+gem 'guard-rspec'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'jettywrapper'
+gem 'rails'
+gem 'marc'

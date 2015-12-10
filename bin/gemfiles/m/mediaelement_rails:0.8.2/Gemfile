@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'jquery-rails'
+gem 'rails'
+gem 'i18n'
+gem 'turn'
+gem 'sqlite3'
+gem 'thor'
+gem 'rake'

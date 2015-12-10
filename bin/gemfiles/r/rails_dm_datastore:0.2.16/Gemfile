@@ -1,0 +1,7 @@
+gem 'thoughtbot-shoulda'
+gem 'dm-core'
+gem 'dm-ar-finders'
+gem 'dm-timestamps'
+gem 'dm-validations'
+gem 'dm-appengine'
+gem 'rails_appengine'

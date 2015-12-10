@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'

@@ -1,0 +1,2 @@
+gem 'acts_as_votable'
+gem 'jquery-turbolinks'

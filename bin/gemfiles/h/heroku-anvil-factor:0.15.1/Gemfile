@@ -1,0 +1,2 @@
+gem 'progress'
+gem 'rest-client'

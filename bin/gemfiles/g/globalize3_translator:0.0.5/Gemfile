@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'globalize3'
+gem 'sishen-rtranslate'
+gem 'ruby-debug'
+gem 'sqlite3-ruby'

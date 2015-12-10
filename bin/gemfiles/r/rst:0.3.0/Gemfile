@@ -1,0 +1,8 @@
+gem 'rdoc'
+gem 'aruba'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'vcr'
+gem 'typhoeus'
+gem 'nokogiri'

@@ -1,0 +1,7 @@
+gem 'rdoc'
+gem 'rice'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'rake-compiler'
+gem 'mini_portile'

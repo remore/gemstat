@@ -1,0 +1,4 @@
+gem 'webp-ffi'
+gem 'carrierwave'
+gem 'bundler'
+gem 'rake'

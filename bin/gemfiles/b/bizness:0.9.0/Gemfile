@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'i18n'
+gem 'hey-pubsub'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

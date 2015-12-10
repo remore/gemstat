@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'faraday'
+gem 'typhoeus'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

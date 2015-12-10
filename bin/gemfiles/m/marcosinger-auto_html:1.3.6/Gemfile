@@ -1,0 +1,5 @@
+gem 'rinku'
+gem 'tag_helper'
+gem 'RedCloth'
+gem 'redcarpet'
+gem 'hpricot'

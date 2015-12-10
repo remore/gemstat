@@ -1,0 +1,2 @@
+gem 'market_beat'
+gem 'rspec'

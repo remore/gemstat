@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'pbkdf2-ruby'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'coveralls'

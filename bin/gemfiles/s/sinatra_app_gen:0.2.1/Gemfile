@@ -1,0 +1,6 @@
+gem 'rubigen'
+gem 'jeweler'
+gem 'cucumber'
+gem 'rspec'
+gem 'aruba'
+gem 'bundler'

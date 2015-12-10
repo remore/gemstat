@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'yajl-ruby'
+gem 'rollout'
+gem 'redis'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rack-test'

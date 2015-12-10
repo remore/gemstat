@@ -1,0 +1,2 @@
+gem 'vimeo'
+gem 'httpclient'

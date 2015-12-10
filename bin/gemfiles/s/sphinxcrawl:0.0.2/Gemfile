@@ -1,0 +1,6 @@
+gem 'methadone'
+gem 'nokogiri'
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'webmock'

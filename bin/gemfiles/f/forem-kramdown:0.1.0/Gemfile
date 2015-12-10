@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'coderay'
+gem 'kramdown'
+gem 'nokogiri'
+gem 'minitest'
+gem 'rake'

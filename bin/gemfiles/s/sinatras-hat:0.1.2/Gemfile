@@ -1,0 +1,2 @@
+gem 'extlib'
+gem 'sinatra'

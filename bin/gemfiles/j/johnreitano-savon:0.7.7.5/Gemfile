@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'crack'
+gem 'johnreitano-ntlm-http'
+gem 'rspec'
+gem 'mocha'
+gem 'fakeweb'

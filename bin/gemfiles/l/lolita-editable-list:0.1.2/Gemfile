@@ -1,0 +1,5 @@
+gem 'lolita'
+gem 'bundler'
+gem 'jeweler'
+gem 'lolita'
+gem 'rspec'

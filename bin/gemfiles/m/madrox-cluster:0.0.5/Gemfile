@@ -1,0 +1,5 @@
+gem 'pry'
+gem 'ruby_parser'
+gem 'file-tail'
+gem 'sourcify'
+gem 'eventmachine'

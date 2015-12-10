@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bootstrap-sass'
+gem 'table_for_collection'
+gem 'kaminari'
+gem 'simple_form'
+gem 'cocoon'
+gem 'sqlite3'

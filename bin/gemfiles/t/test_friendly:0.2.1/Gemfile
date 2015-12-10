@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'debugger'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'mail'
+gem 'rake'
+gem 'rdoc'
+gem 'simplecov'
+gem 'rspec'

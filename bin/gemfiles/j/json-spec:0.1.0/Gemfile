@@ -1,0 +1,6 @@
+gem 'validates_email_format_of'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'colorize'
+gem 'simplecov'

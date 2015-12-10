@@ -1,0 +1,7 @@
+gem 'logging'
+gem 'httparty'
+gem 'virtus'
+gem 'colorize'
+gem 'pry'
+gem 'bundler'
+gem 'rake'

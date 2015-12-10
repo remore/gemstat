@@ -1,0 +1,4 @@
+gem 'curb'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rake'

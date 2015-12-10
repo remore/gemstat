@@ -1,0 +1,8 @@
+gem 'queue-bus'
+gem 'sidekiq'
+gem 'rspec'
+gem 'fakeredis'
+gem 'redis-namespace'
+gem 'pry'
+gem 'timecop'
+gem 'json_pure'

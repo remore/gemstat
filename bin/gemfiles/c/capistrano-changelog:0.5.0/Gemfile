@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'oj'
+gem 'capistrano'
+gem 'faraday'
+gem 'faraday-http-cache'

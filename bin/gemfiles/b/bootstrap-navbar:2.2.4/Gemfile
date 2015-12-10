@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'rspec-html-matchers'
+gem 'guard-rspec'
+gem 'padrino-helpers'
+gem 'bootstrap-sass'
+gem 'gem_config'

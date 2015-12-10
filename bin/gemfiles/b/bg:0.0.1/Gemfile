@@ -1,0 +1,6 @@
+gem 'os'
+gem 'method_source'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'micro_test'

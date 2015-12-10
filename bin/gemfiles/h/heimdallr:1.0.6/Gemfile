@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'orm_adapter'
+gem 'rake'

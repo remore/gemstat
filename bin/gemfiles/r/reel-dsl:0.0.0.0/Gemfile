@@ -1,0 +1,8 @@
+gem 'reel'
+gem 'reel-io'
+gem 'tilt'
+gem 'mime-types'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'coveralls'

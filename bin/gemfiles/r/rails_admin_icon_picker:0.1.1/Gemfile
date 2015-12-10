@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rails_admin'
+gem 'sqlite3'
+gem 'factory_girl'
+gem 'rspec-rails'

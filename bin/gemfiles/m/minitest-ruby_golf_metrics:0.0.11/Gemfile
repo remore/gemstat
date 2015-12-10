@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'sourcify'
+gem 'bundler'
+gem 'rake'

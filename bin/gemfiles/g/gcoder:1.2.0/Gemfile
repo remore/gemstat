@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'multi_json'
+gem 'ruby-hmac'
+gem 'bundler'
+gem 'minitest'
+gem 'redis'

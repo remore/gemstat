@@ -1,0 +1,5 @@
+gem 'hetzner-api'
+gem 'net-ssh'
+gem 'erubis'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'vines'
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'

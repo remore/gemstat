@@ -1,0 +1,7 @@
+gem 'lhc'
+gem 'rspec-rails'
+gem 'rails'
+gem 'typhoeus'
+gem 'webmock'
+gem 'geminabox'
+gem 'pry'

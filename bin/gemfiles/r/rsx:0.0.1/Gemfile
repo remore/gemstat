@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'mspec'
+gem 'rspec'
+gem 'autotest'

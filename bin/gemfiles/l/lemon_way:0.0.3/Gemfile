@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry-rails'
+gem 'yard'
+gem 'activesupport'
+gem 'builder'

@@ -1,0 +1,7 @@
+gem 'kaminari'
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'rr'
+gem 'mocha'
+gem 'flexmock'

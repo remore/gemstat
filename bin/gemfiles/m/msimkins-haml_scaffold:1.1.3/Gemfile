@@ -1,0 +1,6 @@
+gem 'haml'
+gem 'will_paginate'
+gem 'formtastic'
+gem 'mocha'
+gem 'newgem'
+gem 'hoe'

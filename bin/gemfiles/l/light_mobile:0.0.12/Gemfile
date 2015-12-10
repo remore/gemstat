@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'html_gen'
+gem 'agent_helpers'
+gem 'sqlite3'
+gem 'codeclimate-test-reporter'
+gem 'rspec-rails'

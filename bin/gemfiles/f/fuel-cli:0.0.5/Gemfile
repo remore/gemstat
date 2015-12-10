@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'httparty'
+gem 'jenkins_api_client'
+gem 'bundler'
+gem 'rake'
+gem 'debugger'

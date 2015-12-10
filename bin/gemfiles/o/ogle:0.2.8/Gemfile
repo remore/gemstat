@@ -1,0 +1,5 @@
+gem 'hugs'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'minitest'

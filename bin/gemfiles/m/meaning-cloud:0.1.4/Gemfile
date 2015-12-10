@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'rake'
+gem 'rspec'
+gem 'faker'
+gem 'semver'

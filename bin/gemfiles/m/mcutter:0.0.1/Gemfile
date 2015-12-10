@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'bundler'
+gem 'rspec'
+gem 'fuubar'
+gem 'autotest'

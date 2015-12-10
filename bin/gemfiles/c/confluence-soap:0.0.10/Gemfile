@@ -1,0 +1,8 @@
+gem 'savon'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'
+gem 'pry-debugger'
+gem 'pry-stack_explorer'
+gem 'yard'
+gem 'redcarpet'

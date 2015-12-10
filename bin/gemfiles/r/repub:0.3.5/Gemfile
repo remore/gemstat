@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'builder'
+gem 'chardet'
+gem 'launchy'
+gem 'bones'

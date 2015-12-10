@@ -1,0 +1,6 @@
+gem 'porth'
+gem 'plist'
+gem 'actionpack'
+gem 'activerecord'
+gem 'rspec'
+gem 'rake'

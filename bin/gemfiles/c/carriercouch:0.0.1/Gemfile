@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rspec'
+gem 'mini_magick'
+gem 'carrierwave'
+gem 'activemodel'
+gem 'couchrest_model'

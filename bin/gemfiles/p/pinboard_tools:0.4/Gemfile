@@ -1,0 +1,6 @@
+gem 'pinboard'
+gem 'nokogiri-plist'
+gem 'progress_bar'
+gem 'embedly'
+gem 'docopt'
+gem 'highline'

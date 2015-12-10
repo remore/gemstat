@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'eventmachine_httpserver'
+gem 'git'
+gem 'json'
+gem 'bundler'
+gem 'haml'
+gem 'compass'
+gem 'staticmatic'

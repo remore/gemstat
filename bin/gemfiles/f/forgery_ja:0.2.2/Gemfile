@@ -1,0 +1,2 @@
+gem 'forgery'
+gem 'rspec'

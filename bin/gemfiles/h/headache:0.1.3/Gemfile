@@ -1,0 +1,7 @@
+gem 'fixy'
+gem 'activesupport'
+gem 'faker'
+gem 'rspec'
+gem 'factory_girl'
+gem 'bundler'
+gem 'rake'

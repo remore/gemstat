@@ -1,0 +1,2 @@
+gem 'easier-instance-variable-access'
+gem 'to-class'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rubyzip'
+gem 'nokogiri'
+gem 'i18n'

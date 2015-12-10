@@ -1,0 +1,8 @@
+gem 'ddd-associations'
+gem 'guard-minitest'
+gem 'guard-bundler'
+gem 'rb-fsevent'
+gem 'coolline'
+gem 'minitest'
+gem 'rake'
+gem 'pry'

@@ -1,0 +1,6 @@
+gem 'buzztools'
+gem 'underscore_plus'
+gem 'pundit'
+gem 'active_model_serializers'
+gem 'rake'
+gem 'rspec'

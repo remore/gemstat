@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'timecop'
+gem 'activeresource'
+gem 'reactive_resource'
+gem 'active_resource_pagination'
+gem 'will_paginate'

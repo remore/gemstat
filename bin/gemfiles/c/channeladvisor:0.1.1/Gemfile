@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'rr'
+gem 'vcr'
+gem 'fakeweb'
+gem 'timecop'
+gem 'savon'

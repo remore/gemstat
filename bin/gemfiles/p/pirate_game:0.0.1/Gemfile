@@ -1,0 +1,6 @@
+gem 'json'
+gem 'pirate_command'
+gem 'shuttlecraft'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

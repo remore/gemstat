@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'shoulda'
+gem 'jnunemaker-matchy'
+gem 'test-unit'

@@ -1,0 +1,6 @@
+gem 'clamp'
+gem 'awesome_print'
+gem 'geoip'
+gem 'rake'
+gem 'simplecov'
+gem 'minitest-colorize'

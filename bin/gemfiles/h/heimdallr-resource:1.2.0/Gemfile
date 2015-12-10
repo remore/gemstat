@@ -1,0 +1,6 @@
+gem 'rspec-rails'
+gem 'rr'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'tzinfo'
+gem 'heimdallr'

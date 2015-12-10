@@ -1,0 +1,6 @@
+gem 'highline'
+gem 'rake'
+gem 'rdoc'
+gem 'yard'
+gem 'minitest'
+gem 'open4'

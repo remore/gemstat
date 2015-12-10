@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'tilt'
+gem 'haml'
+gem 'sprockets'
+gem 'mustache'

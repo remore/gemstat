@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'ruby_gntp'
+gem 'rake'
+gem 'rspec'

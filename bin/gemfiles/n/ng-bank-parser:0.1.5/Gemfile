@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'
+gem 'roo'
+gem 'pdf-reader'
+gem 'activesupport'
+gem 'rest-client'

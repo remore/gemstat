@@ -1,0 +1,6 @@
+gem 'jeweler'
+gem 'rspec'
+gem 'sinatra'
+gem 'unicorn'
+gem 'thin'
+gem 'puma'

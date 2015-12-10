@@ -1,0 +1,5 @@
+gem 'octokit'
+gem 'terminal-notifier'
+gem 'highline'
+gem 'rake'
+gem 'rspec'

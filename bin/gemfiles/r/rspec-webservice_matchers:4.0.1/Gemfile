@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'webmock'
+gem 'rspec'
+gem 'excon'
+gem 'faraday'
+gem 'faraday_middleware'

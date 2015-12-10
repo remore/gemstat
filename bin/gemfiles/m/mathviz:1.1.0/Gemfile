@@ -1,0 +1,4 @@
+gem 'GraphvizR'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

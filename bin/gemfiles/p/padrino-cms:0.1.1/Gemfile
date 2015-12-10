@@ -1,0 +1,5 @@
+gem 'bcrypt-ruby'
+gem 'padrino-core'
+gem 'padrino-gen'
+gem 'padrino-helpers'
+gem 'padrino-admin'

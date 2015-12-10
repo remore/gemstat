@@ -1,0 +1,4 @@
+gem 'halite'
+gem 'poise'
+gem 'poise-service'
+gem 'poise-boiler'

@@ -1,0 +1,7 @@
+gem 'rainbow'
+gem 'parser'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'simplecov'

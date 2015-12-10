@@ -1,0 +1,2 @@
+gem 'premailer-rails3'
+gem 'rails'

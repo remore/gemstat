@@ -1,0 +1,8 @@
+gem 'guard'
+gem 'sprockets'
+gem 'coffee-script'
+gem 'jade'
+gem 'stylus'
+gem 'closure-compiler'
+gem 'yui-compressor'
+gem 'json'

@@ -1,0 +1,5 @@
+gem 'alias_e'
+gem 'colour_aid'
+gem 'try_syck'
+gem 'opn'
+gem 'save_file'

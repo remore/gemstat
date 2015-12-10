@@ -1,0 +1,4 @@
+gem 'geo3d'
+gem 'wavefront'
+gem 'bundler'
+gem 'rake'

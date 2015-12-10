@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'kss'
+gem 'ffaker'
+gem 'BlueCloth'
+gem 'rspec-rails'
+gem 'sqlite3'

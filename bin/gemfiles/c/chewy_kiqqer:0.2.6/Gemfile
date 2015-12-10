@@ -1,0 +1,8 @@
+gem 'sidekiq'
+gem 'chewy'
+gem 'mlanett-redis-lock'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

@@ -1,0 +1,4 @@
+gem 'abstract_method'
+gem 'rspec'
+gem 'redcarpet'
+gem 'yard'

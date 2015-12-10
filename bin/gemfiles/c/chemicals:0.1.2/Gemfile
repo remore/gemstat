@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rake'
+gem 'mocha'
+gem 'guard'
+gem 'guard-minitest'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rspec-rails'
+gem 'pdf-inspector'
+gem 'jasper-rails'

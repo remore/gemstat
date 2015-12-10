@@ -1,0 +1,4 @@
+gem 'platform_helpers'
+gem 'localized_gems'
+gem 'rubigen'
+gem 'hoe'

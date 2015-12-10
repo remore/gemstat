@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'rake'
+gem 'aruba'
+gem 'rspec'
+gem 'capybara'
+gem 'byebug'

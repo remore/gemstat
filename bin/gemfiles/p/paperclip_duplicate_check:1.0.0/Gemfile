@@ -1,0 +1,8 @@
+gem 'paperclip'
+gem 'rspec'
+gem 'sqlite3'
+gem 'rails'
+gem 'yard'
+gem 'redcarpet'
+gem 'bundler'
+gem 'jeweler'

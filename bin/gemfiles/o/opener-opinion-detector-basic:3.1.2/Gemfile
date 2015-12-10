@@ -1,0 +1,8 @@
+gem 'opener-daemons'
+gem 'opener-webservice'
+gem 'opener-core'
+gem 'oga'
+gem 'rspec'
+gem 'cucumber'
+gem 'rake'
+gem 'benchmark-ips'

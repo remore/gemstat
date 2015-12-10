@@ -1,0 +1,5 @@
+gem 'paint'
+gem 'methadone'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

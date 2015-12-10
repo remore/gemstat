@@ -1,0 +1,4 @@
+gem 'daemons'
+gem 'capistrano'
+gem 'mongrel'
+gem 'mongrel_cluster'

@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'redis-sentinel'
+gem 'redis_wmrs'
+gem 'tengine_support'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

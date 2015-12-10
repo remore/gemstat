@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'highline'
+gem 'libxml-ruby'
+gem 'ruby-nuggets'

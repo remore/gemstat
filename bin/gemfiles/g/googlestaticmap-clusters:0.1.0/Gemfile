@@ -1,0 +1,4 @@
+gem 'pixeldistance'
+gem 'rclusters'
+gem 'bundler'
+gem 'rake'

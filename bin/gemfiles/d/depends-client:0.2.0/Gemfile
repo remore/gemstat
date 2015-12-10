@@ -1,0 +1,8 @@
+gem 'mixlib-log'
+gem 'nestful'
+gem 'mixlib-config'
+gem 'rubyzip'
+gem 'mixlib-cli'
+gem 'activesupport'
+gem 'rack-cache'
+gem 'multi_json'

@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'webmock'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

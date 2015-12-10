@@ -1,0 +1,4 @@
+gem 'omniauth-oauth'
+gem 'omniauth-oauth2'
+gem 'bundler'
+gem 'rake'

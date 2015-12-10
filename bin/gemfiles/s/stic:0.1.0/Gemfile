@@ -1,0 +1,6 @@
+gem 'tilt'
+gem 'activesupport'
+gem 'rubypath'
+gem 'opt'
+gem 'mime-types'
+gem 'bundler'

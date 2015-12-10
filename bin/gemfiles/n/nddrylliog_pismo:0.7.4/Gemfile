@@ -1,0 +1,6 @@
+gem 'shoulda'
+gem 'awesome_print'
+gem 'nokogiri'
+gem 'sanitize'
+gem 'fast-stemmer'
+gem 'chronic'

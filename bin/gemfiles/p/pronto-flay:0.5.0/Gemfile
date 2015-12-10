@@ -1,0 +1,5 @@
+gem 'pronto'
+gem 'flay'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

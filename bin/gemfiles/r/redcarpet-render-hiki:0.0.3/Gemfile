@@ -1,0 +1,6 @@
+gem 'redcarpet'
+gem 'bundler'
+gem 'pry'
+gem 'pry-doc'
+gem 'rake'
+gem 'test-unit'

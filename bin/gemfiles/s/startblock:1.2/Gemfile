@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'bundler'
+gem 'rails'
+gem 'thor'

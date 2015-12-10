@@ -1,0 +1,5 @@
+gem 'omniauth'
+gem 'moocow'
+gem 'rspec'
+gem 'simplecov'
+gem 'rack-test'

@@ -1,0 +1,6 @@
+gem 'awesome_print'
+gem 'bundler'
+gem 'gem-release'
+gem 'rake'
+gem 'rbfam'
+gem 'wrnap'

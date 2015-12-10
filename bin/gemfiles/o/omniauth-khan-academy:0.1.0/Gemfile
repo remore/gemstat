@@ -1,0 +1,6 @@
+gem 'omniauth'
+gem 'oauth'
+gem 'multi_json'
+gem 'activesupport'
+gem 'rspec'
+gem 'pry'

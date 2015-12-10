@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'tapp'
+gem 'activemodel'
+gem 'activesupport'

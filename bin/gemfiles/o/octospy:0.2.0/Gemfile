@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'cinch'
+gem 'octokit'
+gem 'string-irc'
+gem 'sawyer'
+gem 'dotenv'

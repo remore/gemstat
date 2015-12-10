@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
+gem 'faker'
+gem 'webmock'
+gem 'activesupport'

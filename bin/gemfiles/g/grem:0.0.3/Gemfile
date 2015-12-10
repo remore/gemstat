@@ -1,0 +1,4 @@
+gem 'launchy'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

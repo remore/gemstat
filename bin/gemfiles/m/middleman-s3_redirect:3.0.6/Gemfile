@@ -1,0 +1,4 @@
+gem 'middleman-core'
+gem 'fog'
+gem 'parallel'
+gem 'rake'

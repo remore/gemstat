@@ -1,0 +1,4 @@
+gem 'get_process_mem'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

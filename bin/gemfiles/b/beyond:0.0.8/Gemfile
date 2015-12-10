@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'plugman'
+gem 'paperclip'
+gem 'haml-rails'
+gem 'devise'
+gem 'figaro'
+gem 'sqlite3'

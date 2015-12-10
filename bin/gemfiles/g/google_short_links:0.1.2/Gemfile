@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'multi_json'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'
+gem 'rspec'
+gem 'timecop'

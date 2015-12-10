@@ -1,0 +1,5 @@
+gem 'uglifier'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'

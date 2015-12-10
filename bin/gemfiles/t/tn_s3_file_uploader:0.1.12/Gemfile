@@ -1,0 +1,2 @@
+gem 'honeybadger'
+gem 'aws-sdk'

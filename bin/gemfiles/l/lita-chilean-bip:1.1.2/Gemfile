@@ -1,0 +1,8 @@
+gem 'lita'
+gem 'bundler'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda'
+gem 'simplecov'
+gem 'coveralls'

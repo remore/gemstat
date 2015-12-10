@@ -1,0 +1,7 @@
+gem 'mharris_ext'
+gem 'rfusefs'
+gem 'json'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

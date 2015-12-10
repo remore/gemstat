@@ -1,0 +1,5 @@
+gem 'public_suffix'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

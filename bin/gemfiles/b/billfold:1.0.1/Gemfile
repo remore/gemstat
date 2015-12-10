@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bundler'
+gem 'mocha'
+gem 'rake'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'factory_girl'

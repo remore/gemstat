@@ -1,0 +1,6 @@
+gem 'drumherum'
+gem 'kyanite'
+gem 'highline'
+gem 'rdoc'
+gem 'yard_klippstein_template'
+gem 'hoe'

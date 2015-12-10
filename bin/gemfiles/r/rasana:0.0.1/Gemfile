@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'thor'
+gem 'hashie'
+gem 'pry'
+gem 'rubocop'

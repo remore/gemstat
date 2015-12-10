@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'escher'
+gem 'rspec'
+gem 'dotenv'

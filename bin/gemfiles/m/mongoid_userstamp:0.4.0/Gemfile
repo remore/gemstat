@@ -1,0 +1,6 @@
+gem 'mongoid'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'gem-release'
+gem 'request_store'

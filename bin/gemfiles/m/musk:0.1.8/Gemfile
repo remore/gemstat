@@ -1,0 +1,2 @@
+gem 'gli'
+gem 'taglib-ruby'

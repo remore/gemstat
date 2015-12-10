@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'haml'
+gem 'rr'
+gem 'rspec'
+gem 'activesupport'
+gem 'simplecov'
+gem 'jeweler'

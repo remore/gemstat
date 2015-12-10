@@ -1,0 +1,5 @@
+gem 'cbor-diag'
+gem 'abnc'
+gem 'json'
+gem 'regexp-examples'
+gem 'colorize'

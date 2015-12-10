@@ -1,0 +1,5 @@
+gem 'activemodel'
+gem 'virtus'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

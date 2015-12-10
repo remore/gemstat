@@ -1,0 +1,4 @@
+gem 'growl'
+gem 'choice'
+gem 'rspec'
+gem 'pamela'

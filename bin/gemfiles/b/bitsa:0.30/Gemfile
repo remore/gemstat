@@ -1,0 +1,7 @@
+gem 'trollop'
+gem 'gdata_19'
+gem 'bundler'
+gem 'rspec'
+gem 'fakeweb'
+gem 'simplecov'
+gem 'rake'

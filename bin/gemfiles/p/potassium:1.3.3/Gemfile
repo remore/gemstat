@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'gli'
+gem 'rails'
+gem 'inquirer'
+gem 'gems'
+gem 'semantic'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rack'
+gem 'sprockets'
+gem 'coffee-script'
+gem 'haml'
+gem 'sass'
+gem 'less'

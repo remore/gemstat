@@ -1,0 +1,8 @@
+gem 'easy_diff'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'database_cleaner'

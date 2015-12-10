@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'awesome_print'
+gem 'nanoc'
+gem 'sass'
+gem 'RedCloth'
+gem 'yard'
+gem 'redcarpet'

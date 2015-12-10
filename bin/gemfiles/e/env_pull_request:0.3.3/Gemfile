@@ -1,0 +1,4 @@
+gem 'natural_number_string'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'nokogiri'
+gem 'language_tool'
+gem 'bundler'
+gem 'rake'

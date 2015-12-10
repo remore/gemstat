@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'datamapper'
+gem 'do_sqlite3'
+gem 'activesupport'

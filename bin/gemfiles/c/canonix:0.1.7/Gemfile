@@ -1,0 +1,6 @@
+gem 'canonix'
+gem 'thoughtbot-shoulda'
+gem 'rake'
+gem 'rdoc'
+gem 'jeweler'
+gem 'thoughtbot-shoulda'

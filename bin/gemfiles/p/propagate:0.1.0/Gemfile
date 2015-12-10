@@ -1,0 +1,4 @@
+gem 'mocha'
+gem 'rake'
+gem 'activesupport'
+gem 'i18n'

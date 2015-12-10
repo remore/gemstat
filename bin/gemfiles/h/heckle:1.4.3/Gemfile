@@ -1,0 +1,4 @@
+gem 'ParseTree'
+gem 'ruby2ruby'
+gem 'ZenTest'
+gem 'hoe'

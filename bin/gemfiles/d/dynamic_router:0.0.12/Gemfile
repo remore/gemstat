@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'codeclimate-test-reporter'
+gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'pushpop'
+gem 'http'
+gem 'multi_json'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'cucumber'
+gem 'mocha'
+gem 'simplecov'
+gem 'rdoc'

@@ -1,0 +1,7 @@
+gem 'rfc-ws-client'
+gem 'cbor-simple'
+gem 'uuidtools'
+gem 'minitest'
+gem 'minitest-emoji'
+gem 'bundler'
+gem 'rake'

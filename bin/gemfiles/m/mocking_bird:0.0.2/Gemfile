@@ -1,0 +1,3 @@
+gem 'json_api_client_mock'
+gem 'bundler'
+gem 'rake'

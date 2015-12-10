@@ -1,0 +1,5 @@
+gem 'ripl'
+gem 'bacon'
+gem 'bacon-bits'
+gem 'bacon-rr'
+gem 'rr'

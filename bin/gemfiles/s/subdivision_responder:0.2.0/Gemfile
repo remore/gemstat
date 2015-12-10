@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'json'
+gem 'countries'
+gem 'jeweler'
+gem 'rspec'
+gem 'rack-test'

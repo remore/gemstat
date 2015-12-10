@@ -1,0 +1,5 @@
+gem 'marc'
+gem 'zoom'
+gem 'unicode'
+gem 'highline'
+gem 'term-ansicolor'

@@ -1,0 +1,4 @@
+gem 'sax-machine'
+gem 'nokogiri'
+gem 'rr'
+gem 'shoulda'

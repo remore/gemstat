@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'globalize'
+gem 'awesome_nested_set'
+gem 'sqlite3'

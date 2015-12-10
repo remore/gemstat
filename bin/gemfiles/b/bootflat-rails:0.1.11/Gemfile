@@ -1,0 +1,4 @@
+gem 'sass-rails'
+gem 'sass'
+gem 'jquery-rails'
+gem 'bootstrap-sass'

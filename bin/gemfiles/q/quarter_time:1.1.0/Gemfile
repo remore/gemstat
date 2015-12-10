@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'jeweler'
+gem 'shoulda'
+gem 'thoughtbot-shoulda'

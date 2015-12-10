@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rubigen'
+gem 'hoe'
+gem 'RedCloth'
+gem 'syntax'
+gem 'cucumber'
+gem 'hoe'

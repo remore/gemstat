@@ -1,0 +1,6 @@
+gem 'cuba'
+gem 'clap'
+gem 'unicorn'
+gem 'listen'
+gem 'bundler'
+gem 'rake'

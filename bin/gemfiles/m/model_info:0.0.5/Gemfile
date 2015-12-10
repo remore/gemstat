@@ -1,0 +1,2 @@
+gem 'bootstrap'
+gem 'kaminari'

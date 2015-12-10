@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'codeclimate-test-reporter'
+gem 'guard'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'

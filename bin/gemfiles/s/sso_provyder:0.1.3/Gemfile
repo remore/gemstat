@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'omniauth'
+gem 'authentifyd'
+gem 'mysql2'
+gem 'rspec-rails'

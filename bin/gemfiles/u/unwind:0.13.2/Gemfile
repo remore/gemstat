@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'
+gem 'addressable'

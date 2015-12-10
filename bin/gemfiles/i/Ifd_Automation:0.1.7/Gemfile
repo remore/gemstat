@@ -1,0 +1,4 @@
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'chunky_png'
+gem 'appium_lib'

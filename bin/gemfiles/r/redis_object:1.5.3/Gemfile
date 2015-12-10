@@ -1,0 +1,5 @@
+gem 'utf8_utils'
+gem 'redis'
+gem 'yajl-ruby'
+gem 'activesupport'
+gem 'psych'

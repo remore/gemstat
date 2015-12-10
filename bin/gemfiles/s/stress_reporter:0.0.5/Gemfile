@@ -1,0 +1,5 @@
+gem 'sys-cpu'
+gem 'SystemTimer'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

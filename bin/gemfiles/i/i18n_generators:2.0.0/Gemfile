@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'rails'
+gem 'test-unit'
+gem 'test-unit-rr'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'parse_gemspec'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

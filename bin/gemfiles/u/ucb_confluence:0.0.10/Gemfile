@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'ucb_ldap'
+gem 'rspec'
+gem 'rcov'
+gem 'diff-lcs'
+gem 'ruby-debug'

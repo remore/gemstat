@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'shuffle'
+gem 'rinruby'
+gem 'rroc'

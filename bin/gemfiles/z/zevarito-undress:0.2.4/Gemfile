@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'sr-mg'
+gem 'contest'
+gem 'redgreen'

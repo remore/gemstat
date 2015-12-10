@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rack'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'hashie'
+gem 'activesupport'

@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'builder'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'

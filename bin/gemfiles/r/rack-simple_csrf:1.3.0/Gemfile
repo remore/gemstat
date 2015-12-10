@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'envygeeks-coveralls'
+gem 'luna-rspec-formatters'
+gem 'rspec'

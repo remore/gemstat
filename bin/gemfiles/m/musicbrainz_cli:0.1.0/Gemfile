@@ -1,0 +1,5 @@
+gem 'active_musicbrainz'
+gem 'ripl'
+gem 'bundler'
+gem 'pg'
+gem 'rake'

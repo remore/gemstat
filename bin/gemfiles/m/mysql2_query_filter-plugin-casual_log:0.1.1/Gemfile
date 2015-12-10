@@ -1,0 +1,6 @@
+gem 'mysql2_query_filter'
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

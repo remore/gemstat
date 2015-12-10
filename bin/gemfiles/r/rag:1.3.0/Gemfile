@@ -1,0 +1,6 @@
+gem 'pd'
+gem 'tagen'
+gem 'pa'
+gem 'optimism'
+gem 'thor'
+gem 'tilt'

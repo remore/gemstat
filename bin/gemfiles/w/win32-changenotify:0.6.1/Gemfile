@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'win32-event'
+gem 'test-unit'
+gem 'rake'

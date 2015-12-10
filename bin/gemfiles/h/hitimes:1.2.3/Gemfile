@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'rdoc'
+gem 'json'
+gem 'rake-compiler'
+gem 'simplecov'

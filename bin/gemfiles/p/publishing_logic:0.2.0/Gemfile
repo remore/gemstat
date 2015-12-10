@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'rspec-rails'
+gem 'factory_girl'
+gem 'activesupport'
+gem 'activerecord'
+gem 'database_cleaner'

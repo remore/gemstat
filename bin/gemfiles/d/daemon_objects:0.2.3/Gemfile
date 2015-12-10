@@ -1,0 +1,7 @@
+gem 'daemons'
+gem 'activesupport'
+gem 'bunny'
+gem 'rake'
+gem 'rspec'
+gem 'pry-nav'
+gem 'memory_logger'

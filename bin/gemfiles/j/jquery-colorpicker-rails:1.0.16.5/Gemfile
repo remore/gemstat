@@ -1,0 +1,2 @@
+gem 'jquery-ui-rails'
+gem 'rails'

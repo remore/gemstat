@@ -1,0 +1,6 @@
+gem 'beep'
+gem 'trollop'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

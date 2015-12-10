@@ -1,0 +1,5 @@
+gem 'json'
+gem 'net-http-persistent'
+gem 'selenium-webdriver'
+gem 'rspec'
+gem 'rake'

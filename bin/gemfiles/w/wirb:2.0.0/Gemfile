@@ -1,0 +1,4 @@
+gem 'paint'
+gem 'rspec'
+gem 'rake'
+gem 'ruby_engine'

@@ -1,0 +1,4 @@
+gem 'gist'
+gem 'rubymeetup'
+gem 'parse-ruby-client'
+gem 'json'

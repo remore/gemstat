@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'http_magic'
+gem 'dotenv'
+gem 'minitest'

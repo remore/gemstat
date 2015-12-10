@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'virtus'
+gem 'pg'
+gem 'rspec'
+gem 'database_cleaner'

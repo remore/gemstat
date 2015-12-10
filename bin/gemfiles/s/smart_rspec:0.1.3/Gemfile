@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'rspec-collection_matchers'
+gem 'bundler'
+gem 'faker'
+gem 'rake'
+gem 'rspec'

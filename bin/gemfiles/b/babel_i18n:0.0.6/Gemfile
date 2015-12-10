@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'oj'
+gem 'rspec'
+gem 'dotenv'

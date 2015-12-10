@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'addressable'
+gem 'hashie'
+gem 'yajl-ruby'
+gem 'uuid'

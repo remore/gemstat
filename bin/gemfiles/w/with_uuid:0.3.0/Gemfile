@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'uuidtools'
+gem 'activerecord'
+gem 'activesupport'

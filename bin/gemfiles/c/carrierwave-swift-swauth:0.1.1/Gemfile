@@ -1,0 +1,4 @@
+gem 'dropmyemail-openstack'
+gem 'carrierwave'
+gem 'rspec'
+gem 'shoulda'

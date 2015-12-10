@@ -1,0 +1,4 @@
+gem 'thrift'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

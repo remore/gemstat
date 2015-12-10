@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'highline'
+gem 'googlecalendar'
+gem 'newgem'
+gem 'hoe'

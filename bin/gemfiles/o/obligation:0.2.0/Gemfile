@@ -1,0 +1,2 @@
+gem 'concurrent-ruby'
+gem 'bundler'

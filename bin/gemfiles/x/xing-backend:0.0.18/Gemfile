@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'active_model_serializers'
+gem 'i18n'
+gem 'xing_backend_token_auth'
+gem 'rails-rfc6570'
+gem 'typhoeus'
+gem 'sidekiq'

@@ -1,0 +1,5 @@
+gem 'sidekiq'
+gem 'tire'
+gem 'yajl-ruby'
+gem 'bundler'
+gem 'rake'

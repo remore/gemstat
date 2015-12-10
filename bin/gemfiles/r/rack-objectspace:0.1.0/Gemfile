@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'yajl-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'moneta'

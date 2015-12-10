@@ -1,0 +1,4 @@
+gem 'ruport'
+gem 'json'
+gem 'vcr'
+gem 'webmock'

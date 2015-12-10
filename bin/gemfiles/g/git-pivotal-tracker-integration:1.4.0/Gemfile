@@ -1,0 +1,8 @@
+gem 'highline'
+gem 'pivotal-tracker'
+gem 'bundler'
+gem 'rake'
+gem 'redcarpet'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

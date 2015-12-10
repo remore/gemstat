@@ -1,0 +1,6 @@
+gem 'virtus'
+gem 'pry'
+gem 'rake'
+gem 'mocha'
+gem 'simplecov'
+gem 'forgery'

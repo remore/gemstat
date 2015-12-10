@@ -1,0 +1,5 @@
+gem 'gli'
+gem 'usergrid_iron'
+gem 'json'
+gem 'bundler'
+gem 'rake'

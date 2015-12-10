@@ -1,0 +1,8 @@
+gem 'genomer'
+gem 'heredoc_unindent'
+gem 'rake'
+gem 'rspec'
+gem 'scaffolder-test-helpers'
+gem 'cucumber'
+gem 'aruba'
+gem 'rr'

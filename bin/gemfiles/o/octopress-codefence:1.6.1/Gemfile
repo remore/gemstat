@@ -1,0 +1,8 @@
+gem 'octopress-code-highlighter'
+gem 'octopress-hooks'
+gem 'octopress'
+gem 'jekyll'
+gem 'clash'
+gem 'rake'
+gem 'rouge'
+gem 'octopress-solarized'

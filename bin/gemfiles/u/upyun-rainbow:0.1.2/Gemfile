@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'configatron'
+gem 'domainatrix'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'bundler'
+gem 'capistrano'
+gem 'rake'
+gem 'rspec'
+gem 'redis'

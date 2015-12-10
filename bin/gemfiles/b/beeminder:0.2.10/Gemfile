@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'chronic'
+gem 'json'
+gem 'highline'
+gem 'trollop'
+gem 'tzinfo'

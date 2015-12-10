@@ -1,0 +1,6 @@
+gem 'activeresource-response'
+gem 'bundler'
+gem 'rake'
+gem 'rack'
+gem 'rspec'
+gem 'webmock'

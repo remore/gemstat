@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'net/http'
+gem 'json'
+gem 'uri'

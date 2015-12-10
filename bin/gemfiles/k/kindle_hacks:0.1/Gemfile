@@ -1,0 +1,3 @@
+gem 'archive-tar-minitar'
+gem 'echoe'
+gem 'flexmock'

@@ -1,0 +1,4 @@
+gem 'rubby'
+gem 'guard'
+gem 'rake'
+gem 'rspec'

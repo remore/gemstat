@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'addressable'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'jeweler'
+gem 'tilt'
+gem 'fssm'
+gem 'tilt'
+gem 'jsmin'

@@ -1,0 +1,7 @@
+gem 'savon'
+gem 'nokogiri'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'i18n'
+gem 'activesupport'

@@ -1,0 +1,6 @@
+gem 'health-data-standards'
+gem 'hqmf-parser'
+gem 'mongoid'
+gem 'uuid'
+gem 'nokogiri'
+gem 'log4r'

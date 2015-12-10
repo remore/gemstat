@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'cucumber'
+gem 'rspec'
+gem 'coveralls'
+gem 'bundler'

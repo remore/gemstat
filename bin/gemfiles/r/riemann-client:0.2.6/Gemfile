@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'bacon'
+gem 'beefcake'
+gem 'trollop'
+gem 'mtrc'

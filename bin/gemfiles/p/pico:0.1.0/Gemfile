@@ -1,0 +1,8 @@
+gem 'ruse'
+gem 'bundler'
+gem 'colorize'
+gem 'fakefs'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'pry'
+gem 'rake'

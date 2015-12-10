@@ -1,0 +1,4 @@
+gem 'cucumber'
+gem 'capybara'
+gem 'rspec'
+gem 'capybara-firebug'

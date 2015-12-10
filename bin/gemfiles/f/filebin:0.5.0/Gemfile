@@ -1,0 +1,4 @@
+gem 'httpclient'
+gem 'hpricot'
+gem 'httpclient'
+gem 'urlshort'

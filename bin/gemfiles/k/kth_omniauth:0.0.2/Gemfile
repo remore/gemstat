@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'hashie'
+gem 'simplecov'
+gem 'rack-test'
+gem 'rake'
+gem 'rdiscount'
+gem 'rspec'
+gem 'yard'

@@ -1,0 +1,4 @@
+gem 'riot'
+gem 'builder'
+gem 'rack'
+gem 'RedCloth'

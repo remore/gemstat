@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rake'
+gem 'json'
+gem 'maruku'
+gem 'jquery-rails'

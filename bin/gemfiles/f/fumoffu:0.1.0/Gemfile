@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'jruby-openssl'
+gem 'ruby-debug'
+gem 'jeweler'
+gem 'shoulda'

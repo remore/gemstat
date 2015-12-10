@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'trollop'
+gem 'psych'
+gem 'formatador'

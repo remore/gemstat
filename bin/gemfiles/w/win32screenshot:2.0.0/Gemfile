@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'mini_magick'
+gem 'rautomation'
+gem 'rspec'
+gem 'yard'
+gem 'rake'

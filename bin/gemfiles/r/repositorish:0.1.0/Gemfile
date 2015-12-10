@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'byebug'
+gem 'codeclimate-test-reporter'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'sqlite3'

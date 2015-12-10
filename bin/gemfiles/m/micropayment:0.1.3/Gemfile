@@ -1,0 +1,7 @@
+gem 'addressable'
+gem 'yajl-ruby'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

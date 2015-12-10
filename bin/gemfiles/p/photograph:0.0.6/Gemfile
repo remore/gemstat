@@ -1,0 +1,4 @@
+gem 'poltergeist'
+gem 'mini_magick'
+gem 'rspec'
+gem 'rake'

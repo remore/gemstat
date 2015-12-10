@@ -1,0 +1,7 @@
+gem 'guard'
+gem 'resque'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'

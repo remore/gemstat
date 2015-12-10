@@ -1,0 +1,4 @@
+gem 'bunny'
+gem 'settingslogic'
+gem 'msgpack'
+gem 'thor'

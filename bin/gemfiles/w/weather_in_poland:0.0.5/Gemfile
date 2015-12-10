@@ -1,0 +1,2 @@
+gem 'yahoo-weather'
+gem 'mechanize'

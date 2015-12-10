@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'rspec-legacy_formatters'

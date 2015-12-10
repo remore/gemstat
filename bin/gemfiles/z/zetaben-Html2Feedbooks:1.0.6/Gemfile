@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'htmlentities'
+gem 'launchy'
+gem 'progressbar'

@@ -1,0 +1,6 @@
+gem 'slop'
+gem 'inifile'
+gem 'ruby-ole'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

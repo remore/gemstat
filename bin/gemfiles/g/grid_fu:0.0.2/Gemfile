@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'
+gem 'rspec-html-matchers'

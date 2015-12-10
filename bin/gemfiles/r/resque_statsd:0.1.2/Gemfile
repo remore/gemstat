@@ -1,0 +1,5 @@
+gem 'statsd'
+gem 'resque'
+gem 'rspec'
+gem 'rake'
+gem 'bundler'

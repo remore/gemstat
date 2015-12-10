@@ -1,0 +1,2 @@
+gem 'My-Commerce_core'
+gem 'My-Commerce_auth'

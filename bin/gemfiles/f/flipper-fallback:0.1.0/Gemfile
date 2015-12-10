@@ -1,0 +1,5 @@
+gem 'flipper'
+gem 'bundler'
+gem 'rake'
+gem 'flipper-redis'
+gem 'rspec'

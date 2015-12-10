@@ -1,0 +1,2 @@
+gem 'em-websocket'
+gem 'opal'

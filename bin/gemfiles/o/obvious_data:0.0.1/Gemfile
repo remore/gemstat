@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'pg'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'colorize'
+gem 'pry'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'jeweler'

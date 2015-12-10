@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'faye'
+gem 'faye-authentication'
+gem 'bunny'
+gem 'daemons'
+gem 'trickery'

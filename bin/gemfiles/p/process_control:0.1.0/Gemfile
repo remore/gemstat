@@ -1,0 +1,4 @@
+gem 'platform_helpers'
+gem 'wait_for'
+gem 'process_mgt'
+gem 'hoe'

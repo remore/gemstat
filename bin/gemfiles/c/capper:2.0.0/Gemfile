@@ -1,0 +1,5 @@
+gem 'erubis'
+gem 'dedent'
+gem 'capistrano'
+gem 'capistrano_colors'
+gem 'rvm-capistrano'

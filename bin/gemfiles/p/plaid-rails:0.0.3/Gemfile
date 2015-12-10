@@ -1,0 +1,4 @@
+gem 'plaid'
+gem 'rack'
+gem 'rest-client'
+gem 'jeweler'

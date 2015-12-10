@@ -1,0 +1,7 @@
+gem 'selenium-webdriver'
+gem 'choice'
+gem 'spinning_cursor'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

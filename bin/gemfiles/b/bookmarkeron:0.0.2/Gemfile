@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'fakefs'
+gem 'rspec'
+gem 'awesome_print'

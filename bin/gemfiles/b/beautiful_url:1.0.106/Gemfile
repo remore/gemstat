@@ -1,0 +1,4 @@
+gem 'colour_aid'
+gem 'save_file'
+gem 'collect_first_word_of_case_menu'
+gem 'try_syck'

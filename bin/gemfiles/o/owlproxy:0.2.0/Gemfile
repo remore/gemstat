@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'
+gem 'settingslogic'
+gem 'rest-client'
+gem 'twitter'

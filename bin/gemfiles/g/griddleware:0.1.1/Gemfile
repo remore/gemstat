@@ -1,0 +1,2 @@
+gem 'griddle'
+gem 'thoughtbot-shoulda'

@@ -1,0 +1,5 @@
+gem 'citibikenyc'
+gem 'json'
+gem 'addressable'
+gem 'rest-client'
+gem 'geocoder'

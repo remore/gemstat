@@ -1,0 +1,2 @@
+gem 'simple_json_api'
+gem 'rails'

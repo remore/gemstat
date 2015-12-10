@@ -1,0 +1,6 @@
+gem 'geo_point'
+gem 'geo_units'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

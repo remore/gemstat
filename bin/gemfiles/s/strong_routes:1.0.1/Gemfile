@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'actionpack'
+gem 'bundler'
+gem 'pry-nav'
+gem 'rack-test'
+gem 'rake'
+gem 'simplecov'

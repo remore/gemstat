@@ -1,0 +1,2 @@
+gem 'authlogic'
+gem 'josevalim-inherited_resources'

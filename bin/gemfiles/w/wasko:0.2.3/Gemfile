@@ -1,0 +1,5 @@
+gem 'color'
+gem 'thor'
+gem 'rake'
+gem 'shoulda'
+gem 'mocha'

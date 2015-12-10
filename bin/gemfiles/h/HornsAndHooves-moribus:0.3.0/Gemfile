@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'power_enum'
+gem 'yard'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'

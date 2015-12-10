@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'jquery-validation-rails'
+gem 'jquery_autocomplete_rails'
+gem 'bourbon'
+gem 'neat'
+gem 'slim'

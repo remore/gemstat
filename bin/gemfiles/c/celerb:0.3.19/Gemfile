@@ -1,0 +1,4 @@
+gem 'amqp'
+gem 'msgpack'
+gem 'rdoc'
+gem 'hoe'

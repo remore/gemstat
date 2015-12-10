@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'geoip'
+gem 'lru_redux'
+gem 'logstash-devutils'

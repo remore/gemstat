@@ -1,0 +1,4 @@
+gem 'methodize'
+gem 'rspec'
+gem 'mocha'
+gem 'fakeweb'

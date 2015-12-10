@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'bump'
+gem 'rake'
+gem 'rspec'

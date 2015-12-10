@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'voight_kampff'
+gem 'activerecord'
+gem 'combustion'
+gem 'rspec-its'
+gem 'rspec-rails'
+gem 'sqlite3'

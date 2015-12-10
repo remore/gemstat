@@ -1,0 +1,7 @@
+gem 'mogli'
+gem 'ruby-hmac'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rails'
+gem 'json'

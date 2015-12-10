@@ -1,0 +1,6 @@
+gem 'grit'
+gem 'xmpp4r'
+gem 'curb'
+gem 'activesupport'
+gem 'rspec'
+gem 'mocha'

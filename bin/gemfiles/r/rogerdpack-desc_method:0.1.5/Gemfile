@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'require_all'
+gem 'rogerdpack-arguments'
+gem 'rogerdpack-sane'
+gem 'ParseTree'
+gem 'ruby2ruby'

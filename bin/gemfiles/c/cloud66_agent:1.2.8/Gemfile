@@ -1,0 +1,7 @@
+gem 'mime-types'
+gem 'httparty'
+gem 'backup'
+gem 'net-ssh'
+gem 'excon'
+gem 'fog'
+gem 'json'

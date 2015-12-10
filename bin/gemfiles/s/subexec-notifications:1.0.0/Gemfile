@@ -1,0 +1,7 @@
+gem 'subexec'
+gem 'activesupport'
+gem 'appraisal'
+gem 'bundler'
+gem 'minitest'
+gem 'guard-minitest'
+gem 'rake'

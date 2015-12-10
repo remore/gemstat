@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rb-inotify'
+gem 'em-http-request'
+gem 'webmock'

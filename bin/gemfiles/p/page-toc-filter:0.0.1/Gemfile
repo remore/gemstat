@@ -1,0 +1,5 @@
+gem 'html-pipeline'
+gem 'nokogiri'
+gem 'rake'
+gem 'minitest'
+gem 'github-markdown'

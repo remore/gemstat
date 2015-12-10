@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'sqlite3'
+gem 'nokogiri'
+gem 'activerecord'

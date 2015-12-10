@@ -1,0 +1,7 @@
+gem 'json'
+gem 'popen4'
+gem 'ecology'
+gem 'faraday'
+gem 'rake'
+gem 'scope'
+gem 'simplecov'

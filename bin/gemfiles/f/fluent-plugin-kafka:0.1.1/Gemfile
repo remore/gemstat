@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'poseidon_cluster'
+gem 'ltsv'
+gem 'yajl-ruby'
+gem 'msgpack'
+gem 'zookeeper'

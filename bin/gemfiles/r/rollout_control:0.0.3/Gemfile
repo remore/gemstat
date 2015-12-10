@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rollout'
+gem 'fakeredis'
+gem 'pry'

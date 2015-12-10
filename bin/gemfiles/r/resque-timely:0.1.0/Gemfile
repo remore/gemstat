@@ -1,0 +1,4 @@
+gem 'resque'
+gem 'json'
+gem 'bundler'
+gem 'rake'

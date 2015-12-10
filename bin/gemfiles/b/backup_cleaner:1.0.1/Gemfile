@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'trollop'
+gem 'i18n'
+gem 'thoughtbot-shoulda'

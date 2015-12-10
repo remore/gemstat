@@ -1,0 +1,3 @@
+gem 'activesupport'
+gem 'activeresource'
+gem 'json'

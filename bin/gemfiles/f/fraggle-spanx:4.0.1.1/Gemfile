@@ -1,0 +1,5 @@
+gem 'beefcake-spanx'
+gem 'eventmachine'
+gem 'turn'
+gem 'statsample'
+gem 'rake'

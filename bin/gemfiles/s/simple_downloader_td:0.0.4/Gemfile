@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'td'
+gem 'td-client'
+gem 'msgpack'

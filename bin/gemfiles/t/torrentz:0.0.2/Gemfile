@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'nokogiri'
+gem 'addressable'
+gem 'text'
+gem 'typhoeus'
+gem 'torrent-ruby'

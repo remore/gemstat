@@ -1,0 +1,8 @@
+gem 'funtimes'
+gem 'i18n'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'pry'
+gem 'awesome_print'

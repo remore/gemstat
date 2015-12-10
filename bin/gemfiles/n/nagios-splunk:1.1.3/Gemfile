@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'mixlib-cli'
+gem 'minitest'
+gem 'rake'

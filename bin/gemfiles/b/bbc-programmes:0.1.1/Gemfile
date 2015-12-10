@@ -1,0 +1,5 @@
+gem 'rdf'
+gem 'rdf-raptor'
+gem 'spira'
+gem 'rspec'
+gem 'yard'

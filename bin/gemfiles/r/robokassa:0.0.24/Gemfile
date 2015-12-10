@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rake'
+gem 'thor'
+gem 'shoulda'
+gem 'bundler'
+gem 'combustion'
+gem 'sqlite3'

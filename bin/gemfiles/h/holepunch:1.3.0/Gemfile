@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'aws-sdk'
+gem 'rake'
+gem 'rspec'

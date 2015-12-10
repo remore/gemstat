@@ -1,0 +1,6 @@
+gem 'text-hyphen'
+gem 'htmlentities'
+gem 'test-unit'
+gem 'simplecov'
+gem 'yard'
+gem 'rubygems-tasks'

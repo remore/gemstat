@@ -1,0 +1,5 @@
+gem 'rubyserial'
+gem 'eventmachine'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

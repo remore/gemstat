@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'ruby-dart2js'
+gem 'sprockets-rails'
+gem 'sprockets'

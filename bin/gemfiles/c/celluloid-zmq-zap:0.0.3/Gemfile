@@ -1,0 +1,2 @@
+gem 'celluloid-zmq'
+gem 'bundler'

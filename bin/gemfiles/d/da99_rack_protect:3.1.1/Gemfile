@@ -1,0 +1,7 @@
+gem 'rack-protection'
+gem 'pry'
+gem 'bundler'
+gem 'bacon'
+gem 'Bacon_Colored'
+gem 'cuba'
+gem 'thin'

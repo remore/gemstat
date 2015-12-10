@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'eletro'
+gem 'multipart-post'
+gem 'sinatra'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

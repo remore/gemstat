@@ -1,0 +1,7 @@
+gem 'slop'
+gem 'httpclient'
+gem 'builder'
+gem 'confstruct'
+gem 'yard'
+gem 'redcarpet'
+gem 'rake'

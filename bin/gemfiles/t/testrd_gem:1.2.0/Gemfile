@@ -1,0 +1,6 @@
+gem 'databasedotcom'
+gem 'pg'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

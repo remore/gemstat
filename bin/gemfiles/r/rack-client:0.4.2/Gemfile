@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'excon'
+gem 'em-http-request'
+gem 'typhoeus'
+gem 'json'
+gem 'faraday'

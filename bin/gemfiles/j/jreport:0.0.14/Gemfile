@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'thor'
+gem 'mail'
+gem 'premailer'
+gem 'erubis'
+gem 'activerecord'

@@ -1,0 +1,7 @@
+gem 'liquid'
+gem 'tilt'
+gem 'execjs'
+gem 'sprockets'
+gem 'actionpack'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'json_pure'
+gem 'rspec'
+gem 'fakefs'

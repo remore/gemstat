@@ -1,0 +1,2 @@
+gem 'ean13'
+gem 'upc'

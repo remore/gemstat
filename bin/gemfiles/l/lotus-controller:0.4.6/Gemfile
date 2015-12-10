@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'lotus-utils'
+gem 'lotus-validations'
+gem 'bundler'
+gem 'minitest'
+gem 'rack-test'
+gem 'rake'

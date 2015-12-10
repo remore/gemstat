@@ -1,0 +1,5 @@
+gem 'sunspot'
+gem 'mongoid'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rspec-rails'

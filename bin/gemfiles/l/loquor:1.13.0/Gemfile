@@ -1,0 +1,7 @@
+gem 'filum'
+gem 'rest-client'
+gem 'api-auth'
+gem 'bundler'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'

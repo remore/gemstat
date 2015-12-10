@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'css_parser'
+gem 'mustache'
+gem 'hpricot'

@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'delayed_job_unique_key'
+gem 'rspec'
+gem 'rake'
+gem 'sqlite3'

@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'
+gem 'yard'

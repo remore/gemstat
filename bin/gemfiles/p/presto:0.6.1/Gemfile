@@ -1,0 +1,5 @@
+gem 'veto'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'mini_magick'

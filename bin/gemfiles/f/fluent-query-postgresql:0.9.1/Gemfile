@@ -1,0 +1,6 @@
+gem 'fluent-query-dbi'
+gem 'fluent-query-sql'
+gem 'fluent-query'
+gem 'dbd-pg'
+gem 'bundler'
+gem 'jeweler'

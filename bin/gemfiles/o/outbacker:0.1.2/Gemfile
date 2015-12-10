@@ -1,0 +1,7 @@
+gem 'configurations'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'm'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

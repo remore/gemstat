@@ -1,0 +1,5 @@
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'
+gem 'rfusefs'
+gem 'rindle'

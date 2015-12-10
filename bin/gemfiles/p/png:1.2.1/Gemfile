@@ -1,0 +1,4 @@
+gem 'RubyInline'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

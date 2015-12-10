@@ -1,0 +1,4 @@
+gem 'opal'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

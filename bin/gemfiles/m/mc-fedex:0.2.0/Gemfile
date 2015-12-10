@@ -1,0 +1,7 @@
+gem 'soap4r'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-debug'
+gem 'soap4r'

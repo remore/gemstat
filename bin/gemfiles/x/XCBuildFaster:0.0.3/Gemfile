@@ -1,0 +1,6 @@
+gem 'xcodeproj'
+gem 'libxml-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-nc'

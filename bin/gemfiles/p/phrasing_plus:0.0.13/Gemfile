@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'phrasing'
+gem 'carrierwave'
+gem 'sqlite3'
+gem 'pry-rails'
+gem 'rspec-rails'

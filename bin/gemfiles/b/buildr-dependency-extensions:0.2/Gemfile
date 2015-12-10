@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'buildr'
+gem 'xml-simple'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'rspec-core'
+gem 'rspec'

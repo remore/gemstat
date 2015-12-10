@@ -1,0 +1,5 @@
+gem 'linguistics'
+gem 'aws-s3'
+gem 'rmagick'
+gem 'exifr'
+gem 'mail'

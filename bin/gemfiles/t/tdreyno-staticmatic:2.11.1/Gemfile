@@ -1,0 +1,6 @@
+gem 'templater'
+gem 'merb-core'
+gem 'merb-helpers'
+gem 'haml'
+gem 'merb-haml'
+gem 'merb-assets'

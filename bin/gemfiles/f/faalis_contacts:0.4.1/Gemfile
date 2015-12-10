@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'jquery-rails'
+gem 'uglifier'
+gem 'sass-rails'
+gem 'jbuilder'
+gem 'globalize'

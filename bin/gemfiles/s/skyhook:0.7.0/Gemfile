@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'dotenv'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'pry'
+gem 'faraday'
+gem 'activesupport'

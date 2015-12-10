@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'thor'
+gem 'activesupport'
+gem 'i18n'
+gem 'uuid'
+gem 'watchr'
+gem 'open4'
+gem 'awesome_print'

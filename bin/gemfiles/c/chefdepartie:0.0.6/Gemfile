@@ -1,0 +1,7 @@
+gem 'chef'
+gem 'chef-zero'
+gem 'librarian-chef'
+gem 'cityhash'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'

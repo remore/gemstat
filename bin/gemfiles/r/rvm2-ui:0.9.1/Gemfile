@@ -1,0 +1,7 @@
+gem 'pluginator'
+gem 'rake'
+gem 'minitest'
+gem 'simplecov'
+gem 'coveralls'
+gem 'guard'
+gem 'guard-minitest'

@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'json'
+gem 'rest-client'
+gem 'jakal'
+gem 'em-http-request'
+gem 'test-unit'
+gem 'shoulda'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'faraday'
+gem 'rake'
+gem 'rspec'
+gem 'yajl-ruby'
+gem 'webmock'
+gem 'fabrication'
+gem 'yard'

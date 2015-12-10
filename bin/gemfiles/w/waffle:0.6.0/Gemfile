@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'multi_json'
+gem 'pry'
+gem 'bunny'
+gem 'hiredis'
+gem 'redis'
+gem 'rspec'

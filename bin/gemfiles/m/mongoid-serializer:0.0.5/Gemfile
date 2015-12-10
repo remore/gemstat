@@ -1,0 +1,4 @@
+gem 'mongoid'
+gem 'active_model-shaz'
+gem 'bundler'
+gem 'rake'

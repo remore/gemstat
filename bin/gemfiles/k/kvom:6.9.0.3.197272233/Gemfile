@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'activesupport'
+gem 'activemodel'
+gem 'rake'
+gem 'rspec'
+gem 'helpful_configuration'
+gem 'yajl-ruby'

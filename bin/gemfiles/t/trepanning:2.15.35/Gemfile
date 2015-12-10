@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'columnize'
+gem 'coderay'
+gem 'term-ansicolor'
+gem 'diff-lcs'

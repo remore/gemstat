@@ -1,0 +1,4 @@
+gem 'tap'
+gem 'hpricot'
+gem 'capistrano'
+gem 'highline'

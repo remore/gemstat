@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'factory_girl'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'ancestry'
+gem 'carrierwave'
+gem 'rubyzip'
+gem 'paper_trail'

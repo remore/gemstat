@@ -1,0 +1,5 @@
+gem 'flexmock'
+gem 'rake'
+gem 'rubocop'
+gem 'test-unit'
+gem 'byebug'

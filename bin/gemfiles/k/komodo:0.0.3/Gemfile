@@ -1,0 +1,2 @@
+gem 'heroku'
+gem 'delayed_job'

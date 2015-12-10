@@ -1,0 +1,8 @@
+gem 'ice_cube'
+gem 'activesupport'
+gem 'i18n'
+gem 'trollop'
+gem 'rspec'
+gem 'timecop'
+gem 'pry'
+gem 'pry-doc'

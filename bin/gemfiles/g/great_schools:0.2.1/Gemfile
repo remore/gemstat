@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'
+gem 'httparty'

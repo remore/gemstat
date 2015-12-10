@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'fluentd'
+gem 'mongo'
+gem 'bson_ext'

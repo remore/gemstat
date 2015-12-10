@@ -1,0 +1,8 @@
+gem 'fileutils'
+gem 'json'
+gem 'oauth'
+gem 'ruby-progressbar'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

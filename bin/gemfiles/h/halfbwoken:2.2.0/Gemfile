@@ -1,0 +1,8 @@
+gem 'coffee-script-source'
+gem 'colorful'
+gem 'execjs'
+gem 'json_pure'
+gem 'rake'
+gem 'slop'
+gem 'rspec'
+gem 'guard-rspec'

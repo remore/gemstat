@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'timecop'
+gem 'factory_girl_rails'
+gem 'codeclimate-test-reporter'

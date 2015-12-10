@@ -1,0 +1,2 @@
+gem 'tomdz-soap4r'
+gem 'thoughtbot-shoulda'

@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'rmagick'
+gem 'svg_optimizer'
+gem 'image_optim'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,4 @@
+gem 'listen'
+gem 'unicorn'
+gem 'bundler'
+gem 'rake'

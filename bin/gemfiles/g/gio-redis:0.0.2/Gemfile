@@ -1,0 +1,6 @@
+gem 'hiredis'
+gem 'gio2'
+gem 'bundler'
+gem 'redis'
+gem 'rake'
+gem 'gtk2'

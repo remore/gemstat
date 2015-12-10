@@ -1,0 +1,7 @@
+gem 'debugger'
+gem 'faker'
+gem 'minitest'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'activesupport'

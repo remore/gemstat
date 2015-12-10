@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'hue'
+gem 'slop'
+gem 'dotenv'
+gem 'filewatcher'

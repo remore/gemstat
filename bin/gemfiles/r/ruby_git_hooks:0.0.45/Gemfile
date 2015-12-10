@@ -1,0 +1,7 @@
+gem 'pony'
+gem 'rest-client'
+gem 'json'
+gem 'bundler'
+gem 'minitest'
+gem 'rr'
+gem 'rake'

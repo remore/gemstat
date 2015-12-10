@@ -1,0 +1,7 @@
+gem 'chaplin'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'
+gem 'guard'
+gem 'guard-shell'
+gem 'guard-bundler'

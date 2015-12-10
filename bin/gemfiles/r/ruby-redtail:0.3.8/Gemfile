@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'guard'
+gem 'guard-test'

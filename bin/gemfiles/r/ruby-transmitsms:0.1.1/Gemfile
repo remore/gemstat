@@ -1,0 +1,7 @@
+gem 'typhoeus'
+gem 'addressable'
+gem 'json'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'vcr'
+gem 'webmock'

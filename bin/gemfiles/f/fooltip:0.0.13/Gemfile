@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'globalize'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'haml'
+gem 'sass-rails'
+gem 'jquery-rails'

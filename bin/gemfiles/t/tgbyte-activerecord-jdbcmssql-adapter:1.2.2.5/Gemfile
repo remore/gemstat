@@ -1,0 +1,2 @@
+gem 'tgbyte-activerecord-jdbc-adapter'
+gem 'jdbc-jtds'

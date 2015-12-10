@@ -1,0 +1,4 @@
+gem 'jeweler'
+gem 'rspec'
+gem 'bourne'
+gem 'redis'

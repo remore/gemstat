@@ -1,0 +1,4 @@
+gem 'libxml-ruby'
+gem 'oauth'
+gem 'json'
+gem 'httparty'

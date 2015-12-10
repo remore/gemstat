@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'bing_translator'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

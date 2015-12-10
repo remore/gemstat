@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'lastfm'
+gem 'id3tag'
+gem 'configliere'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'httpclient'
+gem 'webmock'
+gem 'sinatra'

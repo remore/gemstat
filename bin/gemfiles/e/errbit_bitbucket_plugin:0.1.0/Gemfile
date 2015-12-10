@@ -1,0 +1,5 @@
+gem 'errbit_plugin'
+gem 'bitbucket_rest_api'
+gem 'faraday'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'rails'
+gem 'appraisal'
+gem 'rake'
+gem 'sqlite3'

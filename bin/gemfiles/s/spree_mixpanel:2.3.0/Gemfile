@@ -1,0 +1,6 @@
+gem 'spree_core'
+gem 'mixpanel-ruby'
+gem 'database_cleaner'
+gem 'factory_girl'
+gem 'rspec-rails'
+gem 'sqlite3'

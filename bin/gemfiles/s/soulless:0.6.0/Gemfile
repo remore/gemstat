@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'virtus'
+gem 'bundler'
+gem 'database_cleaner'
+gem 'rake'
+gem 'rspec'

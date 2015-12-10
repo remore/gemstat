@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'mail'
+gem 'gmail_xoauth'
+gem 'mail'
+gem 'gmail_xoauth'

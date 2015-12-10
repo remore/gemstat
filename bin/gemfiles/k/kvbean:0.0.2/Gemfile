@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'redis'
+gem 'sqlite3'
+gem 'activemodel'

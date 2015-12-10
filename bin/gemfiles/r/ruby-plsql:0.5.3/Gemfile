@@ -1,0 +1,6 @@
+gem 'jeweler'
+gem 'rspec'
+gem 'activerecord'
+gem 'activerecord-oracle_enhanced-adapter'
+gem 'simplecov'
+gem 'ruby-oci8'

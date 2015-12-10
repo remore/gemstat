@@ -1,0 +1,5 @@
+gem 'launchy'
+gem 'flickraw'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'rspec'
+gem 'rack'
+gem 'nokogiri'
+gem 'logger'

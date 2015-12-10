@@ -1,0 +1,2 @@
+gem 'bitstamp'
+gem 'mtgox'

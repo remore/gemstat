@@ -1,0 +1,5 @@
+gem 'iso_country_codes'
+gem 'yajl-ruby'
+gem 'i18n'
+gem 'builder'
+gem 'actionpack'

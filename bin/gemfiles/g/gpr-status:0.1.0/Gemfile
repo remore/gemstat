@@ -1,0 +1,5 @@
+gem 'gpr'
+gem 'utils_drawer'
+gem 'safe_colorize'
+gem 'bundler'
+gem 'rake'

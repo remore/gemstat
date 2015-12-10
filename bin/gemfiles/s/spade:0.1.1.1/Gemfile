@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'json_pure'
+gem 'rack'
+gem 'thor'
+gem 'childlabor'
+gem 'therubyracer'
+gem 'rspec'
+gem 'bpm'

@@ -1,0 +1,3 @@
+gem 'command-builder'
+gem 'bundler'
+gem 'jeweler'

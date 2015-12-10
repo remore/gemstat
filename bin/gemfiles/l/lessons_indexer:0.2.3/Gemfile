@@ -1,0 +1,7 @@
+gem 'slop'
+gem 'facets'
+gem 'colorize'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'
+gem 'fasterer'

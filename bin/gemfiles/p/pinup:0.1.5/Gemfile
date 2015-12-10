@@ -1,0 +1,8 @@
+gem 'colored'
+gem 'netrc'
+gem 'launchy'
+gem 'typhoeus'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'gli'

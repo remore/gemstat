@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'firering'
+gem 'logging'
+gem 'trollop'
+gem 'rake'

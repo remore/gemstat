@@ -1,0 +1,4 @@
+gem 'visionmedia-bind'
+gem 'karl-growl'
+gem 'extensions'
+gem 'win32-process'

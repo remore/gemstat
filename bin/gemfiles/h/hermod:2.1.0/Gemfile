@@ -1,0 +1,7 @@
+gem 'libxml-ruby'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'nokogiri'

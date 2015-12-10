@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'bundler'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'sqlite3-ruby'
+gem 'generator_spec'
+gem 'rake'

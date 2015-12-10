@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'curb'
+gem 'mocha'
+gem 'contest'

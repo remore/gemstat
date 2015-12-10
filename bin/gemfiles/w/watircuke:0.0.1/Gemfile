@@ -1,0 +1,4 @@
+gem 'commonwatir'
+gem 'firewatir'
+gem 'safariwatir'
+gem 'cucumber'

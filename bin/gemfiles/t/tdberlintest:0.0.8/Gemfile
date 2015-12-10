@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'sanitize'
+gem 'json'
+gem 'wolfram'
+gem 'awesome_print'
+gem 'rspec'

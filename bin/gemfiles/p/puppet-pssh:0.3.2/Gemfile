@@ -1,0 +1,7 @@
+gem 'colored'
+gem 'excon'
+gem 'net-dns'
+gem 'json'
+gem 'clamp'
+gem 'rspec'
+gem 'jeweler'

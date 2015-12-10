@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'jruby-jars'
+gem 'jruby-rack'
+gem 'rubyzip'
+gem 'rubyforge'

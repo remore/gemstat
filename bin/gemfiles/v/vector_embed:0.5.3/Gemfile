@@ -1,0 +1,4 @@
+gem 'murmurhash3'
+gem 'rspec'
+gem 'pry'
+gem 'yard'

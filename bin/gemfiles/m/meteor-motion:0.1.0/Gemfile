@@ -1,0 +1,6 @@
+gem 'bubble-wrap'
+gem 'rm-digest'
+gem 'motion_model'
+gem 'bundler'
+gem 'rake'
+gem 'motion-redgreen'

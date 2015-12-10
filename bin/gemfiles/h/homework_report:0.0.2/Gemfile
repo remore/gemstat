@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'backports'
+gem 'tilt'
+gem 'rake'
+gem 'minitest'
+gem 'haml'
+gem 'slim'
+gem 'redcarpet'

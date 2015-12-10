@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'simplecov'
+gem 'mtik'

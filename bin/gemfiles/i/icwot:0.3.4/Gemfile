@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'bundler'
+gem 'sinatra'
+gem 'thin'
+gem 'rest-client'
+gem 'json'

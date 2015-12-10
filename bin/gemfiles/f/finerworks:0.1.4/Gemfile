@@ -1,0 +1,6 @@
+gem 'json'
+gem 'hashie'
+gem 'minitest'
+gem 'webmock'
+gem 'rake'
+gem 'simplecov'

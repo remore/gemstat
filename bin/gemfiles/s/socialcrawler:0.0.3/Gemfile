@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'semantic'
+gem 'simplecov'
+gem 'simplecov-html'

@@ -1,0 +1,6 @@
+gem 'sequel'
+gem 'slim'
+gem 'sass'
+gem 'sprockets'
+gem 'sqlite3'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'libxml-ruby'
+gem 'rack'
+gem 'capybara'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'rspec_junit_formatter'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'gli'
+gem 'hacer'
+gem 'bundler'
+gem 'rake'

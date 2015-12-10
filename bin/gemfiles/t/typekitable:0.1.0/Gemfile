@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'formatador'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'logutils'
+gem 'logutils-activerecord'
+gem 'activerecord'
+gem 'sinatra'
+gem 'rdoc'
+gem 'hoe'

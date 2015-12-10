@@ -1,0 +1,2 @@
+gem 'drogus-oauth'
+gem 'json'

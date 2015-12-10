@@ -1,0 +1,2 @@
+gem 'rubyntlm'
+gem 'net-ldap'

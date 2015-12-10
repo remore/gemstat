@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'yard'
+gem 'activerecord'
+gem 'sqlite3-ruby'

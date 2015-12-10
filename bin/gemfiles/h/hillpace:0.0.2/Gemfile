@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'nokogiri'
+gem 'zip'
+gem 'geokit'
+gem 'geoelevation'

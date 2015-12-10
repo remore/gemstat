@@ -1,0 +1,6 @@
+gem 'methadone'
+gem 'rake'
+gem 'aruba'
+gem 'rspec'
+gem 'guard-cucumber'
+gem 'guard-rspec'

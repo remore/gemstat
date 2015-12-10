@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'crack'
+gem 'mash'
+gem 'activesupport'

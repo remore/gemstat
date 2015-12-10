@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'CFPropertyList'
+gem 'thor'
+gem 'childprocess'
+gem 'rainbow'

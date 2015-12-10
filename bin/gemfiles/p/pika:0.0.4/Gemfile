@@ -1,0 +1,6 @@
+gem 'xspf'
+gem 'activesupport'
+gem 'colored'
+gem 'ruby-progressbar'
+gem 'terminal-table'
+gem 'thor'

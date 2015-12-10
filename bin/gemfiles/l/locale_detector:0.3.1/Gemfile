@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'i18n'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rspec'
+gem 'rspec-rails'

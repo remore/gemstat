@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'pry'
+gem 'coveralls'
+gem 'rspec'
+gem 'rake'
+gem 'rubyzip'

@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'shoulda'
+gem 'simplecov'
+gem 'awesome_print'

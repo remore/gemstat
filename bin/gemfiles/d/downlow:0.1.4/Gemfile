@@ -1,0 +1,4 @@
+gem 'rubyzip'
+gem 'archive-tar-minitar'
+gem 'shoulda'
+gem 'fakeweb'

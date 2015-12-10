@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'pry'
+gem 'activesupport'
+gem 'rspec'
+gem 'yard'

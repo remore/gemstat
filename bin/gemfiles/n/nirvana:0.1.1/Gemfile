@@ -1,0 +1,4 @@
+gem 'ripl'
+gem 'escape_utils'
+gem 'json_pure'
+gem 'em-websocket'

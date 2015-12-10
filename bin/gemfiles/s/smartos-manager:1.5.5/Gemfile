@@ -1,0 +1,8 @@
+gem 'toml-rb'
+gem 'thor'
+gem 'net-ssh'
+gem 'net-ssh-gateway'
+gem 'net-ssh-multi'
+gem 'colored'
+gem 'size_units'
+gem 'oj'

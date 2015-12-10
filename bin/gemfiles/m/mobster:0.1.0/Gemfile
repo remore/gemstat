@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'capybara-webkit'
+gem 'rack'
+gem 'capybara'

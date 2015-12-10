@@ -1,0 +1,6 @@
+gem 'omnifocus'
+gem 'rest-client'
+gem 'ruby-keychain'
+gem 'bundler'
+gem 'rake'
+gem 'byebug'

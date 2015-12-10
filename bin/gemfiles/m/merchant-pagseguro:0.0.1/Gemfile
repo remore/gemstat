@@ -1,0 +1,4 @@
+gem 'merchant'
+gem 'rspec'
+gem 'test_notifier'
+gem 'pry-meta'

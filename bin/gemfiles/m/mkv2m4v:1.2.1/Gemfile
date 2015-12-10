@@ -1,0 +1,6 @@
+gem 'trollop'
+gem 'mediainfo'
+gem 'iso639'
+gem 'colorize'
+gem 'minitest'
+gem 'rake'

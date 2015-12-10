@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'rubocop'
+gem 'addressable'
+gem 'rest-client'
+gem 'nokogiri'

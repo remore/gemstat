@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'json_spec'
+gem 'rake'
+gem 'rdoc'
+gem 'jeweler'

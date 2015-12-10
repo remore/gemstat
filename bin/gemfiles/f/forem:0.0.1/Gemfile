@@ -1,0 +1,5 @@
+gem 'launchy'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'sqlite3-ruby'
+gem 'simple_form'

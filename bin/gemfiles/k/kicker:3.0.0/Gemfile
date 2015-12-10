@@ -1,0 +1,6 @@
+gem 'listen'
+gem 'notify'
+gem 'bacon'
+gem 'mocha-on-bacon'
+gem 'activesupport'
+gem 'fakefs'

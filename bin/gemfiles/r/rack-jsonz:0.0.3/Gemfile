@@ -1,0 +1,7 @@
+gem 'oj'
+gem 'rack'
+gem 'system'
+gem 'usagewatch'
+gem 'usagewatch_ext'
+gem 'bundler'
+gem 'rake'

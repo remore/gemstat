@@ -1,0 +1,4 @@
+gem 'blankslate'
+gem 'builder'
+gem 'rake'
+gem 'plugin_test_helper'

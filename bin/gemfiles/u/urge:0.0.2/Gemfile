@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'aasm'
+gem 'logging'
+gem 'rspec'
+gem 'sqlite3'
+gem 'factory_girl'

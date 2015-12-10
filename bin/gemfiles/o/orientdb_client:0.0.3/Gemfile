@@ -1,0 +1,8 @@
+gem 'typhoeus'
+gem 'oj'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'webmock'
+gem 'byebug'

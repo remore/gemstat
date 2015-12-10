@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'terminal-table'
+gem 'spinning_cursor'
+gem 'tty-progressbar'
+gem 'colorize'
+gem 'rake'
+gem 'minitest'

@@ -1,0 +1,7 @@
+gem 'backup'
+gem 'fog'
+gem 'excon'
+gem 'net-ssh'
+gem 'net-sftp'
+gem 'mail'
+gem 'whenever'

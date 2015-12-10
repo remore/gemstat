@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'highline'
+gem 'pry'
+gem 'rspec'
+gem 'rake'

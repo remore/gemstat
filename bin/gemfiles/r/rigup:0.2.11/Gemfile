@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'thor'
+gem 'git'
+gem 'session'
+gem 'rspec'
+gem 'rake'

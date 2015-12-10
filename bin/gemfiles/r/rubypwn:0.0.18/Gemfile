@@ -1,0 +1,4 @@
+gem 'rainbow'
+gem 'thread'
+gem 'rest-client'
+gem 'bindata'

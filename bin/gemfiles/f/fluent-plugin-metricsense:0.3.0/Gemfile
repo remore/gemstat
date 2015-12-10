@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'dogapi'
+gem 'rake'
+gem 'bundler'
+gem 'simplecov'

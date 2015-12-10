@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'gosu'
+gem 'gubby'
+gem 'ruby-prof'

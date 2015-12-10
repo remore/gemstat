@@ -1,0 +1,5 @@
+gem 'heroku-api'
+gem 'highline'
+gem 'sshkey'
+gem 'bundler'
+gem 'rake'

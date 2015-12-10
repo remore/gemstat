@@ -1,0 +1,7 @@
+gem 'alias_e'
+gem 'colour_aid'
+gem 'save_file'
+gem 'cliner'
+gem 'opn'
+gem 'twentyfour_hours_notation'
+gem 'file_duration'

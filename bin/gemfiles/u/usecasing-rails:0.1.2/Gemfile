@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rails'
+gem 'rspec'
+gem 'aruba'
+gem 'bundler'
+gem 'usecasing'

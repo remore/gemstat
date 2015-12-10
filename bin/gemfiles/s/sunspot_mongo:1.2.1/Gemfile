@@ -1,0 +1,7 @@
+gem 'sunspot_rails'
+gem 'rails'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'sunspot_solr'
+gem 'rubocop'

@@ -1,0 +1,7 @@
+gem 'mail'
+gem 'aws-ses'
+gem 'rubydkim'
+gem 'mongo'
+gem 'bson'
+gem 'bson_ext'
+gem 'will_paginate'

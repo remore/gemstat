@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'shopify_api'
+gem 'omniauth-shopify-oauth2'
+gem 'rake'
+gem 'byebug'
+gem 'sqlite3'
+gem 'minitest'
+gem 'mocha'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'flay'
+gem 'flog'
+gem 'reek'
+gem 'rubocop'

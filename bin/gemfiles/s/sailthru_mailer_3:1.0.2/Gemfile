@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'sailthru-client'
+gem 'bundler'
+gem 'guard-rspec'
+gem 'simplecov'
+gem 'mocha'
+gem 'rake'

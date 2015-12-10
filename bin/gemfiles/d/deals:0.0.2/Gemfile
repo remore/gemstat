@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'devise'
+gem 'rails_admin'
+gem 'carrierwave'
+gem 'fog'

@@ -1,0 +1,4 @@
+gem 'blankslate'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry'

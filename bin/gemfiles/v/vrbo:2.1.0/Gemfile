@@ -1,0 +1,8 @@
+gem 'mechanize'
+gem 'mime-types'
+gem 'bundler'
+gem 'rake'
+gem 'vcr'
+gem 'webmock'
+gem 'rspec'
+gem 'rspec-its'

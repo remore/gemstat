@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'multi_json'
+gem 'activemodel'
+gem 'activesupport'
+gem 'rails'
+gem 'rake'
+gem 'redis'
+gem 'activerecord'

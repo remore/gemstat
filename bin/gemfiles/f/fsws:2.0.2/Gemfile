@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'thor'
+gem 'launchy'
+gem 'rake'

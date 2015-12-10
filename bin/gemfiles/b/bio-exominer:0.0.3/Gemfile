@@ -1,0 +1,7 @@
+gem 'msgpack'
+gem 'minitest'
+gem 'rspec'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'

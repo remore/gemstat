@@ -1,0 +1,8 @@
+gem 'rspec-rails'
+gem 'combustion'
+gem 'rails'
+gem 'sqlite3'
+gem 'pry'
+gem 'pry-stack_explorer'
+gem 'bundler'
+gem 'rake'

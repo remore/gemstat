@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'rcov'
+gem 'rake'
+gem 'guard'
+gem 'guard-rspec'

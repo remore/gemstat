@@ -1,0 +1,2 @@
+gem 'tail_from_sentinel'
+gem 'haml'

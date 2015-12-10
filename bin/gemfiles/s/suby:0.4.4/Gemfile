@@ -1,0 +1,5 @@
+gem 'path'
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'term-ansicolor'
+gem 'mime-types'

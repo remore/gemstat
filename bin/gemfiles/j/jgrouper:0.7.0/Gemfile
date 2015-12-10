@@ -1,0 +1,6 @@
+gem 'hashdiff'
+gem 'jruby-jars'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc-readme'

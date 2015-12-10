@@ -1,0 +1,6 @@
+gem 'alchemist'
+gem 'uuidtools'
+gem 'fileutils'
+gem 'i18n'
+gem 'test/unit'
+gem 'pry'

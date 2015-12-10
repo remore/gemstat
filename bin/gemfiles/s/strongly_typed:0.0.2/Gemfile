@@ -1,0 +1,7 @@
+gem 'boolean_class'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'redcarpet'
+gem 'yard'
+gem 'simplecov'

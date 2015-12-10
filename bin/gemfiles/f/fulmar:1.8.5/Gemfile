@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rugged'
+gem 'mysql2'
+gem 'fulmar-shell'
+gem 'ruby_wings'
+gem 'colorize'

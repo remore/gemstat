@@ -1,0 +1,2 @@
+gem 'r18n-core'
+gem 'i18n'

@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'octokit'
+gem 'terminal-notifier'
+gem 'growl'

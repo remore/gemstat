@@ -1,0 +1,6 @@
+gem 'quir'
+gem 'usabls'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'testspace'

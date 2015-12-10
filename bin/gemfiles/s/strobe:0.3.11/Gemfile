@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'mime-types'
+gem 'rack'
+gem 'thin'
+gem 'em-http-request'
+gem 'thor'
+gem 'oauth'
+gem 'launchy'

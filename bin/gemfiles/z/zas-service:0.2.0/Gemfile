@@ -1,0 +1,7 @@
+gem 'zmq'
+gem 'syslogger'
+gem 'yajl-ruby'
+gem 'hashie'
+gem 'sequel'
+gem 'daemons'
+gem 'rspec'

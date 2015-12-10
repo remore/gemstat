@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

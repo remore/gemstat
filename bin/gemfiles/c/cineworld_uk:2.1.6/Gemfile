@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'webmock'
+gem 'nokogiri'
+gem 'tzinfo'
+gem 'tzinfo-data'

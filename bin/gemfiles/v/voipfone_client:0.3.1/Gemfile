@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'mechanize'
+gem 'require_all'

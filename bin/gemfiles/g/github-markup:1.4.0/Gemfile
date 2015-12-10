@@ -1,0 +1,5 @@
+gem 'minitest'
+gem 'html-pipeline'
+gem 'sanitize'
+gem 'nokogiri'
+gem 'nokogiri-diff'

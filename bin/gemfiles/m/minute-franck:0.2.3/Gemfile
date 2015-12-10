@@ -1,0 +1,6 @@
+gem 'letsfreckle-client'
+gem 'rack'
+gem 'thor'
+gem 'builder'
+gem 'multi_xml'
+gem 'activesupport'

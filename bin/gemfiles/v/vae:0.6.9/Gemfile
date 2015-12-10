@@ -1,0 +1,8 @@
+gem 'chunky_png'
+gem 'compass'
+gem 'directory_watcher'
+gem 'haml'
+gem 'highline'
+gem 'json'
+gem 'mongrel'
+gem 'sass'

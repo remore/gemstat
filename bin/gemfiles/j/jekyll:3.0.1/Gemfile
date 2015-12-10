@@ -1,0 +1,8 @@
+gem 'liquid'
+gem 'kramdown'
+gem 'mercenary'
+gem 'safe_yaml'
+gem 'colorator'
+gem 'rouge'
+gem 'jekyll-sass-converter'
+gem 'jekyll-watch'

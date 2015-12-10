@@ -1,0 +1,6 @@
+gem 'dm-redis-adapter'
+gem 'feedjira'
+gem 'i18n'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'

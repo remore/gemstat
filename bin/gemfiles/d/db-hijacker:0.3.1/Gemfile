@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rake'
+gem 'rack-test'
+gem 'rack'
+gem 'rspec'
+gem 'sqlite3'
+gem 'ruby-debug'

@@ -1,0 +1,4 @@
+gem 'defensio'
+gem 'activemodel'
+gem 'bundler'
+gem 'rake'

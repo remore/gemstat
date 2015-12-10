@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'grit'
+gem 'launchy'
+gem 'rspec'

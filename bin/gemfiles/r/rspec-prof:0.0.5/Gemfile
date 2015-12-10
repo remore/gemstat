@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'ruby-prof'
+gem 'cucumber'
+gem 'aruba'
+gem 'simplecov'
+gem 'coveralls'
+gem 'rake'

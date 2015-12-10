@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'commander'
+gem 'libxml-ruby'
+gem 'nokogiri'

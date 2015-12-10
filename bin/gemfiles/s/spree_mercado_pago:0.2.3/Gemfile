@@ -1,0 +1,8 @@
+gem 'spree_core'
+gem 'rest-client'
+gem 'ffaker'
+gem 'factory_girl'
+gem 'rspec-rails'
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'sqlite3'

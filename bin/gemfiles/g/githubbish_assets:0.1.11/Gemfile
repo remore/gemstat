@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'closure-compiler'
+gem 'yui-compressor'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

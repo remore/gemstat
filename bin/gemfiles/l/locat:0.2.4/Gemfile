@@ -1,0 +1,5 @@
+gem 'gitlab-grit'
+gem 'ansi'
+gem 'json'
+gem 'detroit'
+gem 'qed'

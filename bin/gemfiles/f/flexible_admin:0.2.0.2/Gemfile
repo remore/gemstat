@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'devise'
+gem 'inherited_resources'
+gem 'ckeditor'
+gem 'sqlite3'
+gem 'rspec'
+gem 'generator_spec'
+gem 'pry'

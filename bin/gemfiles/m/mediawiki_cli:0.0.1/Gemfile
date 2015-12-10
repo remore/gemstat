@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'mediawiki-gateway'
+gem 'nokogiri'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

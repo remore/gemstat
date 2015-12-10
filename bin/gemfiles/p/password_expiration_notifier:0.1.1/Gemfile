@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'activeldap'
+gem 'net-ldap'
+gem 'slack-notify'

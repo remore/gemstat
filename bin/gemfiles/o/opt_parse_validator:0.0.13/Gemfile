@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'bundler'
+gem 'rubocop'
+gem 'simplecov'

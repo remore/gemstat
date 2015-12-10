@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'execjs'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'coffee-script'
+gem 'appraisal'

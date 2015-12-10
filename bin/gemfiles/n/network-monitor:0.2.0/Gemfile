@@ -1,0 +1,5 @@
+gem 'snmp'
+gem 'trollop'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'

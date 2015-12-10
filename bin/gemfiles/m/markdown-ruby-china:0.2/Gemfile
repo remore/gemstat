@@ -1,0 +1,5 @@
+gem 'rails_autolink'
+gem 'redcarpet'
+gem 'md_emoji'
+gem 'pygments.rb'
+gem 'nokogiri'

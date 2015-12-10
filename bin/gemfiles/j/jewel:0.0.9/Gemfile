@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'redcarpet'
+gem 'rookie'
+gem 'rspec'
+gem 'yard'

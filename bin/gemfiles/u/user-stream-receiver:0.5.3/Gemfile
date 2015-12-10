@@ -1,0 +1,6 @@
+gem 'oauth-cli-twitter'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

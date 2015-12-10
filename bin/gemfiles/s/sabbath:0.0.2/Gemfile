@@ -1,0 +1,7 @@
+gem 'thin'
+gem 'eventmachine'
+gem 'em-beanstalk'
+gem 'rack'
+gem 'usher'
+gem 'json'
+gem 'uuid'

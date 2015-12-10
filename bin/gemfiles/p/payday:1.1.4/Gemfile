@@ -1,0 +1,5 @@
+gem 'prawn'
+gem 'money'
+gem 'prawn-svg'
+gem 'i18n'
+gem 'rspec'

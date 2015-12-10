@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'handlebars'
+gem 'barber'
+gem 'rake'
+gem 'redgreen'
+gem 'rspec'

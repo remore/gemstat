@@ -1,0 +1,8 @@
+gem 'net-ssh'
+gem 'rspec'
+gem 'pry'
+gem 'simplecov'
+gem 'pry-debugger'
+gem 'guard-rspec'
+gem 'rb-inotify'
+gem 'rb-fsevent'

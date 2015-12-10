@@ -1,0 +1,8 @@
+gem 'time-lord'
+gem 'moneta'
+gem 'daybreak'
+gem 'xdg'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'

@@ -1,0 +1,6 @@
+gem 'slop'
+gem 'httpclient'
+gem 'archive'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

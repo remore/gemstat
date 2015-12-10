@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'fakeweb'

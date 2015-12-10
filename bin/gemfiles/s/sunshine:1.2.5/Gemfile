@@ -1,0 +1,6 @@
+gem 'open4'
+gem 'rainbow'
+gem 'highline'
+gem 'json'
+gem 'rdoc'
+gem 'hoe'

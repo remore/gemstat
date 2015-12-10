@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'fakefs'
+gem 'jeweler'
+gem 'aruba'

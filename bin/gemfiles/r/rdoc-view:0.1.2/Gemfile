@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-websocket'
+gem 'listen'
+gem 'rb-inotify'
+gem 'rdoc'
+gem 'RedCloth'

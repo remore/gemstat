@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'composite_primary_keys'
+gem 'c12-commons'
+gem 'rs.ge'
+gem 'activerecord'
+gem 'activerecord-oracle_enhanced-adapter'
+gem 'ruby-oci8'

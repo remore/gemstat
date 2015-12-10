@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'geoip'
+gem 'rspec'
+gem 'rack'
+gem 'rack-test'
+gem 'simplecov'
+gem 'rubocop'
+gem 'rubocop-rspec'

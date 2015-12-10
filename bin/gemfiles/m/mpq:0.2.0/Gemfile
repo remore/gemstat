@@ -1,0 +1,7 @@
+gem 'bindata'
+gem 'bzip2-ruby'
+gem 'bundler'
+gem 'jeweler'
+gem 'rocco'
+gem 'bindata'
+gem 'rocco'

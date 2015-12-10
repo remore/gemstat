@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'pry'
+gem 'selenium-webdriver'
+gem 'capybara'
+gem 'hashie'

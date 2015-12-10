@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'active_model_serializers'
+gem 'sqlite3'
+gem 'ember-rails'
+gem 'pry'
+gem 'coveralls'

@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'haml'
+gem 'crack'
+gem 'dm-core'
+gem 'dm-migrations'
+gem 'rspec'
+gem 'rack-test'

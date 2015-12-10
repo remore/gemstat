@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'coveralls'
+gem 'codeclimate-test-reporter'
+gem 'pry'
+gem 'pcaprub'

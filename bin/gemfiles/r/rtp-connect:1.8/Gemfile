@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'dicom'
+gem 'mocha'
+gem 'rake'
+gem 'redcarpet'
+gem 'rspec'
+gem 'yard'

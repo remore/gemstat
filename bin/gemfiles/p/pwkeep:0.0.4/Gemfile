@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'colorize'
+gem 'highline'
+gem 'trollop'
+gem 'lockfile'
+gem 'hashr'
+gem 'keepass-password-generator'
+gem 'yard'

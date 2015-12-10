@@ -1,0 +1,8 @@
+gem 'rsvg2'
+gem 'rmagick'
+gem 'ruby-filemagic'
+gem 'rapngasm'
+gem 'nokogiri'
+gem 'cairo'
+gem 'emojidex'
+gem 'phantom_svg'

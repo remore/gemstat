@@ -1,0 +1,6 @@
+gem 'rmagick'
+gem 'json'
+gem 'ruby-debug'
+gem 'rspec'
+gem 'mocha'
+gem 'hanoi'

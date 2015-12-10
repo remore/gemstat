@@ -1,0 +1,4 @@
+gem 'dm-core'
+gem 'rails'
+gem 'rspec'
+gem 'yard'

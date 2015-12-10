@@ -1,0 +1,6 @@
+gem 'warden'
+gem 'orm_adapter'
+gem 'bcrypt'
+gem 'railties'
+gem 'neo4j'
+gem 'devise'

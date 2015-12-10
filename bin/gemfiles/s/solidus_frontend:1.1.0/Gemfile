@@ -1,0 +1,5 @@
+gem 'solidus_api'
+gem 'solidus_core'
+gem 'canonical-rails'
+gem 'jquery-rails'
+gem 'capybara-accessible'

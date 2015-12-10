@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'eventmachine'
+gem 'applix'
+gem 'gom-core'
+gem 'gom-script'
+gem 'osc'

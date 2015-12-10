@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'aws-sdk'
+gem 'sqlite3'
+gem 'coveralls'
+gem 'pry'
+gem 'pry-nav'

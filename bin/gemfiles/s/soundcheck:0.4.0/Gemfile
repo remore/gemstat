@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'jeweler'
+gem 'cucumber'
+gem 'fuubar'

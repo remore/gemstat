@@ -1,0 +1,8 @@
+gem 'foreman_hooks'
+gem 'minitest'
+gem 'json'
+gem 'sqlite3'
+gem 'rest_client'
+gem 'kwalify'
+gem 'bundler'
+gem 'rake'

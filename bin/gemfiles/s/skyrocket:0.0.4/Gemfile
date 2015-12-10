@@ -1,0 +1,6 @@
+gem 'therubyracer'
+gem 'less'
+gem 'coffee-script'
+gem 'rack-test'
+gem 'rspec'
+gem 'rake'

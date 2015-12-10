@@ -1,0 +1,2 @@
+gem 'vagrant-export'
+gem 'net-http-uploadprogress'

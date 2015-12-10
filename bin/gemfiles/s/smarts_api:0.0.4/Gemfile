@@ -1,0 +1,5 @@
+gem 'typhoeus'
+gem 'activesupport'
+gem 'rspec'
+gem 'webmock'
+gem 'timecop'

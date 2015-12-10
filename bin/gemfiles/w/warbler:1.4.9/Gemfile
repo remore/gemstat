@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'jruby-jars'
+gem 'jruby-rack'
+gem 'rubyzip'
+gem 'jbundler'
+gem 'ruby-maven'
+gem 'rspec'
+gem 'rdoc'

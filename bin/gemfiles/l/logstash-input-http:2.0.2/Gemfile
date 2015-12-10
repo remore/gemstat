@@ -1,0 +1,7 @@
+gem 'logstash-core'
+gem 'logstash-codec-plain'
+gem 'stud'
+gem 'puma'
+gem 'logstash-devutils'
+gem 'logstash-codec-json'
+gem 'ftw'

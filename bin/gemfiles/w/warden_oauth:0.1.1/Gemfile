@@ -1,0 +1,6 @@
+gem 'warden'
+gem 'oauth'
+gem 'rack-test'
+gem 'fakeweb'
+gem 'rspec'
+gem 'yard'

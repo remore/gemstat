@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'json'
+gem 'mocha'
+gem 'mime-types'
+gem 'linkeddata'

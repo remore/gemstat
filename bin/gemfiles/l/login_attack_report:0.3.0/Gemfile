@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'paper_trail'
+gem 'devise'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

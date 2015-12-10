@@ -1,0 +1,6 @@
+gem 'statsample'
+gem 'statistics2'
+gem 'gsl'
+gem 'rake-compiler'
+gem 'rdoc'
+gem 'hoe'

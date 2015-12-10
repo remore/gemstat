@@ -1,0 +1,6 @@
+gem 'ecdsa'
+gem 'rake'
+gem 'pry'
+gem 'pry-byebug'
+gem 'pry-rescue'
+gem 'rspec'

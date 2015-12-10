@@ -1,0 +1,6 @@
+gem 'therubyracer'
+gem 'rails'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

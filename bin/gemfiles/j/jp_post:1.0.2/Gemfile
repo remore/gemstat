@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'chronic'
+gem 'typhoeus'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'vcr'

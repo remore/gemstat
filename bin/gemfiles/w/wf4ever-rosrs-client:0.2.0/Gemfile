@@ -1,0 +1,6 @@
+gem 'json'
+gem 'rdf'
+gem 'rdf-raptor'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

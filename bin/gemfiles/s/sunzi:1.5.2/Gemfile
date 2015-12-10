@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'rainbow'
+gem 'net-ssh'
+gem 'rake'
+gem 'minitest'

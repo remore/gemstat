@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'json'
+gem 'bundler'
+gem 'rspec'

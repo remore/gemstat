@@ -1,0 +1,5 @@
+gem 'savon'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'

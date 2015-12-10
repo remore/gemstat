@@ -1,0 +1,5 @@
+gem 'pakyow-support'
+gem 'pakyow-core'
+gem 'pakyow-presenter'
+gem 'sass'
+gem 'yui-compressor'

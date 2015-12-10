@@ -1,0 +1,8 @@
+gem 'fog'
+gem 'cucumber'
+gem 'aruba'
+gem 'fivemat'
+gem 'simplecov'
+gem 'rake'
+gem 'rspec'
+gem 'middleman-core'

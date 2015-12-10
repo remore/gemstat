@@ -1,0 +1,6 @@
+gem 'phantomjs'
+gem 'rack'
+gem 'json'
+gem 'rack-test'
+gem 'rspec'
+gem 'byebug'

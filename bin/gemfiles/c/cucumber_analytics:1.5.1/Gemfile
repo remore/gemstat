@@ -1,0 +1,7 @@
+gem 'gherkin'
+gem 'json'
+gem 'multi_json'
+gem 'rake'
+gem 'cucumber'
+gem 'rspec'
+gem 'simplecov'

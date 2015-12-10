@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'eventmachine'
+gem 'nats'
+gem 'vcap-concurrency'
+gem 'yajl-ruby'

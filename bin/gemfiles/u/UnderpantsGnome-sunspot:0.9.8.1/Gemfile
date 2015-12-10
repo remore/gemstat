@@ -1,0 +1,6 @@
+gem 'mwmitchell-rsolr'
+gem 'daemons'
+gem 'optiflag'
+gem 'haml'
+gem 'rspec'
+gem 'ruby-debug'

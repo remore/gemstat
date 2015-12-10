@@ -1,0 +1,6 @@
+gem 'log4r'
+gem 'user-choices'
+gem 'extlib'
+gem 'versionomy'
+gem 'net-ssh'
+gem 'net-scp'

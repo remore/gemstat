@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'require_all'
+gem 'byebug'
+gem 'bundler'
+gem 'awesome_print'
+gem 'did_you_mean'
+gem 'rdoc'
+gem 'builder'

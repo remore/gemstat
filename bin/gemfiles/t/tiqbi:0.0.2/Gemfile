@@ -1,0 +1,4 @@
+gem 'slop'
+gem 'activesupport'
+gem 'qiita'
+gem 'sanitize'

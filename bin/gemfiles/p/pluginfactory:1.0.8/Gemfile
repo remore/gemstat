@@ -1,0 +1,6 @@
+gem 'hoe-mercurial'
+gem 'hoe-highline'
+gem 'hoe-mercurial'
+gem 'hoe-deveiate'
+gem 'rdoc'
+gem 'hoe'

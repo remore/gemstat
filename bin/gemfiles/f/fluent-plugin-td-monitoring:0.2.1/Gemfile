@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'ohai'
+gem 'httpclient'
+gem 'rake'
+gem 'simplecov'
+gem 'rr'

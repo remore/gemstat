@@ -1,0 +1,6 @@
+gem 'diffy'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'guard-rspec'

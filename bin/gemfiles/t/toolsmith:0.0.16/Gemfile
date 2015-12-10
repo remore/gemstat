@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'compass-rails'
+gem 'bootstrap-sass'
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'nokogiri'
+gem 'awesome_print'

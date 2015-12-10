@@ -1,0 +1,8 @@
+gem 'webgen'
+gem 'kramdown'
+gem 'sanitize'
+gem 'nokogiri'
+gem 'unicode_utils'
+gem 'bibtex-ruby'
+gem 'citeproc-ruby'
+gem 'therubyracer'

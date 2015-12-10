@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'mini_magick'
+gem 'exifr'
+gem 'useless'
+gem 'useless-doc'
+gem 'rspec'
+gem 'rack-test'
+gem 'oj'

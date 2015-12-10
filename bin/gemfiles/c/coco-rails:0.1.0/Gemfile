@@ -1,0 +1,4 @@
+gem 'ruby-coco'
+gem 'railties'
+gem 'tilt'
+gem 'sprockets'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mercadopago'
+gem 'mercadopago-sdk'
+gem 'app_configuration'
+gem 'i18n'

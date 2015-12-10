@@ -1,0 +1,5 @@
+gem 'celluloid-io'
+gem 'ffi'
+gem 'rake-compiler'
+gem 'mocha'
+gem 'rake'

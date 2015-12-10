@@ -1,0 +1,5 @@
+gem 'commander'
+gem 'terminal-table'
+gem 'uniara_virtual_parser'
+gem 'bundler'
+gem 'rake'

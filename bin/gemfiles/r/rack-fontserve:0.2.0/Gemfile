@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'rack-test'
+gem 'shoulda'
+gem 'simplecov'
+gem 'rake'

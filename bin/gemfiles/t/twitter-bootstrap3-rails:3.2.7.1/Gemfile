@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'actionpack'
+gem 'execjs'
+gem 'rails'
+gem 'less'
+gem 'therubyracer'
+gem 'rspec'
+gem 'rake'

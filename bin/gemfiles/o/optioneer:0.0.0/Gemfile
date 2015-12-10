@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'coveralls'
+gem 'rubocop'
+gem 'inch'

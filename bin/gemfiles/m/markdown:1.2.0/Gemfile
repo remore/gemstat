@@ -1,0 +1,5 @@
+gem 'props'
+gem 'textutils'
+gem 'kramdown'
+gem 'rdoc'
+gem 'hoe'

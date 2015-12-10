@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rest-client'
+gem 'uuid'
+gem 'sqlite3'

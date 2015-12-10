@@ -1,0 +1,7 @@
+gem 'guard'
+gem 'guard-compat'
+gem 'consistency_fail'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'

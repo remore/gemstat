@@ -1,0 +1,5 @@
+gem 'linkeddata'
+gem 'rack'
+gem 'yard'
+gem 'rspec'
+gem 'rack-test'

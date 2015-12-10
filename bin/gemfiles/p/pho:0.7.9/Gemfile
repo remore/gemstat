@@ -1,0 +1,7 @@
+gem 'httpclient'
+gem 'json'
+gem 'mocha'
+gem 'mime-types'
+gem 'rdf'
+gem 'rdf-json'
+gem 'rdf-raptor'

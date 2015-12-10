@@ -1,0 +1,8 @@
+gem 'subcommand'
+gem 'right_aws'
+gem 'json'
+gem 'net-ssh-multi'
+gem 'highline'
+gem 'zzsharedlib'
+gem 'rake'
+gem 'rspec'

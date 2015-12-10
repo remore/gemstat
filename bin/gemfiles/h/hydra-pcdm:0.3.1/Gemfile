@@ -1,0 +1,8 @@
+gem 'active-fedora'
+gem 'activefedora-aggregation'
+gem 'mime-types'
+gem 'bundler'
+gem 'jettywrapper'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'ruboty'
+gem 'execjs'
+gem 'coffee-script'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-byebug'

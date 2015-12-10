@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'lorem'
+gem 'gemcutter'
+gem 'dnsruby'
+gem 'fog'
+gem 'rest-client'
+gem 'crack'

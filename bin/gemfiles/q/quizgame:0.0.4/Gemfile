@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'builtinextension'
+gem 'weightedpicker'

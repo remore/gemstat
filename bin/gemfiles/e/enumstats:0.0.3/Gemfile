@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'open4'
+gem 'pry'
+gem 'hms'
+gem 'guard-minitest'
+gem 'guard-bundler'
+gem 'coolline'
+gem 'growl'

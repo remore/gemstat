@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'fog'
+gem 'json'
+gem 'rainbow'
+gem 'progress_bar'
+gem 'terminal-table'

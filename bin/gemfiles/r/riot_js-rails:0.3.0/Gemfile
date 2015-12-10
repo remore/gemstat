@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'execjs'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'byebug'
+gem 'mocha'

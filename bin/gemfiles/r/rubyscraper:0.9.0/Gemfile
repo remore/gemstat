@@ -1,0 +1,7 @@
+gem 'capybara'
+gem 'poltergeist'
+gem 'rest-client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

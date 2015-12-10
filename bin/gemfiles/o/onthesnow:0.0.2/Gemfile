@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'fakeweb'
+gem 'mocha'
+gem 'nokogiri'
+gem 'simple-rss'

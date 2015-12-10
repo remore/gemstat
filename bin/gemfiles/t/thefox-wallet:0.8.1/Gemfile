@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'minitest'
+gem 'ArgsParser'

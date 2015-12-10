@@ -1,0 +1,4 @@
+gem 'radiant-fabulator-extension'
+gem 'fabulator-exhibit'
+gem 'json'
+gem 'uuid'

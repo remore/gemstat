@@ -1,0 +1,5 @@
+gem 'gosu'
+gem 'opengl-bindings'
+gem 'ffi'
+gem 'rspec'
+gem 'pry'

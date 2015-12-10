@@ -1,0 +1,5 @@
+gem 'fuzzy_match'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

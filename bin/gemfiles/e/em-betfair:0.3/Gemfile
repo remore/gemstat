@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'haml'
+gem 'nokogiri'

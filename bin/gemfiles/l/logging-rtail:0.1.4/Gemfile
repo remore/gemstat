@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'little-plugger'
+gem 'logging'
+gem 'json'

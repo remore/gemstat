@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'typhoeus'
+gem 'vcr'
+gem 'fakeweb'
+gem 'nokogiri'
+gem 'faraday'

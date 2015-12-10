@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'rb-fsevent'
+gem 'guard-bundler'
+gem 'guard-rspec'

@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'httparty'
+gem 'nokogiri'
+gem 'coveralls'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'mime-types'

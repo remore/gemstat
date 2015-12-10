@@ -1,0 +1,5 @@
+gem 'omniauth'
+gem 'faraday'
+gem 'gibberish'
+gem 'bundler'
+gem 'rake'

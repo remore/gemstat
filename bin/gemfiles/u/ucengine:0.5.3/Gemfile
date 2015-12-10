@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'daemons'
+gem 'json'
+gem 'bundler'
+gem 'rspec'
+gem 'sinatra'

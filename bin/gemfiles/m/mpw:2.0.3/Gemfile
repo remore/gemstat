@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'gpgme'
+gem 'highline'
+gem 'locale'
+gem 'colorize'
+gem 'net-sftp'

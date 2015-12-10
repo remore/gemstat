@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'railties'
+gem 'simple_form'
+gem 'american_date'

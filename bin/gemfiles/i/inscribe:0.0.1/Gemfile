@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'bootstrap-sass'
+gem 'sqlite3'

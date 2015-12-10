@@ -1,0 +1,4 @@
+gem 'json_pure'
+gem 'highline'
+gem 'termcolor'
+gem 'rubytter'

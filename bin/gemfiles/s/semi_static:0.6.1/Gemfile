@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'redcarpet'
+gem 'babosa'
+gem 'tilt'
+gem 'rspec-rails'
+gem 'capybara'

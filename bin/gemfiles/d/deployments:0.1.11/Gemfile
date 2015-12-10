@@ -1,0 +1,5 @@
+gem 'curb'
+gem 'grit'
+gem 'versionomy'
+gem 'simple-conf'
+gem 'capistrano'

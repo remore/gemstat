@@ -1,0 +1,2 @@
+gem 'oa-core'
+gem 'oa-oauth'

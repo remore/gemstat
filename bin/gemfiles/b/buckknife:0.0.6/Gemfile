@@ -1,0 +1,8 @@
+gem 'chef'
+gem 'highline'
+gem 'json'
+gem 'escape'
+gem 'activemodel'
+gem 'rspec'
+gem 'rcov'
+gem 'knife-rackspace'

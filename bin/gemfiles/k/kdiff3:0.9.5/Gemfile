@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'awesome_print'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'codeclimate-test-reporter'

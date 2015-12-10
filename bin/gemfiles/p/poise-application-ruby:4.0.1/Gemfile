@@ -1,0 +1,7 @@
+gem 'halite'
+gem 'poise'
+gem 'poise-application'
+gem 'poise-ruby'
+gem 'poise-service'
+gem 'poise-boiler'
+gem 'poise-application-git'

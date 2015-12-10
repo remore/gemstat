@@ -1,0 +1,6 @@
+gem 'ruboty'
+gem 'qiita_scouter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

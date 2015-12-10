@@ -1,0 +1,5 @@
+gem 'mime-types'
+gem 'nokogiri'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'

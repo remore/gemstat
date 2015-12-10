@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'
+gem 'rb-inotify'

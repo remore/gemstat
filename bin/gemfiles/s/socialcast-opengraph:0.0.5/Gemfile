@@ -1,0 +1,5 @@
+gem 'hashie'
+gem 'nokogiri'
+gem 'rest-client'
+gem 'rspec'
+gem 'webmock'

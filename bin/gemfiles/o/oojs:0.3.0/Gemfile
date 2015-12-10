@@ -1,0 +1,2 @@
+gem 'oojspec'
+gem 'fake-ajax-server'

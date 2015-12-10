@@ -1,0 +1,4 @@
+gem 'jekyll'
+gem 'yui-compressor'
+gem 'htmlcompressor'
+gem 'rake'

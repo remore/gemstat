@@ -1,0 +1,8 @@
+gem 'json'
+gem 'mime-types'
+gem 'rest-client'
+gem 'rake'
+gem 'rspec'
+gem 'flexmock'
+gem 'coveralls'
+gem 'pry'

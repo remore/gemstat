@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'racksh'
+gem 'minitest'
+gem 'awesome_print'
+gem 'pry'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-rails'

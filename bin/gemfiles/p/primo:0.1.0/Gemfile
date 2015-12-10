@@ -1,0 +1,5 @@
+gem 'commander'
+gem 'inifile'
+gem 'terminal-table'
+gem 'rspec'
+gem 'fakefs'

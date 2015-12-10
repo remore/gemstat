@@ -1,0 +1,8 @@
+gem 'facets'
+gem 'backports'
+gem 'bundler'
+gem 'yard'
+gem 'jeweler'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'

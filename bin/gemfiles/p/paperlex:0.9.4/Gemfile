@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'hashie'
+gem 'json'
+gem 'configatron'
+gem 'activesupport'
+gem 'rspec'
+gem 'faker'
+gem 'fakeweb'

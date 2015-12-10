@@ -1,0 +1,4 @@
+gem 'yzz'
+gem 'y_petri'
+gem 'bundler'
+gem 'rake'

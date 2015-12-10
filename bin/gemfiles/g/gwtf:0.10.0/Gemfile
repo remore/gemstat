@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rdoc'
+gem 'json'
+gem 'gli'
+gem 'chronic'

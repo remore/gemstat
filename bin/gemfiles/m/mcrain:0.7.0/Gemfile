@@ -1,0 +1,6 @@
+gem 'logger_pipe'
+gem 'net-scp'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

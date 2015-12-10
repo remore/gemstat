@@ -1,0 +1,5 @@
+gem 'coffee-script'
+gem 'dvl-core'
+gem 'rspec-rails'
+gem 'simple_form'
+gem 'sass'

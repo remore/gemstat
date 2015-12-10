@@ -1,0 +1,4 @@
+gem 'trollop'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'

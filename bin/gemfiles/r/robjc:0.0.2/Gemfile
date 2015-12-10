@@ -1,0 +1,5 @@
+gem 'plist'
+gem 'thor'
+gem 'listen'
+gem 'bundler'
+gem 'rake'

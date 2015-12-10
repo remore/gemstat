@@ -1,0 +1,5 @@
+gem 'observed'
+gem 'fluent-logger'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

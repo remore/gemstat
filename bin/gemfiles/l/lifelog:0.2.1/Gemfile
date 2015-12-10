@@ -1,0 +1,5 @@
+gem 'ramaze'
+gem 'do_sqlite3'
+gem 'dm-core'
+gem 'dm-validations'
+gem 'dm-aggregates'

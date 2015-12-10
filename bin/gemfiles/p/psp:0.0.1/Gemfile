@@ -1,0 +1,5 @@
+gem 'version'
+gem 'psp-toolchain'
+gem 'rake'
+gem 'rspec'
+gem 'fuubar'

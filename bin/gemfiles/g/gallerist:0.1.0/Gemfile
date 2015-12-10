@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'bootstrap-sass'
+gem 'rack'
+gem 'sinatra'
+gem 'sprockets-helpers'
+gem 'sqlite3'
+gem 'unicorn'

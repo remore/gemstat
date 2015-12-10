@@ -1,0 +1,5 @@
+gem 'ipsum-latin'
+gem 'ipsum-english'
+gem 'ipsum-french'
+gem 'bundler'
+gem 'rake'

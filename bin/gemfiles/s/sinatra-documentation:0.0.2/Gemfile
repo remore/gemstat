@@ -1,0 +1,8 @@
+gem 'redcarpet'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'tilt'
+gem 'bundler'
+gem 'rspec'
+gem 'shotgun'
+gem 'thin'

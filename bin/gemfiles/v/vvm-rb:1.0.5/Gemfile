@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'rspec'
+gem 'rubocop'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'
+gem 'coveralls'

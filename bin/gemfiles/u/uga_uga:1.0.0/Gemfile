@@ -1,0 +1,5 @@
+gem 'pry'
+gem 'bundler'
+gem 'bacon'
+gem 'Bacon_Colored'
+gem 'awesome_print'

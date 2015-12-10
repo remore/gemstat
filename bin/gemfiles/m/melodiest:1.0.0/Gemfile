@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'rack-test'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'encrypted_cookie'

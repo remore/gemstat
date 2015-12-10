@@ -1,0 +1,7 @@
+gem 'tennpipes-assist'
+gem 'tennpipes-base'
+gem 'tennpipes-helper'
+gem 'tennpipes-memory'
+gem 'tennpipes-mail'
+gem 'tennpipes-init'
+gem 'tennpipes-su'

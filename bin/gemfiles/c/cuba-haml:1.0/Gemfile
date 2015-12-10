@@ -1,0 +1,4 @@
+gem 'cuba'
+gem 'haml'
+gem 'cutest'
+gem 'rack-test'

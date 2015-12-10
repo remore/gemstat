@@ -1,0 +1,5 @@
+gem 'eventioz-pdf-writer'
+gem 'xml-mapping'
+gem 'iconv'
+gem 'bundler'
+gem 'rake'

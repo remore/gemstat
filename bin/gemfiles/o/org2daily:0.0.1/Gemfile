@@ -1,0 +1,4 @@
+gem 'org-ruby'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'dropbox-sdk'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

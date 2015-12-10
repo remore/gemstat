@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'gemoji'
+gem 'json'
+gem 'oily_png'
+gem 'thor'

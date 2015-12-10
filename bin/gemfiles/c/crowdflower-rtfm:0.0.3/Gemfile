@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'multi_json'
+gem 'minitest'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'webmock'

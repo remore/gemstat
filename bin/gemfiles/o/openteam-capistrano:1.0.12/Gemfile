@@ -1,0 +1,8 @@
+gem 'airbrake'
+gem 'capistrano'
+gem 'capistrano-db-tasks'
+gem 'capistrano-rails'
+gem 'capistrano-rvm'
+gem 'capistrano-sidekiq'
+gem 'capistrano3-unicorn'
+gem 'rake'

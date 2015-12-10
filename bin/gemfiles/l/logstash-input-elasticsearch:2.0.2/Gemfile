@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'elasticsearch'
+gem 'logstash-codec-json'
+gem 'logstash-devutils'

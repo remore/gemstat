@@ -1,0 +1,4 @@
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'
+gem 'ruby-debug19'

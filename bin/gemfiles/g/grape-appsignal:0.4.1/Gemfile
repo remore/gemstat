@@ -1,0 +1,5 @@
+gem 'appsignal'
+gem 'grape'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

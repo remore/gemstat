@@ -1,0 +1,6 @@
+gem 'git'
+gem 'curb'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'

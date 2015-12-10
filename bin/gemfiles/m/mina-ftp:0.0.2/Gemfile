@@ -1,0 +1,2 @@
+gem 'mina'
+gem 'ftp_sync'

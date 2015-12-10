@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rack'
+gem 'sinatra'
+gem 'redis'
+gem 'redis-namespace'
+gem 'bcat'
+gem 'thin'

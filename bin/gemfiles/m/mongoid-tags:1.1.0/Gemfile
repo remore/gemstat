@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mongoid'
+gem 'treetop'
+gem 'minitest'
+gem 'rake'
+gem 'yard'

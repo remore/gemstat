@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'activesupport'
+gem 'i18n'
+gem 'test_declarative'
+gem 'rack-test'
+gem 'rails'

@@ -1,0 +1,6 @@
+gem 'methadone'
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'guard-cucumber'
+gem 'ruby_gntp'

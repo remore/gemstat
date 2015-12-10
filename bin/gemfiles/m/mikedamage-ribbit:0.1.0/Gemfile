@@ -1,0 +1,2 @@
+gem 'jnunemaker-httparty'
+gem 'thoughtbot-shoulda'

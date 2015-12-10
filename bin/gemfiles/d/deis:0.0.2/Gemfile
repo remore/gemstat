@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'cistern'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'ey-logger'

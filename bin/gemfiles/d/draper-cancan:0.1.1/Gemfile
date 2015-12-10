@@ -1,0 +1,6 @@
+gem 'draper'
+gem 'cancan'
+gem 'minitest'
+gem 'mocha'
+gem 'active_support'
+gem 'rake'

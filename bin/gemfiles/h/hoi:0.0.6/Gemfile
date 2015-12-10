@@ -1,0 +1,5 @@
+gem 'json'
+gem 'httparty'
+gem 'shoulda'
+gem 'bundler'
+gem 'mocha'

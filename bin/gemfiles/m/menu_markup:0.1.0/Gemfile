@@ -1,0 +1,8 @@
+gem 'treetop'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'guard'
+gem 'guard-rspec'

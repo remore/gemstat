@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'binding_of_caller'
+gem 'bundler'
+gem 'rake'

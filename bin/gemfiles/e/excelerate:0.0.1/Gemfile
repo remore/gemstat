@@ -1,0 +1,2 @@
+gem 'parseexcel'
+gem 'rspec'

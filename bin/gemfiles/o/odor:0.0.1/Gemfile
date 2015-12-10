@@ -1,0 +1,1 @@
+gem 'rails_best_practices'

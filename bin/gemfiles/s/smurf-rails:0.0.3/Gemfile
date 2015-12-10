@@ -1,0 +1,4 @@
+gem 'color'
+gem 'sass'
+gem 'rails'
+gem 'haml'

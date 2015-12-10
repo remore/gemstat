@@ -1,0 +1,8 @@
+gem 'fog'
+gem 'aruba'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'pry'
+gem 'simplecov'

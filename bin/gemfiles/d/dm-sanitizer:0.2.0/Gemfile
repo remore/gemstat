@@ -1,0 +1,5 @@
+gem 'dm-core'
+gem 'sanitize'
+gem 'rspec'
+gem 'jeweler'
+gem 'dm-migrations'

@@ -1,0 +1,2 @@
+gem 'zeroc-ice'
+gem 'rspec'

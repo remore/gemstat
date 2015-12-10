@@ -1,0 +1,5 @@
+gem 'json'
+gem 'args_parser'
+gem 'rdoc'
+gem 'newgem'
+gem 'hoe'

@@ -1,0 +1,5 @@
+gem 'draper'
+gem 'action_controller'
+gem 'minitest'
+gem 'purdytest'
+gem 'rake'

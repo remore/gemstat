@@ -1,0 +1,5 @@
+gem 'xcodebuild-rb'
+gem 'ocunit2junit'
+gem 'calabash-cucumber'
+gem 'redcarpet'
+gem 'rubyzip'

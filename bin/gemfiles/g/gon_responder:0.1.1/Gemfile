@@ -1,0 +1,4 @@
+gem 'responders'
+gem 'gon'
+gem 'bundler'
+gem 'rake'

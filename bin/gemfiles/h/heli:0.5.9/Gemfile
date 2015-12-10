@@ -1,0 +1,8 @@
+gem 'yaesu'
+gem 'rake'
+gem 'thor'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'terminal-table'
+gem 'rest-client'
+gem 'facets'

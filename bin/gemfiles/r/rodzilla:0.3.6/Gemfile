@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'mocha'
+gem 'webmock'
+gem 'minitest'

@@ -1,0 +1,4 @@
+gem 'bert'
+gem 'bertrpc'
+gem 'unicorn'
+gem 'shoulda'

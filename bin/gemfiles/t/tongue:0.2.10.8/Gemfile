@@ -1,0 +1,6 @@
+gem 'escape_utils'
+gem 'pygments.rb'
+gem 'json'
+gem 'mocha'
+gem 'rake'
+gem 'yajl-ruby'

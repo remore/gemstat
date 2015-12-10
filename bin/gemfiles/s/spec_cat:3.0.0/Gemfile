@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rails'
+gem 'simplecov'
+gem 'coveralls'

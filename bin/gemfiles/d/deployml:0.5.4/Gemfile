@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'rprogram'
+gem 'thor'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'yard'

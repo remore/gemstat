@@ -1,0 +1,4 @@
+gem 'rubigen'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'refinerycms-core'
+gem 'refinerycms-pages'
+gem 'awesome_nested_set'
+gem 'refinerycms-testing'

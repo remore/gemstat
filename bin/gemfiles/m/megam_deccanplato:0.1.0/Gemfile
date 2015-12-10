@@ -1,0 +1,4 @@
+gem 'megam_api'
+gem 'highline'
+gem 'minitest'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'riemann-client'
+gem 'erubis'
+gem 'sinatra'
+gem 'sass'
+gem 'thin'
+gem 'multi_json'

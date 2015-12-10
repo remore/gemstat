@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'soap2r'
+gem 'redis-namespace'
+gem 'sqlite3'
+gem 'rspec-rails'

@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'rails'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'activerecord'
+gem 'rails'

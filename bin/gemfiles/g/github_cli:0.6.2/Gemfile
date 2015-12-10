@@ -1,0 +1,7 @@
+gem 'github_api'
+gem 'tty'
+gem 'rspec'
+gem 'aruba'
+gem 'rake'
+gem 'communist'
+gem 'ronn'

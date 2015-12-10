@@ -1,0 +1,5 @@
+gem 'tilt'
+gem 'thor'
+gem 'rack'
+gem 'rspec'
+gem 'simplecov'

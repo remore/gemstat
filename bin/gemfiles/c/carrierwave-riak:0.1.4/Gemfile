@@ -1,0 +1,4 @@
+gem 'carrierwave'
+gem 'riak-client'
+gem 'rails'
+gem 'rspec'

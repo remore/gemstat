@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'capistrano'
+gem 'bundler'
+gem 'rspec'

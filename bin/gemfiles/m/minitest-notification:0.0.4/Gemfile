@@ -1,0 +1,2 @@
+gem 'terminal-notifier-guard'
+gem 'minitest'

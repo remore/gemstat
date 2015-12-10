@@ -1,0 +1,6 @@
+gem 'fuzzy-string-match'
+gem 'pry'
+gem 'simplecov'
+gem 'guard'
+gem 'guard-rubocop'
+gem 'rubocop'

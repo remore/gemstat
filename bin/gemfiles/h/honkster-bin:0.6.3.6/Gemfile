@@ -1,0 +1,7 @@
+gem 'mongo'
+gem 'bson_ext'
+gem 'activesupport'
+gem 'i18n'
+gem 'rspec'
+gem 'ruby-debug19'
+gem 'diff-lcs'

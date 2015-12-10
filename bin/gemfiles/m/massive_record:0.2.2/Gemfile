@@ -1,0 +1,5 @@
+gem 'thrift'
+gem 'activesupport'
+gem 'activemodel'
+gem 'tzinfo'
+gem 'rspec'

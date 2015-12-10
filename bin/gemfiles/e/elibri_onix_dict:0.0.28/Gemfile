@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'minitest'
+gem 'bundler'
+gem 'jeweler'

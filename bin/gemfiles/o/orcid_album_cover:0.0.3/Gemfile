@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'rest_client'
+gem 'bundler'
+gem 'rake'

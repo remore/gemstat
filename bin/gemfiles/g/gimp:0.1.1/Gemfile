@@ -1,0 +1,6 @@
+gem 'octokit'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'gem-release'

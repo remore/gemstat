@@ -1,0 +1,5 @@
+gem 'beaneater'
+gem 'stalk_climber'
+gem 'gemerald_beanstalk'
+gem 'bundler'
+gem 'rake'

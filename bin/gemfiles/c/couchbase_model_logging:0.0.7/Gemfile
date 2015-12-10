@@ -1,0 +1,7 @@
+gem 'couchbase'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'facets'
+gem 'anise'
+gem 'english'
+gem 'daemons'

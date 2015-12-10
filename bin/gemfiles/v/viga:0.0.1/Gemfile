@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'database_cleaner'
+gem 'fixtory'
+gem 'sqlite3'

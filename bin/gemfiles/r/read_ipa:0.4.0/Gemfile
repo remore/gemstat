@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'minitest'
+gem 'rubyzip'
+gem 'CFPropertyList'
+gem 'apple_png'
+gem 'chunky_png'
+gem 'oily_png'

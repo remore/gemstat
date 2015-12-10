@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'sass'
+gem 'colorize'
+gem 'guard'

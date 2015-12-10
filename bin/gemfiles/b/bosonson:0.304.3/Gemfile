@@ -1,0 +1,6 @@
+gem 'hirb'
+gem 'alias'
+gem 'mocha'
+gem 'bacon'
+gem 'mocha-on-bacon'
+gem 'bacon-bits'

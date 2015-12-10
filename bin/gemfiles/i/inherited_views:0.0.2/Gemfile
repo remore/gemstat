@@ -1,0 +1,6 @@
+gem 'inherited_resources'
+gem 'formtastic'
+gem 'will_paginate'
+gem 'activesupport'
+gem 'actionpack'
+gem 'mocha'

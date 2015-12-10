@@ -1,0 +1,4 @@
+gem 'nanoc'
+gem 'haml'
+gem 'rake'
+gem 'minitest'

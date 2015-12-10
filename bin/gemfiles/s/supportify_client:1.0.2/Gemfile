@@ -1,0 +1,8 @@
+gem 'typhoeus'
+gem 'json'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

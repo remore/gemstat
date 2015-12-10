@@ -1,0 +1,4 @@
+gem 'nifty-cloud-sdk'
+gem 'thor'
+gem 'net-ssh'
+gem 'capistrano'

@@ -1,0 +1,8 @@
+gem 'qrencoder'
+gem 'activesupport'
+gem 'actionpack'
+gem 'fog'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rake-compiler'

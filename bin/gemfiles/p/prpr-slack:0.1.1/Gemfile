@@ -1,0 +1,5 @@
+gem 'slack-notifier'
+gem 'prpr'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

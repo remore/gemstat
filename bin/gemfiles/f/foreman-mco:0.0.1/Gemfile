@@ -1,0 +1,2 @@
+gem 'deface'
+gem 'sqlite3'

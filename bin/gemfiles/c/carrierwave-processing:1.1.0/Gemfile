@@ -1,0 +1,5 @@
+gem 'carrierwave'
+gem 'rake'
+gem 'rspec'
+gem 'mini_magick'
+gem 'rmagick'

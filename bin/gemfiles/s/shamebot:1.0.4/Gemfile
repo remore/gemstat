@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'hipchat'
+gem 'gitlab'
+gem 'trollop'
+gem 'sys-proctable'

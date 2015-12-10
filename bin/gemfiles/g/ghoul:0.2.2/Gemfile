@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'sinatra'
+gem 'sass'
+gem 'grit'
+gem 'georgedrummond_sinatra_helpers'
+gem 'ghoul_grack'
+gem 'coderay'
+gem 'redcarpet'

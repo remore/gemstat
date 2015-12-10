@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'eyes_selenium'
+gem 'selenium-webdriver'
+gem 'httparty'
+gem 'json'

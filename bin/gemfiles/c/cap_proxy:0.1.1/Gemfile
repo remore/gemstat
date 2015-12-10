@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'http_parser.rb'
+gem 'thread_safe'
+gem 'rake'
+gem 'rspec'

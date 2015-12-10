@@ -1,0 +1,7 @@
+gem 'babosa'
+gem 'activerecord'
+gem 'activesupport'
+gem 'sqlite3'
+gem 'rspec'
+gem 'guard'
+gem 'growl'

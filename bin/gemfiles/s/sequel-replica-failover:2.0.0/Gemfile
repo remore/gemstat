@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'ruby-usdt'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'guard-rspec'

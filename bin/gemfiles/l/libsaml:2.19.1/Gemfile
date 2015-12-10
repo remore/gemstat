@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'xmlmapper'
+gem 'xmldsig'
+gem 'xmlenc'
+gem 'curb'
+gem 'coveralls'

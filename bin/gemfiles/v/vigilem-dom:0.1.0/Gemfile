@@ -1,0 +1,8 @@
+gem 'vigilem-core'
+gem 'yard'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-given'
+gem 'turnip'
+gem 'guard-rspec'

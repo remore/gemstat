@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'mechanize'
+gem 'rest-client'
+gem 'json'
+gem 'nayutaya-googlemaps-polyline'

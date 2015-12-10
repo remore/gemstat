@@ -1,0 +1,6 @@
+gem 'rcov'
+gem 'rspec'
+gem 'mocha'
+gem 'bones-git'
+gem 'bones-rspec'
+gem 'bones'

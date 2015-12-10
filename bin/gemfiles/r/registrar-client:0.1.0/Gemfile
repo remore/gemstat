@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'tzinfo'
+gem 'nokogiri'
+gem 'builder'
+gem 'rspec'
+gem 'mocha'

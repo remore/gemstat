@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'nicoquery-core'
+gem 'nicoquery-parser'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

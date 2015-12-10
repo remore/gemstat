@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'thread_safe'
+gem 'activesupport'

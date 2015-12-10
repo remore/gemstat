@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'guard-compat'
+gem 'zeus'
+gem 'bundler'

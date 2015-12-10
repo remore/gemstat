@@ -1,0 +1,3 @@
+gem 'rails'
+gem 'guilded'
+gem 'shoulda'

@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'banker-ofx'
+gem 'gem-release'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'

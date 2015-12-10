@@ -1,0 +1,5 @@
+gem 'i18n'
+gem 'unicode_utils'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

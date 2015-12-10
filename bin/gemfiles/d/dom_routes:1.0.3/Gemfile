@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bundler'
+gem 'capybara-webkit'
+gem 'rspec-rails'
+gem 'jbuilder'
+gem 'jquery-rails'
+gem 'rake'

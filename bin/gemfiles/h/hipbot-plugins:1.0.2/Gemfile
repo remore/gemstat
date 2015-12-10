@@ -1,0 +1,6 @@
+gem 'hipbot'
+gem 'cleverbot'
+gem 'htmlentities'
+gem 'wolfram'
+gem 'rake'
+gem 'rspec'

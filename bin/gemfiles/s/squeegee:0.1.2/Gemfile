@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'logger'
+gem 'gem-release'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

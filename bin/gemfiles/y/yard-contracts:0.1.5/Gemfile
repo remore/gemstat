@@ -1,0 +1,7 @@
+gem 'yard'
+gem 'contracts'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'
+gem 'kramdown'

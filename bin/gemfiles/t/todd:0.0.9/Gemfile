@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'active_record'
+gem 'terminal_table'
+gem 'json'

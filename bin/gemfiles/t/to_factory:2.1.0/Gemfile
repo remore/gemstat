@@ -1,0 +1,8 @@
+gem 'factory_girl'
+gem 'ruby2ruby'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'database_cleaner'
+gem 'byebug'
+gem 'rspec'
+gem 'rake'

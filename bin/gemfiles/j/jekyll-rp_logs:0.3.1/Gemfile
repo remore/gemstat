@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'
+gem 'jekyll'
+gem 'rake'

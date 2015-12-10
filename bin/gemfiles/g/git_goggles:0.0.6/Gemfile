@@ -1,0 +1,7 @@
+gem 'thin'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'grit'
+gem 'rspec'
+gem 'rack-test'
+gem 'rake'

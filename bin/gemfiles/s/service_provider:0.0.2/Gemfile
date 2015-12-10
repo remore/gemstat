@@ -1,0 +1,2 @@
+gem 'method_decorators'
+gem 'rspec'

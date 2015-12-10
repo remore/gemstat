@@ -1,0 +1,5 @@
+gem 'RedCloth'
+gem 'zenweb'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

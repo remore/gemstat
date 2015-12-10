@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'padrino-core'
+gem 'haml'
+gem 'shoulda'
+gem 'mocha'
+gem 'rack-test'
+gem 'webrat'

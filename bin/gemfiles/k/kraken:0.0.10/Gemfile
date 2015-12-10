@@ -1,0 +1,5 @@
+gem 'net-ssh'
+gem 'chef'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

@@ -1,0 +1,5 @@
+gem 'configatron'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'

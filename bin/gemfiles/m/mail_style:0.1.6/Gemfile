@@ -1,0 +1,4 @@
+gem 'actionmailer'
+gem 'nokogiri'
+gem 'css_parser'
+gem 'rspec-rails'

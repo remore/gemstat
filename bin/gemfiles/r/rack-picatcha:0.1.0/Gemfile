@@ -1,0 +1,6 @@
+gem 'json'
+gem 'rake'
+gem 'riot'
+gem 'rack-test'
+gem 'fakeweb'
+gem 'rr'

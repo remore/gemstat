@@ -1,0 +1,4 @@
+gem 'net-ssh'
+gem 'net-sftp'
+gem 'highline'
+gem 'gli'

@@ -1,0 +1,7 @@
+gem 'httpclient'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'test-unit-mock'
+gem 'mocha'
+gem 'webmock'

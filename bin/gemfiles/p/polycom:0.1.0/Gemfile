@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'sinatra'
+gem 'net-http-digest_auth'
+gem 'activesupport'

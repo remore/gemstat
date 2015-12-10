@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'oj'
+gem 'oj_mimic_json'
+gem 'naught'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

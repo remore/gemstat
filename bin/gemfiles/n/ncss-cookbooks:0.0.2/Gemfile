@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'highline'
+gem 'aws-sdk'
+gem 'archive-tar-minitar'
+gem 'rspec'
+gem 'rdoc'
+gem 'jeweler'

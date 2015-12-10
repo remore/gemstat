@@ -1,0 +1,5 @@
+gem 'mongo'
+gem 'mongo-configure'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

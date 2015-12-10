@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'faraday-http-cache'
+gem 'omniauth-oauth2'
+gem 'warden'
+gem 'sqlite3'
+gem 'anima'
+gem 'mocha'
+gem 'pry'

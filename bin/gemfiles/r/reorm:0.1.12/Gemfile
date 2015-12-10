@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'
+gem 'configurative'
+gem 'connection_pool'
+gem 'logjam'
+gem 'rethinkdb'

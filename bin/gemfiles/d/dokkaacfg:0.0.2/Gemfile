@@ -1,0 +1,4 @@
+gem 'barge'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'

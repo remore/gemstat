@@ -1,0 +1,7 @@
+gem 'less'
+gem 'less-rails'
+gem 'jquery-rails'
+gem 'railties'
+gem 'actionpack'
+gem 'bundler'
+gem 'rails'

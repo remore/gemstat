@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'equivalent-xml'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'capybara'
+gem 'capybara-firebug'
+gem 'database_cleaner'
+gem 'sqlite3'

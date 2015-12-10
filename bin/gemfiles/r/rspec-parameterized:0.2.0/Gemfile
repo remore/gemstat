@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'parser'
+gem 'unparser'
+gem 'proc_to_ast'
+gem 'binding_of_caller'
+gem 'rake'

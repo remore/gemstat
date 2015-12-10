@@ -1,0 +1,7 @@
+gem 'json'
+gem 'addressable'
+gem 'webmock'
+gem 'redcarpet'
+gem 'rspec'
+gem 'vcr'
+gem 'yard'

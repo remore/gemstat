@@ -1,0 +1,7 @@
+gem 'spree_core'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'factory_girl'
+gem 'simplecov'
+gem 'sqlite3'

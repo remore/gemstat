@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'haml'
+gem 'json'
+gem 'rack'
+gem 'rake'
+gem 'rdoc'

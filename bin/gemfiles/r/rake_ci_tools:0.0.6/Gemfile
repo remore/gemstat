@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'cucumber'
+gem 'calabash-cucumber'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'guard-rspec'
+gem 'terminal-notifier-guard'

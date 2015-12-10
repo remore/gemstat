@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rails_admin'
+gem 'haml'
+gem 'rchardet'
+gem 'simple_xlsx_reader'

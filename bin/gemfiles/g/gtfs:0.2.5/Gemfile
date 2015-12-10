@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'multi_json'
+gem 'rubyzip'
+gem 'rspec'
+gem 'simplecov'
+gem 'ruby-debug19'
+gem 'vcr'
+gem 'fakeweb'

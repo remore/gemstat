@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'thor'
+gem 'sprockets'
+gem 'rack'
+gem 'coffee-script'
+gem 'sass'
+gem 'bundler'
+gem 'rake'

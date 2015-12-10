@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-spork'
+gem 'rake'
+gem 'activesupport'
+gem 'american_date'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'ruby-try'
+gem 'ptools'
+gem 'os'
+gem 'andand'

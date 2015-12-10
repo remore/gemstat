@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'cinch'
+gem 'redis'
+gem 'redis-namespace'
+gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'timers'
+gem 'droplet_kit'
+gem 'linode'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

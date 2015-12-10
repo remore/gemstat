@@ -1,0 +1,5 @@
+gem 'pd'
+gem 'tagen'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multi_json'

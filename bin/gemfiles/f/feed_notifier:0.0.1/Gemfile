@@ -1,0 +1,6 @@
+gem 'feedzirra'
+gem 'lunchy'
+gem 'terminal-notifier'
+gem 'bundler'
+gem 'pry-byebug'
+gem 'rake'

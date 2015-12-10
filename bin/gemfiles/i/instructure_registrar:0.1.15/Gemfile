@@ -1,0 +1,4 @@
+gem 'etcd'
+gem 'require_all'
+gem 'bundler'
+gem 'rake'

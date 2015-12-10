@@ -1,0 +1,7 @@
+gem 'mixlib-config'
+gem 'mixlib-log'
+gem 'tmail'
+gem 'json'
+gem 'fog'
+gem 'notifo'
+gem 'rest-client'

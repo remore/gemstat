@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rake'
+gem 'heroku'
+gem 'sqlite3'
+gem 'rspec'

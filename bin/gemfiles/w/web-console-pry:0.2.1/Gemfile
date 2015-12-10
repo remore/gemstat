@@ -1,0 +1,4 @@
+gem 'web-console'
+gem 'pry'
+gem 'rails'
+gem 'sqlite3'

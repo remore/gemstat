@@ -1,0 +1,3 @@
+gem 'beanstalk-client'
+gem 'rspec'
+gem 'agent'

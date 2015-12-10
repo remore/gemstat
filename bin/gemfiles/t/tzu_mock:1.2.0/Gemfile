@@ -1,0 +1,7 @@
+gem 'binding_of_caller'
+gem 'hashie'
+gem 'tzu'
+gem 'rspec'
+gem 'byebug'
+gem 'rake'
+gem 'jeweler'

@@ -1,0 +1,2 @@
+gem 'cellular_map'
+gem 'thoughtbot-shoulda'

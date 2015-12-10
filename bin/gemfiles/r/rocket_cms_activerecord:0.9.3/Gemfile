@@ -1,0 +1,8 @@
+gem 'rocket_cms'
+gem 'awesome_nested_set'
+gem 'paperclip'
+gem 'paper_trail'
+gem 'friendly_id'
+gem 'validates_lengths_from_database'
+gem 'bundler'
+gem 'rake'

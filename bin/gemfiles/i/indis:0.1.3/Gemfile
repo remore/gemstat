@@ -1,0 +1,5 @@
+gem 'main'
+gem 'terminal-table'
+gem 'indis-core'
+gem 'indis-macho'
+gem 'indis-arm'

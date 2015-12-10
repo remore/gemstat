@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rack-test'
+gem 'bundler'
+gem 'jeweler'
+gem 'rails'
+gem 'rack-test'

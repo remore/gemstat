@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rack-test'
+gem 'mocha'
+gem 'rack'

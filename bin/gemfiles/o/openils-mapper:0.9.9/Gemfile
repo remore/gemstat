@@ -1,0 +1,6 @@
+gem 'edi4r'
+gem 'edi4r-tdid'
+gem 'yajl-ruby'
+gem 'rcov'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'activerecord'
+gem 'thread_safe'
+gem 'bundler'
+gem 'rake'

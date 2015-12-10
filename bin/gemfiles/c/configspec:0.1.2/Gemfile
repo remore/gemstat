@@ -1,0 +1,8 @@
+gem 'net-ssh'
+gem 'net-scp'
+gem 'rspec'
+gem 'specinfra'
+gem 'bundler'
+gem 'rake'
+gem 'octokit'
+gem 'octorelease'

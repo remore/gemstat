@@ -1,0 +1,5 @@
+gem 'shokkenki-consumer'
+gem 'shokkenki-provider'
+gem 'rake'
+gem 'cucumber'
+gem 'relish'

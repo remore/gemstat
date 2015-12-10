@@ -1,0 +1,6 @@
+gem 'atomic'
+gem 'ref'
+gem 'thread_safe'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rspec-core'
+gem 'rake'
+gem 'git'
+gem 'textboxes'
+gem 'hashr'

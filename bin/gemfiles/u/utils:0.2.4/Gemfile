@@ -1,0 +1,5 @@
+gem 'gem_hadar'
+gem 'tins'
+gem 'term-ansicolor'
+gem 'pstree'
+gem 'pry-editline'

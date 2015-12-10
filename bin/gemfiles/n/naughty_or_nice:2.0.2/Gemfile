@@ -1,0 +1,5 @@
+gem 'public_suffix'
+gem 'addressable'
+gem 'pry'
+gem 'shoulda'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'camping'
+gem 'cramp'
+gem 'halcyon'
+gem 'padrino'
+gem 'merb'
+gem 'ramaze'
+gem 'universe-rails'
+gem 'universe-sinatra'

@@ -1,0 +1,6 @@
+gem 'icalendar'
+gem 'httparty'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

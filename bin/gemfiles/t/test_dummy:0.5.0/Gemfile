@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'protected_attributes'
+gem 'minitest'
+gem 'jeweler'
+gem 'sqlite3'

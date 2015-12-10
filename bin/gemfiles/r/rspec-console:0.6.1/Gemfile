@@ -1,0 +1,4 @@
+gem 'bond'
+gem 'rake'
+gem 'pry'
+gem 'minitest'

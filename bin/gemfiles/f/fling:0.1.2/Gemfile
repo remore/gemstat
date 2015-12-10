@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'colorize'
+gem 'base32'
+gem 'rbnacl-libsodium'
+gem 'launchy'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

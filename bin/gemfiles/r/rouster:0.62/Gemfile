@@ -1,0 +1,7 @@
+gem 'json'
+gem 'log4r'
+gem 'net-scp'
+gem 'net-ssh'
+gem 'rake'
+gem 'test-unit'
+gem 'reek'

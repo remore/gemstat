@@ -1,0 +1,6 @@
+gem 'mixlib-log'
+gem 'uuid'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'

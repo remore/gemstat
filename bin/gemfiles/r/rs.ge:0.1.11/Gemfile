@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'savon'
+gem 'prawn'
+gem 'c12-commons'
+gem 'activesupport'

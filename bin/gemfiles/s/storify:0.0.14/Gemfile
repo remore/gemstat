@@ -1,0 +1,8 @@
+gem 'json'
+gem 'rest-client'
+gem 'representable'
+gem 'nokogiri'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'io-console'

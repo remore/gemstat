@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'css_parser'
+gem 'open_uri_redirections'
+gem 'nokogiri'

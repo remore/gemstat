@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'mongo'
+gem 'mongo_ext'
+gem 'bones'

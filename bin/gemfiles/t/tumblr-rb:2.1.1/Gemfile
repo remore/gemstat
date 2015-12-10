@@ -1,0 +1,4 @@
+gem 'weary'
+gem 'sinatra'
+gem 'thor'
+gem 'launchy'

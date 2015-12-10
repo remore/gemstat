@@ -1,0 +1,4 @@
+gem 'murmurhash3'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

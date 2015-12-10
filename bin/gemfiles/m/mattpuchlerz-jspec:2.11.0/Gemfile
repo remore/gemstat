@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'json'
+gem 'visionmedia-commander'
+gem 'visionmedia-bind'

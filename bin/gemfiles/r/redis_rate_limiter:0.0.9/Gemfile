@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'mock_redis'
+gem 'coveralls'
+gem 'yard'

@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'cucumber'
+gem 'json_spec'
+gem 'rake'
+gem 'rspec'

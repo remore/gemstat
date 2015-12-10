@@ -1,0 +1,7 @@
+gem 'arbre'
+gem 'cucumber'
+gem 'json'
+gem 'deep_merge'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'

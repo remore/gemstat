@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'httparty'
+gem 'pg'
+gem 'pry-byebug'
+gem 'pry-rails'
+gem 'vcr'
+gem 'webmock'

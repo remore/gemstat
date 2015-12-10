@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'money'
+gem 'acts_as_list'
+gem 'aasm'
+gem 'activemerchant'
+gem 'rspec'
+gem 'sqlite3'
+gem 'rake'

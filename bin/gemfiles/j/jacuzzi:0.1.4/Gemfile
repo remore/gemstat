@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'git'
+gem 'rspec'
+gem 'capybara'
+gem 'trollop'
+gem 'selenium-webdriver'

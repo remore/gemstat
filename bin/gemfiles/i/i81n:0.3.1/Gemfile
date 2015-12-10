@@ -1,0 +1,4 @@
+gem 'i18n'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,2 @@
+gem 'dm-core'
+gem 'agnostic'

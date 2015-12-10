@@ -1,0 +1,5 @@
+gem 'json'
+gem 'buftok'
+gem 'http'
+gem 'http_parser.rb'
+gem 'bundler'

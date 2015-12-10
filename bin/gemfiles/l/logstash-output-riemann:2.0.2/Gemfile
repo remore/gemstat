@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'riemann-client'
+gem 'logstash-devutils'
+gem 'logstash-codec-plain'

@@ -1,0 +1,4 @@
+gem 'hkdf'
+gem 'rake-compiler'
+gem 'rake'
+gem 'rspec'

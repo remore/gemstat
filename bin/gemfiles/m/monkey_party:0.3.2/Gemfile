@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'happymapper'
+gem 'rake'
+gem 'rspec'
+gem 'fakeweb'
+gem 'vcr'
+gem 'guard-rspec'

@@ -1,0 +1,4 @@
+gem 'OptionParser'
+gem 'json'
+gem 'bundler'
+gem 'jeweler'

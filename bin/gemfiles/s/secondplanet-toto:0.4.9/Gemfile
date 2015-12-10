@@ -1,0 +1,5 @@
+gem 'riot'
+gem 'builder'
+gem 'rack'
+gem 'rdiscount'
+gem 'org-ruby'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'simplecov'
+gem 'rspec-rails'
+gem 'ammeter'
+gem 'pry-rails'
+gem 'sqlite3'

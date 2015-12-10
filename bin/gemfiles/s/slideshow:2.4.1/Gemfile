@@ -1,0 +1,5 @@
+gem 'slideshow-models'
+gem 'slideshow-templates'
+gem 'gli'
+gem 'rdoc'
+gem 'hoe'

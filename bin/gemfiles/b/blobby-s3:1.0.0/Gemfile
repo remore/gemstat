@@ -1,0 +1,2 @@
+gem 'aws-sdk-resources'
+gem 'blobby'

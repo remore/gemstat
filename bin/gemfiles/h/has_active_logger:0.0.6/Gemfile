@@ -1,0 +1,4 @@
+gem 'yell'
+gem 'json'
+gem 'activesupport'
+gem 'rspec'

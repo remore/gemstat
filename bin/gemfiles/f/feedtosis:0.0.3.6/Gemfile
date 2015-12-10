@@ -1,0 +1,4 @@
+gem 'taf2-curb'
+gem 'jsl-moneta'
+gem 'jsl-http_headers'
+gem 'feed-normalizer'

@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'happymapper'
+gem 'nokogiri-happymapper'
+gem 'builder'
+gem 'crack'

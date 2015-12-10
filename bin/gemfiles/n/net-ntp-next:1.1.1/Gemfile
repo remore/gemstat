@@ -1,0 +1,5 @@
+gem 'net-ntp'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'
+gem 'redcarpet'

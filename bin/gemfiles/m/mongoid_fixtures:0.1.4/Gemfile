@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'linguistics'
+gem 'mongoid'
+gem 'monkey_patches'
+gem 'bcrypt'

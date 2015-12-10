@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'structured_warnings'
+gem 'test-unit'
+gem 'rake'
+gem 'win32-security'

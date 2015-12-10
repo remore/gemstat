@@ -1,0 +1,7 @@
+gem 'tinder'
+gem 'nokogiri'
+gem 'json'
+gem 'jeweler'
+gem 'rspec'
+gem 'mocha'
+gem 'rcov'

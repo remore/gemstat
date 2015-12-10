@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'simpleidn'
+gem 'rake'
+gem 'rdoc'
+gem 'mocha'
+gem 'bundler'
+gem 'activesupport'

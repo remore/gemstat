@@ -1,0 +1,6 @@
+gem 'excon'
+gem 'multi_json'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rspec'
+gem 'webmock'

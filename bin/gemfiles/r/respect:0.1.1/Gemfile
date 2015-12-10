@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'yard'
+gem 'mocha'
+gem 'rake'
+gem 'redcarpet'
+gem 'debugger'

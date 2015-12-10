@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rest-client'
+gem 'smster_ruby'
+gem 'sqlite3'

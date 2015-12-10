@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'json'
+gem 'concurrent-ruby'
+gem 'faraday'
+gem 'faraday-cookie_jar'
+gem 'ms_rest'

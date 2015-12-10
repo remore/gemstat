@@ -1,0 +1,2 @@
+gem 'sexy_validations'
+gem 'rspec'

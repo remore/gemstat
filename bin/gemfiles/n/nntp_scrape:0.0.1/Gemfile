@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'activesupport'
+gem 'hashie'
+gem 'pry'

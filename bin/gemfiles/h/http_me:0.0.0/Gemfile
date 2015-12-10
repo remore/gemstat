@@ -1,0 +1,7 @@
+gem 'wannabe_bool'
+gem 'coveralls'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

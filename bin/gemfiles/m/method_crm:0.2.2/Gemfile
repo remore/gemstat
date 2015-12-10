@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'multi_xml'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

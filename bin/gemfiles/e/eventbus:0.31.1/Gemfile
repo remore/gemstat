@@ -1,0 +1,4 @@
+gem 'amqp'
+gem 'stomp'
+gem 'uuid'
+gem 'activesupport'

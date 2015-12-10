@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ether_ping'

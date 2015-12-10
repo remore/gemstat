@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'capybara'
+gem 'sqlite3-ruby'
+gem 'jeweler'
+gem 'thoughtbot-shoulda'

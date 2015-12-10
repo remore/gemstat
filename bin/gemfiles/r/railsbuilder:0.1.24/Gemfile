@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'lineparser'
+gem 'rdiscount'
+gem 'rxfhelper'
+gem 'activity-logger'

@@ -1,0 +1,7 @@
+gem 'pre-commit'
+gem 'guard'
+gem 'guard-minitest'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
+gem 'rake'

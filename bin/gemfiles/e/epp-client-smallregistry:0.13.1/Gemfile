@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'nokogiri'
+gem 'builder'
+gem 'epp-client-base'
+gem 'epp-client-secdns'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'bunny'
+gem 'multi_json'
+gem 'json'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'reek'
+gem 'minitest'
+gem 'rdoc'
+gem 'awesome_print'

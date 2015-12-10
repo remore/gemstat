@@ -1,0 +1,4 @@
+gem 'mongoid'
+gem 'employer'
+gem 'rspec'
+gem 'pry'

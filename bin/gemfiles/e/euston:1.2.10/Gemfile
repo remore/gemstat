@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'awesome_print'
+gem 'fuubar'
+gem 'rake'
+gem 'rspec'
+gem 'uuid'

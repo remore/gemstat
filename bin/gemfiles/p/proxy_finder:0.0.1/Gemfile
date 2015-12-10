@@ -1,0 +1,2 @@
+gem 'net-ping'
+gem 'ruby-progressbar'

@@ -1,0 +1,5 @@
+gem 'ox'
+gem 'excon'
+gem 'multipart-parser'
+gem 'rake'
+gem 'rspec'

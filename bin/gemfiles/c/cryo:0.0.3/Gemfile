@@ -1,0 +1,5 @@
+gem 'colorize'
+gem 'trollop'
+gem 'aws-sdk'
+gem 'net-ntp'
+gem 'pry'

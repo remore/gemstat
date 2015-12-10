@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'jeweler'
+gem 'rspec'
+gem 'shoulda-matchers'

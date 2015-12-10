@@ -1,0 +1,5 @@
+gem 'rspec-rails'
+gem 'rspec'
+gem 'rails'
+gem 'haml-rails'
+gem 'attr_required'

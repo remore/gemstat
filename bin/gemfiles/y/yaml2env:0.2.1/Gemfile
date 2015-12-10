@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'rake'
+gem 'bundler'
+gem 'minitest'
+gem 'guard'
+gem 'guard-bundler'
+gem 'guard-minitest'
+gem 'mocha'

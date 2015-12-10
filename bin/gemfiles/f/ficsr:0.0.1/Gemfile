@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'autotest'
+gem 'autotest-growl'
+gem 'autotest-fsevent'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'bunny'
+gem 'oj'
+gem 'hamster'
+gem 'thread'

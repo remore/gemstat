@@ -1,0 +1,5 @@
+gem 'msgpack-rpc-over-http'
+gem 'thor'
+gem 'ltsv'
+gem 'bundler'
+gem 'rake'

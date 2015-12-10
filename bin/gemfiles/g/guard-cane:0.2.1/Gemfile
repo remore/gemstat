@@ -1,0 +1,6 @@
+gem 'cane'
+gem 'guard'
+gem 'guard-compat'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'

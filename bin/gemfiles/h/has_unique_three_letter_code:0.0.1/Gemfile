@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'bcdatabase'
+gem 'mysql2'
+gem 'activerecord'

@@ -1,0 +1,5 @@
+gem 'json'
+gem 'schleyfox-grit'
+gem 'schleyfox-lockfile'
+gem 'shoulda'
+gem 'mocha'

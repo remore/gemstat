@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'activesupport'
+gem 'rblineprof'

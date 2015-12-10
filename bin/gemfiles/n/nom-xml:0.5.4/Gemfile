@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'nokogiri'
+gem 'equivalent-xml'
+gem 'rspec'
+gem 'rake'
+gem 'yard'

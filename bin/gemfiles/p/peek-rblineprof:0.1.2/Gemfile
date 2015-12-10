@@ -1,0 +1,4 @@
+gem 'peek'
+gem 'rblineprof'
+gem 'bundler'
+gem 'rake'

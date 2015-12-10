@@ -1,0 +1,2 @@
+gem 'hiera-eyaml'
+gem 'ruby_gpg'

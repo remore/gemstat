@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'appraisal'
+gem 'bundler'
+gem 'fury'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

@@ -1,0 +1,5 @@
+gem 'rack-test'
+gem 'rspec'
+gem 'memcache-client'
+gem 'rack'
+gem 'system_timer'

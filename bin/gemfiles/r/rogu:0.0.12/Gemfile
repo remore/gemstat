@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'typhoeus'
+gem 'highline'
+gem 'json'
+gem 'table_print'
+gem 'bundler'
+gem 'rake'

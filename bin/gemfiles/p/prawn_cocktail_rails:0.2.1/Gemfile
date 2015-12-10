@@ -1,0 +1,4 @@
+gem 'prawn_cocktail'
+gem 'rails'
+gem 'rake'
+gem 'pdf-inspector'

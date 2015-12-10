@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'actionmailer'
+gem 'httparty'
+gem 'json'
+gem 'mail'
+gem 'minitest'
+gem 'rake'
+gem 'webmock'

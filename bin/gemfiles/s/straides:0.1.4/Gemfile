@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rack'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rb-fsevent'
+gem 'rspec-rails'

@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'configatron'
+gem 'aws-s3'
+gem 'rush'
+gem 'rspec'
+gem 'yard'
+gem 'mocha'
+gem 'fakefs'

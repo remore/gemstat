@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'rubocop'
+gem 'rake'
+gem 'codecov'
+gem 'rspec'
+gem 'fuubar'
+gem 'webmock'
+gem 'vcr'

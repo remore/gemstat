@@ -1,0 +1,7 @@
+gem 'librarian-puppet'
+gem 'librarian'
+gem 'net-http-persistent'
+gem 'puppet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

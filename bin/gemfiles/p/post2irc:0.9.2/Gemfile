@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'cinch'
+gem 'json'
+gem 'xml-simple'

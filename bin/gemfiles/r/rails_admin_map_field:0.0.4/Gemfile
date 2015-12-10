@@ -1,0 +1,4 @@
+gem 'devise'
+gem 'rspec-rails'
+gem 'yard'
+gem 'rails'

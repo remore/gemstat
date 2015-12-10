@@ -1,0 +1,6 @@
+gem 'json'
+gem 'curb'
+gem 'hashie'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-mocks'

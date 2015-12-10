@@ -1,0 +1,8 @@
+gem 'simplecov'
+gem 'simplecov-html'
+gem 'simplecov-console'
+gem 'multi_json'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'minitest'

@@ -1,0 +1,8 @@
+gem 'ruby-graphviz'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'ruby-debug19'
+gem 'guard'
+gem 'guard-rspec'

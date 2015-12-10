@@ -1,0 +1,5 @@
+gem 'bubble-wrap'
+gem 'motion-support'
+gem 'bundler'
+gem 'rake'
+gem 'webstub'

@@ -1,0 +1,4 @@
+gem 'net-ssh'
+gem 'highline'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'ckeditor'
+gem 'friendly_id'
+gem 'foreigner'
+gem 'awesome_nested_set'
+gem 'paperclip'
+gem 'mcms_authentication'

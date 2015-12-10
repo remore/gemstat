@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'thor'
+gem 'clipboard'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'yt'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'coveralls'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'workflow'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

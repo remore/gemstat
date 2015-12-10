@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'activeresource'
+gem 'sqlite3-ruby'
+gem 'rspec'
+gem 'mocha'
+gem 'webrat'
+gem 'nokogiri'

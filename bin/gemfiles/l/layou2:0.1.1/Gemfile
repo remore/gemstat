@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'test-unit'
+gem 'mocha'
+gem 'webrat'
+gem 'rails'
+gem 'sqlite3-ruby'

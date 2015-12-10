@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'happymapper'

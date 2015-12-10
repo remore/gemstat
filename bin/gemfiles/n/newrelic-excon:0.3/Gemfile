@@ -1,0 +1,2 @@
+gem 'excon'
+gem 'newrelic_rpm'

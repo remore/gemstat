@@ -1,0 +1,5 @@
+gem 'rubocop'
+gem 'multi_json'
+gem 'pry'
+gem 'rspec'
+gem 'sequel'

@@ -1,0 +1,4 @@
+gem 'daemons'
+gem 'redis'
+gem 'yajl-ruby'
+gem 'twitter'

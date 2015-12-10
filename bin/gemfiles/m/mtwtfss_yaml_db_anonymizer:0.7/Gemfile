@@ -1,0 +1,5 @@
+gem 'mtwtfss_yaml_db'
+gem 'rspec'
+gem 'rails'
+gem 'guard-rspec'
+gem 'guard-spork'

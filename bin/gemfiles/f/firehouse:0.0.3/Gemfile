@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rest-client'
+gem 'sqlite3'
+gem 'launchy'
+gem 'geocoder'

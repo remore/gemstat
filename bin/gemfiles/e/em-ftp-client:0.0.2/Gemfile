@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'net-ftp-list'
+gem 'shoulda'
+gem 'mocha'
+gem 'redgreen'
+gem 'rake'

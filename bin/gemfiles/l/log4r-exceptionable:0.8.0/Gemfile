@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'awesome_print'
+gem 'rack-test'
+gem 'resque'
+gem 'sidekiq'
+gem 'log4r'

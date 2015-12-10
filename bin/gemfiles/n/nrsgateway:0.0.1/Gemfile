@@ -1,0 +1,4 @@
+gem 'global_phone'
+gem 'rake'
+gem 'rspec'
+gem 'json'

@@ -1,0 +1,6 @@
+gem 'database_cleaner'
+gem 'factory_girl_rails'
+gem 'rails'
+gem 'pry'
+gem 'rspec-rails'
+gem 'sqlite3'

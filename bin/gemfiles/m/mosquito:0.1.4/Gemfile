@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'camping'
+gem 'hoe'

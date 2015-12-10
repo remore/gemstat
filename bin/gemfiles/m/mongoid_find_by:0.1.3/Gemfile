@@ -1,0 +1,4 @@
+gem 'mongoid'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'

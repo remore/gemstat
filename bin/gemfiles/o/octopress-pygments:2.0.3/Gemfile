@@ -1,0 +1,5 @@
+gem 'pygments.rb'
+gem 'colorator'
+gem 'octopress-ink'
+gem 'rake'
+gem 'rspec'

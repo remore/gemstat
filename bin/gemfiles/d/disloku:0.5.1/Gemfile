@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'net-sftp'
+gem 'rainbow'
+gem 'rake'
+gem 'rspec'

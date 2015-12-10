@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'mail'
+gem 'cattr'
+gem 'awesome_print'
+gem 'jaconda'
+gem 'gist'
+gem 'pastie-api'
+gem 'jira-api'

@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'listen'
+gem 'pry'
+gem 'lumberjack'
+gem 'formatador'
+gem 'nenv'
+gem 'shellany'
+gem 'notiffany'

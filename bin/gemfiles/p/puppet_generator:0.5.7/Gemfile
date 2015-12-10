@@ -1,0 +1,8 @@
+gem 'middleware'
+gem 'ansi'
+gem 'erubis'
+gem 'activesupport'
+gem 'fedux_org-stdlib'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

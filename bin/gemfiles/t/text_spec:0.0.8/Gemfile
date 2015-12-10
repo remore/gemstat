@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rspec'
+gem 'twilio-ruby'
+gem 'guard-rspec'
+gem 'pry'

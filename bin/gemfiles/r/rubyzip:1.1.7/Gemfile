@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'pry'
+gem 'minitest'
+gem 'coveralls'
+gem 'guard'
+gem 'guard-minitest'

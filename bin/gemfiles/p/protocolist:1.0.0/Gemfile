@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'supermodel'
+gem 'psych'
+gem 'railties'

@@ -1,0 +1,4 @@
+gem 'thrift'
+gem 'json'
+gem 'rake'
+gem 'bundler'

@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'pry'
+gem 'ruby-termios'
+gem 'highline'

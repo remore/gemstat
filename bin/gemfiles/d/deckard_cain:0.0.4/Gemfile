@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'coveralls'
+gem 'webmock'
+gem 'vcr'
+gem 'json'

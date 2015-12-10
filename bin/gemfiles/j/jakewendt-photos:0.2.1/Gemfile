@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'rails'
+gem 'paperclip'
+gem 'jakewendt-rails_helpers'
+gem 'jakewendt-ruby_extension'
+gem 'ryanb-acts-as-list'
+gem 'jakewendt-calnet_authenticated'
+gem 'jakewendt-authorized'

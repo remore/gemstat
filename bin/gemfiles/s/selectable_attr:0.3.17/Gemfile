@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'autotest'
+gem 'rdiscount'

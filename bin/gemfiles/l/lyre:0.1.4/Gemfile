@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'capybara'
+gem 'thin'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'

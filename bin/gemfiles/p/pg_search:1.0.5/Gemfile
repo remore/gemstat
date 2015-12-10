@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'arel'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'with_model'
+gem 'rubocop'

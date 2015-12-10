@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'slog'
+gem 'hashie'
+gem 'sinatra'
+gem 'ridley'
+gem 'deep_merge'
+gem 'eventmachine'
+gem 'thin'

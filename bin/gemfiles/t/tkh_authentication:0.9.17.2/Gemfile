@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'bcrypt'
+gem 'simple_form'
+gem 'stringex'
+gem 'sqlite3'

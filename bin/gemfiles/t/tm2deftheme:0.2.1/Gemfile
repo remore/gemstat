@@ -1,0 +1,4 @@
+gem 'plist4r'
+gem 'color'
+gem 'slop'
+gem 'erubis'

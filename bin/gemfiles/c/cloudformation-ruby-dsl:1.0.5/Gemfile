@@ -1,0 +1,7 @@
+gem 'detabulator'
+gem 'json'
+gem 'bundler'
+gem 'aws-sdk'
+gem 'diffy'
+gem 'highline'
+gem 'rake'

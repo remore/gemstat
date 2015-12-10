@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rake'
+gem 'bson_ext'
+gem 'mongoid'
+gem 'devise'
+gem 'inherited_resources'
+gem 'jeweler'

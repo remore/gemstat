@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'fakeweb'
+gem 'cinch-test'
+gem 'nokogiri'

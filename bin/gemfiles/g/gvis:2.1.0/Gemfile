@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rake'
+gem 'bundler'
+gem 'minitest'
+gem 'coveralls'
+gem 'appraisal'
+gem 'actionpack'

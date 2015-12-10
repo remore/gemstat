@@ -1,0 +1,4 @@
+gem 'knjrbfw'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

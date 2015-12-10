@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'coveralls'
+gem 'minitest'
+gem 'minitest-implicit-subject'
+gem 'rb-readline'
+gem 'guard-minitest'

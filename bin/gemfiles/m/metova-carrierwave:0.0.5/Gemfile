@@ -1,0 +1,5 @@
+gem 'fog'
+gem 'fog-aws'
+gem 'carrierwave'
+gem 'bundler'
+gem 'rake'

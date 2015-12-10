@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'rails-deprecated_sanitizer'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

@@ -1,0 +1,4 @@
+gem 'isbn10'
+gem 'andand'
+gem 'handsoap'
+gem 'ean13'

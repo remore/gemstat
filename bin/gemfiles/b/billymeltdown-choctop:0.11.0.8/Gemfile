@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'builder'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'newgem'
+gem 'hoe'

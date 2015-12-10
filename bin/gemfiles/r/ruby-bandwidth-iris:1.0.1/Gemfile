@@ -1,0 +1,8 @@
+gem 'builder'
+gem 'faraday'
+gem 'nori'
+gem 'activesupport'
+gem 'certified'
+gem 'bundler'
+gem 'rake'
+gem 'yard'

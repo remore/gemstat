@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rr'
+gem 'rdoc'
+gem 'rake'
+gem 'pry'
+gem 'strand'
+gem 'eventmachine'

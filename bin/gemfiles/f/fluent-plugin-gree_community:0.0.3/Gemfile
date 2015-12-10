@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'fluentd'
+gem 'gree-community'
+gem 'fluentd'
+gem 'pit'

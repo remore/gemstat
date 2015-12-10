@@ -1,0 +1,6 @@
+gem 'alias_e'
+gem 'colour_aid'
+gem 'load_cookbook_file'
+gem 'find_alternative_archive'
+gem 'try_syck'
+gem 'verbose_truth'

@@ -1,0 +1,8 @@
+gem 'json'
+gem 'grit'
+gem 'typhoeus'
+gem 'jeweler'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'ruby-debug'

@@ -1,0 +1,5 @@
+gem 'couchrest'
+gem 'couchrest_model'
+gem 'cucumber'
+gem 'rspec'
+gem 'couchrest_model_config'

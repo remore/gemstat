@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'thor'
+gem 'harvested'
+gem 'daemons'
+gem 'terminal-notifier'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bcrypt-ruby'
+gem 'attr-csv'
+gem 'will_paginate'
+gem 'foreigner'
+gem 'mysql2'

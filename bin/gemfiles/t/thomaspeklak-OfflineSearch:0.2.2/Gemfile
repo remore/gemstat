@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'Text'
+gem 'filefinder'
+gem 'progressbar'

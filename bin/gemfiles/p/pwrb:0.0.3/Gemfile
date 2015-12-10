@@ -1,0 +1,5 @@
+gem 'gpgme'
+gem 'tabularize'
+gem 'clipboard'
+gem 'highline'
+gem 'bundler'

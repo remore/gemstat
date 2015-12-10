@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'user_agent_parser'
+gem 'lru_redux'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

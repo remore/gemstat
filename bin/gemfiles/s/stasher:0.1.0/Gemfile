@@ -1,0 +1,5 @@
+gem 'logstash-event'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rails'

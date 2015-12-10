@@ -1,0 +1,6 @@
+gem 'childprocess'
+gem 'rspec'
+gem 'bogus'
+gem 'rake'
+gem 'mutant'
+gem 'coveralls'

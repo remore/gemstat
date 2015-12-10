@@ -1,0 +1,6 @@
+gem 'on'
+gem 'rake'
+gem 'rdoc'
+gem 'minitest'
+gem 'testem'
+gem 'simplecov'

@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'yajl-ruby'
+gem 'hashie'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'ruby-debug'

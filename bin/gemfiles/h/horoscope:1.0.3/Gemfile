@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'pry-byebug'
+gem 'rmagick'
+gem 'erubis'

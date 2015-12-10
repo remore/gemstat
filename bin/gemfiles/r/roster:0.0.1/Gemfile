@@ -1,0 +1,2 @@
+gem 'sinatra-contrib'
+gem 'rake'

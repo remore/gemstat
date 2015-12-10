@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'sqlite3-ruby'
+gem 'jeweler'
+gem 'sequel'
+gem 'sqlite3-ruby'

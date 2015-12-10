@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'turn'
+gem 'minitest'
+gem 'awesome_print'
+gem 'pry-rescue'
+gem 'simplecov'

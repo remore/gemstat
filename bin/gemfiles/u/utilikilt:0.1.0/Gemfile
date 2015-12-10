@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'rb-fsevent'
+gem 'haml'
+gem 'sass'
+gem 'redcarpet'
+gem 'tilt'
+gem 'powder'
+gem 'showoff-io'

@@ -1,0 +1,8 @@
+gem 'flapjack-diner'
+gem 'ruby_deep_clone'
+gem 'deep_merge'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'docker-api'
+gem 'simplecov'

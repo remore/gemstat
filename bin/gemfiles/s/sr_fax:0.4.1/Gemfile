@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'yard'
+gem 'logger'
+gem 'oj'
+gem 'activesupport'
+gem 'rest-client'

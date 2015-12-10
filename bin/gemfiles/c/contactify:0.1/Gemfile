@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'recaptcha'
+gem 'mysql2'
+gem 'jquery-rails'

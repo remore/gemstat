@@ -1,0 +1,7 @@
+gem 'ruby_protobuf'
+gem 'json_spec'
+gem 'cuke_mem'
+gem 'rspec'
+gem 'jeweler'
+gem 'cucumber'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'lazier'
+gem 'html-pipeline'
+gem 'slim'
+gem 'kramdown'
+gem 'rinku'
+gem 'gemoji'

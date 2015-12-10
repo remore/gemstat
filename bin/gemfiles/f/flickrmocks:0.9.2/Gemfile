@@ -1,0 +1,8 @@
+gem 'flickraw'
+gem 'chronic'
+gem 'ruby-debug19'
+gem 'will_paginate'
+gem 'rspec'
+gem 'factory_girl_rails'
+gem 'faker'
+gem 'flickraw-cached'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'activemodel'
+gem 'railties'
+gem 'strong_parameters'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

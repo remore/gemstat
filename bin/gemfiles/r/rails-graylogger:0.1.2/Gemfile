@@ -1,0 +1,5 @@
+gem 'gelf'
+gem 'activesupport'
+gem 'request_store'
+gem 'rspec'
+gem 'rake'

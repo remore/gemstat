@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'
+gem 'simplecov'
+gem 'coveralls'
+gem 'fix-protocol'
+gem 'eventmachine'

@@ -1,0 +1,6 @@
+gem 'sass'
+gem 'compass-core'
+gem 'compass-import-once'
+gem 'chunky_png'
+gem 'rb-fsevent'
+gem 'rb-inotify'

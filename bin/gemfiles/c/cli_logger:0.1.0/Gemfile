@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'
+gem 'pry'
+gem 'simplecov'
+gem 'colorize'

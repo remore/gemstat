@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'omniauth'
+gem 'omniauth-icis'
+gem 'sqlite3'

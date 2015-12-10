@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'hoe-doofus'
+gem 'hoe-gemspec'
+gem 'hoe-git'
+gem 'hoe-seattlerb'
+gem 'hoe'

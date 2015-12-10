@@ -1,0 +1,4 @@
+gem 'mixlib-config'
+gem 'json'
+gem 'open4'
+gem 'rest-client'

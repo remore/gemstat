@@ -1,0 +1,4 @@
+gem 'faraday'
+gem 'map'
+gem 'bundler'
+gem 'rake'

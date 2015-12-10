@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'web_client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'

@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'multi_json'
+gem 'multipart-post'
+gem 'rdoc'
+gem 'hoe'

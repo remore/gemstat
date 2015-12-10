@@ -1,0 +1,7 @@
+gem 'grape'
+gem 'active_model_serializers'
+gem 'rspec'
+gem 'rack-test'
+gem 'rake'
+gem 'jazz_hands'
+gem 'guard-rspec'

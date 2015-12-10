@@ -1,0 +1,2 @@
+gem 'progressbar'
+gem 'nokogiri'

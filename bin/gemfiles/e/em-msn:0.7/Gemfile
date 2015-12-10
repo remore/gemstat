@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'guid'
+gem 'rspec'

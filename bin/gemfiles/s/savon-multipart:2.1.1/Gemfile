@@ -1,0 +1,7 @@
+gem 'savon'
+gem 'mail'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'autotest'
+gem 'transpec'

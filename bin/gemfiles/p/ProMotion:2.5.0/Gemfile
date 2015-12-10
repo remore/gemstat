@@ -1,0 +1,6 @@
+gem 'methadone'
+gem 'motion_print'
+gem 'webstub'
+gem 'motion-stump'
+gem 'motion-redgreen'
+gem 'rake'

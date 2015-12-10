@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'fuzzy_match'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

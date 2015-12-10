@@ -1,0 +1,5 @@
+gem 'prawn'
+gem 'prawn-table'
+gem 'rails'
+gem 'sqlite3'
+gem 'pdf-reader'

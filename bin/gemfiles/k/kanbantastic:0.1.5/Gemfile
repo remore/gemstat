@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'httparty'
+gem 'rspec'
+gem 'fakeweb'
+gem 'vcr'
+gem 'mocha'

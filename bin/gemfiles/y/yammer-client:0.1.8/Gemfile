@@ -1,0 +1,8 @@
+gem 'oj'
+gem 'multi_json'
+gem 'rest-client'
+gem 'addressable'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

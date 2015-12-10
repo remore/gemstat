@@ -1,0 +1,5 @@
+gem 'simple_stats'
+gem 'orderedhash'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

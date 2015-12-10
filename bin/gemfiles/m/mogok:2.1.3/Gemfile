@@ -1,0 +1,4 @@
+gem 'multipart-post'
+gem 'ruby-progressbar'
+gem 'thor'
+gem 'polling'

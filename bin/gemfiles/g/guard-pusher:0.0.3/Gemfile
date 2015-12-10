@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'pusher'
+gem 'bundler'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'

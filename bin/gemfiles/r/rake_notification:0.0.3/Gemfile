@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'breacan'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rspec-its'

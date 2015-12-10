@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'resque-lock-timeout'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'spinto-jekyll'
+gem 'coffee-script'
+gem 'sass'
+gem 'compass'
+gem 'less'
+gem 'RedCloth'
+gem 'rake'
+gem 'rdoc'

@@ -1,0 +1,4 @@
+gem 'virtus'
+gem 'plexus'
+gem 'ruby-graphviz'
+gem 'rspec'

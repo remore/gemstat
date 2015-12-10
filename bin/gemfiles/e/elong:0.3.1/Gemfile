@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rest-client'
+gem 'multi_json'
+gem 'multi_xml'
+gem 'activesupport'
+gem 'nokogiri'

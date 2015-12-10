@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'chrono'
+gem 'ellen'
+gem 'bundler'
+gem 'rake'

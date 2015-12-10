@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'hashie'
+gem 'builder'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

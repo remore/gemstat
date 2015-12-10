@@ -1,0 +1,7 @@
+gem 'httmultiparty'
+gem 'json'
+gem 'bundler'
+gem 'mocha'
+gem 'rake'
+gem 'webmock'
+gem 'rspec'

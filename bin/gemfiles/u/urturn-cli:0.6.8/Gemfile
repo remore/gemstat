@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'rest-client'
+gem 'netrc'
+gem 'rake'
+gem 'highline'
+gem 'rubyzip'
+gem 'json'
+gem 'activesupport'

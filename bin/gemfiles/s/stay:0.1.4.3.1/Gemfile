@@ -1,0 +1,2 @@
+gem 'jquery-rails'
+gem 'tinymce-rails'

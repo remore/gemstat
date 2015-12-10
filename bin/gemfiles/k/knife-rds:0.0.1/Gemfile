@@ -1,0 +1,7 @@
+gem 'chef'
+gem 'aws-sdk'
+gem 'rspec'
+gem 'rake'
+gem 'fakeweb'
+gem 'pry'
+gem 'rubocop'

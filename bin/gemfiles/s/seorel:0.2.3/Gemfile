@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rspec-its'
+gem 'sqlite3'
+gem 'database_cleaner'

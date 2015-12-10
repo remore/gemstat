@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'guard'
+gem 'rb-inotify'
+gem 'libnotify'
+gem 'guard-rspec'
+gem 'sprinkle'
+gem 'i18n'

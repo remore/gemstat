@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'zurb-foundation'
+gem 'compass'
+gem 'jquery-rails'

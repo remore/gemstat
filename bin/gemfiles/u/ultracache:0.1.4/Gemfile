@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'redis'
+gem 'json'
+gem 'rspec'
+gem 'mocha'
+gem 'bson_ext'
+gem 'mongoid'

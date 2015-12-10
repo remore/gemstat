@@ -1,0 +1,6 @@
+gem 'table_cloth'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'actionpack'
+gem 'activemodel'

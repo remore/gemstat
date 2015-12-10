@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'json'
+gem 'multi_json'
+gem 'activesupport'
+gem 'rake'
+gem 'rspec'
+gem 'supermodel'
+gem 'mock_redis'

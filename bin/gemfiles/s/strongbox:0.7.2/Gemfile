@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'thoughtbot-shoulda'
+gem 'sqlite3'
+gem 'rake'
+gem 'rdoc'
+gem 'test-unit'

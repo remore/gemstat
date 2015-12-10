@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'mechanize'
+gem 'net-ssh'
+gem 'rails'
+gem 'rspec'
+gem 'sqlite3'
+gem 'mysql2'
+gem 'activerecord-import'

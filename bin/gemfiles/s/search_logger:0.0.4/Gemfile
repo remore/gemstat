@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'guard'
+gem 'nokogiri'
+gem 'httpclient'
+gem 'mysql2'

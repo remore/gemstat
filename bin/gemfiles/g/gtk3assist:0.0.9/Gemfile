@@ -1,0 +1,6 @@
+gem 'gir_ffi-gtk'
+gem 'xml-simple'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

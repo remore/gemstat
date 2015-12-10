@@ -1,0 +1,4 @@
+gem 'databasedotcom'
+gem 'sourcify'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'virtus'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-spec-context'

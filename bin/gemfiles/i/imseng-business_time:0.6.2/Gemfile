@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'tzinfo'
+gem 'appraisal'
+gem 'rake'
+gem 'shoulda'
+gem 'rdoc'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'typhoeus'
+gem 'haml'
+gem 'jquery-rails'
+gem 'sass-rails'
+gem 'ransack'

@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'link_header'
+gem 'redis'
+gem 'rspec'
+gem 'simplecov-rcov'
+gem 'mock_redis'

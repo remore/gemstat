@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'
+gem 'nokogiri'
+gem 'nori'

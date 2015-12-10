@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rest-client'
+gem 'shoulda'
+gem 'rspec-rails'
+gem 'rake'

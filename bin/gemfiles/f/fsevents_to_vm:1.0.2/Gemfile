@@ -1,0 +1,5 @@
+gem 'rb-fsevent'
+gem 'thor'
+gem 'net-ssh'
+gem 'bundler'
+gem 'rake'

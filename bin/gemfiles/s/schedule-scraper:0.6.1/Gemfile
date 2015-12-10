@@ -1,0 +1,8 @@
+gem 'nibbler'
+gem 'nokogiri'
+gem 'ri_cal'
+gem 'minitest'
+gem 'rake'
+gem 'turn'
+gem 'vcr'
+gem 'fakeweb'

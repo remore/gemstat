@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bundler'
+gem 'jeweler'
+gem 'mysql2'
+gem 'pg'
+gem 'sqlite3'

@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'erubis'
+gem 'ruby_parser'
+gem 'haml'
+gem 'simplecov'
+gem 'minitest'
+gem 'rake'

@@ -1,0 +1,8 @@
+gem 'omniauth'
+gem 'omniauth-openid'
+gem 'ruby-openid-apps-discovery'
+gem 'ruby-openid'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'

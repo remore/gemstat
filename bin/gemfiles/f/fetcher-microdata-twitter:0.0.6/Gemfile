@@ -1,0 +1,4 @@
+gem 'discoverer'
+gem 'virtus'
+gem 'fetcher-microdata'
+gem 'rspec'

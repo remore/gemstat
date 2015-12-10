@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'coffee-rails'
+gem 'jquery-rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'rails'

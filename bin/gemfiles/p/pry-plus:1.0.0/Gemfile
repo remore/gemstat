@@ -1,0 +1,7 @@
+gem 'pry-doc'
+gem 'pry-docmore'
+gem 'pry-debugger'
+gem 'pry-stack_explorer'
+gem 'pry-rescue'
+gem 'bond'
+gem 'jist'

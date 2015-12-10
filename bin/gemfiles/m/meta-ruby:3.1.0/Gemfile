@@ -1,0 +1,5 @@
+gem 'infraruby-shim'
+gem 's-expression'
+gem 'fab'
+gem 'infraruby-task'
+gem 'rspec'

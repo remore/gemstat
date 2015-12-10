@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'minitest'
+gem 'rake'
+gem 'awesome_print'
+gem 'gosu'
+gem 'parslet'

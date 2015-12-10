@@ -1,0 +1,5 @@
+gem 'pd-blender'
+gem 'zk'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

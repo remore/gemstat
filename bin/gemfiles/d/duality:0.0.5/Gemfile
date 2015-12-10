@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'rdoc'
+gem 'diskcached'
+gem 'mongocached'

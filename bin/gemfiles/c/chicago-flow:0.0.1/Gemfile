@@ -1,0 +1,8 @@
+gem 'fastercsv'
+gem 'sequel'
+gem 'sequel_load_data_infile'
+gem 'sequel_fast_columns'
+gem 'mysql'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

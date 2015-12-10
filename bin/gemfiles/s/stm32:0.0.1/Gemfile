@@ -1,0 +1,2 @@
+gem 'srec'
+gem 'minimal-http-ruby'

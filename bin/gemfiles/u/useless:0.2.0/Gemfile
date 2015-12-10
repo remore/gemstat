@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'low'
+gem 'mongo'
+gem 'bson'
+gem 'bson_ext'
+gem 'rspec'
+gem 'rack-test'

@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'unlock_gateway'
+gem 'moip-assinaturas'
+gem 'sqlite3'

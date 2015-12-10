@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'faraday'
+gem 'multi_xml'
+gem 'omniauth'

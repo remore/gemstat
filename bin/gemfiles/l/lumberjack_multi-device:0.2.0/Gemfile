@@ -1,0 +1,8 @@
+gem 'lumberjack'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

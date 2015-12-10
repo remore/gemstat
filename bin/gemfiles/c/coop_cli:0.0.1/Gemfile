@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'gli'
+gem 'json'
+gem 'rake'
+gem 'rdoc'

@@ -1,0 +1,5 @@
+gem 'dydx'
+gem 'bundler'
+gem 'rake'
+gem 'rake-compiler'
+gem 'minitest'

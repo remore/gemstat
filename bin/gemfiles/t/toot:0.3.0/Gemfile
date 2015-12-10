@@ -1,0 +1,7 @@
+gem 'sidekiq'
+gem 'rack'
+gem 'faraday'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

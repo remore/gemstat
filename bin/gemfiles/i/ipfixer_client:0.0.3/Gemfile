@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'daemons'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'debugger'

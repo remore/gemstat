@@ -1,0 +1,8 @@
+gem 'rack-test'
+gem 'mechanize'
+gem 'httpclient'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'

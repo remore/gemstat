@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'methadone'
+gem 'paint'
+gem 'ruby-progressbar'
+gem 'thread'
+gem 'bundler'
+gem 'rake'

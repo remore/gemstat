@@ -1,0 +1,8 @@
+gem 'evil-front'
+gem 'uglifier'
+gem 'sprockets'
+gem 'csso-rails'
+gem 'jquery-cdn'
+gem 'coffee-script'
+gem 'evil-blocks-rails'
+gem 'autoprefixer-rails'

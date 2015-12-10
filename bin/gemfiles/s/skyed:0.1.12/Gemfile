@@ -1,0 +1,4 @@
+gem 'git'
+gem 'aws-sdk'
+gem 'gli'
+gem 'highline'

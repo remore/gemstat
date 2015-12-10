@@ -1,0 +1,5 @@
+gem 'carrierwave'
+gem 'carrierwave_backgrounder'
+gem 'carrierwave-ffmpeg'
+gem 'mini_magick'
+gem 'bundler'

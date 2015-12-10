@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'mocha'
+gem 'rack-test'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'

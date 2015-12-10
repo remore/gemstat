@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'activesupport'
+gem 'rspec'
+gem 'pry'
+gem 'rake'
+gem 'coveralls'
+gem 'jsonpath'
+gem 'eldritch'

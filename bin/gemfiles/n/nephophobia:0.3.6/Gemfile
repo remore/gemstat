@@ -1,0 +1,6 @@
+gem 'hugs'
+gem 'fakeweb'
+gem 'minitest'
+gem 'nokogiri'
+gem 'rake'
+gem 'vcr'

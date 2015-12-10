@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'appraisal'
+gem 'guard'
+gem 'guard-minitest'
+gem 'pry'
+gem 'rake'
+gem 'sqlite3'

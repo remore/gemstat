@@ -1,0 +1,6 @@
+gem 'geoip'
+gem 'rake'
+gem 'bundler'
+gem 'sinatra'
+gem 'rack-test'
+gem 'rspec'

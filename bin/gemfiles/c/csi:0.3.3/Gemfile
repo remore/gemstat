@@ -1,0 +1,6 @@
+gem 'toml'
+gem 'bundler'
+gem 'jeweler'
+gem 'minitest'
+gem 'rdoc'
+gem 'shoulda'

@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'faraday-cookie_jar'
+gem 'multi_json'
+gem 'test-unit'

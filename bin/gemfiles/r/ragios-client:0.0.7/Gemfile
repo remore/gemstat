@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'json_pure'
+gem 'pry'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'

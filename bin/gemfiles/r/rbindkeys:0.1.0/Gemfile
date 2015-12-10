@@ -1,0 +1,6 @@
+gem 'revdev'
+gem 'ruinput'
+gem 'active_window_x'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

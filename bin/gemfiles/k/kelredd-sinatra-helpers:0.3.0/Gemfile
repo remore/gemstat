@@ -1,0 +1,6 @@
+gem 'kelredd-useful'
+gem 'shoulda'
+gem 'leftright'
+gem 'sinatra'
+gem 'rack-test'
+gem 'webrat'

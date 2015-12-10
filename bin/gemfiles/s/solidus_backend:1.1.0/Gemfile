@@ -1,0 +1,7 @@
+gem 'solidus_api'
+gem 'solidus_core'
+gem 'bourbon'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'select2-rails'
+gem 'handlebars_assets'

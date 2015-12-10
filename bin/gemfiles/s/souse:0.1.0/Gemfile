@@ -1,0 +1,4 @@
+gem 'gherkin'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

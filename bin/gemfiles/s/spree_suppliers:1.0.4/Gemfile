@@ -1,0 +1,7 @@
+gem 'spree_core'
+gem 'rspec-rails'
+gem 'cucumber-rails'
+gem 'capybara'
+gem 'database_cleaner'
+gem 'nokogiri'
+gem 'shoulda'

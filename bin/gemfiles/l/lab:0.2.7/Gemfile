@@ -1,0 +1,6 @@
+gem 'net-ssh'
+gem 'net-scp'
+gem 'rbvmomi'
+gem 'fog'
+gem 'pry'
+gem 'sinatra'

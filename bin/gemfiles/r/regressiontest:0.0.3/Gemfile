@@ -1,0 +1,6 @@
+gem 'shoulda'
+gem 'cucumber'
+gem 'jeweler'
+gem 'bundler'
+gem 'rspec'
+gem 'rdoc'

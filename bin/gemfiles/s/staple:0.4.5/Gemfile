@@ -1,0 +1,4 @@
+gem 'foundation-rails'
+gem 'simple_form'
+gem 'font-awesome-rails'
+gem 'slim-rails'

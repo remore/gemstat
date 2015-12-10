@@ -1,0 +1,8 @@
+gem 'bosh-template'
+gem 'deep_merge'
+gem 'guard-compat'
+gem 'bundler'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rubocop'
+gem 'simplecov'

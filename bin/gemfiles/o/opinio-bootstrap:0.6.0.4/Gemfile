@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'kaminari'
+gem 'jquery-rails'
+gem 'bootstrap-sass'

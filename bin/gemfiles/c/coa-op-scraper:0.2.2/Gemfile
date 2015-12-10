@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rails'
+gem 'rspec-rails'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

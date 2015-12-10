@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'titleize'
+gem 'vcr'
+gem 'rspec'
+gem 'webmock'

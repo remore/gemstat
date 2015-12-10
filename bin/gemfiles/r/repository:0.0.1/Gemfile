@@ -1,0 +1,4 @@
+gem 'active_support'
+gem 'pry'
+gem 'rake'
+gem 'rspec'

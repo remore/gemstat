@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'awesome_print'
+gem 'tvdb'
+gem 'nokogiri'
+gem 'hpricot'
+gem 'ensure-encoding'

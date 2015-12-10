@@ -1,0 +1,2 @@
+gem 'inifile'
+gem 'rspec'

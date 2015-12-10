@@ -1,0 +1,7 @@
+gem 'r509'
+gem 'sinatra'
+gem 'dependo'
+gem 'rspec'
+gem 'rack-test'
+gem 'rake'
+gem 'simplecov'

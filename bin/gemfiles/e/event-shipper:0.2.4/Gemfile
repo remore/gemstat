@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'clamp'
+gem 'file-tail'
+gem 'addressable'
+gem 'yajl-ruby'
+gem 'ruby-protocol-buffers'

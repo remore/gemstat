@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'json'
+gem 'log_switch'
+gem 'curb'

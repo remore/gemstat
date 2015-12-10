@@ -1,0 +1,6 @@
+gem 'fog'
+gem 'google-api-client'
+gem 'rake'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'

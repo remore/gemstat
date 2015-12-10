@@ -1,0 +1,7 @@
+gem 'clipboard'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'br-cpf'
+gem 'br-cnpj'

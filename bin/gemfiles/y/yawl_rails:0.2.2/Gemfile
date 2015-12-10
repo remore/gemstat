@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'yawl'
+gem 'haml'
+gem 'pg'
+gem 'rspec-rails'
+gem 'capybara'

@@ -1,0 +1,6 @@
+gem 'do_mysql'
+gem 'dm-do-adapter'
+gem 'dm-migrations'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'

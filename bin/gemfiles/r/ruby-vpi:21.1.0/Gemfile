@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rcov'
+gem 'xx'
+gem 'ruby-debug'
+gem 'ruby-prof'

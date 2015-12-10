@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-mixin-rabbitmq_connection'
+gem 'logstash-codec-json'
+gem 'logstash-devutils'
+gem 'logstash-codec-plain'

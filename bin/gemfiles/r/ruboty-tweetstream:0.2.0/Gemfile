@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'twitter'
+gem 'xrc'
+gem 'bundler'
+gem 'rake'

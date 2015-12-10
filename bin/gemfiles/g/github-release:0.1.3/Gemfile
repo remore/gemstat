@@ -1,0 +1,5 @@
+gem 'octokit'
+gem 'git-version-bump'
+gem 'rake'
+gem 'bundler'
+gem 'rdoc'

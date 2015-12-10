@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'jeweler'
+gem 'sdoc-helpers'
+gem 'rdiscount'

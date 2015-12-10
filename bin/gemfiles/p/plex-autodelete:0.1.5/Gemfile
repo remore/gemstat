@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'plex-ruby'
+gem 'thor'
+gem 'colorize'
+gem 'nori'
+gem 'mini_portile'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'pry'
+gem 'inch'
+gem 'repomen'

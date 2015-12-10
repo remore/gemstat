@@ -1,0 +1,5 @@
+gem 'grape'
+gem 'hypertext_application_language'
+gem 'addressable'
+gem 'bundler'
+gem 'rake'

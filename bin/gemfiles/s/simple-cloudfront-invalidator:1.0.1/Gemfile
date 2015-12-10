@@ -1,0 +1,6 @@
+gem 'colored'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'rake'
+gem 'require_relative'

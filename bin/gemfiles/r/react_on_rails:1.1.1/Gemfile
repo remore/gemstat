@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'execjs'
+gem 'connection_pool'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'generator_spec'

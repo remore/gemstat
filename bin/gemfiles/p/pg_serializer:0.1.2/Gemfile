@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

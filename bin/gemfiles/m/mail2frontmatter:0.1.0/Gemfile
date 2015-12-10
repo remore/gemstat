@@ -1,0 +1,7 @@
+gem 'mailman'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'rspec'
+gem 'byebug'
+gem 'bundler'
+gem 'rake'

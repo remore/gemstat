@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'httparty'
+gem 'puma'
+gem 'thor'
+gem 'vcr'
+gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'highline'
+gem 'ruby-progressbar'
+gem 'fb_graph'
+gem 'pry'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'gli'

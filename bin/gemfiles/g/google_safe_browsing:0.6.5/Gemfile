@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'ruby-ip'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'generator_spec'
+gem 'webmock'
+gem 'codeclimate-test-reporter'

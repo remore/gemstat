@@ -1,0 +1,4 @@
+gem 'bio'
+gem 'os'
+gem 'bundler'
+gem 'rake'

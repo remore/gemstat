@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'highline'
+gem 'rest-client'
+gem 'json_pure'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'

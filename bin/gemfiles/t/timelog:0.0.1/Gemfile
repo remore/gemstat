@@ -1,0 +1,4 @@
+gem 'sqlite3'
+gem 'activesupport'
+gem 'activemodel'
+gem 'pry'

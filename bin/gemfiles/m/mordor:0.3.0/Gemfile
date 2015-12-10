@@ -1,0 +1,7 @@
+gem 'extlib'
+gem 'json'
+gem 'mongo'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'bson_ext'

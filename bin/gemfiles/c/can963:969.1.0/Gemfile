@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'capture-output'
+gem 'rubocop'
+gem 'coveralls'

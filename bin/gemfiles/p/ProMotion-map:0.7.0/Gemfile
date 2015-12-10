@@ -1,0 +1,4 @@
+gem 'ProMotion'
+gem 'motion-stump'
+gem 'motion-redgreen'
+gem 'rake'

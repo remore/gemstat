@@ -1,0 +1,6 @@
+gem 'chef-sugar'
+gem 'rake'
+gem 'bundler'
+gem 'chefspec'
+gem 'test-kitchen'
+gem 'kitchen-vagrant'

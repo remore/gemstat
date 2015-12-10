@@ -1,0 +1,6 @@
+gem 'json'
+gem 'couchrest'
+gem 'rspec'
+gem 'timecop'
+gem 'tzinfo'
+gem 'rake'

@@ -1,0 +1,6 @@
+gem 'couchrest'
+gem 'progressbar'
+gem 'json'
+gem 'rspec'
+gem 'hoe'
+gem 'rdoc'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'json'
+gem 'jsonpath'
+gem 'progressbar'
+gem 'version'
+gem 'thor'
+gem 'terminal-table'

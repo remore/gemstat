@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'
+gem 'chef'
+gem 'yajl-ruby'
+gem 'parallel'

@@ -1,0 +1,5 @@
+gem 'redis-namespace'
+gem 'mixlib-cli'
+gem 'rspec-core'
+gem 'rspec-prof'
+gem 'pry-debugger'

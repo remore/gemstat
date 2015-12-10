@@ -1,0 +1,5 @@
+gem 'rmagick'
+gem 'slop'
+gem 'rubocop'
+gem 'bundler'
+gem 'ruby-prof'

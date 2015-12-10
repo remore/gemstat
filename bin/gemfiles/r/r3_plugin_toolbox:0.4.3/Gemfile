@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'rails'
+gem 'require_all'
+gem 'sugar-high'

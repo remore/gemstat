@@ -1,0 +1,6 @@
+gem 'lisbn'
+gem 'library_stdnums'
+gem 'unicode_utils'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

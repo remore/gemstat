@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'guard'
+gem 'guard-minitest'
+gem 'rubysl'

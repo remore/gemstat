@@ -1,0 +1,4 @@
+gem 'rubyforge'
+gem 'rspec'
+gem 'rake'
+gem 'log4r'

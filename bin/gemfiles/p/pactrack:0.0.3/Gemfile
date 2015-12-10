@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'webmock'
+gem 'vcr'
+gem 'turn'
+gem 'rake'
+gem 'httparty'

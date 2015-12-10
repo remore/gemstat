@@ -1,0 +1,6 @@
+gem 'right_support'
+gem 'rake'
+gem 'jeweler'
+gem 'debugger'
+gem 'pry'
+gem 'pry-byebug'

@@ -1,0 +1,4 @@
+gem 'celluloid'
+gem 'rspec'
+gem 'simplecov-rcov'
+gem 'timecop'

@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'thor'
+gem 'coveralls'
+gem 'rake'

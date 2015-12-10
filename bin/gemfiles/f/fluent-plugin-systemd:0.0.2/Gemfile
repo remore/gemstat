@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'reevoocop'
+gem 'fluentd'
+gem 'systemd-journal'

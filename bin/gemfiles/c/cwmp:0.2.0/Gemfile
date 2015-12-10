@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rack'
+gem 'thin'
+gem 'http_router'
+gem 'httpclient'
+gem 'rake'

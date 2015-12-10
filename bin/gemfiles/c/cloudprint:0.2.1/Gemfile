@@ -1,0 +1,6 @@
+gem 'oauth2'
+gem 'json'
+gem 'mocha'
+gem 'rake'
+gem 'shoulda-context'
+gem 'test-unit'

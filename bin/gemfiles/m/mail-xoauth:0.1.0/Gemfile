@@ -1,0 +1,6 @@
+gem 'mail'
+gem 'gmail_xoauth'
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'faraday_middleware'

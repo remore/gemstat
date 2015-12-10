@@ -1,0 +1,5 @@
+gem 'rainbow'
+gem 'rbcurse-core'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

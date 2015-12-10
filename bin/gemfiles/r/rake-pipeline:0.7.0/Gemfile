@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'thor'
+gem 'json'
+gem 'rspec'
+gem 'rack-test'

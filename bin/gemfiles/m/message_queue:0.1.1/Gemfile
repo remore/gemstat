@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'bunny'
+gem 'msgpack'
+gem 'multi_json'

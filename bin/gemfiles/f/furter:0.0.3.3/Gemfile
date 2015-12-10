@@ -1,0 +1,6 @@
+gem 'frank-cucumber'
+gem 'page_navigation'
+gem 'sim_launcher'
+gem 'rspec'
+gem 'rake'
+gem 'require_all'

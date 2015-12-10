@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'persistent_httparty'
+gem 'http-exceptions'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'yard'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'coveralls'
+gem 'pry'
+gem 'dotenv'
+gem 'rubocop'

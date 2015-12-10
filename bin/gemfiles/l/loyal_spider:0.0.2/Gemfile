@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rest-client'
+gem 'sanitize'
+gem 'rails_config'
+gem 'nokogiri'

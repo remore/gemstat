@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'bluecloth'
+gem 'clamp'
+gem 'haml'
+gem 'sass'

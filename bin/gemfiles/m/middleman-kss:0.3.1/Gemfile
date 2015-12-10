@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'middleman-core'
+gem 'kss'
+gem 'redcarpet'

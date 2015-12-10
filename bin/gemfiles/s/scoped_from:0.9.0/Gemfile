@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'byebug'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3-ruby'

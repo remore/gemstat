@@ -1,0 +1,8 @@
+gem 'finer_struct'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'faraday'
+gem 'rack'
+gem 'rack-test'
+gem 'nori'
