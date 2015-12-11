@@ -1,0 +1,7 @@
+*.gem
+*.rbc
+.bundle
+.config
+.yardoc
+Gemfile.lock
+.DS_Store
