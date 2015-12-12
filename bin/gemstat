@@ -59,16 +59,6 @@ module Gemstat
     end
   end
 
-  class Util
-    def pluralize(count, name)
-      if count > 1 then
-        name  + "s"
-      else
-        name
-      end
-    end
-  end
-
   class Population
     attr_reader :dependencies
     def initialize(folder_path)
@@ -132,7 +122,7 @@ module Gemstat
         if item.gems.count==0 then
           count = "   -"
         else
-          count = "#{item.gems.count.to_s[0..3].rjust(4)} " + Util.new.pluralize(item.gems.count, "gem")
+          count = "#{item.gems.count.to_s[0..3].rjust(4)} " + pluralize(item.gems.count, "gem")
         end
         puts "  #{item.name[0..43].ljust(44)} #{count} "
       }
@@ -231,6 +221,15 @@ module Gemstat
         end
         base_path.chomp
       end
+
+      def pluralize(count, name)
+        if count > 1 then
+          name  + "s"
+        else
+          name
+        end
+      end
+
     end
   end
 end
