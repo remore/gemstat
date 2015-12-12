@@ -1,4 +1,4 @@
-gemstat is a gem usage analyzer which tells you the number of gems used and even similarlity of each gems.
+gemstat enable you to know "Frequently Bought(Required) Together" thing or "Customers Who Bought(Required) This Item Also Bought(Required)" thing.
 
 # Usage
 
@@ -56,5 +56,6 @@ MIT
 ### TODO
 
 - Modify `update` subcommand to allow incremental update
+- Speed up by changing data cache strategy(migrate data stored in more than 100k files to single data file) and use C or mruby implementation for calculation part
 - Update README.md and gemstat.gemspec with better descriptions
 - Windows support (Now only Mac and Linux is supported)
