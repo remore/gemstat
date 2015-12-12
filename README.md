@@ -1,4 +1,4 @@
-gemstat enable you to know "Frequently Bought(Required) Together" thing or "Customers Who Bought(Required) This Item Also Bought(Required)" thing.
+gemstat enable you to know "Frequently Required Together" thing or "Customers Who Required This(Rubygem) Also Required" thing.
 
 # Usage
 

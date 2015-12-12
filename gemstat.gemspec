@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.bindir = 'bin'
   s.executables = 'gemstat'
 
-  s.summary = '"Customers Who Bought(Required) This Item Also Bought(Required)"-ish thing for rubygem '
+  s.summary = '"Customers Who Bought(Required) This Item Also Bought(Required)"-ish thing for rubygem'
   s.description = 'gemstat enable you to know "Frequently Bought(Required) Together" thing or "Customers Who Bought(Required) This Item Also Bought(Required)" thing.'
   s.license = 'MIT'
 
