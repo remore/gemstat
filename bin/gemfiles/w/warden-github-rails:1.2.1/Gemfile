@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rails'
-gem 'rack-test'
-gem 'addressable'
-gem 'coveralls'
-gem 'warden-github'
-gem 'railties'

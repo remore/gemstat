@@ -1,0 +1,5 @@
+gem 'excon'
+gem 'gem-release'
+gem 'rake'
+gem 'rr'
+gem 'rspec'

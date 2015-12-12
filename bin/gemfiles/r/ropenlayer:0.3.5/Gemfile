@@ -1,6 +1,0 @@
-gem 'json_pure'
-gem 'rails'
-gem 'activerecord'
-gem 'rspec'
-gem 'jasmine'
-gem 'ruby-debug'

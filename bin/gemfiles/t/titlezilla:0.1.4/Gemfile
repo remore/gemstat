@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'bundler'
-gem 'minitest'
-gem 'railties'
-gem 'rake'

@@ -1,3 +1,0 @@
-gem 'net-ping'
-gem 'netaddr'
-gem 'redis'

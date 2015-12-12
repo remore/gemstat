@@ -1,0 +1,6 @@
+gem 'sequel'
+gem 'chronic'
+gem 'getopt-declare'
+gem 'icalendar'
+gem 'mime-types'
+gem 'diff-lcs'

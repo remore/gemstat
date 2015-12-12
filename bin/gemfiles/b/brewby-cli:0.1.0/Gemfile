@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'thor'
-gem 'ffi-ncurses'
-gem 'brewby'

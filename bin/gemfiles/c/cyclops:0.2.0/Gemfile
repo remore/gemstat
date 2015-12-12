@@ -1,4 +1,0 @@
-gem 'highline'
-gem 'safe_yaml'
-gem 'hen'
-gem 'rake'

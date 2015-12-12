@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'ruby-push-notifications'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'factory_girl'
+gem 'generator_spec'
+gem 'webmock'

@@ -1,0 +1,5 @@
+gem 'delayer'
+gem 'instance_storage'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

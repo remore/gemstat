@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'rake'
-gem 'fakeweb'
-gem 'bundler'

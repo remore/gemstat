@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'omniauth'
-gem 'omniauth-openid-connect'

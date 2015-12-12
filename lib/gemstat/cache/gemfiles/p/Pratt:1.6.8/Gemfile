@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'mocha'
+gem 'activerecord'
+gem 'sqlite3-ruby'
+gem 'shifty_week'

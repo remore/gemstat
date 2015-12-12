@@ -1,4 +1,0 @@
-gem 'gem_plugin'
-gem 'daemons'
-gem 'fastthread'
-gem 'cgi_multipart_eof_fix'

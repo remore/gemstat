@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'bcrypt'
-gem 'sqlite3'
-gem 'faker'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'letter_opener'
-gem 'database_cleaner'

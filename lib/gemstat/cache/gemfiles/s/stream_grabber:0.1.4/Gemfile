@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'simple-rss'
+gem 'json'
+gem 'fakeweb'
+gem 'mocha'
+gem 'shoulda'

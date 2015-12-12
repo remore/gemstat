@@ -1,0 +1,7 @@
+gem 'ardm-core'
+gem 'fastercsv'
+gem 'multi_json'
+gem 'json'
+gem 'json_pure'
+gem 'rake'
+gem 'rspec'

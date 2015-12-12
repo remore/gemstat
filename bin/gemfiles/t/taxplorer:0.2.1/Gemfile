@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'simplecov'
-gem 'codeclimate-test-reporter'
-gem 'nokogiri'
-gem 'hirb'
-gem 'highline'

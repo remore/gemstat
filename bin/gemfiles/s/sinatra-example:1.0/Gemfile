@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'sinatra'
-gem 'haml'
-gem 'shotgun'
-gem 'rspec'
-gem 'cucumber'
-gem 'cucumber-sinatra'
-gem 'capybara'

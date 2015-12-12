@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'yajl-ruby'
+gem 'load_path_find'
+gem 'oauth'

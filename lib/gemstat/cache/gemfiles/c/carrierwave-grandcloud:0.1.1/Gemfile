@@ -1,0 +1,4 @@
+gem 'carrierwave'
+gem 'sndacs'
+gem 'rspec'
+gem 'rake'

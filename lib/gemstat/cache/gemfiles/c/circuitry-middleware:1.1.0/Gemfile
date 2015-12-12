@@ -1,0 +1,7 @@
+gem 'circuitry'
+gem 'rack'
+gem 'pry-nav'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

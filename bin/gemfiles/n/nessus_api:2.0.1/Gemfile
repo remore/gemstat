@@ -1,3 +1,0 @@
-gem 'dotenv'
-gem 'nokogiri'
-gem 'rspec'

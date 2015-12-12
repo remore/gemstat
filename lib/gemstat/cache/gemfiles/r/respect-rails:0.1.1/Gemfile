@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'respect'
+gem 'sqlite3'
+gem 'yard'
+gem 'redcarpet'
+gem 'mocha'

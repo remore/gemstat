@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'facets'
-gem 'rspec'
-gem 'rdoc'
-gem 'hanna'

@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'rsvg2'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

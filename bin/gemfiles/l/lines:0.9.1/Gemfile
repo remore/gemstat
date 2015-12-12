@@ -1,4 +1,0 @@
-gem 'benchmark-ips'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,0 +1,2 @@
+gem 'activerecord'
+gem 'transaction_isolation'

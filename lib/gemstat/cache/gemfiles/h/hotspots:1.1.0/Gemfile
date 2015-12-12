@@ -1,0 +1,4 @@
+gem 'ansi'
+gem 'rake'
+gem 'minitest'
+gem 'simplecov'

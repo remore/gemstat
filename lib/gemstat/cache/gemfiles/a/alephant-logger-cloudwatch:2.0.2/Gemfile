@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'aws-sdk'
+gem 'pry'
+gem 'rake-rspec'
+gem 'rspec-nc'

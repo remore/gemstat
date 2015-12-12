@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rails'
-gem 'sqlite3'
-gem 'minitest'
-gem 'rake'

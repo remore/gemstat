@@ -1,5 +1,0 @@
-gem 'sass'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'jekyll'

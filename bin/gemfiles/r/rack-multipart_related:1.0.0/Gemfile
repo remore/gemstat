@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'json'
-gem 'mocha'
-gem 'rack-test'

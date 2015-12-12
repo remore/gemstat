@@ -1,3 +1,0 @@
-gem 'pelle-oauth'
-gem 'activeresource'
-gem 'multipart'

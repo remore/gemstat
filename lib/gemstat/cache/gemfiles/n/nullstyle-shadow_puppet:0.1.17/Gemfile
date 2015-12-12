@@ -1,0 +1,6 @@
+gem 'puppet'
+gem 'facter'
+gem 'highline'
+gem 'builder'
+gem 'activesupport'
+gem 'configatron'

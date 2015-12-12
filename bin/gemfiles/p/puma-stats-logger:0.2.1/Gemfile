@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rack-test'
-gem 'json'
-gem 'puma'

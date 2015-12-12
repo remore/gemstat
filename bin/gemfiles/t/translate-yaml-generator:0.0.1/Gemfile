@@ -1,6 +1,0 @@
-gem 'rubyXL'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rake'
-gem 'rspec'

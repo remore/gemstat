@@ -1,3 +1,0 @@
-gem 'erp_products'
-gem 'erp_txns_and_accts'
-gem 'erp_dev_svcs'

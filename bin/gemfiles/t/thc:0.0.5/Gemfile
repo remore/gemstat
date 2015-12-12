@@ -1,4 +1,0 @@
-gem 'tor'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

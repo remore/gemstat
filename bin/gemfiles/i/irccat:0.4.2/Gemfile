@@ -1,3 +1,0 @@
-gem 'rack'
-gem 'json'
-gem 'mongrel'

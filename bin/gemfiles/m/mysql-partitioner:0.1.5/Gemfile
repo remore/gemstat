@@ -1,6 +1,0 @@
-gem 'mysql2'
-gem 'deep_hash_transform'
-gem 'rspec'
-gem 'rspec-instafail'
-gem 'bundler'
-gem 'rake'

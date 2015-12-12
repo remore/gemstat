@@ -1,7 +1,0 @@
-gem 'sinatra'
-gem 'refile'
-gem 'refile-s3'
-gem 'refile-mini_magick'
-gem 'rack'
-gem 'degu'
-gem 'bundler'

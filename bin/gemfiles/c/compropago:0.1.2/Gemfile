@@ -1,5 +1,0 @@
-gem 'active_rest_client'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'webmock'

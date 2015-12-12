@@ -1,4 +1,0 @@
-gem 'pry-rails'
-gem 'haml-rails'
-gem 'bundler'
-gem 'rake'

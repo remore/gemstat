@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'sqlite3'
-gem 'activerecord'
-gem 'rake'

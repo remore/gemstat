@@ -1,6 +1,0 @@
-gem 'i18n'
-gem 'rspec-rails'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

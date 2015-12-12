@@ -1,0 +1,5 @@
+gem 'spyke'
+gem 'activesupport'
+gem 'rspec'
+gem 'pry'
+gem 'webmock'

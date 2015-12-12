@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'jquery-datatables-rails'
+gem 'sqlite3'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubocop'

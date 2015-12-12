@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'redis'
-gem 'pry'
-gem 'turn'

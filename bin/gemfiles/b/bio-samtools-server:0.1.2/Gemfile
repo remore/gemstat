@@ -1,8 +1,0 @@
-gem 'bio-samtools'
-gem 'sinatra'
-gem 'shoulda'
-gem 'rdoc'
-gem 'simplecov'
-gem 'jeweler'
-gem 'bundler'
-gem 'bio'

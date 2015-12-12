@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

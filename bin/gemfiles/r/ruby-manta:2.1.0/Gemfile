@@ -1,4 +1,0 @@
-gem 'net-ssh'
-gem 'httpclient'
-gem 'rake'
-gem 'minitest'

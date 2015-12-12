@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'cucumber'
-gem 'httpclient'
-gem 'http_capture'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'cucumber-helpers'

@@ -1,4 +1,0 @@
-gem 'notify'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

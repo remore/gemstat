@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'thoughtbot-shoulda'
-gem 'FooBarWidget-money'

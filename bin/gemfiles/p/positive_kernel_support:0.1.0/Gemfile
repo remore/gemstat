@@ -1,6 +1,0 @@
-gem 'positive_basic_support'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'capistrano'
-gem 'deplo'

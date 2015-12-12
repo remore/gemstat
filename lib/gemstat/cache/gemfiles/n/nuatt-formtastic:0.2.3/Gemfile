@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'rspec-rails'
+gem 'rspec_tag_matchers'
+gem 'hpricot'
+gem 'BlueCloth'
+gem 'yard'
+gem 'rcov'
+gem 'colored'

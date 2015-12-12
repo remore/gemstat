@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'jeweler'
-gem 'rspec'
-gem 'rcov'
-gem 'ruby-debug19'

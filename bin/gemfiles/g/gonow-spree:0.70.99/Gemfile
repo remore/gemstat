@@ -1,6 +1,0 @@
-gem 'spree_core'
-gem 'spree_auth'
-gem 'spree_api'
-gem 'spree_dash'
-gem 'spree_sample'
-gem 'spree_promo'

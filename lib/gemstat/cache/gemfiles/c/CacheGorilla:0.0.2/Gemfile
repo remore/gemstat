@@ -1,0 +1,4 @@
+gem 'mongo'
+gem 'memcached'
+gem 'rubyforge'
+gem 'hoe'

@@ -1,3 +1,0 @@
-gem 'excon'
-gem 'yajl-ruby'
-gem 'multi_json'

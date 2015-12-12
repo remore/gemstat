@@ -1,7 +1,0 @@
-gem 'andand'
-gem 'memoizer'
-gem 'jeweler'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'
-gem 'rake'

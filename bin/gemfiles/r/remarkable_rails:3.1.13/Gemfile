@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rspec-rails'
-gem 'remarkable'
-gem 'remarkable_activerecord'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'eventmachine'
+gem 'em-websocket'
+gem 'activesupport'

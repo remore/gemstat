@@ -1,4 +1,0 @@
-gem 'poller'
-gem 'multi_json'
-gem 'rspec'
-gem 'simplecov'

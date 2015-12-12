@@ -1,6 +1,0 @@
-gem 'clipboard'
-gem 'github_api'
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'gli'

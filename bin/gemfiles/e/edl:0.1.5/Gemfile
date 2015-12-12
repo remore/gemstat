@@ -1,6 +1,0 @@
-gem 'timecode'
-gem 'shoulda-context'
-gem 'test-unit'
-gem 'jeweler'
-gem 'rake'
-gem 'flexmock'

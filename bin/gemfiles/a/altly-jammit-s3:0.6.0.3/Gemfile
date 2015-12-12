@@ -1,4 +1,0 @@
-gem 'altly-jammit'
-gem 'mimemagic'
-gem 's3'
-gem 'ruby-hmac'

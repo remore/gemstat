@@ -1,8 +1,0 @@
-gem 'text-hyphen'
-gem 'nokogiri'
-gem 'minitest'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

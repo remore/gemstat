@@ -1,5 +1,0 @@
-gem 'jekyll'
-gem 'mathematical'
-gem 'math-to-itex'
-gem 'rspec'
-gem 'rake'

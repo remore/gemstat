@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'vcr'
-gem 'webmock'
-gem 'activemodel'
-gem 'activemerchant'
-gem 'savon'

@@ -1,8 +1,0 @@
-gem 'faraday'
-gem 'multi_json'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'delayed_job'
-gem 'sidekiq'

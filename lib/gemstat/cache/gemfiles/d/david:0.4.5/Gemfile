@@ -1,0 +1,6 @@
+gem 'celluloid'
+gem 'celluloid-io'
+gem 'coap'
+gem 'rack'
+gem 'rake'
+gem 'rspec'

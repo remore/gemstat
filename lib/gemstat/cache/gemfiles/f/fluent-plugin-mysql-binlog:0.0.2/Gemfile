@@ -1,0 +1,5 @@
+gem 'fluentd'
+gem 'kodama'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

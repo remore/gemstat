@@ -1,7 +1,0 @@
-gem 'pancake'
-gem 'any_view'
-gem 'rake'
-gem 'hashie'
-gem 'rack'
-gem 'extlib'
-gem 'tilt'

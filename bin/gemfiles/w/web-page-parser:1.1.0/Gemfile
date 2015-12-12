@@ -1,5 +1,0 @@
-gem 'htmlentities'
-gem 'curb'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rake'

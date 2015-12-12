@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'activemodel'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'byebug'
-gem 'vcr'

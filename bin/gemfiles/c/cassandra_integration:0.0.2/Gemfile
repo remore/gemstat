@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'activemodel'
-gem 'cassandra'
-gem 'thrift_client'

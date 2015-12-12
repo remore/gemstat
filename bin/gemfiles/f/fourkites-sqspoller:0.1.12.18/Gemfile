@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'concurrent-ruby'
-gem 'rest-client'
-gem 'aws-sdk'

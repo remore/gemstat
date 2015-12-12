@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'minitest'

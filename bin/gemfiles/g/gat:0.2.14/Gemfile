@@ -1,4 +1,0 @@
-gem 'tmail'
-gem 'open4'
-gem 'rubyforge'
-gem 'hoe'

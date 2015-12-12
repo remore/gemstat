@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'mongo'
+gem 'thor'
+gem 'thin'
+gem 'rake'

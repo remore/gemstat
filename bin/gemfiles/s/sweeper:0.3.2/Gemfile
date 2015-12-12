@@ -1,4 +1,0 @@
-gem 'id3lib-ruby'
-gem 'choice'
-gem 'Text'
-gem 'activesupport'

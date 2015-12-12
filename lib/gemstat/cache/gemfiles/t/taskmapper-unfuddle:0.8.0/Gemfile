@@ -1,0 +1,7 @@
+gem 'taskmapper'
+gem 'addressable'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rcov'

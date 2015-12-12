@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rspec-cleanup'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'facets'

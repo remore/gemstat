@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'sass-rails'
-gem 'bootstrap-sass'
-gem 'ims-lti'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'poltergeist'

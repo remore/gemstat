@@ -1,7 +1,0 @@
-gem 'vertebrae'
-gem 'webmock'
-gem 'pry'
-gem 'pry-debugger'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

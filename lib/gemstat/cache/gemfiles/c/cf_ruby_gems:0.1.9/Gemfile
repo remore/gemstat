@@ -1,0 +1,6 @@
+gem 'map_by_method'
+gem 'what_methods'
+gem 'awesome_print'
+gem 'chronic_duration'
+gem 'wirble'
+gem 'hirb'

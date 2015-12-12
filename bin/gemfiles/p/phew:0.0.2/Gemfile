@@ -1,5 +1,0 @@
-gem 'gir_ffi-gtk'
-gem 'gir_ffi-pango'
-gem 'rake'
-gem 'minitest'
-gem 'atspi_app_driver'

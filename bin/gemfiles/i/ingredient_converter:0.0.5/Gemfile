@@ -1,6 +1,0 @@
-gem 'minitest'
-gem 'rdoc'
-gem 'cucumber'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'

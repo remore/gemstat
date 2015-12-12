@@ -1,5 +1,0 @@
-gem 'mongoid'
-gem 'sunspot'
-gem 'sunspot_rails'
-gem 'shoulda'
-gem 'rr'

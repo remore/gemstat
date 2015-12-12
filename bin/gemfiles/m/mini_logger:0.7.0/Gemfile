@@ -1,6 +1,0 @@
-gem 'file-tail'
-gem 'delorean'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

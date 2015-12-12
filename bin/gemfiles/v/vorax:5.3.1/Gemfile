@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'childprocess'
-gem 'rubytree'
-gem 'sdsykes-ferret'

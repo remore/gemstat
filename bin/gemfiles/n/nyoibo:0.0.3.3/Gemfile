@@ -1,7 +1,0 @@
-gem 'em-websocket'
-gem 'json'
-gem 'em-http-request'
-gem 'railties'
-gem 'coffee-script'
-gem 'sinatra'
-gem 'sinatra-reloader'

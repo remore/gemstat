@@ -1,8 +1,0 @@
-gem 'sequel'
-gem 'ActionPool'
-gem 'ActionTimer'
-gem 'haml'
-gem 'rdoc'
-gem 'sdoc'
-gem 'hanna'
-gem 'nokogiri'

@@ -1,4 +1,0 @@
-gem 'parallel'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'

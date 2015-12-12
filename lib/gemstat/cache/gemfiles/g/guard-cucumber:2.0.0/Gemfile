@@ -1,0 +1,4 @@
+gem 'guard-compat'
+gem 'cucumber'
+gem 'nenv'
+gem 'bundler'

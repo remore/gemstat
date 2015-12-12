@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'terminal-table'
-gem 'spreadsheet'
-gem 'railties'

@@ -1,4 +1,0 @@
-gem 'shoulda'
-gem 'unicode'
-gem 'newgem'
-gem 'hoe'

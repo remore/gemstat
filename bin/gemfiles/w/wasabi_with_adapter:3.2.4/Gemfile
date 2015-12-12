@@ -1,5 +1,0 @@
-gem 'httpi'
-gem 'nokogiri'
-gem 'mime-types'
-gem 'rake'
-gem 'rspec'

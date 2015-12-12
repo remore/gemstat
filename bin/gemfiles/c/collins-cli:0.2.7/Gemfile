@@ -1,5 +1,0 @@
-gem 'colorize'
-gem 'collins_auth'
-gem 'collins_client'
-gem 'rake'
-gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'bones'
+gem 'bones-rcov'
+gem 'bones-rubyforge'
+gem 'bones-rspec'
+gem 'bones-zentest'
+gem 'bones'

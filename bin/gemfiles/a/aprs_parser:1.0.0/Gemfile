@@ -1,6 +1,0 @@
-gem 'ffi'
-gem 'bundler'
-gem 'rake'
-gem 'rake-compiler'
-gem 'minitest'
-gem 'rubocop'

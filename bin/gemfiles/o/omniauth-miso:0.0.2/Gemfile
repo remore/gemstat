@@ -1,7 +1,0 @@
-gem 'omniauth'
-gem 'omniauth-oauth'
-gem 'rspec'
-gem 'rack-test'
-gem 'simplecov'
-gem 'webmock'
-gem 'httpauth'

@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'formtastic'
+gem 'paperclip'
+gem 'rspec-rails'

@@ -1,0 +1,2 @@
+gem 'acts-as-taggable-on'
+gem 'refinerycms'

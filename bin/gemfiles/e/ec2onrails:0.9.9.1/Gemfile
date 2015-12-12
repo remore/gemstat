@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'archive-tar-minitar'
-gem 'optiflag'
-gem 'hoe'

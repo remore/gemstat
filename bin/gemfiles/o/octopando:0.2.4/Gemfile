@@ -1,8 +1,0 @@
-gem 'git'
-gem 'jira-ruby'
-gem 'ruby-keychain'
-gem 'thor'
-gem 'word_wrap'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'quilb'
-gem 'quilb-searchable'
-gem 'quilb-user'
-gem 'quilb-session'

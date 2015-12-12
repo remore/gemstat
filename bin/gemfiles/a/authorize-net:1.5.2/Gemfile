@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rspec'
-gem 'ruby-debug'
-gem 'rdoc'
-gem 'rake'

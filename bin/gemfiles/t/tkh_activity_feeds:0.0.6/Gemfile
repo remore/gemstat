@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'tkh_toolbox'
-gem 'bundler'
-gem 'rake'

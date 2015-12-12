@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'money-rails'
+gem 'paper_trail'
+gem 'sqlite3'

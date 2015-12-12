@@ -1,0 +1,4 @@
+gem 'foreverb'
+gem 'pandoc-ruby'
+gem 'sinatra'
+gem 'thin'

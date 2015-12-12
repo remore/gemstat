@@ -1,6 +1,0 @@
-gem 'mongoid'
-gem 'map'
-gem 'coerce'
-gem 'unicode_utils'
-gem 'stringex'
-gem 'fast-stemmer'

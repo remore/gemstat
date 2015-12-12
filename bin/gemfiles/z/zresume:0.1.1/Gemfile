@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'active_support'
-gem 'rake'

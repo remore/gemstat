@@ -1,4 +1,0 @@
-gem 'byebug'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'gem-release'
-gem 'log4r'

@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'rake'
-gem 'activerecord'
-gem 'activesupport'
-gem 'activerecord-nulldb-adapter'

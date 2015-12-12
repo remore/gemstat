@@ -1,3 +1,0 @@
-gem 'ruby-ldap'
-gem 'net-ldap'
-gem 'activemodel'

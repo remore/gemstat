@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'ruby-protocol-buffers'
-gem 'sqlite3'

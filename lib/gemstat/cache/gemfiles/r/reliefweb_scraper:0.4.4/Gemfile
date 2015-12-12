@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'hashie'
+gem 'rake'
+gem 'rspec'
+gem 'awesome_print'

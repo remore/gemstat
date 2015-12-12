@@ -1,0 +1,4 @@
+gem 'log4r'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

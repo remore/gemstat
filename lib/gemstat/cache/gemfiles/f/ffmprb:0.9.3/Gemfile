@@ -1,0 +1,8 @@
+gem 'mkfifo'
+gem 'bundler'
+gem 'byebug'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rmagick'
+gem 'rspec'
+gem 'ruby-sox'

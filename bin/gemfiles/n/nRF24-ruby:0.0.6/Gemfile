@@ -1,3 +1,0 @@
-gem 'minimal-http-ruby'
-gem 'pi_piper'
-gem 'mqtt-sn-ruby'

@@ -1,3 +1,0 @@
-gem 'cancan'
-gem 'devise'
-gem 'railties'

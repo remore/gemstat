@@ -1,0 +1,6 @@
+gem 'nora_mark'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'byebug'

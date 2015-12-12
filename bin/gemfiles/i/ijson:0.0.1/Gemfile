@@ -1,4 +1,0 @@
-gem 'ripl'
-gem 'awesome_print'
-gem 'bundler'
-gem 'rake'

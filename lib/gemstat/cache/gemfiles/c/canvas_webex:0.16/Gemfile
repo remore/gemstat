@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'
+gem 'webmock'
+gem 'pry'

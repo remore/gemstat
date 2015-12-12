@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'highline'
+gem 'parseconfig'
+gem 'open4'

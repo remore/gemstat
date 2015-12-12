@@ -1,4 +1,0 @@
-gem 'inifile'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

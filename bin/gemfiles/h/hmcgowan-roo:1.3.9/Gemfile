@@ -1,5 +1,0 @@
-gem 'spreadsheet'
-gem 'rubyzip'
-gem 'hpricot'
-gem 'GData'
-gem 'libxml-ruby'

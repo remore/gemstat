@@ -1,4 +1,0 @@
-gem 'rmagick'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

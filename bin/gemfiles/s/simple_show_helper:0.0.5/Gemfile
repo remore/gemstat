@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'sqlite3'
-gem 'activerecord'

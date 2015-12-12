@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'cancan'
-gem 'activeadmin'
-gem 'sqlite3'

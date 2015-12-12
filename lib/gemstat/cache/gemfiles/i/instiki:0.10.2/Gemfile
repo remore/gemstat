@@ -1,0 +1,4 @@
+gem 'madeleine'
+gem 'RedCloth'
+gem 'rubyzip'
+gem 'rails'

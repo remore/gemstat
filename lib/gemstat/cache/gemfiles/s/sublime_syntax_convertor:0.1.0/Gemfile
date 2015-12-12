@@ -1,0 +1,8 @@
+gem 'plist'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'awesome_print'
+gem 'guard-rspec'
+gem 'simplecov'
+gem 'rubycritic'

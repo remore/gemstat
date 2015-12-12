@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'thor'
-gem 'heroku'
-gem 'term-ansicolor'

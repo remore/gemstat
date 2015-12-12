@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'eventmachine'
-gem 'faye-websocket'
-gem 'em-synchrony'

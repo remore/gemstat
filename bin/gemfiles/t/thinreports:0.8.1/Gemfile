@@ -1,7 +1,0 @@
-gem 'prawn'
-gem 'chunky_png'
-gem 'bundler'
-gem 'minitest'
-gem 'mocha'
-gem 'rake'
-gem 'yard'

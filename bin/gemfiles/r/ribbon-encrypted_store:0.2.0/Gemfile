@@ -1,7 +1,0 @@
-gem 'bcrypt'
-gem 'ribbon-config'
-gem 'database_cleaner'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'pg'
-gem 'rails'

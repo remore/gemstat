@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'redis'
-gem 'sqlite3'
-gem 'simplecov'
-gem 'activesupport'
-gem 'activerecord'

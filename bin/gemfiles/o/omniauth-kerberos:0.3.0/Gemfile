@@ -1,2 +1,0 @@
-gem 'timfel-krb5-auth'
-gem 'omniauth-multipassword'

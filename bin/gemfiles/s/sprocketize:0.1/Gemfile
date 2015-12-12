@@ -1,3 +1,0 @@
-gem 'sprockets'
-gem 'rake'
-gem 'closure-compiler'

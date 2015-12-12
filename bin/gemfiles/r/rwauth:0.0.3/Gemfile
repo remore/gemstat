@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'devise'
-gem 'omniauth'
-gem 'omniauth-facebook'
-gem 'omniauth-twitter'
-gem 'omniauth-instagram'
-gem 'omniauth-linkedin'

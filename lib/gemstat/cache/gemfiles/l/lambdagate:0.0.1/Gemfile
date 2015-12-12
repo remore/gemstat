@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'aws-sdk'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'faraday_middleware-aws-signers-v4'
+gem 'swagger_parser'

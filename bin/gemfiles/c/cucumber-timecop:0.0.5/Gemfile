@@ -1,5 +1,0 @@
-gem 'cucumber'
-gem 'timecop'
-gem 'chronic'
-gem 'bundler'
-gem 'rake'

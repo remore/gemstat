@@ -1,4 +1,0 @@
-gem 'rvm'
-gem 'bundler'
-gem 'capistrano'
-gem 'ydd'

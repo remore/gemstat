@@ -1,0 +1,7 @@
+gem 'sprockets'
+gem 'haml_coffee_assets'
+gem 'jquery-rails'
+gem 'guard'
+gem 'guard-coffeescript'
+gem 'guard-sprockets'
+gem 'jasmine'

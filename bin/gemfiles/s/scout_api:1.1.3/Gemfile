@@ -1,5 +1,0 @@
-gem 'hashie'
-gem 'httparty'
-gem 'nokogiri'
-gem 'fakeweb'
-gem 'jeweler'

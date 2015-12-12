@@ -1,5 +1,0 @@
-gem 'json'
-gem 'fastercsv'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

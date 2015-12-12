@@ -1,2 +1,0 @@
-gem 'redis_wrapper'
-gem 'rspec'

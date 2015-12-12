@@ -1,0 +1,2 @@
+gem 'httpclient'
+gem 'rally_api'

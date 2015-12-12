@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'aws-sdk-v1'
+gem 'plist'
+gem 'ruby-progressbar'
+gem 'terminal-notifier'
+gem 'rmagick'
+gem 'redcarpet'

@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rspec'
+gem 'jeweler'
+gem 'rack-test'
+gem 'rdoc'
+gem 'database_cleaner'

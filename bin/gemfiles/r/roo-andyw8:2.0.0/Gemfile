@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

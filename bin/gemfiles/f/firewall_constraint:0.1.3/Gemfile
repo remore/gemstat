@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'ipaddress'
-gem 'rspec-rails'

@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'nokogiri'
-gem 'rails'
-gem 'multi_xml'
-gem 'roxml'

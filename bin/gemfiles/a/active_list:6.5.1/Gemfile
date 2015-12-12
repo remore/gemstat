@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'arel'
-gem 'code_string'
-gem 'rubyzip'
-gem 'i18n-complements'
-gem 'sqlite3'

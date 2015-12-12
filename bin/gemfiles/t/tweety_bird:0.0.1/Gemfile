@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'slog'
-gem 'ridley'
-gem 'daybreak'
-gem 'sinatra'
-gem 'chronic'

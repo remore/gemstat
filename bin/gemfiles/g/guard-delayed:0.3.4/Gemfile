@@ -1,7 +1,0 @@
-gem 'guard'
-gem 'guard-compat'
-gem 'delayed_job'
-gem 'bundler'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'guard-bundler'

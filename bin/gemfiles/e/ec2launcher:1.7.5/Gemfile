@@ -1,4 +1,0 @@
-gem 'aws-sdk'
-gem 'log4r'
-gem 'minitest'
-gem 'rake'

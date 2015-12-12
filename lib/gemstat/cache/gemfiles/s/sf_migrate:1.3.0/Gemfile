@@ -1,0 +1,5 @@
+gem 'sugarcrm_emp'
+gem 'databasedotcom_emp'
+gem 'mail'
+gem 'roo'
+gem 'unix-crypt'

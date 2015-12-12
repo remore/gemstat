@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'nokogiri'
+gem 'builder'

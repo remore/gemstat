@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'mislav-will_paginate'
-gem 'restful_query'
-gem 'newgem'
-gem 'Shoulda'
-gem 'hoe'

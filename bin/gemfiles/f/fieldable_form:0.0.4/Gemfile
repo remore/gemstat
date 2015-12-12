@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'rspec'
-gem 'faker'
-gem 'factory_girl'
-gem 'simplecov'

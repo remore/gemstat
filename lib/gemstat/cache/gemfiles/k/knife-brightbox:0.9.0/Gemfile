@@ -1,0 +1,2 @@
+gem 'fog-brightbox'
+gem 'chef'

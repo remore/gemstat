@@ -1,0 +1,7 @@
+gem 'blocks'
+gem 'rails'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'shoulda'
+gem 'mocha'

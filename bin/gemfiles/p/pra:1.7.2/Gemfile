@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'
-gem 'faraday'
-gem 'launchy'
-gem 'curses'

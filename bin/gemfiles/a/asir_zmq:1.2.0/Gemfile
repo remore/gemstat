@@ -1,5 +1,0 @@
-gem 'asir'
-gem 'zmq'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

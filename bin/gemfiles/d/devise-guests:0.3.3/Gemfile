@@ -1,7 +1,0 @@
-gem 'devise'
-gem 'rspec'
-gem 'rake'
-gem 'combustion'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'yard'

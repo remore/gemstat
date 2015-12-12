@@ -1,4 +1,0 @@
-gem 'awesome_print'
-gem 'json'
-gem 'git'
-gem 'after_do'

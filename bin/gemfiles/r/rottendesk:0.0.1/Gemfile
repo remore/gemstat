@@ -1,4 +1,0 @@
-gem 'rest_client'
-gem 'bundler'
-gem 'pry'
-gem 'rake'

@@ -1,0 +1,5 @@
+gem 'term-ansicolor'
+gem 'sinatra'
+gem 'sinatra-advanced-routes'
+gem 'rack'
+gem 'rack-test'

@@ -1,5 +1,0 @@
-gem 'heroku-api'
-gem 'rendezvous'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

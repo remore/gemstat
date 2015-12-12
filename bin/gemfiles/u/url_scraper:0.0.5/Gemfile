@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'hashie'
-gem 'nokogiri'
-gem 'rest-client'
-gem 'thor'

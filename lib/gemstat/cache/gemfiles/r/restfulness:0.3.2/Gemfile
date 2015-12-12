@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'multi_json'
+gem 'activesupport'
+gem 'http_accept_language'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

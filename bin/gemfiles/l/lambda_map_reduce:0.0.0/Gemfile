@@ -1,7 +1,0 @@
-gem 'go_script'
-gem 'about_yml'
-gem 'rake'
-gem 'minitest'
-gem 'codeclimate-test-reporter'
-gem 'coveralls'
-gem 'rubocop'

@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'addressable'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

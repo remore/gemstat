@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'dice_bag'
-gem 'aruba'
-gem 'rake'

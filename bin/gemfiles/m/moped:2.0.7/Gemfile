@@ -1,3 +1,0 @@
-gem 'bson'
-gem 'connection_pool'
-gem 'optionable'

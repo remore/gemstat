@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'pry'
-gem 'minitest-reporters'
-gem 'simplecov'
-gem 'acts-as-taggable-on'
-gem 'globalize'

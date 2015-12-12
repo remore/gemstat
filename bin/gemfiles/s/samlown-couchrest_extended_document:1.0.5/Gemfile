@@ -1,3 +1,0 @@
-gem 'samlown-couchrest'
-gem 'mime-types'
-gem 'activesupport'

@@ -1,4 +1,0 @@
-gem 'typhoeus'
-gem 'json'
-gem 'rspec'
-gem 'rspec-expectations'

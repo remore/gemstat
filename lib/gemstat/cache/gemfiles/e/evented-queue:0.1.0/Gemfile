@@ -1,0 +1,5 @@
+gem 'abstract'
+gem 'unified-queues'
+gem 'bundler'
+gem 'jeweler2'
+gem 'riot'

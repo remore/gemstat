@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'octokit'
+gem 'platform-api'
+gem 'rendezvous'
+gem 'pivotal-tracker'

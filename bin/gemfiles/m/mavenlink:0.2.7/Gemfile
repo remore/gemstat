@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'webmock'
-gem 'rspec'
-gem 'rr'
-gem 'json'

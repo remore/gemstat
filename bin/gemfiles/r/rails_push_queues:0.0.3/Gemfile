@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'iron_mq'
-gem 'sqlite3'

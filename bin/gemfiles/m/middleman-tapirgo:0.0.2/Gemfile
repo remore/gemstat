@@ -1,4 +1,0 @@
-gem 'middleman-core'
-gem 'json'
-gem 'rspec'
-gem 'webmock'

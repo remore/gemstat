@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'
-gem 'redcarpet'
-gem 'highline'

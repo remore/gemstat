@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'thor'
-gem 'net-ssh'
-gem 'net-scp'

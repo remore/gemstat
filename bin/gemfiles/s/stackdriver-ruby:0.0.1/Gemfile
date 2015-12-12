@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'multi_json'
-gem 'faraday'

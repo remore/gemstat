@@ -1,0 +1,5 @@
+gem 'mixlib-cli'
+gem 'bundler'
+gem 'rake'
+gem 'rubygems-tasks'
+gem 'cucumber'

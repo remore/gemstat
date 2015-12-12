@@ -1,4 +1,0 @@
-gem 'refine'
-gem 'rake'
-gem 'rspec'
-gem 'coderay'

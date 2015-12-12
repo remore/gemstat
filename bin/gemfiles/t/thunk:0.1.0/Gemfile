@@ -1,6 +1,0 @@
-gem 'json_pure'
-gem 'gemcutter'
-gem 'fakeweb'
-gem 'minitest'
-gem 'mocha'
-gem 'hoe'

@@ -1,8 +1,0 @@
-gem 'oj'
-gem 'taglib-ruby'
-gem 'sinatra'
-gem 'sinatra-cross_origin'
-gem 'puma'
-gem 'rake'
-gem 'rack-test'
-gem 'minitest'

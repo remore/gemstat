@@ -1,4 +1,0 @@
-gem 'cucumber'
-gem 'claudiob-yesradio'
-gem 'nokogiri'
-gem 'scrobbler'

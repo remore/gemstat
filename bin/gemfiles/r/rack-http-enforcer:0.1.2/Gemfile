@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'test-unit'
-gem 'shoulda'
-gem 'rack'
-gem 'rack-test'

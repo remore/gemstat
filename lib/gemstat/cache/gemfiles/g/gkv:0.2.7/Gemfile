@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mutant'
+gem 'mutant-rspec'
+gem 'pry'
+gem 'debt_ceiling'

@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'stringex'
-gem 'git'
-gem 'rspec'

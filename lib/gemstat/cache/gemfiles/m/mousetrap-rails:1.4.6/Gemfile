@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'genspec'
+gem 'sass'
+gem 'coveralls'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'railties'
-gem 'jquery-rails'
-gem 'jquery-ui-rails'

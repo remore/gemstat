@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rainbow'
-gem 'clipboard'
-gem 'json_pure'

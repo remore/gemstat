@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-implicit-subject'
+gem 'rb-readline'
+gem 'guard'
+gem 'guard-minitest'

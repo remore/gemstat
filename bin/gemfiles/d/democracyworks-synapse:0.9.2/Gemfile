@@ -1,5 +1,0 @@
-gem 'zk'
-gem 'docker-api'
-gem 'rspec'
-gem 'pry'
-gem 'pry-nav'

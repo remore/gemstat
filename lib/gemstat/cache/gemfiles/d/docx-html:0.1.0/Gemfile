@@ -1,0 +1,2 @@
+gem 'docx'
+gem 'html_writer'

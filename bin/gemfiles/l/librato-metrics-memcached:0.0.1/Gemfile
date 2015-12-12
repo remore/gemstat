@@ -1,7 +1,0 @@
-gem 'trollop'
-gem 'memcached'
-gem 'yajl-ruby'
-gem 'librato-metrics'
-gem 'rake'
-gem 'shoulda'
-gem 'rdoc'

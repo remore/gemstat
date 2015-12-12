@@ -1,5 +1,0 @@
-gem 'ffi'
-gem 'newgem'
-gem 'daemons'
-gem 'newgem'
-gem 'hoe'

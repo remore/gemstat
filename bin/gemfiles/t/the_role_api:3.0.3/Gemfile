@@ -1,3 +1,0 @@
-gem 'multi_json'
-gem 'the_string_to_slug'
-gem 'rails'

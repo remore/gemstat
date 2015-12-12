@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'hirb-unicode'
+gem 'bundler'
+gem 'rake'

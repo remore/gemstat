@@ -1,4 +1,0 @@
-gem 'execjs'
-gem 'livescript'
-gem 'railties'
-gem 'tilt'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rack'
+gem 'rack-test'
+gem 'thin'
+gem 'bundler'
+gem 'rake'
+gem 'gem-release'

@@ -1,0 +1,2 @@
+gem 'ruby-growl'
+gem 'json'

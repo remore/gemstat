@@ -1,7 +1,0 @@
-gem 'praxis'
-gem 'praxis-blueprints'
-gem 'praxis-mapper'
-gem 'newrelic_rpm'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

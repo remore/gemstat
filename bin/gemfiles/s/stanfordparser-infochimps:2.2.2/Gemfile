@@ -1,8 +1,0 @@
-gem 'rjb'
-gem 'rake'
-gem 'jeweler'
-gem 'treebank'
-gem 'rspec'
-gem 'rjb'
-gem 'treebank'
-gem 'rspec'

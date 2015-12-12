@@ -1,6 +1,0 @@
-gem 'resque'
-gem 'platform-api'
-gem 'rspec'
-gem 'webmock'
-gem 'rake'
-gem 'psych'

@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rspec'
-gem 'ammeter'
-gem 'guard'
-gem 'guard-rspec'

@@ -1,0 +1,6 @@
+gem 'turn'
+gem 'mocha'
+gem 'rake'
+gem 'curb'
+gem 'oj'
+gem 'activesupport'

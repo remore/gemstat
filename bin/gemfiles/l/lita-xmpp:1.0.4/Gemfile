@@ -1,7 +1,0 @@
-gem 'lita'
-gem 'gmcmillan-xmpp4r'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'coveralls'

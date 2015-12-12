@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'paperclip'
+gem 'faker'
+gem 'brfaker'
+gem 'sqlite3'

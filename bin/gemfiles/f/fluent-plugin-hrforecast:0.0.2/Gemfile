@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'simplecov'
-gem 'coveralls'
-gem 'net-empty_port'
-gem 'test-unit'
-gem 'fluent-plugin-growthforecast'

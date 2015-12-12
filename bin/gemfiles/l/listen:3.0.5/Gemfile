@@ -1,3 +1,0 @@
-gem 'rb-fsevent'
-gem 'rb-inotify'
-gem 'bundler'

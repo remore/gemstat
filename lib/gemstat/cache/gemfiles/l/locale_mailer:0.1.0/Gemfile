@@ -1,0 +1,8 @@
+gem 'actionmailer'
+gem 'activesupport'
+gem 'loofah'
+gem 'combustion'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

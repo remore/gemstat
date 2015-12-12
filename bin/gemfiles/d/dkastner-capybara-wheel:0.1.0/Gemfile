@@ -1,7 +1,0 @@
-gem 'capybara'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'
-gem 'selenium-webdriver'
-gem 'sinatra'
-gem 'pry'

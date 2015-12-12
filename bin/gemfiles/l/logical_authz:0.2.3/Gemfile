@@ -1,6 +1,0 @@
-gem 'rake-gemcutter'
-gem 'hanna'
-gem 'mailfactory'
-gem 'rspec'
-gem 'bundler'
-gem 'rcov'

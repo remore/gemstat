@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'activesupport'
-gem 'thor'
-gem 'savon'
-gem 'builder'

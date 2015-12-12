@@ -1,3 +1,0 @@
-gem 'thin'
-gem 'rubysspi-server'
-gem 'jeweler'

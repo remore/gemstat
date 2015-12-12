@@ -1,8 +1,0 @@
-gem 'omniauth-oauth'
-gem 'nokogiri'
-gem 'rake'
-gem 'rdiscount'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'
-gem 'webmock'

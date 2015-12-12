@@ -1,5 +1,0 @@
-gem 'uber'
-gem 'middleware'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

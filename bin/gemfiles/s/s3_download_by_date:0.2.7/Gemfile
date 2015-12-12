@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'chronic'
-gem 'progressbar'
-gem 'aws-sdk'
-gem 'activesupport'

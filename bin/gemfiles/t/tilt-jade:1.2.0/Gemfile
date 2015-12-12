@@ -1,4 +1,0 @@
-gem 'jade-js-source'
-gem 'execjs'
-gem 'tilt'
-gem 'sprockets'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'watir-webdriver'
+gem 'headless'
+gem 'page-object'

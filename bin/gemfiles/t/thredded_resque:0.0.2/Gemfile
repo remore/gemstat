@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'resque'
-gem 'resque_mailer'
-gem 'sqlite3'

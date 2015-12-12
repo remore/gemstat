@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'ruby-app'
-gem 'rspec'
-gem 'rake'
-gem 'sqlite3'

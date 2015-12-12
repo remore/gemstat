@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-colorize'
+gem 'sqlite3'

@@ -1,6 +1,0 @@
-gem 'bluepill'
-gem 'gearman-ruby'
-gem 'minitest'
-gem 'mocha'
-gem 'yard'
-gem 'redcarpet'

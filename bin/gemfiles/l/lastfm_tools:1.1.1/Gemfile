@@ -1,6 +1,0 @@
-gem 'lastfm'
-gem 'unicode_utils'
-gem 'rb-appscript'
-gem 'rspec'
-gem 'jeweler'
-gem 'rdoc'

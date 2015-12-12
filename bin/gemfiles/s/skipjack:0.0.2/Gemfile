@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'fakefs'
-gem 'rake'

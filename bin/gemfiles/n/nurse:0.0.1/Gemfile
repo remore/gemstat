@@ -1,5 +1,0 @@
-gem 'thin'
-gem 'timers'
-gem 'em-websocket'
-gem 'bundler'
-gem 'rake'

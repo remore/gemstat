@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'
-gem 'yard'
-gem 'redcarpet'
-gem 'rspec'
-gem 'thor'
-gem 'mixlib-shellout'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'color_pound_spec_reporter'
-gem 'minitest'
-gem 'minitest-reporters'

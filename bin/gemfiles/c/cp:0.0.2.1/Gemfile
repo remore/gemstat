@@ -1,4 +1,0 @@
-gem 'cmdparse'
-gem 'highline'
-gem 'json_pure'
-gem 'terminal-table'

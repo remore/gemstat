@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'rspec'
-gem 'simplecov'
-gem 'activerecord-postgresql-adapter'

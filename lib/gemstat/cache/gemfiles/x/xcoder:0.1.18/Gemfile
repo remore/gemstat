@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'plist'
+gem 'nokogiri'
+gem 'builder'
+gem 'rest-client'
+gem 'colorize'
+gem 'aws-sdk'

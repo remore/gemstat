@@ -1,0 +1,7 @@
+gem 'selenium-webdriver'
+gem 'rspec'
+gem 'yard'
+gem 'webidl'
+gem 'sinatra'
+gem 'nokogiri'
+gem 'activesupport'

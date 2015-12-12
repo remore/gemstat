@@ -1,0 +1,6 @@
+gem 'liquid'
+gem 'activesupport'
+gem 'bundler'
+gem 'rails'
+gem 'sqlite3'
+gem 'capybara'

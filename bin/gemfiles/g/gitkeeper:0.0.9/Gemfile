@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'omniauth'
-gem 'omniauth-github'
-gem 'omniauth-oauth2'

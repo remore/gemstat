@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'pygments.rb'
-gem 'bundler'
-gem 'rake'

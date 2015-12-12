@@ -1,0 +1,4 @@
+gem 'ruby-mpd'
+gem 'minitest'
+gem 'flexmock'
+gem 'rake'

@@ -1,5 +1,0 @@
-gem 'rolify'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'

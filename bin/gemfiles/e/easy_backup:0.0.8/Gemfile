@@ -1,8 +1,0 @@
-gem 'rubyzip'
-gem 'net-sftp'
-gem 'rufus-scheduler'
-gem 'chronic'
-gem 'json'
-gem 'sequel'
-gem 'pg'
-gem 'rspec'

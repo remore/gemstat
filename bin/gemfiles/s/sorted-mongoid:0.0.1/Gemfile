@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'activesupport'
-gem 'sorted'
-gem 'mongoid'

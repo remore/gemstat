@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'wrong'
-gem 'rspec'
-gem 'tzinfo'
-gem 'activesupport'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'minitest'
-gem 'vcr'
-gem 'webmock'
-gem 'mocha'
-gem 'rake'
-gem 'faraday'
-gem 'json'

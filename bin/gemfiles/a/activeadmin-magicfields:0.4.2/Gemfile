@@ -1,3 +1,0 @@
-gem 'activeadmin'
-gem 'inherited_resources'
-gem 'paperclip'

@@ -1,8 +1,0 @@
-gem 'influxdb'
-gem 'pry'
-gem 'thor'
-gem 'awesome_print'
-gem 'terminal-table'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'commander'
-gem 'facets'
-gem 'mustache'
-gem 'colorize'
-gem 'configuration'

@@ -1,5 +1,0 @@
-gem 'pakyow-support'
-gem 'pakyow-core'
-gem 'websocket_parser'
-gem 'redis'
-gem 'concurrent-ruby'

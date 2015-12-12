@@ -1,3 +1,0 @@
-gem 'thor'
-gem 'aws-sdk'
-gem 'sshkit'

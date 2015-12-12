@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'virtus'
+gem 'nokogiri'
+gem 'rspec'

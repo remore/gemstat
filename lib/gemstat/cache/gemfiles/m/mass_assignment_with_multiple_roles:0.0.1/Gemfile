@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'mocha'
+gem 'rake'
+gem 'activemodel'

@@ -1,8 +1,0 @@
-gem 'gem-dandy'
-gem 'rspec'
-gem 'ruby-debug'
-gem 'guard'
-gem 'rb-fsevent'
-gem 'growl'
-gem 'guard-rspec'
-gem 'rake'

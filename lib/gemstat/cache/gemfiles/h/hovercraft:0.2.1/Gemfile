@@ -1,0 +1,7 @@
+gem 'sinatra-activerecord'
+gem 'rack-contrib'
+gem 'json'
+gem 'rspec'
+gem 'rack-test'
+gem 'pry'
+gem 'rake'

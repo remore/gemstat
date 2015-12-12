@@ -1,8 +1,0 @@
-gem 'daemons'
-gem 'dogstatsd-ruby'
-gem 'nokogiri'
-gem 'passenger'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'

@@ -1,4 +1,0 @@
-gem 'httpi'
-gem 'rspec-core'
-gem 'rspec-mocks'
-gem 'rspec-expectations'

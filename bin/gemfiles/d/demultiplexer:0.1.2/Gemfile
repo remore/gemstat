@@ -1,4 +1,0 @@
-gem 'biopieces'
-gem 'google_hash'
-gem 'bundler'
-gem 'simplecov'

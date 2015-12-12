@@ -1,5 +1,0 @@
-gem 'spring'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'spring-commands-rspec'

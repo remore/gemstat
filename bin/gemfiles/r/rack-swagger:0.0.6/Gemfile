@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rack-test'
-gem 'bundler'
-gem 'rake'
-gem 'rack'
-gem 'httpclient'
-gem 'activesupport'

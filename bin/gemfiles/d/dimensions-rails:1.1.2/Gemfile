@@ -1,6 +1,0 @@
-gem 'dimensions'
-gem 'railties'
-gem 'actionpack'
-gem 'activesupport'
-gem 'rails'
-gem 'rspec-rails'

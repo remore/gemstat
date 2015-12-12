@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'fakeweb'
-gem 'rdoc'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

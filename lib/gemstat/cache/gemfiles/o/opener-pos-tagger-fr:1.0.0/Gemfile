@@ -1,0 +1,4 @@
+gem 'opener-build-tools'
+gem 'rspec'
+gem 'cucumber'
+gem 'rake'

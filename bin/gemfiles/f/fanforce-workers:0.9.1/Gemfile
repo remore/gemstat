@@ -1,5 +1,0 @@
-gem 'iron_mq'
-gem 'iron_cache'
-gem 'uuidtools'
-gem 'activesupport'
-gem 'fanforce-api'

@@ -1,6 +1,0 @@
-gem 'tmail'
-gem 'tlsmail'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

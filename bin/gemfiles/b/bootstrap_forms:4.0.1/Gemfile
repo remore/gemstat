@@ -1,7 +1,0 @@
-gem 'rspec-rails'
-gem 'capybara'
-gem 'rake'
-gem 'rails'
-gem 'country_select'
-gem 'sqlite3'
-gem 'fuubar'

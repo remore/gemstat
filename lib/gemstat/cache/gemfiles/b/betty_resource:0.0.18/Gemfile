@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'crack'
+gem 'dirty_hashy'
+gem 'multi_json'
+gem 'minitest'

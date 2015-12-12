@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-websocket'
+gem 'net-dns'
+gem 'thin'
+gem 'haml'

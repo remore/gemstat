@@ -1,5 +1,0 @@
-gem 'logstash-core'
-gem 'connection_pool'
-gem 'net-http-pipeline'
-gem 'net-http-persistent'
-gem 'logstash-devutils'

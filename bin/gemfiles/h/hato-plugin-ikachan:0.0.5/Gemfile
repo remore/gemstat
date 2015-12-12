@@ -1,4 +1,0 @@
-gem 'hato'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

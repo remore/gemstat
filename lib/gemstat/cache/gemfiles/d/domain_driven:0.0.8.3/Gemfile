@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-given'
+gem 'interactor'
+gem 'pundit'
+gem 'activerecord'

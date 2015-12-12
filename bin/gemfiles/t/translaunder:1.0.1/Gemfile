@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'rake'
-gem 'coveralls'
-gem 'nyan-cat-formatter'

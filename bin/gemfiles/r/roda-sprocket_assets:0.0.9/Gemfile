@@ -1,5 +1,0 @@
-gem 'roda'
-gem 'sprockets'
-gem 'sprockets-helpers'
-gem 'bundler'
-gem 'rake'

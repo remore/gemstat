@@ -1,3 +1,0 @@
-gem 'rpcjson'
-gem 'bundler'
-gem 'rake'

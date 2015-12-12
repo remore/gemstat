@@ -1,6 +1,0 @@
-gem 'bcrypt'
-gem 'devise-encryptable'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

@@ -1,3 +1,0 @@
-gem 'sparql-client'
-gem 'activesupport'
-gem 'rest-client'

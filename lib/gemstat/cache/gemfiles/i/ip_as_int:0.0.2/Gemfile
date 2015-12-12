@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rspec'
+gem 'rake'
+gem 'activemodel'
+gem 'debugger'
+gem 'activerecord'
+gem 'sqlite3'

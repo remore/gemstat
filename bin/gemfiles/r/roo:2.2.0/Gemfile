@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'rake'
-gem 'minitest'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'mongo_mapper'
-gem 'vegas'
-gem 'sinatra'
-gem 'bson_ext'

@@ -1,0 +1,8 @@
+gem 'http'
+gem 'celluloid-io'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'bourne'
+gem 'simplecov'

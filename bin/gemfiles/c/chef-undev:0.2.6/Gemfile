@@ -1,5 +1,0 @@
-gem 'chef'
-gem 'knife-undev'
-gem 'nyan-cat-chef-formatter'
-gem 'bundler'
-gem 'rake'

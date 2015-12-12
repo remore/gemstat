@@ -1,0 +1,6 @@
+gem 'ice_cube'
+gem 'byebug'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'guard'
+gem 'guard-minitest'

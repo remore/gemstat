@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'plist'
-gem 'sqlite3'
-gem 'activerecord'
-gem 'activesupport'
-gem 'taglib-ruby'
-gem 'rake'

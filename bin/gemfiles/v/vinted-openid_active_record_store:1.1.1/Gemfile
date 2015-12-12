@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'protected_attributes'
-gem 'ruby-openid'

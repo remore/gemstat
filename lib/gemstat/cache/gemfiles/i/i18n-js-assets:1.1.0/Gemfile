@@ -1,0 +1,5 @@
+gem 'i18n-js'
+gem 'railties'
+gem 'tzinfo'
+gem 'sprockets-rails'
+gem 'tilt'

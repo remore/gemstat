@@ -1,5 +1,0 @@
-gem 'parslet'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'pry'

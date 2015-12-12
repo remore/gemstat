@@ -1,5 +1,0 @@
-gem 'econfig'
-gem 'mellon'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

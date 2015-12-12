@@ -1,4 +1,0 @@
-gem 'ansi'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

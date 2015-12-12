@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'select2-rails'
-gem 'pg'

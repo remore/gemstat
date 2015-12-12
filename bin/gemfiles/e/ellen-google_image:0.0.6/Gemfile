@@ -1,6 +1,0 @@
-gem 'ellen'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'bundler'
-gem 'pry'
-gem 'rake'

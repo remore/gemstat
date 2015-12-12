@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'connection_pool'
-gem 'activesupport'
-gem 'bundler'
-gem 'hiredis'
-gem 'rake'
-gem 'rspec'

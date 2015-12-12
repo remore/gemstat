@@ -1,7 +1,0 @@
-gem 'lsegal-yard'
-gem 'mocha'
-gem 'fakeweb'
-gem 'builder'
-gem 'activeresource'
-gem 'francois-rest-client'
-gem 'nokogiri'

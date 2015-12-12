@@ -1,4 +1,0 @@
-gem 'shoulda'
-gem 'rspec'
-gem 'cucumber'
-gem 'therubyracer'

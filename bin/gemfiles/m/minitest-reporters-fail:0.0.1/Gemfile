@@ -1,4 +1,0 @@
-gem 'minitest-reporters'
-gem 'ansi'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'metriks'
-gem 'rest-client'
-gem 'signalfx'
-gem 'mocha'

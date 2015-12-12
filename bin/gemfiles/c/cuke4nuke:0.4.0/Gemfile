@@ -1,4 +1,0 @@
-gem 'cucumber'
-gem 'win32-process'
-gem 'json'
-gem 'win32console'

@@ -1,5 +1,0 @@
-gem 'net-ssh'
-gem 'net-scp'
-gem 'json'
-gem 'archive-tar-minitar'
-gem 'thor'

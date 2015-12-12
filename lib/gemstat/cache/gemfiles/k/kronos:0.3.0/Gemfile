@@ -1,0 +1,4 @@
+gem 'kronos'
+gem 'rspec'
+gem 'rspec'
+gem 'jeweler'

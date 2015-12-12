@@ -1,6 +1,0 @@
-gem 'trollop'
-gem 'rake'
-gem 'bundler'
-gem 'rmagick'
-gem 'minitest'
-gem 'uuidtools'

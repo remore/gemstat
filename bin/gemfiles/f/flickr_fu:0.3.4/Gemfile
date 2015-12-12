@@ -1,6 +1,0 @@
-gem 'mime-types'
-gem 'xml-magic'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'rdoc'

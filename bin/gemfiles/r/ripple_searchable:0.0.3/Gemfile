@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'ripple'
-gem 'rails'

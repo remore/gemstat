@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'mongo'
+gem 'bson_ext'
+gem 'gems'
+gem 'rake'

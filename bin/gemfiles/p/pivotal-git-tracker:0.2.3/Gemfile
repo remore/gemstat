@@ -1,4 +1,0 @@
-gem 'pivotal-tracker'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rake'

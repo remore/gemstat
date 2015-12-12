@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'activerecord'
-gem 'sequel'
-gem 'sqlite3'
-gem 'fernet'

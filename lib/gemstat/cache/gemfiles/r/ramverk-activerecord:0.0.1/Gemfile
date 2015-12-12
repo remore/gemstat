@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'ramverk'
+gem 'sqlite3'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'simplecov'
+gem 'coveralls'

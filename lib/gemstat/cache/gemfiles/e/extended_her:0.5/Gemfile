@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'activesupport'
+gem 'faraday'
+gem 'multi_json'

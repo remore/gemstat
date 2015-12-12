@@ -1,5 +1,0 @@
-gem 'middleman-core'
-gem 'cloudinary'
-gem 'minitest'
-gem 'fivemat'
-gem 'minitest-stub-const'

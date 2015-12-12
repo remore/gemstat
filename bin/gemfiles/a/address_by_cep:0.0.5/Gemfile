@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'sqlite3-ruby'
-gem 'shoulda'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'cucumber'
-gem 'cucumber-rails'

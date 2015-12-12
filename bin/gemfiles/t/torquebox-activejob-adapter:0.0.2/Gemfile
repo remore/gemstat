@@ -1,4 +1,0 @@
-gem 'activejob'
-gem 'torquebox-messaging'
-gem 'bundler'
-gem 'rake'

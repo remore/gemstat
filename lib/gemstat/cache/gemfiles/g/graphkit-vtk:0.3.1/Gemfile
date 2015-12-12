@@ -1,0 +1,6 @@
+gem 'graphkit'
+gem 'rubypython'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,5 +1,0 @@
-gem 'ffi'
-gem 'mocha'
-gem 'minitest'
-gem 'yard'
-gem 'rcov'

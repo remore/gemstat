@@ -1,0 +1,6 @@
+gem 'Basil'
+gem 'dna'
+gem 'trollop'
+gem 'progressbar'
+gem 'jeweler'
+gem 'jeweler'

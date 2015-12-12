@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'pg'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'apitome'

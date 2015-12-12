@@ -1,6 +1,0 @@
-gem 'r509'
-gem 'rufus-scheduler'
-gem 'rake'
-gem 'dependo'
-gem 'rspec'
-gem 'syntax'

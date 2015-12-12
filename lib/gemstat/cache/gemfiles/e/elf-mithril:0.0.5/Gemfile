@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'jbangert-bindata'
+gem 'renum'
+gem 'andand'
+gem 'segment_tree'
+gem 'rbtree-pure'

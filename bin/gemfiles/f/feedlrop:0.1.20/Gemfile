@@ -1,7 +1,0 @@
-gem 'feedlr'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'arxutils'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

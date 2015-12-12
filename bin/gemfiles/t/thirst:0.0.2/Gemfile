@@ -1,6 +1,0 @@
-gem 'mechanize'
-gem 'geocoder'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'guard-rspec'

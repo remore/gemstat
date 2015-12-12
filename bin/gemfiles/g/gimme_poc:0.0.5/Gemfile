@@ -1,6 +1,0 @@
-gem 'mechanize'
-gem 'colored'
-gem 'lazy_domain'
-gem 'rspec'
-gem 'pry'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'pangdudu-ruby-dbus-daemon'
-gem 'pangdudu-ruby-dbus'
-gem 'pangdudu-rofl'
-gem 'hpricot'
-gem 'builder'

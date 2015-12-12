@@ -1,3 +1,0 @@
-gem 'aws-s3'
-gem 'lockfile'
-gem 'terminator'

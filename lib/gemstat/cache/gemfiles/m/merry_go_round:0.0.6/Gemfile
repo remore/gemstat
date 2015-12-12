@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'redis'
+gem 'redis-namespace'
+gem 'sinatra'

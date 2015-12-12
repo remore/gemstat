@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'gmetric'
-gem 'logstash-codec-plain'
-gem 'logstash-devutils'

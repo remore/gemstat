@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'yard'
-gem 'redcarpet'
-gem 'rake'
-gem 'sqlite3'
-gem 'mysql2'
-gem 'rubocop'

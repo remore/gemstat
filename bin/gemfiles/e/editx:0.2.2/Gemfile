@@ -1,4 +1,0 @@
-gem 'roxml'
-gem 'activesupport'
-gem 'andand'
-gem 'nokogiri'

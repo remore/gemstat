@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'awesome_print'
+gem 'pry'
+gem 'pry-nav'

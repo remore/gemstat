@@ -1,5 +1,0 @@
-gem 'i18n'
-gem 'rails'
-gem 'rspec-rails'
-gem 'i18n-spec'
-gem 'spork'

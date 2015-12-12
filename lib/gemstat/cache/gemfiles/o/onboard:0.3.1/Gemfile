@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'git'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

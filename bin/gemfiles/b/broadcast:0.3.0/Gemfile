@@ -1,8 +1,0 @@
-gem 'hashie'
-gem 'oauth'
-gem 'xmpp4r'
-gem 'mail'
-gem 'broach'
-gem 'shout-bot'
-gem 'koala'
-gem 'smsified'

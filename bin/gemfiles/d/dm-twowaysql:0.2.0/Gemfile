@@ -1,4 +1,0 @@
-gem 'dm-do-adapter'
-gem 'twowaysql'
-gem 'rake'
-gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'travis'
+gem 'gh'
+gem 'rspec'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'ffi'
-gem 'trollop'
-gem 'rake'
-gem 'redcarpet'
-gem 'rspec'
-gem 'yard'

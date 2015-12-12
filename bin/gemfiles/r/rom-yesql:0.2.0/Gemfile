@@ -1,4 +1,0 @@
-gem 'rom'
-gem 'sequel'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,7 @@
+gem 'mandrill-api'
+gem 'rspec'
+gem 'mail'
+gem 'rake'
+gem 'simplecov'
+gem 'travis-lint'
+gem 'rubocop'

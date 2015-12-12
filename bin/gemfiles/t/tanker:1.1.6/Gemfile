@@ -1,4 +1,0 @@
-gem 'json'
-gem 'jeweler'
-gem 'will_paginate'
-gem 'kaminari'

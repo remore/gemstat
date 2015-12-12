@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'timecop'
-gem 'rake'
-gem 'rspec'

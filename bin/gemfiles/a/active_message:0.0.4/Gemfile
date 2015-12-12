@@ -1,5 +1,0 @@
-gem 'logging'
-gem 'bunny'
-gem 'daemons'
-gem 'bundler'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'eventmachine'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'rails-observers'
-gem 'tzinfo'
-gem 'geoip'

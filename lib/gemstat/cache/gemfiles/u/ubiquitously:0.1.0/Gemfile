@@ -1,0 +1,8 @@
+gem 'json'
+gem 'activesupport'
+gem 'mechanize'
+gem 'highline'
+gem 'rack'
+gem 'httparty'
+gem 'activemodel'
+gem 'passport'

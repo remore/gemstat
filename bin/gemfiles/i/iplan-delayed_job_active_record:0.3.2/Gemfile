@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'iplan-delayed_job'
-gem 'rspec'
-gem 'rake'
-gem 'sqlite3'

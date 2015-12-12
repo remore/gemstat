@@ -1,6 +1,0 @@
-gem 'jekyll'
-gem 'bundler'
-gem 'rake'
-gem 'shoulda'
-gem 'shoulda-context'
-gem 'mocha'

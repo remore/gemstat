@@ -1,0 +1,7 @@
+gem 'json'
+gem 'json-schema'
+gem 'rest-client'
+gem 'colorize'
+gem 'rspec'
+gem 'simplecov-rcov'
+gem 'fakeweb'

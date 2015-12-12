@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'rspec'
-gem 'RedCloth'

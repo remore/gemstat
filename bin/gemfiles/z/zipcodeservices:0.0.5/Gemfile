@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'guard-rspec'
-gem 'typhoeus'
-gem 'multi_xml'
-gem 'nokogiri'

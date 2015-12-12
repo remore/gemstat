@@ -1,6 +1,0 @@
-gem 'multi_json'
-gem 'hashie'
-gem 'activerecord'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

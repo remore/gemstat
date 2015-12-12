@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'plist'
-gem 'metaid'

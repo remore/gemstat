@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'capistrano-bundle'
+gem 'capistrano-composer'
+gem 'capistrano-simplegit'
+gem 'bundler'
+gem 'rake'

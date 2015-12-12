@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'em-synchrony'
+gem 'arachni-rpc'
+gem 'rake'
+gem 'rspec'

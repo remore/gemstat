@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'rake'
-gem 'rspec'
-gem 'jeweler'
-gem 'rcov'
-gem 'simplecov'
-gem 'test-construct'

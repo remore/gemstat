@@ -1,7 +1,0 @@
-gem 'bio'
-gem 'msgpack'
-gem 'rake'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'cucumber'

@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'json_pure'
-gem 'daemons'
-gem 'thin'

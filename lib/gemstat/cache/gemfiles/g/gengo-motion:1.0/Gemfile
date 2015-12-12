@@ -1,0 +1,6 @@
+gem 'afmotion'
+gem 'bubble-wrap'
+gem 'motion-cocoapods'
+gem 'cocoapods'
+gem 'sugarcube'
+gem 'rake'

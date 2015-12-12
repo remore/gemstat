@@ -1,4 +1,0 @@
-gem 'pry'
-gem 'json'
-gem 'nokogiri'
-gem 'coderay'

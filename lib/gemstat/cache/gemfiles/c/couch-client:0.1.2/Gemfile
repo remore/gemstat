@@ -1,0 +1,4 @@
+gem 'json'
+gem 'curb'
+gem 'echoe'
+gem 'rspec'

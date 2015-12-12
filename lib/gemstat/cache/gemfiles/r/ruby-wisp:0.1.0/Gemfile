@@ -1,0 +1,2 @@
+gem 'ruby-wisp-source'
+gem 'execjs'

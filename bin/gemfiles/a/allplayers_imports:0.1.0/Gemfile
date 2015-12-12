@@ -1,4 +1,0 @@
-gem 'ci_reporter'
-gem 'fastercsv'
-gem 'highline'
-gem 'allplayers'

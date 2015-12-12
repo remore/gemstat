@@ -1,7 +1,0 @@
-gem 'tilt'
-gem 'rfuse'
-gem 'bundler'
-gem 'rake'
-gem 'test-unit'
-gem 'fakefs'
-gem 'pry-byebug'

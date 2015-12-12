@@ -1,5 +1,0 @@
-gem 'charlock_holmes'
-gem 'rspec'
-gem 'grit'
-gem 'rake'
-gem 'pry'

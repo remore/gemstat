@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'em-websocket'
+gem 'eventmachine'
+gem 'thin'

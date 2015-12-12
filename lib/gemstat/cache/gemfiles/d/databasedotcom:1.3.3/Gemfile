@@ -1,0 +1,6 @@
+gem 'multipart-post'
+gem 'json'
+gem 'activesupport'
+gem 'rspec'
+gem 'webmock'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'devise-guests'
-gem 'omniauth-cas'
-gem 'cancan'
-gem 'sqlite3'
-gem 'rspec'

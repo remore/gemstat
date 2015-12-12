@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec-rails'
-gem 'webmock'
-gem 'actionpack'
-gem 'activesupport'
-gem 'httparty'

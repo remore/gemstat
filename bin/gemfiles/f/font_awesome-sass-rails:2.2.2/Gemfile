@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'compass'
-gem 'sass'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

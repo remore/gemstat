@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'configuration'
+gem 'archive-tar-minitar'
+gem 'amalgalite'
+gem 'logging'

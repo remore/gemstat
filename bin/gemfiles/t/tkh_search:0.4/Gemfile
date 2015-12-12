@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'sanitize'
-gem 'bundler'
-gem 'rake'

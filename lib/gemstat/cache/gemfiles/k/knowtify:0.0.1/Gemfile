@@ -1,0 +1,6 @@
+gem 'excon'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-autotest'
+gem 'autotest'

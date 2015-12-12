@@ -1,0 +1,2 @@
+gem 'bbq'
+gem 'sqlite3'

@@ -1,0 +1,7 @@
+gem 'coderay'
+gem 'haml'
+gem 'kramdown'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'

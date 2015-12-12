@@ -1,4 +1,0 @@
-gem 'treetop'
-gem 'rubyXL'
-gem 'nokogiri'
-gem 'rubyzip'

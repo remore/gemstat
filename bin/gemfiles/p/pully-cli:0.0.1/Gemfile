@@ -1,8 +1,0 @@
-gem 'git'
-gem 'uri-ssh_git'
-gem 'rspec'
-gem 'rake'
-gem 'rubocop'
-gem 'pry'
-gem 'simplecov'
-gem 'codeclimate-test-reporter'

@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'fluentd'
-gem 'fluent-plugin-buffer-pullpool'
-gem 'fluent-mixin-config-placeholders'
-gem 'fluent-mixin-certificate'
-gem 'resolve-hostname'

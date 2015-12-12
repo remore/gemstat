@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'
-gem 'bourne'
-gem 'byebug'

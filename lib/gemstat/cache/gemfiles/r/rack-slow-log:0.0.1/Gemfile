@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'rspec'
+gem 'simplecov'
+gem 'rack-test'
+gem 'fakefs'

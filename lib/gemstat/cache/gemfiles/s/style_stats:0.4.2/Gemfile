@@ -1,0 +1,6 @@
+gem 'oga'
+gem 'css_parser'
+gem 'command_line_reporter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

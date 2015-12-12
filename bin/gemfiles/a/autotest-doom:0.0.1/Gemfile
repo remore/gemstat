@@ -1,3 +1,0 @@
-gem 'test_notifier'
-gem 'rspec'
-gem 'yard'

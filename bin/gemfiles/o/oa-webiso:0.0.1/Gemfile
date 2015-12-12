@@ -1,3 +1,0 @@
-gem 'oa-core'
-gem 'oa-env'
-gem 'net-ldap'

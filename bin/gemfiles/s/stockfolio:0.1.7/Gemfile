@@ -1,7 +1,0 @@
-gem 'boson'
-gem 'hirb'
-gem 'data_mapper'
-gem 'dm-migrations'
-gem 'dm-sqlite-adapter'
-gem 'json'
-gem 'gems'

@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'holepicker'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,5 @@
+gem 'opal'
+gem 'opal-rspec'
+gem 'opal-builder'
+gem 'rspec_junit_formatter'
+gem 'rake'

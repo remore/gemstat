@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'json'
-gem 'sprockets'
-gem 'jasmine'
-gem 'rspec'
-gem 'settingslogic'
-gem 'shoulda'

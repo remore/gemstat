@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'debugger'
-gem 'sqlite3'

@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'redis'
-gem 'redis-namespace'

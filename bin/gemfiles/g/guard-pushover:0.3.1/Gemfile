@@ -1,6 +1,0 @@
-gem 'rushover'
-gem 'guard'
-gem 'guard'
-gem 'guard-rspec'
-gem 'rspec'
-gem 'coveralls'

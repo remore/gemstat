@@ -1,4 +1,0 @@
-gem 'thin'
-gem 'eventmachine'
-gem 'activerecord'
-gem 'activesupport'

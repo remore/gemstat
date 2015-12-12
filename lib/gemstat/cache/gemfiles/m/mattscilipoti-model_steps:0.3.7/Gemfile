@@ -1,0 +1,4 @@
+gem 'friendly_id'
+gem 'aaronh-chronic'
+gem 'micronaut'
+gem 'cucumber'

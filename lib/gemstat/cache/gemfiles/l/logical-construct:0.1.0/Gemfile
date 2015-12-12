@@ -1,0 +1,7 @@
+gem 'corundum'
+gem 'rake'
+gem 'mattock'
+gem 'roadforest'
+gem 'multipart-parser'
+gem 'nokogiri'
+gem 'json'

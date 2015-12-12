@@ -1,8 +1,0 @@
-gem 'map'
-gem 'deep_merge'
-gem 'rspec'
-gem 'simplecov'
-gem 'rb-fsevent'
-gem 'guard'
-gem 'guard-bundler'
-gem 'guard-rspec'

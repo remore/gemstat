@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'rubyzip'
+gem 'zip-zip'
+gem 'zerg_support'
+gem 'echoe'
+gem 'flexmock'

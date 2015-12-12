@@ -1,0 +1,8 @@
+gem 'launchy'
+gem 'yajl-ruby'
+gem 'hashie'
+gem 'gli'
+gem 'octokit'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

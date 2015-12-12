@@ -1,3 +1,0 @@
-gem 'netzke-basepack'
-gem 'rails'
-gem 'sqlite3'

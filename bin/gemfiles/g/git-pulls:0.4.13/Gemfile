@@ -1,5 +1,0 @@
-gem 'json'
-gem 'launchy'
-gem 'octokit'
-gem 'minitest'
-gem 'rake'

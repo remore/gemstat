@@ -1,7 +1,0 @@
-gem 'rcov'
-gem 'redgreen'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'reek'
-gem 'roodi'

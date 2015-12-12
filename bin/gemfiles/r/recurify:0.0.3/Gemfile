@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rubocop'
-gem 'yard'
-gem 'redcarpet'
-gem 'pry'

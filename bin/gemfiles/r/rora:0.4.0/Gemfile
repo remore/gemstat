@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'activesupport'
-gem 'rspec-mocks'
-gem 'test-unit'

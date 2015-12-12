@@ -1,4 +1,0 @@
-gem 'trollop'
-gem 'gherkin'
-gem 'colorize'
-gem 'bundler'

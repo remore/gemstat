@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'untied-consumer'
-gem 'untied-publisher'

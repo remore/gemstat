@@ -1,6 +1,0 @@
-gem 'shoulda'
-gem 'mocha'
-gem 'rake'
-gem 'dalli'
-gem 'activesupport'
-gem 'memcache'

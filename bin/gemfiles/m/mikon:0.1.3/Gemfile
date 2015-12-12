@@ -1,4 +1,0 @@
-gem 'nmatrix'
-gem 'formatador'
-gem 'bundler'
-gem 'rake'

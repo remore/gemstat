@@ -1,4 +1,0 @@
-gem 'writeexcel'
-gem 'activemodel'
-gem 'sqlite3'
-gem 'capybara'

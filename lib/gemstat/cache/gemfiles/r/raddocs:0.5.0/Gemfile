@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'haml'
+gem 'json'
+gem 'rspec'
+gem 'rack-test'
+gem 'capybara'
+gem 'rake'

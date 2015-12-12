@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'webmock'
+gem 'vcr'
+gem 'rake'
+gem 'faraday'
+gem 'netrc'

@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'fog'
-gem 'rspec'
-gem 'rake'

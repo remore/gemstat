@@ -1,5 +1,0 @@
-gem 'commander'
-gem 'activesupport'
-gem 'terminal-table'
-gem 'rake'
-gem 'dotenv'

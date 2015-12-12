@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'minitest'
+gem 'rack-test'
+gem 'rake'
+gem 'active_support'

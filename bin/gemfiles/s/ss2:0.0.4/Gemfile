@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

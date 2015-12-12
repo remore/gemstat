@@ -1,4 +1,0 @@
-gem 'cairo'
-gem 'rapngasm'
-gem 'rsvg2'
-gem 'rmagick'

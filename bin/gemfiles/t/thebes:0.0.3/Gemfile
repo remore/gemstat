@@ -1,8 +1,0 @@
-gem 'riddle'
-gem 'mysql2'
-gem 'actionpack'
-gem 'activerecord'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'genspec'
-gem 'mocha'

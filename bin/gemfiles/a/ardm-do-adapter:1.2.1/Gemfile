@@ -1,4 +1,0 @@
-gem 'data_objects'
-gem 'ardm-core'
-gem 'rake'
-gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'haml'
+gem 'activesupport'
+gem 'nokogiri'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'

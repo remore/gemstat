@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'memoist'
+gem 'rake'
+gem 'minitest-documentation'
+gem 'rspec'

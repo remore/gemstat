@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'conjur-cli'
+gem 'cucumber'
+gem 'json_spec'
+gem 'aruba'

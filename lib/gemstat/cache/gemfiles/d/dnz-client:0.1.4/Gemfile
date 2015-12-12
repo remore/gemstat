@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'nokogiri'
+gem 'rubyforge'
+gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'acts_as_tree'
+gem 'devise'
+gem 'friendly_id'

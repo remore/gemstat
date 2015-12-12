@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'faraday'
-gem 'debugger'

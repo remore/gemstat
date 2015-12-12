@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'aria2-ruby'
+gem 'nokogiri'
+gem 'xml-simple'
+gem 'webrick'

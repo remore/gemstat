@@ -1,7 +1,0 @@
-gem 'money'
-gem 'activesupport'
-gem 'rspec'
-gem 'yard'
-gem 'redcarpet'
-gem 'bundler'
-gem 'rake'

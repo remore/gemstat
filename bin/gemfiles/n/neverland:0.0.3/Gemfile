@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rspec-rails'
-gem 'tzinfo'
-gem 'capybara'
-gem 'jquery-rails'

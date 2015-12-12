@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rb-fsevent'
-gem 'guard-rspec'

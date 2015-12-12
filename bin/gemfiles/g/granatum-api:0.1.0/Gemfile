@@ -1,6 +1,0 @@
-gem 'activeresource'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'httplog'

@@ -1,8 +1,0 @@
-gem 'ayl'
-gem 'beaneater'
-gem 'daemons'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rails'
-gem 'pry'

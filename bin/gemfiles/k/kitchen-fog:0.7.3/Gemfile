@@ -1,8 +1,0 @@
-gem 'test-kitchen'
-gem 'fog'
-gem 'bundler'
-gem 'rake'
-gem 'tailor'
-gem 'cane'
-gem 'countloc'
-gem 'rspec'

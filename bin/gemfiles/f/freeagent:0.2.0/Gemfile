@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'activeresource'
-gem 'mimic'
-gem 'rr'

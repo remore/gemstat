@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'lattes_api'
-gem 'rspec-rails'
-gem 'pry-rails'

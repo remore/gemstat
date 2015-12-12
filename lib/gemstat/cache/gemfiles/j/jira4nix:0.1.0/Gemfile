@@ -1,0 +1,4 @@
+gem 'jira4r'
+gem 'plain_option_parser'
+gem 'highline'
+gem 'rspec'

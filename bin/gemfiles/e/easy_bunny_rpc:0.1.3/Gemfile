@@ -1,4 +1,0 @@
-gem 'bunny'
-gem 'bundler'
-gem 'rake'
-gem 'rubygems-tasks'

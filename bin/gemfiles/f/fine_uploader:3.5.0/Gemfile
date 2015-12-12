@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'vendorer'
-gem 'tzinfo'
-gem 'sass-rails'

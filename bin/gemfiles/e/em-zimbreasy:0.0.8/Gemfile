@@ -1,5 +1,0 @@
-gem 'test-unit'
-gem 'em-http-request'
-gem 'em-synchrony'
-gem 'nokogiri'
-gem 'icalendar'

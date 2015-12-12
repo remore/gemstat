@@ -1,3 +1,0 @@
-gem 'chef'
-gem 'net-scp'
-gem 'ruby-progressbar'

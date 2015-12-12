@@ -1,5 +1,0 @@
-gem 'id'
-gem 'bundler'
-gem 'rake'
-gem 'simplecov'
-gem 'rspec'

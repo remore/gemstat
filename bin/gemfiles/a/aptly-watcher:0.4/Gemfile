@@ -1,5 +1,0 @@
-gem 'slop'
-gem 'rb-inotify'
-gem 'redis'
-gem 'bundler'
-gem 'rake'

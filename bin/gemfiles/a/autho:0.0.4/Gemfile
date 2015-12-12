@@ -1,5 +1,0 @@
-gem 'attr_extras'
-gem 'bcrypt-ruby'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

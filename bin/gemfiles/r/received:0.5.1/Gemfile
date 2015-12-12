@@ -1,4 +1,0 @@
-gem 'daemons'
-gem 'eventmachine'
-gem 'mongo'
-gem 'bson_ext'

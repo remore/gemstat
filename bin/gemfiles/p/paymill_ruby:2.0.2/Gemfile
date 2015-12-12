@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'pry'
-gem 'guard-rspec'

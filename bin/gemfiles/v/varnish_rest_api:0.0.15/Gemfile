@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'zk'
-gem 'zookeeper'
-gem 'json'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'ffi'
-gem 'rake'
-gem 'rspec'

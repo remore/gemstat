@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'utility_belt'
-gem 'json'
-gem 'rest-client'
-gem 'activesupport'

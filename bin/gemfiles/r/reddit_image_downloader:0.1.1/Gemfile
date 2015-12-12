@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'snoo'
-gem 'mechanize'
-gem 'dimensions'

@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'rake'
-gem 'minitest'
-gem 'fakeredis'
-gem 'mocha'
-gem 'private_gem'
-gem 'bump'

@@ -1,0 +1,6 @@
+gem 'http2'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

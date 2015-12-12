@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'mongoid'
-gem 'nested_form'

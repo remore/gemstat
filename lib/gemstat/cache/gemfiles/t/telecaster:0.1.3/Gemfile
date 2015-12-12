@@ -1,0 +1,8 @@
+gem 'em-http-request'
+gem 'eventmachine'
+gem 'thin'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'rack-proxy'
+gem 'rack-test'
+gem 'sinatra'

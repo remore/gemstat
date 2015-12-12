@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'copyright-header'
-gem 'minitest-vcr'
-gem 'webmock'
-gem 'fluentd'
-gem 'docker-api'

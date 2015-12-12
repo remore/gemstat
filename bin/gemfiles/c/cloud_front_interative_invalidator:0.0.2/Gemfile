@@ -1,4 +1,0 @@
-gem 'aws-sdk'
-gem 'table_print'
-gem 'bundler'
-gem 'rake'

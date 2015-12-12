@@ -1,6 +1,0 @@
-gem 'sdoc'
-gem 'autotest'
-gem 'bundler'
-gem 'rspec'
-gem 'autotest-fsevent'
-gem 'autotest-growl'

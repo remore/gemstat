@@ -1,4 +1,0 @@
-gem 'json'
-gem 'rails'
-gem 'sqlite3'
-gem 'rake'

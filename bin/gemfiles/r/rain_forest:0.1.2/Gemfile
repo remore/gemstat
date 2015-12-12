@@ -1,7 +1,0 @@
-gem 'aws-sdk'
-gem 'rspec'
-gem 'coveralls'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

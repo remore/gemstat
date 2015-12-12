@@ -1,7 +1,0 @@
-gem 'test-kitchen'
-gem 'fog'
-gem 'rubocop'
-gem 'rake'
-gem 'cane'
-gem 'countloc'
-gem 'rspec'

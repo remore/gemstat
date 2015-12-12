@@ -1,0 +1,7 @@
+gem 'sass'
+gem 'railties'
+gem 'bundler'
+gem 'capybara'
+gem 'rake'
+gem 'rails'
+gem 'rspec'

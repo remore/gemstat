@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'
-gem 'vcr'
-gem 'rest-client'
-gem 'json'

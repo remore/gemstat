@@ -1,0 +1,8 @@
+gem 'boxomojo'
+gem 'bundler'
+gem 'bacon'
+gem 'Bacon_Colored'
+gem 'pry'
+gem 'awesome_print'
+gem 'rouge'
+gem 'unindent'

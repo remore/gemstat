@@ -1,6 +1,0 @@
-gem 'emblem-source'
-gem 'handlebars_assets'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

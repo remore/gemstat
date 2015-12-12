@@ -1,4 +1,0 @@
-gem 'newrelic_rpm'
-gem 'webmachine'
-gem 'bundler'
-gem 'rake'

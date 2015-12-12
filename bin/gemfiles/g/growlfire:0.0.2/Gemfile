@@ -1,3 +1,0 @@
-gem 'yajl-ruby'
-gem 'ruby-growl'
-gem 'em-http-request'

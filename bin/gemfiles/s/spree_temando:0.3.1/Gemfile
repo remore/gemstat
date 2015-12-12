@@ -1,6 +1,0 @@
-gem 'spree_core'
-gem 'rails'
-gem 'temando'
-gem 'rspec'
-gem 'faker'
-gem 'rake'

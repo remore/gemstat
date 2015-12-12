@@ -1,6 +1,0 @@
-gem 'git'
-gem 'launchy'
-gem 'pry'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

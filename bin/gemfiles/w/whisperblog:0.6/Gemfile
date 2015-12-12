@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'rmail'
-gem 'trollop'
-gem 'RedCloth'
-gem 'mime-types'
-gem 'syntax'
-gem 'hpricot'
-gem 'thin'

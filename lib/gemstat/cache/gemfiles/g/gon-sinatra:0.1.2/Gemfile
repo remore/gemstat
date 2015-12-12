@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'rabl'
+gem 'i18n'
+gem 'json'
+gem 'rspec'
+gem 'rake'

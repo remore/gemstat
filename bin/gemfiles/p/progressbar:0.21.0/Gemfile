@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'minitest'
-gem 'yard'
-gem 'rake'
-gem 'simplecov'
-gem 'bluecloth'

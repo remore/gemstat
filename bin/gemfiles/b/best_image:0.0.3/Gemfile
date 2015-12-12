@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'image_size'
-gem 'nokogiri'

@@ -1,0 +1,5 @@
+gem 'paperclip'
+gem 'rspec'
+gem 'rake'
+gem 'daemon_controller'
+gem 'activerecord'

@@ -1,4 +1,0 @@
-gem 'activemodel'
-gem 'tzinfo'
-gem 'mongo'
-gem 'origin'

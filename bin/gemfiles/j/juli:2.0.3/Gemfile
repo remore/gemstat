@@ -1,6 +1,0 @@
-gem 'i18n'
-gem 'rmagick'
-gem 'racc'
-gem 'simplecov'
-gem 'bundler'
-gem 'rake'

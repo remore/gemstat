@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'rack'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'rack-test'
+gem 'pretty-xml'

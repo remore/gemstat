@@ -1,0 +1,4 @@
+gem 'highline'
+gem 'configatron'
+gem 'rdoc'
+gem 'bones'

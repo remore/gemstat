@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'i18n'
-gem 'activesupport'

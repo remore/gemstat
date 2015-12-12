@@ -1,6 +1,0 @@
-gem 'datamapper'
-gem 'file-find'
-gem 'ffi-ssdeep'
-gem 'ore-tasks'
-gem 'yard'
-gem 'rspec'

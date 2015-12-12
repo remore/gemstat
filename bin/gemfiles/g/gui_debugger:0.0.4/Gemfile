@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'pry'
-gem 'binding_of_caller'
-gem 'erubis'
-gem 'coderay'
-gem 'sqlite3'

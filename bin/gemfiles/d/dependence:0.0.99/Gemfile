@@ -1,5 +1,0 @@
-gem 'rgl'
-gem 'rb-inotify'
-gem 'coffee-script'
-gem 'therubyracer'
-gem 'rspec'

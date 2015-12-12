@@ -1,0 +1,6 @@
+gem 'ruboty'
+gem 'faraday'
+gem 'activesupport'
+gem 'pry-byebug'
+gem 'bundler'
+gem 'rake'

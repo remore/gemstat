@@ -1,5 +1,0 @@
-gem 'rinruby'
-gem 'json'
-gem 'nokogiri'
-gem 'mongo'
-gem 'bson_ext'

@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'rspec'
-gem 'faker'
-gem 'dotenv'
-gem 'byebug'
-gem 'pry-byebug'

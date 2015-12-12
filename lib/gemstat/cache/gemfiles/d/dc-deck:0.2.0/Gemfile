@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'dc-settingslogic'
+gem 'rake'
+gem 'wirble'
+gem 'bundler'
+gem 'pry'
+gem 'yard'

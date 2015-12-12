@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'progressbar'
+gem 'sfl'
+gem 'taglib2'
+gem 'rspec'

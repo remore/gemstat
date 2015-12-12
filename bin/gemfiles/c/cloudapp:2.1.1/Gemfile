@@ -1,8 +1,0 @@
-gem 'clipboard'
-gem 'leadlight'
-gem 'mime-types'
-gem 'netrc'
-gem 'typhoeus'
-gem 'rake'
-gem 'ronn'
-gem 'rspec'

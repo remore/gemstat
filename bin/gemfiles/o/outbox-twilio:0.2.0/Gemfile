@@ -1,5 +1,0 @@
-gem 'outbox'
-gem 'twilio-ruby'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

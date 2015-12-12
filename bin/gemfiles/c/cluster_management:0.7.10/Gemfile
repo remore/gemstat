@@ -1,5 +1,0 @@
-gem 'tilt'
-gem 'ruby_ext'
-gem 'vos'
-gem 'vfs'
-gem 'class_loader'

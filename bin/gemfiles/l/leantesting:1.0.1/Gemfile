@@ -1,4 +1,0 @@
-gem 'json'
-gem 'curb'
-gem 'minitest'
-gem 'mocha'

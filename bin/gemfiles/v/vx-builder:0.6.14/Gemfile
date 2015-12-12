@@ -1,7 +1,0 @@
-gem 'vx-common'
-gem 'vx-message'
-gem 'hashr'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rr'

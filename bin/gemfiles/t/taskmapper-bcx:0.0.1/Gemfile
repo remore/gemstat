@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'taskmapper'
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

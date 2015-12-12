@@ -1,8 +1,0 @@
-gem 'shutl_auth'
-gem 'activemodel'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'faraday-conductivity'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

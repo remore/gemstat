@@ -1,5 +1,0 @@
-gem 'etcenv'
-gem 'hako'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'

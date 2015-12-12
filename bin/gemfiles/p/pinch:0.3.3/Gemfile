@@ -1,3 +1,0 @@
-gem 'minitest'
-gem 'webmock'
-gem 'vcr'

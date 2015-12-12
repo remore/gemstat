@@ -1,4 +1,0 @@
-gem 'ipaddress'
-gem 'activemodel'
-gem 'activesupport'
-gem 'rspec'

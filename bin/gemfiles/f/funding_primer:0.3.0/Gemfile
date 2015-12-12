@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rdoc'
-gem 'aruba'
-gem 'rake'
-gem 'methadone'
-gem 'terminal-table'
-gem 'gem-man'
-gem 'rainbow'

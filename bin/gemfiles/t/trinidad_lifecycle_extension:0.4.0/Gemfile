@@ -1,4 +1,0 @@
-gem 'trinidad'
-gem 'rake'
-gem 'rspec'
-gem 'mocha'

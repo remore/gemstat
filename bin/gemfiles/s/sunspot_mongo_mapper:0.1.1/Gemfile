@@ -1,6 +1,0 @@
-gem 'mongo_mapper'
-gem 'sunspot'
-gem 'sunspot_rails'
-gem 'rails'
-gem 'rspec'
-gem 'rake'

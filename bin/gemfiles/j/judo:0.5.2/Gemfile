@@ -1,3 +1,0 @@
-gem 'aws'
-gem 'json'
-gem 'activesupport'

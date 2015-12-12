@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'rest-client'
+gem 'json'
+gem 'rake'

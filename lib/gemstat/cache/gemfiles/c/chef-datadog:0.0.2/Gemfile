@@ -1,0 +1,6 @@
+gem 'dogapi'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

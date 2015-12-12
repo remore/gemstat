@@ -1,5 +1,0 @@
-gem 'mailhopper'
-gem 'delayed_job'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'delayed_job_active_record'

@@ -1,8 +1,0 @@
-gem 'capistrano'
-gem 'railsless-deploy'
-gem 'rake'
-gem 'mail'
-gem 'capistrano-campfire'
-gem 'zookeeper'
-gem 'zk'
-gem 'json'

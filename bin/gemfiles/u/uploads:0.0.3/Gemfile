@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'mechanize_clip'
-gem 'sqlite3'

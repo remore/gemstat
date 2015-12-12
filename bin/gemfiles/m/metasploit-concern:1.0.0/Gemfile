@@ -1,4 +1,0 @@
-gem 'metasploit-yard'
-gem 'activerecord'
-gem 'activesupport'
-gem 'railties'

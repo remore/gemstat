@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'signed_xml'
-gem 'openlogic-resourceful'
-gem 'uuidtools'
-gem 'rspec'
-gem 'fakeweb'

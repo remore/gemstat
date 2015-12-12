@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'hashie'
-gem 'addressable'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'psych'
-gem 'growl'
-gem 'guard-rspec'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'rack'
+gem 'validation_reflection'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'

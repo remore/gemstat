@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'owasp_zap'
-gem 'clamp'
-gem 'colorize'
-gem 'terminal-table'

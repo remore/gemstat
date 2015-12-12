@@ -1,0 +1,5 @@
+gem 'redcarpet'
+gem 'coderay'
+gem 'mustache_render'
+gem 'thin'
+gem 'nokogiri'

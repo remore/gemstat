@@ -1,4 +1,0 @@
-gem 'activemodel'
-gem 'bundler'
-gem 'rake'
-gem 'test-unit'

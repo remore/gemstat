@@ -1,0 +1,2 @@
+gem 'activerecord-nulldb-adapter'
+gem 'activerecord'

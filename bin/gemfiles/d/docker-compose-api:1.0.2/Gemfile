@@ -1,4 +1,0 @@
-gem 'docker-api'
-gem 'bundler'
-gem 'rspec'
-gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'muck-contacts'
+gem 'muck-portablecontacts'
+gem 'hpricot'
+gem 'muck-engine'
+gem 'muck-auth'
+gem 'jeweler'
+gem 'ruby-debug'
+gem 'ruby-debug19'

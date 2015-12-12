@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'bootstrap-sass'
+gem 'sass-rails'
+gem 'simple-navigation'
+gem 'railties'
+gem 'haml-rails'

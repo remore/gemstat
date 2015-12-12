@@ -1,5 +1,0 @@
-gem 'thin'
-gem 'sinatra'
-gem 'rspec'
-gem 'rspec-its'
-gem 'rack-test'

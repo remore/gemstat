@@ -1,5 +1,0 @@
-gem 'jeweler'
-gem 'rails'
-gem 'rspec-rails'
-gem 'generator_spec'
-gem 'sqlite3'

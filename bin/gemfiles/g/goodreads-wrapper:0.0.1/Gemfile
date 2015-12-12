@@ -1,6 +1,0 @@
-gem 'hpricot'
-gem 'rake'
-gem 'rspec'
-gem 'gokdok'
-gem 'rdoc'
-gem 'fakeweb'

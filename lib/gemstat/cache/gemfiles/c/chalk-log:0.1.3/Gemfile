@@ -1,0 +1,7 @@
+gem 'chalk-config'
+gem 'logging'
+gem 'lspace'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'chalk-rake'

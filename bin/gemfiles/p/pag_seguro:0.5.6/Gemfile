@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'haml'
-gem 'nokogiri'
-gem 'rest-client'

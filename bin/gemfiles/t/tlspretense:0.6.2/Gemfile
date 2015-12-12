@@ -1,7 +1,0 @@
-gem 'eventmachine'
-gem 'ruby-termios'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'simplecov'

@@ -1,6 +1,0 @@
-gem 'dm-core'
-gem 'dm-observer'
-gem 'dm-aggregates'
-gem 'dm-serializer'
-gem 'delayed_job'
-gem 'rspec'

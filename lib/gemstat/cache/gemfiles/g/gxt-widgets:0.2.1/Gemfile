@@ -1,0 +1,7 @@
+gem 'page-object'
+gem 'rspec'
+gem 'cucumber'
+gem 'yard'
+gem 'rack'
+gem 'watir-webdriver'
+gem 'selenium-webdriver'

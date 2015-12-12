@@ -1,8 +1,0 @@
-gem 'addressable'
-gem 'treetop'
-gem 'nokogiri'
-gem 'builder'
-gem 'rspec'
-gem 'activesupport'
-gem 'activerecord'
-gem 'yard'

@@ -1,7 +1,0 @@
-gem 'erubis'
-gem 'madvertise-ext'
-gem 'mixlib-cli'
-gem 'multi_json'
-gem 'ruby-protocol-buffers'
-gem 'zk'
-gem 'zmachine'

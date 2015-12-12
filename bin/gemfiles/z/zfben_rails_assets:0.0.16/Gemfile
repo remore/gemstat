@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'sass'
-gem 'compass'
-gem 'coffee-script'
-gem 'uglifier'
-gem 'haml'

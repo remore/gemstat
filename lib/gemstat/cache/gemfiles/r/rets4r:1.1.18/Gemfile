@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'mocha'
+gem 'shoulda'
+gem 'activesupport'
+gem 'rake'

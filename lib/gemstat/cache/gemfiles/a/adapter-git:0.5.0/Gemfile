@@ -1,0 +1,4 @@
+gem 'adapter'
+gem 'grit'
+gem 'rspec'
+gem 'rake'

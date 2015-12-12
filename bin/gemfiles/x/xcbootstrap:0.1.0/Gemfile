@@ -1,5 +1,0 @@
-gem 'ptools'
-gem 'thor'
-gem 'rake'
-gem 'rspec'
-gem 'fakefs'

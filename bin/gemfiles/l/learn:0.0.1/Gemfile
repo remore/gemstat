@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'thor'
-gem 'json'
-gem 'term-ansicolor'

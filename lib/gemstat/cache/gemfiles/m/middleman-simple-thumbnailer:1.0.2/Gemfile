@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'mini_magick'
+gem 'rake'
+gem 'aruba'
+gem 'cucumber'

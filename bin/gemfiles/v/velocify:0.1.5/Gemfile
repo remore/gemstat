@@ -1,7 +1,0 @@
-gem 'savon'
-gem 'activesupport'
-gem 'dotenv'
-gem 'bundler'
-gem 'yard'
-gem 'rake'
-gem 'minitest'

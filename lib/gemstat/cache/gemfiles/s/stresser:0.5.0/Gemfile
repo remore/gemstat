@@ -1,0 +1,4 @@
+gem 'ruport'
+gem 'gruff'
+gem 'OptionParser'
+gem 'trollop'

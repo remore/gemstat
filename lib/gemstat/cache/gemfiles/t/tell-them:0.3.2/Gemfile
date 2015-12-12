@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'bundler'
+gem 'rake'
+gem 'sass'
+gem 'coffee'

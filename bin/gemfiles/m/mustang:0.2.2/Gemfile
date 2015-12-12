@@ -1,4 +1,0 @@
-gem 'ore-tasks'
-gem 'rspec'
-gem 'mocha'
-gem 'rake-compiler'

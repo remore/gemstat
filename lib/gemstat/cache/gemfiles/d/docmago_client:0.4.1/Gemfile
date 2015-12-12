@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'httmultiparty'
+gem 'rubyzip'
+gem 'nokogiri'
+gem 'addressable'
+gem 'rails'
+gem 'sqlite3'
+gem 'capybara'

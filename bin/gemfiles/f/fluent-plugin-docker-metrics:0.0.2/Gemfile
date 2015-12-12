@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'fakefs'
-gem 'fluentd'
-gem 'docker-api'

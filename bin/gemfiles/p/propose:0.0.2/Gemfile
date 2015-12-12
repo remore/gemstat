@@ -1,8 +1,0 @@
-gem 'colorize'
-gem 'terminal-table'
-gem 'treetop'
-gem 'overcommit'
-gem 'rspec'
-gem 'rspec-its'
-gem 'rubocop'
-gem 'travis'

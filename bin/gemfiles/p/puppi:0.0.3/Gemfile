@@ -1,5 +1,0 @@
-gem 'autotest'
-gem 'rspec'
-gem 'fakefs'
-gem 'simplecov'
-gem 'mail'

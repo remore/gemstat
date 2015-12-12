@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'will_paginate'
-gem 'dynamic_form'
-gem 'sqlite3'

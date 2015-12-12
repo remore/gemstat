@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'rest-client'
-gem 'attr_required'
-gem 'bundler'
-gem 'rake'
-gem 'simplecov'
-gem 'rspec'
-gem 'fakeweb'

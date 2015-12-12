@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'multi_json'
-gem 'rdio'
-gem 'launchy'
-gem 'ruby-debug19'
-gem 'yard'
-gem 'thin'
-gem 'rspec'

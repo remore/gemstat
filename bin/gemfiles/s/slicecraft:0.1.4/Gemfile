@@ -1,5 +1,0 @@
-gem 'commander'
-gem 'middleman'
-gem 'rubyzip'
-gem 'net-scp'
-gem 'rspec'

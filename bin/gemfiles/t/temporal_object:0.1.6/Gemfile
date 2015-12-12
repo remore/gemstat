@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'rubygems-test'
-gem 'time_span'

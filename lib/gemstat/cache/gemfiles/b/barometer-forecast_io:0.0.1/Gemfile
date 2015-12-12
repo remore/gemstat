@@ -1,0 +1,8 @@
+gem 'barometer'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'
+gem 'vcr'
+gem 'barometer-support'

@@ -1,0 +1,5 @@
+gem 'i18n'
+gem 'citizenship'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

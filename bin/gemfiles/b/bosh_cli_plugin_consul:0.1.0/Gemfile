@@ -1,6 +1,0 @@
-gem 'bosh_cli'
-gem 'rest-client'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-fire'

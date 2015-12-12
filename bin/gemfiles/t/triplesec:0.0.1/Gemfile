@@ -1,5 +1,0 @@
-gem 'scrypt'
-gem 'sha3'
-gem 'twofish'
-gem 'salsa20'
-gem 'rspec'

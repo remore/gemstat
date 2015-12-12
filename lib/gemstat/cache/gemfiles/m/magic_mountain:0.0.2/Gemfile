@@ -1,0 +1,2 @@
+gem 'keepass-password-generator'
+gem 'rspec'

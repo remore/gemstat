@@ -1,7 +1,0 @@
-gem 'webmock'
-gem 'geminabox'
-gem 'rdoc'
-gem 'rake'
-gem 'multi_json'
-gem 'httparty'
-gem 'hashie'

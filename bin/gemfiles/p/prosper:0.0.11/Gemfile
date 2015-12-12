@@ -1,4 +1,0 @@
-gem 'rspec-rails'
-gem 'guard-rspec'
-gem 'httparty'
-gem 'lolsoap'

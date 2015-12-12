@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'actionpack'
-gem 'rake'
-gem 'thor'
-gem 'actionview'

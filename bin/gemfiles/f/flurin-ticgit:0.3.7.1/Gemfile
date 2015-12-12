@@ -1,3 +1,0 @@
-gem 'schacon-git'
-gem 'sinatra'
-gem 'wycats-thor'

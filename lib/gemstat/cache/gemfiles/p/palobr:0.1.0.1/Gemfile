@@ -1,0 +1,6 @@
+gem 'fog'
+gem 'slop'
+gem 'ruby-progressbar'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

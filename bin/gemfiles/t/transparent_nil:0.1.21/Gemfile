@@ -1,4 +1,0 @@
-gem 'rdoc'
-gem 'drumherum'
-gem 'yard_klippstein_template'
-gem 'hoe'

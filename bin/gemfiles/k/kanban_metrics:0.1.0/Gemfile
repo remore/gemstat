@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'turnip'
-gem 'rake'
-gem 'simplecov'

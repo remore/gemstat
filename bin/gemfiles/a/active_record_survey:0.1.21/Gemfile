@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'awesome_nested_set'
-gem 'sqlite3'
-gem 'factory_girl'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'httpclient'
-gem 'json'
-gem 'minitest'

@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'mina'
-gem 'highline'
-gem 'bundler'

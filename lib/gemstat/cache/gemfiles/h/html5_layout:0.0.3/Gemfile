@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'cucumber'
+gem 'rspec'
+gem 'bundler'

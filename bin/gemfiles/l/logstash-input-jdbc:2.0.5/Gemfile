@@ -1,8 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-codec-plain'
-gem 'sequel'
-gem 'rufus-scheduler'
-gem 'logstash-devutils'
-gem 'timecop'
-gem 'jdbc-derby'
-gem 'docker-api'

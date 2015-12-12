@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'multi_json'
-gem 'rspec'
-gem 'rake'

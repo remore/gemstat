@@ -1,4 +1,0 @@
-gem 'i18n'
-gem 'nokogiri'
-gem 'redcarpet'
-gem 'yard'

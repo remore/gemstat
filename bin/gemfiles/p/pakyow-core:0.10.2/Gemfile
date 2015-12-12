@@ -1,4 +1,0 @@
-gem 'pakyow-support'
-gem 'rack'
-gem 'minitest'
-gem 'rspec'

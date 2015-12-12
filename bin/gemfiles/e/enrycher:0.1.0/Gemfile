@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'typhoeus'
-gem 'rspec'

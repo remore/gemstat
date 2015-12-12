@@ -1,5 +1,0 @@
-gem 'treetop'
-gem 'rspec'
-gem 'rake'
-gem 'guard'
-gem 'guard-rspec'

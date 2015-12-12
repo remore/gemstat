@@ -1,5 +1,0 @@
-gem 'dna'
-gem 'progressbar'
-gem 'thor'
-gem 'jeweler'
-gem 'rdoc'

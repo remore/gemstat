@@ -1,3 +1,0 @@
-gem 'shoulda'
-gem 'rack-test'
-gem 'rack'

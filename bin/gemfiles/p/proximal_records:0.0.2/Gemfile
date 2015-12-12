@@ -1,6 +1,0 @@
-gem 'appraisal'
-gem 'rspec'
-gem 'rake'
-gem 'sqlite3'
-gem 'mysql2'
-gem 'pg'

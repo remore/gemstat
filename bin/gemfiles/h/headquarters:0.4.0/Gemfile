@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'climate_control'
-gem 'rake'
-gem 'rubocop'
-gem 'rspec'
-gem 'webmock'
-gem 'codeclimate-test-reporter'

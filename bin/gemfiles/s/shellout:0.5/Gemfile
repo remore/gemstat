@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'rake'
-gem 'cucumber'
-gem 'aruba'
-gem 'rb-fsevent'
-gem 'growl_notify'

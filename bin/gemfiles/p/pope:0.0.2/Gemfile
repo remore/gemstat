@@ -1,3 +1,0 @@
-gem 'active_support'
-gem 'typhoeus'
-gem 'nokogiri'

@@ -1,4 +1,0 @@
-gem 'savon'
-gem 'minitest'
-gem 'rake'
-gem 'turn'

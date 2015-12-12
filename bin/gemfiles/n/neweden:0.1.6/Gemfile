@@ -1,7 +1,0 @@
-gem 'typhoeus'
-gem 'nokogiri'
-gem 'json'
-gem 'shoulda-context'
-gem 'bundler'
-gem 'jeweler'
-gem 'awesome_print'

@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'httpotato'
+gem 'dnclabs-auth-hmac'
+gem 'statsd-client'

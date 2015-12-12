@@ -1,8 +1,0 @@
-gem 'memcached'
-gem 'pry'
-gem 'pry-byebug'
-gem 'rspec'
-gem 'rr'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

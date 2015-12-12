@@ -1,7 +1,0 @@
-gem 'json'
-gem 'activesupport'
-gem 'highline'
-gem 'capistrano'
-gem 'sprinkle'
-gem 'rspec'
-gem 'yard'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'little-plugger'
-gem 'loquacious'
-gem 'rspec'

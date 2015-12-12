@@ -1,6 +1,0 @@
-gem 'mechanize'
-gem 'highline'
-gem 'colorize'
-gem 'nokogiri'
-gem 'terminal-table'
-gem 'debugger'

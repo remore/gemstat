@@ -1,7 +1,0 @@
-gem 'actionpack'
-gem 'activesupport'
-gem 'bundler'
-gem 'test-unit'
-gem 'shoulda'
-gem 'rack'
-gem 'rack-test'

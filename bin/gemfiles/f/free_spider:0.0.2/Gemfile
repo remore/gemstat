@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'mysql2'
-gem 'bundler'
-gem 'rake'

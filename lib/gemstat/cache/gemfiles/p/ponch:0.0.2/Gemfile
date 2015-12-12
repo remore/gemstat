@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'nokogiri'
+gem 'rails'
+gem 'sqlite3'

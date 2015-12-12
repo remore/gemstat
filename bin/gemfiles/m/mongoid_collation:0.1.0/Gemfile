@@ -1,6 +1,0 @@
-gem 'mongoid'
-gem 'twitter_cldr'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'database_cleaner'

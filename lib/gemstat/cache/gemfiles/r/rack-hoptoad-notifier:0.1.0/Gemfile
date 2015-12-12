@@ -1,0 +1,7 @@
+gem 'hoptoad_notifier'
+gem 'rack'
+gem 'capybara'
+gem 'rack-test'
+gem 'rr'
+gem 'rspec'
+gem 'ruby-debug19'

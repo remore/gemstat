@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'mocha'
+gem 'fakeweb'
+gem 'jeremymcanally-matchy'

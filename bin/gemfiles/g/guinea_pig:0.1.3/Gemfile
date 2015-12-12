@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'mocha'
-gem 'sqlite3'
-gem 'assert_difference'

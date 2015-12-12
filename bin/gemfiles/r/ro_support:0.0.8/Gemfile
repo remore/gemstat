@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rspec'
-gem 'grit'
-gem 'guard'
-gem 'guard-rspec'

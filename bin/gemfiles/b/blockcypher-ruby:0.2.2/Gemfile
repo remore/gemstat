@@ -1,5 +1,0 @@
-gem 'bitcoin-ruby'
-gem 'ffi'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

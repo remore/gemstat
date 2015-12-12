@@ -1,8 +1,0 @@
-gem 'rfuse'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'redcarpet'
-gem 'sqlite3'
-gem 'sys-filesystem'
-gem 'ffi-xattr'

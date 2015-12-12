@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'railties'
+gem 'pundit'
+gem 'activesupport'
+gem 'railties'
+gem 'minitest'

@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'nokogiri'
-gem 'faraday'
-gem 'htmlentities'
-gem 'bundler'
-gem 'rake'

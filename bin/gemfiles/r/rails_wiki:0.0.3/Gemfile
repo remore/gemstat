@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'paper_trail'
-gem 'sqlite3'

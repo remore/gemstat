@@ -1,0 +1,7 @@
+gem 'sexp_processor'
+gem 'ruby_parser'
+gem 'ruby2ruby'
+gem 'diff-lcs'
+gem 'highline'
+gem 'facets'
+gem 'thoughtbot-shoulda'

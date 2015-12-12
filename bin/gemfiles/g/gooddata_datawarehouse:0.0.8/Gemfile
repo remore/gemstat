@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'coveralls'
-gem 'sequel'
-gem 'gooddata-dss-jdbc'
-gem 'pmap'

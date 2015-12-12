@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'railties'
+gem 'sentient_user'
+gem 'bundler'
+gem 'rspec'
+gem 'sqlite3'

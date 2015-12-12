@@ -1,0 +1,6 @@
+gem 'zeevex_proxy'
+gem 'countdownlatch'
+gem 'atomic'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

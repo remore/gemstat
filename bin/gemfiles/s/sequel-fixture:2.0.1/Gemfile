@@ -1,4 +1,0 @@
-gem 'sequel'
-gem 'symbolmatrix'
-gem 'fast'
-gem 'rspec'

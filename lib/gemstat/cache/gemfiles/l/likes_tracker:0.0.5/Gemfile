@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'redis'
+gem 'factory_girl_rails'
+gem 'rspec-rails'

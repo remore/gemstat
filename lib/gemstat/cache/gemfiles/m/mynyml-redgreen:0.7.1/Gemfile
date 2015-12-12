@@ -1,0 +1,6 @@
+gem 'term-ansicolor'
+gem 'nanotest'
+gem 'minitest'
+gem 'shoulda'
+gem 'contest'
+gem 'jeremymcanally-context'

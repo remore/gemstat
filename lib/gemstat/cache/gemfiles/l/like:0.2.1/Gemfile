@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'capybara'
+gem 'combustion'
+gem 'devise'
+gem 'grape'
+gem 'mime-types'
+gem 'rspec-rails'
+gem 'sqlite3'

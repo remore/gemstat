@@ -1,6 +1,0 @@
-gem 'fuubar'
-gem 'rake'
-gem 'redcarpet'
-gem 'rdoc'
-gem 'rspec'
-gem 'yard'

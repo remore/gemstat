@@ -1,3 +1,0 @@
-gem 'activerecord-import'
-gem 'activeadmin'
-gem 'rubyzip'

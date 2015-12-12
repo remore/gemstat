@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'safe_yaml'
+gem 'capybara'
+gem 'sqlite3'
+gem 'mocha'
+gem 'selenium-webdriver'
+gem 'will_paginate'

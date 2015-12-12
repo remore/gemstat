@@ -1,8 +1,0 @@
-gem 'rdoc'
-gem 'hoe-bundler'
-gem 'rspec'
-gem 'ZenTest'
-gem 'cucumber'
-gem 'aruba'
-gem 'lazing'
-gem 'hoe'

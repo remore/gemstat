@@ -1,4 +1,0 @@
-gem 'spree_core'
-gem 'xml-simple'
-gem 'rspec'
-gem 'sqlite3'

@@ -1,5 +1,0 @@
-gem 'savon'
-gem 'nokogiri'
-gem 'multi_json'
-gem 'activesupport'
-gem 'http_logger'

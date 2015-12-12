@@ -1,7 +1,0 @@
-gem 'sorcery'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'simplecov'
-gem 'coveralls'
-gem 'rspec'

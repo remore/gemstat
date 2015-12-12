@@ -1,6 +1,0 @@
-gem 'multi_json'
-gem 'httpclient'
-gem 'thor'
-gem 'rubyzip'
-gem 'progress_bar'
-gem 'rake'

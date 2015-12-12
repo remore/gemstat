@@ -1,0 +1,5 @@
+gem 'big_bucks_no_whammies'
+gem 'grit'
+gem 'payday'
+gem 'jeweler'
+gem 'rspec'

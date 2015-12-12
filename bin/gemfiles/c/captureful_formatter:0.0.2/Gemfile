@@ -1,5 +1,0 @@
-gem 'capybara'
-gem 'rspec'
-gem 'turnip'
-gem 'bundler'
-gem 'rake'

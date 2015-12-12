@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'term-ansicolor'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'delayed_job'
-gem 'bundler'
-gem 'rake'

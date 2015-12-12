@@ -1,8 +1,0 @@
-gem 'rails-api'
-gem 'type_cartographer'
-gem 'arcadex'
-gem 'active_model_serializers'
-gem 'annotate'
-gem 'rails'
-gem 'sqlite3'
-gem 'json_voorhees'

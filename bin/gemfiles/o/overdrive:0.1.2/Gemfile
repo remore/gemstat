@@ -1,4 +1,0 @@
-gem 'daemons'
-gem 'transmission-client'
-gem 'SyslogLogger'
-gem 'pauldix-feedzirra'

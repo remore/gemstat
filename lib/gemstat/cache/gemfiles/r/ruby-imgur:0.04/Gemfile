@@ -1,0 +1,5 @@
+gem 'multi_json'
+gem 'cistern'
+gem 'addressable'
+gem 'launchy'
+gem 'rest-client'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'faker'
+gem 'pry'
+gem 'pry-remote'
+gem 'pry-byebug'
+gem 'rspec'

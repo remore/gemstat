@@ -1,0 +1,6 @@
+gem 'authlogic'
+gem 'rails'
+gem 'minitest'
+gem 'override'
+gem 'sqlite3'
+gem 'koala'

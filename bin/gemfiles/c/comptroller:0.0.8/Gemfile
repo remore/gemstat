@@ -1,5 +1,0 @@
-gem 'her'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'mimic'

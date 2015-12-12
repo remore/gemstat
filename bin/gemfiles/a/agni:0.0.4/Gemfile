@@ -1,6 +1,0 @@
-gem 'amqp'
-gem 'algorithms'
-gem 'log_mixin'
-gem 'rspec'
-gem 'pry'
-gem 'mocha'

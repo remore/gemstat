@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'multi_json'
-gem 'attrio'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'

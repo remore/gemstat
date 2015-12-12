@@ -1,0 +1,5 @@
+gem 'fast_gettext'
+gem 'get_pomo'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

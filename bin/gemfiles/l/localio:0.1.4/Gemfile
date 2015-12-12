@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'rake'
-gem 'micro-optparse'
-gem 'google_drive'
-gem 'spreadsheet'
-gem 'simple_xlsx_reader'
-gem 'nokogiri'

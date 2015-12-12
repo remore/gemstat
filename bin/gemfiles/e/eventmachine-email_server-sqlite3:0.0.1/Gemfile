@@ -1,6 +1,0 @@
-gem 'eventmachine-email_server'
-gem 'sqlite3'
-gem 'eventmachine'
-gem 'minitest'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,6 @@
+gem 'client_side_validations'
+gem 'mongo_mapper'
+gem 'bson_ext'
+gem 'rails'
+gem 'mocha'
+gem 'm'

@@ -1,0 +1,4 @@
+gem 'beefcake'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'

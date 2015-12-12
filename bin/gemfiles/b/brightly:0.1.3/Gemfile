@@ -1,5 +1,0 @@
-gem 'sinatra'
-gem 'ultraviolet'
-gem 'rdiscount'
-gem 'rspec'
-gem 'rack-test'

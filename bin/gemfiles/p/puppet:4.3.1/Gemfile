@@ -1,3 +1,0 @@
-gem 'facter'
-gem 'hiera'
-gem 'json_pure'

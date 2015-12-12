@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'minitest-rails'
-gem 'pry-rails'

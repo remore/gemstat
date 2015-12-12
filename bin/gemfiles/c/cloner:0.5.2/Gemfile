@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'activesupport'
-gem 'net-ssh'
-gem 'bundler'
-gem 'rake'

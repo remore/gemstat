@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'rake'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

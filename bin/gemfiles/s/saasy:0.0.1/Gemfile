@@ -1,7 +1,0 @@
-gem 'aruba'
-gem 'braintree'
-gem 'clearance'
-gem 'formtastic'
-gem 'railties'
-gem 'sham_rack'
-gem 'sinatra'

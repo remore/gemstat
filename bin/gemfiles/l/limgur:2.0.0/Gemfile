@@ -1,4 +1,0 @@
-gem 'curb'
-gem 'crack'
-gem 'contest'
-gem 'test-unit'

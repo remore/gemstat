@@ -1,5 +1,0 @@
-gem 'Platform'
-gem 'open4'
-gem 'win32-open3-19'
-gem 'rake_tasks'
-gem 'test_unit_helper'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'activesupport'
-gem 'require_all'
-gem 'rest_client'
-gem 'json'
-gem 'highline'
-gem 'table_print'

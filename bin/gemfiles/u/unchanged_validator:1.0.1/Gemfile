@@ -1,6 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'appraisal'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

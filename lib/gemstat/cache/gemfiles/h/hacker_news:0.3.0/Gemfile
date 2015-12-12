@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'iconv'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'fakeweb'

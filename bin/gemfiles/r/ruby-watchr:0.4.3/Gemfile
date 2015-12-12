@@ -1,4 +1,0 @@
-gem 'flog'
-gem 'flay'
-gem 'reek'
-gem 'ruby2ruby'

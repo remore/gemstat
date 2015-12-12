@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'mysql2'
-gem 'rspec-rails'

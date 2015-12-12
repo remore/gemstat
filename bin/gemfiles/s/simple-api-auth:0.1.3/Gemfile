@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'
-gem 'coveralls'
-gem 'activerecord'
-gem 'database_cleaner'
-gem 'sqlite3'

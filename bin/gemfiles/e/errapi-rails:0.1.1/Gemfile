@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'errapi'
-gem 'sqlite3'
-gem 'rake-version'

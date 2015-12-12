@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'codeclimate-test-reporter'
-gem 'overcommit'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'temping'

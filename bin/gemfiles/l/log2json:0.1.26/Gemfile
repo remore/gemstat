@@ -1,3 +1,0 @@
-gem 'jls-grok'
-gem 'redis'
-gem 'persistent_http'

@@ -1,5 +1,0 @@
-gem 'i18n'
-gem 'activesupport'
-gem 'rspec-core'
-gem 'rspec-expectations'
-gem 'rspec-mocks'

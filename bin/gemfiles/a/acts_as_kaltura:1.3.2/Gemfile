@@ -1,4 +1,0 @@
-gem 'jeweler'
-gem 'velir_kaltura-ruby'
-gem 'activesupport'
-gem 'activerecord'

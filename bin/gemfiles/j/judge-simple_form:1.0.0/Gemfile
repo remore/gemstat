@@ -1,7 +1,0 @@
-gem 'judge'
-gem 'simple_form'
-gem 'rake'
-gem 'sqlite3'
-gem 'rspec'
-gem 'nokogiri'
-gem 'appraisal'

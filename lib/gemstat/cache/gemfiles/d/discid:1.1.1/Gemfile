@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'kramdown'
+gem 'test-unit'
+gem 'codeclimate-test-reporter'

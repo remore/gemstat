@@ -1,4 +1,0 @@
-gem 'fluentd'
-gem 'irc_parser'
-gem 'test-unit'
-gem 'rake'

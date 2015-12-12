@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'pry'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rb-inotify'
-gem 'bundler'
-gem 'jeweler'

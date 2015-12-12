@@ -1,5 +1,0 @@
-gem 'thin'
-gem 'sinatra'
-gem 'haml'
-gem 'json'
-gem 'fastimage_resize'

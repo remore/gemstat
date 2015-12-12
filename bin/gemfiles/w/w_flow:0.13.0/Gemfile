@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'pry'
-gem 'simplecov'
-gem 'codeclimate-test-reporter'

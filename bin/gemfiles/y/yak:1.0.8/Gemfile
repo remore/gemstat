@@ -1,4 +1,0 @@
-gem 'highline'
-gem 'session'
-gem 'rdoc'
-gem 'hoe'

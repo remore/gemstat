@@ -1,6 +1,0 @@
-gem 'logutils'
-gem 'textutils'
-gem 'drjekyll'
-gem 'quik'
-gem 'rdoc'
-gem 'hoe'

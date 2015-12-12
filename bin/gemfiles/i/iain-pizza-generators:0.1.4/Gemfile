@@ -1,8 +1,0 @@
-gem 'authlogic'
-gem 'mislav-will_paginate'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'rr'
-gem 'haml'
-gem 'thoughtbot-shoulda'
-gem 'thoughtbot-factory_girl'

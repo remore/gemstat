@@ -1,0 +1,7 @@
+gem 'vagrant-rbvmomi'
+gem 'log4r'
+gem 'pry'
+gem 'rake'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'

@@ -1,5 +1,0 @@
-gem 'environments'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry-meta'

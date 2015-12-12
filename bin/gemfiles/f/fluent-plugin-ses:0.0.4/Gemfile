@@ -1,3 +1,0 @@
-gem 'fluentd'
-gem 'fluent-mixin-plaintextformatter'
-gem 'aws-sdk'

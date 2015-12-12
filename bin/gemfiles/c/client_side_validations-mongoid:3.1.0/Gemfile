@@ -1,6 +1,0 @@
-gem 'client_side_validations'
-gem 'mongoid'
-gem 'bson_ext'
-gem 'rails'
-gem 'mocha'
-gem 'm'

@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'data_mapper'
-gem 'dm-oracle-adapter'
-gem 'ruby-oci8'
-gem 'marc'

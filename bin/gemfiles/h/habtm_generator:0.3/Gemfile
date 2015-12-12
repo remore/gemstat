@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'appraisal'
-gem 'rspec'
-gem 'pry'
-gem 'rails-dummy'

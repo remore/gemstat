@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'tinymce-rails'
-gem 'bundler'
-gem 'rails'

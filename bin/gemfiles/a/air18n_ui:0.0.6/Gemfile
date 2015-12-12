@@ -1,4 +1,0 @@
-gem 'i18n'
-gem 'air18n'
-gem 'rails'
-gem 'rspec'

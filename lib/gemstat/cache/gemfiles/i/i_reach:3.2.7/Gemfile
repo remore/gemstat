@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
+gem 'jquery-ui-themes'
+gem 'mail_manager'
+gem 'newsletter'
+gem 'cancancan'
+gem 'mysql2'

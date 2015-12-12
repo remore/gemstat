@@ -1,4 +1,0 @@
-gem 'eventful'
-gem 'packr'
-gem 'oyster'
-gem 'test-unit'

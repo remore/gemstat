@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'
-gem 'test_notifier'
-gem 'ruby-debug19'
-gem 'redcarpet'

@@ -1,3 +1,0 @@
-gem 'resque'
-gem 'shoulda'
-gem 'mocha'

@@ -1,8 +1,0 @@
-gem 'facets'
-gem 'github-linguist'
-gem 'inifile'
-gem 'logger-colors'
-gem 'mercenary'
-gem 'string-scrub'
-gem 'bundler'
-gem 'rake'

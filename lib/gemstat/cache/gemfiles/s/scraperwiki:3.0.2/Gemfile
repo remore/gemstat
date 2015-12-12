@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'sqlite_magic'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'

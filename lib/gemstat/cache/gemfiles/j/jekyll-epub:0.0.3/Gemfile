@@ -1,0 +1,4 @@
+gem 'mime-types'
+gem 'uuid'
+gem 'jekyll'
+gem 'shoulda'

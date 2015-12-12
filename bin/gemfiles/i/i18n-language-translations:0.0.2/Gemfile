@@ -1,7 +1,0 @@
-gem 'i18n'
-gem 'railties'
-gem 'rails'
-gem 'rspec-rails'
-gem 'i18n-spec'
-gem 'spork'
-gem 'hpricot'

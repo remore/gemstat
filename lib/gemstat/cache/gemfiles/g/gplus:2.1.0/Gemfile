@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'oauth2'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'
+gem 'yard'

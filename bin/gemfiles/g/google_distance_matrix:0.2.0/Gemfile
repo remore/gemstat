@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'google_business_api_url_signer'
-gem 'bundler'
-gem 'rspec'
-gem 'shoulda-matchers'
-gem 'webmock'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'cinch'
-gem 'octokit'
-gem 'bundler'
-gem 'rake'

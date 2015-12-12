@@ -1,6 +1,0 @@
-gem 'gettext'
-gem 'yard'
-gem 'rake'
-gem 'bundler'
-gem 'packnga'
-gem 'kramdown'

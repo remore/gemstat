@@ -1,7 +1,0 @@
-gem 'execjs'
-gem 'rake'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'rdoc'

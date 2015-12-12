@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'activesupport'
+gem 'actionview'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'zipruby'
+gem 'spreadsheet'
+gem 'nokogiri'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

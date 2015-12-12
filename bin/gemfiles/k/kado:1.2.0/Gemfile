@@ -1,4 +1,0 @@
-gem 'httmultiparty'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

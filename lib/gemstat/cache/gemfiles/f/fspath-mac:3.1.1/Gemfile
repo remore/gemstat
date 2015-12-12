@@ -1,0 +1,2 @@
+gem 'fspath'
+gem 'rspec'

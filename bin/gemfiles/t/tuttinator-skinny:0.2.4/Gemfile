@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'thin'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'

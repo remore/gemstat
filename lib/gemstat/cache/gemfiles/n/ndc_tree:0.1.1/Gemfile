@@ -1,0 +1,5 @@
+gem 'rubytree'
+gem 'ruby-graphviz'
+gem 'jeweler'
+gem 'rake'
+gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'andand'
-gem 'savon'
-gem 'nokogiri'
-gem 'mechanize'

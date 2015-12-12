@@ -1,0 +1,7 @@
+gem 'mongify'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'guard-rspec'
+gem 'yard'
+gem 'redcarpet'

@@ -1,7 +1,0 @@
-gem 'activeresource'
-gem 'main'
-gem 'aescrypt'
-gem 'rake'
-gem 'rspec'
-gem 'mocha'
-gem 'fakeweb'

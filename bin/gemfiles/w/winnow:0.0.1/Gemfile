@@ -1,4 +1,0 @@
-gem 'rouge'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

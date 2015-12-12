@@ -1,0 +1,6 @@
+gem 'trollop'
+gem 'paint'
+gem 'awesome_print'
+gem 'highline'
+gem 'rake'
+gem 'rdoc'

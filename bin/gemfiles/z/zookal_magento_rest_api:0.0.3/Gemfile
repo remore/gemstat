@@ -1,7 +1,0 @@
-gem 'oauth'
-gem 'multi_json'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'pry'

@@ -1,7 +1,0 @@
-gem 'pdf-reader'
-gem 'nokogiri'
-gem 'prawn'
-gem 'sqlite3'
-gem 'commander'
-gem 'json'
-gem 'libsvm-ruby-swig'

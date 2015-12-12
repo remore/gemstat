@@ -1,3 +1,0 @@
-gem 'gli'
-gem 'aws-sdk'
-gem 'rdoc'

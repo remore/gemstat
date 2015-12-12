@@ -1,3 +1,0 @@
-gem 'kitchen-vagrant'
-gem 'bundler'
-gem 'rake'

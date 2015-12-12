@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'opal-rspec'
-gem 'opal-jquery'
-gem 'react-source'
-gem 'opal-react'
-gem 'opal'
-gem 'aasm'

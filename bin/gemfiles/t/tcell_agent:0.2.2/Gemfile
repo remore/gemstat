@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'pbkdf2'
-gem 'rspec-core'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

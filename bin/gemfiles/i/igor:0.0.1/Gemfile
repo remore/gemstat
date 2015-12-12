@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'angry_hash'
-gem 'amqp'
-gem 'yajl-ruby'
-gem 'lachie-tapp'

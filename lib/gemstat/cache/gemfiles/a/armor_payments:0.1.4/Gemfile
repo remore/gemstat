@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'vcr'
+gem 'timecop'
+gem 'excon'

@@ -1,4 +1,0 @@
-gem 'yajl-ruby'
-gem 'redis'
-gem 'uri-redis'
-gem 'drydock'

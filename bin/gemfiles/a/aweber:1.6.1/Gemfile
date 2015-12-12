@@ -1,6 +1,0 @@
-gem 'oauth'
-gem 'json'
-gem 'fakeweb'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

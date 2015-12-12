@@ -1,3 +1,0 @@
-gem 'aws'
-gem 'thor'
-gem 'activesupport'

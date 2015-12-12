@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'fakeweb'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'
-gem 'httparty'
-gem 'json'

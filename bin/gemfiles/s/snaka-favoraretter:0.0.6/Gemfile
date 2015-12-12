@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'ruby_gntp'
-gem 'win32-service'

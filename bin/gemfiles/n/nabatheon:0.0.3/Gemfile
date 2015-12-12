@@ -1,3 +1,0 @@
-gem 'stanford-core-nlp'
-gem 'bundler'
-gem 'rake'

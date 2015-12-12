@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'test-unit'
-gem 'simplecov'
-gem 'simplecov-rcov'
-gem 'git'
-gem 'json'
-gem 'bundler'
-gem 'coveralls'

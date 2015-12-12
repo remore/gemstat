@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'jasmine'
-gem 'phantomjs'
-gem 'coffee-script'

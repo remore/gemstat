@@ -1,4 +1,0 @@
-gem 'swissmatch-location'
-gem 'swissmatch-street'
-gem 'swissmatch-directories'
-gem 'swissmatch-rails'

@@ -1,0 +1,2 @@
+gem 'thoughtbot-shoulda'
+gem 'otherinbox-crypt19'

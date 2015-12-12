@@ -1,3 +1,0 @@
-gem 'minitest'
-gem 'fakeweb'
-gem 'nokogiri'

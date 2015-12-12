@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'contracted'
-gem 'rspec'
-gem 'rack-test'
-gem 'factory_girl'
-gem 'i18n'
-gem 'sinatra'

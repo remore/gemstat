@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'sinatra'
+gem 'emk-sinatra-url-for'
+gem 'rack-test'

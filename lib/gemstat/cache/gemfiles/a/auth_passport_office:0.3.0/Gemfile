@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'authentifyd'
+gem 'doorkeeper'
+gem 'auth_origin_control'
+gem 'mysql2'

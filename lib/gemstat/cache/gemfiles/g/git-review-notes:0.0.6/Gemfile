@@ -1,0 +1,6 @@
+gem 'git'
+gem 'thor'
+gem 'cucumber'
+gem 'aruba'
+gem 'guard-cucumber'
+gem 'active_support'

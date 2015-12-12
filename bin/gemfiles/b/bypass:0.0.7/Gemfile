@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'addressable'
-gem 'minitest'
-gem 'shoulda-context'
-gem 'mocha'

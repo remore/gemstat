@@ -1,5 +1,0 @@
-gem 'yajl-ruby'
-gem 'connection_pool'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'sdoc'
+gem 'rspec'
+gem 'pry'

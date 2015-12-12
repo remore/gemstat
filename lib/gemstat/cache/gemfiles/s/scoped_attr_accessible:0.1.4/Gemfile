@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'rspec'
+gem 'rr'
+gem 'ruby-debug'
+gem 'rcov'
+gem 'ZenTest'

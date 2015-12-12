@@ -1,0 +1,7 @@
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'guard'
+gem 'guard-test'

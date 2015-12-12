@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'request_store'
+gem 'sqlite3'
+gem 'minitest'

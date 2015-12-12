@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'
-gem 'watir'
-gem 'capybara'
-gem 'poltergeist'
-gem 'hpricot'

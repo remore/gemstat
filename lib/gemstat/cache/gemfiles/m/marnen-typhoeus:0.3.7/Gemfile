@@ -1,0 +1,6 @@
+gem 'mime-types'
+gem 'rspec'
+gem 'diff-lcs'
+gem 'sinatra'
+gem 'json'
+gem 'rake'

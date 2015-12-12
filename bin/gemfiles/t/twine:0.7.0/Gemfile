@@ -1,3 +1,0 @@
-gem 'rubyzip'
-gem 'safe_yaml'
-gem 'rake'

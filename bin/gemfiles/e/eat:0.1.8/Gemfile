@@ -1,3 +1,0 @@
-gem 'httpclient'
-gem 'test-unit'
-gem 'rake'

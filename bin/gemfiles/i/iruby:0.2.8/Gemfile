@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'bond'
-gem 'multi_json'
-gem 'mimemagic'

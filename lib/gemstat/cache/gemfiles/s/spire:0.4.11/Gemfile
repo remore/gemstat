@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'haml'
+gem 'erubis'
+gem 'bundler'
+gem 'jeweler'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'execjs'
-gem 'multi_json'
-gem 'bundler'

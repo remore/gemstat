@@ -1,5 +1,0 @@
-gem 'guard'
-gem 'guard-compat'
-gem 'em-websocket'
-gem 'multi_json'
-gem 'bundler'

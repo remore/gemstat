@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'faraday'
+gem 'json'
+gem 'simple_oauth'

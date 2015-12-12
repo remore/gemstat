@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rest-open-uri'
-gem 'mechanize'
-gem 'logger'
-gem 'rainbow'
-gem 'codesake-commons'

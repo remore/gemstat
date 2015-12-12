@@ -1,8 +1,0 @@
-gem 'bacon'
-gem 'json'
-gem 'redis'
-gem 'redis-namespace'
-gem 'sinatra'
-gem 'sinatra-respond_to'
-gem 'vegas'
-gem 'deep_merge'

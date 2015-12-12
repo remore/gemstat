@@ -1,4 +1,0 @@
-gem 'curb'
-gem 'moneta'
-gem 'shoulda'
-gem 'gemcutter'

@@ -1,0 +1,8 @@
+gem 'bcrypt'
+gem 'em-hiredis'
+gem 'eventmachine'
+gem 'http_parser.rb'
+gem 'net-ldap'
+gem 'nokogiri'
+gem 'minitest'
+gem 'rake'

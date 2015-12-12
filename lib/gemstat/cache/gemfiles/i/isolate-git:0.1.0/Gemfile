@@ -1,0 +1,4 @@
+gem 'isolate'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

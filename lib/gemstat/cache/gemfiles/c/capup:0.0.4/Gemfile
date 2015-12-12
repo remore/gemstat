@@ -1,0 +1,6 @@
+gem 'capistrano-bundler'
+gem 'capistrano-rails'
+gem 'cap-uwsgi'
+gem 'bundler'
+gem 'rake'
+gem 'gem-release'

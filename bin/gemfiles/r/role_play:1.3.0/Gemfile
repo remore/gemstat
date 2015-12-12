@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'railties'
-gem 'rake'
-gem 'sqlite3'

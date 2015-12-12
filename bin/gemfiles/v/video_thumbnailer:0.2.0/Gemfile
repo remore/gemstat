@@ -1,4 +1,0 @@
-gem 'carrierwave-video'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

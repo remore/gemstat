@@ -1,5 +1,0 @@
-gem 'social_stream-base'
-gem 'xmpp4r'
-gem 'net-ssh'
-gem 'net-sftp'
-gem 'debugger'

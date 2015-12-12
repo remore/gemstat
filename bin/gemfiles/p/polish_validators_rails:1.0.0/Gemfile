@@ -1,5 +1,0 @@
-gem 'polish_validators'
-gem 'activerecord'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

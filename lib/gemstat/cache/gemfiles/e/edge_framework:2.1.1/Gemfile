@@ -1,0 +1,6 @@
+gem 'sass'
+gem 'compass'
+gem 'premailer'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

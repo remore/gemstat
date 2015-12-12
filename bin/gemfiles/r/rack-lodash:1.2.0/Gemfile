@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'rack-jquery-helpers'
-gem 'bundler'
-gem 'rake'

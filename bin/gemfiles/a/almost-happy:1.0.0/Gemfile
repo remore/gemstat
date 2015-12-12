@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'RedCloth'
-gem 'rdiscount'
-gem 'nokogiri'
-gem 'open4'
-gem 'shoulda'
-gem 'sqlite3'
-gem 'reversible_data'

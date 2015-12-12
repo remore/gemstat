@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'fpm'
+gem 'facter'
+gem 'puppet'
+gem 'addressable'
+gem 'systemu'

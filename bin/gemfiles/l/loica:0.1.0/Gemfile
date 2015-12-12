@@ -1,4 +1,0 @@
-gem 'loica-build'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'guard'
-gem 'resque'
-gem 'resque-scheduler'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'guard-bundler'

@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'appraisal'
-gem 'mocha'
-gem 'yard'

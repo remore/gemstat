@@ -1,5 +1,0 @@
-gem 'oedipus'
-gem 'dm-core'
-gem 'rake'
-gem 'rspec'
-gem 'dm-pager'

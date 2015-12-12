@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'omniauth-oauth2'
-gem 'multi_json'

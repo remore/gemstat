@@ -1,7 +1,0 @@
-gem 'state_machine'
-gem 'rake'
-gem 'rspec'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'mongoid'
-gem 'bson_ext'

@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

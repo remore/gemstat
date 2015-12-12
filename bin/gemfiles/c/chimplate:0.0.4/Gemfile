@@ -1,5 +1,0 @@
-gem 'mailchimp'
-gem 'json'
-gem 'thor'
-gem 'listen'
-gem 'diffy'

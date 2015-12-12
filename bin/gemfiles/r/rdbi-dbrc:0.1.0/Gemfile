@@ -1,3 +1,0 @@
-gem 'rdbi'
-gem 'rdbi-driver-mock'
-gem 'test-unit'

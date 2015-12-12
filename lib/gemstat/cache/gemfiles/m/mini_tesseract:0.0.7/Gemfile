@@ -1,0 +1,4 @@
+gem 'jeweler'
+gem 'thoughtbot-shoulda'
+gem 'rmagick'
+gem 'mini_magick'

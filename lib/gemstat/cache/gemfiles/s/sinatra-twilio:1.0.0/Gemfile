@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'twiliolib'
+gem 'rack-test'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

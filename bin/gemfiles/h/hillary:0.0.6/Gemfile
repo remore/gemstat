@@ -1,8 +1,0 @@
-gem 'grit'
-gem 'pry-rails'
-gem 'bundler-audit'
-gem 'fog'
-gem 'bundler'
-gem 'rake'
-gem 'timecop'
-gem 'rspec'

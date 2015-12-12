@@ -1,3 +1,0 @@
-gem 'guard'
-gem 'haml2erb'
-gem 'rspec'

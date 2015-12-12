@@ -1,6 +1,0 @@
-gem 'actionmailer'
-gem 'activesupport'
-gem 'mail_view'
-gem 'nokogiri'
-gem 'premailer'
-gem 'rack'

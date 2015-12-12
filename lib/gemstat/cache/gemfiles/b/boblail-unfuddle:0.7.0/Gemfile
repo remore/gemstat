@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'builder'
+gem 'faraday'
+gem 'rails'
+gem 'turn'
+gem 'simplecov'

@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-core'
-gem 'rspec-mocks'
-gem 'rspec-expectations'
-gem 'shoulda-matchers'

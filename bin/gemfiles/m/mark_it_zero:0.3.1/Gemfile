@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'sass-rails'
-gem 'redcarpet'
-gem 'pygments.rb'
-gem 'sqlite3'
-gem 'bundler'

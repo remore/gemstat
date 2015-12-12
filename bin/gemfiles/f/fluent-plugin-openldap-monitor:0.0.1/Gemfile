@@ -1,3 +1,0 @@
-gem 'fluentd'
-gem 'net-ldap'
-gem 'rake'

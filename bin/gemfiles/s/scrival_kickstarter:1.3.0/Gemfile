@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'scrival_sdk'
-gem 'scrival_editors'
-gem 'pry'
-gem 'rspec-rails'
-gem 'generator_spec'

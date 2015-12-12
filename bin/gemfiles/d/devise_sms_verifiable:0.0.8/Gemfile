@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'rest_client'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'sqlite3'

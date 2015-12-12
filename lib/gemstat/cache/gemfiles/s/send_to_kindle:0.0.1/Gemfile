@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'daemons'
+gem 'listen'
+gem 'mail'
+gem 'terminal-notifier'
+gem 'thor'
+gem 'bundler'

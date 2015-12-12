@@ -1,0 +1,8 @@
+gem 'parser'
+gem 'commander'
+gem 'graph'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'simplecov'

@@ -1,4 +1,0 @@
-gem 'rubyzip'
-gem 'spreadsheet'
-gem 'google-spreadsheet-ruby'
-gem 'roo'

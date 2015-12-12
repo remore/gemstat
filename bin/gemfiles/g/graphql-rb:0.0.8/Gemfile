@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'codeclimate-test-reporter'
-gem 'awesome_print'
-gem 'parslet'
-gem 'celluloid'

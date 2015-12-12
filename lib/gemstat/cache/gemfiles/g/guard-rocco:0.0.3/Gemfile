@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'rocco'
+gem 'rspec'
+gem 'mocha'

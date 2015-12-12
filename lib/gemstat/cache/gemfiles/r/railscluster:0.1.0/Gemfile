@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'bundler'
+gem 'thin'
+gem 'airbrake'
+gem 'net-ssh'

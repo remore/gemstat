@@ -1,3 +1,0 @@
-gem 'eventmachine'
-gem 'eventmachine-tail'
-gem 'rrd-ffi'

@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'rake'
-gem 'activesupport'
-gem 'minitest'
-gem 'simplecov'
-gem 'rack-test'

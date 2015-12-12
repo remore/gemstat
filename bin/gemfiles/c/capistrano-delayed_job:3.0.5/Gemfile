@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'activesupport'
-gem 'capistrano-monit_runit'
-gem 'bundler'
-gem 'jeweler'

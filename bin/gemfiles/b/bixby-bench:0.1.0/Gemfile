@@ -1,4 +1,0 @@
-gem 'allocation_stats'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'

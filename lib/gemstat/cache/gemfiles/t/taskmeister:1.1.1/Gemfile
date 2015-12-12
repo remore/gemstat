@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'aruba'
+gem 'aruba-doubles'
+gem 'pry-byebug'

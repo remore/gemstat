@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'minitest-rails'
+gem 'pry'
+gem 'pry-doc'
+gem 'pry-byebug'

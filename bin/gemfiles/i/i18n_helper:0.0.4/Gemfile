@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'i18n-language-translations'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'gemnasium'
-gem 'coveralls'

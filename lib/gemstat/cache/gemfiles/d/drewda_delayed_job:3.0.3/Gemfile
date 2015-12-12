@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'actionmailer'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'

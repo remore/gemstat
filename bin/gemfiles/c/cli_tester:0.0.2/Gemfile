@@ -1,3 +1,0 @@
-gem 'cheetah'
-gem 'rspec'
-gem 'given_filesystem'

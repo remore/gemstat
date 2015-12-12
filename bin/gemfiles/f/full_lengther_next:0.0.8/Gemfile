@@ -1,6 +1,0 @@
-gem 'xml-simple'
-gem 'scbi_blast'
-gem 'scbi_mapreduce'
-gem 'scbi_fasta'
-gem 'scbi_plot'
-gem 'hoe'

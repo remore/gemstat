@@ -1,5 +1,0 @@
-gem 'shell_shock'
-gem 'rainbow'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'

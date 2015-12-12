@@ -1,7 +1,0 @@
-gem 'docopt'
-gem 'rugged'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'codeclimate-test-reporter'

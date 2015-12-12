@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'em-files'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rspec'

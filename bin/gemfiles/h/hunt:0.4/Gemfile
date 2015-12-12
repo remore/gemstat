@@ -1,3 +1,0 @@
-gem 'fast-stemmer'
-gem 'mongo_mapper'
-gem 'rspec'

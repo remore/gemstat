@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'jsonapi-serializers'
-gem 'jwt'
-gem 'rack-cors'
-gem 'arel-helpers'
-gem 'stripe'
-gem 'groupdate'

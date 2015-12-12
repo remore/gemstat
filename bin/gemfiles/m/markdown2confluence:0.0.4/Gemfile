@@ -1,5 +1,0 @@
-gem 'kramdown'
-gem 'nokogiri'
-gem 'rake'
-gem 'activesupport'
-gem 'turn'

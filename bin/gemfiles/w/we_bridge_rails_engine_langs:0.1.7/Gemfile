@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'activerecord-mlang'
-gem 'we_bridge-html_builder'
-gem 'actionview-helpers-auto_tag_helper'
-gem 'we_bridge-auto_view_helper'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'factory_girl_rails'

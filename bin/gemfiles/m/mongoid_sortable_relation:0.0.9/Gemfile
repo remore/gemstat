@@ -1,2 +1,0 @@
-gem 'mongoid'
-gem 'mongoid_criteria_filter'

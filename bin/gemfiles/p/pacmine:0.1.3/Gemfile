@@ -1,4 +1,0 @@
-gem 'commander'
-gem 'hpricot'
-gem 'rdoc'
-gem 'hoe'

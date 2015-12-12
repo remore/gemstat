@@ -1,3 +1,0 @@
-gem 'net_dav'
-gem 'highline'
-gem 'thoughtbot-shoulda'

@@ -1,4 +1,0 @@
-gem 'cssmin'
-gem 'mercenary'
-gem 'rake'
-gem 'minitest'

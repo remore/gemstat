@@ -1,7 +1,0 @@
-gem 'capifony'
-gem 'capistrano-ext'
-gem 'json'
-gem 'broach'
-gem 'newrelic_rpm'
-gem 'railsless-deploy'
-gem 'net-ssh'

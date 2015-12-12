@@ -1,3 +1,0 @@
-gem 'simplecov'
-gem 'whatlanguage'
-gem 'bloomfilter-rb'

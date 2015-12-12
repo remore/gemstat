@@ -1,7 +1,0 @@
-gem 'net-scp'
-gem 'highline'
-gem 'clipboard'
-gem 'scrypty'
-gem 'bundler'
-gem 'mocha'
-gem 'test-unit'

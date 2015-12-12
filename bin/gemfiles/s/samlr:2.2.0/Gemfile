@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'uuidtools'
-gem 'rake'
-gem 'bundler'
-gem 'minitest'
-gem 'bump'

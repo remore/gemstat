@@ -1,3 +1,0 @@
-gem 'couchrest_model'
-gem 'delayed_job'
-gem 'rspec'

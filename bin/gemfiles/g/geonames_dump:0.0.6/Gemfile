@@ -1,3 +1,0 @@
-gem 'ruby-progressbar'
-gem 'activerecord-reset-pk-sequence'
-gem 'rubyzip'

@@ -1,6 +1,0 @@
-gem 'fluentd'
-gem 'aws-sdk'
-gem 'pg'
-gem 'rake'
-gem 'simplecov'
-gem 'flexmock'

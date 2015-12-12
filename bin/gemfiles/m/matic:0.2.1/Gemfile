@@ -1,8 +1,0 @@
-gem 'mongomatic'
-gem 'activemodel'
-gem 'activesupport'
-gem 'bson_ext'
-gem 'faker'
-gem 'rake'
-gem 'rspec'
-gem 'ruby-debug19'

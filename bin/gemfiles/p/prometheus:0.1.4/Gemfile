@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'settingslogic'
-gem 'activesupport'
-gem 'rake'

@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'active_model_serializers'
-gem 'ims-lti'
-gem 'rest-client'
-gem 'curb'
-gem 'mimemagic'
-gem 'jwt'
-gem 'sqlite3'

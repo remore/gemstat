@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'bundler'
-gem 'rake'
-gem 'jeweler'
-gem 'rspec'
-gem 'ruby-prof'

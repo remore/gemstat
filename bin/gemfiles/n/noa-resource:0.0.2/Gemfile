@@ -1,5 +1,0 @@
-gem 'noa-core'
-gem 'inherited_resources'
-gem 'responders'
-gem 'noa-developer'
-gem 'rails'

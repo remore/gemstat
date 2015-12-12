@@ -1,0 +1,5 @@
+gem 'regexp_parser'
+gem 'rspec'
+gem 'rake'
+gem 'awesome_print'
+gem 'pry'

@@ -1,4 +1,0 @@
-gem 'ldaptic'
-gem 'ruby-ldap'
-gem 'cocaine'
-gem 'rspec'

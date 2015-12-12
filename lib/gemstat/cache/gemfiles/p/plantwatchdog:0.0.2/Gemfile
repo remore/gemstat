@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'activerecord'
+gem 'patir'
+gem 'hoe'

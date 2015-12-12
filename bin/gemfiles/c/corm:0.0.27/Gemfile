@@ -1,4 +1,0 @@
-gem 'cassandra-driver'
-gem 'multi_json'
-gem 'rake'
-gem 'pry'

@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'staccato'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'capistrano-spec'

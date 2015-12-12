@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'github-linguist'
-gem 'github-markdown'
-gem 'listen'
-gem 'sinatra'
-gem 'sinatra-websocket'

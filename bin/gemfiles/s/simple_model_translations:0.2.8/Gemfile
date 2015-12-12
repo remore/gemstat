@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'database_cleaner'
-gem 'sqlite3-ruby'
-gem 'shoulda'
-gem 'rspec'

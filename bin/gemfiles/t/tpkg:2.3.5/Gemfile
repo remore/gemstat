@@ -1,6 +1,0 @@
-gem 'facter'
-gem 'net-ssh'
-gem 'kwalify'
-gem 'rake'
-gem 'mocha'
-gem 'open4'

@@ -1,0 +1,4 @@
+gem 'adammck-rubysms'
+gem 'mongrel'
+gem 'rack'
+gem 'uuid'

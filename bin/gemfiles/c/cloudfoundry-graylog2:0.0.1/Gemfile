@@ -1,3 +1,0 @@
-gem 'gelf'
-gem 'daemons'
-gem 'rake'

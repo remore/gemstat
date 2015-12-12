@@ -1,5 +1,0 @@
-gem 'tzu'
-gem 'statsd-instrument'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

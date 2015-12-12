@@ -1,7 +1,0 @@
-gem 'capistrano'
-gem 'cap-ext-parallelize'
-gem 'terminal-table'
-gem 'debugger'
-gem 'minitest'
-gem 'bundler'
-gem 'jeweler'

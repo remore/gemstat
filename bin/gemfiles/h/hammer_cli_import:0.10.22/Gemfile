@@ -1,3 +1,0 @@
-gem 'hammer_cli'
-gem 'hammer_cli_foreman'
-gem 'hammer_cli_katello'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'pry'
-gem 'pry-byebug'
-gem 'rspec'

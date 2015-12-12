@@ -1,6 +1,0 @@
-gem 'ruby-gmail'
-gem 'dropbox-sdk'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

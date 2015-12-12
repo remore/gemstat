@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'uuidtools'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rake'
+gem 'json'
+gem 'jeweler'
+gem 'nokogiri'
+gem 'rspec'

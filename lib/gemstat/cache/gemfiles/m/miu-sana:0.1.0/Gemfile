@@ -1,0 +1,6 @@
+gem 'miu'
+gem 'miu-rpc'
+gem 'rroonga'
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'

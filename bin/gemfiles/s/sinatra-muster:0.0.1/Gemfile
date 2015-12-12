@@ -1,7 +1,0 @@
-gem 'muster'
-gem 'sinatra'
-gem 'rspec'
-gem 'redcarpet'
-gem 'simplecov'
-gem 'yard'
-gem 'rack-test'

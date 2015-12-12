@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'json'
-gem 'rvk'
-gem 'twitter_oauth'

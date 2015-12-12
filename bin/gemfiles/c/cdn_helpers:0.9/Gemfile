@@ -1,4 +1,0 @@
-gem 'actionpack'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'

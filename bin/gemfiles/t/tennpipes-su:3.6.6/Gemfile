@@ -1,4 +1,0 @@
-gem 'tennpipes-base'
-gem 'tennpipes-helper'
-gem 'therubyracer'
-gem 'less'

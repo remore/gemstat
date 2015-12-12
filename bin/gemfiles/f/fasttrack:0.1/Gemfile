@@ -1,4 +1,0 @@
-gem 'exempi'
-gem 'rake'
-gem 'mocha'
-gem 'nokogiri'

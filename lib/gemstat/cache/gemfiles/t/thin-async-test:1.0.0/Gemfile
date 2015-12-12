@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'eventmachine'
+gem 'rack'
+gem 'thin_async'
+gem 'thin'
+gem 'rack-test'
+gem 'hoe'

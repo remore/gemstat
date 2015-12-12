@@ -1,0 +1,4 @@
+gem 'launchy'
+gem 'rspec'
+gem 'aruba'
+gem 'rake'

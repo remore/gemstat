@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'mocha'
-gem 'rake'
-gem 'rack-test'
-gem 'sinatra'
-gem 'json'
-gem 'vitreous_share'

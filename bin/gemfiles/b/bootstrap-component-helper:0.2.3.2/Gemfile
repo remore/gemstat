@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'sass-rails'
-gem 'bootstrap-sass'
-gem 'bootstrap-modal-rails'
-gem 'jquery-rails'
-gem 'sqlite3'

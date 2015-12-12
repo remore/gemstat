@@ -1,8 +1,0 @@
-gem 'aws-sdk'
-gem 'cmdparse'
-gem 'debugger'
-gem 'simplecov'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'
-gem 'bump'

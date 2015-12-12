@@ -1,8 +1,0 @@
-gem 'actionpack'
-gem 'redcarpet'
-gem 'RedCloth'
-gem 'rack'
-gem 'actionview'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

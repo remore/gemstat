@@ -1,6 +1,0 @@
-gem 'pry-doc'
-gem 'pry'
-gem 'awesome_print'
-gem 'hirb'
-gem 'redis'
-gem 'msgpack'

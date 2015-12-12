@@ -1,0 +1,4 @@
+gem 'enumattr'
+gem 'i18n'
+gem 'activesupport'
+gem 'rspec'

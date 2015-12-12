@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'curb'
+gem 'hashie'
+gem 'rake'

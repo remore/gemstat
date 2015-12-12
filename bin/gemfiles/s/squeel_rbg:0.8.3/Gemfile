@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'rspec'
-gem 'machinist'
-gem 'faker'
-gem 'sqlite3'

@@ -1,5 +1,0 @@
-gem 'netstring'
-gem 'coveralls'
-gem 'json'
-gem 'rake'
-gem 'rspec'

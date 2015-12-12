@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'aruba'
-gem 'rspec-rails'
-gem 'cucumber'
-gem 'simplecov'
-gem 'bundler'
-gem 'rake'

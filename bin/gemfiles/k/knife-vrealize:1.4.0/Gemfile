@@ -1,6 +1,0 @@
-gem 'chef'
-gem 'knife-cloud'
-gem 'vmware-vra'
-gem 'vcoworkflows'
-gem 'bundler'
-gem 'rake'

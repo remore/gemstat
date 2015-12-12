@@ -1,6 +1,0 @@
-gem 'octokit'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'multi_json'

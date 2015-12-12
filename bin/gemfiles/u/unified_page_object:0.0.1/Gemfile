@@ -1,4 +1,0 @@
-gem 'page-object'
-gem 'rspec'
-gem 'selenium-webdriver'
-gem 'appium_thor'

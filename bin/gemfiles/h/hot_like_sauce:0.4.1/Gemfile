@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'sqlite3'

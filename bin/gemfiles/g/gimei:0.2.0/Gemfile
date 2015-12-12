@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'moji'
-gem 'minitest'
-gem 'coveralls'

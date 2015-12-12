@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'active_record'
-gem 'sqlite3'

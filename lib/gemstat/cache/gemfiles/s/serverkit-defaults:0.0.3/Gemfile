@@ -1,0 +1,4 @@
+gem 'plist'
+gem 'serverkit'
+gem 'bundler'
+gem 'rake'

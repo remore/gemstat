@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'cucumber'
-gem 'minitest'
-gem 'activerecord'
-gem 'green_shoes'
-gem 'sqlite3'

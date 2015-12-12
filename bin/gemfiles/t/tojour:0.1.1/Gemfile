@@ -1,4 +1,0 @@
-gem 'dnssd'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'

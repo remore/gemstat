@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'ronn'
-gem 'method_source'

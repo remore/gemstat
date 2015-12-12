@@ -1,7 +1,0 @@
-gem 'activeresource'
-gem 'ghi'
-gem 'trollop'
-gem 'capistrano'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

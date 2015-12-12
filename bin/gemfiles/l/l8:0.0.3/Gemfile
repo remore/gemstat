@@ -1,5 +1,0 @@
-gem 'rubyserial'
-gem 'digest-crc'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

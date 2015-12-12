@@ -1,4 +1,0 @@
-gem 'multi_json'
-gem 'ruby-progressbar'
-gem 'dye'
-gem 'prompter'

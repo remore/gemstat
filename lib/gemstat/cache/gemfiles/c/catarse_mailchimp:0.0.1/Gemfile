@@ -1,0 +1,4 @@
+gem 'mailchimp'
+gem 'rspec'
+gem 'mocha'
+gem 'supermodel'

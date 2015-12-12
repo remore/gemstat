@@ -1,0 +1,4 @@
+gem 'httpclient'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'

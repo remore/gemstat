@@ -1,4 +1,0 @@
-gem 'canvas_cc'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

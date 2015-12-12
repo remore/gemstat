@@ -1,6 +1,0 @@
-gem 'actionpack'
-gem 'awesome_print'
-gem 'coveralls'
-gem 'minitest'
-gem 'rails'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'rubyzip'
-gem 'htmlentities'
-gem 'rake'
-gem 'rspec'

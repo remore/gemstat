@@ -1,5 +1,0 @@
-gem 'args_parser'
-gem 'kballard-osx-plist'
-gem 'cobravsmongoose'
-gem 'json'
-gem 'rugged'

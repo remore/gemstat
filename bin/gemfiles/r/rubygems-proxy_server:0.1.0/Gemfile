@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'sinatra'
-gem 'rspec'
-gem 'rack-test'
-gem 'sham_rack'
-gem 'yard'
-gem 'grancher'

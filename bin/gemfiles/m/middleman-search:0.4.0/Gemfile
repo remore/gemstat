@@ -1,5 +1,0 @@
-gem 'middleman-core'
-gem 'therubyracer'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'

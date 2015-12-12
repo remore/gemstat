@@ -1,0 +1,5 @@
+gem 'rufus-scheduler'
+gem 'sinatra'
+gem 'faraday'
+gem 'bundler'
+gem 'rake'

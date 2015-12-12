@@ -1,7 +1,0 @@
-gem 'descriptive_statistics'
-gem 'formatador'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-colorize'
-gem 'pry'

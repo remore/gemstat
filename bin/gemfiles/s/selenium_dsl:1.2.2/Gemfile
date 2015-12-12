@@ -1,4 +1,0 @@
-gem 'selenium-webdriver'
-gem 'selenium'
-gem 'gemspec_deps_gen'
-gem 'gemcutter'

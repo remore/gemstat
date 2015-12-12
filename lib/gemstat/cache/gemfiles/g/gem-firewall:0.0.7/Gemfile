@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'minitest'
+gem 'rake'
+gem 'debugger2'
+gem 'ipaddress'

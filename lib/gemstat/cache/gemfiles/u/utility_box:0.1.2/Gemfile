@@ -1,0 +1,5 @@
+gem 'bootstrap-sass'
+gem 'font-awesome-sass-rails'
+gem 'pusher_rails'
+gem 'railties'
+gem 'rails'

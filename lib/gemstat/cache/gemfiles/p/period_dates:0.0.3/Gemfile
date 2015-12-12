@@ -1,0 +1,5 @@
+gem 'semester'
+gem 'rails'
+gem 'sqlite3'
+gem 'bundler'
+gem 'rake'

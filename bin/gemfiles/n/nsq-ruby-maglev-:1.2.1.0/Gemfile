@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'nsq-cluster'
-gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'json'
+gem 'colorize'
+gem 'xcpretty'
+gem 'dnssd'

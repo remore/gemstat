@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'choice'
+gem 'flickr.rb'
+gem 'faraday'
+gem 'mini_magick'

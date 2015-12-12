@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'mongoid'
+gem 'mongoid_slug'
+gem 'carrierwave'
+gem 'devise'

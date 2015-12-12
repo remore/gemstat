@@ -1,6 +1,0 @@
-gem 'json'
-gem 'nokogiri'
-gem 'curb'
-gem 'rspec'
-gem 'fakeweb'
-gem 'rake'

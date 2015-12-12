@@ -1,3 +1,0 @@
-gem 'orm_adapter-sequel'
-gem 'devise'
-gem 'sequel'

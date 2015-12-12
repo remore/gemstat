@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'activeresource'
-gem 'will_paginate'
-gem 'rspec'
-gem 'activerecord'
-gem 'nokogiri'

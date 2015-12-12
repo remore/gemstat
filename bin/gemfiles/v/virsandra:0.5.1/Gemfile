@@ -1,6 +1,0 @@
-gem 'virtus'
-gem 'cql-rb'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'simple_uuid'

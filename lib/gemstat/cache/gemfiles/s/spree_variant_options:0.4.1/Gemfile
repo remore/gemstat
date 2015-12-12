@@ -1,0 +1,8 @@
+gem 'spree_core'
+gem 'spree_sample'
+gem 'dummier'
+gem 'shoulda'
+gem 'factory_girl'
+gem 'cucumber-rails'
+gem 'database_cleaner'
+gem 'sqlite3'

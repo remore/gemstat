@@ -1,3 +1,0 @@
-gem 'cocaine'
-gem 'rspec'
-gem 'guard-rspec'

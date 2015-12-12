@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rack-test'
+gem 'machinist'
+gem 'forgery'
+gem 'nokogiri'

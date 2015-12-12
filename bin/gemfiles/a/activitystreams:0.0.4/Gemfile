@@ -1,8 +1,0 @@
-gem 'json'
-gem 'activesupport'
-gem 'i18n'
-gem 'attr_required'
-gem 'addressable'
-gem 'rake'
-gem 'cover_me'
-gem 'rspec'

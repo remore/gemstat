@@ -1,0 +1,5 @@
+gem 'oauth2'
+gem 'rails'
+gem 'bundler'
+gem 'rake'
+gem 'yard'

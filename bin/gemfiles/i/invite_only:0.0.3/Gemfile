@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'database_cleaner'
-gem 'sqlite3'
-gem 'debugger'
-gem 'rails'

@@ -1,3 +1,0 @@
-gem 'fog'
-gem 'rbovirt'
-gem 'rake'

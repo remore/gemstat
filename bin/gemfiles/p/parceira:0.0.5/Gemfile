@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'i18n'
-gem 'activesupport'

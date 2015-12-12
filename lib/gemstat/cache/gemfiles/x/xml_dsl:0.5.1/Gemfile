@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'
+gem 'pry'
+gem 'pry-remote'
+gem 'pry-nav'

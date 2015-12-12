@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'aruba'
-gem 'grit'
-gem 'pivotal-tracker'

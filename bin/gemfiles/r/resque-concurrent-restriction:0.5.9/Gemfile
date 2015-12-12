@@ -1,5 +1,0 @@
-gem 'resque'
-gem 'json'
-gem 'rspec'
-gem 'awesome_print'
-gem 'json'

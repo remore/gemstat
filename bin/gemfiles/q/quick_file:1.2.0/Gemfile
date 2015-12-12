@@ -1,3 +1,0 @@
-gem 'rmagick'
-gem 'fog'
-gem 'mime-types'

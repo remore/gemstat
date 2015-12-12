@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'rake'
-gem 'yard'
-gem 'scope'
-gem 'rack-test'
-gem 'coffee-script'
-gem 'dedent'

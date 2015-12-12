@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'ruby-pinyin'
-gem 'bundler'
-gem 'rake'

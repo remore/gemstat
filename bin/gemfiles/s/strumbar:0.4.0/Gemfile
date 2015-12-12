@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'statsd-ruby'
-gem 'rspec'
-gem 'rake'

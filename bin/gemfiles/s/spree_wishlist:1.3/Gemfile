@@ -1,5 +1,0 @@
-gem 'spree_core'
-gem 'spree_auth'
-gem 'factory_girl'
-gem 'rspec-rails'
-gem 'sqlite3'

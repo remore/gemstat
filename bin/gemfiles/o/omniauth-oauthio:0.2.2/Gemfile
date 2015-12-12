@@ -1,6 +1,0 @@
-gem 'omniauth-oauth2'
-gem 'jwt'
-gem 'mocha'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

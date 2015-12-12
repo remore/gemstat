@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rest-client'
-gem 'activesupport'
-gem 'oauth2'
-gem 'encryptor'

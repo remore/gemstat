@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rspec_explain'
+gem 'cucumber'
+gem 'aruba'
+gem 'nanoc'
+gem 'nanoc-oo'
+gem 'thor'

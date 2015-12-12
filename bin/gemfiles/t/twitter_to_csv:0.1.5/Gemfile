@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'cantino-twitter-stream'
-gem 'elif'
-gem 'em-http-request'
-gem 'unsupervised-language-detection'

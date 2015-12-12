@@ -1,6 +1,0 @@
-gem 'json'
-gem 'rack-contrib'
-gem 'sinatra'
-gem 'redis'
-gem 'redis-namespace'
-gem 'rack-test'

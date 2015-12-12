@@ -1,0 +1,7 @@
+gem 'test-unit'
+gem 'mysql'
+gem 'sqlite3-ruby'
+gem 'rake'
+gem 'activerecord'
+gem 'activesupport'
+gem 'blockenspiel'

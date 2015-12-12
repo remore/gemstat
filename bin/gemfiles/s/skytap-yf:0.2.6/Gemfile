@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'json_pure'
-gem 'rainbow'
-gem 'terminal-table'

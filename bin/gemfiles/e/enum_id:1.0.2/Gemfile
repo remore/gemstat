@@ -1,5 +1,0 @@
-gem 'modalsupport'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

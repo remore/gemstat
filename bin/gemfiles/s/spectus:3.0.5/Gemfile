@@ -1,8 +1,0 @@
-gem 'aw'
-gem 'defi'
-gem 'matchi'
-gem 'bundler'
-gem 'rake'
-gem 'yard'
-gem 'simplecov'
-gem 'rubocop'

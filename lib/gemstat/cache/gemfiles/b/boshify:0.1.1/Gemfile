@@ -1,0 +1,2 @@
+gem 'bosh_lite_helpers'
+gem 'httparty'

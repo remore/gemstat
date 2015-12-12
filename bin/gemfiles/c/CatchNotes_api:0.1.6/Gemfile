@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'json'
-gem 'thoughtbot-shoulda'
-gem 'sinatra'

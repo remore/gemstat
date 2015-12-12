@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'activesupport'
-gem 'addressable'
-gem 'rest-client'

@@ -1,4 +1,0 @@
-gem 'less-rails'
-gem 'less-rails-bootstrap'
-gem 'bundler'
-gem 'rake'

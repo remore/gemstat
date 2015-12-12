@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'multi_json'
-gem 'multi_xml'

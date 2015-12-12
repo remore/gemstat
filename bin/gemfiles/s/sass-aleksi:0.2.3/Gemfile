@@ -1,6 +1,0 @@
-gem 'sass'
-gem 'compass'
-gem 'SassyCast'
-gem 'sassy-math'
-gem 'SassyLists'
-gem 'sassy-maps'

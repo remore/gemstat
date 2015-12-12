@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'rake'
+gem 'sequel'
+gem 'sqlite3'
+gem 'contest'
+gem 'mocha'
+gem 'rack-test'

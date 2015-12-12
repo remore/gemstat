@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'letters'
-gem 'gisele-language'
-gem 'stamina-core'
-gem 'cudd-rb'
-gem 'yargi'

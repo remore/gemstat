@@ -1,6 +1,0 @@
-gem 'savon'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'metric_fu'

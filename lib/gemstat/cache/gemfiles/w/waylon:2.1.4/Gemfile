@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'jenkins_api_client'
+gem 'deterministic'
+gem 'memcached'

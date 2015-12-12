@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'bundler'
-gem 'cucumber'
-gem 'rake'
-gem 'rspec'

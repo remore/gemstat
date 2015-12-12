@@ -1,0 +1,2 @@
+gem 'capistrano-ext'
+gem 'stringex'

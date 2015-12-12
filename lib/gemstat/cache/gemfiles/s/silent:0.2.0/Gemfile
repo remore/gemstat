@@ -1,0 +1,4 @@
+gem 'simplecov'
+gem 'rake'
+gem 'test-unit'
+gem 'coveralls'

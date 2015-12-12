@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'thrift'
+gem 'thin'
+gem 'bunny'
+gem 'uuidtools'

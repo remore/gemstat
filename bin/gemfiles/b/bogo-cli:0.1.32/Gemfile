@@ -1,4 +1,0 @@
-gem 'bogo'
-gem 'bogo-config'
-gem 'bogo-ui'
-gem 'slop'

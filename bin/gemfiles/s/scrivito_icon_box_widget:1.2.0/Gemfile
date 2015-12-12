@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'scrivito_sdk'
-gem 'font-awesome-rails'
-gem 'rake'

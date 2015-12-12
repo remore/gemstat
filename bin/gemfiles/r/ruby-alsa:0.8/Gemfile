@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'autotest'
-gem 'rcov'
-gem 'rake'
-gem 'rake-debian-build'
-gem 'ffi'

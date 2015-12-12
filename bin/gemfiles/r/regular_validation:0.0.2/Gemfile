@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'turn'
-gem 'ffaker'
-gem 'rake'

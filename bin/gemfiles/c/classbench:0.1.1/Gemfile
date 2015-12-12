@@ -1,5 +1,0 @@
-gem 'docopt'
-gem 'ruby-ip'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

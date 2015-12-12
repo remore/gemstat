@@ -1,4 +1,0 @@
-gem 'yajl-ruby'
-gem 'mocha'
-gem 'rake'
-gem 'test-unit'

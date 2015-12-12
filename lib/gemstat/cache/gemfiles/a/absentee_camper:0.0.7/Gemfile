@@ -1,0 +1,6 @@
+gem 'settingslogic'
+gem 'yajl-ruby'
+gem 'httparty'
+gem 'pony'
+gem 'prowl'
+gem 'rspec'

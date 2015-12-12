@@ -1,4 +1,0 @@
-gem 'typhoeus'
-gem 'crack'
-gem 'activesupport'
-gem 'i18n'

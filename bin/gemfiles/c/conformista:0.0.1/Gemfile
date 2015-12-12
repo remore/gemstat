@@ -1,7 +1,0 @@
-gem 'activemodel'
-gem 'kramdown'
-gem 'yard'
-gem 'rspec'
-gem 'rake'
-gem 'activerecord'
-gem 'sqlite3'

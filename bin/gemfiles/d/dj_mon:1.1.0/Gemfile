@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'delayed_job_active_record'
-gem 'delayed_job_mongoid'
-gem 'sqlite3'
-gem 'shoulda'

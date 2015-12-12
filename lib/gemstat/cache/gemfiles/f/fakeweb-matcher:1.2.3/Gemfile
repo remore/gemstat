@@ -1,0 +1,5 @@
+gem 'fakeweb'
+gem 'rspec'
+gem 'jeweler'
+gem 'rake'
+gem 'yard'

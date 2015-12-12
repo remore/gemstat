@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'colorize'
-gem 'sanitize'
-gem 'thor'

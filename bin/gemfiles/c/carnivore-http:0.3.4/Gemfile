@@ -1,8 +1,0 @@
-gem 'carnivore'
-gem 'puma'
-gem 'rack'
-gem 'blockenspiel'
-gem 'htauth'
-gem 'http'
-gem 'minitest'
-gem 'pry'

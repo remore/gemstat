@@ -1,0 +1,7 @@
+gem 'couchrest'
+gem 'yajl-ruby'
+gem 'syslog_logger'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'highline'

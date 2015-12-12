@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'thor'
+gem 'fulcrum'
+gem 'axlsx'
+gem 'roo'
+gem 'bundler'
+gem 'rake'

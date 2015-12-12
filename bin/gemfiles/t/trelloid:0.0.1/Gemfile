@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'simplecov'
-gem 'ruby-trello'
-gem 'activesupport'
-gem 'celluloid'

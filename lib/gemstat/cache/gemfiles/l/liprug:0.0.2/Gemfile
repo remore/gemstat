@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'slim'
+gem 'redis'
+gem 'rdiscount'
+gem 'unicorn'
+gem 'bundler'
+gem 'rake'

@@ -1,5 +1,0 @@
-gem 'gitconfigio'
-gem 'cmdparser'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

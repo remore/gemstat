@@ -1,7 +1,0 @@
-gem 'sqlite3'
-gem 'rails'
-gem 'bitmask_attributes'
-gem 'coffee-script'
-gem 'sass-rails'
-gem 'stringex'
-gem 'localized_country_select'

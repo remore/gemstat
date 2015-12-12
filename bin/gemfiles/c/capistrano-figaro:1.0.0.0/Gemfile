@@ -1,7 +1,0 @@
-gem 'capistrano'
-gem 'figaro'
-gem 'bundler'
-gem 'codeclimate-test-reporter'
-gem 'minitest'
-gem 'rake'
-gem 'rubocop'

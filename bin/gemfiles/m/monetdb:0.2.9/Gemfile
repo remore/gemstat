@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'pry'
-gem 'simplecov'
-gem 'minitest'
-gem 'mocha'

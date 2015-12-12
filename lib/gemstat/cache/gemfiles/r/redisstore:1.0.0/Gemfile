@@ -1,0 +1,7 @@
+gem 'basiccache'
+gem 'redis'
+gem 'rubocop'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'fuubar'

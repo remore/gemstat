@@ -1,4 +1,0 @@
-gem 'foreman'
-gem 'rake'
-gem 'rspec'
-gem 'fakefs'

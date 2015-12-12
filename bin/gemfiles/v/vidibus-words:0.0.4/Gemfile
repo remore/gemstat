@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'vidibus-core_extensions'
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'rr'
-gem 'simplecov'

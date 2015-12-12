@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'worlddb'
-gem 'persondb'
-gem 'gli'
-gem 'rdoc'
-gem 'hoe'

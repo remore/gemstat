@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-nav'
-gem 'webmock'
-gem 'multi_json'
-gem 'activesupport'

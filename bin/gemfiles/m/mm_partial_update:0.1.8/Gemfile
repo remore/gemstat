@@ -1,7 +1,0 @@
-gem 'observables'
-gem 'mm_dirtier'
-gem 'rake'
-gem 'log_buddy'
-gem 'jnunemaker-matchy'
-gem 'shoulda'
-gem 'tzinfo'

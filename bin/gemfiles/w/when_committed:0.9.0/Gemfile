@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'activerecord-nulldb-adapter'
-gem 'rspec'

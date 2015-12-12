@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'devise'
+gem 'devise_invitable'
+gem 'bundler'

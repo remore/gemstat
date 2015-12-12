@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'nokogiri'
-gem 'httpclient'
-gem 'rspec-rails'
-gem 'capybara'

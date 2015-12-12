@@ -1,6 +1,0 @@
-gem 'money'
-gem 'activesupport'
-gem 'railties'
-gem 'rails'
-gem 'rspec-rails'
-gem 'database_cleaner'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'active_link_to'
-gem 'paperclip'
-gem 'mime-types'
-gem 'net-ldap'
-gem 'sqlite3'

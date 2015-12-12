@@ -1,5 +1,0 @@
-gem 'sequel'
-gem 'equalizer'
-gem 'rom'
-gem 'bundler'
-gem 'rake'

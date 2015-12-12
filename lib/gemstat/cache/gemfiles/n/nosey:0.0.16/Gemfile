@@ -1,0 +1,8 @@
+gem 'eventmachine'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'growl'
+gem 'rb-fsevent'
+gem 'em-ventually'
+gem 'ruby-debug19'

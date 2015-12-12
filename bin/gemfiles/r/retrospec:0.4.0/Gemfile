@@ -1,8 +1,0 @@
-gem 'trollop'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'pry'
-gem 'fakefs'

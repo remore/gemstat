@@ -1,0 +1,7 @@
+gem 'padrino-core'
+gem 'padrino-helpers'
+gem 'coffee-script'
+gem 'sass'
+gem 'uglifier'
+gem 'sprockets'
+gem 'sinatra-assetpack'

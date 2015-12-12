@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'json'
+gem 'rspec'
+gem 'fakeweb'
+gem 'awesome_print'
+gem 'rake'

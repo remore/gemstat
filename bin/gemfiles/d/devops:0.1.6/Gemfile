@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'i18n'
-gem 'aws-sdk'
-gem 'net-ssh'
-gem 'json'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'mysql2'
-gem 'rspec'
-gem 'rake'
-gem 'codeclimate-test-reporter'
-gem 'reevoocop'

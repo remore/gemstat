@@ -1,4 +1,0 @@
-gem 'google-api-client'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

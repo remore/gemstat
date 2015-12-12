@@ -1,6 +1,0 @@
-gem 'ffi'
-gem 'simplecov'
-gem 'rake'
-gem 'turn'
-gem 'shoulda-context'
-gem 'coveralls'

@@ -1,3 +1,0 @@
-gem 'highline'
-gem 'pry'
-gem 'binding_of_caller'

@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'builder'
-gem 'json'
-gem 'uuidtools'

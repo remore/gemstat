@@ -1,3 +1,0 @@
-gem 'OptionParser'
-gem 'habitapi'
-gem 'json'

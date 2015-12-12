@@ -1,0 +1,4 @@
+gem 'addressable'
+gem 'fakeweb'
+gem 'rake'
+gem 'rdoc'

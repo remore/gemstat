@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'yard'
-gem 'redcarpet'
-gem 'simplecov'
-gem 'coveralls'
-gem 'treetop'
-gem 'polyglot'

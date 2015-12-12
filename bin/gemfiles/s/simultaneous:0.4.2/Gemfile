@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'rack'
-gem 'async-rack'
-gem 'rr'

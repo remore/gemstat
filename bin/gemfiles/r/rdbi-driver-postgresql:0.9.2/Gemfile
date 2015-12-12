@@ -1,6 +1,0 @@
-gem 'rdbi'
-gem 'pg'
-gem 'hoe-roodi'
-gem 'hoe-reek'
-gem 'minitest'
-gem 'hoe'

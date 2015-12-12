@@ -1,7 +1,0 @@
-gem 'sinatra'
-gem 'sinatra-contrib'
-gem 'rack'
-gem 'sequel'
-gem 'sqlite3'
-gem 'json'
-gem 'thin'

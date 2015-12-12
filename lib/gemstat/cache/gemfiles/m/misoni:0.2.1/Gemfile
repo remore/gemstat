@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'mechanize'
+gem 'pit'
+gem 'bundler'
+gem 'rake'

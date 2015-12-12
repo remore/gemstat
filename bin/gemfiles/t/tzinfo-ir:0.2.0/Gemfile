@@ -1,3 +1,0 @@
-gem 'tzinfo'
-gem 'infraruby-task'
-gem 'rspec'

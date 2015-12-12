@@ -1,8 +1,0 @@
-gem 'rack-openid'
-gem 'devise'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'mocha'
-gem 'sqlite3-ruby'
-gem 'sham_rack'
-gem 'webrat'

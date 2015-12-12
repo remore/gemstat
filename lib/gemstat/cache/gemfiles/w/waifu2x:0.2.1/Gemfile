@@ -1,0 +1,5 @@
+gem 'typhoeus'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'minitest'

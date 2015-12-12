@@ -1,6 +1,0 @@
-gem 'null_logger'
-gem 'zendesk_api'
-gem 'rake'
-gem 'rspec'
-gem 'gem_publisher'
-gem 'webmock'

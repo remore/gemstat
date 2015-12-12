@@ -1,0 +1,6 @@
+gem 'vidibus-encoder'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'rr'

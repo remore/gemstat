@@ -1,4 +1,0 @@
-gem 'dotenv'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

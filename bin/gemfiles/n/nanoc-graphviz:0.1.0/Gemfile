@@ -1,8 +1,0 @@
-gem 'nanoc'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-rg'
-gem 'rubocop'
-gem 'yard'
-gem 'redcarpet'

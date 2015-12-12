@@ -1,6 +1,0 @@
-gem 'octokit'
-gem 'unicode'
-gem 'dalli'
-gem 'rspec'
-gem 'fakefs'
-gem 'pry'

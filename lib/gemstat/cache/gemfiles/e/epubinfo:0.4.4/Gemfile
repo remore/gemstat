@@ -1,0 +1,6 @@
+gem 'rubyzip'
+gem 'nokogiri'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'
+gem 'redcarpet'

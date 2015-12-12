@@ -1,3 +1,0 @@
-gem 'pry'
-gem 'debugger'
-gem 'pry-remote'

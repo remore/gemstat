@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'brasspounder'
+gem 'querinator'
+gem 'highline'

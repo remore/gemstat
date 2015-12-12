@@ -1,5 +1,0 @@
-gem 'addressable'
-gem 'cucumber'
-gem 'rspec'
-gem 'yajl-ruby'
-gem 'rake'

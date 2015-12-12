@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'sqlite3'
-gem 'pry-rescue'
-gem 'pry-stack_explorer'
-gem 'rails'

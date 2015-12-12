@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'rest-client'
+gem 'rspec-rails'

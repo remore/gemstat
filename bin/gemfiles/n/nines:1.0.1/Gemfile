@@ -1,4 +1,0 @@
-gem 'net-ping'
-gem 'dnsruby'
-gem 'mail'
-gem 'trollop'

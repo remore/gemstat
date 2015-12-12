@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'carrierwave'
-gem 'activerecord'
-gem 'activesupport'
-gem 'mime-types'

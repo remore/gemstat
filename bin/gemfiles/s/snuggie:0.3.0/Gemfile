@@ -1,5 +1,0 @@
-gem 'php-serialize'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'rake'
-gem 'fakeweb'

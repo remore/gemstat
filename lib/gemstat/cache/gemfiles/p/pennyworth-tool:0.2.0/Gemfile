@@ -1,0 +1,7 @@
+gem 'gli'
+gem 'cheetah'
+gem 'colorize'
+gem 'nokogiri'
+gem 'ruby-libvirt'
+gem 'ronn'
+gem 'rake'

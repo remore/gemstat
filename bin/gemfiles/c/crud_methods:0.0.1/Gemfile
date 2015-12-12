@@ -1,4 +1,0 @@
-gem 'state_methods'
-gem 'rails'
-gem 'debugger'
-gem 'rspec-rails'

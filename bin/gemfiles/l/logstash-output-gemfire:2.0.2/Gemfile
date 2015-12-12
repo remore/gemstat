@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'jar-dependencies'
-gem 'logstash-devutils'

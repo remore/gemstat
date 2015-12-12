@@ -1,3 +1,0 @@
-gem 'http_parser.rb'
-gem 'bundler'
-gem 'rake'

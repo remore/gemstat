@@ -1,8 +1,0 @@
-gem 'actionpack'
-gem 'activerecord'
-gem 'rake'
-gem 'mysql'
-gem 'mysql2'
-gem 'pg'
-gem 'sqlite3'
-gem 'mocha'

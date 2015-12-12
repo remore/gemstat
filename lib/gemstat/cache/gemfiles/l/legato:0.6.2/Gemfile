@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'bourne'
+gem 'vcr'
+gem 'fakeweb'
+gem 'simplecov'
+gem 'multi_json'

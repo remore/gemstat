@@ -1,3 +1,0 @@
-gem 'fluentd'
-gem 'ashikawa-core'
-gem 'rake'

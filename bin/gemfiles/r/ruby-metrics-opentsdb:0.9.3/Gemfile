@@ -1,2 +1,0 @@
-gem 'opentsdb'
-gem 'ruby-metrics'

@@ -1,6 +1,0 @@
-gem 'bacon'
-gem 'mocha'
-gem 'mocha-on-bacon'
-gem 'bacon-bits'
-gem 'activerecord'
-gem 'sqlite3'

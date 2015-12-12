@@ -1,0 +1,5 @@
+gem 'human_error'
+gem 'json-jwt'
+gem 'jwt'
+gem 'rspec'
+gem 'rspectacular'

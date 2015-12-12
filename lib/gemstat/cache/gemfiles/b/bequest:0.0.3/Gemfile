@@ -1,0 +1,2 @@
+gem 'macaddr'
+gem 'rspec'

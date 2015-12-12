@@ -1,6 +1,0 @@
-gem 'ruote'
-gem 'bundler'
-gem 'rubocop'
-gem 'mutant'
-gem 'yard'
-gem 'redcarpet'

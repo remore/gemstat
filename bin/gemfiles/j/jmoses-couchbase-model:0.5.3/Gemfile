@@ -1,4 +1,0 @@
-gem 'jmoses-couchbase'
-gem 'rake'
-gem 'minitest'
-gem 'activesupport'

@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'activerecord'
-gem 'rake'
-gem 'rspec'
-gem 'appraisal'
-gem 'sqlite3'

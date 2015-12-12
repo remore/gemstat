@@ -1,4 +1,0 @@
-gem 'curb'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'

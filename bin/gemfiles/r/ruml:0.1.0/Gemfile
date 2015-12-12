@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'mail'
-gem 'moneta-splattael'

@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'bump'
-gem 'mocha'
-gem 'minitest'
-gem 'minitest-colorize'
-gem 'jeweler'
-gem 'rcov'

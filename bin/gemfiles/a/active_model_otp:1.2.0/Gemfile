@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'rotp'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

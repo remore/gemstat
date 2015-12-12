@@ -1,8 +1,0 @@
-gem 'sprockets'
-gem 'rack'
-gem 'coffee-script'
-gem 'eco'
-gem 'sass'
-gem 'colorize'
-gem 'activesupport'
-gem 'thin'

@@ -1,0 +1,2 @@
+gem 'opal'
+gem 'opal-activesupport'

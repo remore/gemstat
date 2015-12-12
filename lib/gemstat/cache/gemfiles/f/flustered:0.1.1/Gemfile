@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'yard'
+gem 'haml'
+gem 'shoulda'
+gem 'rack-test'

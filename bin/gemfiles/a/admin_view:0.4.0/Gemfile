@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'ransack'
-gem 'kaminari'
-gem 'rspec-rails'

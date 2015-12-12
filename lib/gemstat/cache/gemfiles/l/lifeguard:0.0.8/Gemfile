@@ -1,0 +1,7 @@
+gem 'better_receive'
+gem 'bundler'
+gem 'pry-nav'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-pride'
+gem 'simplecov'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'simplecov'
-gem 'simplecov-gem-adapter'

@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'props'
-gem 'logutils'
-gem 'textutils'
-gem 'rdoc'
-gem 'hoe'

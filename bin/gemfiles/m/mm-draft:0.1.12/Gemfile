@@ -1,4 +1,0 @@
-gem 'i18n'
-gem 'mongo_mapper'
-gem 'rspec'
-gem 'timecop'

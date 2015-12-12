@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'rake'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'shoulda'
+gem 'ammeter'

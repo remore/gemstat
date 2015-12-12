@@ -1,0 +1,4 @@
+gem 'dm-core'
+gem 'dm-aggregates'
+gem 'dm-validations'
+gem 'svn-fixture'

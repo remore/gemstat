@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'activemodel'
-gem 'hirb'

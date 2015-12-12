@@ -1,6 +1,0 @@
-gem 'uuidtools'
-gem 'rails'
-gem 'mysql2'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'simplecov'

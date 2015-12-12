@@ -1,6 +1,0 @@
-gem 'commonservicelocator'
-gem 'gallio'
-gem 'rhino.mocks'
-gem 'structuremap.automocking'
-gem 'nunit'
-gem 'xunitnet'

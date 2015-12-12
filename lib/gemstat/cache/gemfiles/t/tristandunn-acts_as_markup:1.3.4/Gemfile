@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'rdiscount'
+gem 'wikitext'
+gem 'RedCloth'
+gem 'thoughtbot-shoulda'
+gem 'bones'

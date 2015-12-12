@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'i18n'
+gem 'echoe'
+gem 'rspec'
+gem 'rack-test'

@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'rack'
+gem 'jchris-couchrest'
+gem 'hoe'

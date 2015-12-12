@@ -1,0 +1,5 @@
+gem 'arel'
+gem 'ruport'
+gem 'nokogiri'
+gem 'rgl'
+gem 'activerecord'

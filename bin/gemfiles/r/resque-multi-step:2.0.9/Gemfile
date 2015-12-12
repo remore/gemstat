@@ -1,6 +1,0 @@
-gem 'redis-namespace'
-gem 'yajl-ruby'
-gem 'resque'
-gem 'resque-fairly'
-gem 'rake'
-gem 'rspec'

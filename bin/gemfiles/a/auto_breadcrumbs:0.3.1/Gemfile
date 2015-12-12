@@ -1,5 +1,0 @@
-gem 'breadcrumbs_on_rails'
-gem 'activemodel'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'pry'

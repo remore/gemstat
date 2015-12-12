@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'simplecov'
-gem 'rake'
-gem 'yard'
-gem 'redcarpet'

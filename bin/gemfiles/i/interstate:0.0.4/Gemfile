@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'json'
-gem 'oauth2'
-gem 'nestful'
-gem 'terminal-table'
-gem 'rainbow'
-gem 'time-ago-in-words'
-gem 'typhoeus'

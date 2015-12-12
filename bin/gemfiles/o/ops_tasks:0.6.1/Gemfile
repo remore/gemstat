@@ -1,6 +1,0 @@
-gem 'aws-sdk'
-gem 'say2slack'
-gem 'highline'
-gem 'dotenv'
-gem 'figaro'
-gem 'shorturl'

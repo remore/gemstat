@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'colored'
-gem 'terminal-table'
-gem 'stock_quote'

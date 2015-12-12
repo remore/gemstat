@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'json'
-gem 'rake'
-gem 'fakeweb'
-gem 'mocha'

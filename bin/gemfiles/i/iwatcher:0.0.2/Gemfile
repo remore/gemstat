@@ -1,3 +1,0 @@
-gem 'rb-inotify'
-gem 'logger'
-gem 'trollop'

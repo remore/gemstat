@@ -1,3 +1,0 @@
-gem 'filewatcher'
-gem 'json'
-gem 'xcpretty'

@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'thor'
-gem 'libxml-ruby'

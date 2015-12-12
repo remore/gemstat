@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'minitest'
+gem 'debugger'
+gem 'debugger-pry'

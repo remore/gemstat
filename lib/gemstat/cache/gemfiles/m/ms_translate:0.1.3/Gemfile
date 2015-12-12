@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'webmock'
+gem 'vcr'
+gem 'turn'
+gem 'rake'

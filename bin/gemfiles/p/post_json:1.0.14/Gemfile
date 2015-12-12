@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'uuidtools'
-gem 'hashie'
-gem 'pg'
-gem 'rspec-rails'

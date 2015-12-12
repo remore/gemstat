@@ -1,4 +1,0 @@
-gem 'narray'
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'

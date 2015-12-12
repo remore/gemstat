@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'redis'
+gem 'github_api'
+gem 'rspec-rails'
+gem 'webmock'

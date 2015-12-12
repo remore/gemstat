@@ -1,5 +1,0 @@
-gem 'treetop'
-gem 'ruby-dzen'
-gem 'notifier'
-gem 'bundler'
-gem 'rspec'

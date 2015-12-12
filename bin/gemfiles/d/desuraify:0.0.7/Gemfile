@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'typhoeus'
-gem 'bundler'
-gem 'rake'

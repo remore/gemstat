@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'minitest'
+gem 'minitest-spec-context'
+gem 'bundler'
+gem 'rake'

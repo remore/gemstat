@@ -1,5 +1,0 @@
-gem 'beanstalk-client'
-gem 'multi_json'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

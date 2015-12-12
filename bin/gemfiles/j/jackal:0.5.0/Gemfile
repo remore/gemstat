@@ -1,6 +1,0 @@
-gem 'carnivore'
-gem 'bogo'
-gem 'bogo-cli'
-gem 'bogo-config'
-gem 'childprocess'
-gem 'carnivore-actor'

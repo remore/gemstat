@@ -1,2 +1,0 @@
-gem 'trinidad_dbpool'
-gem 'jdbc-postgres'

@@ -1,8 +1,0 @@
-gem 'formtastic'
-gem 'rake'
-gem 'tzinfo'
-gem 'bundler'
-gem 'nokogiri'
-gem 'rspec_tag_matchers'
-gem 'ammeter'
-gem 'actionpack'

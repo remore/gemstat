@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'sqlite3'
-gem 'rails'
-gem 'signed_form'
-gem 'activeadmin'

@@ -1,6 +1,0 @@
-gem 'actionpack'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-html-matchers'
-gem 'yard'
-gem 'bluecloth'

@@ -1,0 +1,8 @@
+gem 'vx-common-spawn'
+gem 'vx-common-rack-builder'
+gem 'airbrake'
+gem 'bundler'
+gem 'rspec'
+gem 'rr'
+gem 'rake'
+gem 'vx-message'

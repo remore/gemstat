@@ -1,4 +1,0 @@
-gem 'simple_form'
-gem 'kaminari'
-gem 'searchy'
-gem 'sorty'

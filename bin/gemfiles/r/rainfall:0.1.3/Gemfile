@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'cloudapp_api'
-gem 'httparty'
-gem 'stamp'

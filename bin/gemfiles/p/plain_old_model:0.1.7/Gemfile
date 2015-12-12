@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-core'

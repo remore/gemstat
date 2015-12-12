@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'childprocess'
-gem 'rdf-turtle'
-gem 'activemodel'
-gem 'nokogiri'
-gem 'ldp'

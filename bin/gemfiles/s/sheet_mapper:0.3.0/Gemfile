@@ -1,6 +1,0 @@
-gem 'google_drive'
-gem 'minitest'
-gem 'rake'
-gem 'mocha'
-gem 'fakeweb'
-gem 'awesome_print'

@@ -1,8 +1,0 @@
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'mocha'
-gem 'bundler'
-gem 'rdoc'
-gem 'jeweler'
-gem 'simplecov'

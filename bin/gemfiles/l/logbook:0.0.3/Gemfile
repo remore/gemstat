@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'timecop'
-gem 'fakeweb'
-gem 'addressable'

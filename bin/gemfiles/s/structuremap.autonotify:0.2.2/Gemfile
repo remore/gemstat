@@ -1,3 +1,0 @@
-gem 'structuremap'
-gem 'castle.dynamicproxy2'
-gem 'log4net'

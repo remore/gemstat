@@ -1,0 +1,4 @@
+gem 'redcarpet'
+gem 'actionpack'
+gem 'rake-compiler'
+gem 'test-unit'

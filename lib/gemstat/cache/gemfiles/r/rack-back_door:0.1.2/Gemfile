@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'
+gem 'sinatra'

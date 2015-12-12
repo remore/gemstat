@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'nokogiri'
+gem 'coveralls'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'
+gem 'yard'

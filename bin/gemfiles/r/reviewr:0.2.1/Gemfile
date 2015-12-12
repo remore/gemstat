@@ -1,4 +1,0 @@
-gem 'termios'
-gem 'pony'
-gem 'rspec'
-gem 'cucumber'

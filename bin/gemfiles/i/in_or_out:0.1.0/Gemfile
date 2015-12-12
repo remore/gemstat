@@ -1,8 +1,0 @@
-gem 'afl_schedule'
-gem 'active_support'
-gem 'nokogiri'
-gem 'mechanize'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-radar'

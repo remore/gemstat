@@ -1,3 +1,0 @@
-gem 'thin'
-gem 'rake'
-gem 'rspec'

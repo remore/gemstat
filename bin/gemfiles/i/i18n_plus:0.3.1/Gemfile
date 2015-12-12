@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'activesupport'
-gem 'actionpack'
-gem 'bundler'
-gem 'rdoc'
-gem 'mocha'
-gem 'rake'
-gem 'minitest'

@@ -1,7 +1,0 @@
-gem 'net-ssh'
-gem 'json'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'
-gem 'thor'

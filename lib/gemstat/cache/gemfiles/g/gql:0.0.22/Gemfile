@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rexical'
+gem 'racc'
+gem 'codeclimate-test-reporter'
+gem 'minitest-reporters'
+gem 'activesupport'
+gem 'multi_json'

@@ -1,3 +1,0 @@
-gem 'test-unit'
-gem 'gtk2'
-gem 'hoe'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'sass'
+gem 'normalize-rails'
+gem 'autoprefixer-rails'

@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'guard-rspec'
-gem 'mongoid'

@@ -1,4 +1,0 @@
-gem 'infraruby-base'
-gem 'fab'
-gem 'infraruby-task'
-gem 'rspec'

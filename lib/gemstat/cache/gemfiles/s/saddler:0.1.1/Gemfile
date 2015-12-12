@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'saddler-reporter-text'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

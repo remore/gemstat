@@ -1,7 +1,0 @@
-gem 'test-kitchen'
-gem 'kitchen-vagrant'
-gem 'thor'
-gem 'cucumber'
-gem 'bundler'
-gem 'aruba'
-gem 'rake'

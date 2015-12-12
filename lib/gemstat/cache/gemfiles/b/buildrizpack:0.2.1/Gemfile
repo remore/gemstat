@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'builder'
+gem 'pygmentize'
+gem 'jekyll'
+gem 'RedCloth'
+gem 'jekylltask'
+gem 'rdoc'
+gem 'rcov'

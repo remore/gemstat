@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'machinist'
-gem 'sqlite3'
-gem 'guard-rspec'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

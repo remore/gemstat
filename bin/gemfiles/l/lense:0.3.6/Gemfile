@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'gli'
-gem 'highline'
-gem 'psych'
-gem 'rake'
-gem 'rspec'

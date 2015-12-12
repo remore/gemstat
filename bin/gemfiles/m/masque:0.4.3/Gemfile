@@ -1,7 +1,0 @@
-gem 'capybara'
-gem 'poltergeist'
-gem 'headless'
-gem 'capybara-webkit'
-gem 'rspec'
-gem 'sinatra'
-gem 'simplecov'

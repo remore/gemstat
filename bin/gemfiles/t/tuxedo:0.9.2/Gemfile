@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'fabrication'
-gem 'cane'
-gem 'reek'

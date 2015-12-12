@@ -1,0 +1,5 @@
+gem 'taglob'
+gem 'rake'
+gem 'mocha'
+gem 'rspec'
+gem 'rubigen'

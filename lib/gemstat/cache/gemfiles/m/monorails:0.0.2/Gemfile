@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'thread_hazardous'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

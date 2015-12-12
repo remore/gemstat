@@ -1,6 +1,0 @@
-gem 'murmurhash3'
-gem 'minitest'
-gem 'rake'
-gem 'activesupport'
-gem 'benchmark-ips'
-gem 'yard'

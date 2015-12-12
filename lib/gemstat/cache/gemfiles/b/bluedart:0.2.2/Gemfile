@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'httparty'
+gem 'nori'
+gem 'bundler'
+gem 'rake'
+gem 'debugger'

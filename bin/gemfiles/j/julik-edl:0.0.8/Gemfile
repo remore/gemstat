@@ -1,4 +1,0 @@
-gem 'flexmock'
-gem 'timecode'
-gem 'test-spec'
-gem 'hoe'

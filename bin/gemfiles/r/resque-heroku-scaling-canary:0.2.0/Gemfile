@@ -1,5 +1,0 @@
-gem 'resque'
-gem 'heroku'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'jeweler'

@@ -1,8 +1,0 @@
-gem 'flatter'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-nav'

@@ -1,0 +1,2 @@
+gem 'ar_mailer'
+gem 'hoe'

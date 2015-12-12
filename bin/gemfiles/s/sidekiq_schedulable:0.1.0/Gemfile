@@ -1,4 +1,0 @@
-gem 'sidekiq'
-gem 'parse-cron'
-gem 'rspec'
-gem 'timecop'

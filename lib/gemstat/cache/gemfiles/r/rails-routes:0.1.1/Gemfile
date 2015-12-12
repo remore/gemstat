@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-utils'
+gem 'pry-meta'
+gem 'rails'
+gem 'rack-test'

@@ -1,0 +1,2 @@
+gem 'octocat_herder'
+gem 'rake'

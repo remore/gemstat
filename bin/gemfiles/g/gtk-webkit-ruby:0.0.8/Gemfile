@@ -1,3 +1,0 @@
-gem 'glib2'
-gem 'gtk2'
-gem 'rubber-generate'

@@ -1,6 +1,0 @@
-gem 'sequel'
-gem 'bcrypt'
-gem 'pbkdf2-ruby'
-gem 'rspec'
-gem 'simplecov'
-gem 'sqlite3'

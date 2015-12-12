@@ -1,7 +1,0 @@
-gem 'usergrid_iron'
-gem 'activemodel'
-gem 'activerecord'
-gem 'i18n'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

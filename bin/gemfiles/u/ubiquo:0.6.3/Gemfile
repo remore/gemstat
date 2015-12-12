@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'i18n'
-gem 'lockfile'
-gem 'bundler'
-gem 'rdoc'
-gem 'mocha'
-gem 'highline'
-gem 'ya2yaml'

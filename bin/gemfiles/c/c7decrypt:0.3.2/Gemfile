@@ -1,4 +1,0 @@
-gem 'fuzzbert'
-gem 'rspec'
-gem 'rspec-its'
-gem 'rake'

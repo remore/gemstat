@@ -1,3 +1,0 @@
-gem 'redis'
-gem 'rails'
-gem 'sqlite3'

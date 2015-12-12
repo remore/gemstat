@@ -1,5 +1,0 @@
-gem 'toml'
-gem 'aws-sdk'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,7 +1,0 @@
-gem 'straightedge'
-gem 'gosu'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubygems-tasks'
-gem 'yard'

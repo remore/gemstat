@@ -1,0 +1,8 @@
+gem 'bindata'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'simplecov'
+gem 'pry'

@@ -1,0 +1,7 @@
+gem 'html-pipeline'
+gem 'escape_utils'
+gem 'gemoji'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

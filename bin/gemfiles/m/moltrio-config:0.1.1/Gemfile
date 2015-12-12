@@ -1,6 +1,0 @@
-gem 'hamster'
-gem 'thread_attr_accessor'
-gem 'activesupport'
-gem 'redis'
-gem 'bundler'
-gem 'rake'

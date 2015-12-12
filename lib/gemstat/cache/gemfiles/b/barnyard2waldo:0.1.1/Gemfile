@@ -1,0 +1,5 @@
+gem 'bump'
+gem 'minitest'
+gem 'ansi'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

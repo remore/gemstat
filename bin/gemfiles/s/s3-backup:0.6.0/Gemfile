@@ -1,4 +1,0 @@
-gem 'aws_credentials'
-gem 'right_aws'
-gem 'shoulda'
-gem 'mocha'

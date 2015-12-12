@@ -1,7 +1,0 @@
-gem 'active_attr'
-gem 'activesupport'
-gem 'hashie'
-gem 'httparty'
-gem 'signed_parameters'
-gem 'rake'
-gem 'rspec'

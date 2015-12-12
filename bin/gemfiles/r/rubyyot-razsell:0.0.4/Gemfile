@@ -1,4 +1,0 @@
-gem 'hpricot'
-gem 'cucumber'
-gem 'mocha'
-gem 'technicalpickles-shoulda'

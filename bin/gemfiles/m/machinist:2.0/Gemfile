@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'mysql'
-gem 'rake'
-gem 'rcov'
-gem 'rspec'
-gem 'rdoc'

@@ -1,8 +1,0 @@
-gem 'taskmapper'
-gem 'xml-simple'
-gem 'addressable'
-gem 'lighthouse-api'
-gem 'rspec'
-gem 'jeweler'
-gem 'simplecov'
-gem 'rcov'

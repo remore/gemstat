@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'bundler'
-gem 'hub'
-gem 'cucumber'
-gem 'aruba'

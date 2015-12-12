@@ -1,3 +1,0 @@
-gem 'http-requestor'
-gem 'json'
-gem 'nokogiri'

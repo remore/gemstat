@@ -1,4 +1,0 @@
-gem 'redcarpet'
-gem 'ansi'
-gem 'pygments.rb'
-gem 'bundler'

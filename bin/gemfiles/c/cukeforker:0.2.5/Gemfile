@@ -1,5 +1,0 @@
-gem 'cucumber'
-gem 'vnctools'
-gem 'rspec'
-gem 'coveralls'
-gem 'rake'

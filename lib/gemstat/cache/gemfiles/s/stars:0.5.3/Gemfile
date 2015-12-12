@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'terminal-table'
+gem 'nokogiri'
+gem 'keep'
+gem 'mocha'

@@ -1,0 +1,4 @@
+gem 'rubydns'
+gem 'daemons'
+gem 'bundler'
+gem 'rake'

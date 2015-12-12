@@ -1,0 +1,4 @@
+gem 'aws-s3'
+gem 'httpclient'
+gem 'differ'
+gem 'dm-core'

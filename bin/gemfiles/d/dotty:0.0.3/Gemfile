@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'hashie'
-gem 'rspec'
-gem 'simplecov'

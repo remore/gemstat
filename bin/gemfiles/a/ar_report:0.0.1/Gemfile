@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'spreadsheet'
-gem 'mail'
-gem 'rspec'

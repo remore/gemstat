@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'mocha'
-gem 'rails'
-gem 'resque'
-gem 'mail'

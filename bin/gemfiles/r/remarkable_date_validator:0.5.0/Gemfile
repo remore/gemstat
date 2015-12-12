@@ -1,6 +1,0 @@
-gem 'remarkable'
-gem 'remarkable_activemodel'
-gem 'date_validator'
-gem 'active_record'
-gem 'sqlite3'
-gem 'rspec'

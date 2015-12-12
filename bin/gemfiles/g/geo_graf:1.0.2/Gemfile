@@ -1,4 +1,0 @@
-gem 'rgeo'
-gem 'bundler'
-gem 'guard-rspec'
-gem 'rake'

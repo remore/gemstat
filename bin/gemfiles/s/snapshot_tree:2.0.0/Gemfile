@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'pg'
-gem 'handlebars'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'pry'

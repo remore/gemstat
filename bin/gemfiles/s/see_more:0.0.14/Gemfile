@@ -1,7 +1,0 @@
-gem 'jasmine'
-gem 'rspec'
-gem 'nokogiri'
-gem 'sequel-bit_fields'
-gem 'sqlite3'
-gem 'rails'
-gem 'jquery-rails'

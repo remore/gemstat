@@ -1,0 +1,7 @@
+gem 'dwml'
+gem 'savon'
+gem 'httpi'
+gem 'nokogiri'
+gem 'multi_json'
+gem 'activesupport'
+gem 'http_logger'

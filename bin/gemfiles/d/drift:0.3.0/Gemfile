@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'github-markup'
-gem 'redcarpet'
-gem 'rspec-rails'
-gem 'sqlite3'

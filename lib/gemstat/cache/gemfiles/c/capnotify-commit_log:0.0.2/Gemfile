@@ -1,0 +1,7 @@
+gem 'capnotify'
+gem 'git'
+gem 'bundler'
+gem 'rake'
+gem 'awesome_print'
+gem 'pry'
+gem 'rspec'

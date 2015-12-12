@@ -1,7 +1,0 @@
-gem 'shotgun'
-gem 'thin'
-gem 'fakefs'
-gem 'rake'
-gem 'rcov'
-gem 'rr'
-gem 'rspec'

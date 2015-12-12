@@ -1,7 +1,0 @@
-gem 'domain_name'
-gem 'sqlite3'
-gem 'bundler'
-gem 'test-unit'
-gem 'rake'
-gem 'rdoc'
-gem 'simplecov'

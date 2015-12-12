@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'csspool'
+gem 'bsearch'
+gem 'test-unit-full'
+gem 'yard'
+gem 'pry'
+gem 'pry-doc'
+gem 'guard-test'

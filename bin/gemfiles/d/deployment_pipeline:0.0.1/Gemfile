@@ -1,6 +1,0 @@
-gem 'rugged'
-gem 'thor'
-gem 'rdiscount'
-gem 'progressbar'
-gem 'hpricot'
-gem 'active_support'

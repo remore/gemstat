@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'nokogiri'
-gem 'rake'
-gem 'unicode_utils'

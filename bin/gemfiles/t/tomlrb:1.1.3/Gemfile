@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'pry-byebug'
-gem 'racc'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'benchmark-ips'

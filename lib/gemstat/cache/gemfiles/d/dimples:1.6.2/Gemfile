@@ -1,0 +1,6 @@
+gem 'tilt'
+gem 'rake'
+gem 'minitest'
+gem 'redcarpet'
+gem 'erubis'
+gem 'codeclimate-test-reporter'

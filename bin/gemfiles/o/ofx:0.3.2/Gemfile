@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rspec'
-gem 'rake'
-gem 'pry'
-gem 'pry-debugger'

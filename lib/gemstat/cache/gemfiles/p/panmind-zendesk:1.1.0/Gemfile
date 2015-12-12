@@ -1,0 +1,2 @@
+gem 'panmind-zendesk'
+gem 'rails'

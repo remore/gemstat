@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'omniauth-google-apps'
-gem 'rspec-rails'

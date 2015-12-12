@@ -1,5 +1,0 @@
-gem 'hashie'
-gem 'heredoc_unindent'
-gem 'rake'
-gem 'rspec'
-gem 'travis-lint'

@@ -1,6 +1,0 @@
-gem 'schiphol'
-gem 'birch'
-gem 'yomu'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

@@ -1,7 +1,0 @@
-gem 'fog'
-gem 'rspec'
-gem 'rspec-expectations'
-gem 'rspec-its'
-gem 'rspec-collection_matchers'
-gem 'bundler'
-gem 'rake'

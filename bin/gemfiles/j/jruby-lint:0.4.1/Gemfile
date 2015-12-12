@@ -1,7 +1,0 @@
-gem 'term-ansicolor'
-gem 'jruby-openssl'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-given'
-gem 'aruba'

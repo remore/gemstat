@@ -1,0 +1,8 @@
+gem 'extlib'
+gem 'erubis'
+gem 'rake'
+gem 'rack'
+gem 'mime-types'
+gem 'bundler'
+gem 'rspec'
+gem 'webrat'

@@ -1,8 +1,0 @@
-gem 'redis-objects'
-gem 'qless'
-gem 'rspec'
-gem 'rspec-fire'
-gem 'rake'
-gem 'simplecov'
-gem 'cane'
-gem 'timecop'

@@ -1,0 +1,4 @@
+gem 'rubygame'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'

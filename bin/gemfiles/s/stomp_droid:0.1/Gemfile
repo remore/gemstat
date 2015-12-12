@@ -1,6 +1,0 @@
-gem 'onstomp'
-gem 'rspec'
-gem 'json'
-gem 'rake'
-gem 'pry'
-gem 'celluloid-io'

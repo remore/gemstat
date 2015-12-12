@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'pry'
-gem 'pry-awesome_print'
-gem 'rake-compiler'

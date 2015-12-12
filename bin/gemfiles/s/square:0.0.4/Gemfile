@@ -1,6 +1,0 @@
-gem 'rack-oauth2'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'cover_me'
-gem 'webmock'

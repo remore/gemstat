@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'json_schema_tools'
-gem 'rake'

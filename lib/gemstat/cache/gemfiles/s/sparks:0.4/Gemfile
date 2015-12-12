@@ -1,0 +1,4 @@
+gem 'yajl-ruby'
+gem 'net-http-persistent'
+gem 'rake'
+gem 'bundler'

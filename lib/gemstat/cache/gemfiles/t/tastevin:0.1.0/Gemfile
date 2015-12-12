@@ -1,0 +1,8 @@
+gem 'highline'
+gem 'inifile'
+gem 'rainbow'
+gem 'thor'
+gem 'wine'
+gem 'aruba'
+gem 'cucumber'
+gem 'rake'

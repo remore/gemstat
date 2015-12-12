@@ -1,3 +1,0 @@
-gem 'mocha'
-gem 'test-unit'
-gem 'json'

@@ -1,4 +1,0 @@
-gem 'aws-s3'
-gem 'cloudfiles'
-gem 'net-sftp'
-gem 'rspec'

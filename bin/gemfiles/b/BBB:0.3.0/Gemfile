@@ -1,5 +1,0 @@
-gem 'json'
-gem 'i2c'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,3 +1,0 @@
-gem 'factory_girl'
-gem 'redis'
-gem 'ohm'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'simple_form'
-gem 'haml'
-gem 'coffee-rails'
-gem 'jquery-rails'
-gem 'responders'

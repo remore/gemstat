@@ -1,0 +1,7 @@
+gem 'chronic'
+gem 'map'
+gem 'json'
+gem 'rspec'
+gem 'webmock'
+gem 'rake'
+gem 'vcr'

@@ -1,0 +1,8 @@
+gem 'minitest'
+gem 'turn'
+gem 'nokogiri'
+gem 'rack-test'
+gem 'rr'
+gem 'guard-minitest'
+gem 'logfmt'
+gem 'scrolls'

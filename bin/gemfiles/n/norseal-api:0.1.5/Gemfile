@@ -1,5 +1,0 @@
-gem 'her'
-gem 'activesupport'
-gem 'faraday_middleware'
-gem 'bundler'
-gem 'rake'

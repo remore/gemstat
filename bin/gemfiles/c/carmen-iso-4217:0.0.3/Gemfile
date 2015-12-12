@@ -1,7 +1,0 @@
-gem 'carmen'
-gem 'bundler'
-gem 'rake'
-gem 'geonames_api'
-gem 'rubocop'
-gem 'pry'
-gem 'rspec'

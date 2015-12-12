@@ -1,4 +1,0 @@
-gem 'geokit'
-gem 'pixeldistance'
-gem 'bundler'
-gem 'rake'

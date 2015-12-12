@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'httparty'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

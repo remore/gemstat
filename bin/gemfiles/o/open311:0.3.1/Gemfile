@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'hashie'
-gem 'multi_json'
-gem 'multi_xml'
-gem 'bundler'

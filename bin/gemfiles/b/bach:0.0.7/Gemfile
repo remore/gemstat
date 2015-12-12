@@ -1,3 +1,0 @@
-gem 'stomp'
-gem 'espeak-ruby'
-gem 'json'

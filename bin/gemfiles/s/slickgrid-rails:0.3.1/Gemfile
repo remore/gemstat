@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'coffee-rails'
-gem 'jquery-plugins-rails'
-gem 'jquery-rails'
-gem 'sass-rails'

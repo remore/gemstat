@@ -1,4 +1,0 @@
-gem 'yard'
-gem 'pry'
-gem 'latest_ruby'
-gem 'bacon'

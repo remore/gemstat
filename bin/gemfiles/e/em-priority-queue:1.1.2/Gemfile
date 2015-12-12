@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'stakach-algorithms'
-gem 'rake'
-gem 'rspec'
-gem 'delorean'

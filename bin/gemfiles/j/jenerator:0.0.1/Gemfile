@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'thor'
-gem 'ffaker'
-gem 'active_support'

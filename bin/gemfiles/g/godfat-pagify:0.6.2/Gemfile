@@ -1,4 +1,0 @@
-gem 'bones'
-gem 'dm-core'
-gem 'dm-aggregates'
-gem 'activerecord'

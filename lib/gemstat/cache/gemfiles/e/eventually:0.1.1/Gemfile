@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'github-markup'
+gem 'simplecov'

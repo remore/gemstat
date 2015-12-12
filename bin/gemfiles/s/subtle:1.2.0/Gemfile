@@ -1,6 +1,0 @@
-gem 'blankslate'
-gem 'mocha'
-gem 'rake'
-gem 'minitest'
-gem 'coveralls'
-gem 'minitest'

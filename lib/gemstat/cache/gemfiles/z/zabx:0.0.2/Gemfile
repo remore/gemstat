@@ -1,0 +1,4 @@
+gem 'json'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'uuidtools'

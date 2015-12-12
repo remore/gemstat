@@ -1,5 +1,0 @@
-gem 'msgpack'
-gem 'rspec'
-gem 'rdoc'
-gem 'rake'
-gem 'bundler'

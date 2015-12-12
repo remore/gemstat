@@ -1,8 +1,0 @@
-gem 'guard'
-gem 'sidekiq'
-gem 'bundler'
-gem 'rb-fsevent'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'guard-bundler'

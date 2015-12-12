@@ -1,0 +1,4 @@
+gem 'rubytree'
+gem 'rspec'
+gem 'rake'
+gem 'yard'

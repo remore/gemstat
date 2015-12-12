@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'ensure_valid_encoding'
+gem 'appraisal'
+gem 'charlock_holmes'
+gem 'i18n'
+gem 'rake'
+gem 'minitest'

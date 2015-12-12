@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'spotify-client'
-gem 'colorize'
-gem 'thor'

@@ -1,7 +1,0 @@
-gem 'factory_girl'
-gem 'vcr'
-gem 'virtus'
-gem 'activesupport'
-gem 'multi_json'
-gem 'rainbow'
-gem 'thread_safe'

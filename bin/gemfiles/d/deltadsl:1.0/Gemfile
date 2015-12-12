@@ -1,3 +1,0 @@
-gem 'deltacloud-client'
-gem 'eventmachine'
-gem 'minitest'

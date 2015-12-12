@@ -1,8 +1,0 @@
-gem 'cells'
-gem 'onfire'
-gem 'hooks'
-gem 'rake'
-gem 'slim'
-gem 'haml'
-gem 'tzinfo'
-gem 'minitest'

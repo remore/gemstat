@@ -1,7 +1,0 @@
-gem 'gherkin3'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'unindent'
-gem 'kramdown'
-gem 'coveralls'

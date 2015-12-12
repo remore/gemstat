@@ -1,8 +1,0 @@
-gem 'rumoji'
-gem 'activesupport'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'codeclimate-test-reporter'

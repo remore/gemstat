@@ -1,4 +1,0 @@
-gem 'iproto'
-gem 'murmurhash3'
-gem 'sumbur'
-gem 'bin_utils'

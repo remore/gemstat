@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'em-redis'
+gem 'guard'
+gem 'guard-process'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'eventmachine'

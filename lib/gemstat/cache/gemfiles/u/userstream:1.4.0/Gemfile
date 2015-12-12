@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'yajl-ruby'
+gem 'hashie'
+gem 'rspec'

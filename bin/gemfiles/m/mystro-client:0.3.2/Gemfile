@@ -1,4 +1,0 @@
-gem 'mystro-common'
-gem 'httparty'
-gem 'clamp'
-gem 'terminal-table'

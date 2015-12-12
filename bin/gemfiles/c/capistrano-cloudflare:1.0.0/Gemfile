@@ -1,6 +1,0 @@
-gem 'capistrano'
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'capistrano-spec'
-gem 'webmock'

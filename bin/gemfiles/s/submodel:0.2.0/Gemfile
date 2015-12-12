@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pg'
-gem 'sqlite3'
-gem 'mysql2'
-gem 'carmen'

@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'i18n'
+gem 'activesupport'
+gem 'json'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'autotest'

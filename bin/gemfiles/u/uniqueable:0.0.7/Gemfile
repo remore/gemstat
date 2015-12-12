@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'activemodel'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'rake'

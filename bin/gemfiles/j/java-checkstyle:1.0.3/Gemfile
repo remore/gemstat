@@ -1,5 +1,0 @@
-gem 'pre-commit'
-gem 'crack'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

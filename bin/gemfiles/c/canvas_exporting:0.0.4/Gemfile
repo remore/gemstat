@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'phantomjs'
-gem 'rspec-rails'

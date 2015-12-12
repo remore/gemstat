@@ -1,4 +1,0 @@
-gem 'resque'
-gem 'jeweler'
-gem 'thoughtbot-shoulda'
-gem 'mocha'

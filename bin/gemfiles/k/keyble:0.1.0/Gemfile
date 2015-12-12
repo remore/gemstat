@@ -1,3 +1,0 @@
-gem 'net-scp'
-gem 'bundler'
-gem 'jeweler'

@@ -1,8 +1,0 @@
-gem 'commander'
-gem 'rake'
-gem 'redcarpet'
-gem 'sinatra'
-gem 'thin'
-gem 'rspec'
-gem 'rspec-core'
-gem 'rspec-mocks'

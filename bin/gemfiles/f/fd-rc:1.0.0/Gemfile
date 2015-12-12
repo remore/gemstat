@@ -1,4 +1,0 @@
-gem 'gli'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

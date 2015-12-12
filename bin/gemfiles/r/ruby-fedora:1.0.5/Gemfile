@@ -1,7 +1,0 @@
-gem 'xml-simple'
-gem 'multipart-post'
-gem 'mime-types'
-gem 'newgem'
-gem 'mocha'
-gem 'rspec'
-gem 'hoe'

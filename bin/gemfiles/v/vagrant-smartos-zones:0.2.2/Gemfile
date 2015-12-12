@@ -1,4 +1,0 @@
-gem 'netaddr'
-gem 'bundler'
-gem 'pry-nav'
-gem 'rake'

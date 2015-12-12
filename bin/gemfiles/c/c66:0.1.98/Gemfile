@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thor'
-gem 'oauth2'
-gem 'json'
-gem 'httparty'

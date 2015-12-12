@@ -1,0 +1,8 @@
+gem 'json'
+gem 'httparty'
+gem 'multipart-post'
+gem 'activesupport'
+gem 'rspec'
+gem 'webmock'
+gem 'pry'
+gem 'pry-byebug'

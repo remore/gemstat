@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'trollop'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

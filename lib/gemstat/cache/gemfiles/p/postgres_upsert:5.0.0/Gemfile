@@ -1,0 +1,7 @@
+gem 'pg'
+gem 'activerecord'
+gem 'rails'
+gem 'bundler'
+gem 'pry-rails'
+gem 'rspec'
+gem 'rspec-rails'

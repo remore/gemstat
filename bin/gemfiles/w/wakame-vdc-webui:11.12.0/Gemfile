@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'mysql'
-gem 'sequel'
-gem 'json'
-gem 'oauth'
-gem 'nokogiri'
-gem 'thor'

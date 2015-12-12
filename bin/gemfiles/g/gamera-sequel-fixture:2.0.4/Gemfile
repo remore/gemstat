@@ -1,4 +1,0 @@
-gem 'sequel'
-gem 'gamera-symbolmatrix'
-gem 'rspec'
-gem 'fast'

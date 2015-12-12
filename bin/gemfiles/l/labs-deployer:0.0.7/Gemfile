@@ -1,5 +1,0 @@
-gem 'mash'
-gem 'json_pure'
-gem 's3'
-gem 'thor'
-gem 'berkshelf'

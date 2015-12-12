@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'nokogiri'
+gem 'gdata_19'
+gem 'mechanize'
+gem 'rspec'

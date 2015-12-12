@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'vegas'
+gem 'haml'
+gem 'rdoc'
+gem 'activesupport'
+gem 'will_paginate'

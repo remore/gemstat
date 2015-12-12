@@ -1,5 +1,0 @@
-gem 'mechanize'
-gem 'zipruby'
-gem 'json'
-gem 'rspec'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'mime-types'
-gem 'right_api_client'
-gem 'right_api_provision'
-gem 'rspec'
-gem 'rake'

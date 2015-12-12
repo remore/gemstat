@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rails'
-gem 'capybara'
-gem 'guard'
-gem 'guard-rspec'
-gem 'combustion'
-gem 'sqlite3'
-gem 'nokogiri'

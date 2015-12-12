@@ -1,5 +1,0 @@
-gem 'highline'
-gem 'configliere'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

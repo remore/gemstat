@@ -1,6 +1,0 @@
-gem 'squash_ruby'
-gem 'rails'
-gem 'rspec'
-gem 'yard'
-gem 'redcarpet'
-gem 'jeweler'

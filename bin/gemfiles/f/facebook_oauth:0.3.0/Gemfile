@@ -1,5 +1,0 @@
-gem 'oauth2'
-gem 'json'
-gem 'mime-types'
-gem 'shoulda'
-gem 'mocha'

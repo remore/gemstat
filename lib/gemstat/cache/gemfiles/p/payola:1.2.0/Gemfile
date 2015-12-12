@@ -1,0 +1,7 @@
+gem 'stripe'
+gem 'human_error'
+gem 'rspec'
+gem 'rspectacular'
+gem 'money'
+gem 'vcr'
+gem 'webmock'

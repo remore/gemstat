@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'newrelic_plugin'
-gem 'trollop'

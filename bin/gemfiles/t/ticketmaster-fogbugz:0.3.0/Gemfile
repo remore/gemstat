@@ -1,7 +1,0 @@
-gem 'ticketmaster'
-gem 'rake'
-gem 'ruby-fogbugz'
-gem 'rspec'
-gem 'fakeweb'
-gem 'vcr'
-gem 'rcov'

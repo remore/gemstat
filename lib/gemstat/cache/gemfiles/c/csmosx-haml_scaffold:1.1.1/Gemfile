@@ -1,0 +1,4 @@
+gem 'haml'
+gem 'mocha'
+gem 'newgem'
+gem 'hoe'

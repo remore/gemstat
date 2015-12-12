@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'pg'
-gem 'shoulda'
-gem 'jeweler'

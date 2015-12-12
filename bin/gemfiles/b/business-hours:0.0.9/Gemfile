@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'tzinfo'
-gem 'i18n'
-gem 'activesupport'

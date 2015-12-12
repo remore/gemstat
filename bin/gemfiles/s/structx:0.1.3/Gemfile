@@ -1,6 +1,0 @@
-gem 'forwardablex'
-gem 'bundler'
-gem 'rake'
-gem 'bacon'
-gem 'yard'
-gem 'ruby-version'

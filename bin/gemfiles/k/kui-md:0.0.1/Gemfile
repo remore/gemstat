@@ -1,6 +1,0 @@
-gem 'redcarpet'
-gem 'pygments.rb'
-gem 'ruby-graphviz'
-gem 'rake'
-gem 'rspec'
-gem 'bundler'

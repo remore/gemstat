@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'multi_json'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

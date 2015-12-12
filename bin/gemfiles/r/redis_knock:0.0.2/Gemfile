@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rack-test'
-gem 'redis'

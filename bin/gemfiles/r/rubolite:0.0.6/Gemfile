@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'awesome_print'
-gem 'pry'
-gem 'fakefs'
-gem 'git'

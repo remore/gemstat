@@ -1,4 +1,0 @@
-gem 'capybara'
-gem 'jruby-jars'
-gem 'sinatra'
-gem 'rspec'

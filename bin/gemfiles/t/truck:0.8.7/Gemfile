@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'fakefs'
-gem 'minitest'
-gem 'minitest-red_green'
-gem 'pry'
-gem 'rake'

@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'rubyforge'
-gem 'hoe'

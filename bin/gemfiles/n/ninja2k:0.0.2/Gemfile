@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'axlsx'
-gem 'kramdown'
-gem 'yard'

@@ -1,8 +1,0 @@
-gem 'trollop'
-gem 'yahoo_weatherman'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'vcr'

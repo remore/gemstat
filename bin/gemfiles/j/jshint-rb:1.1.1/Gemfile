@@ -1,5 +1,0 @@
-gem 'execjs'
-gem 'multi_json'
-gem 'rspec'
-gem 'rake'
-gem 'fakefs'

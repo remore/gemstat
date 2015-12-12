@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'fattr'
+gem 'highline'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'

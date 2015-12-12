@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'hashie'
-gem 'rest-client'
-gem 'json'

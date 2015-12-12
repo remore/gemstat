@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'haml'
-gem 'haml-rails'
-gem 'sqlite3'
-gem 'rspec-rails'

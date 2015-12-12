@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'rqrcode'
-gem 'mini_magick'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'bundler'
+gem 'sqlite3'
+gem 'rspec'
+gem 'factory_girl'
+gem 'database_cleaner'

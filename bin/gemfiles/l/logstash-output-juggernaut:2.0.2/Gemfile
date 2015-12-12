@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'redis'
-gem 'logstash-devutils'

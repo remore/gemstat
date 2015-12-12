@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'capybara'
+gem 'cucumber'
+gem 'selenium-webdriver'

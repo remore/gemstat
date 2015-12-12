@@ -1,5 +1,0 @@
-gem 'rouge'
-gem 'rspec'
-gem 'haiti'
-gem 'pry'
-gem 'rake'

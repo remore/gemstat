@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'easy_rails_authentication'
-gem 'sqlite3'

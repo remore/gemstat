@@ -1,0 +1,4 @@
+gem 'vagrant-hosts'
+gem 'vagrant-pe_build'
+gem 'vagrant-auto_network'
+gem 'vagrant-config_builder'

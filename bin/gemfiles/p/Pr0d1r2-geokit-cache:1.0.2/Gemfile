@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'Pr0d1r2-active_record_connectionless'
-gem 'Pr0d1r2-active_record_geocodable'
-gem 'htmlentities'

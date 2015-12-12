@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'devise'
-gem 'devise_cas_authenticatable'
-gem 'devise-encryptable'
-gem 'faraday'
-gem 'simple_form'
-gem 'activerecord-session_store'

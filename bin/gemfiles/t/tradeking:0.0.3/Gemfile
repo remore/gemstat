@@ -1,5 +1,0 @@
-gem 'oauth'
-gem 'json'
-gem 'rdoc'
-gem 'rake'
-gem 'webmock'

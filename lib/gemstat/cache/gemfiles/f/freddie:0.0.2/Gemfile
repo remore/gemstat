@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'activesupport'
+gem 'tilt'
+gem 'rake'
+gem 'rack-test'
+gem 'minitest-reporters'

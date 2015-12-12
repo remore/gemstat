@@ -1,8 +1,0 @@
-gem 'awesome_print'
-gem 'httmultiparty'
-gem 'json'
-gem 'thor'
-gem 'bundler'
-gem 'guard-rspec'
-gem 'rake'
-gem 'rspec'

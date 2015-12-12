@@ -1,3 +1,0 @@
-gem 'fog'
-gem 'rspec'
-gem 'pry-byebug'

@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'bunny'
-gem 'multi_json'
-gem 'bundler'

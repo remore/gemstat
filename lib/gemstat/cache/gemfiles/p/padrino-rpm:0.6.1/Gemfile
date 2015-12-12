@@ -1,0 +1,1 @@
+gem 'newrelic_rpm'

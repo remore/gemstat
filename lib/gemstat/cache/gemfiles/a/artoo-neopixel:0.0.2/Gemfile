@@ -1,0 +1,4 @@
+gem 'artoo-arduino'
+gem 'hybridgroup-firmata'
+gem 'pry'
+gem 'rake'

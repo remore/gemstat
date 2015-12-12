@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'fluent-mixin-config-placeholders'
+gem 'fluentd'
+gem 'fluent-mixin-config-placeholders'
+gem 'rake'
+gem 'flexmock'

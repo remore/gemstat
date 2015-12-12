@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'twitter'
+gem 'stud'
+gem 'logstash-devutils'
+gem 'logstash-codec-plain'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'bundler'
-gem 'rake-compiler'
-gem 'test-unit'

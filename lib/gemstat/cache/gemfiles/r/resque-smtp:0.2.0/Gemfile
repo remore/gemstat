@@ -1,0 +1,7 @@
+gem 'resque'
+gem 'mail'
+gem 'bundler'
+gem 'rake'
+gem 'actionmailer'
+gem 'minitest'
+gem 'resque_unit'

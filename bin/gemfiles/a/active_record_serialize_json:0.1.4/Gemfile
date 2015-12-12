@@ -1,4 +1,0 @@
-gem 'gem_hadar'
-gem 'json'
-gem 'activerecord'
-gem 'mysql2'

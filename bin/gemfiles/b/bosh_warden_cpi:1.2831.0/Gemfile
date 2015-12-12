@@ -1,6 +1,0 @@
-gem 'bosh_common'
-gem 'bosh_cpi'
-gem 'warden-protocol'
-gem 'warden-client'
-gem 'sequel'
-gem 'yajl-ruby'

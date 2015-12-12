@@ -1,3 +1,0 @@
-gem 'mongoid'
-gem 'rake'
-gem 'rspec'

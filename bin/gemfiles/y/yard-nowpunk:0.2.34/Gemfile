@@ -1,4 +1,0 @@
-gem 'ruby-git'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'

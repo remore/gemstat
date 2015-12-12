@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'sugarcube'
-gem 'teacup'
-gem 'rspec'

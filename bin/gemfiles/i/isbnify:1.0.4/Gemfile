@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'
-gem 'vcr'
-gem 'simplecov'
-gem 'simplecov-gem-adapter'

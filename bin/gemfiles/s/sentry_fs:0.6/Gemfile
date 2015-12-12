@@ -1,3 +1,0 @@
-gem 'file-tail'
-gem 'sentry-raven'
-gem 'json'

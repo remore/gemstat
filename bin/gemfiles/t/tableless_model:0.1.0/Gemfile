@@ -1,5 +1,0 @@
-gem 'validatable'
-gem 'sqlite3'
-gem 'activerecord'
-gem 'rspec'
-gem 'timecop'

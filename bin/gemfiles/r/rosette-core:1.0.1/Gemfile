@@ -1,4 +1,0 @@
-gem 'progress-reporters'
-gem 'activesupport'
-gem 'aasm'
-gem 'concurrent-ruby'

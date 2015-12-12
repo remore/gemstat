@@ -1,7 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'rest-client'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

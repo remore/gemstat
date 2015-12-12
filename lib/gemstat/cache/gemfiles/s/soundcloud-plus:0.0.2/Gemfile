@@ -1,0 +1,6 @@
+gem 'soundcloud'
+gem 'i18n'
+gem 'activesupport'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

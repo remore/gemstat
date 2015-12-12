@@ -1,5 +1,0 @@
-gem 'ruboty'
-gem 'ruboty-redis'
-gem 'bundler'
-gem 'pry'
-gem 'rake'

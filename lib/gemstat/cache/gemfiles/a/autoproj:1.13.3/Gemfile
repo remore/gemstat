@@ -1,0 +1,5 @@
+gem 'autobuild'
+gem 'utilrb'
+gem 'highline'
+gem 'rdoc'
+gem 'hoe'

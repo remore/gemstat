@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'haml'
+gem 'jeweler'
+gem 'rspec'

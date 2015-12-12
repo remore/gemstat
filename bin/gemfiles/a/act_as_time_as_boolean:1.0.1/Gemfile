@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'rake'
-gem 'coveralls'
-gem 'json'
-gem 'combustion'
-gem 'rspec-rails'
-gem 'sqlite3'
-gem 'activerecord'

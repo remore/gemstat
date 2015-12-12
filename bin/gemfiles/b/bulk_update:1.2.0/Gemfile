@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'rspec'
-gem 'sqlite3'
-gem 'pg'
-gem 'mysql2'
-gem 'pry'

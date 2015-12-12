@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'addressable'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

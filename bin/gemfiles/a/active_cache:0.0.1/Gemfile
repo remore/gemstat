@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'dalli'
-gem 'sqlite3'

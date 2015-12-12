@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'fuubar'
-gem 'bundler'
-gem 'rake'

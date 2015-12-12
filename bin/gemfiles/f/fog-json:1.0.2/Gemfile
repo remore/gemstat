@@ -1,5 +1,0 @@
-gem 'fog-core'
-gem 'multi_json'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

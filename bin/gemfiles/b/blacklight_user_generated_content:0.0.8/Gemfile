@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'blacklight'
-gem 'rsolr-ext'
-gem 'cancan'
-gem 'acts-as-taggable-on'
-gem 'acts_as_commentable'

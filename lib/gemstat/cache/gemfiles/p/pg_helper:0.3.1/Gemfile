@@ -1,0 +1,6 @@
+gem 'pg'
+gem 'rake'
+gem 'rspec'
+gem 'wirble'
+gem 'yard'
+gem 'bluecloth'

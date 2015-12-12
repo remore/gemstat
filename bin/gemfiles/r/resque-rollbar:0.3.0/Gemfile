@@ -1,6 +1,0 @@
-gem 'resque'
-gem 'rollbar'
-gem 'rake'
-gem 'json'
-gem 'bundler'
-gem 'rspec'

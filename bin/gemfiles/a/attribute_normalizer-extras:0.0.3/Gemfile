@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'rspec-instafail'
-gem 'simplecov'
-gem 'attribute_normalizer'

@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'sequel'
-gem 'logstash-devutils'
-gem 'jdbc-derby'

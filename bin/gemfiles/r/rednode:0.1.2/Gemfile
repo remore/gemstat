@@ -1,3 +1,0 @@
-gem 'therubyracer'
-gem 'eventmachine'
-gem 'rspec'

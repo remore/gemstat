@@ -1,0 +1,4 @@
+gem 'haml'
+gem 'kramdown'
+gem 'nokogiri'
+gem 'mime-types'

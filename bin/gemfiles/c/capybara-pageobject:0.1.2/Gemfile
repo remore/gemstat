@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'mocha'
-gem 'sinatra'
-gem 'capybara'
-gem 'capybara'
-gem 'rspec-expectations'

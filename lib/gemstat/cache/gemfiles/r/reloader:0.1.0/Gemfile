@@ -1,0 +1,4 @@
+gem 'rspactor'
+gem 'faye'
+gem 'thin'
+gem 'rev'

@@ -1,0 +1,6 @@
+gem 'coffee-script'
+gem 'paint'
+gem 'rack-flash3'
+gem 'rack-test'
+gem 'sass'
+gem 'sinatra'

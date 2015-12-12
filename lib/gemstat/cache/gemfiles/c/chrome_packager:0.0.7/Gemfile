@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'haml'
+gem 'sprockets'
+gem 'herman-haml-sprockets'
+gem 'sass'
+gem 'coffee-script'
+gem 'thor'

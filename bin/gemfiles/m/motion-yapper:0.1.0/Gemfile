@@ -1,4 +1,0 @@
-gem 'motion-support'
-gem 'motion-cocoapods'
-gem 'motion-logger'
-gem 'motion-redgreen'

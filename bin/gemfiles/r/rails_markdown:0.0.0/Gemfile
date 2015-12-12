@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'rdiscount'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

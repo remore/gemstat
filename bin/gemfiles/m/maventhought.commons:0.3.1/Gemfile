@@ -1,4 +1,0 @@
-gem 'castle.windsor'
-gem 'commonservicelocator'
-gem 'microsoft.composite'
-gem 'maventhought.testing'

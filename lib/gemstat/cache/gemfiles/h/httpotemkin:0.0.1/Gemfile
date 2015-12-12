@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'given_filesystem'
+gem 'cli_tester'
+gem 'terminal-table'

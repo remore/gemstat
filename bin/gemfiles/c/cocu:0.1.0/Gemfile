@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'cucumber'
-gem 'sqlite3'

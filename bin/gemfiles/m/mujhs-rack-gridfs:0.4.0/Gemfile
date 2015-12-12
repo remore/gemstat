@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'mongo'
-gem 'mocha'
-gem 'rack-test'
-gem 'shoulda'

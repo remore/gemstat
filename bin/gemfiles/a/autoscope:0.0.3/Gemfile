@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'will_paginate'
-gem 'bundler'
-gem 'guard-rspec'
-gem 'rake'

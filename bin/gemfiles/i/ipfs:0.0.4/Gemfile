@@ -1,7 +1,0 @@
-gem 'http'
-gem 'bundler'
-gem 'rake'
-gem 'byebug'
-gem 'rspec'
-gem 'webmock'
-gem 'sinatra'

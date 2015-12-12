@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'rspec'
-gem 'pry'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'fuubar'
-gem 'rb-inotify'

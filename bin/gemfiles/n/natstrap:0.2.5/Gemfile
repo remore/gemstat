@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'git'
-gem 'fog'
-gem 'padrino'
-gem 'rake'
-gem 'thor'
-gem 'zipruby'

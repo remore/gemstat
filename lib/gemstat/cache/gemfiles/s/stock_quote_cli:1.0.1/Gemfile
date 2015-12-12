@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'stock_quote'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'pry'

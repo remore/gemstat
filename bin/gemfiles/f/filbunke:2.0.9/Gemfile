@@ -1,6 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'json'
-gem 'typhoeus'
-gem 'open4'
-gem 'mime-types'
-gem 'parallel'

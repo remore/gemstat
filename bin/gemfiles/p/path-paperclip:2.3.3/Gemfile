@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'mime-types'
-gem 'shoulda'
-gem 'mocha'
-gem 'aws-s3'
-gem 'sqlite3-ruby'

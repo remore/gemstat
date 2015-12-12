@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'capybara'
-gem 'mocha'
-gem 'sinatra'

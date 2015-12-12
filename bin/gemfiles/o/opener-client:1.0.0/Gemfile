@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'activesupport'
-gem 'httpclient'
-gem 'bundler'
-gem 'rake'

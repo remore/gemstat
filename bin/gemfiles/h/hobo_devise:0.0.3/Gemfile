@@ -1,3 +1,0 @@
-gem 'hobo'
-gem 'devise'
-gem 'devise_oauth2_facebook'

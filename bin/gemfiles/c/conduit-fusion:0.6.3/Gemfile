@@ -1,6 +1,0 @@
-gem 'conduit'
-gem 'nokogiri'
-gem 'StreetAddress'
-gem 'shoulda-matchers'
-gem 'rspec'
-gem 'rspec-its'

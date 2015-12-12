@@ -1,8 +1,0 @@
-gem 'fog'
-gem 'highline'
-gem 'readwritesettings'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-fire'
-gem 'aruba'

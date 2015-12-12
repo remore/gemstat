@@ -1,6 +1,0 @@
-gem 'multi_json'
-gem 'rest-client'
-gem 'redcarpet'
-gem 'rspec'
-gem 'webmock'
-gem 'yard'

@@ -1,5 +1,0 @@
-gem 'rugged'
-gem 'pry'
-gem 'shoulda'
-gem 'rake'
-gem 'ruby-prof'

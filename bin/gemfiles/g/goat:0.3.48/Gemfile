@@ -1,7 +1,0 @@
-gem 'io-extra'
-gem 'eventmachine'
-gem 'thin'
-gem 'term-ansicolor'
-gem 'tilt'
-gem 'diff-lcs'
-gem 'RubyInline'

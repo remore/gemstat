@@ -1,7 +1,0 @@
-gem 'hashie'
-gem 'algorithms'
-gem 'pry'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'activerecord'

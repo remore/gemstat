@@ -1,6 +1,0 @@
-gem 'concurrent-ruby'
-gem 'rubocop'
-gem 'yard'
-gem 'simplecov'
-gem 'mocha'
-gem 'minitest-spec-context'

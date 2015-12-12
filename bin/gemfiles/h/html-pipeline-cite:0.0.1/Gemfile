@@ -1,5 +1,0 @@
-gem 'html-pipeline'
-gem 'minitest'
-gem 'rake'
-gem 'redcarpet'
-gem 'yard'

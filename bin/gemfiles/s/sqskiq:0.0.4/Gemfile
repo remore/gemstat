@@ -1,4 +1,0 @@
-gem 'celluloid'
-gem 'aws-sdk'
-gem 'activesupport'
-gem 'rspec'

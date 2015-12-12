@@ -1,6 +1,0 @@
-gem 'state_design_pattern'
-gem 'rake'
-gem 'minitest'
-gem 'coveralls'
-gem 'redcarpet'
-gem 'yard'

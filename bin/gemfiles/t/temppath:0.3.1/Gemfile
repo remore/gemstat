@@ -1,5 +1,0 @@
-gem 'uuidtools'
-gem 'bacon'
-gem 'yard'
-gem 'redcarpet'
-gem 'rake'

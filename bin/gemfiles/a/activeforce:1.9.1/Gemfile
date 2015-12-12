@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'savon'
-gem 'blockenspiel'
-gem 'rest-client'
-gem 'fastercsv'

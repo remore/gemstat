@@ -1,5 +1,0 @@
-gem 'iso'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rdoc'

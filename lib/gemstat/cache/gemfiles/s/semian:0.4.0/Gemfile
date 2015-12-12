@@ -1,0 +1,6 @@
+gem 'rake-compiler'
+gem 'timecop'
+gem 'mysql2'
+gem 'redis'
+gem 'thin'
+gem 'toxiproxy'

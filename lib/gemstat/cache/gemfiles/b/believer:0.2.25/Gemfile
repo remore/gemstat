@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'cql-rb'
+gem 'connection_pool'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rails-observers'

@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rr'
-gem 'rake'
-gem 'eventmachine'
-gem 'http_parser.rb'

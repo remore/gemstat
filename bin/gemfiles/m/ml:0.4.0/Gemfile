@@ -1,7 +1,0 @@
-gem 'rubyvis'
-gem 'nokogiri'
-gem 'bacon'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

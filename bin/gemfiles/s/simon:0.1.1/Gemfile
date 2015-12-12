@@ -1,5 +1,0 @@
-gem 'shoulda'
-gem 'rinject'
-gem 'progressbar'
-gem 'trollop'
-gem 'transmission'

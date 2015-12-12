@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'twitter'
-gem 'sequel'
-gem 'sqlite3'

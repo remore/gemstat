@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'fakeweb'

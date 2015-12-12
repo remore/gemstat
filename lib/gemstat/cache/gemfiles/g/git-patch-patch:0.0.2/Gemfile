@@ -1,0 +1,5 @@
+gem 'getopt'
+gem 'git-trifle'
+gem 'pedlar'
+gem 'pathstring'
+gem 'rspec'

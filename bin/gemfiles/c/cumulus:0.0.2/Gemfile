@@ -1,6 +1,0 @@
-gem 'cloudability'
-gem 'netrc'
-gem 'thor'
-gem 'terminal-table'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'thor'
-gem 'rufus-lua'
-gem 'msgpack'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'binding_of_caller'

@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

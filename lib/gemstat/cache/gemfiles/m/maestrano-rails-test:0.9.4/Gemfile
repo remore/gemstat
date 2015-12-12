@@ -1,0 +1,8 @@
+gem 'maestrano-ruby-test'
+gem 'test-unit'
+gem 'mocha'
+gem 'shoulda'
+gem 'database_cleaner'
+gem 'sqlite3'
+gem 'mongoid'
+gem 'bson_ext'

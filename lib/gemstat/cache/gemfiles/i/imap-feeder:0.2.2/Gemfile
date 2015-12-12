@@ -1,0 +1,6 @@
+gem 'actionmailer'
+gem 'hpricot'
+gem 'htmlentities'
+gem 'tidy'
+gem 'simple-rss'
+gem 'hoe'

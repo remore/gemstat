@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'acts_as_fu'

@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'minitest'
+gem 'simplecov'
+gem 'coveralls'
+gem 'yard'
+gem 'bundler'
+gem 'rake'

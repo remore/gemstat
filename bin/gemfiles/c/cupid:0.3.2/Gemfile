@@ -1,4 +1,0 @@
-gem 'builder'
-gem 'nokogiri'
-gem 'savon'
-gem 'rspec'

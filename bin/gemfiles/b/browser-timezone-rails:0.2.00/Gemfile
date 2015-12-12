@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'jquery-cookie-rails'
-gem 'jstz-rails'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'launchy'
-gem 'sqlite3'

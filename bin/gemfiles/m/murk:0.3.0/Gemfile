@@ -1,8 +1,0 @@
-gem 'api_cache'
-gem 'aws-sdk'
-gem 'json'
-gem 'clamp'
-gem 'pry'
-gem 'rubocop'
-gem 'rspec'
-gem 'simplecov'

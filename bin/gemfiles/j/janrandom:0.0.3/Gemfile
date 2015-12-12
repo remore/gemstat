@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'i18n'
-gem 'faker'
-gem 'rest-client'
-gem 'terminal-table'

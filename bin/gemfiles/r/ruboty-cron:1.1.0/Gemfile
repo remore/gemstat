@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'chrono'
-gem 'ruboty'
-gem 'bundler'
-gem 'rake'

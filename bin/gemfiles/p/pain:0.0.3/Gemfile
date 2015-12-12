@@ -1,8 +1,0 @@
-gem 'term-ansicolor'
-gem 'tins'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'simplecov-rcov'
-gem 'pry'

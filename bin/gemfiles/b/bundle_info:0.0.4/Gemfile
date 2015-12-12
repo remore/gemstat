@@ -1,8 +1,0 @@
-gem 'gemnasium-parser'
-gem 'gems'
-gem 'activesupport'
-gem 'colored'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'aruba'

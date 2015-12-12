@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'hpricot'
-gem 'shoulda'
-gem 'mocha'

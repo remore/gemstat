@@ -1,0 +1,7 @@
+gem 'nickel'
+gem 'phony'
+gem 'sentiment_parser'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'nokogiri'
+gem 'rails'
+gem 'multi_json'
+gem 'multi_xml'
+gem 'roxml'
+gem 'rest_client'

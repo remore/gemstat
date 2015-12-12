@@ -1,8 +1,0 @@
-gem 'curb'
-gem 'simple_metar_parser'
-gem 'colorize'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'rdoc'

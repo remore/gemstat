@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'rspec'
+gem 'mocha'
+gem 'fakeweb'

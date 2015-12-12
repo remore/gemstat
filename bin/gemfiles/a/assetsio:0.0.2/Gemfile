@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'rdoc'
-gem 'rspec'
-gem 'rake'

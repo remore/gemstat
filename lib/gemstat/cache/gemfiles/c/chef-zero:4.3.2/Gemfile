@@ -1,0 +1,8 @@
+gem 'mixlib-log'
+gem 'hashie'
+gem 'uuidtools'
+gem 'ffi-yajl'
+gem 'rack'
+gem 'rake'
+gem 'rspec'
+gem 'github_changelog_generator'

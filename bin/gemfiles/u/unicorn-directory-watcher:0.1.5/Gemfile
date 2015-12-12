@@ -1,4 +1,0 @@
-gem 'directory_watcher'
-gem 'eventmachine'
-gem 'rev'
-gem 'sinatra'

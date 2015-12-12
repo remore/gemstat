@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'fluent-logger'
-gem 'rails'

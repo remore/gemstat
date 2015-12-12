@@ -1,7 +1,0 @@
-gem 'octokit'
-gem 'thor'
-gem 'launchy'
-gem 'bundler'
-gem 'minitest'
-gem 'mocha'
-gem 'rake'

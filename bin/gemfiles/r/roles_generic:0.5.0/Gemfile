@@ -1,7 +1,0 @@
-gem 'require_all'
-gem 'activesupport'
-gem 'sugar-high'
-gem 'rails_artifactor'
-gem 'jeweler'
-gem 'bundler'
-gem 'rdoc'

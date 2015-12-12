@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'cucumber'
-gem 'rake'
-gem 'pry'
-gem 'rspec-expectations'

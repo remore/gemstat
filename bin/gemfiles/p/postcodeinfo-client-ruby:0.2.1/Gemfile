@@ -1,8 +1,0 @@
-gem 'json'
-gem 'rest-client'
-gem 'bundler'
-gem 'codeclimate-test-reporter'
-gem 'jeweler'
-gem 'rdoc'
-gem 'rspec'
-gem 'simplecov'

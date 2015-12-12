@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'resque-pool'
+gem 'io-tail'
+gem 'rake'
+gem 'ripl'

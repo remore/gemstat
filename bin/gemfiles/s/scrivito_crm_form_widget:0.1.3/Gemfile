@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'scrivito_sdk'
-gem 'scrivito_advanced_editors'
-gem 'active_attr'
-gem 'infopark_webcrm_sdk'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'hpricot'
-gem 'narf'
-gem 'hoe'

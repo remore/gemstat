@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'http'
+gem 'nokogiri'
+gem 'celluloid-io'

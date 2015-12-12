@@ -1,4 +1,0 @@
-gem 'classifier'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

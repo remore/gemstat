@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'enumerize'
-gem 'vmstat'
-gem 'sqlite3'

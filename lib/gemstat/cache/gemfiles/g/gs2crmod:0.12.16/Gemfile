@@ -1,0 +1,8 @@
+gem 'coderunner'
+gem 'rubyhacks'
+gem 'ruby-netcdf'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'minitest'

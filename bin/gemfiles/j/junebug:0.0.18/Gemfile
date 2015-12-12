@@ -1,6 +1,0 @@
-gem 'mongrel'
-gem 'camping'
-gem 'RedCloth'
-gem 'daemons'
-gem 'sqlite3-ruby'
-gem 'activerecord'

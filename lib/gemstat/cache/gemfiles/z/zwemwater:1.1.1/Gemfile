@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'httparty'
+gem 'rake'
+gem 'webmock'

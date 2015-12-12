@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'erubis'
-gem 'jmx4r'
-gem 'mixlib-cli'
-gem 'multi_json'
-gem 'terminal-table'

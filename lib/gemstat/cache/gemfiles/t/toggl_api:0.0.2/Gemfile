@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'hashie'
+gem 'multi_json'
+gem 'minitest'
+gem 'rack-test'

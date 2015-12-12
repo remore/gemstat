@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'mocha'
+gem 'mechanize'
+gem 'highline'
+gem 'rainbow'

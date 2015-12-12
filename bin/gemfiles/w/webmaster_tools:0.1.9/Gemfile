@@ -1,5 +1,0 @@
-gem 'mechanize'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'

@@ -1,0 +1,5 @@
+gem 'bini'
+gem 'git'
+gem 'github_api'
+gem 'slop'
+gem 'yajl-ruby'

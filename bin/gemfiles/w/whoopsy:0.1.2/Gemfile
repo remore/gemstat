@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'ruby-lint'
-gem 'trollop'
-gem 'whoops_logger'
-gem 'crack'

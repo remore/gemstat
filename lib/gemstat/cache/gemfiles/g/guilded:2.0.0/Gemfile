@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'guard'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'rspec'
+gem 'activesupport'
+gem 'rails'

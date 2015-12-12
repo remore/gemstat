@@ -1,0 +1,6 @@
+gem 'icalendar'
+gem 'pivotal-tracker'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

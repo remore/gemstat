@@ -1,4 +1,0 @@
-gem 'bourbon'
-gem 'normalize-rails'
-gem 'bundler'
-gem 'rake'

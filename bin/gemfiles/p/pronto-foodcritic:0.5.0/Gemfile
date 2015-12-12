@@ -1,5 +1,0 @@
-gem 'foodcritic'
-gem 'pronto'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'

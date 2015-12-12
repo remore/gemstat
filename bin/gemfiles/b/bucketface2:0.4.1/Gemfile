@@ -1,6 +1,0 @@
-gem 'fakeweb'
-gem 'jnunemaker-matchy'
-gem 'mocha'
-gem 'rspec'
-gem 'hashie'
-gem 'httparty'

@@ -1,8 +1,0 @@
-gem 'actionpack'
-gem 'activesupport'
-gem 'railties'
-gem 'bundler'
-gem 'rake'
-gem 'tzinfo'
-gem 'rspec'
-gem 'pry'

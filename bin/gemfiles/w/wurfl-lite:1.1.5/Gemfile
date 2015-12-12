@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'amatch'
-gem 'bundler'
-gem 'rake'

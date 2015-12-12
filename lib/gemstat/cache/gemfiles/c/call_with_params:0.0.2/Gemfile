@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'shoulda'
+gem 'mocha'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'
+gem 'debugger'

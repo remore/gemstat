@@ -1,8 +1,0 @@
-gem 'rdf'
-gem 'json-ld'
-gem 'rdf-rdfa'
-gem 'webmachine'
-gem 'addressable'
-gem 'excon'
-gem 'tilt'
-gem 'valise'

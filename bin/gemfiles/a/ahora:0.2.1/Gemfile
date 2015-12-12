@@ -1,5 +1,0 @@
-gem 'nibbler'
-gem 'faraday'
-gem 'nokogiri'
-gem 'fakeweb'
-gem 'minitest'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'octokit'
+gem 'json'
+gem 'multi_json'
+gem 'highline'
+gem 'faraday'
+gem 'faraday_middleware'

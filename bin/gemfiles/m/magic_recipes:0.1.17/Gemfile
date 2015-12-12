@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'capistrano'
-gem 'rvm-capistrano'
-gem 'rspec-rails'

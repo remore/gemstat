@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rack-oauth2-server'
-gem 'rspec'
-gem 'rspec-rails'

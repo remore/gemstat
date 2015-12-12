@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'activerecord-postgres-hstore'
-gem 'pg'
-gem 'test-unit'
-gem 'rspec-rails'

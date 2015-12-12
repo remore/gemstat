@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rdcms'
-gem 'devise'
-gem 'activeadmin'
-gem 'issuu'

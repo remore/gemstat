@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'shoulda'
-gem 'mocha'
-gem 'rubyforge'
-gem 'git'
-gem 'technicalpickles-jeweler'

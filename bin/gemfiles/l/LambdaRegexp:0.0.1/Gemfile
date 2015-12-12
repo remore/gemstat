@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'guard'
-gem 'rdoc'
-gem 'rb-readline'

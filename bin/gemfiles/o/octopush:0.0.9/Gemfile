@@ -1,3 +1,0 @@
-gem 'thor'
-gem 'github_api'
-gem 'highline'

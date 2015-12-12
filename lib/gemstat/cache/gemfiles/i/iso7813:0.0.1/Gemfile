@@ -1,0 +1,2 @@
+gem 'rspec'
+gem 'iso7812'

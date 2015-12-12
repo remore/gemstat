@@ -1,5 +1,0 @@
-gem 'em-ftpd'
-gem 'eventmachine'
-gem 'minitest'
-gem 'bundler'
-gem 'rake'

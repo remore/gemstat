@@ -1,3 +1,0 @@
-gem 'My-Commerce_core'
-gem 'devise'
-gem 'cancan'

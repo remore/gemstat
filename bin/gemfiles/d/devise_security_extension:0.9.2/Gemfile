@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'rails_email_validator'
-gem 'easy_captcha'
-gem 'bundler'
-gem 'jeweler'
-gem 'sqlite3'

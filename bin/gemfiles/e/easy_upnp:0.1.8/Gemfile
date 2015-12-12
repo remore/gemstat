@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'savon'
-gem 'nori'
-gem 'nokogiri'
-gem 'rspec'

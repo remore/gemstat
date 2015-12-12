@@ -1,7 +1,0 @@
-gem 'daemons'
-gem 'activesupport'
-gem 'rails'
-gem 'rspec'
-gem 'rake'
-gem 'sqlite3'
-gem 'mysql'

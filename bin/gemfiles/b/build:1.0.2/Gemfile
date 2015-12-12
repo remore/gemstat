@@ -1,7 +1,0 @@
-gem 'build-graph'
-gem 'build-environment'
-gem 'build-makefile'
-gem 'graphviz'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

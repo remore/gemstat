@@ -1,3 +1,0 @@
-gem 'mocha'
-gem 'nokogiri'
-gem 'net-http-persistent'

@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

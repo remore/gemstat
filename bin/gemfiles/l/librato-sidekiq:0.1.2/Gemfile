@@ -1,3 +1,0 @@
-gem 'sidekiq'
-gem 'mini_shoulda'
-gem 'mocha'

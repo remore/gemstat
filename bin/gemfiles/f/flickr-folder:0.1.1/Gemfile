@@ -1,4 +1,0 @@
-gem 'shoulda'
-gem 'flickr_fu'
-gem 'sqlite3-ruby'
-gem 'sequel'

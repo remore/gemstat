@@ -1,4 +1,0 @@
-gem 'rubyforge'
-gem 'gemcutter'
-gem 'rake-compiler'
-gem 'hoe'

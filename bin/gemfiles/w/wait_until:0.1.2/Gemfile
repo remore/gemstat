@@ -1,5 +1,0 @@
-gem 'travis-lint'
-gem 'metric_fu'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

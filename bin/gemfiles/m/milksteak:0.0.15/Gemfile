@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'webmock'
-gem 'rack-test'
-gem 'liquid'
-gem 'rdiscount'
-gem 'sinatra'
-gem 'coffee-script'

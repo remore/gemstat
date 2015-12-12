@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'time_travel'
-gem 'json'
-gem 'nokogiri'
-gem 'mechanize'

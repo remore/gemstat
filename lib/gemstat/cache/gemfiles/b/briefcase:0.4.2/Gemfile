@@ -1,0 +1,6 @@
+gem 'commander'
+gem 'escape'
+gem 'minitest'
+gem 'open4'
+gem 'rake'
+gem 'turn'

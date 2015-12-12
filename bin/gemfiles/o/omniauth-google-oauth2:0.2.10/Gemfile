@@ -1,7 +1,0 @@
-gem 'omniauth'
-gem 'omniauth-oauth2'
-gem 'jwt'
-gem 'multi_json'
-gem 'addressable'
-gem 'rspec'
-gem 'rake'

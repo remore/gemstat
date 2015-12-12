@@ -1,4 +1,0 @@
-gem 'unicode_utils'
-gem 'minitest'
-gem 'rake'
-gem 'rdoc'

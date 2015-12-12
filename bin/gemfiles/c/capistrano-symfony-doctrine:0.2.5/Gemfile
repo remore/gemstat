@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-symfony'
-gem 'bundler'
-gem 'rake'

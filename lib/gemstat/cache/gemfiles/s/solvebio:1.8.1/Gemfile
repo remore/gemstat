@@ -1,0 +1,6 @@
+gem 'netrc'
+gem 'rest-client'
+gem 'addressable'
+gem 'rake'
+gem 'rdoc'
+gem 'webmock'

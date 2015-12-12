@@ -1,7 +1,0 @@
-gem 'oauth2'
-gem 'rainbow'
-gem 'protobuf'
-gem 'pry'
-gem 'rubocop'
-gem 'rspec'
-gem 'rake'

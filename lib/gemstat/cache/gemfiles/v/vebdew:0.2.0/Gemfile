@@ -1,0 +1,6 @@
+gem 'erubis'
+gem 'htmlentities'
+gem 'bacon'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

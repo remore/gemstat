@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'jruby-pageant'
-gem 'net-sftp'

@@ -1,8 +1,0 @@
-gem 'rgeo'
-gem 'rgeo-geojson'
-gem 'ffi-geos'
-gem 'diffy'
-gem 'rake'
-gem 'mocha'
-gem 'bundler'
-gem 'pry'

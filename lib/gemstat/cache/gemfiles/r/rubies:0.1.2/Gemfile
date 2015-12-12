@@ -1,0 +1,6 @@
+gem 'faker'
+gem 'colorize'
+gem 'awesome_print'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

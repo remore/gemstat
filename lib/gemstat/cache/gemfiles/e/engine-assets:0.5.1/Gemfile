@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'rake'
+gem 'rr'
+gem 'rspec'
+gem 'jeweler'
+gem 'term-ansicolor'

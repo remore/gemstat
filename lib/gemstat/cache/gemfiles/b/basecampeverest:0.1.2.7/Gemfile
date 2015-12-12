@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'json'
+gem 'oauth2'
+gem 'activeresource'
+gem 'rake'
+gem 'mg'
+gem 'rspec'

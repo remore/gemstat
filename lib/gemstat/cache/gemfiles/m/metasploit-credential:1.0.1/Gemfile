@@ -1,0 +1,8 @@
+gem 'metasploit-version'
+gem 'metasploit-concern'
+gem 'metasploit_data_models'
+gem 'metasploit-model'
+gem 'railties'
+gem 'rubyntlm'
+gem 'rubyzip'
+gem 'pg'

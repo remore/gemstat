@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'everyday-cli-utils'
-gem 'everyday-plugins'
-gem 'everyday_thor_util'
-gem 'thor'
-gem 'mvn2'

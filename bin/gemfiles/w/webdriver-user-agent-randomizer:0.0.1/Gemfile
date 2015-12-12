@@ -1,6 +1,0 @@
-gem 'selenium-webdriver'
-gem 'facets'
-gem 'json'
-gem 'nokogiri'
-gem 'rspec'
-gem 'watir-webdriver'

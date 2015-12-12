@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'dm-core'
-gem 'aws-sdb'

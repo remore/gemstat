@@ -1,0 +1,6 @@
+gem 'log4r'
+gem 'jeweler'
+gem 'shoulda'
+gem 'bundler'
+gem 'rspec'
+gem 'rdoc'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'vcr'
-gem 'fakeweb'
-gem 'sqlite3'
-gem 'guard-test'
-gem 'mocha'

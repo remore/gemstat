@@ -1,0 +1,8 @@
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'thor'
+gem 'rails'
+gem 'rake'
+gem 'sugar-high'

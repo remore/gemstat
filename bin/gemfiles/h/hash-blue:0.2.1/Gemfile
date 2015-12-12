@@ -1,5 +1,0 @@
-gem 'json_pure'
-gem 'oauth'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'rails'

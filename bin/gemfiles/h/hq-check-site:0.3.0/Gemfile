@@ -1,7 +1,0 @@
-gem 'hq-tools'
-gem 'libxml-ruby'
-gem 'cucumber'
-gem 'rake'
-gem 'rspec'
-gem 'rspec_junit_formatter'
-gem 'simplecov'

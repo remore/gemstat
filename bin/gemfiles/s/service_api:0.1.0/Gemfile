@@ -1,8 +1,0 @@
-gem 'faraday'
-gem 'uri_template'
-gem 'queryparams'
-gem 'faraday_middleware'
-gem 'multi_xml'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'capistrano'
-gem 'rake'
-gem 'syntax'
-gem 'ZenTest'
-gem 'ruby-openid'
-gem 'brightbox'
-gem 'will_paginate'

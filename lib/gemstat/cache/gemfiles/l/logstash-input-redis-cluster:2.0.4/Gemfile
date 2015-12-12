@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'logstash-codec-json'
+gem 'hiredis'
+gem 'redis-rb-cluster'
+gem 'logstash-devutils'

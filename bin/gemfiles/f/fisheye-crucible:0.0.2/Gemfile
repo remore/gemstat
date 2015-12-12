@@ -1,8 +1,0 @@
-gem 'rest-client'
-gem 'rubyforge'
-gem 'hoe-yard'
-gem 'rspec'
-gem 'yard'
-gem 'hoe-yard'
-gem 'cucumber'
-gem 'hoe'

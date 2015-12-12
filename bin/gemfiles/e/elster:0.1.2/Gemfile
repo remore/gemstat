@@ -1,5 +1,0 @@
-gem 'multi_json'
-gem 'minitest'
-gem 'turn'
-gem 'pry'
-gem 'rails'

@@ -1,4 +1,0 @@
-gem 'jekyll'
-gem 'rspec'
-gem 'rake'
-gem 'spork'

@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'rest-client'
-gem 'rake'

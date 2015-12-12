@@ -1,3 +1,0 @@
-gem 'carrierwave'
-gem 'carrierwave-upyun'
-gem 'mini_magick'

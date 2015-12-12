@@ -1,6 +1,0 @@
-gem 'rspec-core'
-gem 'ruby_version'
-gem 'ruby_engine'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

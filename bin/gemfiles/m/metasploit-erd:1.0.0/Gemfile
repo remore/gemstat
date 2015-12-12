@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'metasploit-version'
-gem 'metasploit-yard'
-gem 'rake'
-gem 'rspec'
-gem 'activerecord'
-gem 'activesupport'
-gem 'rails-erd'

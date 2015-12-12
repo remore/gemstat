@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'timecop'
+gem 'activesupport'
+gem 'i18n'
+gem 'tzinfo'
+gem 'bundler'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'appium_thor'
-gem 'thor'
-gem 'pry'
-gem 'rubocop'
-gem 'waiting_rspec_matchers'

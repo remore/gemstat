@@ -1,4 +1,0 @@
-gem 'totem'
-gem 'activerecord'
-gem 'bundler'
-gem 'rake'

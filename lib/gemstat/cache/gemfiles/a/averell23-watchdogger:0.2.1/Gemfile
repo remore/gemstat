@@ -1,0 +1,6 @@
+gem 'file-tail'
+gem 'averell23-assit'
+gem 'rmail'
+gem 'builder'
+gem 'optiflag'
+gem 'tlsmail'

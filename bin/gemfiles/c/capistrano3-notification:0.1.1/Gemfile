@@ -1,6 +1,0 @@
-gem 'capistrano'
-gem 'shout-bot'
-gem 'slack-notifier'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'

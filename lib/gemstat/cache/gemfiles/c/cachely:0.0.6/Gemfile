@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'hiredis'
+gem 'em-synchrony'
+gem 'json'

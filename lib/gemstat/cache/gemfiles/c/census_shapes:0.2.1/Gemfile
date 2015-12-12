@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'pg'
+gem 'postgis_adapter'
+gem 'progress_bar'
+gem 'generator_spec'

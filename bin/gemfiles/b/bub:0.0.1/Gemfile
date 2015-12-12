@@ -1,5 +1,0 @@
-gem 'pit'
-gem 'http'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

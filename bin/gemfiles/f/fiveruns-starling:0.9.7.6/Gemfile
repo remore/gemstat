@@ -1,3 +1,0 @@
-gem 'fiveruns-memcache-client'
-gem 'SyslogLogger'
-gem 'eventmachine'

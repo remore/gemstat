@@ -1,4 +1,0 @@
-gem 'httmultiparty'
-gem 'launchy'
-gem 'rake'
-gem 'rspec'

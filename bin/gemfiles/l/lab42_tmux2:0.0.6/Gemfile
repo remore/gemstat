@@ -1,5 +1,0 @@
-gem 'lab42_core'
-gem 'forwarder2'
-gem 'pry'
-gem 'pry-nav'
-gem 'rspec'

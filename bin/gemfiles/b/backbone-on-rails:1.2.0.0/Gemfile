@@ -1,8 +1,0 @@
-gem 'railties'
-gem 'jquery-rails'
-gem 'ejs'
-gem 'eco'
-gem 'rails'
-gem 'sqlite3'
-gem 'test-unit'
-gem 'turn'

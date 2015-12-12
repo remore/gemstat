@@ -1,0 +1,6 @@
+gem 'oga'
+gem 'opener-core'
+gem 'rspec'
+gem 'cucumber'
+gem 'rake'
+gem 'cliver'

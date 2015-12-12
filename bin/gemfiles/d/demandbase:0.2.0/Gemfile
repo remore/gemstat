@@ -1,8 +1,0 @@
-gem 'json'
-gem 'public_suffix'
-gem 'rest-client'
-gem 'bundler'
-gem 'jeweler'
-gem 'mocha'
-gem 'rdoc'
-gem 'shoulda'

@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'thor'
-gem 'rspec'
-gem 'simplecov'

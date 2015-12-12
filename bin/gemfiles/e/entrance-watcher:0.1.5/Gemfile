@@ -1,5 +1,0 @@
-gem 'synapse-easy'
-gem 'synapse'
-gem 'unirest'
-gem 'bundler'
-gem 'rake'

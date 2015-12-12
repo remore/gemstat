@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'nokogiri'
-gem 'yahoo_weather'
-gem 'rake'

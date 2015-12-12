@@ -1,4 +1,0 @@
-gem 'virtus'
-gem 'railties'
-gem 'rspec'
-gem 'rake'

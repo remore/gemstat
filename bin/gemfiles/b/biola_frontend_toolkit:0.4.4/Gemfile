@@ -1,7 +1,0 @@
-gem 'bootstrap-sass'
-gem 'coffee-rails'
-gem 'font-awesome-rails'
-gem 'sass-rails'
-gem 'slim'
-gem 'bundler'
-gem 'rake'

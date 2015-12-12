@@ -1,4 +1,0 @@
-gem 'xcpretty'
-gem 'bundler'
-gem 'rake'
-gem 'bacon'

@@ -1,0 +1,4 @@
+gem 'addressable'
+gem 'faraday'
+gem 'multi_json'
+gem 'jwt'

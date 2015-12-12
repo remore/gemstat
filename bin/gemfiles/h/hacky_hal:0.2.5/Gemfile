@@ -1,3 +1,0 @@
-gem 'upnp-nickewing'
-gem 'serialport'
-gem 'net-ssh'

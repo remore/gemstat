@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'activerecord'
-gem 'activesupport'
-gem 'rake'
-gem 'sqlite3'
-gem 'rspec'
-gem 'temping'

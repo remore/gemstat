@@ -1,8 +1,0 @@
-gem 'rest-client'
-gem 'multi_mime'
-gem 'concurrent-ruby'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'codeclimate-test-reporter'
-gem 'byebug'

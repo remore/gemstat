@@ -1,3 +1,0 @@
-gem 'test-unit'
-gem 'rake-compiler'
-gem 'yard'

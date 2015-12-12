@@ -1,0 +1,5 @@
+gem 'sshkit'
+gem 'rake'
+gem 'i18n'
+gem 'rspec'
+gem 'mocha'

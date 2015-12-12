@@ -1,0 +1,8 @@
+gem 'backgrounded'
+gem 'resque'
+gem 'shoulda'
+gem 'resque_unit'
+gem 'mocha'
+gem 'sqlite3-ruby'
+gem 'rake'
+gem 'pry'

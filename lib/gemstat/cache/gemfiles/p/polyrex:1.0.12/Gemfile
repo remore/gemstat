@@ -1,0 +1,6 @@
+gem 'polyrex-schema'
+gem 'polyrex-objects'
+gem 'polyrex-createobject'
+gem 'polyrex-object-methods'
+gem 'recordx-xslt'
+gem 'dynarex'

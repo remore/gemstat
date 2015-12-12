@@ -1,4 +1,0 @@
-gem 'json'
-gem 'rspec'
-gem 'mocha'
-gem 'yard'

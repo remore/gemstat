@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'fog'
-gem 'opennebula'

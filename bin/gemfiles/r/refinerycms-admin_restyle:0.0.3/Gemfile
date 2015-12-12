@@ -1,4 +1,0 @@
-gem 'refinerycms-core'
-gem 'bundler'
-gem 'rake'
-gem 'refinerycms-testing'

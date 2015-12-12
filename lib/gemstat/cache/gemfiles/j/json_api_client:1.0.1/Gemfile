@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'addressable'
+gem 'activemodel'
+gem 'webmock'
+gem 'mocha'

@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'thrift'
-gem 'logstash-devutils'

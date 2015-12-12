@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'activerecord-postgis-adapter'
-gem 'pg'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'awesome_print'

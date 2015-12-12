@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rubycritic'
-gem 'equivalent-xml'
-gem 'rake'
-gem 'nokogiri'
-gem 'diffy'

@@ -1,6 +1,0 @@
-gem 'jim'
-gem 'fssm'
-gem 'thor'
-gem 'activesupport'
-gem 'rack'
-gem 'rspec'

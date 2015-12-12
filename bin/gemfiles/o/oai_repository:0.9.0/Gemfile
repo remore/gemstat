@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'oai'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'capybara'

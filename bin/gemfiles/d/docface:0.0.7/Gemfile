@@ -1,4 +1,0 @@
-gem 'rainbow'
-gem 'trollop'
-gem 'kramdown'
-gem 'coderay'

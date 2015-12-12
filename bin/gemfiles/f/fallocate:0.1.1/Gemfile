@@ -1,6 +1,0 @@
-gem 'ffi'
-gem 'bundler'
-gem 'jeweler'
-gem 'minitest'
-gem 'simplecov'
-gem 'yard'

@@ -1,8 +1,0 @@
-gem 'rdiscount'
-gem 'haml'
-gem 'twitter'
-gem 'choice'
-gem 'net-ssh'
-gem 'net-sftp'
-gem 'kramdown'
-gem 'coderay'

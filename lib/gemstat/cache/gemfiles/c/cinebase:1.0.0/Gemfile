@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'codeclimate-test-reporter'

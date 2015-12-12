@@ -1,0 +1,5 @@
+gem 'carrot'
+gem 'choice'
+gem 'rake'
+gem 'dust'
+gem 'shindo'

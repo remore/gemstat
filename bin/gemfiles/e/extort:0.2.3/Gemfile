@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'pry'
-gem 'rake'
-gem 'sequel'

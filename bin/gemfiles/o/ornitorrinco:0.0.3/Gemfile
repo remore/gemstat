@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'yajl-ruby'
-gem 'nestful'
-gem 'i18n'

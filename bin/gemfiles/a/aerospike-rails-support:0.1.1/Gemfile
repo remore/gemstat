@@ -1,8 +1,0 @@
-gem 'aerospike'
-gem 'hashie'
-gem 'activesupport'
-gem 'actionpack'
-gem 'rake'
-gem 'rubygems-tasks'
-gem 'bundler'
-gem 'rspec'

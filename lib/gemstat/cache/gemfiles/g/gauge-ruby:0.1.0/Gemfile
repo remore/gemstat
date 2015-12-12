@@ -1,0 +1,4 @@
+gem 'ruby-protocol-buffers'
+gem 'os'
+gem 'parser'
+gem 'method_source'

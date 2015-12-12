@@ -1,0 +1,2 @@
+gem 'arelastic'
+gem 'activemodel'

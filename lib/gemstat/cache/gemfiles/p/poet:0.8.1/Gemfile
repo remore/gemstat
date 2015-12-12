@@ -1,0 +1,4 @@
+gem 'cucumber'
+gem 'aruba'
+gem 'rake'
+gem 'thor'

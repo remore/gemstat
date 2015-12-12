@@ -1,0 +1,6 @@
+gem 'mixlib-cli'
+gem 'nokogiri'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'pry'
+gem 'rspec'

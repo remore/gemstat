@@ -1,0 +1,2 @@
+gem 'pkg-config'
+gem 'test-unit'

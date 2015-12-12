@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'omniauth-oauth2'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'virtus'

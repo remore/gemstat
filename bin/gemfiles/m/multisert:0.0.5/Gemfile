@@ -1,4 +1,0 @@
-gem 'mysql2'
-gem 'rake'
-gem 'cane'
-gem 'rspec'

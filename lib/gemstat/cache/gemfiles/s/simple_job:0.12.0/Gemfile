@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'aws-sdk-v1'
+gem 'fog'

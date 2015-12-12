@@ -1,3 +1,0 @@
-gem 'libxml-ruby'
-gem 'bundler'
-gem 'rake'

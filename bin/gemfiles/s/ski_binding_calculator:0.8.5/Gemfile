@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'rspec'
-gem 'spork'
-gem 'simplecov'
-gem 'timecop'
-gem 'fuubar'

@@ -1,5 +1,0 @@
-gem 'execjs'
-gem 'handlebars-source'
-gem 'rake'
-gem 'rspec'
-gem 'bundler'

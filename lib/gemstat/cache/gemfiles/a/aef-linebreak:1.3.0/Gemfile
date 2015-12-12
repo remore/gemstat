@@ -1,0 +1,4 @@
+gem 'user-choices'
+gem 'rspec'
+gem 'popen4'
+gem 'hoe'

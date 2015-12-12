@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'curb'
+gem 'json'
+gem 'bundler'
+gem 'rake'

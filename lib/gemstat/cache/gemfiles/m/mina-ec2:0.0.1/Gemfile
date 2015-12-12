@@ -1,0 +1,5 @@
+gem 'mina'
+gem 'aws-sdk-v1'
+gem 'parallel'
+gem 'bundler'
+gem 'rake'

@@ -1,4 +1,0 @@
-gem 'fenix-core'
-gem 'mail'
-gem 'rspec'
-gem 'rake'

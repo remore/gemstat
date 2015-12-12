@@ -1,0 +1,2 @@
+gem 'fanforce'
+gem 'fanforce-exceptions'

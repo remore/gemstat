@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'msgpack'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'rack-test'
+gem 'sinatra'
+gem 'sinatra-contrib'

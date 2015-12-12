@@ -1,0 +1,4 @@
+gem 'sidekiq'
+gem 'slim'
+gem 'jquery-datatables-rails'
+gem 'rails-datatables'

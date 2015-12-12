@@ -1,5 +1,6 @@
-# gemstat
-gemstat is a gem usage analyzer which tells you the number of gems used and even similarlity of each gems
+gemstat is a gem usage analyzer which tells you the number of gems used and even similarlity of each gems.
+
+# Usage
 
 ```
 # Install
@@ -54,7 +55,6 @@ MIT
 
 ### TODO
 
-- Add `list`, `popular` and `version` subcommands(instead of `summary` command)
 - Modify `update` subcommand to allow incremental update
 - Update README.md and gemstat.gemspec with better descriptions
 - Windows support (Now only Mac and Linux is supported)

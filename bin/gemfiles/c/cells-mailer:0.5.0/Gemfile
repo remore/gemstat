@@ -1,5 +1,0 @@
-gem 'cells'
-gem 'mail'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

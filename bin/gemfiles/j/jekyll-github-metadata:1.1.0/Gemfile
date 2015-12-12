@@ -1,6 +1,0 @@
-gem 'octokit'
-gem 'bundler'
-gem 'rake'
-gem 'netrc'
-gem 'rspec'
-gem 'jekyll'

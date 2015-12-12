@@ -1,3 +1,0 @@
-gem 'log4r'
-gem 'remote_syslog_logger'
-gem 'rspec'

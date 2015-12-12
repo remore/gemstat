@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'meta_methods'
+gem 'file_utils'
+gem 'dir_dsl'
+gem 'zip_dsl'
+gem 'gemspec_deps_gen'
+gem 'gemcutter'

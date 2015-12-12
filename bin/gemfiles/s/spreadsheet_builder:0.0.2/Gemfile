@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'spreadsheet'
-gem 'css_parser'
-gem 'shade'

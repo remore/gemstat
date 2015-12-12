@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'capybara'
+gem 'guard-rspec'
+gem 'guard-spork'
+gem 'poltergeist'
+gem 'rb-fsevent'
+gem 'rspec-rails'

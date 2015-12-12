@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'thoughtbot-shoulda'
-gem 'sqlite3'

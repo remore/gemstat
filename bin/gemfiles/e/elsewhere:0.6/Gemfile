@@ -1,3 +1,0 @@
-gem 'minitest'
-gem 'net-ssh'
-gem 'net-ssh-gateway'

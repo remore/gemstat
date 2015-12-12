@@ -1,7 +1,0 @@
-gem 'state_machine'
-gem 'rspec'
-gem 'rake'
-gem 'rdoc'
-gem 'guard-rspec'
-gem 'growl'
-gem 'timecop'

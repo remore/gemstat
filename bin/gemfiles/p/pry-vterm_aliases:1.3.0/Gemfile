@@ -1,4 +1,0 @@
-gem 'pry'
-gem 'rspec'
-gem 'envygeeks-coveralls'
-gem 'luna-rspec-formatters'

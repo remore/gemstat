@@ -1,4 +1,0 @@
-gem 'wires'
-gem 'rake'
-gem 'wires-test'
-gem 'jemc-reporter'

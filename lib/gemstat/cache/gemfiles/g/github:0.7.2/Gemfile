@@ -1,0 +1,8 @@
+gem 'text-hyphen'
+gem 'text-format'
+gem 'highline'
+gem 'json_pure'
+gem 'launchy'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'

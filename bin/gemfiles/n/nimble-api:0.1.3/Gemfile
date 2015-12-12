@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'pry'
-gem 'faraday'
-gem 'chronic'
-gem 'json'

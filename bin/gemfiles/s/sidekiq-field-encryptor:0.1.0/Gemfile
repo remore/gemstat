@@ -1,5 +1,0 @@
-gem 'encryptor'
-gem 'bundler'
-gem 'aptible-tasks'
-gem 'rake'
-gem 'rspec'

@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'path'
-gem 'quickl'
-gem 'awesome_print'
-gem 'yargi'
-gem 'gisele-analysis'

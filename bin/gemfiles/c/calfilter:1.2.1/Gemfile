@@ -1,4 +1,0 @@
-gem 'icalendar'
-gem 'mocha'
-gem 'rake'
-gem 'rspec'

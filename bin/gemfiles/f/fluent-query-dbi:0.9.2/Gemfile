@@ -1,7 +1,0 @@
-gem 'fluent-query-sql'
-gem 'fluent-query'
-gem 'abstract'
-gem 'hash-utils'
-gem 'dbi'
-gem 'bundler'
-gem 'jeweler2'

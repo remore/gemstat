@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'execjs'
-gem 'therubyracer'
-gem 'traceur-compiler-source'
-gem 'rspec'
-gem 'rspec-expectations'

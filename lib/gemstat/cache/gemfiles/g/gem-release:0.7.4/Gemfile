@@ -1,0 +1,4 @@
+gem 'test_declarative'
+gem 'mocha'
+gem 'rake'
+gem 'coveralls'

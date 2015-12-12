@@ -1,0 +1,6 @@
+gem 'gateway'
+gem 'cassandra-cql'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'slack-notifier'
-gem 'dotenv'
-gem 'thor'
-gem 'httparty'

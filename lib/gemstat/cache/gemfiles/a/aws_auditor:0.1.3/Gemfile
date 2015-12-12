@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'hashie'
+gem 'gli'
+gem 'highline'
+gem 'google_drive'
+gem 'bundler'
+gem 'rake'

@@ -1,4 +1,0 @@
-gem 'packetfu'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'activemodel'
-gem 'multi_json'
-gem 'activesupport'
-gem 'twtest'
-gem 'guard-test'
-gem 'guard-bundler'
-gem 'rake'
-gem 'pry'

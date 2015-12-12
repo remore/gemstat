@@ -1,4 +1,0 @@
-gem 'aws-sdk'
-gem 'sinatra'
-gem 'multi_json'
-gem 'rake'

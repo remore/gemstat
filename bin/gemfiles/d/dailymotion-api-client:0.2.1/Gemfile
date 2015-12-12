@@ -1,4 +1,0 @@
-gem 'httmultiparty'
-gem 'rspec'
-gem 'rake'
-gem 'rubocop'

@@ -1,6 +1,0 @@
-gem 'sourcify'
-gem 'highline'
-gem 'highline-color'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

@@ -1,0 +1,2 @@
+gem 'process_pool'
+gem 'rspec'

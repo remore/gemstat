@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-core'
-gem 'parser'
-gem 'unparser'
-gem 'proc_to_ast'
-gem 'binding_of_caller'

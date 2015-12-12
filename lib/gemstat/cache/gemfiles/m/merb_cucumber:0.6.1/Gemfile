@@ -1,0 +1,5 @@
+gem 'merb-core'
+gem 'merb-gen'
+gem 'cucumber'
+gem 'cucumber-rails'
+gem 'rspec'

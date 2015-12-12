@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'supermodel'

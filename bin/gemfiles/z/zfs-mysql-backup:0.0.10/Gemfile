@@ -1,5 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'thor'
-gem 'activerecord'
-gem 'aws-s3'
-gem 'mysql'

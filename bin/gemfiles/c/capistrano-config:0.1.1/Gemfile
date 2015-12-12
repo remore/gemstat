@@ -1,6 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-file-resources'
-gem 'capistrano-file-transfer-ext'
-gem 'net-scp'
-gem 'net-ssh'
-gem 'vagrant'

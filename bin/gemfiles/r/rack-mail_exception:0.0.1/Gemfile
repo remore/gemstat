@@ -1,5 +1,0 @@
-gem 'mime-types'
-gem 'contest'
-gem 'sinatra'
-gem 'rack-test'
-gem 'mocha'

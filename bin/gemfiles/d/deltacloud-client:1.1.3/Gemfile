@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'nokogiri'
-gem 'minitest'
-gem 'simplecov'
-gem 'vcr'
-gem 'rake'
-gem 'pry'

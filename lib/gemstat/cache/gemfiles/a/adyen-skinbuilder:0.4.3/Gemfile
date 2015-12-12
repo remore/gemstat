@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'vegas'
+gem 'i18n'
+gem 'adyen-admin'

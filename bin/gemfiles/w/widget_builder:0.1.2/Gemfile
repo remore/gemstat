@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'awesome_print'
-gem 'sass'
-gem 'yui-compressor'
-gem 'html_uglifier'
-gem 'premailer'

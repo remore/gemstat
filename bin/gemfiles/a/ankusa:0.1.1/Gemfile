@@ -1,3 +1,0 @@
-gem 'fast-stemmer'
-gem 'rake'
-gem 'mongo'

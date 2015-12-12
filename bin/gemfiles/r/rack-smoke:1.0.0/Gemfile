@@ -1,5 +1,0 @@
-gem 'rack-test'
-gem 'rspec'
-gem 'smoke'
-gem 'haml'
-gem 'sinatra'

@@ -1,3 +1,0 @@
-gem 'resque'
-gem 'redis-objects'
-gem 'rspec'

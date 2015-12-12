@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'psych'
-gem 'sqlite3'
-gem 'rspec'
-gem 'database_cleaner'

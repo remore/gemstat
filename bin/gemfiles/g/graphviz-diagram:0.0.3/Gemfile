@@ -1,8 +1,0 @@
-gem 'ruby-graphviz'
-gem 'simplecov'
-gem 'rubocop'
-gem 'guard-rubocop'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'guard-rspec'

@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'shotgun'
-gem 'compass'
-gem 'thor'
-gem 'mysql2'
-gem 'sinatra'
-gem 'thin'

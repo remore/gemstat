@@ -1,4 +1,0 @@
-gem 'coffee-rails'
-gem 'rake'
-gem 'uglifier'
-gem 'sprockets'

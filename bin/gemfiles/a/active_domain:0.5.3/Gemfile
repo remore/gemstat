@@ -1,8 +1,0 @@
-gem 'active_event'
-gem 'activerecord'
-gem 'activemodel'
-gem 'bunny'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'

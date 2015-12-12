@@ -1,6 +1,10 @@
+lib = File.expand_path('../lib', __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+require 'gemstat/version'
+
 Gem::Specification.new do |s|
   s.name = 'gemstat'
-  s.version = '0.2.3'
+  s.version = Gemstat::VERSION
   s.homepage = 'https://github.com/remore/gemstat'
 
   s.authors = 'Kei Sawada(@remore)'

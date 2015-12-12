@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rake'
+gem 'nokogiri'
+gem 'builder'
+gem 'schleyfox-ruby_kml'
+gem 'kamel'
+gem 'mixlib-cli'
+gem 'rbtree'

@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'yard'
-gem 'rdf-spec'
-gem 'rspec'

@@ -1,6 +1,0 @@
-gem 'padrino'
-gem 'padrino-responders'
-gem 'padrino-fields'
-gem 'padrino-flash'
-gem 'activesupport'
-gem 'orm_adapter'

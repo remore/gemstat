@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'sprockets'
-gem 'tilt'
-gem 'rspec-rails'
-gem 'rspec-its'
-gem 'capybara'
-gem 'selenium-webdriver'

@@ -1,0 +1,6 @@
+gem 'wand'
+gem 'mongo_mapper'
+gem 'rmagick'
+gem 'mime-types'
+gem 'shoulda'
+gem 'mocha'

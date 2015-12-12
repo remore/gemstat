@@ -1,4 +1,0 @@
-gem 'factory_girl_rails'
-gem 'database_cleaner'
-gem 'aasm'
-gem 'acts_as_tree'

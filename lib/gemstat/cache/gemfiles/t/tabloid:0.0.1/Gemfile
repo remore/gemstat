@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'nokogiri'
+gem 'dalli'
+gem 'fastercsv'
+gem 'builder'

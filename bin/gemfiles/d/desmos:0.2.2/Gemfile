@@ -1,8 +1,0 @@
-gem 'yajl-ruby'
-gem 'oauth'
-gem 'rspec'
-gem 'jeweler'
-gem 'autotest-standalone'
-gem 'awesome_print'
-gem 'webmock'
-gem 'rspec'

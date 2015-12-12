@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'open4'
-gem 'rake'
-gem 'rspec'

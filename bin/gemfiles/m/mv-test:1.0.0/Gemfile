@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'rspec'
-gem 'rspec-its'
-gem 'jeweler'

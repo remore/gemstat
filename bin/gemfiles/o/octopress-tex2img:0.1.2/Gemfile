@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'clash'
-gem 'octopress-ink'
-gem 'octopress-image-tag'

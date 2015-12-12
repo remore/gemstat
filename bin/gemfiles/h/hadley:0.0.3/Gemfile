@@ -1,7 +1,0 @@
-gem 'yard'
-gem 'yard-sinatra'
-gem 'rspec'
-gem 'active_support'
-gem 'dalli'
-gem 'sinatra'
-gem 'warden'

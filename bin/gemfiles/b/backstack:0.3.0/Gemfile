@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

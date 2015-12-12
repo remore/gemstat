@@ -1,7 +1,0 @@
-gem 'public_suffix'
-gem 'activesupport'
-gem 'addressable'
-gem 'i18n'
-gem 'bundler'
-gem 'rspec'
-gem 'watchr'

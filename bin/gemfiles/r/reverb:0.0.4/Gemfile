@@ -1,6 +1,0 @@
-gem 'gems'
-gem 'rake_tasks'
-gem 'cane'
-gem 'rspec'
-gem 'factory_girl'
-gem 'faraday'

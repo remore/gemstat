@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'require_all'
+gem 'ruby-debug19'
+gem 'rspec'

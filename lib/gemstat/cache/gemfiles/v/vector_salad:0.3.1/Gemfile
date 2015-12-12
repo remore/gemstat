@@ -1,0 +1,8 @@
+gem 'pretty_backtrace'
+gem 'ruby_clipper'
+gem 'spiro'
+gem 'contracts'
+gem 'fancy_to_proc'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

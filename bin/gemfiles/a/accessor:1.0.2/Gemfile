@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rocco'
-gem 'redcarpet'
-gem 'awesome_print'
-gem 'guard'
-gem 'guard-minitest'
-gem 'guard-rocco'
-gem 'guard-bundler'

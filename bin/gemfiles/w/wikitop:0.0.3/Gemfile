@@ -1,4 +1,0 @@
-gem 'treetop'
-gem 'minitest'
-gem 'turn'
-gem 'pry'

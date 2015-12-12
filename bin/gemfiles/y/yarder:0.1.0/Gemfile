@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'logstash-event'
-gem 'capybara'

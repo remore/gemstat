@@ -1,4 +1,0 @@
-gem 'ox'
-gem 'excon'
-gem 'insensitive_hash'
-gem 'levenshtein-ffi'

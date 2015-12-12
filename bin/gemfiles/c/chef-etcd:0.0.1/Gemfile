@@ -1,3 +1,0 @@
-gem 'etcd'
-gem 'bundler'
-gem 'rake'

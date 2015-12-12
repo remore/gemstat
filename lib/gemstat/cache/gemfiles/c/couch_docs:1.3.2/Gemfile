@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rest-client'
+gem 'json'
+gem 'directory_watcher'
+gem 'mime-types'

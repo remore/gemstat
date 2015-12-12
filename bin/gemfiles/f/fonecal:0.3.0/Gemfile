@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'timezone'
-gem 'activesupport'
-gem 'nokogiri'
-gem 'geocoder'
-gem 'i18n'

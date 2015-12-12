@@ -1,4 +1,0 @@
-gem 'savon'
-gem 'byebug'
-gem 'turn'
-gem 'shoulda'

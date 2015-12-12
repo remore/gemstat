@@ -1,7 +1,0 @@
-gem 'jruby-openssl'
-gem 'shoulda'
-gem 'bundler'
-gem 'yard'
-gem 'jeweler'
-gem 'rcov'
-gem 'smart_colored'

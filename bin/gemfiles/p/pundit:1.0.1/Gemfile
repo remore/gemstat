@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'actionpack'
-gem 'bundler'
-gem 'rspec'
-gem 'pry'
-gem 'rake'
-gem 'yard'

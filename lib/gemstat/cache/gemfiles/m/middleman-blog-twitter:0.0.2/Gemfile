@@ -1,0 +1,5 @@
+gem 'middleman-blog'
+gem 'twitter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

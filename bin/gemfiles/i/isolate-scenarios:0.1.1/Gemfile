@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'isolate'
-gem 'rspec'
-gem 'yard'
-gem 'jeweler'

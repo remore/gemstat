@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'simple_postmark'

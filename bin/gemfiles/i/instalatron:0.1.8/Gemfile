@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'mixlib-cli'
-gem 'virtualbox'

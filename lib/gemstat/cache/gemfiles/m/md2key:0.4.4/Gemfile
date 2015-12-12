@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'redcarpet'
+gem 'oga'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

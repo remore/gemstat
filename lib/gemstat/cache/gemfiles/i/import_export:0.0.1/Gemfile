@@ -1,0 +1,8 @@
+gem 'dotenv'
+gem 'rest-client'
+gem 'iso_country_codes'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'webmock'

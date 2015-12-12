@@ -1,8 +1,0 @@
-gem 'http_parser.rb'
-gem 'eventmachine'
-gem 'em-synchrony'
-gem 'rack'
-gem 'thor'
-gem 'rspec'
-gem 'yard'
-gem 'kramdown'

@@ -1,7 +1,0 @@
-gem 'aws-sdk-v1'
-gem 'net-ssh'
-gem 'chef'
-gem 'trollop'
-gem 'aws-creds'
-gem 'colored'
-gem 'json'

@@ -1,0 +1,5 @@
+gem 'mixpanel-ruby'
+gem 'sidekiq'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

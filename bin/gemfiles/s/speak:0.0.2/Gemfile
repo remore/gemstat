@@ -1,3 +1,0 @@
-gem 'pkg-config'
-gem 'glib2'
-gem 'gstreamer'

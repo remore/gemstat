@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'rice'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'

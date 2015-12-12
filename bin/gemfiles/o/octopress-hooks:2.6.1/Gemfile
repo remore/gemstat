@@ -1,4 +1,0 @@
-gem 'jekyll'
-gem 'clash'
-gem 'rake'
-gem 'pry-byebug'

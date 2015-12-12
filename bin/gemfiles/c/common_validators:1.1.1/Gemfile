@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'bigdecimal'
-gem 'bundler'
-gem 'guard-minitest'
-gem 'rake'
-gem 'sqlite3'
-gem 'test-unit'

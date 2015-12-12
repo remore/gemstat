@@ -1,5 +1,0 @@
-gem 'google_image_api'
-gem 'rspec'
-gem 'rake'
-gem 'rack'
-gem 'rack-test'

@@ -1,8 +1,0 @@
-gem 'browser'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'rack-test'
-gem 'pry-meta'
-gem 'minitest-rails-capybara'

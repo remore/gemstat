@@ -1,5 +1,0 @@
-gem 'kramdown'
-gem 'ffi-aspell'
-gem 'mixlib-cli'
-gem 'mixlib-config'
-gem 'rainbow'

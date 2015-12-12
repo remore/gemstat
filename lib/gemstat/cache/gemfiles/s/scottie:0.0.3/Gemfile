@@ -1,0 +1,4 @@
+gem 'type_constraints'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

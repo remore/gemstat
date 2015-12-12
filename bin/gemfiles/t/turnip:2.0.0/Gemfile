@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'gherkin'
-gem 'rake'
-gem 'pry'

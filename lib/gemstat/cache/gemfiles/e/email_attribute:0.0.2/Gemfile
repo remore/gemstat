@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'mail'
+gem 'sqlite3'
+gem 'shoulda-context'

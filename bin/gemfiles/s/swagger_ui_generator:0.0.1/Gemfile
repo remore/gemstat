@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'pry-nav'
-gem 'rake'
-gem 'rails'
-gem 'railties'
-gem 'nokogiri'

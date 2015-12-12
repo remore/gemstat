@@ -1,4 +1,0 @@
-gem 'google-refine'
-gem 'slop'
-gem 'bundler'
-gem 'rake'

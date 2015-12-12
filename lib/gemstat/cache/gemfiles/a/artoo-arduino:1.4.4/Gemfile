@@ -1,0 +1,7 @@
+gem 'artoo'
+gem 'artoo-gpio'
+gem 'artoo-i2c'
+gem 'hybridgroup-firmata'
+gem 'minitest'
+gem 'minitest-happy'
+gem 'mocha'

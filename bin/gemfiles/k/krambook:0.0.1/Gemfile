@@ -1,4 +1,0 @@
-gem 'kramdown'
-gem 'bundler'
-gem 'thor'
-gem 'active_support'

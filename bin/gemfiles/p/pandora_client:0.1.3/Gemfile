@@ -1,3 +1,0 @@
-gem 'faraday'
-gem 'crypt19-rb'
-gem 'nokogiri'

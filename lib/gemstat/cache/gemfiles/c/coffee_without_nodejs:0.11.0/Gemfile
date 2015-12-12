@@ -1,0 +1,4 @@
+gem 'execjs'
+gem 'rb-inotify'
+gem 'coderay'
+gem 'ritual'

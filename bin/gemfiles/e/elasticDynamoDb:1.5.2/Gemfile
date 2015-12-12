@@ -1,3 +1,0 @@
-gem 'configparser'
-gem 'thor'
-gem 'aws-sdk'

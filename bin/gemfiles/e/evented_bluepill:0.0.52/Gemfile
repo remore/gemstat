@@ -1,8 +1,0 @@
-gem 'daemons'
-gem 'blankslate'
-gem 'state_machine'
-gem 'activesupport'
-gem 'i18n'
-gem 'cool.io'
-gem 'minitest'
-gem 'mocha'

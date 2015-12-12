@@ -1,7 +1,0 @@
-gem 'mail'
-gem 'mandrill-api'
-gem 'webmock'
-gem 'rails'
-gem 'guard-minitest'
-gem 'guard'
-gem 'codeclimate-test-reporter'

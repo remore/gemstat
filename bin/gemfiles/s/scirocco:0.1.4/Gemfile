@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'thor'
-gem 'rspec'
-gem 'fuubar'
-gem 'fakeweb'
-gem 'timecop'
-gem 'bundler'

@@ -1,3 +1,0 @@
-gem 'guard-minitest'
-gem 'minitest'
-gem 'ruby-graphviz'

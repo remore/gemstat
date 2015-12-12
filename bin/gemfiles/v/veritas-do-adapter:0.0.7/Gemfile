@@ -1,8 +1,0 @@
-gem 'data_objects'
-gem 'veritas'
-gem 'veritas-sql-generator'
-gem 'backports'
-gem 'jeweler'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

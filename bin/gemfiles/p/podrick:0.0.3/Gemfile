@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'nokogiri'
-gem 'minitest'
-gem 'webmock'

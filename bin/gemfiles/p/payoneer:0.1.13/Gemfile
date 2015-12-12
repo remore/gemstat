@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'
-gem 'cane'
-gem 'webmock'
-gem 'timecop'

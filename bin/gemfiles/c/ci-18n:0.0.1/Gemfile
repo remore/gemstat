@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'coffee-script'
-gem 'jasmine'
-gem 'guard'
-gem 'guard-coffeescript'
-gem 'guard-livereload'
-gem 'rake-minify'

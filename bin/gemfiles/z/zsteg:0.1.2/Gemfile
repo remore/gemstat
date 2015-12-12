@@ -1,5 +1,0 @@
-gem 'zpng'
-gem 'iostruct'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

@@ -1,5 +1,0 @@
-gem 'debugger'
-gem 'rspec'
-gem 'rake'
-gem 'activemodel'
-gem 'state_machine'

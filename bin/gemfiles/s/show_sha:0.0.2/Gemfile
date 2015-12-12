@@ -1,3 +1,0 @@
-gem 'capybara'
-gem 'rails'
-gem 'sqlite3'

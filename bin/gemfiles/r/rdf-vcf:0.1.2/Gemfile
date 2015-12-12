@@ -1,4 +1,0 @@
-gem 'rdf'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

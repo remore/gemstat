@@ -1,8 +1,0 @@
-gem 'couchrest'
-gem 'trollop'
-gem 'json'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

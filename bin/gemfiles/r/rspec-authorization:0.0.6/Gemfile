@@ -1,8 +1,0 @@
-gem 'declarative_authorization'
-gem 'rspec-rails'
-gem 'appraisal'
-gem 'bundler'
-gem 'rails'
-gem 'rake'
-gem 'rspec-its'
-gem 'sqlite3'

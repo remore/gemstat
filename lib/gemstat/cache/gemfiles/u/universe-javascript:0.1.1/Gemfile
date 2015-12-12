@@ -1,0 +1,7 @@
+gem 'coffee-script'
+gem 'envjs'
+gem 'harmony'
+gem 'jasmine'
+gem 'johnson'
+gem 'taka'
+gem 'therubyracer'

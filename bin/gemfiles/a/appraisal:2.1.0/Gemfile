@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'thor'
-gem 'activesupport'
-gem 'rspec'

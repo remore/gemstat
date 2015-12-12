@@ -1,4 +1,0 @@
-gem 'redcarpet'
-gem 'i18n'
-gem 'rspec'
-gem 'guard-rspec'

@@ -1,5 +1,0 @@
-gem 'test-kitchen'
-gem 'excon'
-gem 'multi_json'
-gem 'aws-sdk-v1'
-gem 'aws-sdk'

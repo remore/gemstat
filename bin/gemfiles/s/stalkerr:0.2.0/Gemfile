@@ -1,5 +1,0 @@
-gem 'net-irc'
-gem 'json'
-gem 'octokit'
-gem 'string-irc'
-gem 'qiita'

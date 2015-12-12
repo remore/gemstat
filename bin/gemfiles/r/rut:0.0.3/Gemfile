@@ -1,5 +1,0 @@
-gem 'aruba'
-gem 'rdoc'
-gem 'rake'
-gem 'methadone'
-gem 'snmp'

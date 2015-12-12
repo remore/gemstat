@@ -1,0 +1,4 @@
+gem 'jekyll'
+gem 'contentful'
+gem 'bundler'
+gem 'rake'

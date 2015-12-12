@@ -1,4 +1,0 @@
-gem 'hpricot'
-gem 'rack'
-gem 'rspec'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'ruboty'
-gem 'tokiyomi'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

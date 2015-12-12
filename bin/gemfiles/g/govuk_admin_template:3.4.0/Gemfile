@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'bootstrap-sass'
-gem 'jquery-rails'
-gem 'sass-rails'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'gem_publisher'
-gem 'jasmine'

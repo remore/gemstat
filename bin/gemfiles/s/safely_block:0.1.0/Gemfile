@@ -1,4 +1,0 @@
-gem 'errbase'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

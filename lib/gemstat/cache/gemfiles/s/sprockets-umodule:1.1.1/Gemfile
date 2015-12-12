@@ -1,0 +1,6 @@
+gem 'umodule-source'
+gem 'tilt'
+gem 'sprockets-helpers'
+gem 'rspec'
+gem 'test-construct'
+gem 'rake'

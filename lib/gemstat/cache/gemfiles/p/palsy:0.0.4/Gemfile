@@ -1,0 +1,8 @@
+gem 'sqlite3'
+gem 'minitest'
+gem 'rake'
+gem 'rdoc'
+gem 'simplecov'
+gem 'guard-minitest'
+gem 'guard-rake'
+gem 'rb-fsevent'

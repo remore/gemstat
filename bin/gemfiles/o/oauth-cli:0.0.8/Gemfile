@@ -1,6 +1,0 @@
-gem 'highline'
-gem 'json'
-gem 'oauth'
-gem 'launchy'
-gem 'mocha'
-gem 'bundler'

@@ -1,8 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'hashie'
-gem 'dalli'
-gem 'redis'
-gem 'bundler'
-gem 'rake'
-gem 'yard'

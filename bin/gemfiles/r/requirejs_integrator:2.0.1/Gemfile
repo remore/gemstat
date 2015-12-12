@@ -1,7 +1,0 @@
-gem 'exec_executor'
-gem 'system_executor'
-gem 'stdout_outputter'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-given'
-gem 'pry'

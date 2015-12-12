@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mocha'
-gem 'metriks'
-gem 'sematext-metrics'

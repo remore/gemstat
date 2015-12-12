@@ -1,4 +1,0 @@
-gem 'json'
-gem 'gdata'
-gem 'fastercsv'
-gem 'nokogiri'

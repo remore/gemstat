@@ -1,0 +1,4 @@
+gem 'eventmachine'
+gem 'activesupport'
+gem 'json'
+gem 'hpricot'

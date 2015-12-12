@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'mixpanel-ruby'
-gem 'bundler'
-gem 'rake'

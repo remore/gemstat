@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'autotest'
-gem 'cucumber'
-gem 'aruba'
-gem 'threadsafe-lru'
-gem 'xray'

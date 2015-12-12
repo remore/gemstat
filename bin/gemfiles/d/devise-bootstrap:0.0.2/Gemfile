@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'warden'
-gem 'orm_adapter'
-gem 'bcrypt'
-gem 'thread_safe'
-gem 'railties'

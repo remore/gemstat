@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mocha'
-gem 'delorean'
-gem 'memcache_mock'
-gem 'dalli'

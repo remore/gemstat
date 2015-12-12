@@ -1,5 +1,0 @@
-gem 'json'
-gem 'hashie'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

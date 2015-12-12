@@ -1,0 +1,5 @@
+gem 'i18n'
+gem 'json'
+gem 'tzinfo'
+gem 'minitest'
+gem 'thread_safe'

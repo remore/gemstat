@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'rake'
+gem 'pry'
+gem 'minitest'
+gem 'simplecov'
+gem 'actionpack'

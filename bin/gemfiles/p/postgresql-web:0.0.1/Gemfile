@@ -1,8 +1,0 @@
-gem 'connection_pool'
-gem 'slim'
-gem 'hashie'
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'sinatra'
-gem 'byebug'

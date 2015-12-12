@@ -1,0 +1,5 @@
+gem 'colorize'
+gem 'pry'
+gem 'sequel'
+gem 'bundler'
+gem 'rake'

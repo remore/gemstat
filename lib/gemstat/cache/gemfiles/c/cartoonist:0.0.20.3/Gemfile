@@ -1,0 +1,8 @@
+gem 'actionpack-page_caching'
+gem 'devise'
+gem 'jquery-rails'
+gem 'omniauth-openid'
+gem 'railties'
+gem 'redcarpet'
+gem 'rubyzip'
+gem 'minitar'

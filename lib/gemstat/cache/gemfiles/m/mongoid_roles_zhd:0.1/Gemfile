@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'generator-spec'
+gem 'mongoid'
+gem 'bson'
+gem 'sugar-high'
+gem 'require_all'
+gem 'roles_generic'
+gem 'rails_artifactor'

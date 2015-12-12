@@ -1,0 +1,4 @@
+gem 'json'
+gem 'dbus'
+gem 'escape'
+gem 'gettext'

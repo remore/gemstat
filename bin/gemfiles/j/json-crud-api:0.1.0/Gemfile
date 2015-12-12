@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'rack-test'
-gem 'codeclimate-test-reporter'
-gem 'json'
-gem 'sinatra'
-gem 'datamapper'

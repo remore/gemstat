@@ -1,4 +1,0 @@
-gem 'is_a'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

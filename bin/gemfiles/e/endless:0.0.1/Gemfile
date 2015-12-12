@@ -1,8 +1,0 @@
-gem 'async_sinatra'
-gem 'thin'
-gem 'rspec'
-gem 'simplecov'
-gem 'rb-fsevent'
-gem 'guard'
-gem 'guard-bundler'
-gem 'guard-rspec'

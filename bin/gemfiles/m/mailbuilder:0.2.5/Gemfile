@@ -1,6 +1,0 @@
-gem 'mail'
-gem 'actionpack'
-gem 'nokogiri'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

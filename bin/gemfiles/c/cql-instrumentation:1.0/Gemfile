@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'cql-rb'
-gem 'bundler'
-gem 'rake'

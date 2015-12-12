@@ -1,5 +1,0 @@
-gem 'httpclient'
-gem 'rspec'
-gem 'autotest'
-gem 'autotest-fsevent'
-gem 'rb-fsevent'

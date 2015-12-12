@@ -1,3 +1,0 @@
-gem 'heroku-api'
-gem 'rspec'
-gem 'rake'

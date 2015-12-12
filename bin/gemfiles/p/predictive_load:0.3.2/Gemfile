@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'minitest'
-gem 'minitest-rg'
-gem 'sqlite3'
-gem 'rake'
-gem 'bump'
-gem 'wwtd'
-gem 'query_diet'

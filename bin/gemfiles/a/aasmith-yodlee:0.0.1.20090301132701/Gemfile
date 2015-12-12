@@ -1,4 +1,0 @@
-gem 'mechanize'
-gem 'nokogiri'
-gem 'flexmock'
-gem 'hoe'

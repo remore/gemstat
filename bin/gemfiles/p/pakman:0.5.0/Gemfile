@@ -1,4 +1,0 @@
-gem 'fetcher'
-gem 'logutils'
-gem 'rdoc'
-gem 'hoe'

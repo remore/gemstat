@@ -1,4 +1,0 @@
-gem 'harness'
-gem 'sidekiq'
-gem 'bundler'
-gem 'rake'

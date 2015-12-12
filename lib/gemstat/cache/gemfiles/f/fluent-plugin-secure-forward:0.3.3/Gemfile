@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'fluent-mixin-config-placeholders'
+gem 'resolve-hostname'
+gem 'proxifier'
+gem 'test-unit'
+gem 'rake'

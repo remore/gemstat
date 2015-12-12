@@ -1,0 +1,7 @@
+gem 'mongoid'
+gem 'activerecord'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

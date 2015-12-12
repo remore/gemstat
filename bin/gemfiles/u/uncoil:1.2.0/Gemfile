@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'rake'
-gem 'vcr'
-gem 'webmock'
-gem 'bitly'
-gem 'typhoeus'

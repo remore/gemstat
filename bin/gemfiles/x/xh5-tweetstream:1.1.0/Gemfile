@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'xh5-twitter-stream'
-gem 'daemons'

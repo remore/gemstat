@@ -1,0 +1,5 @@
+gem 'net-scp'
+gem 'aws-sdk-core'
+gem 'semantic'
+gem 'sshkey'
+gem 'rake'

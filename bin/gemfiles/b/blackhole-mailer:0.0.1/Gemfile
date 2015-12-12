@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'bluecloth'
-gem 'yard'
-gem 'resque_mailer'

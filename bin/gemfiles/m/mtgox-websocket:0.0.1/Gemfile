@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'faye-websocket'
-gem 'hashie'
-gem 'json'

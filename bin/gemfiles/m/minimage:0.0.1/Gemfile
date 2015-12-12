@@ -1,5 +1,0 @@
-gem 'cuba'
-gem 'mini_magick'
-gem 'nesty'
-gem 'minitest'
-gem 'rake'

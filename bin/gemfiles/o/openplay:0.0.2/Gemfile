@@ -1,8 +1,0 @@
-gem 'dnssd'
-gem 'findme'
-gem 'thor'
-gem 'minitest'
-gem 'minitest-matchers'
-gem 'turn'
-gem 'pry'
-gem 'mocha'

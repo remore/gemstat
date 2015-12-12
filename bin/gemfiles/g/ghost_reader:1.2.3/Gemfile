@@ -1,8 +1,0 @@
-gem 'i18n'
-gem 'json'
-gem 'excon'
-gem 'rake'
-gem 'rspec'
-gem 'ruby-debug'
-gem 'guard'
-gem 'guard-rspec'

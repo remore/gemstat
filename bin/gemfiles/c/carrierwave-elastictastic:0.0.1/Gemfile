@@ -1,3 +1,0 @@
-gem 'carrierwave'
-gem 'elastictastic'
-gem 'rake'

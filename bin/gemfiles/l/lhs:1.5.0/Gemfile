@@ -1,7 +1,0 @@
-gem 'lhc'
-gem 'lhc-core-interceptors'
-gem 'rspec-rails'
-gem 'rails'
-gem 'webmock'
-gem 'geminabox'
-gem 'pry'

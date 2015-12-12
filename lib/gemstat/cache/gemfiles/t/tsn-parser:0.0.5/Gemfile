@@ -1,0 +1,5 @@
+gem 'logging'
+gem 'nokogiri'
+gem 'mongoid'
+gem 'bundler'
+gem 'rake'

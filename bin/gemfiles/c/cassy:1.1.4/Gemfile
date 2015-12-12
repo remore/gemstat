@@ -1,8 +1,0 @@
-gem 'crypt-isaac'
-gem 'rails'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'database_cleaner'
-gem 'sqlite3'
-gem 'launchy'
-gem 'devise'

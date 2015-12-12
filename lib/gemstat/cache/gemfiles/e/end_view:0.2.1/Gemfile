@@ -1,0 +1,6 @@
+gem 'tilt'
+gem 'haml'
+gem 'attire'
+gem 'inflecto'
+gem 'rspec'
+gem 'rspec-html-matchers'

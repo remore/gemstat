@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'bundler'
+gem 'google-sa-auth'
+gem 'json'

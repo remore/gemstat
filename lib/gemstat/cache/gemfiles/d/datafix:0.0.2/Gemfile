@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'railties'
+gem 'pg'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'rake'
+gem 'pry'

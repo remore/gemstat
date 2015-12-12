@@ -1,3 +1,0 @@
-gem 'sequel'
-gem 'pg'
-gem 'chef'

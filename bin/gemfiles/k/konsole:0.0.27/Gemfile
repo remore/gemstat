@@ -1,6 +1,0 @@
-gem 'alias_e'
-gem 'cliner'
-gem 'colours'
-gem 'opn'
-gem 'rgb_to_hex'
-gem 'remove_html'

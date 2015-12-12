@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'multipart-post'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'combustion'
-gem 'webmock'

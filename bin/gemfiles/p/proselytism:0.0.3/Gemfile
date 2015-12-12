@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'system_timer'
-gem 'rspec'
-gem 'pry'

@@ -1,0 +1,8 @@
+gem 'guard'
+gem 'nokogiri'
+gem 'formatador'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-mocks'

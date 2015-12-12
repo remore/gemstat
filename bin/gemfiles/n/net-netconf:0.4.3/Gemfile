@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'net-ssh'
-gem 'net-scp'

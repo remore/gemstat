@@ -1,6 +1,0 @@
-gem 'eventmachine'
-gem 'ruby-ois'
-gem 'ruby-ogre'
-gem 'ruby-procedural'
-gem 'ruby-bullet'
-gem 'teienlib'

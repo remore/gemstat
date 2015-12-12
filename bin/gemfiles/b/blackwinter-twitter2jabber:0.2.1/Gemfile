@@ -1,6 +1,0 @@
-gem 'twitter'
-gem 'xmpp4r-simple'
-gem 'highline'
-gem 'shorturl'
-gem 'longurl'
-gem 'elif'

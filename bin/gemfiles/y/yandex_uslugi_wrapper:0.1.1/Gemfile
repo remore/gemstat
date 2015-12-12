@@ -1,4 +1,0 @@
-gem 'activeresource'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'

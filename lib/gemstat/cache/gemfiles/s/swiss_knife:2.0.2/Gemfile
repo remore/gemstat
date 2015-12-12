@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rspec-rails'
+gem 'nokogiri'
+gem 'fakeweb'
+gem 'sqlite3'
+gem 'pry'
+gem 'rake'

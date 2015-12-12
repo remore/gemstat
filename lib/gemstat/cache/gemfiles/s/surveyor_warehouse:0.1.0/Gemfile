@@ -1,0 +1,8 @@
+gem 'surveyor'
+gem 'haml'
+gem 'rails'
+gem 'activesupport'
+gem 'actionpack'
+gem 'activerecord'
+gem 'sequel'
+gem 'pg'

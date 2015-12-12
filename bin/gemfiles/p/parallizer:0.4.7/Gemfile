@@ -1,5 +1,0 @@
-gem 'celluloid'
-gem 'hanging_methods'
-gem 'rake'
-gem 'rspec'
-gem 'always_execute'

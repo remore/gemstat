@@ -1,4 +1,0 @@
-gem 'rdoc'
-gem 'bundler'
-gem 'yard'
-gem 'rake'

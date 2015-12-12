@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rspec-spies'
-gem 'activemodel'
-gem 'uuid'

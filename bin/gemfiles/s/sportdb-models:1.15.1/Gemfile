@@ -1,4 +1,0 @@
-gem 'worlddb-models'
-gem 'persondb-models'
-gem 'rdoc'
-gem 'hoe'

@@ -1,0 +1,6 @@
+gem 'reform'
+gem 'hashie'
+gem 'activesupport'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'

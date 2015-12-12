@@ -1,0 +1,2 @@
+gem 'activeresource'
+gem 'aiaio-active_resource_throttle'

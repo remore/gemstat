@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'debugger'
+gem 'thor'
+gem 'octokit'
+gem 'terminal-table'
+gem 'highline'
+gem 'launchy'

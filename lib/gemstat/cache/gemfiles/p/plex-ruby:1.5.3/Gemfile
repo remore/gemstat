@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'rake'
+gem 'fakeweb'
+gem 'nokogiri'

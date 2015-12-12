@@ -1,5 +1,0 @@
-gem 'multi_json'
-gem 'rake'
-gem 'pry'
-gem 'minitest'
-gem 'json'

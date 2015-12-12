@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'inherited_resources'
-gem 'formtastic'
-gem 'codemirror-rails'
-gem 'sqlite3'

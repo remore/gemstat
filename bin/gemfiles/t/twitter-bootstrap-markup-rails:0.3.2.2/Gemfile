@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'rspec-rails'
-gem 'rspec_tag_matchers'
-gem 'simple-navigation'

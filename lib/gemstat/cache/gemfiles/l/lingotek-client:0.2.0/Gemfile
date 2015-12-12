@@ -1,0 +1,4 @@
+gem 'oauth'
+gem 'rest-client'
+gem 'json'
+gem 'rdoc'

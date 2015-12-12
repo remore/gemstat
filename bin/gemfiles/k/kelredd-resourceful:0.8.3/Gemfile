@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'json'
-gem 'rest-client'
-gem 'mechanize'
-gem 'log4r'
-gem 'kelredd-useful'
-gem 'shoulda'

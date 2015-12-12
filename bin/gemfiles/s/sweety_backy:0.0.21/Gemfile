@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'mocha'
-gem 'delorean'
-gem 'rake'
-gem 'aws-sdk'

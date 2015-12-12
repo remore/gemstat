@@ -1,5 +1,0 @@
-gem 'restforce'
-gem 'activemodel'
-gem 'validate_url'
-gem 'bundler'
-gem 'rake'

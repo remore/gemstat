@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'fb_graph'

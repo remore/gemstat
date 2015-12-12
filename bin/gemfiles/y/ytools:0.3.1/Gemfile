@@ -1,5 +1,0 @@
-gem 'choosy'
-gem 'rspec'
-gem 'autotest'
-gem 'autotest-notification'
-gem 'ZenTest'

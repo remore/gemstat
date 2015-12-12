@@ -1,0 +1,5 @@
+gem 'dotenv'
+gem 'clamp'
+gem 'em-eventsource'
+gem 'bundler'
+gem 'rake'

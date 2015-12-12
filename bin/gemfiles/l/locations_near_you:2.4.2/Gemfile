@@ -1,8 +1,0 @@
-gem 'geocoder'
-gem 'factory_girl'
-gem 'ffaker'
-gem 'rspec-rails'
-gem 'selenium-webdriver'
-gem 'simplecov'
-gem 'sqlite3'
-gem 'pry'

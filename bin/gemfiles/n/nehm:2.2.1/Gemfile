@@ -1,5 +1,0 @@
-gem 'certifi'
-gem 'colored'
-gem 'taglib-ruby'
-gem 'bundler'
-gem 'rake'

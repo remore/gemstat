@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'nori'
+gem 'httpclient'
+gem 'minitest'
+gem 'mocha'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

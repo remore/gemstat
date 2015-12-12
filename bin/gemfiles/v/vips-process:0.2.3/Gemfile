@@ -1,5 +1,0 @@
-gem 'ruby-vips'
-gem 'pry'
-gem 'cutest'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'olgen-rchardet'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'

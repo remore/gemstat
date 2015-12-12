@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'capybara'
-gem 'capybara-mechanize'
-gem 'rails'

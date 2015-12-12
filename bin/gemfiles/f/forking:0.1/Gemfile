@@ -1,3 +1,0 @@
-gem 'daemon-spawn'
-gem 'rspec'
-gem 'rake'

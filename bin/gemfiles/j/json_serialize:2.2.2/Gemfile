@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'jeweler'
-gem 'yard'
-gem 'RedCloth'
-gem 'rspec'
-gem 'sqlite3'

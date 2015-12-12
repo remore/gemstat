@@ -1,5 +1,0 @@
-gem 'highline'
-gem 'nexus_cli'
-gem 'thor'
-gem 'rake'
-gem 'rspec'

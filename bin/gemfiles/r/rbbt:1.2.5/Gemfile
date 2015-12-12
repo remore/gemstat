@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'simpleconsole'
-gem 'stemmer'
-gem 'progress-monitor'
-gem 'simpleconsole'

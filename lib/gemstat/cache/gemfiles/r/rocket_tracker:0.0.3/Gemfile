@@ -1,0 +1,6 @@
+gem 'bindata'
+gem 'yajl-ruby'
+gem 'rails'
+gem 'jquery-rails'
+gem 'bundler'
+gem 'rake'

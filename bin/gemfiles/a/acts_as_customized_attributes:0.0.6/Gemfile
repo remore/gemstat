@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'forgery'
-gem 'codeclimate-test-reporter'
-gem 'mysql2'
-gem 'active-record-transactioner'

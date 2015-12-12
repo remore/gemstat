@@ -1,5 +1,0 @@
-gem 'gbarcode'
-gem 'sinatra'
-gem 'shoulda'
-gem 'sinatra'
-gem 'gbarcode'

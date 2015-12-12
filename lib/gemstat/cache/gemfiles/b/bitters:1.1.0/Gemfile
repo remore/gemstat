@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'scss_lint'
+gem 'bourbon'
+gem 'sass'
+gem 'thor'

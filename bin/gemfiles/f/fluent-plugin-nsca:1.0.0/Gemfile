@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rr'
-gem 'send_nsca'
-gem 'fluentd'

@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'rails'
-gem 'yui-compressor'
-gem 'closure-compiler'

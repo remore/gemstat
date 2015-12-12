@@ -1,6 +1,0 @@
-gem 'gem_hadar'
-gem 'simplecov'
-gem 'rspec'
-gem 'tins'
-gem 'serialport'
-gem 'complex_config'

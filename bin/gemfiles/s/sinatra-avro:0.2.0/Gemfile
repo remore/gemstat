@@ -1,6 +1,0 @@
-gem 'avro_turf'
-gem 'sinatra'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'sinatra-contrib'

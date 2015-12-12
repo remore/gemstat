@@ -1,4 +1,0 @@
-gem 'vcr'
-gem 'fakefs'
-gem 'bundler'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'json'
-gem 'eventmachine'
-gem 'ncurses'

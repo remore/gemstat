@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'heroku'
-gem 'rspec'
-gem 'pry'

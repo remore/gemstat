@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'yajl-ruby'
+gem 'mysql2-cs-bind'
+gem 'activesupport'

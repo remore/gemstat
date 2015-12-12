@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'yajl-ruby'
-gem 'curb'
-gem 'connection_pool'
-gem 'json'
-gem 'rspec'
-gem 'rake'

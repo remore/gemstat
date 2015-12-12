@@ -1,4 +1,0 @@
-gem 'logging'
-gem 'flexmock'
-gem 'bones-git'
-gem 'bones'

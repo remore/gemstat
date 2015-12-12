@@ -1,3 +1,0 @@
-gem 'email_spec'
-gem 'mail'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'jbuilder'
-gem 'active_decorator'
-gem 'bundler'
-gem 'rake'

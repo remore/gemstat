@@ -1,5 +1,0 @@
-gem 'yard'
-gem 'sfcc'
-gem 'openwsman'
-gem 'cim'
-gem 'mof'

@@ -1,6 +1,0 @@
-gem 'chef'
-gem 'colorize'
-gem 'net-ssh'
-gem 'parallel'
-gem 'rake'
-gem 'thor'

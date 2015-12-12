@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'simplecov-rcov'
-gem 'pry'
-gem 'rest-client'

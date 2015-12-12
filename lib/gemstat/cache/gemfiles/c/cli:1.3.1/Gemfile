@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'
+gem 'ruby-ip'

@@ -1,5 +1,0 @@
-gem 'pg'
-gem 'jeweler'
-gem 'memoizer'
-gem 'rake'
-gem 'rspec'

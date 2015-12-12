@@ -1,7 +1,0 @@
-gem 'json'
-gem 'excon'
-gem 'clamp'
-gem 'scrolls'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'rake'

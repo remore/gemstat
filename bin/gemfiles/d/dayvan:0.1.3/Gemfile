@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'rest-client'
-gem 'json'
-gem 'coffee-script'
-gem 'mime-types'

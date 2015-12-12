@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rake'
-gem 'sunspot_rails'
-gem 'sunspot_solr'
-gem 'sunspot_test'

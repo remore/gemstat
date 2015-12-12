@@ -1,4 +1,0 @@
-gem 'ripl'
-gem 'ripl-multi_line'
-gem 'ripl-irb'
-gem 'rspec'

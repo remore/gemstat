@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'rubocop'
-gem 'pry-nav'
-gem 'heartcheck'
-gem 'resque'

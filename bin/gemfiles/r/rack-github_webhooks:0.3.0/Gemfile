@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'pry'
-gem 'rack-test'
-gem 'simplecov'

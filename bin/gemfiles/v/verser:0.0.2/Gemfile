@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'fuubar'
-gem 'awesome_print'

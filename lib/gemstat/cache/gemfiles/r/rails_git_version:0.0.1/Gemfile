@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'grit'
+gem 'pry'
+gem 'simplecov'
+gem 'rspec-rails'
+gem 'aruba'
+gem 'cucumber-rails'

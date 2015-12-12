@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'bundler'
-gem 'zmqmachine'

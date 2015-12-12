@@ -1,0 +1,6 @@
+gem 'abstract_mapper'
+gem 'selector'
+gem 'hexx-rspec'
+gem 'rom'
+gem 'benchmark-ips'
+gem 'inflecto'

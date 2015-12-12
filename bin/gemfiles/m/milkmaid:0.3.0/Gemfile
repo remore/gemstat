@@ -1,7 +1,0 @@
-gem 'main'
-gem 'moocow'
-gem 'paint'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'ZenTest'

@@ -1,8 +1,0 @@
-gem 'splat'
-gem 'shell_shock'
-gem 'sequel'
-gem 'sqlite3'
-gem 'simple_scrobbler'
-gem 'rainbow'
-gem 'rake'
-gem 'rspec'

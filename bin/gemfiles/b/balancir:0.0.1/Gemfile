@@ -1,7 +1,0 @@
-gem 'excon'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'travis-lint'
-gem 'sinatra'
-gem 'realweb'

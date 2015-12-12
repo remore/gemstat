@@ -1,3 +1,0 @@
-gem 'ruby-net-ldap'
-gem 'activerecord'
-gem 'activesupport'

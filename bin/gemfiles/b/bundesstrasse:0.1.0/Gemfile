@@ -1,3 +1,0 @@
-gem 'ffi-rzmq'
-gem 'rspec'
-gem 'rake'

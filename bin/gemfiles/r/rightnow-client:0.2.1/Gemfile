@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'virtus'
-gem 'typhoeus'
-gem 'rspec'
-gem 'webmock'
-gem 'rake'
-gem 'activesupport'

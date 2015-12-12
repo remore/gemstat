@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'bundler'
-gem 'codeclimate-test-reporter'
-gem 'overcommit'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'rubocop'
-gem 'temping'

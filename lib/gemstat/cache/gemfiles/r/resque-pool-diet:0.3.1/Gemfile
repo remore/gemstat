@@ -1,0 +1,8 @@
+gem 'resque'
+gem 'trollop'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'bundler'
+gem 'ronn'

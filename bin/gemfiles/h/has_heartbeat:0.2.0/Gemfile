@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'airbrake'
-gem 'bundler'
-gem 'jeweler'
-gem 'rdoc'
-gem 'rspec'

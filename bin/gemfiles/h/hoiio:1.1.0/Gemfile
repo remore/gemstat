@@ -1,5 +1,0 @@
-gem 'json'
-gem 'httparty'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

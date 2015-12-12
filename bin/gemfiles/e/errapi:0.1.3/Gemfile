@@ -1,8 +1,0 @@
-gem 'i18n'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-collection_matchers'
-gem 'jeweler'
-gem 'rake-version'
-gem 'simplecov'
-gem 'coveralls'

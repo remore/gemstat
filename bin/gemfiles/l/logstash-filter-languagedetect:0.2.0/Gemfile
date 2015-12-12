@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'whatlanguage'
-gem 'logstash-devutils'
-gem 'coveralls'

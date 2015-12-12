@@ -1,4 +1,0 @@
-gem 'pry'
-gem 'cucumber'
-gem 'rspec'
-gem 'aruba'

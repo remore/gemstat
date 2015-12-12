@@ -1,7 +1,0 @@
-gem 'page-object'
-gem 'bundler'
-gem 'rake'
-gem 'watir-webdriver'
-gem 'webdriver-user-agent'
-gem 'rspec'
-gem 'rspec-given'

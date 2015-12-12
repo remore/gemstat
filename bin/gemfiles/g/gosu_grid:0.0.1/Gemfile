@@ -1,6 +1,0 @@
-gem 'gosu'
-gem 'bundler'
-gem 'rubocop'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

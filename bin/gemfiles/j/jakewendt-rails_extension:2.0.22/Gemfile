@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'ssl_requirement'
-gem 'jakewendt-html_test'
-gem 'chronic'

@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'active-fedora'
+gem 'cancancan'
+gem 'deprecation'
+gem 'blacklight'
+gem 'sass-rails'
+gem 'rake'
+gem 'rspec'

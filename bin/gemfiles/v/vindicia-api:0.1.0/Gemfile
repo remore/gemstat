@@ -1,6 +1,0 @@
-gem 'savon'
-gem 'activesupport'
-gem 'rake'
-gem 'mocha'
-gem 'webmock'
-gem 'vcr'

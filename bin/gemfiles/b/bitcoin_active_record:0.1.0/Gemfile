@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'auto_strip_attributes'
-gem 'script_utils'

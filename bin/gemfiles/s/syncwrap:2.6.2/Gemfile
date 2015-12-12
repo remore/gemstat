@@ -1,8 +1,0 @@
-gem 'term-ansicolor'
-gem 'tins'
-gem 'aws-sdk'
-gem 'json'
-gem 'nokogiri'
-gem 'minitest'
-gem 'rdoc'
-gem 'rjack-tarpit'

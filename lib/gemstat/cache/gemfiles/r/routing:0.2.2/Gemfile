@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'json'
+gem 'smart_properties'
+gem 'rspec'
+gem 'rake'

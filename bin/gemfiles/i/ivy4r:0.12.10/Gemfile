@@ -1,7 +1,0 @@
-gem 'facets'
-gem 'Antwrap'
-gem 'ivy4r-jars'
-gem 'autotest'
-gem 'ZenTest'
-gem 'rspec'
-gem 'rr'

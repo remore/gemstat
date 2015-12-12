@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'simplecov'
+gem 'pry'
+gem 'yard'

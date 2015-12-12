@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'racc'
-gem 'json'
-gem 'hoe'

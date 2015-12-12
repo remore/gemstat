@@ -1,8 +1,0 @@
-gem 'omniauth-oauth2'
-gem 'rest-client'
-gem 'bundler'
-gem 'fakeweb'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'vcr'

@@ -1,0 +1,4 @@
+gem 'wurfl-lite'
+gem 'rack'
+gem 'bundler'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'mocha'
-gem 'nokogiri'
-gem 'xml-simple'
-gem 'feedtools'
-gem 'vegas'

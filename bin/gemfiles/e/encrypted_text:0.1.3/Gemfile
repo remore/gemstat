@@ -1,4 +1,0 @@
-gem 'fast-aes'
-gem 'hex_string'
-gem 'radix'
-gem 'rspec'

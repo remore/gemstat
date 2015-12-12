@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'bert'
-gem 'rails'
-gem 'sqlite3'
-gem 'mocha'

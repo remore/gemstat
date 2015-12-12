@@ -1,3 +1,0 @@
-gem 'rmagick'
-gem 'nokogiri'
-gem 'pdf-reader'

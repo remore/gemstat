@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'bundler'
-gem 'bahia'
-gem 'rake'
-gem 'minitest'
-gem 'awesome_print'
-gem 'simplecov'
-gem 'timecop'

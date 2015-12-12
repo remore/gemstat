@@ -1,8 +1,0 @@
-gem 'timecop'
-gem 'rake'
-gem 'rspec'
-gem 'eventmachine'
-gem 'simplecov'
-gem 'coveralls'
-gem 'mime-types'
-gem 'rest-client'

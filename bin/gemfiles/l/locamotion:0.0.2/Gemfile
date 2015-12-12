@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'aruba'
-gem 'rspec'
-gem 'rdoc'
-gem 'cucumber'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

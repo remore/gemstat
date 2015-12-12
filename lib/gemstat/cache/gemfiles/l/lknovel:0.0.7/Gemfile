@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'gepub'
+gem 'nokogiri'
+gem 'parallel'
+gem 'pry-rescue'

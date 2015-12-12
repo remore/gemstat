@@ -1,0 +1,5 @@
+gem 'cistern'
+gem 'excon'
+gem 'nokogiri'
+gem 'rest-client'
+gem 'awesome_print'

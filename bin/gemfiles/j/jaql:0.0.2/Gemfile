@@ -1,6 +1,0 @@
-gem 'abstract_method'
-gem 'activesupport'
-gem 'pg'
-gem 'dart'
-gem 'bundler'
-gem 'rake'

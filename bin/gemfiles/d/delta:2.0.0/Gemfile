@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'pry'
-gem 'activerecord'
-gem 'sqlite3'

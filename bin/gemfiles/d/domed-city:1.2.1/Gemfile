@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'trollop'
-gem 'aws-profile_parser'
-gem 'aws-sdk'
-gem 'colorize'

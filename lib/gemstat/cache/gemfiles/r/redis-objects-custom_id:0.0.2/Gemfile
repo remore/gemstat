@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'redis-objects'
+gem 'bundler'
+gem 'rake'

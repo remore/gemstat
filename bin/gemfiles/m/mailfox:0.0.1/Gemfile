@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'gibbon'
-gem 'jquery-rails'
-gem 'email_validator'

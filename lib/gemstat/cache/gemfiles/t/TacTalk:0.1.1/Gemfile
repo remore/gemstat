@@ -1,0 +1,7 @@
+gem 'words_counted'
+gem 'tokenizer'
+gem 'fuzzy_tools'
+gem 'ruby-tf-idf'
+gem 'ruby-stemmer'
+gem 'pragmatic_segmenter'
+gem 'sanitize'

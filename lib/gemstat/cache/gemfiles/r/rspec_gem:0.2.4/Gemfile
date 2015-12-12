@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'logger'
+gem 'database_cleaner'
+gem 'spork'

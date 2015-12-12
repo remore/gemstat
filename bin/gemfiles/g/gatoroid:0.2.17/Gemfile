@@ -1,7 +1,0 @@
-gem 'mongoid'
-gem 'rake'
-gem 'jeweler'
-gem 'rspec'
-gem 'mocha'
-gem 'bson_ext'
-gem 'database_cleaner'

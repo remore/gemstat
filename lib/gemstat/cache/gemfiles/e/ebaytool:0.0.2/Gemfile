@@ -1,0 +1,4 @@
+gem 'vrlib'
+gem 'gtk2'
+gem 'watir'
+gem 'require_all'

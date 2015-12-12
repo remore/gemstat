@@ -1,7 +1,0 @@
-gem 'fluq'
-gem 'poseidon_cluster'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'yard'
-gem 'coveralls'

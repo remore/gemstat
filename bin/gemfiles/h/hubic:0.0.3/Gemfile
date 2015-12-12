@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'mime-types'
-gem 'highline'
-gem 'nokogiri'
-gem 'rake'
-gem 'yard'

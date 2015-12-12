@@ -1,5 +1,0 @@
-gem 'curb'
-gem 'jsl-moneta'
-gem 'jsl-hashback'
-gem 'json'
-gem 'memcache-client'

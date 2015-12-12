@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rake'
-gem 'appraisal'
-gem 'minitest'

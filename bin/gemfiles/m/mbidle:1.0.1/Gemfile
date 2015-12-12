@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'eventmachine'
-gem 'em-imap'
-gem 'em-dir-watcher'
-gem 'em-systemcommand'
-gem 'rb-inotify'

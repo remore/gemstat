@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'timecop'
-gem 'fog'
-gem 'trollop'
-gem 'xml-simple'

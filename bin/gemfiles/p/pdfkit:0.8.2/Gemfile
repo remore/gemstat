@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'mocha'
-gem 'rack-test'
-gem 'i18n'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'

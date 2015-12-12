@@ -1,4 +1,0 @@
-gem 'posix-spawn'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

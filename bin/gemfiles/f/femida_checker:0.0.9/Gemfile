@@ -1,5 +1,0 @@
-gem 'json'
-gem 'beaneater'
-gem 'ruby-enum'
-gem 'bundler'
-gem 'rake'

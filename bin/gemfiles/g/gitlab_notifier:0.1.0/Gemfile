@@ -1,4 +1,0 @@
-gem 'terminal-notifier'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

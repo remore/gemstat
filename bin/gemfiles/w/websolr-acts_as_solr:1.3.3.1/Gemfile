@@ -1,3 +1,0 @@
-gem 'acts_as_solr'
-gem 'json'
-gem 'rspec'

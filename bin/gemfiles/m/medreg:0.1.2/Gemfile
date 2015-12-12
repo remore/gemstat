@@ -1,7 +1,0 @@
-gem 'mechanize'
-gem 'rubyXL'
-gem 'bundler'
-gem 'rake'
-gem 'flexmock'
-gem 'simplecov'
-gem 'minitest'

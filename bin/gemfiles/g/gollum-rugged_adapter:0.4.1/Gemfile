@@ -1,3 +1,0 @@
-gem 'rugged'
-gem 'mime-types'
-gem 'rspec'

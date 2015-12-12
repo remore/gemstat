@@ -1,5 +1,0 @@
-gem 'rubygems-tasks'
-gem 'rspec'
-gem 'yard'
-gem 'faraday'
-gem 'activesupport'

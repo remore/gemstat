@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'statemachine'
-gem 'yajl-ruby'
-gem 'i18n'
-gem 'scashin133-syslog_logger'
-gem 'rspec'
-gem 'rake'

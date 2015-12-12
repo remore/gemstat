@@ -1,8 +1,0 @@
-gem 'json_pure'
-gem 'rack'
-gem 'rack-contrib'
-gem 'rubymirrors'
-gem 'sinatra'
-gem 'activemodel'
-gem 'mocha'
-gem 'minitest'

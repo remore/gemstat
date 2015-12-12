@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'rails'
-gem 'bundler'
-gem 'rake'

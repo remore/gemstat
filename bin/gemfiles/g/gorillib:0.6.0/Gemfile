@@ -1,8 +1,0 @@
-gem 'multi_json'
-gem 'configliere'
-gem 'bundler'
-gem 'log4r'
-gem 'pry'
-gem 'rspec'
-gem 'rake'
-gem 'yard'

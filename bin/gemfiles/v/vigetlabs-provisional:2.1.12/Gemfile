@@ -1,4 +1,0 @@
-gem 'trollop'
-gem 'rails'
-gem 'git'
-gem 'builder'

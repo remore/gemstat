@@ -1,0 +1,8 @@
+gem 'hot_bunnies'
+gem 'thor'
+gem 'sinatra'
+gem 'atomic'
+gem 'json'
+gem 'guard-coffeescript'
+gem 'rr'
+gem 'guard-minitest'

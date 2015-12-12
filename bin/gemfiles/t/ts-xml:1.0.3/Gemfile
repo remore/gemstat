@@ -1,4 +1,0 @@
-gem 'thinking-sphinx'
-gem 'rspec'
-gem 'yard'
-gem 'cucumber'

@@ -1,0 +1,7 @@
+gem 'virtus'
+gem 'minitar'
+gem 'trollop'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

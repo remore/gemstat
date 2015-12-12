@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'hpricot'
-gem 'mime-types'
-gem 'rspec'

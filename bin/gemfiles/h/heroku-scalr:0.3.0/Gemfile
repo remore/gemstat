@@ -1,7 +1,0 @@
-gem 'timers'
-gem 'heroku-api'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'yard'
-gem 'webmock'

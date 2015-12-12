@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'ci_reporter_rspec'
-gem 'simplecov'
-gem 'io-grab'
-gem 'sequel'
-gem 'sqlite3'

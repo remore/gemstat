@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'require_all'
+gem 'statsd-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

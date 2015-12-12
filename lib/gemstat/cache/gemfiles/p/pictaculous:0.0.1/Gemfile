@@ -1,0 +1,5 @@
+gem 'curb'
+gem 'hashie'
+gem 'json'
+gem 'fakeweb'
+gem 'rspec'

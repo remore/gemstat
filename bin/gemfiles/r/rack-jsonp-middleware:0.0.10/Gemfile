@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'coveralls'
-gem 'rspec'
-gem 'rake'

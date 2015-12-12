@@ -1,6 +1,0 @@
-gem 'actionpack'
-gem 'i18n'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'tzinfo'

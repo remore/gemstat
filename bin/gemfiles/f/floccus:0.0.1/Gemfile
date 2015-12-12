@@ -1,3 +1,0 @@
-gem 'commander'
-gem 'aws-sdk'
-gem 'ruby-progressbar'

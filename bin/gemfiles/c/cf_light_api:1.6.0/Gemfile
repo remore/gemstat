@@ -1,7 +1,0 @@
-gem 'cfoundry'
-gem 'redis'
-gem 'parallel'
-gem 'rufus-scheduler'
-gem 'sinatra'
-gem 'redlock'
-gem 'graphite-api'

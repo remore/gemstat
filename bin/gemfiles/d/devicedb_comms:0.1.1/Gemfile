@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'virtus'
-gem 'rspec'
-gem 'webmock'
-gem 'simplecov'

@@ -1,3 +1,0 @@
-gem 'capistrano'
-gem 'railsless-deploy'
-gem 'php_serialize'

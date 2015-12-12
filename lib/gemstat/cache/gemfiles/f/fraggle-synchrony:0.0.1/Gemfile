@@ -1,0 +1,4 @@
+gem 'fraggle'
+gem 'em-synchrony'
+gem 'rake'
+gem 'rspec'

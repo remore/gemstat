@@ -1,4 +1,0 @@
-gem 'acts_as_indexed'
-gem 'dragonfly'
-gem 'globalize'
-gem 'refinerycms-core'

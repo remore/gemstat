@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'minigit'
-gem 'rspec-rails'
-gem 'sqlite3'

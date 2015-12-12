@@ -1,0 +1,8 @@
+gem 'colorize'
+gem 'guard'
+gem 'rspec'
+gem 'travis-lint'
+gem 'growl'
+gem 'guard-bundler'
+gem 'guard-rspec'
+gem 'rb-fsevent'

@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'typhoeus'
-gem 'bundler'
-gem 'pry'
-gem 'rake'

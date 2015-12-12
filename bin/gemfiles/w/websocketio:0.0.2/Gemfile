@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'websocket-eventmachine-server'
-gem 'proxifier'
-gem 'websocket'
-gem 'filter_io'

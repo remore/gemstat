@@ -1,6 +1,0 @@
-gem 'ordo'
-gem 'rake'
-gem 'rubocop'
-gem 'rspec'
-gem 'rbnacl-libsodium'
-gem 'activesupport'

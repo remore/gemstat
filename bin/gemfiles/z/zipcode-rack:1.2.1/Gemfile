@@ -1,7 +1,0 @@
-gem 'grape'
-gem 'pry'
-gem 'rubocop'
-gem 'rake'
-gem 'minitest'
-gem 'rack-test'
-gem 'thin'

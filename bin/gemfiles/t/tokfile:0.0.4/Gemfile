@@ -1,8 +1,0 @@
-gem 'coderunner'
-gem 'graphkit'
-gem 'command-line-flunky'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

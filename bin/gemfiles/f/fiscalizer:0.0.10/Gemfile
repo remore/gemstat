@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'xmldsig-fiscalizer'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,6 @@
+gem 'faraday_middleware'
+gem 'granicus-platform-api'
+gem 'nokogiri'
+gem 'faraday_middleware'
+gem 'granicus-platform-api'
+gem 'nokogiri'

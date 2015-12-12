@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'webmock'
-gem 'activesupport'
-gem 'fastimage'
-gem 'carrierwave'

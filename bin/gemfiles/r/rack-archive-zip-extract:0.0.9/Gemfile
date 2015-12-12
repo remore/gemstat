@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'zipruby'
-gem 'test-unit'
-gem 'test-unit-notify'
-gem 'yard'
-gem 'rubygems-tasks'
-gem 'simplecov'

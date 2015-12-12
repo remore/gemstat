@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-codec-line'
-gem 'edn'
-gem 'logstash-devutils'

@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'activesupport'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'yard'

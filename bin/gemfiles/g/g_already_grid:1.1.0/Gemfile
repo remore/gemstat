@@ -1,7 +1,0 @@
-gem 'gem-dandy'
-gem 'jeweler'
-gem 'rspec'
-gem 'rails'
-gem 'guilded'
-gem 'will_paginate'
-gem 'shoulda'

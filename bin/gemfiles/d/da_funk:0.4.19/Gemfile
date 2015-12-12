@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'yard'
-gem 'cloudwalk_handshake'

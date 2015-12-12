@@ -1,4 +1,0 @@
-gem 'log4r'
-gem 'git'
-gem 'six-arma-tools'
-gem 'six-rsync'

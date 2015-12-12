@@ -1,4 +1,0 @@
-gem 'selenium-webdriver'
-gem 'mixpanel_client'
-gem 'docker-api'
-gem 'dotenv'

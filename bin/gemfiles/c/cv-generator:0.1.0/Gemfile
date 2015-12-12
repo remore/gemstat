@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'wkhtmltopdf-binary'
-gem 'bundler'
-gem 'rake'

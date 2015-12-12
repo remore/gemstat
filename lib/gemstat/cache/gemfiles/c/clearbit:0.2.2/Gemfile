@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'net-http-spy'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'rack'
+gem 'webmock'
+gem 'nestful'

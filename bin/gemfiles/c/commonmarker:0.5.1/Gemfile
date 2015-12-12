@@ -1,7 +1,0 @@
-gem 'ruby-enum'
-gem 'minitest'
-gem 'rake-compiler'
-gem 'bundler'
-gem 'json'
-gem 'awesome_print'
-gem 'rdoc'

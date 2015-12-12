@@ -1,4 +1,0 @@
-gem 'grape'
-gem 'rspec'
-gem 'rake'
-gem 'pry'

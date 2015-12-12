@@ -1,4 +1,0 @@
-gem 'snmp'
-gem 'eventmachine'
-gem 'rspec'
-gem 'yard'

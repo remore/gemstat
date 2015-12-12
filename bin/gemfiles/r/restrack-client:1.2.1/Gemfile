@@ -1,5 +1,0 @@
-gem 'shoulda'
-gem 'mime-types'
-gem 'i18n'
-gem 'json'
-gem 'xml-simple'

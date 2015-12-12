@@ -1,0 +1,6 @@
+gem 'gems'
+gem 'rspec'
+gem 'test-unit'
+gem 'cane'
+gem 'faker'
+gem 'mocha'

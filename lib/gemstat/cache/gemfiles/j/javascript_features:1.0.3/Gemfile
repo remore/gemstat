@@ -1,0 +1,8 @@
+gem 'jsmin'
+gem 'harmony'
+gem 'shoulda'
+gem 'redgreen'
+gem 'rack-test'
+gem 'jslint_on_rails'
+gem 'activesupport'
+gem 'json'

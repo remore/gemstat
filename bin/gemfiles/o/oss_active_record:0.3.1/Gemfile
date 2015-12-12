@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'oss_rb'
-gem 'sqlite3'

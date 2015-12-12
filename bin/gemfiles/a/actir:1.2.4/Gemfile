@@ -1,7 +1,0 @@
-gem 'test-unit'
-gem 'watir-webdriver'
-gem 'selenium-webdriver'
-gem 'parallel'
-gem 'facets'
-gem 'bundler'
-gem 'rake'

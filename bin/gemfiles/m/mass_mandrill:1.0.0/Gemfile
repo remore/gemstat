@@ -1,5 +1,0 @@
-gem 'mandrill-api'
-gem 'rspec'
-gem 'byebug'
-gem 'rdoc'
-gem 'jeweler'

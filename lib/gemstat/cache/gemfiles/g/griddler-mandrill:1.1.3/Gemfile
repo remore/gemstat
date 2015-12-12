@@ -1,0 +1,4 @@
+gem 'griddler'
+gem 'rspec'
+gem 'rake'
+gem 'activesupport'

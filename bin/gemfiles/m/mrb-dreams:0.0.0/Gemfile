@@ -1,4 +1,0 @@
-gem 'haml'
-gem 'prawn'
-gem 'prawn-layout'
-gem 'prawn-format'

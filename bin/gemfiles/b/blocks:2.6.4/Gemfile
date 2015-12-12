@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'call_with_params'
-gem 'hashie'
-gem 'simplecov'
-gem 'rspec-rails'
-gem 'mocha'
-gem 'debugger'

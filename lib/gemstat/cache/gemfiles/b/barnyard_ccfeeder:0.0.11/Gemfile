@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'aws-sdk'
+gem 'logger'
+gem 'rest-client'
+gem 'crack'
+gem 'json'

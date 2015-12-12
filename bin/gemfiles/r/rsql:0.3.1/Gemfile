@@ -1,6 +1,0 @@
-gem 'net-ssh'
-gem 'mysqlplus'
-gem 'mocha'
-gem 'rake'
-gem 'rdoc'
-gem 'rcov'

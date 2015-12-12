@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'omniauth'
-gem 'omniauth-google-oauth2'
-gem 'omniauth-facebook'
-gem 'sass-rails'
-gem 'coffee-rails'
-gem 'bourbon'
-gem 'sqlite3'

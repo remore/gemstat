@@ -1,6 +1,0 @@
-gem 'ransack'
-gem 'pry'
-gem 'rspec'
-gem 'machinist'
-gem 'faker'
-gem 'sqlite3'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'erubis'
+gem 'yard'
+gem 'sqlite3'

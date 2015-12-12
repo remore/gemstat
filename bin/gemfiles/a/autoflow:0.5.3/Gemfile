@@ -1,4 +1,0 @@
-gem 'net-ssh'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'

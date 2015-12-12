@@ -1,7 +1,0 @@
-gem 'chefspec'
-gem 'multi_json'
-gem 'bundler'
-gem 'pry'
-gem 'pry-debugger'
-gem 'rake'
-gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'not_a_mock'
-gem 'isbn10'
-gem 'ean13'

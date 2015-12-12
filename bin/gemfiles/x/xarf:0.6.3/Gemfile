@@ -1,6 +1,0 @@
-gem 'mail'
-gem 'json_pure'
-gem 'json-schema'
-gem 'local_cache'
-gem 'activesupport'
-gem 'thor'

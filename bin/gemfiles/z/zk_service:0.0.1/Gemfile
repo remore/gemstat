@@ -1,3 +1,0 @@
-gem 'zookeeper'
-gem 'json'
-gem 'rspec'

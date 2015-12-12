@@ -1,4 +1,0 @@
-gem 'bitly'
-gem 'parseconfig'
-gem 'mocha'
-gem 'rspec'

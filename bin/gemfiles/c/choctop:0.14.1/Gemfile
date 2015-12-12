@@ -1,7 +1,0 @@
-gem 'rubyforge'
-gem 'hoe'
-gem 'escape'
-gem 'awesome_print'
-gem 'bundler'
-gem 'RedCloth'
-gem 'builder'

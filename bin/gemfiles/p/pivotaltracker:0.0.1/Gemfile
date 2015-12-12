@@ -1,8 +1,0 @@
-gem 'faraday'
-gem 'bundler'
-gem 'byebug'
-gem 'codeclimate-test-reporter'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'

@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'yahoofinance'
-gem 'lrucache'
-gem 'rspec'
-gem 'sqlite3'

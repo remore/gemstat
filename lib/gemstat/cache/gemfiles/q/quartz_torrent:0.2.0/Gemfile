@@ -1,0 +1,7 @@
+gem 'bencode'
+gem 'pqueue'
+gem 'base32'
+gem 'log4r'
+gem 'minitest'
+gem 'yard'
+gem 'redcarpet'

@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'test_engine'
-gem 'capybara'

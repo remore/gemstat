@@ -1,8 +1,0 @@
-gem 'activemodel'
-gem 'limesurvey'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'debugger'
-gem 'awesome_print'

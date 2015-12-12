@@ -1,8 +1,0 @@
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'rake-compiler'
-gem 'bencode'
-gem 'ffmpeg-video-info'
-gem 'rice'

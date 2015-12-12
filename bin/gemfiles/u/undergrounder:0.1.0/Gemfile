@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'padrino'
-gem 'rspec'
-gem 'ruby-debug19'

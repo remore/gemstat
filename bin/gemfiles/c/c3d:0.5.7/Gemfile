@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'celluloid'
-gem 'commander'
-gem 'bencode'
-gem 'timers'
-gem 'rspec'
-gem 'epm'

@@ -1,5 +1,0 @@
-gem 'builder'
-gem 'bundler'
-gem 'i18n'
-gem 'rack'
-gem 'rake'

@@ -1,0 +1,6 @@
+gem 'fluent-query-dbi'
+gem 'fluent-query-sql'
+gem 'fluent-query'
+gem 'dbd-sqlite3'
+gem 'bundler'
+gem 'jeweler'

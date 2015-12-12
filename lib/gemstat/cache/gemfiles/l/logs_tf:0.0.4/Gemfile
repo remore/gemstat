@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'multipart-post'
+gem 'vcr'
+gem 'coveralls'
+gem 'pry-nav'
+gem 'rspec'

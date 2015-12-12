@@ -1,7 +1,0 @@
-gem 'google-api-client'
-gem 'signet'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'debugger'

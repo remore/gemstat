@@ -1,5 +1,0 @@
-gem 'thread_safe'
-gem 'dry-configurable'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

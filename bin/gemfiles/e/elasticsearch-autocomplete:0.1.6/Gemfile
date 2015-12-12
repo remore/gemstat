@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'elasticsearch'
-gem 'elasticsearch-model'
-gem 'elasticsearch-rails'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

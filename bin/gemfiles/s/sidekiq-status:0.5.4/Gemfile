@@ -1,5 +1,0 @@
-gem 'sidekiq'
-gem 'rack-test'
-gem 'rake'
-gem 'rspec'
-gem 'sinatra'

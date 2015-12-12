@@ -1,3 +1,0 @@
-gem 'sendgrid-ruby'
-gem 'bundler'
-gem 'rake'

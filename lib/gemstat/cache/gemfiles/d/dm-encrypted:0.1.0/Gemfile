@@ -1,0 +1,2 @@
+gem 'rcrypt'
+gem 'thoughtbot-shoulda'

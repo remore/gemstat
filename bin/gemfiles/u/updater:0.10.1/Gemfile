@@ -1,4 +1,0 @@
-gem 'datamapper'
-gem 'rspec'
-gem 'timecop'
-gem 'chronic'

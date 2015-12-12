@@ -1,0 +1,6 @@
+gem 'ruby_parser'
+gem 'ParseTree'
+gem 'ruby2ruby'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

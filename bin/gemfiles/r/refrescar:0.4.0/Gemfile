@@ -1,3 +1,0 @@
-gem 'celluloid'
-gem 'rb-inotify'
-gem 'abstractive'

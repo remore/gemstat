@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'command_line_reporter'
-gem 'grit'
-gem 'httparty'

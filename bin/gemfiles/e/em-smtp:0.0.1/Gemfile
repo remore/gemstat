@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'mail'
-gem 'actionmailer'
-gem 'bundler'
-gem 'rake'

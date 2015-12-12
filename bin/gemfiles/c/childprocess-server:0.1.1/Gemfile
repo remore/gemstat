@@ -1,4 +1,0 @@
-gem 'childprocess'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

@@ -1,4 +1,0 @@
-gem 'dalli'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

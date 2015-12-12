@@ -1,4 +1,0 @@
-gem 'main'
-gem 'rspec'
-gem 'cucumber'
-gem 'aruba'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'

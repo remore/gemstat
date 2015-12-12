@@ -1,4 +1,0 @@
-gem 'dnsruby'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

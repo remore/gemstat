@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'acts_as_list'
-gem 'rails_autolink'
-gem 'jquery-rails'
-gem 'carrierwave'
-gem 'sqlite3'
-gem 'rspec-rails'

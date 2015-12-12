@@ -1,4 +1,0 @@
-gem 'curse-wdm'
-gem 'sass'
-gem 'compass-import-once'
-gem 'compass'

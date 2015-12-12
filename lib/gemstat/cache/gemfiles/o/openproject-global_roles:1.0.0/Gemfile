@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'factory_girl_rails'

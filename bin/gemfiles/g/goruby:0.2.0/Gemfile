@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'array_pair'
-gem 'rsruby'
-gem 'bio'

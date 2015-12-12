@@ -1,5 +1,0 @@
-gem 'twitter'
-gem 'oj'
-gem 'geocoder'
-gem 'rake'
-gem 'minitest'

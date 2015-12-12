@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

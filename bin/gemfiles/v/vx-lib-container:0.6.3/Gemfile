@@ -1,5 +1,0 @@
-gem 'docker-api'
-gem 'vx-lib-shell'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

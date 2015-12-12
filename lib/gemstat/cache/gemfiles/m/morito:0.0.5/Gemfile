@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

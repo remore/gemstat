@@ -1,0 +1,5 @@
+gem 'main'
+gem 'map'
+gem 'typhoeus'
+gem 'values'
+gem 'firebase_token_generator'

@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'rack'
-gem 'minitest'
-gem 'rspec'
-gem 'mocha'
-gem 'rack-test'

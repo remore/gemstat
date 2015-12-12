@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mspec'
-gem 'rubinius-processor'
-gem 'rubinius-ast'
-gem 'rubinius-bridge'
-gem 'redcard'

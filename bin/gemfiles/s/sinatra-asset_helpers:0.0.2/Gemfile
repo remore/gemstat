@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'oj'
-gem 'bundler'
-gem 'rake'

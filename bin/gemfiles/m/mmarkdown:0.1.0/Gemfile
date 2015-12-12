@@ -1,4 +1,0 @@
-gem 'redcarpet'
-gem 'math_ml'
-gem 'nokogiri'
-gem 'jeweler'

@@ -1,7 +1,0 @@
-gem 'dante'
-gem 'hipchat'
-gem 'nokogiri'
-gem 'httparty'
-gem 'rufus-scheduler'
-gem 'bundler'
-gem 'rake'

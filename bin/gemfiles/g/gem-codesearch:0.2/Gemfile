@@ -1,5 +1,0 @@
-gem 'rubygems-mirror'
-gem 'milkode'
-gem 'rake'
-gem 'builder'
-gem 'test-unit'

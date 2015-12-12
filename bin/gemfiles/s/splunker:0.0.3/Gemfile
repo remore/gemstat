@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'faraday'
-gem 'addressable'
-gem 'rspec'
-gem 'rake'
-gem 'webmock'

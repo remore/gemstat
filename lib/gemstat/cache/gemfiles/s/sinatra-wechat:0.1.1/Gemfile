@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'sinatra'
+gem 'nokogiri'
+gem 'blankslate'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'coveralls'

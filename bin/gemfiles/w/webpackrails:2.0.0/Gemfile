@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'sprockets'
-gem 'rake'
-gem 'bundler'
-gem 'rails'
-gem 'pry'
-gem 'tilt'

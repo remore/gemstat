@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'sinatra'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'guard'
-gem 'guard-minitest'

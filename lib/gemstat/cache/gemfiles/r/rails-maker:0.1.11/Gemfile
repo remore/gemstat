@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'thor'
+gem 'rails'
+gem 'hpricot'
+gem 'ruby_parser'
+gem 'bundler'
+gem 'rspec'
+gem 'thor'

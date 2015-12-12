@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'listen'
-gem 'json'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

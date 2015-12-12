@@ -1,4 +1,0 @@
-gem 'commander'
-gem 'colorize'
-gem 'terminal-notifier'
-gem 'rspec'

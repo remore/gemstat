@@ -1,4 +1,0 @@
-gem 'gem_plugin'
-gem 'mongrel'
-gem 'rubyforge'
-gem 'hoe'

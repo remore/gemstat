@@ -1,4 +1,0 @@
-gem 'json'
-gem 'rspec'
-gem 'cucumber'
-gem 'aruba'

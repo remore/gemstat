@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'factory_girl'
-gem 'sqlite3'

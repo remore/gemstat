@@ -1,5 +1,0 @@
-gem 'money'
-gem 'mocha'
-gem 'nokogiri'
-gem 'rake'
-gem 'pry'

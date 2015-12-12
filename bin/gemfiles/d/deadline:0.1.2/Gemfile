@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'activesupport'
-gem 'curses'
-gem 'i18n'
-gem 'terminal-notifier'
-gem 'ruby-growl'

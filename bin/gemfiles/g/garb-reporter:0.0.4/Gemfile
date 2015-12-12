@@ -1,5 +1,0 @@
-gem 'garb'
-gem 'rspec'
-gem 'i18n'
-gem 'vcr'
-gem 'fakeweb'

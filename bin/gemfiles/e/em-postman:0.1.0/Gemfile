@@ -1,5 +1,0 @@
-gem 'em-hiredis'
-gem 'multi_json'
-gem 'yajl-ruby'
-gem 'em-spec'
-gem 'rspec'

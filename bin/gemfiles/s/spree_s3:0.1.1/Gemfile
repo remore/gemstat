@@ -1,3 +1,0 @@
-gem 'spree_core'
-gem 'paperclip'
-gem 'aws-s3'

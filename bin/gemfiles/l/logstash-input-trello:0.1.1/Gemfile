@@ -1,3 +1,0 @@
-gem 'logstash'
-gem 'activesupport'
-gem 'logstash-devutils'

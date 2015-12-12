@@ -1,0 +1,5 @@
+gem 'faye'
+gem 'thin'
+gem 'rake'
+gem 'rspec'
+gem 'jasmine'

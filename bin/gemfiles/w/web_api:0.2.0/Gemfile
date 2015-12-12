@@ -1,3 +1,0 @@
-gem 'help_parser'
-gem 'oauth'
-gem 'signet'

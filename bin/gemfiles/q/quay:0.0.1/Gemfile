@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'docker-api'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

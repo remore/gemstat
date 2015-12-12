@@ -1,0 +1,2 @@
+gem 'antismoker'
+gem 'memcache'

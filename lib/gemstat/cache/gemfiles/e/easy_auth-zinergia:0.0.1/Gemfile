@@ -1,0 +1,8 @@
+gem 'easy_auth-oauth2'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'vcr'
+gem 'poltergeist'
+gem 'database_cleaner'
+gem 'launchy'

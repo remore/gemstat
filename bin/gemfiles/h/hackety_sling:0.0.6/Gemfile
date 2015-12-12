@@ -1,6 +1,0 @@
-gem 'document_mapper'
-gem 'erubis'
-gem 'sinatra'
-gem 'ratom'
-gem 'rack-test'
-gem 'RedCloth'

@@ -1,0 +1,7 @@
+gem 'contracts'
+gem 'fog'
+gem 'rspec'
+gem 'rspec-nc'
+gem 'guard'
+gem 'guard-rspec'
+gem 'coveralls'

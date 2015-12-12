@@ -1,2 +1,0 @@
-gem 'redis'
-gem 'rack-test'

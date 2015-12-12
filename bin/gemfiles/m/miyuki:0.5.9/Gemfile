@@ -1,8 +1,0 @@
-gem 'yamazaki'
-gem 'rufus-scheduler'
-gem 'foreverb'
-gem 'filewatcher'
-gem 'ruby_deep_clone'
-gem 'terminal-notifier'
-gem 'cucumber'
-gem 'rspec'

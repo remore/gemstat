@@ -1,0 +1,4 @@
+gem 'fastercsv'
+gem 'sandofsky-csvscan'
+gem 'wycats-thor'
+gem 'hoe'

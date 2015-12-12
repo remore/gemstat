@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'eventmachine'
-gem 'amqp'
-gem 'algorithms'
-gem 'log4r'
-gem 'uuidtools'
-gem 'json'

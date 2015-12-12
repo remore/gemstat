@@ -1,7 +1,0 @@
-gem 'camouflage'
-gem 'id3_tags'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'redcarpet'
-gem 'yard'

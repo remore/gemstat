@@ -1,0 +1,6 @@
+gem 'fluentd'
+gem 'multi_json'
+gem 'redis-namespace'
+gem 'rake'
+gem 'simplecov'
+gem 'rr'

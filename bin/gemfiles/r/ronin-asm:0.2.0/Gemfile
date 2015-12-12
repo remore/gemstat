@@ -1,4 +1,0 @@
-gem 'data_paths'
-gem 'ruby-yasm'
-gem 'bundler'
-gem 'yard'

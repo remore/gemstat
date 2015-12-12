@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

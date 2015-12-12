@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'rubigen'
+gem 'rack-test'
+gem 'webrat'
+gem 'fakeweb'
+gem 'haml'

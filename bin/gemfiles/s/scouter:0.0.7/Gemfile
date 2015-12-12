@@ -1,8 +1,0 @@
-gem 'hashie'
-gem 'thor'
-gem 'parallel'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'fakeweb'
-gem 'rspec'

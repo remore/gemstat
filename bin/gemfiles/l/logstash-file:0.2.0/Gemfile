@@ -1,8 +1,0 @@
-gem 'json'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'yard'
-gem 'simplecov'
-gem 'kramdown'
-gem 'ci_reporter'

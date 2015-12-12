@@ -1,0 +1,7 @@
+gem 'gli'
+gem 'rainbow'
+gem 'json'
+gem 'rspec'
+gem 'rake'
+gem 'aruba'
+gem 'simplecov'

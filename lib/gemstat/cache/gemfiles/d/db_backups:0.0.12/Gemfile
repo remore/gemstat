@@ -1,0 +1,4 @@
+gem 'optitron'
+gem 'fog'
+gem 'terminal-table'
+gem 'pry'

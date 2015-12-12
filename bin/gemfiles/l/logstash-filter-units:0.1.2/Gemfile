@@ -1,3 +1,0 @@
-gem 'logstash'
-gem 'unitwise'
-gem 'logstash-devutils'

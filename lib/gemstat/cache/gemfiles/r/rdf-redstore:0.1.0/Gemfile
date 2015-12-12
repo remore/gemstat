@@ -1,0 +1,5 @@
+gem 'rdf'
+gem 'sparql-client'
+gem 'rdf-spec'
+gem 'rspec'
+gem 'yard'

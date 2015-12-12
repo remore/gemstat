@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'colored'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

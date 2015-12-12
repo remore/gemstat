@@ -1,4 +1,0 @@
-gem 'parser'
-gem 'json'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'rake'
+gem 'chunky_png'
+gem 'oily_png'
+gem 'json'
+gem 'thor'

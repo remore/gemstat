@@ -1,8 +1,0 @@
-gem 'sidekiq'
-gem 'heroku-api'
-gem 'platform-api'
-gem 'bundler'
-gem 'rspec'
-gem 'rspec-its'
-gem 'guard-rspec'
-gem 'guard-process'

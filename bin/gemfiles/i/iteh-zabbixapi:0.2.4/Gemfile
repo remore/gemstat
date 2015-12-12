@@ -1,4 +1,0 @@
-gem 'json'
-gem 'awesome_print'
-gem 'rspec'
-gem 'fakeweb'

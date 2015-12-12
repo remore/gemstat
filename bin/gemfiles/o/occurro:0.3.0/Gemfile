@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'rspec-rails'
-gem 'database_cleaner'
-gem 'factory_girl_rails'
-gem 'resque'
-gem 'delayed_job_active_record'

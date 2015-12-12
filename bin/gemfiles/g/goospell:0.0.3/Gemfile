@@ -1,3 +1,0 @@
-gem 'to_xml'
-gem 'rexml-expansion-fix'
-gem 'rake'

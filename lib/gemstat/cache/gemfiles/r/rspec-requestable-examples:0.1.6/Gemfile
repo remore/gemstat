@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'cucumber'
+gem 'aruba'
+gem 'fakefs'
+gem 'syntax'

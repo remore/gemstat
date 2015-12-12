@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'git'
-gem 'json'
-gem 'highline'

@@ -1,5 +1,0 @@
-gem 'rforce-raygao'
-gem 'builder'
-gem 'hpricot'
-gem 'facets'
-gem 'oauth'

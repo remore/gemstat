@@ -1,3 +1,0 @@
-gem 'rollbar'
-gem 'mongoid'
-gem 'activesupport'

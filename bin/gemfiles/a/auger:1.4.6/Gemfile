@@ -1,6 +1,0 @@
-gem 'json'
-gem 'redis'
-gem 'net-dns'
-gem 'rainbow'
-gem 'host_range'
-gem 'net-ssh-gateway'

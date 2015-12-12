@@ -1,8 +1,0 @@
-gem 'trollop'
-gem 'excon'
-gem 'logger-colors'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'simplecov'

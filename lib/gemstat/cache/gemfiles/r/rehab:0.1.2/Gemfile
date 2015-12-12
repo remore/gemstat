@@ -1,0 +1,7 @@
+gem 'tilt'
+gem 'temple'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'ruby-osc'
-gem 'arguments'
-gem 'live'

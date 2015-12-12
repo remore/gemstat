@@ -1,3 +1,0 @@
-gem 'hpricot'
-gem 'closure-compiler'
-gem 'yui-compressor'

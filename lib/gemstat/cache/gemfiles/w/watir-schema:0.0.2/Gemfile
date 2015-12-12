@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'watir-webdriver'
+gem 'micro-optparse'
+gem 'rdoba'
+gem 'bundler'
+gem 'rake'

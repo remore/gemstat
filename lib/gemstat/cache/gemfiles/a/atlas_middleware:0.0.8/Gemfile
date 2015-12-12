@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'httparty'
+gem 'activesupport'
+gem 'arcserver.rb'
+gem 'shoulda'
+gem 'mocha'
+gem 'rack-test'

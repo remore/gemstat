@@ -1,0 +1,5 @@
+gem 'padrino-helpers'
+gem 'rake'
+gem 'rspec'
+gem 'activemodel'
+gem 'nokogiri'

@@ -1,1 +1,0 @@
-gem 'sqlite3'

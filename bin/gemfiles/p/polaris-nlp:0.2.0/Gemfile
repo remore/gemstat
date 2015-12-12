@@ -1,4 +1,0 @@
-gem 'sqlite3'
-gem 'natto'
-gem 'bundler'
-gem 'rake'

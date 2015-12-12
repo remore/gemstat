@@ -1,0 +1,7 @@
+gem 'json'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'byebug'
+gem 'rspec'
+gem 'awesome_print'

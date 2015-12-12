@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'haml-rails'
-gem 'compass'
-gem 'formtastic'

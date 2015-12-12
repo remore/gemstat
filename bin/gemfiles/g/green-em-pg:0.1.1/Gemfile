@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'pg'
-gem 'green'
-gem 'em-pg'

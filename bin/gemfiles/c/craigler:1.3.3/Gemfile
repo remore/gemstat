@@ -1,5 +1,0 @@
-gem 'hpricot'
-gem 'rake'
-gem 'shoulda'
-gem 'minitest'
-gem 'yard'

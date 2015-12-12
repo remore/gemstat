@@ -1,0 +1,7 @@
+gem 'chef-api'
+gem 'logify'
+gem 'aruba'
+gem 'bundler'
+gem 'community-zero'
+gem 'rake'
+gem 'rspec'

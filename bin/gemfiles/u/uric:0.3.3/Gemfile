@@ -1,7 +1,0 @@
-gem 'addressable'
-gem 'mime-types'
-gem 'mechanize'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

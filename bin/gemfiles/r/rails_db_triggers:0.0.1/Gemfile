@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'rake-hooks'
-gem 'sqlite3'

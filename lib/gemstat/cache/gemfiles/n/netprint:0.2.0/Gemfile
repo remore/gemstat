@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'netprint'
+gem 'webmock'
+gem 'mechanize'
+gem 'addressable'
+gem 'docopt'

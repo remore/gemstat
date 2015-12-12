@@ -1,5 +1,0 @@
-gem 'jasmine-core'
-gem 'coffee-script'
-gem 'rainbow'
-gem 'multi_json'
-gem 'sprockets'

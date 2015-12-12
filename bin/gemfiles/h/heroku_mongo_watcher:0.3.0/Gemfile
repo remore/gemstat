@@ -1,4 +1,0 @@
-gem 'term-ansicolor'
-gem 'tlsmail'
-gem 'heroku'
-gem 'trollop'

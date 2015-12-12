@@ -1,4 +1,0 @@
-gem 'gemcutter'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

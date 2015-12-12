@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'codeclimate-test-reporter'
-gem 'ruby-trello'

@@ -1,6 +1,0 @@
-gem 'cucumber'
-gem 'jscruggs-metric_fu'
-gem 'rdoc'
-gem 'reek'
-gem 'roodi'
-gem 'rspec'

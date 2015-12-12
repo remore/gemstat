@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'backup'
-gem 'api4baidu'
-gem 'oauth2'
-gem 'json'

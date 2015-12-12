@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'sqlite3-ruby'
-gem 'mysql'
-gem 'pg'
-gem 'jeweler'
-gem 'rspec'
-gem 'rcov'
-gem 'database_cleaner'

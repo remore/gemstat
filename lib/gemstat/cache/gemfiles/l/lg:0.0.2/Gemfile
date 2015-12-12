@@ -1,0 +1,6 @@
+gem 'rr'
+gem 'fakefs'
+gem 'guard-minitest'
+gem 'user_config'
+gem 'thor'
+gem 'chronic'

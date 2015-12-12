@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'webmock'
-gem 'minitest'
-gem 'simplecov'
-gem 'httparty'

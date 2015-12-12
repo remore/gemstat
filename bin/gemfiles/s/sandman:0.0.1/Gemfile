@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'bitbucket_rest_api'
-gem 'github_api'
-gem 'bundler'
-gem 'rake'

@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'faraday'
-gem 'mime-types'
-gem 'colorize'
-gem 'travis'
-gem 'octokit'
-gem 'pivotal-tracker'
-gem 'circleci'

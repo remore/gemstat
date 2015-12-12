@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'webrat'
-gem 'capybara'
-gem 'metric_fu'
-gem 'nokogiri'
-gem 'activesupport'
-gem 'tilt'

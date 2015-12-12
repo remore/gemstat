@@ -1,8 +1,0 @@
-gem 'cenit-collection-base'
-gem 'cenit-client'
-gem 'activesupport'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

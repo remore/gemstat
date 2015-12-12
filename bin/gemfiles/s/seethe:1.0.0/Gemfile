@@ -1,8 +1,0 @@
-gem 'actionview'
-gem 'flog'
-gem 'ruby_parser'
-gem 'sexp_processor'
-gem 'descriptive_statistics'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'pry'

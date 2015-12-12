@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'codeclimate-test-reporter'
-gem 'rake'
-gem 'minitest-power_assert'

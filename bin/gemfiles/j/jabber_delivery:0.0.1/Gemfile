@@ -1,5 +1,0 @@
-gem 'xmpp4r'
-gem 'rspec'
-gem 'mail'
-gem 'ZenTest'
-gem 'pry'

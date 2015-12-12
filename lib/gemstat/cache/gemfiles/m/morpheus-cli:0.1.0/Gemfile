@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'term-ansicolor'
+gem 'rest-client'
+gem 'multipart-post'
+gem 'filesize'
+gem 'mime-types'
+gem 'table_print'

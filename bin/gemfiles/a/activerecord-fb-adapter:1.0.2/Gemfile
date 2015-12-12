@@ -1,6 +1,0 @@
-gem 'fb'
-gem 'activerecord'
-gem 'mocha'
-gem 'pry-byebug'
-gem 'minitest-spec-rails'
-gem 'minitest-reporters'

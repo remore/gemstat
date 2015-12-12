@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'nokogiri'
-gem 'ox'
-gem 'ruby-sasl'

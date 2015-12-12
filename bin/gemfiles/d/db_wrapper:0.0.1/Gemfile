@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'em-http-request'
-gem 'em-proxy'
-gem 'log4r'

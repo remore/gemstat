@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'netrc'
+gem 'colorize'
+gem 'learn-web'

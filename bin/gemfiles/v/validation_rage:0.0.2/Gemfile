@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'mocha'
-gem 'activesupport'
-gem 'json'

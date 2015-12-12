@@ -1,3 +1,0 @@
-gem 'netaddr'
-gem 'term-ansicolor'
-gem 'bundler'

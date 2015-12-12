@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'redis'
-gem 'yajl-ruby'
-gem 'rails'
-gem 'timecop'
-gem 'ruby-debug19'
-gem 'simplecov'
-gem 'activesupport'

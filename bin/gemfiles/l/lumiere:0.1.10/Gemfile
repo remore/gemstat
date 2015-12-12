@@ -1,8 +1,0 @@
-gem 'representable'
-gem 'virtus'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'vcr'
-gem 'activesupport'

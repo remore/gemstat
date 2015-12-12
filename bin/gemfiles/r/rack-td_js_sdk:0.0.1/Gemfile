@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'test-unit'
-gem 'rack-test'

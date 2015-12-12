@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'rubocop'
-gem 'appium_thor'
-gem 'simplecov'
-gem 'coveralls'

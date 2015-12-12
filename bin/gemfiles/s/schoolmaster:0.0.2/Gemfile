@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'git'
-gem 'cane'
-gem 'brakeman'
-gem 'rails_best_practices'
-gem 'bundler-audit'

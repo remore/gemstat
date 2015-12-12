@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'its'
-gem 'pry'
-gem 'pry-debugger'
-gem 'pry-stack_explorer'
-gem 'pry-doc'

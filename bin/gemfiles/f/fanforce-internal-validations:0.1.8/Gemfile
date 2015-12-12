@@ -1,3 +1,0 @@
-gem 'activesupport-inflector'
-gem 'fanforce-internal-utils'
-gem 'fanforce-internal-errors'

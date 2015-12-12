@@ -1,4 +1,0 @@
-gem 'builder'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'

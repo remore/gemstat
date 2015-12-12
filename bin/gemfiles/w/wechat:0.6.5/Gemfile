@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'nokogiri'
-gem 'thor'
-gem 'rest-client'
-gem 'rspec-rails'
-gem 'rails'

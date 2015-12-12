@@ -1,4 +1,0 @@
-gem 'json'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rake'

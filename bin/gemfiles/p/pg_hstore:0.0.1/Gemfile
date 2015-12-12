@@ -1,2 +1,0 @@
-gem 'pg-hstore'
-gem 'rspec'

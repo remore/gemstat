@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'methadone'
-gem 'paint'
-gem 'thread'
-gem 'bundler'
-gem 'rake'

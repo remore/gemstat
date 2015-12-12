@@ -1,6 +1,0 @@
-gem 'oj'
-gem 'faraday'
-gem 'typhoeus'
-gem 'faraday_middleware'
-gem 'activemerchant'
-gem 'spree'

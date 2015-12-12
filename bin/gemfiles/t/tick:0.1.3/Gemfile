@@ -1,5 +1,0 @@
-gem 'rainbow'
-gem 'rspec'
-gem 'rr'
-gem 'autotest'
-gem 'ruby-debug'

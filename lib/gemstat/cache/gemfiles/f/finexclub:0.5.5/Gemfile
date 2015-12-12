@@ -1,0 +1,6 @@
+gem 'bacon'
+gem 'facon'
+gem 'mongo'
+gem 'dragonfly'
+gem 'sinatra'
+gem 'awesome_print'

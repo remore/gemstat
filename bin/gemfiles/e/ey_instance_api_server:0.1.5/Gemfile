@@ -1,8 +1,0 @@
-gem 'json'
-gem 'sinatra'
-gem 'rake'
-gem 'rspec'
-gem 'ruby-debug'
-gem 'rack-client'
-gem 'rcov'
-gem 'fog'

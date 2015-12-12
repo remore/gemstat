@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'uuidtools'
-gem 'activemodel'
-gem 'yajl-ruby'
-gem 'fast-stemmer'
-gem 'rubyforge'
-gem 'gemcutter'
-gem 'hoe'

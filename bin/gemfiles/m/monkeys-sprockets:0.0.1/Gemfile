@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'appraisal'
-gem 'pry'
-gem 'sprockets'

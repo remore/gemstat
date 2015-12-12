@@ -1,8 +1,0 @@
-gem 'uuidtools'
-gem 'i18n'
-gem 'six-updater'
-gem 'sqlite3-ruby'
-gem 'rails'
-gem 'haml'
-gem 'coderay'
-gem 'RedCloth'

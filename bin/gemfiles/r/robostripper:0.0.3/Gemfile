@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'rake'
-gem 'rdoc'

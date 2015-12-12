@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'activesupport'
-gem 'bundler'
-gem 'minitest'

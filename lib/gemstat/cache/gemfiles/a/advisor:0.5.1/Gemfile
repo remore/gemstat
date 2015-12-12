@@ -1,0 +1,7 @@
+gem 'metriks'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'rubocop'
+gem 'pry'
+gem 'pry-byebug'

@@ -1,0 +1,6 @@
+gem 'rack-test'
+gem 'rspec'
+gem 'bundler'
+gem 'fakeredis'
+gem 'grape'
+gem 'redis'

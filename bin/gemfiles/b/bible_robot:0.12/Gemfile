@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'hpricot'
-gem 'sanitize'

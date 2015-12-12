@@ -1,4 +1,0 @@
-gem 'builder'
-gem 'newgem'
-gem 'mocha'
-gem 'hoe'

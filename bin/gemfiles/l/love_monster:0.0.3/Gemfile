@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'kaminari'
-gem 'sqlite3'

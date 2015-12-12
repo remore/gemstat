@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'multi_json'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'webmock'

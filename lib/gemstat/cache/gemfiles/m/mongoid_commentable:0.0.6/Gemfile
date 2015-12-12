@@ -1,0 +1,8 @@
+gem 'mongoid'
+gem 'bson_ext'
+gem 'rr'
+gem 'rspec'
+gem 'database_cleaner'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

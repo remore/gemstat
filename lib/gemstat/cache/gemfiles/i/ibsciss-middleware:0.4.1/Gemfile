@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'codeclimate-test-reporter'

@@ -1,5 +1,0 @@
-gem 'moxie-columbus'
-gem 'shoulda'
-gem 'jeweler'
-gem 'fakeweb'
-gem 'jnunemaker-matchy'

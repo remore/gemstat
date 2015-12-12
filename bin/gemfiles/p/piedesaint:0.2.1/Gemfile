@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'puma'
-gem 'rack-ssl-enforcer'
-gem 'rack-cache'

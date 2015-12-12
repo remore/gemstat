@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'rake'
-gem 'capybara'
-gem 'pry'
-gem 'guard-rspec'
-gem 'rubygems-tasks'
-gem 'simplecov'

@@ -1,6 +1,0 @@
-gem 'pluto-models'
-gem 'pluto-feedfetcher'
-gem 'fetcher'
-gem 'preproc'
-gem 'rdoc'
-gem 'hoe'

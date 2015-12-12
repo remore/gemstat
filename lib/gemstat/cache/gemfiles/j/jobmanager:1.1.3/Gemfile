@@ -1,0 +1,8 @@
+gem 'simpleemail'
+gem 'configtoolkit'
+gem 'relative'
+gem 'logrotate'
+gem 'SyslogLogger'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

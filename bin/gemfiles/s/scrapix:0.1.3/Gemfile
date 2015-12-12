@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'capybara'
-gem 'mechanize'
-gem 'poltergeist'
-gem 'rake'
-gem 'bundler'

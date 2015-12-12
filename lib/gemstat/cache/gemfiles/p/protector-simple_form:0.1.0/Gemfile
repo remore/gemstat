@@ -1,0 +1,4 @@
+gem 'simple_form'
+gem 'protector'
+gem 'bundler'
+gem 'rake'

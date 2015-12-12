@@ -1,7 +1,0 @@
-gem 'slop'
-gem 'json'
-gem 'mem'
-gem 'webmock'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

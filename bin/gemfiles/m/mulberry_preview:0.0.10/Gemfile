@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'bootstrap-sass-rails'
-gem 'coderay'
-gem 'redcarpet'
-gem 'sqlite3'

@@ -1,3 +1,0 @@
-gem 'pry-exception_explorer'
-gem 'bacon'
-gem 'rspec'

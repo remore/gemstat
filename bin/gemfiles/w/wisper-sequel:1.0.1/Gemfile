@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'wisper-rspec'
-gem 'sqlite3'
-gem 'wisper'
-gem 'sequel'

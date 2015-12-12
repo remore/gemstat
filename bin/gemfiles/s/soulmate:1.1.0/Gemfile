@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'vegas'
-gem 'sinatra'
-gem 'multi_json'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

@@ -1,7 +1,0 @@
-gem 'multi_json'
-gem 'methadone'
-gem 'map'
-gem 'debugger'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

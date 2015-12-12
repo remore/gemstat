@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'mechanize'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

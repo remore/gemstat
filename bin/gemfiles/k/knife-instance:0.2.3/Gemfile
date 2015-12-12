@@ -1,5 +1,0 @@
-gem 'chef'
-gem 'fog'
-gem 'rake'
-gem 'rspec'
-gem 'require_all'

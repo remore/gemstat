@@ -1,0 +1,2 @@
+gem 'i18n-toolbox'
+gem 'gtk3'

@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'bundler'
+gem 'dotenv'
+gem 'rake'
+gem 'rspec'

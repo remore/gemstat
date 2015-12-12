@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'uuid'
-gem 'sqlite3'

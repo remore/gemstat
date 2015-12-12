@@ -1,0 +1,2 @@
+gem 'eycloud-helper-emerge'
+gem 'rake'

@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'class_attribute'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'
-gem 'simplecov'
-gem 'coveralls'

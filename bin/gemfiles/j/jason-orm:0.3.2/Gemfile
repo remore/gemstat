@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'require_relative'
-gem 'rake'
-gem 'rspec'
-gem 'fuubar'
-gem 'chronic'

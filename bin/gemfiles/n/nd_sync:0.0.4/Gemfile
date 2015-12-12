@@ -1,6 +1,0 @@
-gem 'jbuilder'
-gem 'activesupport'
-gem 'activerecord'
-gem 'activeresource'
-gem 'nd_transcriber'
-gem 'nd_transmission'

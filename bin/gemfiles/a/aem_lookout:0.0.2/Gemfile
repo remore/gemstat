@@ -1,5 +1,0 @@
-gem 'vlt_wrapper'
-gem 'builder'
-gem 'rb-fsevent'
-gem 'bundler'
-gem 'rspec'

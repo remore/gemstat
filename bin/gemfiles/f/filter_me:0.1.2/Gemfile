@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'combustion'
-gem 'rspec-rails'
-gem 'sqlite3'

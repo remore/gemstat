@@ -1,0 +1,7 @@
+gem 'pie-rails'
+gem 'flexlayout-rails'
+gem 'html5forms-rails'
+gem 'html5-now-rails'
+gem 'modernizr-rails'
+gem 'bundler'
+gem 'jeweler'

@@ -1,0 +1,2 @@
+gem 'twitter'
+gem 'oauth'

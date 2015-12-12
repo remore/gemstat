@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'operation'
-gem 'signature'
-gem 'activesupport'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'webmock'

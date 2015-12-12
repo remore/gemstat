@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'simplecov-rcov'
-gem 'actionpack'
-gem 'activesupport'
-gem 'activemodel'
-gem 'railties'

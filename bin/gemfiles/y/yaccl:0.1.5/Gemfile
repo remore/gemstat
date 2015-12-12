@@ -1,3 +1,0 @@
-gem 'typhoeus'
-gem 'multipart-post'
-gem 'multi_json'

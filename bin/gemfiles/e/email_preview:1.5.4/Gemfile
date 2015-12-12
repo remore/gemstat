@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'shoulda'
-gem 'rake'
-gem 'sqlite3'

@@ -1,3 +1,0 @@
-gem 'awesome_print'
-gem 'route53'
-gem 'terminal-table'

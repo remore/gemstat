@@ -1,8 +1,0 @@
-gem 'multi_json'
-gem 'rack'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'shotgun'
-gem 'guard-rspec'
-gem 'oauth2'

@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'tinymce-rails'
-gem 'sqlite3'

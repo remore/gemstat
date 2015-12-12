@@ -1,8 +1,0 @@
-gem 'parse-cron'
-gem 'bundler'
-gem 'fluentd'
-gem 'pry'
-gem 'rake'
-gem 'rubocop'
-gem 'rubygems-tasks'
-gem 'yard'

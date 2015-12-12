@@ -1,8 +1,0 @@
-gem 'aws-s3'
-gem 'mustache'
-gem 'paperclip'
-gem 'will_paginate'
-gem 'aws-s3'
-gem 'mustache'
-gem 'paperclip'
-gem 'will_paginate'

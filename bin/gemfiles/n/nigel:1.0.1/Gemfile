@@ -1,5 +1,0 @@
-gem 'commander'
-gem 'google-search'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

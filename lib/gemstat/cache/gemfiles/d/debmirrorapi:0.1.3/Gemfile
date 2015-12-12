@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'sinatra-croon'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'rack-test'

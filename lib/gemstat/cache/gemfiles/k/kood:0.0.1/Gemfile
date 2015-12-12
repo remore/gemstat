@@ -1,0 +1,7 @@
+gem 'ronn'
+gem 'rake'
+gem 'activesupport'
+gem 'thor'
+gem 'adapter-git'
+gem 'toystore'
+gem 'user_config'

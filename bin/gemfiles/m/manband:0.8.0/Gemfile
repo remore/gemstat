@@ -1,7 +1,0 @@
-gem 'amqp'
-gem 'json'
-gem 'data_mapper'
-gem 'dm-mysql-adapter'
-gem 'zip'
-gem 'mb-aws-s3'
-gem 'uuid'

@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'jbuilder'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

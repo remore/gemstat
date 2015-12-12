@@ -1,0 +1,6 @@
+gem 'transproc'
+gem 'bundler'
+gem 'cucumber'
+gem 'money'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'mocha'
+gem 'shoulda'
+gem 'test-unit'

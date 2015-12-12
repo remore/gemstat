@@ -1,4 +1,0 @@
-gem 'execjs'
-gem 'bundler'
-gem 'pry'
-gem 'rake'

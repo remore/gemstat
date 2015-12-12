@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'rspec'
+gem 'rack'
+gem 'rack-test'

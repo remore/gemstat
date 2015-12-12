@@ -1,4 +1,0 @@
-gem 'omniauth'
-gem 'td-client'
-gem 'shotgun'
-gem 'sinatra'

@@ -1,7 +1,0 @@
-gem 'heartcheck'
-gem 'dalli'
-gem 'pry-nav'
-gem 'rspec'
-gem 'rubocop'
-gem 'yard'
-gem 'redcarpet'

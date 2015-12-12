@@ -1,7 +1,0 @@
-gem 'sevenwire-rest-client'
-gem 'thor'
-gem 'log4r'
-gem 'rake'
-gem 'shoulda'
-gem 'rr'
-gem 'jeweler'

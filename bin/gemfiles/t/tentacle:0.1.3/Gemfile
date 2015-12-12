@@ -1,6 +1,0 @@
-gem 'clamp'
-gem 'git'
-gem 'colorize'
-gem 'rest-client'
-gem 'pkg-wizard'
-gem 'yumrepo'

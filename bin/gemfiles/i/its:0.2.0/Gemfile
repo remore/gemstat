@@ -1,4 +1,0 @@
-gem 'rspec-core'
-gem 'rake'
-gem 'rspec-mocks'
-gem 'rspec-expectations'

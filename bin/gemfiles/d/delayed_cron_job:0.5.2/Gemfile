@@ -1,6 +1,0 @@
-gem 'delayed_job'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'
-gem 'delayed_job_active_record'

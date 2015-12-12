@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'capybara'
-gem 'selenium-webdriver'
-gem 'chromedriver-helper'

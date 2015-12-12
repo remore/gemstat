@@ -1,7 +1,0 @@
-gem 'colorize'
-gem 'em-websocket'
-gem 'rb-readline'
-gem 'minitest'
-gem 'mocha'
-gem 'rake'
-gem 'shoulda-context'

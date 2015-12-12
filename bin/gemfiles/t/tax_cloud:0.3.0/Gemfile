@@ -1,8 +1,0 @@
-gem 'savon'
-gem 'i18n'
-gem 'activesupport'
-gem 'rake'
-gem 'rdoc'
-gem 'vcr'
-gem 'webmock'
-gem 'rubocop'

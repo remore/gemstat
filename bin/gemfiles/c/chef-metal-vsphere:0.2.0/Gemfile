@@ -1,4 +1,0 @@
-gem 'chef'
-gem 'rbvmomi'
-gem 'rspec'
-gem 'rake'

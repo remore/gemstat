@@ -1,5 +1,0 @@
-gem 'fluentd'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'highwatermark'

@@ -1,8 +1,0 @@
-gem 'autotest-standalone'
-gem 'autotest-growl'
-gem 'rake'
-gem 'rake-compiler'
-gem 'simplecov'
-gem 'rspec'
-gem 'yard'
-gem 'racc'

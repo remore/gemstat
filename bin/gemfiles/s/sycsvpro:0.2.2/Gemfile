@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'rspec'
-gem 'timeleap'
-gem 'gli'

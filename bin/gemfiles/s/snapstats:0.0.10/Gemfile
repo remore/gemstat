@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'redis'
-gem 'useragent'
-gem 'virtus'

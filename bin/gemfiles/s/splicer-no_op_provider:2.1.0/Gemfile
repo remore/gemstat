@@ -1,4 +1,0 @@
-gem 'splicer'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

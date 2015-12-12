@@ -1,4 +1,0 @@
-gem 'prawn'
-gem 'css_parser'
-gem 'rspec'
-gem 'rake'

@@ -1,0 +1,4 @@
+gem 'lotus-utils'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'

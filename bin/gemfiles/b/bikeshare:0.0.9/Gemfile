@@ -1,5 +1,0 @@
-gem 'json'
-gem 'rspec'
-gem 'fakeweb'
-gem 'rake'
-gem 'debugger'

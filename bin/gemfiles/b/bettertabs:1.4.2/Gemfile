@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'rspec-rails'
-gem 'haml-rails'

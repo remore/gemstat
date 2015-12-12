@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'thor'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'

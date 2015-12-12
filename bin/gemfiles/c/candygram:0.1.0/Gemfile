@@ -1,4 +1,0 @@
-gem 'mongo'
-gem 'rspec'
-gem 'yard'
-gem 'mocha'

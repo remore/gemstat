@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'cucumber'
+gem 'rake'
+gem 'yard'
+gem 'yard-cucumber'
+gem 'kramdown'
+gem 'coveralls'

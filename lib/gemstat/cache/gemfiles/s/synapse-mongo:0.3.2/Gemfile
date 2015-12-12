@@ -1,0 +1,2 @@
+gem 'synapse-core'
+gem 'mongo'

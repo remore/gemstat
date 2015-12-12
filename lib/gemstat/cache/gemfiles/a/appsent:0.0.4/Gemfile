@@ -1,0 +1,6 @@
+gem 'yard'
+gem 'BlueCloth'
+gem 'RedCloth'
+gem 'rspec'
+gem 'aruba'
+gem 'rake'

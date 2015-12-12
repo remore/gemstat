@@ -1,0 +1,5 @@
+gem 'oohlalog'
+gem 'daemons'
+gem 'file-tail'
+gem 'bundler'
+gem 'rake'

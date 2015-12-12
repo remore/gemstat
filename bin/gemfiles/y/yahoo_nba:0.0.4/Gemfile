@@ -1,4 +1,0 @@
-gem 'oauth'
-gem 'crack'
-gem 'rake'
-gem 'rspec'

@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'gssapi'
-gem 'rkerberos'
-gem 'rspec'
-gem 'goliath'
-gem 'puma'

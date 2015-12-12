@@ -1,7 +1,0 @@
-gem 'goliath'
-gem 'rack-cache'
-gem 'dalli'
-gem 'rake'
-gem 'yard'
-gem 'redcarpet'
-gem 'github-markup'

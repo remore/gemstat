@@ -1,0 +1,8 @@
+gem 'paperclip'
+gem 'ruby-filemagic'
+gem 'docsplit'
+gem 'bundler'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'paperclip'

@@ -1,4 +1,0 @@
-gem 'gnuplot'
-gem 'rake'
-gem 'ruby-progressbar'
-gem 'tilt'

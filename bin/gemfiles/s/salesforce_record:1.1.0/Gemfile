@@ -1,3 +1,0 @@
-gem 'salesforce_adapter'
-gem 'bundler'
-gem 'rake'

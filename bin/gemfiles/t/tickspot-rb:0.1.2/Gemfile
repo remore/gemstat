@@ -1,6 +1,0 @@
-gem 'hashie'
-gem 'httparty'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'webmock'

@@ -1,4 +1,0 @@
-gem 'celluloid'
-gem 'abstractive'
-gem 'timespans'
-gem 'colorize'

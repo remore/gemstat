@@ -1,0 +1,2 @@
+gem 'diff-lcs'
+gem 'erubis'

@@ -1,0 +1,5 @@
+gem 'rghost'
+gem 'rghost_barcode'
+gem 'parseline'
+gem 'rubyforge'
+gem 'hoe'

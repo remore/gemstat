@@ -1,7 +1,0 @@
-gem 'coffee-rails'
-gem 'jquery-rails'
-gem 'rails'
-gem 'bundler'
-gem 'cucumber-rails'
-gem 'rspec'
-gem 'capybara-webkit'

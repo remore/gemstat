@@ -1,5 +1,0 @@
-gem 'pkcs11'
-gem 'yard'
-gem 'rake-compiler'
-gem 'rdoc'
-gem 'hoe'

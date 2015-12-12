@@ -1,5 +1,0 @@
-gem 'test-unit'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

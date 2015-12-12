@@ -1,7 +1,0 @@
-gem 'conduit'
-gem 'request_store'
-gem 'rails'
-gem 'shoulda-matchers'
-gem 'database_cleaner'
-gem 'rspec-rails'
-gem 'sqlite3'

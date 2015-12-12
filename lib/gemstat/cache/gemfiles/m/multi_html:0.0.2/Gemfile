@@ -1,0 +1,4 @@
+gem 'html_press'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

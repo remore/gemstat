@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'
-gem 'pry'

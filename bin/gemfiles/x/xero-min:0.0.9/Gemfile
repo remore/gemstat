@@ -1,5 +1,0 @@
-gem 'oauth'
-gem 'nokogiri'
-gem 'typhoeus'
-gem 'escape_utils'
-gem 'rspec'

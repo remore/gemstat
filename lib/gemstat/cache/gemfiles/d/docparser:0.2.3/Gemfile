@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'parallel'
+gem 'axlsx'
+gem 'log4r'
+gem 'yard'
+gem 'kramdown'
+gem 'github-markup'

@@ -1,0 +1,8 @@
+gem 'middleman-core'
+gem 'middleman-ember'
+gem 'sprockets-handlebars_template'
+gem 'handlebars-source'
+gem 'ember-source'
+gem 'ember-data-source'
+gem 'bundler'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'concurrent-ruby'
-gem 'hamster'
-gem 'bunny'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

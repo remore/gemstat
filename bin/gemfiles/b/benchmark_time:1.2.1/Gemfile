@@ -1,4 +1,0 @@
-gem 'mocha'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'resque-status'
-gem 'fakeredis'
-gem 'pry'
-gem 'rspec-its'
-gem 'rspec-rails'
-gem 'sqlite3'

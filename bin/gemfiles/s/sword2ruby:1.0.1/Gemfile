@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'atom-tools'
-gem 'hpricot'

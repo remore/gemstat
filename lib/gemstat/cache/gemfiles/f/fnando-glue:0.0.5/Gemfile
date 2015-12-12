@@ -1,0 +1,5 @@
+gem 'main'
+gem 'RedCloth'
+gem 'rdiscount'
+gem 'haml'
+gem 'builder'

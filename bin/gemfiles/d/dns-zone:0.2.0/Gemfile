@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'simplecov'
-gem 'yard'
-gem 'inch'
-gem 'guard-minitest'
-gem 'guard-bundler'

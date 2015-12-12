@@ -1,0 +1,6 @@
+gem 'github-markdown'
+gem 'nokogiri'
+gem 'ruby-keychain'
+gem 'socksify'
+gem 'bundler'
+gem 'rake'

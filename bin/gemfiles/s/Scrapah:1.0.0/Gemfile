@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'retryable'
-gem 'json'
-gem 'watir-webdriver'
-gem 'headless'

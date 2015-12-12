@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'mysql'
-gem 'daemons'

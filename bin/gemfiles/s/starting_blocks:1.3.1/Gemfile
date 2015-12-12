@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'contrast'
-gem 'subtle'
-gem 'mocha'
-gem 'listen'

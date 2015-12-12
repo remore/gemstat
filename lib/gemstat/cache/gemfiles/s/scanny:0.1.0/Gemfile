@@ -1,0 +1,2 @@
+gem 'machete'
+gem 'docopt'

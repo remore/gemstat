@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'octokit'
-gem 'highline'
-gem 'rspec'

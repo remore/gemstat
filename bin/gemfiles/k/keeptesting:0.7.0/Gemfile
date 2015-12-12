@@ -1,5 +1,0 @@
-gem 'fssm'
-gem 'mocha'
-gem 'minitest'
-gem 'shoulda'
-gem 'shoulda-context'

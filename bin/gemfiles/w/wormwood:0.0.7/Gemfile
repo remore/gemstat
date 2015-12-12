@@ -1,3 +1,0 @@
-gem 'commander'
-gem 'directory_watcher'
-gem 'tilt'

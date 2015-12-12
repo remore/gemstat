@@ -1,6 +1,0 @@
-gem 'gigo'
-gem 'activerecord'
-gem 'appraisal'
-gem 'rake'
-gem 'minitest'
-gem 'sqlite3'

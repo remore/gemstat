@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'jls-grok'
-gem 'logstash-patterns-core'
-gem 'logstash-devutils'

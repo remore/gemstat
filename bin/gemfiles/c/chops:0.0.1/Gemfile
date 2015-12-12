@@ -1,4 +1,0 @@
-gem 'request_store'
-gem 'rails'
-gem 'bundler'
-gem 'rake'

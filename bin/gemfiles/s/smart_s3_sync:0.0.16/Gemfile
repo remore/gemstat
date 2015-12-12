@@ -1,4 +1,0 @@
-gem 'sqlite3'
-gem 'fog'
-gem 'bundler'
-gem 'rake'

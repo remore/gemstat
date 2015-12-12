@@ -1,4 +1,0 @@
-gem 'facets'
-gem 'rspec'
-gem 'simplecov'
-gem 'rake'

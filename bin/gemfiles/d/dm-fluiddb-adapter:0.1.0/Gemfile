@@ -1,4 +1,0 @@
-gem 'dm-core'
-gem 'typhoeus'
-gem 'rspec'
-gem 'memcached'

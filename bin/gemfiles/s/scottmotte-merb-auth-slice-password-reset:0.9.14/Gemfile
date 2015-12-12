@@ -1,4 +1,0 @@
-gem 'merb-slices'
-gem 'merb-auth-core'
-gem 'merb-auth-more'
-gem 'merb-mailer'

@@ -1,5 +1,0 @@
-gem 'pry'
-gem 'slop'
-gem 'rspec'
-gem 'cucumber'
-gem 'pry-remote'

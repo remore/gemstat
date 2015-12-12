@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'open_xml_package'
-gem 'pry'
-gem 'rspec'
-gem 'rake'
-gem 'rr'
-gem 'simplecov'
-gem 'timecop'

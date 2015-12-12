@@ -1,5 +1,0 @@
-gem 'rubigen'
-gem 'sinatra'
-gem 'rack-test'
-gem 'newgem'
-gem 'hoe'

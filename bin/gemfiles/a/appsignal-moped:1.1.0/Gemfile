@@ -1,5 +1,0 @@
-gem 'appsignal'
-gem 'moped'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

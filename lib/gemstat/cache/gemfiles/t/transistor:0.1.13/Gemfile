@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'jasmine'
+gem 'jslint-v8'
+gem 'jake'
+gem 'rake'
+gem 'faye'
+gem 'thin'

@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'nokogiri'
-gem 'css_parser'
-gem 'fakeweb'
-gem 'awesome_print'
-gem 'addressable'
-gem 'cobweb'

@@ -1,4 +1,0 @@
-gem 'pdf-reader'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'

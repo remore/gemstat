@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'ember'
-gem 'nokogiri'
-gem 'yard'

@@ -1,6 +1,0 @@
-gem 'yard'
-gem 'yard'
-gem 'rake'
-gem 'jeweler'
-gem 'gemcutter'
-gem 'rspec'

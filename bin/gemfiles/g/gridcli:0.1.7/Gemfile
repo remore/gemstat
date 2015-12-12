@@ -1,5 +1,0 @@
-gem 'activeresource'
-gem 'activesupport'
-gem 'chronic'
-gem 'json'
-gem 'colorize'

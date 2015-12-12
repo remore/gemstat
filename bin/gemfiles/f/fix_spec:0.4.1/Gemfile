@@ -1,7 +1,0 @@
-gem 'json_spec'
-gem 'quickfix-jruby'
-gem 'cuke_mem'
-gem 'rspec'
-gem 'jeweler'
-gem 'cucumber'
-gem 'rake'

@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'railties'
+gem 'bundler'
+gem 'appraisal'
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'pry'

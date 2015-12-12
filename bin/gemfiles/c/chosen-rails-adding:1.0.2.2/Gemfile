@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'coffee-rails'
-gem 'sass-rails'
-gem 'compass-rails'
-gem 'bundler'
-gem 'rails'
-gem 'thor'

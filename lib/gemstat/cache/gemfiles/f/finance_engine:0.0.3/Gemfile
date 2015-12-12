@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rspec'
+gem 'pry-byebug'
+gem 'rake'
+gem 'distribution'

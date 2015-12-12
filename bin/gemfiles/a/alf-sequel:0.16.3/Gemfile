@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'sequel'
-gem 'alf-core'
-gem 'alf-sql'

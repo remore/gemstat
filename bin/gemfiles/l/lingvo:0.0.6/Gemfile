@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'qtbindings'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'activerecord-jdbcsqlite3-adapter'
-gem 'nokogiri'

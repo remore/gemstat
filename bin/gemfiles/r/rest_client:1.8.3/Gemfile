@@ -1,4 +1,0 @@
-gem 'netrc'
-gem 'webmock'
-gem 'rspec'
-gem 'rdoc'

@@ -1,5 +1,0 @@
-gem 'shoulda'
-gem 'bundler'
-gem 'rcov'
-gem 'oauth'
-gem 'json'

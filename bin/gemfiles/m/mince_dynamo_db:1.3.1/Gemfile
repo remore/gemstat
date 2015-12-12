@@ -1,6 +1,0 @@
-gem 'aws-sdk'
-gem 'activesupport'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'yard'
-gem 'redcarpet'

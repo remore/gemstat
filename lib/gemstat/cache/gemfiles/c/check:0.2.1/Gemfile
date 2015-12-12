@@ -1,0 +1,7 @@
+gem 'hashr'
+gem 'hiredis'
+gem 'msgpack'
+gem 'redis'
+gem 'redis-objects'
+gem 'grape'
+gem 'grape-swagger'

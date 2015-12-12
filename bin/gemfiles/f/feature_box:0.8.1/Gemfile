@@ -1,7 +1,0 @@
-gem 'devise'
-gem 'rails'
-gem 'cancan'
-gem 'haml'
-gem 'jquery-rails'
-gem 'sass-rails'
-gem 'uglifier'

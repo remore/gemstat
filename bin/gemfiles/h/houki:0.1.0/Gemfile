@@ -1,6 +1,0 @@
-gem 'terminal-table'
-gem 'highline'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'pry'

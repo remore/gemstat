@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'sequel'
-gem 'coderay'
-gem 'deface'
-gem 'sqlite3'

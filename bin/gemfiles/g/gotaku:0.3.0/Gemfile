@@ -1,6 +1,0 @@
-gem 'builder'
-gem 'rspec'
-gem 'nokogiri'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

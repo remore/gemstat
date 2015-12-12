@@ -1,0 +1,2 @@
+gem 'svn-fixture'
+gem 'spicycode-micronaut'

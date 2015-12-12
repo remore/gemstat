@@ -1,4 +1,0 @@
-gem 'em-websocket'
-gem 'json'
-gem 'sinatra'
-gem 'debugger'

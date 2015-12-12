@@ -1,5 +1,0 @@
-gem 'mechanize'
-gem 'hpricot'
-gem 'terminal-table'
-gem 'rubyforge'
-gem 'hoe'

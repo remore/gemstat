@@ -1,4 +1,0 @@
-gem 'base32'
-gem 'concurrent-ruby'
-gem 'rake'
-gem 'minitest'

@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'sqlite3'
-gem 'pg'
-gem 'mysql2'

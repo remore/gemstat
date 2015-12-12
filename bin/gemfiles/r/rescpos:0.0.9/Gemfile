@@ -1,8 +1,0 @@
-gem 'rb-inotify'
-gem 'libnotify'
-gem 'rspec-instafail'
-gem 'cucumber'
-gem 'rspec'
-gem 'guard-bundler'
-gem 'guard-cucumber'
-gem 'guard-rspec'

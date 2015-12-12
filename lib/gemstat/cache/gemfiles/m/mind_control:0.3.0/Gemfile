@@ -1,0 +1,8 @@
+gem 'highline'
+gem 'pry'
+gem 'coolline'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'eventmachine'

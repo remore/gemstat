@@ -1,5 +1,0 @@
-gem 'rom'
-gem 'inflecto'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'

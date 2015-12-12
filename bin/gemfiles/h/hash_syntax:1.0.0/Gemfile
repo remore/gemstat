@@ -1,4 +1,0 @@
-gem 'object_regex'
-gem 'trollop'
-gem 'rspec'
-gem 'yard'

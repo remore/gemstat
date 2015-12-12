@@ -1,7 +1,0 @@
-gem 'streamio-ffmpeg'
-gem 'rmagick'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

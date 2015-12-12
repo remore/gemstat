@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'xapian-ruby'
-gem 'xapian-fu'

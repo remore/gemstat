@@ -1,4 +1,0 @@
-gem 'childprocess'
-gem 'parallel'
-gem 'pry'
-gem 'tty'

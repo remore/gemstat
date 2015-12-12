@@ -1,4 +1,0 @@
-gem 'git'
-gem 'thor'
-gem 'rake'
-gem 'bundler'

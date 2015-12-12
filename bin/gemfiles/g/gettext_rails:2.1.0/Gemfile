@@ -1,3 +1,0 @@
-gem 'gettext_activerecord'
-gem 'locale_rails'
-gem 'rails'

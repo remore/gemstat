@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'addressable'
-gem 'rspec'
-gem 'pry'

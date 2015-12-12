@@ -1,8 +1,0 @@
-gem 'aql'
-gem 'axiom'
-gem 'ashikawa-core'
-gem 'adamantium'
-gem 'equalizer'
-gem 'abstract_type'
-gem 'concord'
-gem 'null_logger'

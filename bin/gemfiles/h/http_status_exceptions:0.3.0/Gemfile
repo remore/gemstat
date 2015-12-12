@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'actionpack'
-gem 'rake'
-gem 'rspec'

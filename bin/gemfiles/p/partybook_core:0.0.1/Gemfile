@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'state_machine'
-gem 'devise'
-gem 'pg'

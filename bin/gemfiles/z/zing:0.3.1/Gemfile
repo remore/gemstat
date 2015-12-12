@@ -1,6 +1,0 @@
-gem 'colorize'
-gem 'bundler'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

@@ -1,8 +1,0 @@
-gem 'aws-sdk'
-gem 'elasticsearch-transport'
-gem 'bundler'
-gem 'elasticsearch'
-gem 'minitest'
-gem 'rake'
-gem 'timecop'
-gem 'webmock'

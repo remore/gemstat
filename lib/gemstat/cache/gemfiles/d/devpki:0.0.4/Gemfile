@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'sqlite3'
+gem 'xdg'
+gem 'bundler'
+gem 'pry'
+gem 'rake'

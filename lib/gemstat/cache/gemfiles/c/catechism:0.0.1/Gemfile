@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'bundler'
+gem 'gem-release'
+gem 'guard-shell'

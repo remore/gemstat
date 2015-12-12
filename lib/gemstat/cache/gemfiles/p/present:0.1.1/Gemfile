@@ -1,0 +1,4 @@
+gem 'ncurses'
+gem 'Text'
+gem 'escape'
+gem 'redgreen'

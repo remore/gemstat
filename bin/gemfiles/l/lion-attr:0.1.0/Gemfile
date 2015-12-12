@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'mongoid'
-gem 'connection_pool'
-gem 'rspec'

@@ -1,6 +1,0 @@
-gem 'nestful'
-gem 'nokogiri'
-gem 'carmen'
-gem 'roo'
-gem 'lazy_high_charts'
-gem 'railties'

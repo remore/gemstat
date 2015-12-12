@@ -1,0 +1,2 @@
+gem 'rb-readline'
+gem 'starter'

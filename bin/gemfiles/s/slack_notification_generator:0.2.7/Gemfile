@@ -1,7 +1,0 @@
-gem 'chronic_duration'
-gem 'yard'
-gem 'rdoc'
-gem 'jeweler'
-gem 'byebug'
-gem 'awesome_print'
-gem 'github_changelog_generator'

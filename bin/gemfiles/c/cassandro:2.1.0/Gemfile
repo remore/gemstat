@@ -1,3 +1,0 @@
-gem 'cassandra-driver'
-gem 'protest'
-gem 'rack-test'

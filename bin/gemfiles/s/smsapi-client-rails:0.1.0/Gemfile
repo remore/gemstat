@@ -1,4 +1,0 @@
-gem 'smsapi-client'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

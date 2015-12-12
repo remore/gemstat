@@ -1,5 +1,0 @@
-gem 'json_pure'
-gem 'multipart-post'
-gem 'rubyzip'
-gem 'simplecov'
-gem 'fakeweb'

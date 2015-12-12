@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'crack'
-gem 'rufus-scheduler'

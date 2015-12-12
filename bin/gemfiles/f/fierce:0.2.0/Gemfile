@@ -1,6 +1,0 @@
-gem 'mustache'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rails'

@@ -1,6 +1,0 @@
-gem 'i18n'
-gem 'minitest'
-gem 'purdytest'
-gem 'simplecov'
-gem 'simplecov-rcov'
-gem 'yard'

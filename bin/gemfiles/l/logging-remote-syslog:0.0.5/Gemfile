@@ -1,5 +1,0 @@
-gem 'logging'
-gem 'remote_syslog_logger'
-gem 'rspec'
-gem 'rake'
-gem 'rr'

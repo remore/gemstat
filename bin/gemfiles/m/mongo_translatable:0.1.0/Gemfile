@@ -1,5 +1,0 @@
-gem 'mongo_mapper'
-gem 'activerecord'
-gem 'shoulda'
-gem 'factory_girl'
-gem 'webrat'

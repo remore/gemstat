@@ -1,4 +1,0 @@
-gem 'rubygems-update'
-gem 'rest-client'
-gem 'rubyforge'
-gem 'hoe'

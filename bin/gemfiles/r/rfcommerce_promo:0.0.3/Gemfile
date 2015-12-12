@@ -1,7 +1,0 @@
-gem 'rfcommerce_api'
-gem 'rfcommerce_core'
-gem 'rfcommerce_auth'
-gem 'rfcommerce_sample'
-gem 'rfcommerce_promo'
-gem 'rfcommerce_dash'
-gem 'rfcommerce_checkout'

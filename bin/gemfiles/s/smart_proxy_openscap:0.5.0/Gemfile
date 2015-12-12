@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rack-test'
-gem 'mocha'
-gem 'webmock'
-gem 'openscap'

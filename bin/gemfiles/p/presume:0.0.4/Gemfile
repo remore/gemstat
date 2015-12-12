@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'engtagger'
-gem 'docx'
-gem 'ruby-stemmer'

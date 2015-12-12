@@ -1,5 +1,0 @@
-gem 'i18n'
-gem 'rspec'
-gem 'pry-debugger'
-gem 'awesome_print'
-gem 'activemodel'

@@ -1,3 +1,0 @@
-gem 'current_user_id'
-gem 'active_record_mock'
-gem 'session_mock'

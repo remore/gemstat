@@ -1,0 +1,7 @@
+gem 'puma'
+gem 'yard'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

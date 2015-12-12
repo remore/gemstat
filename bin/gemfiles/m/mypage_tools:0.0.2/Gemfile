@@ -1,7 +1,0 @@
-gem 'capybara'
-gem 'poltergeist'
-gem 'icalendar'
-gem 'active_support'
-gem 'i18n'
-gem 'bundler'
-gem 'rake'

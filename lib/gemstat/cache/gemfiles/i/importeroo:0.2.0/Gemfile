@@ -1,0 +1,4 @@
+gem 'roo'
+gem 'google-spreadsheet-ruby'
+gem 'rspec'
+gem 'with_model'

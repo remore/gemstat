@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'minitest'
-gem 'pry'
-gem 'rake'
-gem 'webmock'

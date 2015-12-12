@@ -1,3 +1,0 @@
-gem 'sinatra'
-gem 'sinatra-tests'
-gem 'rspec'

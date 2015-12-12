@@ -1,5 +1,0 @@
-gem 'serialport'
-gem 'thor'
-gem 'rake'
-gem 'semver2'
-gem 'rubygems-update'

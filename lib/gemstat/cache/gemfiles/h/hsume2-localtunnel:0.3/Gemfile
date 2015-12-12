@@ -1,0 +1,4 @@
+gem 'json'
+gem 'net-ssh'
+gem 'net-ssh-gateway'
+gem 'sinatra'

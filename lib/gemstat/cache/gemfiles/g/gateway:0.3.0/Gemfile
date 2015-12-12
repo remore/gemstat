@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'resource_pool'
+gem 'rspec'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'libnotify'
-gem 'rb-inotify'
-gem 'open4'

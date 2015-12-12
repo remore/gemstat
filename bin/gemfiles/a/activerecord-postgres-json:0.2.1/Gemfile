@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'multi_json'
-gem 'rspec'
-gem 'pg'
-gem 'rubocop'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

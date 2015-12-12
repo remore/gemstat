@@ -1,3 +1,0 @@
-gem 'amazon-ec2'
-gem 'mongrel_cluster'
-gem 'bones'

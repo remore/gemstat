@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'turn'
+gem 'sqlite3'

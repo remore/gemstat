@@ -1,0 +1,6 @@
+gem 'grape'
+gem 'activesupport'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rmagick'
-gem 'mini_exiftool'

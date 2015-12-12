@@ -1,4 +1,0 @@
-gem 'interactor'
-gem 'rails'
-gem 'bundler'
-gem 'rake'

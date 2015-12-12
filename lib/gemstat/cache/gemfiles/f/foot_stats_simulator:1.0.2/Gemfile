@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'foot_stats'
+gem 'faker'
+gem 'sqlite3'

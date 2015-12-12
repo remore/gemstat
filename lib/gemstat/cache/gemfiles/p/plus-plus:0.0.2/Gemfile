@@ -1,0 +1,7 @@
+gem 'rspec-rails'
+gem 'factory_girl'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'activerecord'
+gem 'sqlite3'

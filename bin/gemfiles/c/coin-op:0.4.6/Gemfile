@@ -1,8 +1,0 @@
-gem 'bitcoin-ruby'
-gem 'money-tree'
-gem 'hashie'
-gem 'rbnacl-libsodium'
-gem 'sequel'
-gem 'sqlite3'
-gem 'rspec'
-gem 'pry'

@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'rake'
-gem 'minitest'
-gem 'version'

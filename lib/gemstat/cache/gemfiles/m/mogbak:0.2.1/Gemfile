@@ -1,0 +1,6 @@
+gem 'awesome_print'
+gem 'gli'
+gem 'mysql2'
+gem 'mogilefs-client'
+gem 'sqlite3'
+gem 'activerecord-import'

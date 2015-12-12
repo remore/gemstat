@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'hoe'
-gem 'open4'
-gem 'automate-it'
-gem 'rails'
-gem 'devise'
-gem 'thin'

@@ -1,4 +1,0 @@
-gem 'parseconfig'
-gem 'mysql2'
-gem 'dbi'
-gem 'dbd-mysql'

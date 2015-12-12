@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'rubycas-client'
-gem 'minitest'
-gem 'rdoc'
-gem 'rack-test'
-gem 'hoe'

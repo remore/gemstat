@@ -1,8 +1,0 @@
-gem 'WinCommon'
-gem 'ffi'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'

@@ -1,6 +1,0 @@
-gem 'structured_warnings'
-gem 'json'
-gem 'bundler'
-gem 'rdoc'
-gem 'yard'
-gem 'rtagstask'

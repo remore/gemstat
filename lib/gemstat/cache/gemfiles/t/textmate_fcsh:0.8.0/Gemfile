@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'fcsh'
+gem 'em-websocket'
+gem 'json'
+gem 'ruby-growl'

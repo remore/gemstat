@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'rack-test'
-gem 'rack-i18n_routes'
-gem 'bones-rspec'
-gem 'bones'

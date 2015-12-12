@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rr'
-gem 'bacon'
-gem 'bacon-rr'
-gem 'bacon-bits'

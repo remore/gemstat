@@ -1,4 +1,0 @@
-gem 'builder'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

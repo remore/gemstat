@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'blacklight'
-gem 'combustion'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'capybara'

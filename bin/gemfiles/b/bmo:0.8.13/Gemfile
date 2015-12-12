@@ -1,4 +1,0 @@
-gem 'equalizer'
-gem 'faraday'
-gem 'bundler'
-gem 'rake'

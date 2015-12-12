@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'httpclient'
+gem 'jwt'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

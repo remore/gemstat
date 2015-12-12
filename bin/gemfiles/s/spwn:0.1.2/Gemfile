@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'guard-rspec'
-gem 'rspec'
-gem 'rb-inotify'

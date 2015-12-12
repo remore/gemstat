@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rest-client'
+gem 'json'
+gem 'activesupport-core-ext'

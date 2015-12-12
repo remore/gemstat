@@ -1,5 +1,0 @@
-gem 'dotenv'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

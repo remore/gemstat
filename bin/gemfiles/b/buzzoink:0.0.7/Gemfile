@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'addressable'
-gem 'andand'
-gem 'fog'
-gem 'rspec-rails'
-gem 'webmock'
-gem 'fabrication'
-gem 'vcr'

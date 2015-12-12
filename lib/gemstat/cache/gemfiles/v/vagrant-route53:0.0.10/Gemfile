@@ -1,0 +1,4 @@
+gem 'chef'
+gem 'rspec'
+gem 'pry-debugger'
+gem 'bundler'

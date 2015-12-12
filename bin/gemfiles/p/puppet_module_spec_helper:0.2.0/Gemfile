@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'mocha'
-gem 'rspec-puppet'

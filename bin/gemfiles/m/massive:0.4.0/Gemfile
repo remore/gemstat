@@ -1,4 +1,0 @@
-gem 'resque'
-gem 'mongoid'
-gem 'file_processor'
-gem 'active_model_serializers'

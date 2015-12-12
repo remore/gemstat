@@ -1,3 +1,0 @@
-gem 'oa-core'
-gem 'net-ldap'
-gem 'jruby-ldap'

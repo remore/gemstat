@@ -1,0 +1,8 @@
+gem 'rdoc'
+gem 'racc'
+gem 'rexical'
+gem 'hoe-git'
+gem 'hoe-gemspec'
+gem 'hoe-bundler'
+gem 'minitest'
+gem 'hoe'

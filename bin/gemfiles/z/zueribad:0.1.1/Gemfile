@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'
-gem 'nyan-cat-formatter'

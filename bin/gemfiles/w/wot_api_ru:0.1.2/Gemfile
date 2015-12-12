@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'rest_client'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'coveralls'
-gem 'generator_spec'
-gem 'guard-rspec'
-gem 'yard'

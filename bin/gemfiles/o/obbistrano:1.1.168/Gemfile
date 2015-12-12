@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'colored'
-gem 'inifile'
-gem 'capistrano-maintenance'

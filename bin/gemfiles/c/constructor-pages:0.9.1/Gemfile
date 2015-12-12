@@ -1,7 +1,0 @@
-gem 'constructor-core'
-gem 'dragonfly'
-gem 'rack-cache'
-gem 'awesome_nested_set'
-gem 'acts_as_list'
-gem 'rspec-rails'
-gem 'capybara'

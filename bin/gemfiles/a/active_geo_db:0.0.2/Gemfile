@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'open_geo_db'
-gem 'rails'

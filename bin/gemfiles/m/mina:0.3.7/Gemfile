@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'open4'
-gem 'rspec'
-gem 'pry'

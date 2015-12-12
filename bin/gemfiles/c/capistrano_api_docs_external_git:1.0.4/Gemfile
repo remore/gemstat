@@ -1,4 +1,0 @@
-gem 'git'
-gem 'capistrano'
-gem 'bundler'
-gem 'rake'

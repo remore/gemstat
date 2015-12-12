@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'virtus'
+gem 'rake'
+gem 'rspec'

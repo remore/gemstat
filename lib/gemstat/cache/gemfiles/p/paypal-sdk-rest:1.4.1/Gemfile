@@ -1,0 +1,4 @@
+gem 'coveralls'
+gem 'xml-simple'
+gem 'multi_json'
+gem 'uuidtools'

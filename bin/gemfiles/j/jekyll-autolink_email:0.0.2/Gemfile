@@ -1,6 +1,0 @@
-gem 'jekyll'
-gem 'rinku'
-gem 'bundler'
-gem 'rake'
-gem 'shoulda'
-gem 'mocha'

@@ -1,5 +1,0 @@
-gem 'tbone'
-gem 'devise'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'synoption'
+gem 'svnx'
+gem 'riel'
+gem 'rainbow'

@@ -1,7 +1,0 @@
-gem 'configatron'
-gem 'coloured_logger'
-gem 'commander'
-gem 'json'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

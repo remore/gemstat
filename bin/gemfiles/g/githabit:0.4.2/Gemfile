@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rest-client'
-gem 'github_api'
-gem 'habitrpg_api'

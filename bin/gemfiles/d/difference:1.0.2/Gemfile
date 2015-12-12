@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'minitest'
-gem 'sqlite3'

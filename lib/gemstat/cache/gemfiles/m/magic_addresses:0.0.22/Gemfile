@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'globalize'
+gem 'geocoder'
+gem 'activerecord-postgres-earthdistance'
+gem 'railties'
+gem 'sqlite3'
+gem 'rspec-rails'

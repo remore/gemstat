@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'pg'
+gem 'activerecord-postgres-hstore'
+gem 'combustion'

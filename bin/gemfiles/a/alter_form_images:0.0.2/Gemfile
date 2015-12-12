@@ -1,5 +1,0 @@
-gem 'jquery-rails'
-gem 'coffee-rails'
-gem 'sass-rails'
-gem 'bundler'
-gem 'rake'

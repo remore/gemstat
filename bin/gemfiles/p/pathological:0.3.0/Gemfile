@@ -1,5 +1,0 @@
-gem 'rr'
-gem 'scope'
-gem 'fakefs'
-gem 'rake'
-gem 'dedent'

@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'
-gem 'fakeredis'
-gem 'simplecov'
-gem 'coveralls'

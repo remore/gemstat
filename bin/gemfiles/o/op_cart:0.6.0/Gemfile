@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'slim-rails'
-gem 'stripe'
-gem 'pg'

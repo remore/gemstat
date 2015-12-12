@@ -1,4 +1,0 @@
-gem 'typus'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'kalindar'
-gem 'rainbow'
-gem 'terminal-table'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'englify'
-gem 'inifile'
-gem 'nice-sigint'
-gem 'xml-simple'

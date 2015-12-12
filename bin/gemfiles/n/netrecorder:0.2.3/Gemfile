@@ -1,4 +1,0 @@
-gem 'fakeweb'
-gem 'echoe'
-gem 'cucumber'
-gem 'rspec'

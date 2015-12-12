@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'redis'
-gem 'rack'
-gem 'rspec'
-gem 'sqlite3'
-gem 'rack-test'

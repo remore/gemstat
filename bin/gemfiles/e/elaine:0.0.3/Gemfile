@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'celluloid-io'
-gem 'dcell'
-gem 'thor'
-gem 'activesupport'

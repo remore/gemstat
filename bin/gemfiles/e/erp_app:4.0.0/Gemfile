@@ -1,6 +1,0 @@
-gem 'will_paginate'
-gem 'uglifier'
-gem 'friendly_id'
-gem 'compass_ae_sencha'
-gem 'erp_tech_svcs'
-gem 'erp_dev_svcs'

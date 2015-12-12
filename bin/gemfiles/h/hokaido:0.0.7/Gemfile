@@ -1,5 +1,0 @@
-gem 'celluloid'
-gem 'ruby-terminfo'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

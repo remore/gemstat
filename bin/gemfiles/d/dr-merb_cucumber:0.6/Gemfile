@@ -1,4 +1,0 @@
-gem 'merb-core'
-gem 'cucumber'
-gem 'merb-gen'
-gem 'rspec'

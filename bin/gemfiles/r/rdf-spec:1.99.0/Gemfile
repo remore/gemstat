@@ -1,5 +1,0 @@
-gem 'rdf'
-gem 'rspec'
-gem 'rspec-its'
-gem 'webmock'
-gem 'yard'

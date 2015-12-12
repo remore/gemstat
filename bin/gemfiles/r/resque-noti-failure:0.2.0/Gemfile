@@ -1,8 +1,0 @@
-gem 'noti'
-gem 'resque'
-gem 'shoulda'
-gem 'mocha'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rack-test'

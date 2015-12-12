@@ -1,8 +1,0 @@
-gem 'omniauth-github'
-gem 'rack'
-gem 'rack-reverse-proxy'
-gem 'rack-router'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'

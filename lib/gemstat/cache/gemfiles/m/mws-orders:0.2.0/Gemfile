@@ -1,0 +1,4 @@
+gem 'money'
+gem 'nokogiri'
+gem 'peddler'
+gem 'structure'

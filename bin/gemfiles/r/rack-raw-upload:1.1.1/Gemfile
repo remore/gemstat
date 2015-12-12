@@ -1,5 +1,0 @@
-gem 'multi_json'
-gem 'rake'
-gem 'rack-test'
-gem 'shoulda'
-gem 'rr'

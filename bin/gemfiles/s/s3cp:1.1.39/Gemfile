@@ -1,7 +1,0 @@
-gem 'extensions'
-gem 'highline'
-gem 'aws-sdk'
-gem 'progressbar'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rake'

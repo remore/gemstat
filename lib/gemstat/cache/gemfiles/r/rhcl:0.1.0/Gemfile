@@ -1,0 +1,5 @@
+gem 'deep_merge'
+gem 'bundler'
+gem 'rake'
+gem 'racc'
+gem 'rspec'

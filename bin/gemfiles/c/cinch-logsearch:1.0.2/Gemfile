@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'
-gem 'cinch-test'
-gem 'cinch'

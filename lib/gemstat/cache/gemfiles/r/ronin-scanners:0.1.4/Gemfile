@@ -1,0 +1,4 @@
+gem 'scandb'
+gem 'rprogram'
+gem 'ronin'
+gem 'hoe'

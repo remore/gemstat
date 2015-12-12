@@ -1,5 +1,0 @@
-gem 'kpeg'
-gem 'yard'
-gem 'rspec'
-gem 'uglifier'
-gem 'json'

@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'ruby-openid'
-gem 'activerecord'

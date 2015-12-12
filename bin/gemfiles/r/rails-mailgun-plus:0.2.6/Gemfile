@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'mailgun-ruby-plus'
-gem 'rspec-rails'

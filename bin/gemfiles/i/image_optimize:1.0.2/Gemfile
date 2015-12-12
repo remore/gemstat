@@ -1,6 +1,0 @@
-gem 'mime-types'
-gem 'right_api_client'
-gem 'trollop'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

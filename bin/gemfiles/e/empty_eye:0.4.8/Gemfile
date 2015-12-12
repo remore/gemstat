@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'arel'
-gem 'rspec'
-gem 'mysql2'
-gem 'sqlite3'
-gem 'pg'

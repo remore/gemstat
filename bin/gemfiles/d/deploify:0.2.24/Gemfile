@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'capistrano'
-gem 'rvm-capistrano'
-gem 'rake'

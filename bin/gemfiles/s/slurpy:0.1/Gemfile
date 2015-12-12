@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'typhoeus'
-gem 'thor'
-gem 'api_cache'
-gem 'moneta'
-gem 'timezone'

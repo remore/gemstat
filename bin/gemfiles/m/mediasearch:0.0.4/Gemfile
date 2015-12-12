@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'tvdb_party'
-gem 'themoviedb'

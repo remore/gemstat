@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'rqrcode_png'
-gem 'sqlite3'

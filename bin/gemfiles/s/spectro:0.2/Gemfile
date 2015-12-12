@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'codeclimate-test-reporter'
-gem 'guard'
-gem 'guard-rake'
-gem 'minitest'
-gem 'rake'
-gem 'yard'

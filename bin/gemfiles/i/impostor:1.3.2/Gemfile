@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'mechanize'
-gem 'rdoc'
-gem 'hoe'

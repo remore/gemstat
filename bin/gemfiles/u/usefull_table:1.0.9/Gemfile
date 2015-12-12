@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'axlsx'
-gem 'acts_as_xls'
-gem 'meta_search'
-gem 'will_paginate'

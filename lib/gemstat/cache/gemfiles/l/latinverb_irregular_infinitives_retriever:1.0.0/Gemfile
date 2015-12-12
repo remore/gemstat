@@ -1,0 +1,4 @@
+gem 'linguistics_latin'
+gem 'latinverb_irregular_verb_definition_consumer'
+gem 'bundler'
+gem 'rake'

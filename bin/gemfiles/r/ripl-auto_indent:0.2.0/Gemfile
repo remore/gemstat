@@ -1,3 +1,0 @@
-gem 'ripl'
-gem 'ripl-multi_line'
-gem 'ruby_indentation'

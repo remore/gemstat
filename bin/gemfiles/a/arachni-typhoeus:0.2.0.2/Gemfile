@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'jeweler'
-gem 'diff-lcs'
-gem 'sinatra'
-gem 'json'

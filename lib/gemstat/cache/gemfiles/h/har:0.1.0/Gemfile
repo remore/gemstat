@@ -1,0 +1,7 @@
+gem 'json'
+gem 'jschematic'
+gem 'launchy'
+gem 'rspec'
+gem 'coveralls'
+gem 'rake'
+gem 'pry'

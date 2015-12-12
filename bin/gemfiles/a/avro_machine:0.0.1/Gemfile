@@ -1,4 +1,0 @@
-gem 'avro'
-gem 'eventmachine'
-gem 'bundler'
-gem 'rake'

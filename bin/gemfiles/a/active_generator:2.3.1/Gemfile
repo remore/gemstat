@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'active_object'
-gem 'bundler'
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'
-gem 'generator_spec'

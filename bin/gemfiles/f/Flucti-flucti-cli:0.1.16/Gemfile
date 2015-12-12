@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'web-service'
-gem 'capistrano-fixes'
-gem 'mocha'

@@ -1,0 +1,5 @@
+gem 'test-kitchen'
+gem 'oraclecloud'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,3 +1,0 @@
-gem 'net-dns'
-gem 'packetfu'
-gem 'pcaprub'

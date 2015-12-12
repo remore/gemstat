@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'rake'
-gem 'timecop'
-gem 'httparty'
-gem 'andand'

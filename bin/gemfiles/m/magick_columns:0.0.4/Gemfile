@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'timeliness'
-gem 'pg'

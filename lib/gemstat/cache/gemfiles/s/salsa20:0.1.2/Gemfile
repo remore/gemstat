@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'rake'
+gem 'rake-compiler'
+gem 'rdoc'

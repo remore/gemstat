@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'redis'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'jekyll'
-gem 'rack'
-gem 'listen'
-gem 'rake'
-gem 'minitest'

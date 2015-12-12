@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'murmurhash3'
-gem 'logstash-devutils'

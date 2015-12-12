@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'syro'
+gem 'cutest'
+gem 'erubis'
+gem 'hmote'
+gem 'tilt'

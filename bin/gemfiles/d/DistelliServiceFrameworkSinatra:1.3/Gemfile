@@ -1,3 +1,0 @@
-gem 'sinatra'
-gem 'DistelliServiceInterface'
-gem 'logging'

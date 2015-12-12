@@ -1,2 +1,0 @@
-gem 'beanstalk-client'
-gem 'rspec'

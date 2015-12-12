@@ -1,0 +1,5 @@
+gem 'kramdown'
+gem 'prawn'
+gem 'prawn-table'
+gem 'erubis'
+gem 'listen'

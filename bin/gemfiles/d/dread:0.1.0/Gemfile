@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'colorize'
-gem 'sqlite3'
-gem 'pry-rails'
-gem 'appraisal'

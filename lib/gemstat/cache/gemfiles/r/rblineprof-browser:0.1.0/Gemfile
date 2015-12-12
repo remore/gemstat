@@ -1,0 +1,6 @@
+gem 'rblineprof'
+gem 'highline'
+gem 'pygments.rb'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

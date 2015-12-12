@@ -1,4 +1,0 @@
-gem 'chef'
-gem 'fog'
-gem 'rspec'
-gem 'rake'

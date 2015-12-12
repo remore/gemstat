@@ -1,4 +1,0 @@
-gem 'mongo_mapper'
-gem 'rspec'
-gem 'fabrication'
-gem 'database_cleaner'

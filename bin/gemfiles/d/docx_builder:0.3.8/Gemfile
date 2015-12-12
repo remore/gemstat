@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rmagick'
-gem 'rubyzip'
-gem 'equivalent-xml'

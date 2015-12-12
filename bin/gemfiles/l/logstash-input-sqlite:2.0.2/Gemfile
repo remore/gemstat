@@ -1,5 +1,0 @@
-gem 'logstash-core'
-gem 'sequel'
-gem 'jdbc-sqlite3'
-gem 'logstash-devutils'
-gem 'logstash-codec-plain'

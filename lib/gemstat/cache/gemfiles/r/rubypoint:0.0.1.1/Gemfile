@@ -1,0 +1,2 @@
+gem 'zipruby'
+gem 'hpricot'

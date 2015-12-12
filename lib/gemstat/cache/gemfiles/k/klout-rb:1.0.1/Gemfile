@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'httpi'
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

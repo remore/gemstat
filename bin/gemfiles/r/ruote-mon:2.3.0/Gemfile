@@ -1,4 +1,0 @@
-gem 'bson_ext'
-gem 'mongo'
-gem 'ruote'
-gem 'rake'

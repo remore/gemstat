@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'airbrake'
+gem 'colorize'
+gem 'hipchat'
+gem 'ptools'

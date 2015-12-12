@@ -1,7 +1,0 @@
-gem 'active_support'
-gem 'i18n'
-gem 'pry'
-gem 'xml-simple'
-gem 'streamio-ffmpeg'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'traject'
-gem 'sequel'
-gem 'minitest'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'httpclient'
+gem 'thor'
+gem 'wisper'
+gem 'bundler'
+gem 'rake'

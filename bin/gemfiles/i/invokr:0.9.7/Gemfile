@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'minitest'
-gem 'minitest-red_green'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'right_api_helper'
-gem 'rake'
-gem 'yard'
-gem 'rspec'
-gem 'chef'

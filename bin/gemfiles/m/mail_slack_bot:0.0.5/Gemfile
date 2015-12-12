@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mail'
-gem 'daemon-spawn'
-gem 'slack-notifier'
-gem 'configatron'

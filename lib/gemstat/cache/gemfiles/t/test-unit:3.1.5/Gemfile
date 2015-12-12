@@ -1,0 +1,6 @@
+gem 'power_assert'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'kramdown'
+gem 'packnga'

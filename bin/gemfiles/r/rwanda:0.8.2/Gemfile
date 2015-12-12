@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'
-gem 'fuzzy_match'
-gem 'pry'

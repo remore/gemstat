@@ -1,0 +1,6 @@
+gem 'rmagick'
+gem 'nokogiri'
+gem 'rcov'
+gem 'rdoc'
+gem 'jeweler'
+gem 'pry'

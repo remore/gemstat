@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'json'
-gem 'rspec'
-gem 'webmock'

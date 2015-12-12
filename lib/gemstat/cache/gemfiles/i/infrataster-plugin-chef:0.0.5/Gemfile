@@ -1,0 +1,6 @@
+gem 'infrataster'
+gem 'chef'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

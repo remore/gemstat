@@ -1,4 +1,0 @@
-gem 'curb'
-gem 'curb-fu'
-gem 'json'
-gem 'gon'

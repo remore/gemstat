@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'turn'
-gem 'shoulda'
-gem 'sqlite3-ruby'

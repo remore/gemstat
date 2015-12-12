@@ -1,3 +1,0 @@
-gem 'sinatra'
-gem 'rack'
-gem 'rack-test'

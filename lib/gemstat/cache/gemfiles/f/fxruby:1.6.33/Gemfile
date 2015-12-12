@@ -1,0 +1,8 @@
+gem 'mini_portile'
+gem 'rdoc'
+gem 'rake-compiler'
+gem 'rake-compiler-dock'
+gem 'opengl'
+gem 'glu'
+gem 'test-unit'
+gem 'hoe'

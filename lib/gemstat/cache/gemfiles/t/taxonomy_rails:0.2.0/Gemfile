@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'ancestry'
+gem 'friendly_id'
+gem 'mysql2'

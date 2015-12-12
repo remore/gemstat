@@ -1,0 +1,4 @@
+gem 'websocket-rack'
+gem 'socky-authenticator'
+gem 'json'
+gem 'rspec'

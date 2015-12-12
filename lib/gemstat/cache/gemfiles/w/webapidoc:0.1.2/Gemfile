@@ -1,0 +1,4 @@
+gem 'maruku'
+gem 'sass'
+gem 'nokogiri'
+gem 'rake'

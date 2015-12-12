@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'multi_json'
+gem 'sys-uname'
+gem 'sys-host'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'

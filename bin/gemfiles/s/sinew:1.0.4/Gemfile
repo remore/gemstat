@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'awesome_print'
-gem 'htmlentities'
-gem 'nokogiri'
-gem 'stringex'
-gem 'trollop'
-gem 'rake'

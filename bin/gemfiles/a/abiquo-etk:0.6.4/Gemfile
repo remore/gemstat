@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rpm-utils'
-gem 'term-ansicolor'
-gem 'mixlib-cli'
-gem 'iniparse'

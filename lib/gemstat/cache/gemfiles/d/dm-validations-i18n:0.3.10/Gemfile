@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'rake'
+gem 'rdoc'
+gem 'dm-validations'

@@ -1,0 +1,6 @@
+gem 'rcapture'
+gem 'trollop'
+gem 'diff-lcs'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

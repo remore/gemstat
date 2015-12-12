@@ -1,8 +1,0 @@
-gem 'multi_json'
-gem 'jrjackson'
-gem 'rake'
-gem 'special_delivery'
-gem 'rspec'
-gem 'rspec-pride'
-gem 'pry-nav'
-gem 'simplecov'

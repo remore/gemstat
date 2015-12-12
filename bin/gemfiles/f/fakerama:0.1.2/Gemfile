@@ -1,4 +1,0 @@
-gem 'faker'
-gem 'actionpack'
-gem 'activesupport'
-gem 'rspec'

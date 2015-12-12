@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'factory_girl_rails'
-gem 'activerecord'
-gem 'sqlite3'

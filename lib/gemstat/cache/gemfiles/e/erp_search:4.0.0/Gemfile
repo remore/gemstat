@@ -1,0 +1,4 @@
+gem 'knitkit'
+gem 'erp_dev_svcs'
+gem 'sunspot_rails'
+gem 'sunspot_solr'

@@ -1,0 +1,4 @@
+gem 'nori'
+gem 'nokogiri'
+gem 'recursive-open-struct'
+gem 'activesupport'

@@ -1,4 +1,0 @@
-gem 'test-unit'
-gem 'shoulda'
-gem 'rr'
-gem 'gettext'

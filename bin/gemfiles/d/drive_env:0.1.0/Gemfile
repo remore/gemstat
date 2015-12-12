@@ -1,8 +1,0 @@
-gem 'google_drive'
-gem 'google-api-client'
-gem 'thor'
-gem 'text-table'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

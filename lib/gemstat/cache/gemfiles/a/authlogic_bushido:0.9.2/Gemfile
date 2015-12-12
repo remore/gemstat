@@ -1,0 +1,5 @@
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'rails'
+gem 'rubycas-client'
+gem 'authlogic'

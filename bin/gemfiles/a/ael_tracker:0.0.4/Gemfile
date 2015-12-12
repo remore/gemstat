@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'httparty'
-gem 'json'
-gem 'bundler'
-gem 'rake'

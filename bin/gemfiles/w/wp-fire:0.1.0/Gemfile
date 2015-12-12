@@ -1,5 +1,0 @@
-gem 'clamp'
-gem 'thor'
-gem 'filewatcher'
-gem 'sass'
-gem 'coffee-script'

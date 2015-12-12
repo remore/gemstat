@@ -1,8 +1,0 @@
-gem 'capybara'
-gem 'capybara-webkit'
-gem 'headless'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

@@ -1,8 +1,0 @@
-gem 'lockfile'
-gem 'rails'
-gem 'rturk'
-gem 'mocha'
-gem 'sqlite3'
-gem 'spork'
-gem 'factory_girl'
-gem 'rspec-rails'

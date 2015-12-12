@@ -1,4 +1,0 @@
-gem 'errbit_plugin'
-gem 'pivotal-tracker'
-gem 'bundler'
-gem 'rake'

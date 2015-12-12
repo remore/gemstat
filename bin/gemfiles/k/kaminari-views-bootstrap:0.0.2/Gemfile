@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'kaminari'
-gem 'bundler'
-gem 'rake'

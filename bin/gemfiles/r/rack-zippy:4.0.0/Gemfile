@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'minitest'
-gem 'guard-test'
-gem 'rack-test'
-gem 'rake'

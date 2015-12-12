@@ -1,3 +1,0 @@
-gem 'eventmachine'
-gem 'xmpp4r'
-gem 'nokogiri'

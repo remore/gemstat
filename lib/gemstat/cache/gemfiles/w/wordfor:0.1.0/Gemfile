@@ -1,0 +1,2 @@
+gem 'wordnet'
+gem 'wordnet-defaultdb'

@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'slop'
-gem 'bundler'
-gem 'rake'

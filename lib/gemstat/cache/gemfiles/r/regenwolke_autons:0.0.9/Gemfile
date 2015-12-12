@@ -1,0 +1,6 @@
+gem 'childprocess'
+gem 'nestene'
+gem 'structure_mapper'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

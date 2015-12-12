@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'sanitize'
-gem 'thoughtbot-shoulda'

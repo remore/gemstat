@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'httparty'
-gem 'twitter'
-gem 'oauth'
-gem 'launchy'

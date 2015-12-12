@@ -1,4 +1,0 @@
-gem 'ParseTree'
-gem 'rake'
-gem 'newgem'
-gem 'hoe'

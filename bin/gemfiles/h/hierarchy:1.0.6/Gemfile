@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'pg'
-gem 'jeweler'
-gem 'yard'
-gem 'RedCloth'
-gem 'rspec'

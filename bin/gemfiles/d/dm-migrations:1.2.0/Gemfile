@@ -1,4 +1,0 @@
-gem 'dm-core'
-gem 'jeweler'
-gem 'rake'
-gem 'rspec'

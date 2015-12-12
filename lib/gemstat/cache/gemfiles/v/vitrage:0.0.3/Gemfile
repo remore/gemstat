@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'jquery-rails'
+gem 'formtastic'
+gem 'evil_icons'
+gem 'sqlite3'

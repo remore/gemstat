@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'metriks'
-gem 'thread_safe'
-gem 'logstash-devutils'

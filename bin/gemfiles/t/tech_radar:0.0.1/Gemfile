@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'i18n'
-gem 'immutable-struct'
-gem 'mocha'

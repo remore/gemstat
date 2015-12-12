@@ -1,8 +1,0 @@
-gem 'rest-client'
-gem 'xml-simple'
-gem 'hash_symbolizer'
-gem 'rspec'
-gem 'capybara'
-gem 'vcr'
-gem 'webmock'
-gem 'simplecov'

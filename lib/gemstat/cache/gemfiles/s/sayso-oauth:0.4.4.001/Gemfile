@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'rack'
+gem 'mocha'
+gem 'typhoeus'
+gem 'em-http-request'
+gem 'curb'

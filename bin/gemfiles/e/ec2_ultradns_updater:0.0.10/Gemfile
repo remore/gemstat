@@ -1,6 +1,0 @@
-gem 'aws-sdk'
-gem 'wasabi'
-gem 'savon'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

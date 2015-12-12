@@ -1,0 +1,5 @@
+gem 'zucker'
+gem 'couchrest'
+gem 'rake'
+gem 'lumberjack'
+gem 'rocking_chair'

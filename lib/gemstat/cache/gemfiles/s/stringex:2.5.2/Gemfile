@@ -1,0 +1,6 @@
+gem 'jeweler'
+gem 'travis-lint'
+gem 'RedCloth'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'i18n'

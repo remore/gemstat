@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'awesome_print'
-gem 'vcr'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'coveralls'

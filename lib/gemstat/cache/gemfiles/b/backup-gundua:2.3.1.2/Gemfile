@@ -1,0 +1,8 @@
+gem 'aws-s3'
+gem 'net-ssh'
+gem 'net-scp'
+gem 'net-sftp'
+gem 'activerecord'
+gem 'sqlite3-ruby'
+gem 'hirb'
+gem 'pony'

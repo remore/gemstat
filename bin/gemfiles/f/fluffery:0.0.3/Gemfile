@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'actionpack'
-gem 'rspec'
-gem 'bundler'

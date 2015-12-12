@@ -1,6 +1,0 @@
-gem 'grape'
-gem 'dogstatsd-ruby'
-gem 'rake'
-gem 'bundler'
-gem 'rack-test'
-gem 'rspec'

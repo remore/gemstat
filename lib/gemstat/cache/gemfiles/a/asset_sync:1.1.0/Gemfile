@@ -1,0 +1,8 @@
+gem 'fog'
+gem 'unf'
+gem 'activemodel'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'uglifier'
+gem 'appraisal'

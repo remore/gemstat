@@ -1,5 +1,0 @@
-gem 'symbolmatrix'
-gem 'rspec'
-gem 'cucumber'
-gem 'fast'
-gem 'pry'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'coveralls'
-gem 'faker'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'webmock'
-gem 'htmlentities'

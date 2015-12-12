@@ -1,0 +1,8 @@
+gem 'rack-client'
+gem 'excon'
+gem 'celluloid'
+gem 'rspec'
+gem 'sinatra'
+gem 'realweb'
+gem 'awesome_print'
+gem 'colorize'

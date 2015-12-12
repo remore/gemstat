@@ -1,6 +1,0 @@
-gem 'pry'
-gem 'libnotify'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'guard'
-gem 'guard-bundler'

@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'
-gem 'cinch-test'
-gem 'cinch'
-gem 'cinch-storage'
-gem 'cinch-toolbox'
-gem 'tumblr-rb'

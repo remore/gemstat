@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'rr'
-gem 'shoulda'
-gem 'celluloid'

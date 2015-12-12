@@ -1,4 +1,0 @@
-gem 'resourceful'
-gem 'nokogiri'
-gem 'steak'
-gem 'webmock'

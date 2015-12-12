@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'bundler'
+gem 'fakeredis'
+gem 'minitest'
+gem 'rake'

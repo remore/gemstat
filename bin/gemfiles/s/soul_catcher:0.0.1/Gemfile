@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'digest'
-gem 'highline'
-gem 'ruby-progressbar'
-gem 'choice'
-gem 'formatador'
-gem 'pry'

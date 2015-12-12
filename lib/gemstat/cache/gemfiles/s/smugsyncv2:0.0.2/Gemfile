@@ -1,0 +1,8 @@
+gem 'oauth'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'simple_oauth'
+gem 'deepopenstruct'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

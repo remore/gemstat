@@ -1,0 +1,7 @@
+gem 'ambry'
+gem 'rails'
+gem 'capybara'
+gem 'simplecov'
+gem 'rubocop'
+gem 'minitest-rails'
+gem 'mocha'

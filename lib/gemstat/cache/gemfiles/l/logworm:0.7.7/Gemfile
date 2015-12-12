@@ -1,0 +1,8 @@
+gem 'memcache-client'
+gem 'hpricot'
+gem 'oauth'
+gem 'heroku'
+gem 'memcache-client'
+gem 'hpricot'
+gem 'oauth'
+gem 'heroku'

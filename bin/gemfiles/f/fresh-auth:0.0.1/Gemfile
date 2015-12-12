@@ -1,3 +1,0 @@
-gem 'builder'
-gem 'rest-client'
-gem 'nokogiri'

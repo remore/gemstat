@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'ckeditor'
-gem 'crudify'
-gem 'acts-as-taggable-on'
-gem 'friendly_id'
-gem 'paperclip'
-gem 'will_paginate'

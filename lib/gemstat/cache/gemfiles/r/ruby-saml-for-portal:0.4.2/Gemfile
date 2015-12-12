@@ -1,0 +1,6 @@
+gem 'xmlcanonicalizer'
+gem 'uuid'
+gem 'systemu'
+gem 'rsa'
+gem 'shoulda'
+gem 'mocha'

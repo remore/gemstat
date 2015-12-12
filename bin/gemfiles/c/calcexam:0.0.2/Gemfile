@@ -1,4 +1,0 @@
-gem 'rainbow'
-gem 'rake'
-gem 'mocha'
-gem 'aruba'

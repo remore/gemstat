@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'httmultiparty'
-gem 'sqlite3'

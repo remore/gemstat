@@ -1,3 +1,0 @@
-gem 'sequel'
-gem 'newrelic_rpm'
-gem 'rake'

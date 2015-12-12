@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'mocha'
-gem 'echoe'
-gem 'activesupport'

@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'money'
-gem 'monetize'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'growl'
-gem 'rb-fsevent'

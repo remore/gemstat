@@ -1,4 +1,0 @@
-gem 'deepopenstruct'
-gem 'json'
-gem 'addressable'
-gem 'webmock'

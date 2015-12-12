@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'parallel'
-gem 'domainatrix'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'vcr'

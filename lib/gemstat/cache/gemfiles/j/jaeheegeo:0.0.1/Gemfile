@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'sinatra'
+gem 'thin'
+gem 'autometal-geoip'

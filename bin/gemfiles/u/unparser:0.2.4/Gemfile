@@ -1,7 +1,0 @@
-gem 'parser'
-gem 'procto'
-gem 'concord'
-gem 'adamantium'
-gem 'equalizer'
-gem 'abstract_type'
-gem 'diff-lcs'

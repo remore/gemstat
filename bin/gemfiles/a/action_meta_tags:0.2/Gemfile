@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'rspec'
-gem 'actionpack'
-gem 'rubocop'
-gem 'cane'

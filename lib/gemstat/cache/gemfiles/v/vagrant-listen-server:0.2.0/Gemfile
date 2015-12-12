@@ -1,0 +1,6 @@
+gem 'listen'
+gem 'rb-kqueue'
+gem 'rb-inotify'
+gem 'rb-fsevent'
+gem 'bundler'
+gem 'rake'

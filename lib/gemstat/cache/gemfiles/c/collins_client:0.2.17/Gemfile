@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'yard'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'
+gem 'rake'

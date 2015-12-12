@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rspec-nc'
+gem 'guard'
+gem 'guard-rspec'

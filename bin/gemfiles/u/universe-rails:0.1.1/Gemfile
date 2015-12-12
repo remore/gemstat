@@ -1,7 +1,0 @@
-gem 'universe-rails-testing'
-gem 'rails'
-gem 'devise'
-gem 'formtastic'
-gem 'will_paginate'
-gem 'universe-rack'
-gem 'universe-db'

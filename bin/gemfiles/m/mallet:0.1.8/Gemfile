@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'activerecord'
-gem 'actionmailer'
-gem 'i18n'
-gem 'workflow'
-gem 'combustion'

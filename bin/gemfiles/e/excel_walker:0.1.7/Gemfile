@@ -1,5 +1,0 @@
-gem 'creek'
-gem 'axlsx'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

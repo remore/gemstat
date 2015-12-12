@@ -1,7 +1,0 @@
-gem 'jsmin'
-gem 'bundler'
-gem 'rspec'
-gem 'jeweler'
-gem 'rcov'
-gem 'jsmin'
-gem 'rspec'

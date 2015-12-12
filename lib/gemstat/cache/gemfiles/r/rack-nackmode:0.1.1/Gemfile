@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rspec'
+gem 'em-spec-helpers'
+gem 'rack-test'
+gem 'sinatra'

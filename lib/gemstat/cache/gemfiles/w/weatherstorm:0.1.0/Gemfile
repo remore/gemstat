@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'dotenv'
+gem 'codeclimate-test-reporter'
+gem 'forecast_io'
+gem 'geocoder'

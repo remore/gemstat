@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'octokit'
+gem 'faraday-http-cache'
+gem 'dalli'
+gem 'memcachier'
+gem 'oj'

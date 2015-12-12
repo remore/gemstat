@@ -1,6 +1,0 @@
-gem 'uuid'
-gem 'rake'
-gem 'rspec'
-gem 'ruby-saml'
-gem 'rails'
-gem 'capybara'

@@ -1,0 +1,7 @@
+gem 'adhearsion'
+gem 'i18n'
+gem 'rspec'
+gem 'flexmock'
+gem 'guard-rspec'
+gem 'rake'
+gem 'thor'

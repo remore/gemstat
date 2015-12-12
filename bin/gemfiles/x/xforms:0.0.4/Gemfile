@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'nokogiri'
-gem 'i18n'

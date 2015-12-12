@@ -1,4 +1,0 @@
-gem 'excon'
-gem 'polylines'
-gem 'bundler'
-gem 'pry'

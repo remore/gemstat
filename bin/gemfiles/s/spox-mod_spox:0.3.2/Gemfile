@@ -1,4 +1,0 @@
-gem 'sequel'
-gem 'ActionPool'
-gem 'ActionTimer'
-gem 'spockets'

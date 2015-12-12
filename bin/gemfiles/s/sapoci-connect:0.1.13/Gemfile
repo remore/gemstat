@@ -1,8 +1,0 @@
-gem 'faraday'
-gem 'rack'
-gem 'sapoci'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rdoc'
-gem 'rake'
-gem 'sinatra'

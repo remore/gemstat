@@ -1,6 +1,0 @@
-gem 'dynarex'
-gem 'sps-pub'
-gem 'dir-to-xml'
-gem 'dataisland'
-gem 'increment'
-gem 'simple-config'

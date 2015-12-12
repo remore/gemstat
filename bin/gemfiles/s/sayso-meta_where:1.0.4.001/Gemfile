@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'arel'
-gem 'shoulda'
-gem 'sqlite3'

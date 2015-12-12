@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'hashie'
+gem 'httpclient'
+gem 'bundler'
+gem 'rake'

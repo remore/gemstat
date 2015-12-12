@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'dotenv'
+gem 'rest-client'
+gem 'json'

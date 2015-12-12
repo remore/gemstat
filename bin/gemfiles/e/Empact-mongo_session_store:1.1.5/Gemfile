@@ -1,3 +1,0 @@
-gem 'actionpack'
-gem 'mongo_mapper'
-gem 'mongoid'

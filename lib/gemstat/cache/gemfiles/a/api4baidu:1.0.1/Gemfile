@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'oauth2'
+gem 'rest-client'

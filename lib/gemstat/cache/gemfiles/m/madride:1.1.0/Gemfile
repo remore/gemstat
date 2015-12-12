@@ -1,0 +1,8 @@
+gem 'sprockets'
+gem 'rack'
+gem 'slim'
+gem 'haml'
+gem 'sass'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'

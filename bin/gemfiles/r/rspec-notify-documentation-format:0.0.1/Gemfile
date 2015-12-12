@@ -1,5 +1,0 @@
-gem 'ruby-growl'
-gem 'rspec'
-gem 'rspec-core'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'chef-provisioning'
-gem 'fog'
-gem 'retryable'
-gem 'rspec'
-gem 'rake'

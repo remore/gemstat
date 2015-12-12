@@ -1,6 +1,0 @@
-gem 'que'
-gem 'railties'
-gem 'bundler'
-gem 'rake'
-gem 'sequel'
-gem 'pg'

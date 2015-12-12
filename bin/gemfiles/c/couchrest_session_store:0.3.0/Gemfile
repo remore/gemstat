@@ -1,5 +1,0 @@
-gem 'couchrest'
-gem 'couchrest_model'
-gem 'actionpack'
-gem 'minitest'
-gem 'rake'

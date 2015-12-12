@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'bson'
-gem 'mongoid'
-gem 'rubyforge'
-gem 'minitest'
-gem 'hoe'

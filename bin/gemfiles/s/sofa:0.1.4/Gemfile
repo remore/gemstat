@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'crack'
-gem 'rspec'
-gem 'mocha'
-gem 'fakeweb'
-gem 'yard'

@@ -1,7 +1,0 @@
-gem 'addressable'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'
-gem 'nokogiri'
-gem 'rubocop'
-gem 'rubygems-tasks'

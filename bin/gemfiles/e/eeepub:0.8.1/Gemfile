@@ -1,6 +1,0 @@
-gem 'builder'
-gem 'rubyzip'
-gem 'rspec'
-gem 'nokogiri'
-gem 'rr'
-gem 'simplecov'

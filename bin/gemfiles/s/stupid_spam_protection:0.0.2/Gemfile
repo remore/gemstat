@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'active_record_no_table'

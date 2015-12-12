@@ -1,0 +1,5 @@
+gem 'jamie'
+gem 'vagrant'
+gem 'cane'
+gem 'tailor'
+gem 'countloc'

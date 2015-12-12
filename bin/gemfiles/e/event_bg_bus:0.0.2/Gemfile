@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'sidekiq'

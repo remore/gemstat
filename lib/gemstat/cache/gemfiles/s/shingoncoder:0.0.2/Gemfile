@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'railties'
+gem 'activejob'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

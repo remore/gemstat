@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'capistrano_colors'
+gem 'colored'
+gem 'term-ansicolor'
+gem 'rspec'
+gem 'childprocess'

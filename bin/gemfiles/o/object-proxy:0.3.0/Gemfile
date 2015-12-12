@@ -1,4 +1,0 @@
-gem 'hash-utils'
-gem 'bundler'
-gem 'jeweler2'
-gem 'riot'

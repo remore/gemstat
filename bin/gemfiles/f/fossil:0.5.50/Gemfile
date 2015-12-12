@@ -1,3 +1,0 @@
-gem 'sequel'
-gem 'ruby-odbc'
-gem 'rspec'

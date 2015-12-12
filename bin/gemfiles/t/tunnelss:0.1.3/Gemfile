@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rr'
-gem 'pry'
-gem 'pry-byebug'
-gem 'eventmachine'

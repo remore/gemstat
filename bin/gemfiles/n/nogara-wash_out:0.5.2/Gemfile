@@ -1,5 +1,0 @@
-gem 'nori'
-gem 'rspec-rails'
-gem 'appraisal'
-gem 'tzinfo'
-gem 'savon'

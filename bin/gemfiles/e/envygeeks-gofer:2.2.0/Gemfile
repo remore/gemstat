@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'envygeeks-coveralls'
-gem 'net-ssh'
-gem 'net-scp'

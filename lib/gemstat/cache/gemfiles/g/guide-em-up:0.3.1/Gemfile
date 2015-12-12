@@ -1,0 +1,6 @@
+gem 'goliath'
+gem 'redcarpet'
+gem 'erubis'
+gem 'yajl-ruby'
+gem 'albino'
+gem 'minitest'

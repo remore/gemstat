@@ -1,4 +1,0 @@
-gem 'inifile'
-gem 'trollop'
-gem 'highline'
-gem 'nokogiri'

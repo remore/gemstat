@@ -1,5 +1,0 @@
-gem 'redis'
-gem 'dante'
-gem 'simple_oauth'
-gem 'twitter-text'
-gem 'activesupport'

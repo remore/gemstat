@@ -1,4 +1,0 @@
-gem 'mechanize'
-gem 'highline'
-gem 'daybreak'
-gem 'colorize'

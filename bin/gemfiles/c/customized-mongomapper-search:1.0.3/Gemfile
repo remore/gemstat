@@ -1,3 +1,0 @@
-gem 'oauth-rsolr'
-gem 'mongo_mapper'
-gem 'will_paginate'

@@ -1,0 +1,6 @@
+gem 'asir'
+gem 'activerecord'
+gem 'pg'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

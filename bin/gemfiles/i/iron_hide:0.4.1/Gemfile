@@ -1,7 +1,0 @@
-gem 'multi_json'
-gem 'json_minify'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'pry'

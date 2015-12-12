@@ -1,3 +1,0 @@
-gem 'celluloid-io'
-gem 'http_parser.rb'
-gem 'simple_oauth'

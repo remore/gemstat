@@ -1,5 +1,0 @@
-gem 'merb-core'
-gem 'sequel'
-gem 'rspec'
-gem 'sqlite3-ruby'
-gem 'webrat'

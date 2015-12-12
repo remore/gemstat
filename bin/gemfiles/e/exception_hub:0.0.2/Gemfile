@@ -1,5 +1,0 @@
-gem 'octokit'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'rspec'
-gem 'simplecov'

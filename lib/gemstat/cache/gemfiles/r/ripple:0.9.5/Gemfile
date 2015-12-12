@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'riak-client'
+gem 'activesupport'
+gem 'activemodel'

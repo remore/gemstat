@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'mechanize'
-gem 'virtus'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

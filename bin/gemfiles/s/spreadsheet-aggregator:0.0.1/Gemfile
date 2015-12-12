@@ -1,5 +1,0 @@
-gem 'builder'
-gem 'google-spreadsheet-ruby'
-gem 'nokogiri'
-gem 'spreadsheet'
-gem 'zip'

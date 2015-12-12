@@ -1,8 +1,0 @@
-gem 'cucumber'
-gem 'rspec'
-gem 'aruba'
-gem 'ruby-debug19'
-gem 'bundler'
-gem 'watchr'
-gem 'rake'
-gem 'thor'

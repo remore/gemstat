@@ -1,4 +1,0 @@
-gem 'note_frequencies'
-gem 'ruby-units'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'net-ssh'
-gem 'ambience'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'rb-fsevent'

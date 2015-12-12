@@ -1,4 +1,0 @@
-gem 'rake-compiler'
-gem 'rake'
-gem 'rspec'
-gem 'oily_png'

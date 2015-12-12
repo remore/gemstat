@@ -1,0 +1,6 @@
+gem 'kaltura-ruby-client'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'

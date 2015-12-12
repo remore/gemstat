@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'

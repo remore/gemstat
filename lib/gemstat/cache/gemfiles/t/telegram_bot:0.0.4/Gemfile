@@ -1,0 +1,4 @@
+gem 'excon'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'

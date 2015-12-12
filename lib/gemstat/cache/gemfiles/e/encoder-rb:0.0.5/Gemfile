@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rake'
+gem 'fakeweb'
+gem 'builder'
+gem 'nokogiri'

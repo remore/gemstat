@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-composer'
-gem 'bundler'
-gem 'rake'

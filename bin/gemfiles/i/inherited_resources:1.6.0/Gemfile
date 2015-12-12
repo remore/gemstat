@@ -1,4 +1,0 @@
-gem 'responders'
-gem 'actionpack'
-gem 'railties'
-gem 'has_scope'

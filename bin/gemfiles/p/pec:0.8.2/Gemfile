@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'yao'
-gem 'ruby-ip'
-gem 'colorator'
-gem 'bundler'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'rake'

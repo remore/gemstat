@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'bundler'
-gem 'jeweler'
-gem 'yard'
-gem 'metric_fu'
-gem 'pry'
-gem 'pry-nav'

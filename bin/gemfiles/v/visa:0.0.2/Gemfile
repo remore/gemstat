@@ -1,6 +1,0 @@
-gem 'bcrypt'
-gem 'rack'
-gem 'rails'
-gem 'combustion'
-gem 'rspec-rails'
-gem 'sqlite3'

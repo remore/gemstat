@@ -1,5 +1,0 @@
-gem 'oauth'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rake'
-gem 'webmock'

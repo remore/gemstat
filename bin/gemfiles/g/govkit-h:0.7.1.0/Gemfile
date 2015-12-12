@@ -1,8 +1,0 @@
-gem 'active_support'
-gem 'nokogiri'
-gem 'httparty'
-gem 'i18n'
-gem 'httparty'
-gem 'json'
-gem 'nokogiri'
-gem 'fastercsv'

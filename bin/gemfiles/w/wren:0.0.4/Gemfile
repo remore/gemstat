@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

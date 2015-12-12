@@ -1,0 +1,5 @@
+gem 'state_machine'
+gem 'the_sortable_tree'
+gem 'the_string_to_slug'
+gem 'bundler'
+gem 'rake'

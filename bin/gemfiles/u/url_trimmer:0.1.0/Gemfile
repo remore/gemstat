@@ -1,4 +1,0 @@
-gem 'domain_name'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

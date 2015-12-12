@@ -1,4 +1,0 @@
-gem 'log4r'
-gem 'log4r-gelf'
-gem 'bundler'
-gem 'rake'

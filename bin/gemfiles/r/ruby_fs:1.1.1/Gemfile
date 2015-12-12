@@ -1,7 +1,0 @@
-gem 'celluloid-io'
-gem 'bundler'
-gem 'rspec'
-gem 'yard'
-gem 'rake'
-gem 'guard-rspec'
-gem 'rb-fsevent'

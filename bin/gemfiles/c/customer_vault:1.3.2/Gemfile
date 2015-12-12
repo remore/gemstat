@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'dorsale'
-gem 'flyboy'
-gem 'handles_sortable_columns'
-gem 'acts-as-taggable-on'
-gem 'selectize-rails'

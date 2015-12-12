@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'sidekiq'
-gem 'rake'
-gem 'rspec'

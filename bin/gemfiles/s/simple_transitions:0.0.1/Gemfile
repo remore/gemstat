@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'actionpack'
-gem 'rspec'

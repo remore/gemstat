@@ -1,5 +1,0 @@
-gem 'virtus'
-gem 'rails'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

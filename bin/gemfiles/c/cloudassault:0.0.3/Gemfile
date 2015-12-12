@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'rest-client'
-gem 'json'

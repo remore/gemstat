@@ -1,5 +1,0 @@
-gem 'membrane'
-gem 'yajl-ruby'
-gem 'ci_reporter'
-gem 'rake'
-gem 'rspec'

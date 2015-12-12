@@ -1,4 +1,0 @@
-gem 'ruby_core_source'
-gem 'rdoc'
-gem 'rake-compiler'
-gem 'hoe'

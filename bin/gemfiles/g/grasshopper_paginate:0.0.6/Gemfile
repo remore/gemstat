@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'foundation-rails'
-gem 'jquery-rails'
-gem 'sass-rails'
-gem 'will_paginate'

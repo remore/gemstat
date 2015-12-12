@@ -1,3 +1,0 @@
-gem 'seed-fu'
-gem 'rspec'
-gem 'sqlite3'

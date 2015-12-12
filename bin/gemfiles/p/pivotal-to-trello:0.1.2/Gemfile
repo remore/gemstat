@@ -1,6 +1,0 @@
-gem 'highline'
-gem 'ruby-trello'
-gem 'pivotal-tracker'
-gem 'rspec'
-gem 'rdoc'
-gem 'jeweler'

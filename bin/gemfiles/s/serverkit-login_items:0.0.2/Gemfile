@@ -1,4 +1,0 @@
-gem 'serverkit'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

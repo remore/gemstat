@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'redis'
-gem 'resque'
-gem 'rufus-scheduler'

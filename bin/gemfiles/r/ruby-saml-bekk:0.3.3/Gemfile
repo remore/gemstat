@@ -1,4 +1,0 @@
-gem 'xmlcanonicalizer'
-gem 'uuid'
-gem 'shoulda'
-gem 'mocha'

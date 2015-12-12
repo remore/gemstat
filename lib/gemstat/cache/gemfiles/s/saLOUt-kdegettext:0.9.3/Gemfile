@@ -1,0 +1,4 @@
+gem 'gettext'
+gem 'locale'
+gem 'ruby_parser'
+gem 'sexp_processor'

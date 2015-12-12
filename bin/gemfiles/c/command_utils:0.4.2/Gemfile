@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'guard-rdoc'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'rake'

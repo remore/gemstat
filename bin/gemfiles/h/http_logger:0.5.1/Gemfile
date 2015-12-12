@@ -1,5 +1,0 @@
-gem 'debugger'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'fakeweb'

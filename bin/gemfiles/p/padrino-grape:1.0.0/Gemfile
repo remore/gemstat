@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'grape'
-gem 'padrino'

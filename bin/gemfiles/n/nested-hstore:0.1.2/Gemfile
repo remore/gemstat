@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'appraisal'
-gem 'rspec'
-gem 'pg'

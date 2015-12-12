@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'rspec'
+gem 'simplecov'
+gem 'rubocop'
+gem 'rake'
+gem 'yard'
+gem 'pry'

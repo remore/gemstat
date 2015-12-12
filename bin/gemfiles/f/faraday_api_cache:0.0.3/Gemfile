@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'api_cache'
-gem 'bundler'
-gem 'rake'

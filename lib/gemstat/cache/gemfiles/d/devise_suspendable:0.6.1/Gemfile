@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'warden'
+gem 'devise'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

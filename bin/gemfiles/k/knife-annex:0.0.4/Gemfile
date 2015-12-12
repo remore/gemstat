@@ -1,3 +1,0 @@
-gem 'chef-vault'
-gem 'bundler'
-gem 'thor'

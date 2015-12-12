@@ -1,4 +1,0 @@
-gem 'chef-workflow'
-gem 'minitest'
-gem 'rdoc'
-gem 'rake'

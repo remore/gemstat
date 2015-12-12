@@ -1,0 +1,5 @@
+gem 'qu-utils'
+gem 'qu-cmdwrapper'
+gem 'sqlite3'
+gem 'bundler'
+gem 'rake'

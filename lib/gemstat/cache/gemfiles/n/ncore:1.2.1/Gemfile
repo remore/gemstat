@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'excon'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'

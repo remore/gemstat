@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'railties'
-gem 'bundler'
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'

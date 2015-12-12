@@ -1,0 +1,4 @@
+gem 'plivo'
+gem 'bundler'
+gem 'minitest'
+gem 'rake'

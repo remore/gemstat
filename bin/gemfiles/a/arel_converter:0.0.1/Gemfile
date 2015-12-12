@@ -1,6 +1,0 @@
-gem 'ruby2ruby'
-gem 'ruby_parser'
-gem 'logging'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

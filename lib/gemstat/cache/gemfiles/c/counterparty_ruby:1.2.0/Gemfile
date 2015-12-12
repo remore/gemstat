@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'bitcoin-ruby'
+gem 'ffi'
+gem 'ruby-rc4'
+gem 'rspec'
+gem 'rspec-its'
+gem 'rake'
+gem 'rdoc'

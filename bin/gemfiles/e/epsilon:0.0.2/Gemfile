@@ -1,3 +1,0 @@
-gem 'builder'
-gem 'active_support'
-gem 'mocha'

@@ -1,0 +1,7 @@
+gem 'adhearsion'
+gem 'activesupport'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'guard-rspec'
+gem 'rb-fsevent'

@@ -1,6 +1,0 @@
-gem 'cinch'
-gem 'cinch-authentication'
-gem 'json'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

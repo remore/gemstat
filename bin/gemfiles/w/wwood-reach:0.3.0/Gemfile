@@ -1,4 +1,0 @@
-gem 'reachable'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

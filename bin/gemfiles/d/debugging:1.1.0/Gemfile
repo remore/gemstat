@@ -1,7 +1,0 @@
-gem 'paint'
-gem 'binding.repl'
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'rubygems-tasks'

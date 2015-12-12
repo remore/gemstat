@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rest-client'
-gem 'nokogiri'
-gem 'sinatra'
-gem 'shoulda'
-gem 'turn'
-gem 'fakeweb'
-gem 'mocha'

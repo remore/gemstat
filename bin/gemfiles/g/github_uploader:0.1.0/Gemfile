@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'github_api'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

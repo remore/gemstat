@@ -1,4 +1,0 @@
-gem 'flexmock'
-gem 'lockfile'
-gem 'little-plugger'
-gem 'bones'

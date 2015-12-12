@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'cpf_utils'
-gem 'cnpj_utils'
-gem 'titulo_eleitor_utils'

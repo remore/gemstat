@@ -1,4 +1,0 @@
-gem 'sqlite3-ruby'
-gem 'scrobbler'
-gem 'ruby-treemap'
-gem 'hoe'

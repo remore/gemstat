@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'aws-s3'
+gem 'right_aws'
+gem 'rake'
+gem 'thor'
+gem 'builder'

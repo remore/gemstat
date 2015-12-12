@@ -1,6 +1,0 @@
-gem 'activejob'
-gem 'rspec-mocks'
-gem 'rspec'
-gem 'rspec-its'
-gem 'activesupport'
-gem 'rubocop'

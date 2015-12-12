@@ -1,0 +1,8 @@
+gem 'aws-sdk-v1'
+gem 'uuid'
+gem 'rspec'
+gem 'json'
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec-instafail'

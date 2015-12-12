@@ -1,0 +1,6 @@
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'fog'
+gem 'formatador'
+gem 'tilt'

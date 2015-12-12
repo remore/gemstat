@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-static-assets'
+gem 'octokit'
+gem 'trollop'
+gem 'json'
+gem 'rack'

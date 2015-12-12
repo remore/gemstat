@@ -1,0 +1,8 @@
+gem 'user_space'
+gem 'help_parser'
+gem 'rainbow'
+gem 'xdg'
+gem 'rafini'
+gem 'signet'
+gem 'web_api'
+gem 'base_convert'

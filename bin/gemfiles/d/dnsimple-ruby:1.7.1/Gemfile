@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'rake'
-gem 'aruba'
-gem 'cucumber'
-gem 'mocha'
-gem 'rspec'
-gem 'yard'
-gem 'webmock'

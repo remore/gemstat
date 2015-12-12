@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'rspec-rails'
-gem 'mocha'
-gem 'capybara'
-gem 'coffee-rails'
-gem 'sass-rails'

@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'poseidon'
+gem 'rspec'

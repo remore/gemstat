@@ -1,4 +1,0 @@
-gem 'carrierwave'
-gem 'sequel'
-gem 'rspec'
-gem 'sqlite3'

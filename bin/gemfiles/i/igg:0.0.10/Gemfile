@@ -1,8 +1,0 @@
-gem 'json'
-gem 'thor'
-gem 'sinatra'
-gem 'puma'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

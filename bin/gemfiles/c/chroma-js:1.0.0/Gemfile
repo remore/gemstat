@@ -1,8 +1,0 @@
-gem 'autoprefixer-rails'
-gem 'actionpack'
-gem 'activesupport'
-gem 'json'
-gem 'sprockets-rails'
-gem 'slim-rails'
-gem 'uglifier'
-gem 'term-ansicolor'

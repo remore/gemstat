@@ -1,0 +1,2 @@
+gem 'merb-slices'
+gem 'merb-mailer'

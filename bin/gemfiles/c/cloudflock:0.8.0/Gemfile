@@ -1,4 +1,0 @@
-gem 'fog-json'
-gem 'fog'
-gem 'cpe'
-gem 'console-glitter'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activeresource'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'pry'

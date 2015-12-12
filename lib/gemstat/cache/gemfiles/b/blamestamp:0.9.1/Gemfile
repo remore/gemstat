@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'devise'
+gem 'activerecord'
+gem 'activemodel'
+gem 'activesupport'
+gem 'sqlite3'
+gem 'devise'

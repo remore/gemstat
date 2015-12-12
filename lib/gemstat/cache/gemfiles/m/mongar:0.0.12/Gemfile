@@ -1,0 +1,7 @@
+gem 'linguistics'
+gem 'mongo'
+gem 'rspec'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

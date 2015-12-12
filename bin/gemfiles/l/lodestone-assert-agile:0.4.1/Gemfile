@@ -1,3 +1,0 @@
-gem 'diff-lcs'
-gem 'mime-types'
-gem 'open4'

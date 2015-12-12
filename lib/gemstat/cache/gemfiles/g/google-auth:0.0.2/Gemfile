@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'omniauth'
+gem 'omniauth-google'
+gem 'multi_json'
+gem 'fakeweb'
+gem 'rack-test'
+gem 'timecop'
+gem 'jruby-openssl'

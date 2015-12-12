@@ -1,4 +1,0 @@
-gem 'sass'
-gem 'bourbon'
-gem 'rails'
-gem 'sqlite3'

@@ -1,4 +1,0 @@
-gem 'chunky_png'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

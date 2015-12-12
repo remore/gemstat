@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'byebug'
-gem 'bundler'
-gem 'terminal-table'

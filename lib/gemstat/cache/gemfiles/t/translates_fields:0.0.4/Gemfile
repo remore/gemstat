@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'gem-release'
+gem 'rspec'
+gem 'activerecord'
+gem 'i18n'
+gem 'sqlite3'

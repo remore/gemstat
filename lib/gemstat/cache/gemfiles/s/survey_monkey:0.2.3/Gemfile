@@ -1,0 +1,6 @@
+gem 'typhoeus'
+gem 'activerecord'
+gem 'activesupport'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'

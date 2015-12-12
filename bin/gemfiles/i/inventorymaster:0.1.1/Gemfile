@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'nested_form'
-gem 'kaminari'
-gem 'searchkick'

@@ -1,0 +1,6 @@
+gem 'capistrano'
+gem 'amazon-ec2'
+gem 'aws-s3'
+gem 'nettica'
+gem 'httparty'
+gem 'rails'

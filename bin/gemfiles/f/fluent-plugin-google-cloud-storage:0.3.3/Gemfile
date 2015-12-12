@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'fluentd'
-gem 'fluent-mixin-plaintextformatter'
-gem 'fluent-mixin-config-placeholders'
-gem 'google-api-client'

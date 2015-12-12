@@ -1,4 +1,0 @@
-gem 'fizx-rwget'
-gem 'fizx-parsley-ruby'
-gem 'activesupport'
-gem 'fastercsv'

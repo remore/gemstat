@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rails'
+gem 'activerecord'
+gem 'activesupport'
+gem 'awesome_nested_set'

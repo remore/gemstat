@@ -1,0 +1,4 @@
+gem 'facets'
+gem 'qed'
+gem 'citron'
+gem 'detroit'

@@ -1,0 +1,8 @@
+gem 'trollop'
+gem 'jekyll'
+gem 'coveralls'
+gem 'rdoc'
+gem 'minitest'
+gem 'rubocop'
+gem 'rubocop-rspec'
+gem 'rspec-rails'

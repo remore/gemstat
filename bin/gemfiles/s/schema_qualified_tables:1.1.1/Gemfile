@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'rake'
-gem 'rspec'
-gem 'composite_primary_keys'
-gem 'ci_reporter'
-gem 'bcdatabase'

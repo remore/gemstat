@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'celluloid'
-gem 'virtus'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'send_with_us'
-gem 'rake'
-gem 'minitest-colorize'
-gem 'mocha'

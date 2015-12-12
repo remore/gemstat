@@ -1,7 +1,0 @@
-gem 'faker'
-gem 'rack-test'
-gem 'test-unit'
-gem 'ruby-prof'
-gem 'rake-compiler'
-gem 'rest-client'
-gem 'radix'

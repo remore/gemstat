@@ -1,7 +1,0 @@
-gem 'colorize'
-gem 'multi_json'
-gem 'oj'
-gem 'sequel'
-gem 'sqlite3'
-gem 'thor'
-gem 'nokogiri-plist'

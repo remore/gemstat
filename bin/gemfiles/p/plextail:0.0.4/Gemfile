@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'fakeweb'
-gem 'fakeweb-matcher'
-gem 'rake'
-gem 'rspec'

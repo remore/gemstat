@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'redis'
-gem 'text'
-gem 'resque'
-gem 'rest-client'
-gem 'fitter-happier'
-gem 'lograge'
-gem 'session_off'

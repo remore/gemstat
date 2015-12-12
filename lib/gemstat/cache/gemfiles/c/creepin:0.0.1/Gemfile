@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'httparty'
+gem 'aasm'
+gem 'nokogiri'

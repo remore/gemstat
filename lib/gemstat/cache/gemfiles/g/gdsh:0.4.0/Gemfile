@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'google-api-client'
+gem 'launchy'
+gem 'differ'
+gem 'colorize'

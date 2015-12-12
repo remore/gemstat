@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'configliere'
-gem 'json'
-gem 'rspec'
-gem 'rspec-its'

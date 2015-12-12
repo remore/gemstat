@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'rspec'
-gem 'rake'
-gem 'rdoc'
-gem 'sqlite3'

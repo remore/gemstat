@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'mocha'
-gem 'redis'
-gem 'simplecov'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'andand'
-gem 'highline'
-gem 'github_api'
-gem 'keychain_services'
-gem 'rugged'

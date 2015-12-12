@@ -1,6 +1,0 @@
-gem 'builder'
-gem 'rack'
-gem 'rack-test'
-gem 'rake'
-gem 'sqlite3-ruby'
-gem 'tzinfo'

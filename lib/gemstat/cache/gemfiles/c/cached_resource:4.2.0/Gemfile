@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'activeresource'
+gem 'activesupport'
+gem 'nilio'
+gem 'rspec'

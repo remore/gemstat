@@ -1,3 +1,0 @@
-gem 'angular-rails-templates'
-gem 'uglifier'
-gem 'less-rails'

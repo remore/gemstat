@@ -1,0 +1,2 @@
+gem 'rest'
+gem 'uber_config'

@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'jeweler'
-gem 'simplecov'
-gem 'yard'
-gem 'redcarpet'
-gem 'delorean'
-gem 'debugger'

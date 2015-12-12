@@ -1,5 +1,0 @@
-gem 'gitdown'
-gem 'term-ansicolor'
-gem 'hook'
-gem 'cucumber'
-gem 'rspec'

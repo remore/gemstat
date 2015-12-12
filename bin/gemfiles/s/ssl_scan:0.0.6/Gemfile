@@ -1,5 +1,0 @@
-gem 'fast_gettext'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'gettext'

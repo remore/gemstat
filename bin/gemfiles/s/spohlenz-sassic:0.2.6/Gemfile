@@ -1,5 +1,0 @@
-gem 'hpricot'
-gem 'haml'
-gem 'rack'
-gem 'mongrel'
-gem 'echoe'

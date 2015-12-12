@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'rack'
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

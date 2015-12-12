@@ -1,0 +1,2 @@
+gem 'lograge'
+gem 'rspec'

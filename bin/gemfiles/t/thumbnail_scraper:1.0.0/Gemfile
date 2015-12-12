@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'httpclient'
-gem 'fastimage'
-gem 'nokogiri'

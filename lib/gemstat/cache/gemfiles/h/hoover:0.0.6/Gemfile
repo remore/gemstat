@@ -1,0 +1,6 @@
+gem 'logglier'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'rails'

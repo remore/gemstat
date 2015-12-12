@@ -1,4 +1,0 @@
-gem 'json-schema'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'

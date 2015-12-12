@@ -1,5 +1,0 @@
-gem 'watir-webdriver'
-gem 'headless'
-gem 'byebug'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'paperclip'
-gem 'sqlite3'
-gem 'shoulda'
-gem 'mocha'

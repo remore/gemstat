@@ -1,8 +1,0 @@
-gem 'builder'
-gem 'oauth'
-gem 'rdoc'
-gem 'rspec'
-gem 'hoe-gemspec2'
-gem 'nokogiri'
-gem 'xmlparser'
-gem 'hoe'

@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'mongo'
-gem 'jnunemaker-validatable'
-gem 'jnunemaker-matchy'
-gem 'shoulda'
-gem 'timecop'
-gem 'mocha'

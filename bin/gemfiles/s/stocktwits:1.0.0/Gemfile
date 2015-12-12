@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'ezcrypto'
-gem 'oauth'
-gem 'json'

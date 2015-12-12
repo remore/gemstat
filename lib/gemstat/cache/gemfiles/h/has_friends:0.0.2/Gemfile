@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'activerecord'
+gem 'rails3-generators'
+gem 'rspec'
+gem 'sqlite3'

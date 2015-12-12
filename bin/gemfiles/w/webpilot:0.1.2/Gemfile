@@ -1,4 +1,0 @@
-gem 'headless'
-gem 'log4r'
-gem 'selenium-webdriver'
-gem 'rspec'

@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'unicode_utils'
-gem 'sqlite3'

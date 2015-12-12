@@ -1,4 +1,0 @@
-gem 'torquebox-messaging'
-gem 'rspec'
-gem 'bson'
-gem 'msgpack-jruby'

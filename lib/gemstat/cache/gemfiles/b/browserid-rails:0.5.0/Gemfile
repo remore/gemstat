@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'rspec-rails'
+gem 'simplecov'
+gem 'tzinfo'
+gem 'jquery-rails'

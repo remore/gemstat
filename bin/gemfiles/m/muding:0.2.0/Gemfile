@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'activerecord'
-gem 'log4r'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'mocha'
-gem 'nokogiri'
-gem 'thor'

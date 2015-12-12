@@ -1,0 +1,5 @@
+gem 'thoughtbot-shoulda'
+gem 'GeoRuby'
+gem 'json'
+gem 'progressbar'
+gem 'proj4rb'

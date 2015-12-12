@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'activerecord'
-gem 'cassandra'
-gem 'active_attr'
-gem 'exception_helper'
-gem 'shoulda'
-gem 'factory_girl'

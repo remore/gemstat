@@ -1,4 +1,0 @@
-gem 'rake-compiler'
-gem 'rspec'
-gem 'simplecov'
-gem 'timecop'

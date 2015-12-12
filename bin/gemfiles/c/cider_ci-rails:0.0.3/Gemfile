@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thread'
-gem 'simplecov'
-gem 'json_roa-client'

@@ -1,3 +1,0 @@
-gem 'rgeo'
-gem 'rgeo-shapefile'
-gem 'geos-extensions'

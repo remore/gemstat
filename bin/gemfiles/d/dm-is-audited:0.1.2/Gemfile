@@ -1,6 +1,0 @@
-gem 'dm-core'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'dm-core'

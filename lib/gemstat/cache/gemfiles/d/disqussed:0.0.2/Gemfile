@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'oj'
+gem 'multi_json'
+gem 'activesupport'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'

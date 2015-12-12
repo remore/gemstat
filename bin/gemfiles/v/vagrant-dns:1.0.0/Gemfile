@@ -1,3 +1,0 @@
-gem 'daemons'
-gem 'rubydns'
-gem 'rspec'

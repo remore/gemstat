@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'bcrypt-ruby'
-gem 'select2-rails'
-gem 'kaminari'
-gem 'bundler'

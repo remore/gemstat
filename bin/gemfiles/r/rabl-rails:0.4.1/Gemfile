@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'railties'
-gem 'thread_safe'

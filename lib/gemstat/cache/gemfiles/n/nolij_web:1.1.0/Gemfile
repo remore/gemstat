@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'nokogiri'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'
+gem 'webmock'

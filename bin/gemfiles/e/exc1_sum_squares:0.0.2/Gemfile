@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rr'
-gem 'thor'
-gem 'pry'

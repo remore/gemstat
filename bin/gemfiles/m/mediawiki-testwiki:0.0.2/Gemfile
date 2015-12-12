@@ -1,4 +1,0 @@
-gem 'docker_helper'
-gem 'mechanize'
-gem 'hen'
-gem 'rake'

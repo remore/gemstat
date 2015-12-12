@@ -1,0 +1,2 @@
+gem 'portmidi'
+gem 'ffi'

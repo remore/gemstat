@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'
-gem 'em-irc'

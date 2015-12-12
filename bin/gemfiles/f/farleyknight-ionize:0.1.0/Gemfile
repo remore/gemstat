@@ -1,4 +1,0 @@
-gem 'Dhaka'
-gem 'ParseTree'
-gem 'ruby2ruby'
-gem 'rack'

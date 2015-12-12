@@ -1,0 +1,6 @@
+gem 'sdoc'
+gem 'rdoc'
+gem 'rake'
+gem 'rcov'
+gem 'grancher'
+gem 'ruby-hmac'

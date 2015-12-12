@@ -1,5 +1,0 @@
-gem 'net-sftp'
-gem 'sequel'
-gem 'sqlite3'
-gem 'commander'
-gem 'pry'

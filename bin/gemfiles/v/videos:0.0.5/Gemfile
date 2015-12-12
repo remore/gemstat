@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'addressable'
-gem 'naturally'
-gem 'rmagick'
-gem 'nokogiri'

@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'resourceful'
-gem 'yajl-ruby'
-gem 'uuidtools'
-gem 'rspec'
-gem 'artifice'
-gem 'sinatra'

@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'simplecov'
-gem 'facter'
-gem 'ohai'
-gem 'aws-sdk'
-gem 'bunny'

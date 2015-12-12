@@ -1,7 +1,0 @@
-gem 'capybara'
-gem 'capybara'
-gem 'rspec'
-gem 'sinatra'
-gem 'rake'
-gem 'capybara-webkit'
-gem 'reek'

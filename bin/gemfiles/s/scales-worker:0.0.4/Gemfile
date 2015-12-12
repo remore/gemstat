@@ -1,7 +1,0 @@
-gem 'scales-core'
-gem 'rails'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rake'
-gem 'nokogiri'
-gem 'jsonpath'

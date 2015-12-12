@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'true'
-gem 'json'
-gem 'yaml'
-gem 'apstring'

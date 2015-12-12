@@ -1,0 +1,6 @@
+gem 'cyclops'
+gem 'longurl'
+gem 'xmpp4r'
+gem 'twitter'
+gem 'hen'
+gem 'rake'

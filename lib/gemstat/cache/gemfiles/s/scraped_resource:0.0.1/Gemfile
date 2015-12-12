@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'fastercsv'
+gem 'mechanize'
+gem 'roo'
+gem 'google-spreadsheet-ruby'
+gem 'rubyzip'
+gem 'spreadsheet'
+gem 'rspec'

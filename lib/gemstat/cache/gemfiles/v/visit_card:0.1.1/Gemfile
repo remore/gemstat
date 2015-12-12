@@ -1,0 +1,2 @@
+gem 'clean-bitmask-attribute'
+gem 'rspec'

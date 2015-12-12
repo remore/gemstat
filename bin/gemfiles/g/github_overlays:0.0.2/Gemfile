@@ -1,3 +1,0 @@
-gem 'rspec-rails'
-gem 'rails'
-gem 'github_api'

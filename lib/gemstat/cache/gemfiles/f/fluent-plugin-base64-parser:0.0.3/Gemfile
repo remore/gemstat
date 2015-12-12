@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'rr'
+gem 'test-unit-rr'
+gem 'fluentd'

@@ -1,3 +1,0 @@
-gem 'mini_fb'
-gem 'rspec'
-gem 'guard-rspec'

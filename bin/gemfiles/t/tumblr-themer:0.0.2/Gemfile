@@ -1,6 +1,0 @@
-gem 'url'
-gem 'sinatra'
-gem 'json'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'parallel'
-gem 'levenshtein-ffi'
-gem 'bio-faster'
-gem 'mkfifo'

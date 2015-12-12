@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'colorize'
-gem 'cocoapods'
-gem 'ipa_reader'

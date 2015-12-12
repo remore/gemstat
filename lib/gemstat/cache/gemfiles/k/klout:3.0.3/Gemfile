@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'httparty'
+gem 'json'
+gem 'fakeweb'
+gem 'guard-rspec'
+gem 'rspec'

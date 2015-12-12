@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'active_support'
-gem 'rake'
-gem 'rspec'

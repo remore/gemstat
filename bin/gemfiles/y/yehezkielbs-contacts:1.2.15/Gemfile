@@ -1,5 +1,0 @@
-gem 'json'
-gem 'yehezkielbs-gdata'
-gem 'nokogiri'
-gem 'nokogiri'
-gem 'fastercsv'

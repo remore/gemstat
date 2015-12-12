@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'sequel'
-gem 'sqlite3'
-gem 'couchrest'
-gem 'activerecord'
-gem 'em-synchrony-couchdb'

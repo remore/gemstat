@@ -1,0 +1,5 @@
+gem 'json'
+gem 'sinatra'
+gem 'rake'
+gem 'minitest'
+gem 'rack-test'

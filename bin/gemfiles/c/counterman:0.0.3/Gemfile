@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'minitest'
-gem 'minitest-given'
-gem 'redis-namespace'

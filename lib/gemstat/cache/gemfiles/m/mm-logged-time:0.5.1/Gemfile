@@ -1,0 +1,5 @@
+gem 'mongo_mapper'
+gem 'i18n'
+gem 'bundler'
+gem 'jnunemaker-matchy'
+gem 'shoulda'

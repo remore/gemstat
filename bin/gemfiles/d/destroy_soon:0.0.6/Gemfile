@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'sqlite3'
-gem 'delayed_job_active_record'
-gem 'activerecord'
-gem 'activesupport'
-gem 'rake'

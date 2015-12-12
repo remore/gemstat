@@ -1,0 +1,6 @@
+gem 'baconmocha'
+gem 'json_pure'
+gem 'rest-client'
+gem 'amqp'
+gem 'bunny'
+gem 'eventmachine_httpserver'

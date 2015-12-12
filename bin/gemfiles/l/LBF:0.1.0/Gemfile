@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'savon'
-gem 'rubyntlm'
-gem 'activesupport'

@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'elasticsearch'
-gem 'logstash-devutils'

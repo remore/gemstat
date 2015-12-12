@@ -1,3 +1,0 @@
-gem 'rest-client'
-gem 'rack'
-gem 'json'

@@ -1,7 +1,0 @@
-gem 'i18n-toolbox'
-gem 'rgw'
-gem 'gettext'
-gem 'gtk3'
-gem 'chunky_png'
-gem 'qrencoder'
-gem 'ruby-filemagic'

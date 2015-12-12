@@ -1,4 +1,0 @@
-gem 'will_paginate'
-gem 'rdiscount'
-gem 'formtastic'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'yajl-ruby'
-gem 'p3p'
-gem 'rails'
-gem 'rspec'

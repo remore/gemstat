@@ -1,6 +1,0 @@
-gem 'addressable'
-gem 'http'
-gem 'rack-cache'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

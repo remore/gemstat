@@ -1,4 +1,0 @@
-gem 'eycap'
-gem 'auto_tagger'
-gem 'capistrano'
-gem 'capistrano-ext'

@@ -1,0 +1,5 @@
+gem 'cri'
+gem 'stringex'
+gem 'titleize'
+gem 'bundler'
+gem 'rake'

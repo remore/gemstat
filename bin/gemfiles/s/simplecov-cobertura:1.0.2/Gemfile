@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'ci_reporter_test_unit'
-gem 'libxml-ruby'
-gem 'simplecov'

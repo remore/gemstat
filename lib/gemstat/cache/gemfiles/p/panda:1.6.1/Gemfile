@@ -1,0 +1,7 @@
+gem 'ruby-hmac'
+gem 'faraday'
+gem 'multi_json'
+gem 'rake'
+gem 'timecop'
+gem 'rspec'
+gem 'webmock'

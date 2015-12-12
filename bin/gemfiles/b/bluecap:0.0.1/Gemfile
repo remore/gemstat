@@ -1,3 +1,0 @@
-gem 'redis'
-gem 'eventmachine'
-gem 'multi_json'

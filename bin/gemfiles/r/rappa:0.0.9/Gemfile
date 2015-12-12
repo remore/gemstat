@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'configliere'
-gem 'rubyzip'
-gem 'jeweler'
-gem 'rest-client'

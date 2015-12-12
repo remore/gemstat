@@ -1,5 +1,0 @@
-gem 'rack-attack'
-gem 'activesupport'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'

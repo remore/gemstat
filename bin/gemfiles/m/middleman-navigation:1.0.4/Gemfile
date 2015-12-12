@@ -1,6 +1,0 @@
-gem 'middleman-core'
-gem 'simple-navigation'
-gem 'activesupport'
-gem 'nokogiri'
-gem 'bundler'
-gem 'gem-release'

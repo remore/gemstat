@@ -1,0 +1,7 @@
+gem 'ox'
+gem 'faraday'
+gem 'addressable'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'
+gem 'rcov'

@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'multi_json'
-gem 'captivus-auth_hmac'
-gem 'json-schema'

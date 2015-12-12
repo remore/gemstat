@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'rubigen'
+gem 'rake'
+gem 'Shoulda'
+gem 'activerecord'

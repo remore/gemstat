@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'json'
-gem 'net-http-persistent'
-gem 'bundler'

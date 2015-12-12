@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'bundler'
+gem 'minitest'
+gem 'rack-test'
+gem 'rake'
+gem 'sinatra'
+gem 'cuba'

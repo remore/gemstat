@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rcov'
+gem 'activesupport'
+gem 'activerecord'
+gem 'sqlite3-ruby'

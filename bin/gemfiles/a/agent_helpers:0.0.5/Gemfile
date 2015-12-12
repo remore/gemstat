@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'string-cases'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'forgery'
-gem 'factory_girl_rails'
-gem 'codeclimate-test-reporter'

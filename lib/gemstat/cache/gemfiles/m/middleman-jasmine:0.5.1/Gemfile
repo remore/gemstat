@@ -1,0 +1,4 @@
+gem 'jasmine'
+gem 'middleman'
+gem 'bundler'
+gem 'rake'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'colorize'
-gem 'bundler'
-gem 'rspec'
-gem 'rspec-expectations'

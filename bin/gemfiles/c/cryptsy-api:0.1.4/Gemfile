@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'json'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'mini_shoulda'

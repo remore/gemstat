@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'highline'
-gem 'mysql2'
-gem 'debugger'
-gem 'rake'
-gem 'metric_fu'
-gem 'rspec'

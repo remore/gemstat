@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'redis-namespace'
-gem 'multi_json'
-gem 'zk'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

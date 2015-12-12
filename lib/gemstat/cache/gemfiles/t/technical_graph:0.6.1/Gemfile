@@ -1,0 +1,7 @@
+gem 'rasem'
+gem 'chunky_png'
+gem 'rdoc'
+gem 'bundler'
+gem 'rspec'
+gem 'jeweler'
+gem 'simplecov'

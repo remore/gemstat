@@ -1,6 +1,0 @@
-gem 'mongoid'
-gem 'activesupport'
-gem 'factory_girl'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

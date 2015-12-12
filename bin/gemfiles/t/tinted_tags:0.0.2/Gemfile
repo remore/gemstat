@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'acts-as-taggable-on'
-gem 'compass'
-gem 'rspec-rails'
-gem 'sqlite3'

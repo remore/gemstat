@@ -1,7 +1,0 @@
-gem 'guard'
-gem 'guard-compat'
-gem 'bundler'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'guard-rspec'
-gem 'guard-bundler'

@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'json'
-gem 'mysql2'
-gem 'pacct'
-gem 'protected_attributes'
-gem 'spreadsheet'

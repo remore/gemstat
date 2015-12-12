@@ -1,5 +1,0 @@
-gem 'uri_encoding'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'

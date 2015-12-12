@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'kramdown'
-gem 'simplecov'
-gem 'bundler'
-gem 'jeweler'

@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'actionpack'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'rubocop'

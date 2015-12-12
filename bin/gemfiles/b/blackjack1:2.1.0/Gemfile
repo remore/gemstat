@@ -1,4 +1,0 @@
-gem 'card_deck'
-gem 'rspec'
-gem 'rspec-its'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'base64url'
-gem 'encryptor'
-gem 'bundler'
-gem 'rake'

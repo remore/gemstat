@@ -1,4 +1,0 @@
-gem 'slop'
-gem 'colorize'
-gem 'google-api-client'
-gem 'bundler'

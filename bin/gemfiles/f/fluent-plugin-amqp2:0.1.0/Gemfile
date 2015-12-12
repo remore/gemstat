@@ -1,6 +1,0 @@
-gem 'fluentd'
-gem 'bunny'
-gem 'yajl-ruby'
-gem 'rake'
-gem 'mocha'
-gem 'test-unit'

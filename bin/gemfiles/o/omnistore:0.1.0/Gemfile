@@ -1,5 +1,0 @@
-gem 'aws-sdk'
-gem 'aws-sdk-resources'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'

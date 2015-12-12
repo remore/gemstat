@@ -1,5 +1,0 @@
-gem 'ffi2-generators'
-gem 'bundler'
-gem 'mspec'
-gem 'ffi2-generators'
-gem 'rubysl-prettyprint'

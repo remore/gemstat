@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'mail'
-gem 'bundler'
-gem 'simplecov'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'shoulda'
-gem 'faker'

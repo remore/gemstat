@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'money'
-gem 'i18n'
-gem 'rspec'
-gem 'rr'

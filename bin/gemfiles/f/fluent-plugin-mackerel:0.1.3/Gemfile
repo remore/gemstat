@@ -1,6 +1,0 @@
-gem 'mackerel-client'
-gem 'bundler'
-gem 'rake'
-gem 'rr'
-gem 'test-unit'
-gem 'fluentd'

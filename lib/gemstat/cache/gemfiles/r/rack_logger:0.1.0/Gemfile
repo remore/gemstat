@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'uuidtools'
+gem 'rake'
+gem 'activesupport'

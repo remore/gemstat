@@ -1,0 +1,7 @@
+gem 'statsd-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec-nc'
+gem 'pry'
+gem 'rspec'
+gem 'rake-rspec'

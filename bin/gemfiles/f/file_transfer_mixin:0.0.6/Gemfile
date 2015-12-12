@@ -1,5 +1,0 @@
-gem 'net-sftp'
-gem 'enviro'
-gem 'bundler'
-gem 'rspec'
-gem 'ruby-debug19'

@@ -1,5 +1,0 @@
-gem 'rb-appscript'
-gem 'httparty'
-gem 'choice'
-gem 'rspec'
-gem 'mocha'

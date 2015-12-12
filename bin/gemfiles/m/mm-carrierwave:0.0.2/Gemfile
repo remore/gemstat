@@ -1,4 +1,0 @@
-gem 'mongo_mapper'
-gem 'carrierwave'
-gem 'rspec'
-gem 'timecop'

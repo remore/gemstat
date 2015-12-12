@@ -1,6 +1,0 @@
-gem 'rabbitmq_manager'
-gem 'etcd'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

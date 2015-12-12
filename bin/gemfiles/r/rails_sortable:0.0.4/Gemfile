@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'jquery-ui-rails'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'pry-rails'
-gem 'pry-byebug'

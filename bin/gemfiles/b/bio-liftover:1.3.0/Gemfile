@@ -1,8 +1,0 @@
-gem 'interval-tree'
-gem 'shoulda'
-gem 'rdoc'
-gem 'simplecov'
-gem 'jeweler'
-gem 'bundler'
-gem 'bio'
-gem 'rdoc'

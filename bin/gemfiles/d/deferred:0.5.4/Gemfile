@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'rspec'
-gem 'ZenTest'
-gem 'evented-spec'

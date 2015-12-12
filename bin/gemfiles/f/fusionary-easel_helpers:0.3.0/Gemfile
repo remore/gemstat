@@ -1,3 +1,0 @@
-gem 'actionview'
-gem 'activesupport'
-gem 'hpricot'

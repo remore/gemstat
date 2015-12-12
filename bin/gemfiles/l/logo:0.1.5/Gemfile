@@ -1,4 +1,0 @@
-gem 'pkg-config'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

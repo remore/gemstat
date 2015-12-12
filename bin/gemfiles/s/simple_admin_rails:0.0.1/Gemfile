@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'simple_form'
-gem 'kaminari'
-gem 'country_select'
-gem 'sqlite3'
-gem 'therubyracer'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'guard'
-gem 'faraday'
-gem 'json'

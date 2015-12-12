@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'net-http-persistent'
-gem 'net-http-digest_auth'
-gem 'webrobots'
-gem 'hoe'

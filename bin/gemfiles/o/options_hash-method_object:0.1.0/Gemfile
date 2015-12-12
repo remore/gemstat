@@ -1,5 +1,0 @@
-gem 'options_hash'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry-debugger'

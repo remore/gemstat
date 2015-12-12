@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'gtfs-reader'
+gem 'activerecord-import'
+gem 'pry-rails'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'guard-rspec'

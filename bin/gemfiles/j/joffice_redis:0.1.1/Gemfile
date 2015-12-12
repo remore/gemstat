@@ -1,4 +1,0 @@
-gem 'joffice'
-gem 'em-redis'
-gem 'msgpack'
-gem 'activesupport'

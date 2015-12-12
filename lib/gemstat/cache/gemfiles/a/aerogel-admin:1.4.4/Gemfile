@@ -1,0 +1,8 @@
+gem 'aerogel-core'
+gem 'aerogel-forms'
+gem 'aerogel-users'
+gem 'aerogel-media'
+gem 'aerogel-bootstrap'
+gem 'aerogel-font_awesome'
+gem 'bundler'
+gem 'rake'

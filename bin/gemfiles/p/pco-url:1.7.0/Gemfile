@@ -1,4 +1,0 @@
-gem 'urlcrypt'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

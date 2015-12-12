@@ -1,4 +1,0 @@
-gem 'sane'
-gem 'hitimes'
-gem 'rspec'
-gem 'jeweler'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'bundler'
+gem 'cane'
+gem 'minitest'
+gem 'minitest-rails'
+gem 'rake'
+gem 'simplecov'

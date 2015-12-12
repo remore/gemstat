@@ -1,0 +1,7 @@
+gem 'pid_lock'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'pry'
+gem 'hiredis'
+gem 'redis-namespace'

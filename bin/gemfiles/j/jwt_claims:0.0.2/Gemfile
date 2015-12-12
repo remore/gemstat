@@ -1,2 +1,0 @@
-gem 'json_web_token'
-gem 'rspec'

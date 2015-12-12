@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'http_capture'
-gem 'multi_json'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

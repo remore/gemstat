@@ -1,4 +1,0 @@
-gem 'rlua'
-gem 'rake'
-gem 'cucumber'
-gem 'rspec'

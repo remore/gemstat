@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sqlite3'
+gem 'generator_spec'
+gem 'rspec-rails'
+gem 'fuubar'
+gem 'nyan-cat-formatter'
+gem 'coveralls'

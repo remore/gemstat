@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'matest'
-gem 'callable'
-gem 'string_plus'

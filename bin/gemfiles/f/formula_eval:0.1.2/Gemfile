@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'mharris_ext'
-gem 'nested_hash_tricks'
-gem 'safe_eval'

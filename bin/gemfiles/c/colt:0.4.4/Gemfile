@@ -1,5 +1,0 @@
-gem 'stripe'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'rubycritic'

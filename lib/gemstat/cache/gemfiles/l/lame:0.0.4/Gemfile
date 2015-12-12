@@ -1,0 +1,7 @@
+gem 'ffi'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'wavefile'
+gem 'ruby-mp3info'
+gem 'coveralls'

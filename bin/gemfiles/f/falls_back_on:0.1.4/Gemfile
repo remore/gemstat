@@ -1,7 +1,0 @@
-gem 'cache_method'
-gem 'lock_method'
-gem 'test-unit'
-gem 'memcached'
-gem 'activerecord'
-gem 'sqlite3-ruby'
-gem 'weighted_average'

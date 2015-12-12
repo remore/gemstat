@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rails-assets-picturefill'
+gem 'bundler'
+gem 'coveralls'
+gem 'minitest'
+gem 'minitest-spec'
+gem 'rake'

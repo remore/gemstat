@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'bootstrap-sass'
-gem 'sass-rails'
-gem 'jquery-rails'
-gem 'simple_form'
-gem 'sqlite3'
-gem 'pry'

@@ -1,5 +1,0 @@
-gem 'log-me'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

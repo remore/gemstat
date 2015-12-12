@@ -1,6 +1,0 @@
-gem 'barby'
-gem 'chunky_png'
-gem 'active_support'
-gem 'i18n'
-gem 'rake'
-gem 'minitest'

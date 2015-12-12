@@ -1,6 +1,0 @@
-gem 'chinese_pinyin'
-gem 'json'
-gem 'nokogiri'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

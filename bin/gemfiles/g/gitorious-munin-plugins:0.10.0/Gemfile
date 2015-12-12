@@ -1,3 +1,0 @@
-gem 'mysql'
-gem 'term-ansicolor'
-gem 'trollop'

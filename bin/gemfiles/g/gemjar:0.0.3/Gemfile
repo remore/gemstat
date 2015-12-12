@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'thor'
-gem 'smart_colored'
-gem 'launchy'
-gem 'highline'

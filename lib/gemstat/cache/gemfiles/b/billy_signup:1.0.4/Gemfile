@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'atech-billy'
+gem 'atech_identity'
+gem 'haml-rails'
+gem 'sqlite3'

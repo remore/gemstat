@@ -1,5 +1,0 @@
-gem 'compass'
-gem 'guard-livereload'
-gem 'guard-compass'
-gem 'guard-haml'
-gem 'nokogiri'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'vcr'
-gem 'right_http_connection'
-gem 'aws-sdk-resources'
-gem 'retryable_block'

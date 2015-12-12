@@ -1,0 +1,2 @@
+gem 'device_api-ios'
+gem 'fruity_builder'

@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'git'
+gem 'heroku'
+gem 'rake'
+gem 'minitest'

@@ -1,8 +1,0 @@
-gem 'sequel'
-gem 'activesupport'
-gem 'actionpack'
-gem 'railties'
-gem 'yard'
-gem 'rspec'
-gem 'autotest'
-gem 'simplecov'

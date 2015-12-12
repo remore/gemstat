@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'cucumber'
-gem 'rspec'
-gem 'require_all'
-gem 'page-object'
-gem 'watir-webdriver'
-gem 'watir-webdriver-performance'
-gem 'aruba'

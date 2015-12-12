@@ -1,0 +1,7 @@
+gem 'progressbar'
+gem 'net-ssh'
+gem 'net-sftp'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'yard'

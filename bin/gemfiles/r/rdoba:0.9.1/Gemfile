@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'cucumber'
-gem 'coveralls'

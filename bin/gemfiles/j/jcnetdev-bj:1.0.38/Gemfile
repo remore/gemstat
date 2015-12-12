@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'main'
-gem 'systemu'
-gem 'orderedhash'

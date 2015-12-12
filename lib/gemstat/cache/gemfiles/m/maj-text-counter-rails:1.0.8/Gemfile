@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'coffee-rails'
+gem 'sass-rails'
+gem 'bundler'
+gem 'rails'
+gem 'thor'

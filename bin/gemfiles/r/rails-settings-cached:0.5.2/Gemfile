@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'sqlite3'

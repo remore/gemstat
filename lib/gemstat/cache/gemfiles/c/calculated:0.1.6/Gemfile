@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'httparty'
+gem 'hashie'
+gem 'moneta'
+gem 'tzinfo'

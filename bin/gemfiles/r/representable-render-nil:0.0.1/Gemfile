@@ -1,4 +1,0 @@
-gem 'representable'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

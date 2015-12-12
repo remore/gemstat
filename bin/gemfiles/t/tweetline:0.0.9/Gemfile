@@ -1,5 +1,0 @@
-gem 'twitter'
-gem 'json'
-gem 'thor'
-gem 'oauth'
-gem 'shortly'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'settingslogic'
-gem 'rails_config'
-gem 'app_config'

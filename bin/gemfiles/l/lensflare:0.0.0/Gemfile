@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'reek'
-gem 'roodi'
-gem 'autotest'

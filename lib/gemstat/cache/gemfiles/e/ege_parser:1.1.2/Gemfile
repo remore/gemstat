@@ -1,0 +1,8 @@
+gem 'coveralls'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'webmock'

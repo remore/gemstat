@@ -1,0 +1,6 @@
+gem 'abstract_method'
+gem 'pg'
+gem 'sequel'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

@@ -1,4 +1,0 @@
-gem 'net-ssh'
-gem 'gssapi'
-gem 'rake'
-gem 'rspec'

@@ -1,7 +1,0 @@
-gem 'minitar'
-gem 'rake'
-gem 'rspec'
-gem 'stud'
-gem 'webmock'
-gem 'coveralls'
-gem 'codeclimate-test-reporter'

@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'httpclient'
+gem 'htmlentities'
+gem 'rainbow'
+gem 'gli'
+gem 'httpclient'
+gem 'htmlentities'
+gem 'rainbow'

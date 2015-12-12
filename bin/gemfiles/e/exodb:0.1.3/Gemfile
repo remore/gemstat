@@ -1,4 +1,0 @@
-gem 'mongoid'
-gem 'bio'
-gem 'highline'
-gem 'pry'

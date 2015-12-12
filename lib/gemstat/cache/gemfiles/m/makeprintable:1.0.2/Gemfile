@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rspec'
+gem 'rest-client'
+gem 'crack'

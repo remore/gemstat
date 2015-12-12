@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'patron'
-gem 'enumerate_it'
-gem 'i18n'
-gem 'activesupport'

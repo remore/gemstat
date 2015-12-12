@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'minitest'
-gem 'rack-test'
-gem 'tilt'

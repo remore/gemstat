@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'shrimp'
-gem 'slim'
-gem 'bundler'
-gem 'rake'

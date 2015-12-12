@@ -1,0 +1,4 @@
+gem 'ri_cal'
+gem 'chronic'
+gem 'uuidtools'
+gem 'radiant-layouts-extension'

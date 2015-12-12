@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'
-gem 'pry'
-gem 'yard'
-gem 'markdown'
-gem 'thin'

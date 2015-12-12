@@ -1,5 +1,0 @@
-gem 'pronto'
-gem 'reek'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'

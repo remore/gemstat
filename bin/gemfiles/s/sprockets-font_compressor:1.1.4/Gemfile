@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'sprockets'
-gem 'rake-hooks'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'

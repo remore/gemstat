@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'mechanize'
-gem 'rio'
-gem 'nokogiri'
-gem 'chronic'
-gem 'htmlentities'

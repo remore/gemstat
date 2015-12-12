@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'activesupport'
-gem 'hbs'
-gem 'rake'
-gem 'rspec'
-gem 'cucumber'

@@ -1,2 +1,0 @@
-gem 'mongo_mapper'
-gem 'shoulda'

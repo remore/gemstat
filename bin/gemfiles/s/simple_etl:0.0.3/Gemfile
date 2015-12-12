@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'guard'
-gem 'growl'
-gem 'guard-rspec'
-gem 'rspec'

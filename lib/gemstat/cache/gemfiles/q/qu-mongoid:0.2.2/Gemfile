@@ -1,0 +1,4 @@
+gem 'mongoid'
+gem 'qu'
+gem 'rspec'
+gem 'rake'

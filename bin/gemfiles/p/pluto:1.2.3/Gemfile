@@ -1,8 +1,0 @@
-gem 'pluto-models'
-gem 'pluto-update'
-gem 'pluto-merge'
-gem 'pluto-tasks'
-gem 'gli'
-gem 'sqlite3'
-gem 'rdoc'
-gem 'hoe'

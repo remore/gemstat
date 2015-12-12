@@ -1,4 +1,0 @@
-gem 'geoscript'
-gem 'logstash-core'
-gem 'logstash-devutils'
-gem 'logstash-filter-grok'

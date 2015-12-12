@@ -1,2 +1,0 @@
-gem 'rack-raw-upload'
-gem 'actionpack'

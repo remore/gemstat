@@ -1,4 +1,0 @@
-gem 'amqp'
-gem 'bunny'
-gem 'rake'
-gem 'json'

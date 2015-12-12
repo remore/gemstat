@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'rake'
+gem 'aruba'
+gem 'oj'
+gem 'rspec'

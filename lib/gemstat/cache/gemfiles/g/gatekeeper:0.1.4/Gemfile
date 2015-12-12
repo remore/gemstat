@@ -1,0 +1,4 @@
+gem 'ruby-openid'
+gem 'rack-openid'
+gem 'sinatra'
+gem 'rspec'

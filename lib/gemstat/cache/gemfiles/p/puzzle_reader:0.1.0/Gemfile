@@ -1,0 +1,4 @@
+gem 'pry'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

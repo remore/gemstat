@@ -1,4 +1,0 @@
-gem 'beefcake'
-gem 'eventmachine'
-gem 'turn'
-gem 'statsample'

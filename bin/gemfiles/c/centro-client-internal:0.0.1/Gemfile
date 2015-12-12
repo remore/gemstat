@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'guard-rspec'
-gem 'centro-client'

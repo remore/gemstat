@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'jellyfish'
+gem 'rest-more'
+gem 'bacon'
+gem 'rack-handlers'

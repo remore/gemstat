@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'kgio'
-gem 'kcar'
-gem 'mogilefs-client'
-gem 'nokogiri'
-gem 'sequel'
-gem 'unicorn'
-gem 'olddoc'

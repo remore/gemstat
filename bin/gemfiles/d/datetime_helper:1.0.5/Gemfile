@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'activemodel'
-gem 'active_model_serializers'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

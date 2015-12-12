@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sys-uptime'
+gem 'sys-proctable'
+gem 'ipaddress'
+gem 'daemons'
+gem 'tzinfo'

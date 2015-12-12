@@ -1,4 +1,0 @@
-gem 'meow'
-gem 'nokogiri'
-gem 'shoulda'
-gem 'fakeweb'

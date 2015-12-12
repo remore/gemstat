@@ -1,3 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'fakeweb'

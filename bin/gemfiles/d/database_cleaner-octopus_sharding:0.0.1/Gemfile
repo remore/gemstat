@@ -1,4 +1,0 @@
-gem 'ar-octopus'
-gem 'database_cleaner'
-gem 'bundler'
-gem 'rake'

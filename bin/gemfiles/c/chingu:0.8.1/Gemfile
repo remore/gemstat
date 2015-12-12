@@ -1,6 +1,0 @@
-gem 'gosu'
-gem 'rest-client'
-gem 'crack'
-gem 'rspec'
-gem 'watchr'
-gem 'rcov'

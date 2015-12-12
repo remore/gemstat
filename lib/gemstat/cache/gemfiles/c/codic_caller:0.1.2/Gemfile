@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry-byebug'
+gem 'thor'
+gem 'faraday'
+gem 'faraday_middleware'

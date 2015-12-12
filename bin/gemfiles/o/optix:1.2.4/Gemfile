@@ -1,4 +1,0 @@
-gem 'chronic'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

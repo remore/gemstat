@@ -1,8 +1,0 @@
-gem 'oauth'
-gem 'hashie'
-gem 'httparty'
-gem 'json'
-gem 'shoulda'
-gem 'jnunemaker-matchy'
-gem 'mocha'
-gem 'fakeweb'

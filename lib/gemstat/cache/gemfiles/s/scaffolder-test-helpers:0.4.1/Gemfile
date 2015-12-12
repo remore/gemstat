@@ -1,0 +1,6 @@
+gem 'bio'
+gem 'scaffolder'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'yard'

@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'json'
-gem 'sqlite3'

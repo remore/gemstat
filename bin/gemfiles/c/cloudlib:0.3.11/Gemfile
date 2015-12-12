@@ -1,4 +1,0 @@
-gem 'aws-s3'
-gem 'aws-sdb'
-gem 'sinatra'
-gem 'highline'

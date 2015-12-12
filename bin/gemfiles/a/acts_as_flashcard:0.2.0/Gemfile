@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'bundler'
-gem 'jeweler'
-gem 'activerecord'

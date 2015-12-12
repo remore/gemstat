@@ -1,5 +1,0 @@
-gem 'grocer'
-gem 'bundler'
-gem 'rake'
-gem 'mocha'
-gem 'rspec'

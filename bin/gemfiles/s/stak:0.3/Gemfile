@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rack'
-gem 'erubis'
-gem 'sqlite3'

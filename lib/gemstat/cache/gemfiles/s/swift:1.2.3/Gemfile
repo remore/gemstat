@@ -1,0 +1,8 @@
+gem 'minitest'
+gem 'swift-db-sqlite3'
+gem 'swift-db-postgres'
+gem 'swift-db-mysql'
+gem 'eventmachine'
+gem 'em-synchrony'
+gem 'rake'
+gem 'yard'

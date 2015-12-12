@@ -1,7 +1,0 @@
-gem 'carrierwave'
-gem 'activesupport'
-gem 'bundler'
-gem 'appraisal'
-gem 'rake'
-gem 'rspec'
-gem 'sucker_punch'

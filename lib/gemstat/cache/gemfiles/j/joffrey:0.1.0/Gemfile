@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'ensure_array'
+gem 'mighty_tap'
+gem 'ox'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

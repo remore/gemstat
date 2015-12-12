@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'typhoeus_spec_cache'
-gem 'monster_mash'

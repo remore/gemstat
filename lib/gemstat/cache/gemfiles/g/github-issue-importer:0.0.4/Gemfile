@@ -1,0 +1,4 @@
+gem 'octokit'
+gem 'trollop'
+gem 'awesome_print'
+gem 'rake'

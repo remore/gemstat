@@ -1,7 +1,0 @@
-gem 'omniauth'
-gem 'webmock'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'growl'
-gem 'guard'
-gem 'guard-rspec'

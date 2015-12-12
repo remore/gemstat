@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'http_parser.rb'
-gem 'rack'
-gem 'minitest'

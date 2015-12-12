@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'travis-lint'
-gem 'metric_fu'
-gem 'rspec'
-gem 'coderay'
-gem 'simplecov'
-gem 'codeclimate-test-reporter'

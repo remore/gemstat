@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'json'
+gem 'websocket-client-simple'
+gem 'httparty'
+gem 'event_emitter'

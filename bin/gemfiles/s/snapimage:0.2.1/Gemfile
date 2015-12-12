@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'sinatra'
-gem 'thin'
-gem 'rake'
-gem 'rspec'
-gem 'autotest'
-gem 'rack-test'

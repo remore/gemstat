@@ -1,0 +1,5 @@
+gem 'sys-uname'
+gem 'rake'
+gem 'rspec'
+gem 'sinatra'
+gem 'rack-test'

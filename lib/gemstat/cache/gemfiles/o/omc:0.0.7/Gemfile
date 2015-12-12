@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'aws_cred_vault'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

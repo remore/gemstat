@@ -1,6 +1,0 @@
-gem 'slop'
-gem 'sinatra'
-gem 'grit'
-gem 'rdiscount'
-gem 'sinatra-partial'
-gem 'RbST'

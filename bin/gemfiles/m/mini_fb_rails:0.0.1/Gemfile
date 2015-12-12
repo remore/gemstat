@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'mini_fb'
-gem 'sqlite3'
-gem 'mocha'

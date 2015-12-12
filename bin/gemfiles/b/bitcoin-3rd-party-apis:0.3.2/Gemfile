@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'ir_b'
-gem 'guard-rspec'
-gem 'webmock'

@@ -1,4 +1,0 @@
-gem 'rb-appscript'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'mocha'

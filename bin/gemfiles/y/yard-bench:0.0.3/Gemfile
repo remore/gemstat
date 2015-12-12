@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'bueller'
-gem 'yard'
-gem 'yard-cucumber'
-gem 'redcarpet'

@@ -1,4 +1,0 @@
-gem 'shoulda'
-gem 'xml-simple'
-gem 'youtube_it'
-gem 'hpricot'

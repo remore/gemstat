@@ -1,4 +1,0 @@
-gem 'pivotal-tracker'
-gem 'hirb'
-gem 'colored'
-gem 'highline'

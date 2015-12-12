@@ -1,4 +1,0 @@
-gem 'ncore'
-gem 'jwt'
-gem 'bundler'
-gem 'rake'

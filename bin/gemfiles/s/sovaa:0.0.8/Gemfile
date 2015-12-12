@@ -1,5 +1,0 @@
-gem 'httpi'
-gem 'yajl-ruby'
-gem 'rspec-core'
-gem 'rspec-mocks'
-gem 'rspec-expectations'

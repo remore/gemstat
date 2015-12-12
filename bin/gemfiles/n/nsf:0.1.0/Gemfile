@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'nokogiri'
-gem 'prawn'
-gem 'clbustos-rtf'
-gem 'ruby-rtf'

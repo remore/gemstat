@@ -1,4 +1,0 @@
-gem 'bindata'
-gem 'bentley_mcilroy'
-gem 'rake'
-gem 'rspec'

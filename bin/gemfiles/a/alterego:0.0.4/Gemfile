@@ -1,7 +1,0 @@
-gem 'json'
-gem 'bundler'
-gem 'fakeweb'
-gem 'guard-rspec'
-gem 'jeweler'
-gem 'simplecov'
-gem 'rspec'

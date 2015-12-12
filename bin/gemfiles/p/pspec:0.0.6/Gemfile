@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'rack'
-gem 'parallel_tests'
-gem 'pry'

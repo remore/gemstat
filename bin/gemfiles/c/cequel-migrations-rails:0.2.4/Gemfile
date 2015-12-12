@@ -1,4 +1,0 @@
-gem 'shearwater'
-gem 'rails'
-gem 'cassandra-cql'
-gem 'rspec'

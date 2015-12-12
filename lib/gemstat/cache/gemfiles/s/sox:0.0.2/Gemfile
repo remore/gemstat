@@ -1,0 +1,4 @@
+gem 'bubble-wrap'
+gem 'webstub'
+gem 'bacon'
+gem 'rake'

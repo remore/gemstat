@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'rake'
-gem 'fakeweb'
-gem 'rspec'
-gem 'byebug'
-gem 'mixpanel'

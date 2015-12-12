@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'store2'
-gem 'bundler'
-gem 'rake'

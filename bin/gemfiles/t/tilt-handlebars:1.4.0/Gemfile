@@ -1,8 +1,0 @@
-gem 'tilt'
-gem 'handlebars'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'sinatra'
-gem 'rack-test'
-gem 'coveralls'

@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'sass'
+gem 'sprockets-rails'
+gem 'sprockets'
+gem 'tilt'
+gem 'sqlite3'

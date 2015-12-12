@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'gcalapi'
-gem 'xml-simple'
-gem 'gmailer'
-gem 'hoe'

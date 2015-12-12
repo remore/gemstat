@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'oktobertest'
-gem 'oktobertest-contrib'
-gem 'rack-test'
-gem 'rake'
-gem 'cuba'
-gem 'tilt'

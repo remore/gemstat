@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'hashie'
-gem 'colorize'
-gem 'filewatcher'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

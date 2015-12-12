@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'mocha'
-gem 'chalk-rake'

@@ -1,6 +1,0 @@
-gem 'test-unit'
-gem 'mocha'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

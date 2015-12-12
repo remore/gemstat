@@ -1,0 +1,3 @@
+gem 'microtest'
+gem 'detroit'
+gem 'rake'

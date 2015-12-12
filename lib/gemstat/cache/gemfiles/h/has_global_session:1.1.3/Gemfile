@@ -1,0 +1,8 @@
+gem 'uuidtools'
+gem 'json'
+gem 'activesupport'
+gem 'rake'
+gem 'ruby-debug'
+gem 'rspec'
+gem 'flexmock'
+gem 'actionpack'

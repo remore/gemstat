@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'browscap'
+gem 'inifile'
+gem 'activesupport'
+gem 'i18n'
+gem 'test-unit'

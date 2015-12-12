@@ -1,0 +1,7 @@
+gem 'georuby'
+gem 'racc'
+gem 'rake'
+gem 'test-unit'
+gem 'ci_reporter'
+gem 'mocha'
+gem 'rcov'

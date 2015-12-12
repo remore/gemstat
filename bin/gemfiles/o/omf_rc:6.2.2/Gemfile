@@ -1,7 +1,0 @@
-gem 'minitest'
-gem 'pry'
-gem 'simplecov'
-gem 'mocha'
-gem 'omf_common'
-gem 'cocaine'
-gem 'facter'

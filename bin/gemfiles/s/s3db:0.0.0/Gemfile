@@ -1,5 +1,0 @@
-gem 'uuidtools'
-gem 'json'
-gem 'guard-rspec'
-gem 'rspec'
-gem 'simplecov'

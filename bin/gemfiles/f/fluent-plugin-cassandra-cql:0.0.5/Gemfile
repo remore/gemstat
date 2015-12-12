@@ -1,7 +1,0 @@
-gem 'fluentd'
-gem 'cassandra-cql'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'simplecov'

@@ -1,3 +1,0 @@
-gem 'thrift'
-gem 'thrift_client'
-gem 'rspec'

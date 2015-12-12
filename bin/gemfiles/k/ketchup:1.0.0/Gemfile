@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'rspec'
-gem 'yard'
-gem 'fakeweb'

@@ -1,4 +1,0 @@
-gem 'kramdown'
-gem 'htmlentities'
-gem 'rspec'
-gem 'rake'

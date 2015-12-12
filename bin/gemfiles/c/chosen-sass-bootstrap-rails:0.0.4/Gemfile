@@ -1,4 +1,0 @@
-gem 'bootstrap-sass'
-gem 'sass-rails'
-gem 'compass-rails'
-gem 'chosen-rails'

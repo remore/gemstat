@@ -1,5 +1,0 @@
-gem 'tinder'
-gem 'scoped_choices'
-gem 'resque'
-gem 'bundler'
-gem 'jeweler'

@@ -1,4 +1,0 @@
-gem 'migrake'
-gem 'sequel'
-gem 'minitest'
-gem 'sqlite3'

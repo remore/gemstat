@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'multi_json'
+gem 'yajl-ruby'
+gem 'fakeweb'
+gem 'riot'

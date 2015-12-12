@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rake'
+gem 'rails'
+gem 'rspec-rails'
+gem 'draper'
+gem 'netzke-basepack'

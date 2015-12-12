@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-ext'
-gem 'thor'
-gem 'tinder'
-gem 'json'

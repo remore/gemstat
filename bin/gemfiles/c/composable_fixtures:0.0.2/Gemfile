@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'simplecov'
-gem 'pry'
-gem 'rspec'
-gem 'rspec-rails'

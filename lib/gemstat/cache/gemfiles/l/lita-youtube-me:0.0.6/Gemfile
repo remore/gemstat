@@ -1,0 +1,6 @@
+gem 'lita'
+gem 'iso8601'
+gem 'bundler'
+gem 'rake'
+gem 'rack-test'
+gem 'rspec'

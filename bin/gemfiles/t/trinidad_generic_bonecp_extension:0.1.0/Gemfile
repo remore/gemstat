@@ -1,3 +1,0 @@
-gem 'trinidad_bonecp'
-gem 'rspec'
-gem 'mocha'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mumble-ruby'
-gem 'hallon'
-gem 'ffi'
-gem 'daemons'
-gem 'text'
-gem 'mustache'

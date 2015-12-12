@@ -1,8 +1,0 @@
-gem 'crusade'
-gem 'rubyzip'
-gem 'json_expressions'
-gem 'bundler'
-gem 'minitest'
-gem 'minitest-great_expectations'
-gem 'rake'
-gem 'coveralls'

@@ -1,7 +1,0 @@
-gem 'yard'
-gem 'mocha'
-gem 'minitest'
-gem 'simplecov'
-gem 'rake'
-gem 'multi_json'
-gem 'chronic'

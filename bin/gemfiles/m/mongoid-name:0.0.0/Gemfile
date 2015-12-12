@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'mongoid'
-gem 'minitest'
-gem 'database_cleaner'

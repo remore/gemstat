@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'bacon'
-gem 'mocha'
-gem 'hoe'

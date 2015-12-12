@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'
-gem 'cucumber'
-gem 'rspec'

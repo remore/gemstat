@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'activerecord'
-gem 'awesome_nested_set'

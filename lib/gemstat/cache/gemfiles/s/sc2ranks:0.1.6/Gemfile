@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'rspec'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

@@ -1,0 +1,7 @@
+gem 'daru'
+gem 'statsample'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nmatrix'
+gem 'rb-gsl'

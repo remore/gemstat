@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'activerecord'
-gem 'sqlite3-ruby'
-gem 'gtk2'

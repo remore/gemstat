@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'mongrel'
-gem 'markaby'
-gem 'ruby-hmac'
-gem 'ruby-net-ldap'
-gem 'hoe'

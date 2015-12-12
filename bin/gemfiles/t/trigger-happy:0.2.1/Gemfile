@@ -1,6 +1,0 @@
-gem 'em-websocket'
-gem 'directory_watcher'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

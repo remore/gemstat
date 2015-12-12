@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'yajl-ruby'
-gem 'jeweler'
-gem 'riot'

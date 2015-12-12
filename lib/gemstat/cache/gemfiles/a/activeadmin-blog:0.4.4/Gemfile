@@ -1,0 +1,4 @@
+gem 'activeadmin-mongoid-reorder'
+gem 'activeadmin-settings'
+gem 'nokogiri'
+gem 'stringex'

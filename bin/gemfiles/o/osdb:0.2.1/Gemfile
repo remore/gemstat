@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'
-gem 'webmock'
-gem 'vcr'

@@ -1,4 +1,0 @@
-gem 'fluentd'
-gem 'nats'
-gem 'eventmachine'
-gem 'rake'

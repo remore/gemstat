@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'hashie'
+gem 'pargser'
+gem 'rake'
+gem 'rake-compiler'

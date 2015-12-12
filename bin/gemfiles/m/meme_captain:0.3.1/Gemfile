@@ -1,5 +1,0 @@
-gem 'mime-types'
-gem 'rmagick'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'options'
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'

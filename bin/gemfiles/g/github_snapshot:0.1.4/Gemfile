@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'pry'
-gem 'awesome_print'
-gem 'github_api'

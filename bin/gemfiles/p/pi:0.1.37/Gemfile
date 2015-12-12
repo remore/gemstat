@@ -1,8 +1,0 @@
-gem 'json_pure'
-gem 'highline'
-gem 'interact'
-gem 'rest-client'
-gem 'terminal-table'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

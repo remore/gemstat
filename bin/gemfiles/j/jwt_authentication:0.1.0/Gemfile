@@ -1,4 +1,0 @@
-gem 'devise'
-gem 'activerecord'
-gem 'bundler'
-gem 'rake'

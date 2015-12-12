@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'activesupport'
-gem 'cucumber'

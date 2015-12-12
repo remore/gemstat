@@ -1,5 +1,0 @@
-gem 'builder'
-gem 'savon'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'

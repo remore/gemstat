@@ -1,0 +1,5 @@
+gem 'fog'
+gem 'rails'
+gem 'rspec'
+gem 'transpec'
+gem 'pry-meta'

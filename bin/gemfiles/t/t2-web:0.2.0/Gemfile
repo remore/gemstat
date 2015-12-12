@@ -1,7 +1,0 @@
-gem 'sinatra'
-gem 'thin'
-gem 'haml'
-gem 'rest-client'
-gem 't2-server'
-gem 'myexperiment-rest'
-gem 'nokogiri'

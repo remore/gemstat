@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'clockwork'
+gem 'timecop'

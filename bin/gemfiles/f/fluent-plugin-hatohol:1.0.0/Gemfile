@@ -1,7 +1,0 @@
-gem 'fluentd'
-gem 'bunny'
-gem 'rake'
-gem 'bundler'
-gem 'packnga'
-gem 'kramdown'
-gem 'test-unit'

@@ -1,0 +1,8 @@
+gem 'swirl'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
+gem 'timecop'
+gem 'vcr'
+gem 'webmock'

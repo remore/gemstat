@@ -1,4 +1,0 @@
-gem 'multiblock'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

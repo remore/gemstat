@@ -1,0 +1,5 @@
+gem 'redis'
+gem 'connection_pool'
+gem 'rspec'
+gem 'turn'
+gem 'fuubar'

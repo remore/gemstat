@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rake'
+gem 'image_science'
+gem 'rmagick'
+gem 'mini_magick'
+gem 'sqlite3'

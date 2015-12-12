@@ -1,8 +1,0 @@
-gem 'applix'
-gem 'rubyzip'
-gem 'bindata'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'ruby-debug'

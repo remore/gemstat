@@ -1,3 +1,0 @@
-gem 'hashie'
-gem 'redis'
-gem 'datalogger'

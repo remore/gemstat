@@ -1,0 +1,4 @@
+gem 'fakeweb'
+gem 'mocha'
+gem 'delorean'
+gem 'json'

@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'rake'
+gem 'minitest'
+gem 'webmock'

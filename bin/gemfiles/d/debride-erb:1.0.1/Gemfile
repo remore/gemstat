@@ -1,5 +1,0 @@
-gem 'debride'
-gem 'erubis'
-gem 'minitest'
-gem 'rdoc'
-gem 'hoe'

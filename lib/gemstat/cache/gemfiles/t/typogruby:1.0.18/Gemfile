@@ -1,0 +1,7 @@
+gem 'rubypants'
+gem 'rake'
+gem 'aruba'
+gem 'cucumber'
+gem 'rspec'
+gem 'bluecloth'
+gem 'minitest'

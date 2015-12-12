@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'minitest-rails'

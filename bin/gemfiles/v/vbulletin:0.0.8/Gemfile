@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'mechanize'
-gem 'nokogiri'
-gem 'activesupport'

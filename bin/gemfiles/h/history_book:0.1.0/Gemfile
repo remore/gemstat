@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'multi_json'
-gem 'rspec'
-gem 'rake'
-gem 'sequel'
-gem 'sqlite3-ruby'
-gem 'yajl-ruby'

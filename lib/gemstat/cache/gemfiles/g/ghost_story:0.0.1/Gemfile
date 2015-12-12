@@ -1,0 +1,6 @@
+gem 'dutchman'
+gem 'formatador'
+gem 'kramdown'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

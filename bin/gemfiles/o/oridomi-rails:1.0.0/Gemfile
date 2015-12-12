@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'minitest-rails-capybara'
-gem 'sqlite3'

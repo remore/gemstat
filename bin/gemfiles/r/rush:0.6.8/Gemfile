@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'jeweler'
-gem 'rspec'
-gem 'session'

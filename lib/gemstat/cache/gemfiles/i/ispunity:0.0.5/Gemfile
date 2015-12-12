@@ -1,0 +1,5 @@
+gem 'log4r'
+gem 'i18n'
+gem 'json'
+gem 'thor'
+gem 'rspec'

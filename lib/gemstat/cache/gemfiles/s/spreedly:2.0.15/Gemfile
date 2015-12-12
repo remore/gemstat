@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'log_buddy'
+gem 'awesome_print'
+gem 'test-unit'

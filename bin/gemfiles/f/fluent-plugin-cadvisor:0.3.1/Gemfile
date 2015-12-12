@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'docker-api'
-gem 'bundler'
-gem 'rake'

@@ -1,3 +1,0 @@
-gem 'fluentd'
-gem 'massive_record'
-gem 'rake'

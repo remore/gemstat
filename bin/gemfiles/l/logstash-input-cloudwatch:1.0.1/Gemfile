@@ -1,5 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-codec-plain'
-gem 'stud'
-gem 'logstash-mixin-aws'
-gem 'logstash-devutils'

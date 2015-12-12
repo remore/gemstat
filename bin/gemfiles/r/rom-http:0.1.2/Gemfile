@@ -1,6 +1,0 @@
-gem 'rom'
-gem 'equalizer'
-gem 'thread_safe'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

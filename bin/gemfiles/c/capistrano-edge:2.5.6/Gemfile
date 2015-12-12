@@ -1,6 +1,0 @@
-gem 'net-ssh'
-gem 'net-sftp'
-gem 'net-scp'
-gem 'net-ssh-gateway'
-gem 'highline'
-gem 'echoe'

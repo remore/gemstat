@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'shoulda'
-gem 'rack-test'
-gem 'sinatra'

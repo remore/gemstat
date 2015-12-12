@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'activerecord'
-gem 'mysql2'
-gem 'rails'
-gem 'factory_girl'

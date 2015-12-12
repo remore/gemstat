@@ -1,4 +1,0 @@
-gem 'qu-utils'
-gem 'qu-cmdwrapper'
-gem 'bundler'
-gem 'rake'

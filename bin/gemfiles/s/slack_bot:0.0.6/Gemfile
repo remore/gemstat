@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'addressable'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'spring-commands-rspec'

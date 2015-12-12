@@ -1,0 +1,4 @@
+gem 'octokit'
+gem 'highline'
+gem 'colorize'
+gem 'diff-lcs'

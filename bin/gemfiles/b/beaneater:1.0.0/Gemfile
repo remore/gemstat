@@ -1,5 +1,0 @@
-gem 'minitest'
-gem 'rake'
-gem 'mocha'
-gem 'term-ansicolor'
-gem 'json'

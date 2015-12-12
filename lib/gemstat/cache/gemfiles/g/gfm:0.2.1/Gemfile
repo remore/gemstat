@@ -1,0 +1,7 @@
+gem 'html-pipeline'
+gem 'github-linguist'
+gem 'github-markdown'
+gem 'sanitize'
+gem 'httpclient'
+gem 'gemoji'
+gem 'rspec'

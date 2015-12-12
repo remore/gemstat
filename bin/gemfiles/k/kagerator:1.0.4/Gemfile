@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'symboltable'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'

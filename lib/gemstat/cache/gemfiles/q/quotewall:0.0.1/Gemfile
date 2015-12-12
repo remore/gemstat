@@ -1,0 +1,6 @@
+gem 'rmagick'
+gem 'plist'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'aruba'

@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'rubyntlm'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'puma'

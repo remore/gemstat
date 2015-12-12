@@ -1,6 +1,0 @@
-gem 'logger'
-gem 'rack'
-gem 'cocaine'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'

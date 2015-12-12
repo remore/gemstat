@@ -1,5 +1,0 @@
-gem 'ffi'
-gem 'indentation'
-gem 'minitest'
-gem 'minitest-rspec_mocks'
-gem 'rake'

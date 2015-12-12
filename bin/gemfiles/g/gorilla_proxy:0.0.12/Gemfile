@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'gorilla-io'
-gem 'configurations'
-gem 'rspec-rails'
-gem 'gemfury'

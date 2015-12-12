@@ -1,8 +1,0 @@
-gem 'crypt_keeper'
-gem 'ransack'
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'pg'
-gem 'rspec-rails'
-gem 'database_cleaner'

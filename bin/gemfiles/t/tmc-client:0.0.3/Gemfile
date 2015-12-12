@@ -1,8 +1,0 @@
-gem 'json'
-gem 'faraday'
-gem 'fileutils'
-gem 'mocha'
-gem 'highline'
-gem 'rake'
-gem 'rubyzip'
-gem 'rspec'

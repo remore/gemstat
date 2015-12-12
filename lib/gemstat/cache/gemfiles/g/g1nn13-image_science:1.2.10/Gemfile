@@ -1,0 +1,7 @@
+gem 'hoe'
+gem 'gemcutter'
+gem 'hoe-doofus'
+gem 'hoe-git'
+gem 'hoe-telicopter'
+gem 'minitest'
+gem 'hoe'

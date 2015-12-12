@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'systemu'
-gem 'bundler'
-gem 'rspec'

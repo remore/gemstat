@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'rack-proxy'
-gem 'thor'
-gem 'json'
-gem 'rack-test'

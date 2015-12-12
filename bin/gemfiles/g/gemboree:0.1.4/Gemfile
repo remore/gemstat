@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'cancan'
-gem 'will_paginate'
-gem 'bootstrap-will_paginate'
-gem 'paperclip'

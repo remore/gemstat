@@ -1,6 +1,0 @@
-gem 'mongo'
-gem 'mongo_ext'
-gem 'durran-validatable'
-gem 'leshill-will_paginate'
-gem 'rspec'
-gem 'cucumber'

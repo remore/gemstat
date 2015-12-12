@@ -1,5 +1,0 @@
-gem 'tilt'
-gem 'rails'
-gem 'rbench'
-gem 'minitest'
-gem 'nokogiri'

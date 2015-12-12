@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'rails'
-gem 'bundler'
-gem 'thor'
-gem 'debugger'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'pry-rescue'
+gem 'pry-stack_explorer'
+gem 'eventmachine'
+gem 'celluloid'
+gem 'yard'
+gem 'redcarpet'

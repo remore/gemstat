@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'i18n'
-gem 'sqlite3'
-gem 'rdoc'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

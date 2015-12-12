@@ -1,0 +1,2 @@
+gem 'geokit'
+gem 'radiant-event_calendar-extension'

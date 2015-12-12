@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'nokogiri'
-gem 'mocha'
-gem 'rake'
-gem 'json'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'mail'
-gem 'rake'
-gem 'actionmailer'

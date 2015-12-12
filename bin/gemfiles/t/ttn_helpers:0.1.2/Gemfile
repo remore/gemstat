@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'bundler'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'acts_as_fu'
-gem 'dragonfly'
-gem 'rack-cache'

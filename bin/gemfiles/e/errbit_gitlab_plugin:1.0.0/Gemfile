@@ -1,4 +1,0 @@
-gem 'errbit_plugin'
-gem 'gitlab'
-gem 'bundler'
-gem 'rake'

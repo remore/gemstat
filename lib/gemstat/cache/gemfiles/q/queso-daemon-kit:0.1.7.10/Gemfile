@@ -1,0 +1,4 @@
+gem 'rubigen'
+gem 'eventmachine'
+gem 'newgem'
+gem 'hoe'

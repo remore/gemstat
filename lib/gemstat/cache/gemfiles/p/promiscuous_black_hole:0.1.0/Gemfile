@@ -1,0 +1,7 @@
+gem 'pg'
+gem 'promiscuous'
+gem 'sequel'
+gem 'bundler'
+gem 'mongoid'
+gem 'pry'
+gem 'rspec'

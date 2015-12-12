@@ -1,0 +1,5 @@
+gem 'parslet'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-vim'
+gem 'pry'

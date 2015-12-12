@@ -1,0 +1,6 @@
+gem 'recursive-open-struct'
+gem 'thor'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

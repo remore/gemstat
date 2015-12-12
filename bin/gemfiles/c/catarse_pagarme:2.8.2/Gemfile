@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'pagarme'
-gem 'weekdays'
-gem 'sidekiq'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'pg'
-gem 'database_cleaner'

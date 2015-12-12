@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'doorkeeper'
-gem 'sandal'
-gem 'rspec-rails'
-gem 'generator_spec'
-gem 'factory_girl'

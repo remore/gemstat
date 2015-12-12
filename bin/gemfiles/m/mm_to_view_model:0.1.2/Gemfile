@@ -1,6 +1,0 @@
-gem 'mongo_mapper'
-gem 'bundler'
-gem 'rspec'
-gem 'mocha'
-gem 'fuubar'
-gem 'watchr'

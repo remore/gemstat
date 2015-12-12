@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'activesupport'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'pry'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

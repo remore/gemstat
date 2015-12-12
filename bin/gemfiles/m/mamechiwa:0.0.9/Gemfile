@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'mysql2'
-gem 'rspec'
-gem 'mocha'
-gem 'database_cleaner'

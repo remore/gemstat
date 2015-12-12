@@ -1,4 +1,0 @@
-gem 'cucumber'
-gem 'hipchat'
-gem 'aruba'
-gem 'debugger'

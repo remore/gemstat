@@ -1,4 +1,0 @@
-gem 'github_api'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'

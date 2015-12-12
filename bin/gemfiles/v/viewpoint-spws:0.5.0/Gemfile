@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'httpclient'
-gem 'logging'
-gem 'rubyntlm'

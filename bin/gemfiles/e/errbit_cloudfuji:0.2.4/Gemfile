@@ -1,3 +1,0 @@
-gem 'cloudfuji'
-gem 'devise_cloudfuji_authenticatable'
-gem 'uuid'

@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'dalli'
-gem 'combustion'
-gem 'rake'
-gem 'rspec-rails'
-gem 'simplecov'
-gem 'foreman'

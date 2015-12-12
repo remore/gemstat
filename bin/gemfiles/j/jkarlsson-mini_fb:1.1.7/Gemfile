@@ -1,3 +1,0 @@
-gem 'rest-client'
-gem 'hashie'
-gem 'mime-types'

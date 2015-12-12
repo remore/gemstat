@@ -1,6 +1,0 @@
-gem 'sass'
-gem 'sprockets'
-gem 'tilt'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

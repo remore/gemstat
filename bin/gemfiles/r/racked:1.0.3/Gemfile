@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rdoc'
-gem 'syntax'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

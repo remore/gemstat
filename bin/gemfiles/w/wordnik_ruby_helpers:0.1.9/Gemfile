@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'RedCloth'
-gem 'rspec'
-gem 'rspec2-rails-views-matchers'

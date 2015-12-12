@@ -1,7 +1,0 @@
-gem 'ffi'
-gem 'require_all'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-given'
-gem 'childprocess'

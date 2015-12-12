@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'rspec-mocks'
-gem 'rake'
-gem 'cucumber'
-gem 'aruba'
-gem 'ZenTest'
-gem 'activerecord'

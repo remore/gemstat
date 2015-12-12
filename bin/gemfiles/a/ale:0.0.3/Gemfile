@@ -1,4 +1,0 @@
-gem 'crack'
-gem 'mime-types'
-gem 'net-http-persistent'
-gem 'thor'

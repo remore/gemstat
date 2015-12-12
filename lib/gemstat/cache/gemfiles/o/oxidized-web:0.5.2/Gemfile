@@ -1,0 +1,7 @@
+gem 'oxidized'
+gem 'puma'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'haml'
+gem 'sass'
+gem 'emk-sinatra-url-for'

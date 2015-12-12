@@ -1,4 +1,0 @@
-gem 'base58'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

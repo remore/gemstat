@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'oauth'
+gem 'activesupport'
+gem 'webmock'
+gem 'rspec'
+gem 'rake'

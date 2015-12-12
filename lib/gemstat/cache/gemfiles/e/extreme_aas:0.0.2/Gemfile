@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'capybara'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'debugger'
+gem 'mysql2'

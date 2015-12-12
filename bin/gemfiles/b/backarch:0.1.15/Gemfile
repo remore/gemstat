@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'logger'
-gem 'slop'
-gem 'aws-sdk'
-gem 'fork'
-gem 'fog'
-gem 'gli'

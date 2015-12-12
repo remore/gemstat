@@ -1,0 +1,4 @@
+gem 'terminal-table'
+gem 'parseconfig'
+gem 'rainbow'
+gem 'gli'

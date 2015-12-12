@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'awesome_print'
+gem 'erv'
+gem 'ice_nine'
+gem 'bundler'
+gem 'rake'
+gem 'minitest-spec-context'

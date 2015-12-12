@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'paratrooper'
-gem 'airbrake'

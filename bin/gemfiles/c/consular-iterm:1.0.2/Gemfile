@@ -1,4 +1,0 @@
-gem 'consular'
-gem 'rb-appscript'
-gem 'minitest'
-gem 'mocha'

@@ -1,0 +1,7 @@
+gem 'sys-uname'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

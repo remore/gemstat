@@ -1,0 +1,8 @@
+gem 'corundum'
+gem 'paint'
+gem 'rspec'
+gem 'simplecov'
+gem 'bundler'
+gem 'simplecov-json'
+gem 'caliph'
+gem 'mattock'

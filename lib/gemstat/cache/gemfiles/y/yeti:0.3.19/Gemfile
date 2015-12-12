@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'string_cleaner'
+gem 'rake'
+gem 'rspec'

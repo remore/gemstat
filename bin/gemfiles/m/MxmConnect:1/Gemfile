@@ -1,3 +1,0 @@
-gem 'ruby-hmac'
-gem 'httpclient'
-gem 'soap4r'

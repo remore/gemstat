@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'cells'
-gem 'simple_form'
-gem 'rails'
-gem 'rspec'
-gem 'sqlite3'

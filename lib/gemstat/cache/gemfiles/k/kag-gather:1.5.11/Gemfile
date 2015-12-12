@@ -1,0 +1,8 @@
+gem 'cinch'
+gem 'cinch-identify'
+gem 'json'
+gem 'symboltable'
+gem 'kagerator'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'

@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'narray'
-gem 'narray_miss'

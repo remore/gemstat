@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'middleman'
-gem 'capistrano'
-gem 'rubyzip'

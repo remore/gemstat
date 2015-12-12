@@ -1,5 +1,0 @@
-gem 'aws-sdk'
-gem 'activesupport'
-gem 'json'
-gem 'bundler'
-gem 'jeweler'

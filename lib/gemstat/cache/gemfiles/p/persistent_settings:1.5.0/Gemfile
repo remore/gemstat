@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'activerecord'
+gem 'autotest'
+gem 'autotest-growl'
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'

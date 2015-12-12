@@ -1,4 +1,0 @@
-gem 'hiredis'
-gem 'redis'
-gem 'activesupport'
-gem 'activerecord'

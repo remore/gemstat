@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'opengotham_redis-namespace'
-gem 'vegas'
-gem 'sinatra'

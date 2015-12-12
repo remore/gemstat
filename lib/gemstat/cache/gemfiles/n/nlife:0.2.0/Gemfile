@@ -1,0 +1,5 @@
+gem 'curses'
+gem 'narray'
+gem 'numru-misc'
+gem 'ruby-fftw3'
+gem 'rspec'

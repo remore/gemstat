@@ -1,0 +1,8 @@
+gem 'mspire-molecular_formula'
+gem 'rubabel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'simplecov'
+gem 'fftw3'

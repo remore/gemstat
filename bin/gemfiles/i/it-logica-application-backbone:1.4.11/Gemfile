@@ -1,7 +1,0 @@
-gem 'htmlentities'
-gem 'jquery-rails'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

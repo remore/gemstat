@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'imdb'
+gem 'sequel'
+gem 'thread'
+gem 'sqlite3'

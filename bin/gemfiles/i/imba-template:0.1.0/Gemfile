@@ -1,6 +1,0 @@
-gem 'imba-source'
-gem 'tilt'
-gem 'execjs'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

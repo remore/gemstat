@@ -1,7 +1,0 @@
-gem 'multi_json'
-gem 'omniauth-openid'
-gem 'rack-test'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'webmock'

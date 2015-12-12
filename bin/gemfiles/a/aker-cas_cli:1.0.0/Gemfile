@@ -1,8 +1,0 @@
-gem 'aker'
-gem 'mechanize'
-gem 'rake'
-gem 'rspec'
-gem 'rubycas-server'
-gem 'childprocess'
-gem 'sqlite3'
-gem 'thin'

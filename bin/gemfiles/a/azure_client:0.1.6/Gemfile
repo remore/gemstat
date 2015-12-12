@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'azure'
-gem 'rspec'
-gem 'rake'

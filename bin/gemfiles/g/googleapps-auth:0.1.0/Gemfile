@@ -1,7 +1,0 @@
-gem 'actionpack'
-gem 'ruby-openid'
-gem 'activesupport'
-gem 'actionpack'
-gem 'activemodel'
-gem 'railties'
-gem 'rspec-rails'

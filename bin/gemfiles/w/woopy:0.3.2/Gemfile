@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'json'
-gem 'gem-release'
-gem 'activeresource'

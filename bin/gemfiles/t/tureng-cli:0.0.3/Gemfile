@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'nokogiri'
-gem 'text-table'
-gem 'gli'

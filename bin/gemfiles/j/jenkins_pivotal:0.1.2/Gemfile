@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'slop'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

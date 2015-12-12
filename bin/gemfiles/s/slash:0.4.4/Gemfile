@@ -1,6 +1,0 @@
-gem 'extlib'
-gem 'addressable'
-gem 'rspec'
-gem 'typhoeus'
-gem 'peanuts'
-gem 'json'

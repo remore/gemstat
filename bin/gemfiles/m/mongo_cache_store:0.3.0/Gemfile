@@ -1,4 +1,0 @@
-gem 'mongo'
-gem 'activesupport'
-gem 'mocha'
-gem 'rake'

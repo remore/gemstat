@@ -1,5 +1,0 @@
-gem 'httpi'
-gem 'nokogiri'
-gem 'savon'
-gem 'rspec'
-gem 'shoulda'

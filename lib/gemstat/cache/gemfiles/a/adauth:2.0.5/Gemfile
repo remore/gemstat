@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'
+gem 'net-ldap'
+gem 'expects'

@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'bluecloth'
-gem 'bundler'
-gem 'jeweler'
-gem 'rake'
-gem 'yui-compressor'

@@ -1,2 +1,0 @@
-gem 'dbd-adonet-sqlserver'
-gem 'activerecord-sqlserver-adapter'

@@ -1,0 +1,8 @@
+gem 'vertebrae'
+gem 'pry'
+gem 'pry-byebug'
+gem 'webmock'
+gem 'rspec'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'

@@ -1,4 +1,0 @@
-gem 'angularjs-rails'
-gem 'leaflet-rails'
-gem 'bundler'
-gem 'rake'

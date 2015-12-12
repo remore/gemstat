@@ -1,6 +1,0 @@
-gem 'localeapp'
-gem 'moneta'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

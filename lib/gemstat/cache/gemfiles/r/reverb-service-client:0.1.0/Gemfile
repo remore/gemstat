@@ -1,0 +1,4 @@
+gem 'typhoeus'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

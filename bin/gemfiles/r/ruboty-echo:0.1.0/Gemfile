@@ -1,5 +1,0 @@
-gem 'ruboty'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

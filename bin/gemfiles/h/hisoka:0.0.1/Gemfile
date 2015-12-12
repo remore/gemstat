@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'debugger'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'rspec'
-gem 'simplecov'
-gem 'terminal-notifier-guard'

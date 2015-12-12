@@ -1,5 +1,0 @@
-gem 'thread'
-gem 'twitter'
-gem 'marky_markov'
-gem 'bundler'
-gem 'rake'

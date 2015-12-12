@@ -1,3 +1,0 @@
-gem 'activeresource'
-gem 'ruby-hmac'
-gem 'rspec'

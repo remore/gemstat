@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'fakeweb'
-gem 'rake'
-gem 'minitest'

@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'addressable'
+gem 'yajl-ruby'

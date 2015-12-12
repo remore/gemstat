@@ -1,0 +1,4 @@
+gem 'echoe'
+gem 'rake'
+gem 'echoe'
+gem 'mocha'

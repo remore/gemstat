@@ -1,5 +1,0 @@
-gem 'fluentd'
-gem 'http_parser.rb'
-gem 'cool.io'
-gem 'rake'
-gem 'simplecov'

@@ -1,0 +1,8 @@
+gem 'os'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'httparty'
+gem 'json'
+gem 'neo4j-cypher'
+gem 'neography'

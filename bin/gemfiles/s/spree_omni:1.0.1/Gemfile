@@ -1,6 +1,0 @@
-gem 'spree_core'
-gem 'rack-openid'
-gem 'ruby-openid'
-gem 'omniauth'
-gem 'oa-vkontakte'
-gem 'oa-mailru'

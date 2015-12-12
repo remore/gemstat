@@ -1,0 +1,6 @@
+gem 'parser'
+gem 'unparser'
+gem 'coderay'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

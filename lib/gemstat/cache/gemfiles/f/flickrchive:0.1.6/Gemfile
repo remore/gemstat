@@ -1,0 +1,4 @@
+gem 'flickraw'
+gem 'ruby-filemagic'
+gem 'daybreak'
+gem 'thor'

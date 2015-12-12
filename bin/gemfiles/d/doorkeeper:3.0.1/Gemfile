@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'generator_spec'
-gem 'factory_girl'
-gem 'timecop'
-gem 'database_cleaner'

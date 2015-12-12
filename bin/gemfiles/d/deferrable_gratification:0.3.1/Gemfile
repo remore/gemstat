@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'rake'
-gem 'yard'
-gem 'bluecloth'
-gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'bootstrap-sass'
+gem 'sass'
+gem 'bundler'
+gem 'rake'
+gem 'compass'
+gem 'sass-rails'

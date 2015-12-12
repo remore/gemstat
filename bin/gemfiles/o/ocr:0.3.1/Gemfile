@@ -1,3 +1,0 @@
-gem 'savon'
-gem 'nokogiri'
-gem 'rspec'

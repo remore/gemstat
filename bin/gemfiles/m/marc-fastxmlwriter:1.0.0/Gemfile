@@ -1,4 +1,0 @@
-gem 'marc'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

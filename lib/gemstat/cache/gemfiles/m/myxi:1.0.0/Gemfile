@@ -1,0 +1,2 @@
+gem 'bunny'
+gem 'em-websocket'

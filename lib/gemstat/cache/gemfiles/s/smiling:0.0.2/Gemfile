@@ -1,0 +1,8 @@
+gem 'coveralls'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'
+gem 'nokogiri'
+gem 'httparty'

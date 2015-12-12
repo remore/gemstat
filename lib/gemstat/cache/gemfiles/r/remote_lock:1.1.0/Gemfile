@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'pry'
+gem 'pry-nav'
+gem 'rspec'
+gem 'rdoc'
+gem 'redis'
+gem 'memcache-client'

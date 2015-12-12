@@ -1,4 +1,0 @@
-gem 'pony'
-gem 'bundler'
-gem 'jeweler'
-gem 'github_api'

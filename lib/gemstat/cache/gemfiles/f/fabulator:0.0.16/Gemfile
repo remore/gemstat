@@ -1,0 +1,5 @@
+gem 'libxml-ruby'
+gem 'libxslt-ruby'
+gem 'radius'
+gem 'RedCloth'
+gem 'activesupport'

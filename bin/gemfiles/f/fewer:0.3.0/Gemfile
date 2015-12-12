@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'activesupport'
-gem 'leftright'
-gem 'less'
-gem 'mocha'
-gem 'rack-test'
-gem 'fakefs'

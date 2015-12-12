@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rails'
-gem 'rb-fsevent'
-gem 'guard-rspec'
-gem 'rspec-rails'
-gem 'simplecov'
-gem 'combustion'

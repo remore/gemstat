@@ -1,5 +1,0 @@
-gem 'secure_compare'
-gem 'bundler'
-gem 'rake'
-gem 'rack'
-gem 'json'

@@ -1,6 +1,0 @@
-gem 'dino'
-gem 'micromidi'
-gem 'mixlib-cli'
-gem 'rspec'
-gem 'pry'
-gem 'codeclimate-test-reporter'

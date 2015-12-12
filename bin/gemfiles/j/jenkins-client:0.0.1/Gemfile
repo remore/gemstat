@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'rash'
-gem 'rspec'
-gem 'rake'
-gem 'webmock'
-gem 'guard-rspec'

@@ -1,5 +1,0 @@
-gem 'sidekiq'
-gem 'dogstatsd-ruby'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'

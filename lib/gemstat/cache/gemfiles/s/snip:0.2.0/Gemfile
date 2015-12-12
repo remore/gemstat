@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'rainbow'
+gem 'rake'
+gem 'rdoc'
+gem 'minitest-reporters'
+gem 'fakefs'

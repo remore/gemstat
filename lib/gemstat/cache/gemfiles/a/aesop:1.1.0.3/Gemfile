@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'redis'
+gem 'hiredis'
+gem 'configatron'
+gem 'log4r'

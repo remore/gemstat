@@ -1,0 +1,5 @@
+gem 'fog'
+gem 'multi_json'
+gem 'joyent-cloud-pricing'
+gem 'chef'
+gem 'rspec'

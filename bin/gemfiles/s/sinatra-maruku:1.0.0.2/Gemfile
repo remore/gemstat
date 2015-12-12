@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'maruku'
-gem 'rack'
-gem 'rack-test'

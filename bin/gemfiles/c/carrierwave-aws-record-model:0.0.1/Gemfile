@@ -1,5 +1,0 @@
-gem 'carrierwave'
-gem 'aws-sdk'
-gem 'simple_callbacks'
-gem 'rspec'
-gem 'debugger'

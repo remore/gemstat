@@ -1,7 +1,0 @@
-gem 'png_quantizator'
-gem 'rspec'
-gem 'ZenTest'
-gem 'carrierwave'
-gem 'mini_magick'
-gem 'rmagick'
-gem 'rake'

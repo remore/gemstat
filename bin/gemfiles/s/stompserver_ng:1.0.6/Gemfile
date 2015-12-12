@@ -1,3 +1,0 @@
-gem 'daemons'
-gem 'eventmachine'
-gem 'uuid'

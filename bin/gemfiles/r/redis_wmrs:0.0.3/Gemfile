@@ -1,8 +1,0 @@
-gem 'redis'
-gem 'redis-sentinel'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'fuubar'
-gem 'simplecov'

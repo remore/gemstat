@@ -1,4 +1,0 @@
-gem 'haml'
-gem 'rdoc'
-gem 'rake'
-gem 'rspec'

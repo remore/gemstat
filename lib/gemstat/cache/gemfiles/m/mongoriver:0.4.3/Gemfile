@@ -1,0 +1,6 @@
+gem 'mongo'
+gem 'bson_ext'
+gem 'log4r'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'

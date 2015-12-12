@@ -1,5 +1,0 @@
-gem 'httmultiparty'
-gem 'active_support'
-gem 'i18n'
-gem 'rspec'
-gem 'fakeweb'

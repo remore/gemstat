@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'actionpack'
-gem 'rspec-rails'
-gem 'rspec_tag_matchers'

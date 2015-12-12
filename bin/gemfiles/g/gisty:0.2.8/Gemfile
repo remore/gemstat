@@ -1,5 +1,0 @@
-gem 'json'
-gem 'rake'
-gem 'rr'
-gem 'fakeweb'
-gem 'minitest'

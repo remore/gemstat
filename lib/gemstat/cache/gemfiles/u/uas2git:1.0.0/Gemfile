@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'highline'
+gem 'rugged'
+gem 'pg'
+gem 'progress'
+gem 'safe_attributes'
+gem 'bundler'
+gem 'rake'

@@ -1,0 +1,5 @@
+gem 'grooveshark'
+gem 'highline'
+gem 'lastfm'
+gem 'launchy'
+gem 'thor'

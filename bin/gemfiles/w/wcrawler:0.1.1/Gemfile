@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'nokogiri'
-gem 'typhoeus'
-gem 'json'
-gem 'thor'

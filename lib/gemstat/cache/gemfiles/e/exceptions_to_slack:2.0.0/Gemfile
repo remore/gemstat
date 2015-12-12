@@ -1,0 +1,2 @@
+gem 'slack-notifier'
+gem 'webmock'

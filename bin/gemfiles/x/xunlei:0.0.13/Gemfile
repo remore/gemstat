@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'watir-webdriver'
-gem 'commander'
-gem 'nokogiri'

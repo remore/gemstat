@@ -1,6 +1,0 @@
-gem 'trouble'
-gem 'multi_json'
-gem 'redis-namespace'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rb-fsevent'

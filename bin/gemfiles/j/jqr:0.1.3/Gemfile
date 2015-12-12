@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'color_echo'
-gem 'slop'
-gem 'bundler'
-gem 'rake'

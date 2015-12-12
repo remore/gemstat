@@ -1,0 +1,1 @@
+gem 'rabbitmq_http_api_client'

@@ -1,8 +1,0 @@
-gem 'httpclient'
-gem 'rubyzip'
-gem 'highline'
-gem 'needle'
-gem 'ruby-json'
-gem 'uuidtools'
-gem 'clickclient_scrap'
-gem 'sbiclient'

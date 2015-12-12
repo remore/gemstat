@@ -1,8 +1,0 @@
-gem 'cri'
-gem 'colored'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubygems-tasks'
-gem 'yard'
-gem 'pry'

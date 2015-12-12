@@ -1,4 +1,0 @@
-gem 'excon'
-gem 'json'
-gem 'netrc'
-gem 'sshkey'

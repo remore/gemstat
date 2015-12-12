@@ -1,5 +1,0 @@
-gem 'logstasher'
-gem 'request_store'
-gem 'rspec'
-gem 'bundler'
-gem 'rails'

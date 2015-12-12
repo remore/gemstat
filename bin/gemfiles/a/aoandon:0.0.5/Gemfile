@@ -1,4 +1,0 @@
-gem 'ruby-pcap'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

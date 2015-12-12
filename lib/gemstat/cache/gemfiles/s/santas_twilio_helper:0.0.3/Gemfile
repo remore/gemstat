@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'paint'
+gem 'json'
+gem 'twilio-ruby'
+gem 'bundler'
+gem 'rake'

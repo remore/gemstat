@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'bundler'
+gem 'dotenv'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'luhn'

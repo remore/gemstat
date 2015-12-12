@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'oauth2'
-gem 'shoulda'
-gem 'rake'
-gem 'mocha'
-gem 'fakeweb'

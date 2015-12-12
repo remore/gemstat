@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'guard'
+gem 'guard-test'
+gem 'test-unit'
+gem 'shoulda'
+gem 'rack'
+gem 'rack-test'

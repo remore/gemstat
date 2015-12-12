@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'rake'
-gem 'therubyracer'
-gem 'activesupport'

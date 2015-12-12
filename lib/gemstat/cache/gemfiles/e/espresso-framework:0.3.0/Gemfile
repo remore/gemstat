@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'actionpack'
+gem 'inherited_resources'
+gem 'shoulda'
+gem 'redgreen'

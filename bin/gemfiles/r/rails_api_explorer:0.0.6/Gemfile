@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'coffee-rails'
-gem 'sass-rails'
-gem 'bootstrap-sass'
-gem 'jquery-rails'
-gem 'sqlite3'
-gem 'coffee-script'
-gem 'sass'

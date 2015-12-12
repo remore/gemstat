@@ -1,3 +1,0 @@
-gem 'libusb'
-gem 'colorist'
-gem 'thor'

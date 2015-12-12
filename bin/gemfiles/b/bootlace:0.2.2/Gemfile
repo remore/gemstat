@@ -1,4 +1,0 @@
-gem 'mocha'
-gem 'activesupport'
-gem 'turn'
-gem 'pry'

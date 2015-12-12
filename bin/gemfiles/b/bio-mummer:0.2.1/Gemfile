@@ -1,6 +1,0 @@
-gem 'shoulda'
-gem 'simplecov'
-gem 'jeweler'
-gem 'bundler'
-gem 'bio'
-gem 'rdoc'

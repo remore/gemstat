@@ -1,3 +1,0 @@
-gem 'merb-core'
-gem 'templater'
-gem 'rspec'

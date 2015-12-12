@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rmagick'
-gem 'git'
-gem 'choice'
-gem 'launchy'
-gem 'aws-s3'
-gem 'cache-aws-s3'

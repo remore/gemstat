@@ -1,7 +1,0 @@
-gem 'hpricot'
-gem 'liquid'
-gem 'rake'
-gem 'newgem'
-gem 'shoulda'
-gem 'activesupport'
-gem 'hoe'

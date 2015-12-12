@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'isbn'
-gem 'metacrunch'
-gem 'metacrunch-elasticsearch'
-gem 'metacrunch-mab2'
-gem 'nokogiri'
-gem 'ruby-progressbar'

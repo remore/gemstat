@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'sauce-connect'
-gem 'compass'
-gem 'jasmine_selenium_runner'

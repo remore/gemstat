@@ -1,0 +1,8 @@
+gem 'httparty'
+gem 'rails'
+gem 'addressable'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'webmock'

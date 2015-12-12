@@ -1,5 +1,0 @@
-gem 'redis-namespace'
-gem 'sinatra'
-gem 'rspec'
-gem 'mocha'
-gem 'rack-test'

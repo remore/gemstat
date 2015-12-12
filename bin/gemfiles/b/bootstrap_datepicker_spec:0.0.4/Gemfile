@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'capybara'
-gem 'chronic'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

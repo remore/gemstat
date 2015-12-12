@@ -1,8 +1,0 @@
-gem 'ip'
-gem 'choice'
-gem 'chef'
-gem 'json'
-gem 'json_pure'
-gem 'couchrest'
-gem 'rest-client'
-gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'facets'
+gem 'dictionary'
+gem 'rak'
+gem 'outsider'

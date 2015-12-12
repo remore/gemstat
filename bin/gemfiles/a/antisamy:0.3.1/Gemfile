@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'nokogiri'
-gem 'nokogiri'
-gem 'nokogiri'

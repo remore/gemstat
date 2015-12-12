@@ -1,4 +1,0 @@
-gem 'gemsurance'
-gem 'slack-notifier'
-gem 'bundler'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'dotenv'
-gem 'google_drive'
-gem 'prawn'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

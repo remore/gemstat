@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'dotenv'
+gem 'cinch'
+gem 'zabbix-client'
+gem 'pry'

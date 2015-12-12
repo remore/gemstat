@@ -1,0 +1,4 @@
+gem 'qu'
+gem 'rspec'
+gem 'simple_uuid'
+gem 'rake'

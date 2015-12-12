@@ -1,6 +1,0 @@
-gem 'multi_json'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

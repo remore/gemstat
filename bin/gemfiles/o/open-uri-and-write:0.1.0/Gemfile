@@ -1,5 +1,0 @@
-gem 'highline'
-gem 'net_dav'
-gem 'rspec'
-gem 'pry'
-gem 'dav4rack'

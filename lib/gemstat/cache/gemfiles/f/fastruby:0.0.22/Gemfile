@@ -1,0 +1,5 @@
+gem 'RubyInline'
+gem 'ruby_parser'
+gem 'define_method_handler'
+gem 'method_source'
+gem 'ruby2ruby'

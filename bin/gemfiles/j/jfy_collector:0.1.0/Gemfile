@@ -1,6 +1,0 @@
-gem 'jfy'
-gem 'pvoutput'
-gem 'awesome_print'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'

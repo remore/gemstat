@@ -1,4 +1,0 @@
-gem 'crack'
-gem 'yajl-ruby'
-gem 'activemodel'
-gem 'rake'

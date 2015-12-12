@@ -1,0 +1,5 @@
+gem 'union_station_hooks_core'
+gem 'activesupport'
+gem 'activemodel'
+gem 'actionpack'
+gem 'railties'

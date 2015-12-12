@@ -1,4 +1,0 @@
-gem 'tilt'
-gem 'haml'
-gem 'rake'
-gem 'minitest-reporters'

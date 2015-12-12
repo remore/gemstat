@@ -1,6 +1,0 @@
-gem 'devise'
-gem 'rails'
-gem 'haml'
-gem 'tzinfo'
-gem 'omniauth'
-gem 'actionmailer'

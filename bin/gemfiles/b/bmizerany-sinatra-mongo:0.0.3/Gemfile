@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'mongo'
-gem 'sinatra'

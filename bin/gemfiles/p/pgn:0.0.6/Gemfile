@@ -1,4 +1,0 @@
-gem 'whittle'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

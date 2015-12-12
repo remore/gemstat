@@ -1,5 +1,0 @@
-gem 'que'
-gem 'activesupport'
-gem 'sequel'
-gem 'pg'
-gem 'aws-sdk'

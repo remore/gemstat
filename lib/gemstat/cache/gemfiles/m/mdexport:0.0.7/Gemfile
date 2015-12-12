@@ -1,0 +1,5 @@
+gem 'filewatcher'
+gem 'github-markdown'
+gem 'commander'
+gem 'mustache'
+gem 'rspec'

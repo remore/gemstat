@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'kaminari'
-gem 'cells'
-gem 'markdown-ruby-china'
-gem 'facebox-rails'
-gem 'acts_as_paranoid_boolean_column'

@@ -1,8 +1,0 @@
-gem 'celluloid'
-gem 'celluloid-io'
-gem 'erubis'
-gem 'net-ssh'
-gem 'net-ssh-gateway'
-gem 'ridley'
-gem 'winrm'
-gem 'buff-ruby_engine'

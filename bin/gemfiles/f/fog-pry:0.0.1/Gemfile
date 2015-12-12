@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'fog'
-gem 'recursive-open-struct'

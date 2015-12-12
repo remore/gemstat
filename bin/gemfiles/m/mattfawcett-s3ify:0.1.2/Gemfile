@@ -1,4 +1,0 @@
-gem 'visionmedia-commander'
-gem 'nokogiri'
-gem 'nokogiri'
-gem 'aws-s3'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rsolr'
-gem 'eventmachine'
-gem 'em-http-request'

@@ -1,0 +1,6 @@
+gem 'fog'
+gem 'mos_sdk'
+gem 'crack'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'

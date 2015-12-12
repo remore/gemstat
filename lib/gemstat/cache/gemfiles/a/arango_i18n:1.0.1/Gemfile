@@ -1,0 +1,4 @@
+gem 'ashikawa-core'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

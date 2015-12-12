@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'rspec'
-gem 'yard'

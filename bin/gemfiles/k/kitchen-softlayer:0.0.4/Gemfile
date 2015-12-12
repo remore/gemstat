@@ -1,3 +1,0 @@
-gem 'test-kitchen'
-gem 'fog'
-gem 'fog-softlayer'

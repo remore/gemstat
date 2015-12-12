@@ -1,8 +1,0 @@
-gem 'railties'
-gem 'bumbleworks'
-gem 'bumbleworks-gui'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'generator_spec'
-gem 'simplecov'
-gem 'rails'

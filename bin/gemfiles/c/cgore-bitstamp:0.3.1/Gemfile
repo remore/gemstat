@@ -1,8 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'curb'
-gem 'ruby-hmac'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

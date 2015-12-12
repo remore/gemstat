@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'test-unit'
-gem 'rake'
-gem 'method_source'
-gem 'yard'

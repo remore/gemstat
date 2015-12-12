@@ -1,7 +1,0 @@
-gem 'colorize'
-gem 'capistrano'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-debugger'
-gem 'tapp'

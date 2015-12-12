@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'thrift'
+gem 'finagle-thrift'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

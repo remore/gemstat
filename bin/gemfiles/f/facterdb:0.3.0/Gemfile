@@ -1,7 +1,0 @@
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'
-gem 'github_changelog_generator'
-gem 'json'
-gem 'facter'
-gem 'jgrep'

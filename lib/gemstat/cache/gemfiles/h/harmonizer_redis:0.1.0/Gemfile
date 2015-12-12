@@ -1,0 +1,6 @@
+gem 'redis'
+gem 'hiredis'
+gem 'activesupport'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

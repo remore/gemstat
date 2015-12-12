@@ -1,6 +1,0 @@
-gem 'mongo'
-gem 'activesupport'
-gem 'origin'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'i18n'
-gem 'enumerated_type'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'gemtags'
-gem 'rake'
-gem 'version'

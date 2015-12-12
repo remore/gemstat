@@ -1,0 +1,5 @@
+gem 'raspell'
+gem 'thinking-sphinx'
+gem 'jeweler'
+gem 'rspec'
+gem 'yard'

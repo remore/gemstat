@@ -1,8 +1,0 @@
-gem 'commander'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'rspec'
-gem 'simplecov'
-gem 'pry'

@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'rake'
-gem 'tilt'
-gem 'RedCloth'
-gem 'minitest'

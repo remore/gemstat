@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'librato-metrics'
-gem 'sqlite3'
-gem 'minitest'

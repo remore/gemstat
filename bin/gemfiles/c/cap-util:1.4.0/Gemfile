@@ -1,3 +1,0 @@
-gem 'assert'
-gem 'scmd'
-gem 'capistrano'

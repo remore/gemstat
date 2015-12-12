@@ -1,3 +1,0 @@
-gem 'railties'
-gem 'rubocop'
-gem 'highline'

@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'rspec'
-gem 'bundler'
-gem 'cucumber'
-gem 'rake'
-gem 'pry'

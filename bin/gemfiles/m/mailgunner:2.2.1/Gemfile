@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'webmock'
-gem 'mail'
-gem 'actionmailer'

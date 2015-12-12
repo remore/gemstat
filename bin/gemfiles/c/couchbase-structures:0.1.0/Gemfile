@@ -1,3 +1,0 @@
-gem 'couchbase-docstore'
-gem 'couchbase-settings'
-gem 'couchbase'

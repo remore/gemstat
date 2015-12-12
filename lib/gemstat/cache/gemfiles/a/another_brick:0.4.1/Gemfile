@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'slop'
+gem 'json'
+gem 'rest-client'
+gem 'net-ssh'

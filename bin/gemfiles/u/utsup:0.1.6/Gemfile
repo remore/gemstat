@@ -1,4 +1,0 @@
-gem 'git'
-gem 'daemons'
-gem 'terminal_markup'
-gem 'hoe'

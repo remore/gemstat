@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'selenium-webdriver'
-gem 'gli'

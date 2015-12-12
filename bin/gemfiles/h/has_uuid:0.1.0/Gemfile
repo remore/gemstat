@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'uuidtools'
-gem 'rake'
-gem 'sqlite3'

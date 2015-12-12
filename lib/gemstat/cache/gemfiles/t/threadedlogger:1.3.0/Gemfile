@@ -1,0 +1,8 @@
+gem 'rdoc'
+gem 'hoe'
+gem 'hoe-gemspec'
+gem 'hoe-bundler'
+gem 'simplecov'
+gem 'simplecov-console'
+gem 'minitest'
+gem 'minitest-debugger'

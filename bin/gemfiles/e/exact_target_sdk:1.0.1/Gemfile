@@ -1,4 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'guid'
-gem 'savon'

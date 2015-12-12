@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'image_size'
+gem 'rmagick'

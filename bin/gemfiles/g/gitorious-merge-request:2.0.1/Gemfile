@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'trollop'
-gem 'mechanize'
-gem 'highline'

@@ -1,6 +1,0 @@
-gem 'git'
-gem 'rake'
-gem 'cucumber'
-gem 'rspec'
-gem 'jenkins-war'
-gem 'winci'

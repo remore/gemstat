@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'datamapper'
-gem 'haml'
-gem 'rake'

@@ -1,3 +1,0 @@
-gem 'gpgme'
-gem 'rake'
-gem 'rspec'

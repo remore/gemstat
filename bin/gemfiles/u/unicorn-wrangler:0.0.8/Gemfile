@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'unicorn'
-gem 'rspec'
-gem 'curb'

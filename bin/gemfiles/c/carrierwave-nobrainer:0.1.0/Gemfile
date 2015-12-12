@@ -1,5 +1,0 @@
-gem 'nobrainer'
-gem 'carrierwave'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

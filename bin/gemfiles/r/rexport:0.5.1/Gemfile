@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'factory_girl'
-gem 'sqlite3'
-gem 'mocha'

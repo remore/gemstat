@@ -1,4 +1,0 @@
-gem 'choice'
-gem 'httparty'
-gem 'git'
-gem 'rspec'

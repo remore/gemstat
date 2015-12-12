@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'sqlite3'
-gem 'rspec'
-gem 'dm-core'
-gem 'dm-migrations'
-gem 'dm-sqlite-adapter'
-gem 'do_sqlite3'

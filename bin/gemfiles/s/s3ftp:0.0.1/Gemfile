@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'em-ftpd'
-gem 'happening'
-gem 'nokogiri'

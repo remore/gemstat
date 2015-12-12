@@ -1,7 +1,0 @@
-gem 'bootsy'
-gem 'mongoid'
-gem 'carrierwave-mongoid'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'database_cleaner'
-gem 'mongoid-rspec'

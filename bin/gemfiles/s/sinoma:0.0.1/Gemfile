@@ -1,4 +1,0 @@
-gem 'ruby-notify-my-android'
-gem 'rspec-expectations'
-gem 'rspec-mocks'
-gem 'rspec'

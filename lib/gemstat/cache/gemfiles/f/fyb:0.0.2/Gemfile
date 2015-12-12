@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'weary'
+gem 'ruby-hmac'
+gem 'json'
+gem 'promise'

@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'methadone'
-gem 'listen'
-gem 'rake'

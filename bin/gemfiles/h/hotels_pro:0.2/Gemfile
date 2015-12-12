@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'json'
-gem 'typhoeus'
-gem 'virtus'
-gem 'rspec'
-gem 'ZenTest'

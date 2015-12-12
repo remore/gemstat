@@ -1,6 +1,0 @@
-gem 'mail'
-gem 'activesupport'
-gem 'listen'
-gem 'maildir'
-gem 'i18n'
-gem 'rspec'

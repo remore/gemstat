@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'httparty'
+gem 'libxml-ruby'
+gem 'enumerate_it'
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'database_cleaner'

@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'haml'
+gem 'execjs'
+gem 'json'

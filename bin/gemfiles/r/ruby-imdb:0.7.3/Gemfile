@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'json'
-gem 'mongo'
-gem 'mongo_mapper'
-gem 'chronic'

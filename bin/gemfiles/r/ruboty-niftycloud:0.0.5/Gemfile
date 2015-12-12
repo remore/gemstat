@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'ruboty'
-gem 'ace-client'
-gem 'ace-client-ext'
-gem 'd2e'
-gem 'ruport'

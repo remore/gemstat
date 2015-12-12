@@ -1,0 +1,5 @@
+gem 'babosa'
+gem 'activerecord'
+gem 'mocha'
+gem 'sqlite3'
+gem 'rake'

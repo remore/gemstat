@@ -1,3 +1,0 @@
-gem 'thrift'
-gem 'bundler'
-gem 'rake'

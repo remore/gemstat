@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'awesome_print'
+gem 'command_line_reporter'
+gem 'bundler'
+gem 'rake'
+gem 'json'

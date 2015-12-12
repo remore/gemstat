@@ -1,0 +1,7 @@
+gem 'rchardet'
+gem 'activesupport'
+gem 'hpricot'
+gem 'character-encodings'
+gem 'htmltools'
+gem 'htmlentities'
+gem 'mongrel'

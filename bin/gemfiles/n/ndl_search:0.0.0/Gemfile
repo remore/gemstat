@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'rest-client'

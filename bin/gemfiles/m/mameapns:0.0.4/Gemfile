@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'growl'
-gem 'rb-fsevent'

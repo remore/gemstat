@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'engineyard'
-gem 'activesupport'
-gem 'rake'
-gem 'cucumber'
-gem 'rspec'
-gem 'launchy'

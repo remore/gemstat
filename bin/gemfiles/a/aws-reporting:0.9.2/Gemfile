@@ -1,4 +1,0 @@
-gem 'slop'
-gem 'aws-sdk'
-gem 'formatador'
-gem 'parallel'

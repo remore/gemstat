@@ -1,3 +1,0 @@
-gem 'capybara'
-gem 'rake'
-gem 'minitest'

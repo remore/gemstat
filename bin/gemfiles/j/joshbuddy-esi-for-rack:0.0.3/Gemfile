@@ -1,3 +1,0 @@
-gem 'joshbuddy-esi_attribute_language'
-gem 'nokogiri'
-gem 'jaxn-parse_user_agent'

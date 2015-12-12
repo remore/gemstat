@@ -1,0 +1,6 @@
+gem 'dicom'
+gem 'activeresource'
+gem 'hirb'
+gem 'sqlite3'
+gem 'rspec'
+gem 'escoffier'

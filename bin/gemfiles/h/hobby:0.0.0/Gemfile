@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'include_constants'
-gem 'bundler'
-gem 'codeclimate-test-reporter'
-gem 'rack-test'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-power_assert'

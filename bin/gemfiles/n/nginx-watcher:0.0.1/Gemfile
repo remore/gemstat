@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'em-http-request'
-gem 'eventmachine-tail'
-gem 'commander'

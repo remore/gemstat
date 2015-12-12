@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'simple_oauth'
+gem 'bundler'
+gem 'rake'
+gem 'debase'

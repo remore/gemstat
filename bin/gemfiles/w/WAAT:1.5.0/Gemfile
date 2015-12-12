@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'selenium-webdriver'
-gem 'cucumber'
-gem 'jeweler'
-gem 'ffi'
-gem 'rjb'

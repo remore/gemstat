@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'redis'
-gem 'redis-namespace'
-gem 'redis-objects'

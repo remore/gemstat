@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'haml'
-gem 'rspec'
-gem 'rake'

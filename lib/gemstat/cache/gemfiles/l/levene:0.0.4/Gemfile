@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'rforce'
+gem 'minitest'
+gem 'nokogiri'
+gem 'hoe'

@@ -1,4 +1,0 @@
-gem 'json'
-gem 'extlib'
-gem 'sexp_processor'
-gem 'jexp'

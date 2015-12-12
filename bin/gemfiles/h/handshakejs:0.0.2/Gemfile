@@ -1,5 +1,0 @@
-gem 'armor'
-gem 'foreman'
-gem 'pry'
-gem 'rake'
-gem 'rspec'

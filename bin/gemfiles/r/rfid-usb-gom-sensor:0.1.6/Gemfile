@@ -1,3 +1,0 @@
-gem 'toholio-serialport'
-gem 'gom-script'
-gem 'rspec'

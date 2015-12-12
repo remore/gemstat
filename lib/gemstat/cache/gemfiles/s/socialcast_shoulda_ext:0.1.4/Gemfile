@@ -1,0 +1,7 @@
+gem 'shoulda'
+gem 'activerecord'
+gem 'rails'
+gem 'json'
+gem 'bundler'
+gem 'mocha'
+gem 'sqlite3'

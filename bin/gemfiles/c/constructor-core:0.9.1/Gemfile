@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'bootstrap-sass'
-gem 'slim'
-gem 'font-awesome-sass-rails'
-gem 'cache_digests'

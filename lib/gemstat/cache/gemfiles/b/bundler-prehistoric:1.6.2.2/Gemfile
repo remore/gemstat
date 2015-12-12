@@ -1,0 +1,5 @@
+gem 'rubysl-securerandom'
+gem 'backports'
+gem 'rdiscount'
+gem 'ronn'
+gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'parallel_tests'
-gem 'activerecord'
-gem 'wwtd'
-gem 'bump'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'
-gem 'minitest'

@@ -1,3 +1,0 @@
-gem 'cancancan'
-gem 'bundler'
-gem 'rake'

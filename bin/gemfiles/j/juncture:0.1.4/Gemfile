@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'coveralls'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'jeweler'
-gem 'psych'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'capistrano-bundler'
-gem 'capistrano-git-copy'
-gem 'rake'
-gem 'yard'

@@ -1,0 +1,4 @@
+gem 'spree_core'
+gem 'carrierwave'
+gem 'fog'
+gem 'mini_magick'

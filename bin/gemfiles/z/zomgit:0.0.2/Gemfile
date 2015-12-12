@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'gli'
-gem 'rainbow'

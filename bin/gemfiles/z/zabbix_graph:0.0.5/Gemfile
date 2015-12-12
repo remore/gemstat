@@ -1,5 +1,0 @@
-gem 'zabbixapi'
-gem 'peco_selector'
-gem 'launchy'
-gem 'bundler'
-gem 'rake'

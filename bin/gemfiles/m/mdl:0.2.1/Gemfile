@@ -1,7 +1,0 @@
-gem 'kramdown'
-gem 'mixlib-config'
-gem 'mixlib-cli'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'pry'

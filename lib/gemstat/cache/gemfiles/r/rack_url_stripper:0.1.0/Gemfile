@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rack-test'
+gem 'nokogiri'
+gem 'rack'
+gem 'configatron'

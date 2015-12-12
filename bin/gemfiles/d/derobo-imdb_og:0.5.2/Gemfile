@@ -1,4 +1,0 @@
-gem 'shoulda'
-gem 'rcov'
-gem 'htmlentities'
-gem 'hpricot'

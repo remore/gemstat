@@ -1,7 +1,0 @@
-gem 'rubyzip'
-gem 'multipart-post'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'webmock'
-gem 'vcr'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'i18n'
-gem 'jeweler'
-gem 'hpricot'
-gem 'activesupport'

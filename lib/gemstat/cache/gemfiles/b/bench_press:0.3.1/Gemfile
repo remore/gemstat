@@ -1,0 +1,6 @@
+gem 'facter'
+gem 'activesupport'
+gem 'httparty'
+gem 'jeweler'
+gem 'rspec'
+gem 'ephemeral_response'

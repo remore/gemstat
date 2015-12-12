@@ -1,0 +1,6 @@
+gem 'rack-test'
+gem 'mocha'
+gem 'webmock'
+gem 'omniauth-oauth'
+gem 'multi_json'
+gem 'insensitive_hash'

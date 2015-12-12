@@ -1,5 +1,0 @@
-gem 'json_pure'
-gem 'multi_json'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

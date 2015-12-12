@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'diy'
-gem 'constructor'
-gem 'rspec-rails'
-gem 'sqlite3-ruby'

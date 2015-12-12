@@ -1,0 +1,8 @@
+gem 'riot'
+gem 'rack-test'
+gem 'database_cleaner'
+gem 'rake'
+gem 'rr'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rails'

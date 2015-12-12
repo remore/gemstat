@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'bundler'
-gem 'rake'
-gem 'engine_cart'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'capistrano'
-gem 'lyberteam-capistrano-devel'

@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'bundler-audit'
-gem 'bundler'
-gem 'rake'

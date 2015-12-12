@@ -1,0 +1,8 @@
+gem 'heartcheck'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'pry-nav'
+gem 'rspec'
+gem 'rubocop'
+gem 'yard'
+gem 'redcarpet'

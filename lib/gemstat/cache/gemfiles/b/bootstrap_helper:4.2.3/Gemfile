@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'thor'
+gem 'will_paginate'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'sqlite3'
+gem 'bundler'
+gem 'rails'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rubocop'
-gem 'rake'
-gem 'map'
-gem 'highline'
-gem 'iniparse'

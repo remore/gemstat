@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'mail'
-gem 'actionmailer'
-gem 'rspec'
-gem 'rubocop'

@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'ruby-graphviz'
-gem 'choice'

@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'blueimp-load-image-rails'
-gem 'blueimp-templates-rails'
-gem 'blueimp-canvas-to-blob-rails'
-gem 'jquery-rails'
-gem 'jquery-ui-rails'

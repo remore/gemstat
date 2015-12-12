@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'capybara'
-gem 'rspec-rails'

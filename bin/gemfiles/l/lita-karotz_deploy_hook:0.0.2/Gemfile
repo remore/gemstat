@@ -1,8 +1,0 @@
-gem 'lita'
-gem 'rest_client'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'rspec-instafail'
-gem 'simplecov'

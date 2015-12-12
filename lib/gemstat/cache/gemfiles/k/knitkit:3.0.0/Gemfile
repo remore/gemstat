@@ -1,0 +1,7 @@
+gem 'erp_app'
+gem 'erp_dev_svcs'
+gem 'routing-filter'
+gem 'nokogiri'
+gem 'rubyzip'
+gem 'acts-as-taggable-on'
+gem 'kramdown'

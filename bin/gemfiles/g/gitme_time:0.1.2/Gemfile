@@ -1,7 +1,0 @@
-gem 'basecamp'
-gem 'grit'
-gem 'thor'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'pry'

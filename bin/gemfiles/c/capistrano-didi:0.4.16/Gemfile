@@ -1,5 +1,0 @@
-gem 'railsless-deploy'
-gem 'capistrano'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

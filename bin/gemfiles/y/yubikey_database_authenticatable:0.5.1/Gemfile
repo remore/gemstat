@@ -1,3 +1,0 @@
-gem 'devise'
-gem 'yubikey'
-gem 'active_support'

@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'data_mapper'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

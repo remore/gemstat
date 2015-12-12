@@ -1,4 +1,0 @@
-gem 'childprocess'
-gem 'optout'
-gem 'rake'
-gem 'rspec'

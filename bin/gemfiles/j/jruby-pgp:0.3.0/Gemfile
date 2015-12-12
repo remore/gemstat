@@ -1,4 +1,0 @@
-gem 'jruby-openssl'
-gem 'rake'
-gem 'rspec'
-gem 'rake-compiler'

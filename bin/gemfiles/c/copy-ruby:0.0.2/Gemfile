@@ -1,5 +1,0 @@
-gem 'json'
-gem 'oauth'
-gem 'multipart-post'
-gem 'rspec'
-gem 'pry'

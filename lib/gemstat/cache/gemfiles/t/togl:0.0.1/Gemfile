@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'attribs'
+gem 'rake'
+gem 'rspec'
+gem 'mutant-rspec'
+gem 'bogus'

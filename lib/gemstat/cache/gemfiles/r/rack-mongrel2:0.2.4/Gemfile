@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'ffi-rzmq'
+gem 'rspec'
+gem 'fuubar'
+gem 'yard'

@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'builder'
-gem 'rspec'
-gem 'yard'

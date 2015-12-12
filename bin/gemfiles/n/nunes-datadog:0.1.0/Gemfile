@@ -1,6 +1,0 @@
-gem 'dogstatsd-ruby'
-gem 'nunes'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

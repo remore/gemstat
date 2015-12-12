@@ -1,3 +1,0 @@
-gem 'pushpop'
-gem 'mixpanel-ruby'
-gem 'mixpanel_client'

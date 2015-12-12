@@ -1,6 +1,0 @@
-gem 'json'
-gem 'oauth2'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'rdiscount'

@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'redis-namespace'
-gem 'eventmachine'
-gem 'json'
-gem 'daemons'
-gem 'ruby-osc'
-gem 'rspec'

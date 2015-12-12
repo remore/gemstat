@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'alovak-network'
-gem 'activesupport'

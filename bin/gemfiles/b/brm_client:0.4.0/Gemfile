@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'bunny'
-gem 'stomp'
-gem 'rest-client'
-gem 'mongo'
-gem 'activesupport'

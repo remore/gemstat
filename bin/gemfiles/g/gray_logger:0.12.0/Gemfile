@@ -1,7 +1,0 @@
-gem 'gelf'
-gem 'minitest'
-gem 'minitest-colorize'
-gem 'guard-minitest'
-gem 'rake'
-gem 'growl'
-gem 'mocha'

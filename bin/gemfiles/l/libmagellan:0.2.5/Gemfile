@@ -1,6 +1,0 @@
-gem 'signet'
-gem 'activesupport'
-gem 'mqtt'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

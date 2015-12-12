@@ -1,6 +1,0 @@
-gem 'pg'
-gem 'aws-sdk'
-gem 'mysql2'
-gem 'td'
-gem 'test-unit'
-gem 'pry'

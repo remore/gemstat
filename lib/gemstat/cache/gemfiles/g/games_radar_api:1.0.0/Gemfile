@@ -1,0 +1,6 @@
+gem 'faraday_middleware'
+gem 'faraday'
+gem 'multi_xml'
+gem 'hashie'
+gem 'turn'
+gem 'rake'

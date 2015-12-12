@@ -1,5 +1,0 @@
-gem 'log4r'
-gem 'faraday'
-gem 'httpclient'
-gem 'bundler'
-gem 'rspec'

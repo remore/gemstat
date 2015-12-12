@@ -1,0 +1,5 @@
+gem 'airplay'
+gem 'ruby-progressbar'
+gem 'rack'
+gem 'webrick'
+gem 'rake'

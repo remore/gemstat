@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'jquery-rails'
+gem 'paperclip'
+gem 'haml'

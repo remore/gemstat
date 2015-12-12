@@ -1,3 +1,0 @@
-gem 'savon'
-gem 'rspec'
-gem 'savon_spec'

@@ -1,4 +1,0 @@
-gem 'ruby-debug'
-gem 'curb'
-gem 'nokogiri'
-gem 'bones'

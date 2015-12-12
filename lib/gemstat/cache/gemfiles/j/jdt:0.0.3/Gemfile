@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'thor'
+gem 'rubyzip'
+gem 'launchy'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'

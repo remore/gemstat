@@ -1,4 +1,0 @@
-gem 'yajl-ruby'
-gem 'nokogiri'
-gem 'rspec'
-gem 'webmock'

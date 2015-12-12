@@ -1,3 +1,0 @@
-gem 'httpi'
-gem 'nokogiri'
-gem 'rspec'

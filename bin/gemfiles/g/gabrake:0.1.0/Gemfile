@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'rails'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

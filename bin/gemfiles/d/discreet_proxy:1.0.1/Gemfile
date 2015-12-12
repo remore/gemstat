@@ -1,5 +1,0 @@
-gem 'chunky_png'
-gem 'rake'
-gem 'bundler'
-gem 'jeweler'
-gem 'cli_test'

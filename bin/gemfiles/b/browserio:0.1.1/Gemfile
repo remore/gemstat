@@ -1,6 +1,0 @@
-gem 'roda'
-gem 'clap'
-gem 'rerun'
-gem 'thin'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'feedjira'
-gem 'whenever'
-gem 'rest-client'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'machinist'

@@ -1,3 +1,0 @@
-gem 'therubyrhino_jar'
-gem 'rspec'
-gem 'mocha'

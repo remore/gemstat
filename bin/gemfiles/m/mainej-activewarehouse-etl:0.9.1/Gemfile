@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'activesupport'
-gem 'activerecord'
-gem 'fastercsv'
-gem 'adapter_extensions'

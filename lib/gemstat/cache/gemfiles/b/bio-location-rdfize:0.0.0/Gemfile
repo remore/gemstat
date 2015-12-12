@@ -1,0 +1,5 @@
+gem 'bio'
+gem 'rake'
+gem 'rdoc'
+gem 'jeweler'
+gem 'bundler'

@@ -1,3 +1,0 @@
-gem 'multi_json'
-gem 'hashie'
-gem 'oauth'

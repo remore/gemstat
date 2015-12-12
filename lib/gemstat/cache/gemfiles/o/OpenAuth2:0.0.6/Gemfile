@@ -1,0 +1,8 @@
+gem 'faraday'
+gem 'activesupport'
+gem 'json'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'timecop'

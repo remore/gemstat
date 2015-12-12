@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'json'
-gem 'shoulda'
-gem 'artifice'

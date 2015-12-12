@@ -1,3 +1,0 @@
-gem 'newrelic_plugin'
-gem 'resque'
-gem 'redis'

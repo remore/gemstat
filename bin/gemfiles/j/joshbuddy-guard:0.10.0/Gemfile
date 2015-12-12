@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'ffi'
-gem 'bundler'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'yard'
-gem 'kramdown'

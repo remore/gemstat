@@ -1,5 +1,0 @@
-gem 'coffee-script'
-gem 'jekyll'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

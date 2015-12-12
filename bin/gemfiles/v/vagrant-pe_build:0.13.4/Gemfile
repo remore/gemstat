@@ -1,4 +1,0 @@
-gem 'progressbar'
-gem 'minitar'
-gem 'rake'
-gem 'rspec'

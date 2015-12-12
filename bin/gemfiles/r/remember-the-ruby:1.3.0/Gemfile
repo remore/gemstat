@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'ddollar-preferences'
-gem 'term-ansicolor'

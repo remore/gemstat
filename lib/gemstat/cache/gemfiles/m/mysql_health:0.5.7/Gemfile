@@ -1,0 +1,6 @@
+gem 'rufus-scheduler'
+gem 'eventmachine'
+gem 'eventmachine_httpserver'
+gem 'json'
+gem 'dbi'
+gem 'mysql'

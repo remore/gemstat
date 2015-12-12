@@ -1,7 +1,0 @@
-gem 'virtus'
-gem 'rails'
-gem 'rspec'
-gem 'sqlite3'
-gem 'pry'
-gem 'activemodel'
-gem 'activesupport'

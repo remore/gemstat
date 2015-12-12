@@ -1,4 +1,0 @@
-gem 'simplecov'
-gem 'minitest'
-gem 'yard'
-gem 'rdiscount'

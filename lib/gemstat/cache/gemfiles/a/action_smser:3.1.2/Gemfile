@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'mocha'
+gem 'sqlite3'
+gem 'rails'
+gem 'delayed_job'

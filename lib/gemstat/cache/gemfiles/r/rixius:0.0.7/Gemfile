@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'haml'
+gem 'data_mapper'
+gem 'aws-s3'

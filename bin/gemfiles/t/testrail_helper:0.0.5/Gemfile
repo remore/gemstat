@@ -1,4 +1,0 @@
-gem 'json'
-gem 'testrail'
-gem 'bundler'
-gem 'rake'

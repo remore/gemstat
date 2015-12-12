@@ -1,5 +1,0 @@
-gem 'rsync'
-gem 'hosts_file'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

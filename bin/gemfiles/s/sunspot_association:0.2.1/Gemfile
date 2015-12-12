@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'sqlite3'
-gem 'sunspot_test'
-gem 'coveralls'
-gem 'activerecord'
-gem 'sunspot_rails'

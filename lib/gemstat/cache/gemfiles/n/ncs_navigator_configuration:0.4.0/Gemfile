@@ -1,0 +1,8 @@
+gem 'ncs_mdes'
+gem 'inifile'
+gem 'fastercsv'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'fakefs'
+gem 'ci_reporter'

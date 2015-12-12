@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'drewda_delayed_job'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'

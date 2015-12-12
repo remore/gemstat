@@ -1,3 +1,0 @@
-gem 'backports'
-gem 'bundler'
-gem 'rake'

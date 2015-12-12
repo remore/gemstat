@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'progressbar'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'yard'
+gem 'minitest'

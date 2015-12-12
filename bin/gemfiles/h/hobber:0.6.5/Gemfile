@@ -1,4 +1,0 @@
-gem 'tilt'
-gem 'thor'
-gem 'active_support'
-gem 'sprockets'

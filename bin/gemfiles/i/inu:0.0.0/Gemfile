@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rcov'
-gem 'yard'
-gem 'machinist'
-gem 'sham'
-gem 'faker'

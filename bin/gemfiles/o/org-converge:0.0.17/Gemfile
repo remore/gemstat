@@ -1,8 +1,0 @@
-gem 'docopt'
-gem 'org-ruby'
-gem 'foreman'
-gem 'tco'
-gem 'rake'
-gem 'diff-lcs'
-gem 'net-ssh'
-gem 'net-scp'

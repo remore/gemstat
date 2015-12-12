@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'kgio'
-gem 'raindrops'
-gem 'test-unit'
-gem 'olddoc'

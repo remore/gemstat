@@ -1,0 +1,5 @@
+gem 'execjs'
+gem 'commonjs'
+gem 'rake'
+gem 'rspec'
+gem 'rr'

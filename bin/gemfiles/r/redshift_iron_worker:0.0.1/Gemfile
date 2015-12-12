@@ -1,5 +1,0 @@
-gem 'pg'
-gem 'net-ssh-gateway'
-gem 'contracts'
-gem 'bundler'
-gem 'rake'

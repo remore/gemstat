@@ -1,5 +1,0 @@
-gem 'redis'
-gem 'gitdb'
-gem 'redis-objects'
-gem 'bundler'
-gem 'rake'

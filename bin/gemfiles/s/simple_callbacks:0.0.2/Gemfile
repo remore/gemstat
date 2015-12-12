@@ -1,4 +1,0 @@
-gem 'aws-sdk'
-gem 'activesupport'
-gem 'activemodel'
-gem 'rspec'

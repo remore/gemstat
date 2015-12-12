@@ -1,7 +1,0 @@
-gem 'cucumber'
-gem 'gem-man'
-gem 'templater'
-gem 'facter'
-gem 'puppet'
-gem 'ronn'
-gem 'rspec'

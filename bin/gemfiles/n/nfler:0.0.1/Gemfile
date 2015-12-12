@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'fuubar'

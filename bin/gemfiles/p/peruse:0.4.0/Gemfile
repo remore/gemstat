@@ -1,7 +1,0 @@
-gem 'json'
-gem 'parslet'
-gem 'elasticsearch'
-gem 'activesupport'
-gem 'chronic'
-gem 'rspec'
-gem 'timecop'

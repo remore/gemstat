@@ -1,4 +1,0 @@
-gem 'rocket_pants'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'yard'

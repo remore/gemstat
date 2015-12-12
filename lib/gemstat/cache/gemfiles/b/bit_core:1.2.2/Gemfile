@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'redcarpet'
+gem 'pg'
+gem 'spring'
+gem 'rspec-rails'

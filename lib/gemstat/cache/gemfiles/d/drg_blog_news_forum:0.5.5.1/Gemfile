@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'drg_cms'

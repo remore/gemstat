@@ -1,0 +1,8 @@
+gem 'http'
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'
+gem 'yard'
+gem 'kramdown'
+gem 'rake'
+gem 'coveralls'

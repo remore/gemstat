@@ -1,7 +1,0 @@
-gem 'httmultiparty'
-gem 'persistent_httparty'
-gem 'virtus'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rubocop'

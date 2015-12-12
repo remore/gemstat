@@ -1,6 +1,0 @@
-gem 'fluentd'
-gem 'fog'
-gem 'yajl-ruby'
-gem 'fluent-mixin-config-placeholders'
-gem 'rake'
-gem 'flexmock'

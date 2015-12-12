@@ -1,2 +1,0 @@
-gem 'statsd-ruby'
-gem 'slop'

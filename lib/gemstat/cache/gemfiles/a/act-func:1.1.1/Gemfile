@@ -1,0 +1,2 @@
+gem 'iconv'
+gem 'rmagick'

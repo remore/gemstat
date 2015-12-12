@@ -1,6 +1,0 @@
-gem 'fluentd'
-gem 'bunny'
-gem 'shoulda'
-gem 'rake'
-gem 'minitest'
-gem 'test-unit'

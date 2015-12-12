@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'yard'
+gem 'kramdown'
+gem 'values'
+gem 'immutable_struct'

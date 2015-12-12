@@ -1,3 +1,0 @@
-gem 'highline'
-gem 'ruby-hmac'
-gem 'backports'

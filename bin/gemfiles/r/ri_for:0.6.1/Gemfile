@@ -1,7 +1,0 @@
-gem 'rdoc'
-gem 'rdp-arguments'
-gem 'ParseTree'
-gem 'ruby2ruby'
-gem 'sane'
-gem 'rubydoctest'
-gem 'ffi'

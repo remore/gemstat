@@ -1,0 +1,8 @@
+gem 'haml'
+gem 'mida_vocabulary'
+gem 'chronic_duration'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'nokogiri'
+gem 'sqlite3'

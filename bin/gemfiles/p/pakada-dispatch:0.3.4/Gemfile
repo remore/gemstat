@@ -1,8 +1,0 @@
-gem 'pakada'
-gem 'http_router'
-gem 'multi_json'
-gem 'rack'
-gem 'rspec'
-gem 'yard'
-gem 'rdiscount'
-gem 'pakada-render'

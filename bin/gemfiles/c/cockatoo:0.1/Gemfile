@@ -1,5 +1,0 @@
-gem 'daemons'
-gem 'log4r'
-gem 'eventmachine'
-gem 'yajl-ruby'
-gem 'htmlentities'

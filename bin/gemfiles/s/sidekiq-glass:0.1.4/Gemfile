@@ -1,2 +1,0 @@
-gem 'sidekiq'
-gem 'null-logger'

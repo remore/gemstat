@@ -1,0 +1,6 @@
+gem 'mail'
+gem 'gmail_xoauth'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'gem-release'

@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'coffeelint'
-gem 'bundler'
-gem 'rake'

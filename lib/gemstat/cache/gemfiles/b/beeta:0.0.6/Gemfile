@@ -1,0 +1,5 @@
+gem 'watts'
+gem 'json'
+gem 'sequel'
+gem 'sqlite3'
+gem 'gitolite'

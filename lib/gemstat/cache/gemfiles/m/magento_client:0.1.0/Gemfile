@@ -1,0 +1,5 @@
+gem 'oauth'
+gem 'httparty'
+gem 'http-cookie'
+gem 'nokogiri'
+gem 'multi_json'

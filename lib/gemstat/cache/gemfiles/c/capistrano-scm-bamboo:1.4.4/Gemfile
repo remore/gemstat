@@ -1,0 +1,4 @@
+gem 'capistrano'
+gem 'json'
+gem 'typhoeus'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'log4r'
+gem 'mixlib-shellout'
+gem 'versionomy'
+gem 'rake'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'

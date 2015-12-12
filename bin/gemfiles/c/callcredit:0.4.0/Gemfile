@@ -1,6 +1,0 @@
-gem 'faraday_middleware'
-gem 'multi_xml'
-gem 'nokogiri'
-gem 'unicode_utils'
-gem 'rspec'
-gem 'webmock'

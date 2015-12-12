@@ -1,0 +1,6 @@
+gem 'parallel_tests'
+gem 'gherkin'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

@@ -1,4 +1,0 @@
-gem 'slop'
-gem 'win-path-utils'
-gem 'bundler'
-gem 'rake'

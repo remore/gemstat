@@ -1,0 +1,4 @@
+gem 'test-kitchen'
+gem 'net-sftp'
+gem 'bundler'
+gem 'rake'

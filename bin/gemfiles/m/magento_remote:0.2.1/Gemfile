@@ -1,6 +1,0 @@
-gem 'mechanize'
-gem 'terminal-table'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'inifile'

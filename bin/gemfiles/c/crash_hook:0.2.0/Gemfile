@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'fakeweb'
-gem 'rest-client'
-gem 'multi_json'

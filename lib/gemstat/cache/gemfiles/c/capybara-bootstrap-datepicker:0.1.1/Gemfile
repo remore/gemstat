@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'rspec'
+gem 'capybara-screenshot'
+gem 'phantomjs'
+gem 'poltergeist'

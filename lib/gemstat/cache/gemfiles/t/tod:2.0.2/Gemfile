@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'tzinfo'
+gem 'rake'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'pry'

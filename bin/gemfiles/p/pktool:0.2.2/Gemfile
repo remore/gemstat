@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'termcolorlight'
-gem 'thor'
-gem 'romaji'

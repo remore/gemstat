@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'pry-byebug'
-gem 'benchmark-ips'
-gem 'stackprof'

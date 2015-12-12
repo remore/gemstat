@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'bundler'
-gem 'artii'
-gem 'cucumber'
-gem 'aruba'

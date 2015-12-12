@@ -1,0 +1,5 @@
+gem 'aws-sdk'
+gem 'hashie'
+gem 'random-word'
+gem 'commander'
+gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'activerecord-database_comments'
-gem 'activerecord-database_unsigned_columns'
-gem 'activerecord-database_schema'
-gem 'mysql2'

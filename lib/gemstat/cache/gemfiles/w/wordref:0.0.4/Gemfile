@@ -1,0 +1,4 @@
+gem 'multi_json'
+gem 'attempt'
+gem 'nokogiri'
+gem 'rspec'

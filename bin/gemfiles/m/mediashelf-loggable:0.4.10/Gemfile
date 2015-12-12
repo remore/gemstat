@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'RedCloth'
-gem 'test-unit'
-gem 'minitest'
-gem 'mocha'
-gem 'thoughtbot-shoulda'

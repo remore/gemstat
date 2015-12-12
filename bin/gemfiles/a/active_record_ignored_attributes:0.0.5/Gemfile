@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'facets'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'
-gem 'mysql2'
-gem 'rr'
-gem 'activesupport'

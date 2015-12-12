@@ -1,7 +1,0 @@
-gem 'safe_yaml'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'multi_json'
-gem 'pry'

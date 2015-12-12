@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'brakeman'
-gem 'slim'
-gem 'flog'
-gem 'flay'

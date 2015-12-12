@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'eventmachine'
-gem 'i18n'
-gem 'simplecov'
-gem 'coveralls'
-gem 'rspec-core'
-gem 'rspec'

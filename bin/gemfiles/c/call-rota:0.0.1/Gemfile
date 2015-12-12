@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'gem_publisher'
-gem 'pry'

@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'
-gem 'cinch-test'
-gem 'cinch'
-gem 'cinch-cooldown'
-gem 'cinch-toolbox'

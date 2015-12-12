@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'
-gem 'rspec'
-gem 'simplecov'
-gem 'github_changelog_generator'
-gem 'lita'
-gem 'faker'

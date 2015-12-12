@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'activeadmin'
+gem 'ckeditor'
+gem 'sqlite3'

@@ -1,5 +1,0 @@
-gem 'rspec-core'
-gem 'girls_just_want_to_have_puns'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

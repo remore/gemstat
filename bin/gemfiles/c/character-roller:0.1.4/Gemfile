@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'pry'
-gem 'pry-coolline'
-gem 'pry-syntax-hacks'
-gem 'watson-ruby'
-gem 'thor'
-gem 'true-random'

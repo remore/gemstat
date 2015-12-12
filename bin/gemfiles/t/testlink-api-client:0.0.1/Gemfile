@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'autotest-growl'
-gem 'autotest'
-gem 'cucumber'

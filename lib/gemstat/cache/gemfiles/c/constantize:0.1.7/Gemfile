@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'rspec'
+gem 'sqlite3-ruby'
+gem 'mocha'
+gem 'wirble'
+gem 'awesome_print'
+gem 'gem-release'

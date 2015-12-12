@@ -1,5 +1,0 @@
-gem 'cinch'
-gem 'nokogiri'
-gem 'coveralls'
-gem 'jeweler'
-gem 'rspec'

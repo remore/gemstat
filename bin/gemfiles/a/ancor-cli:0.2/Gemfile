@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'formatador'
-gem 'thor'
-gem 'rspec'

@@ -1,7 +1,0 @@
-gem 'rbss'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

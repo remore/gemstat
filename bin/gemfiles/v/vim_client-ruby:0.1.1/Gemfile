@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rake-compiler'
-gem 'rspec'
-gem 'yard'
-gem 'redcarpet'

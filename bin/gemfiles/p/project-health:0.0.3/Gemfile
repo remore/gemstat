@@ -1,3 +1,0 @@
-gem 'octokit'
-gem 'activesupport'
-gem 'hirb'

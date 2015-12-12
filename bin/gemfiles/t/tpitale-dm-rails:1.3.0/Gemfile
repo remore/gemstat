@@ -1,5 +1,0 @@
-gem 'tpitale-dm-active_model'
-gem 'actionpack'
-gem 'railties'
-gem 'rake'
-gem 'rspec'

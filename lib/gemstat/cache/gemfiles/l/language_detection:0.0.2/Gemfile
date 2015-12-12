@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'rake'
+gem 'shoulda'
+gem 'mocha'
+gem 'turn'

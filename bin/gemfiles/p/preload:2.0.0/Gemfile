@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'wwtd'
-gem 'bump'
-gem 'sqlite3'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-rg'
-gem 'will_paginate'

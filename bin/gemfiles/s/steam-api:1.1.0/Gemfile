@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'
-gem 'faraday'
-gem 'multi_json'
-gem 'json'

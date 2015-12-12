@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'picky'
-gem 'picky-client'

@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'simple_record'
+gem 'activemodel'
+gem 'json'
+gem 'rspec'
+gem 'jeweler'
+gem 'rcov'

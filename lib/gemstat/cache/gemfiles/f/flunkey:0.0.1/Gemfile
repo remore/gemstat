@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'activesupport'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-partial'

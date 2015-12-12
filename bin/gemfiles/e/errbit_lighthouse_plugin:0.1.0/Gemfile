@@ -1,4 +1,0 @@
-gem 'errbit_plugin'
-gem 'lighthouse-api'
-gem 'bundler'
-gem 'rake'

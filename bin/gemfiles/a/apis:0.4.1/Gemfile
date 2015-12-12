@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'sinatra'
-gem 'rack-test'
-gem 'unicorn'
-gem 'multi_json'
-gem 'yajl-ruby'
-gem 'addressable'

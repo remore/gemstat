@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'multipart-post'
-gem 'mimemagic'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

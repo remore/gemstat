@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'fakie'
-gem 'redis'
-gem 'redis-namespace'
-gem 'base62'
-gem 'multi_json'

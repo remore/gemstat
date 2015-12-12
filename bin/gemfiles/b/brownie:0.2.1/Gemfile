@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'rest_client'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

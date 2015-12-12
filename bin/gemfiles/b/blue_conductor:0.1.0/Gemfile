@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'nokogiri'
-gem 'vcr'
-gem 'fakeweb'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'log-me'
-gem 'pry'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'vcr'

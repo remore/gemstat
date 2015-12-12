@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'httmultiparty'
-gem 'psych'
-gem 'rack'

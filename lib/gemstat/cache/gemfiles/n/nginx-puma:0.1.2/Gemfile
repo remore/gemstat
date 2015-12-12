@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'puma'
+gem 'bundler'
+gem 'rake'

@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'em-synchrony'
-gem 'em-zmq-tp10'

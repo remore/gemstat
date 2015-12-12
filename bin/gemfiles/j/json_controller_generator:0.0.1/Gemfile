@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'cucumber'
-gem 'bump'
-gem 'aruba'
-gem 'rspec-rails'

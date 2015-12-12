@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

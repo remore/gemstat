@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'slack-notifier'
-gem 'bundler'
-gem 'rake'

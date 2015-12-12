@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'daemon-spawn'
+gem 'delayed_job'
+gem 'friendly_id'
+gem 'hashie'
+gem 'fakeweb'
+gem 'hoe'

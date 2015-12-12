@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'mocha'
+gem 'rake'
+gem 'activerecord'
+gem 'railties'
+gem 'activemodel'
+gem 'actionpack'
+gem 'activesupport'

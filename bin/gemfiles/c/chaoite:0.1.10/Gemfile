@@ -1,7 +1,0 @@
-gem 'json'
-gem 'jsonpath'
-gem 'graphite-api'
-gem 'byebug'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

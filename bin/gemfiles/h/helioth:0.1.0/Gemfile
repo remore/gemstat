@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'i18n'
-gem 'rails'
-gem 'sqlite3'
-gem 'pry'
-gem 'rspec-rails'
-gem 'coveralls'

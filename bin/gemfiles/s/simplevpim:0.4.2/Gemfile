@@ -1,5 +1,0 @@
-gem 'kvx'
-gem 'vpim'
-gem 'rexle-builder'
-gem 'nokogiri'
-gem 'hlt'

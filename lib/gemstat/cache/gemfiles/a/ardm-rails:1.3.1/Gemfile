@@ -1,0 +1,6 @@
+gem 'ardm-core'
+gem 'ardm-active_model'
+gem 'actionpack'
+gem 'railties'
+gem 'rake'
+gem 'rspec'

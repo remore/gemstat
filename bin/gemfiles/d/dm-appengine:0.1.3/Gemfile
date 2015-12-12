@@ -1,3 +1,0 @@
-gem 'appengine-apis'
-gem 'dm-core'
-gem 'lexidecimal'

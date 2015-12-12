@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'sqlite3'
-gem 'activerecord-jdbcsqlite3-adapter'

@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'bower-rails'
-gem 'haml'
-gem 'haml-rails'
-gem 'sass-rails'
-gem 'coffee-rails'
-gem 'sqlite3'

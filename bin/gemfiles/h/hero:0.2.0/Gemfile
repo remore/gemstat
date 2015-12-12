@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'coveralls'
-gem 'pry'
-gem 'pry-stack_explorer'
-gem 'pry-rescue'
-gem 'pry-test'
-gem 'spoof'

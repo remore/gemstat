@@ -1,3 +1,0 @@
-gem 'log4r'
-gem 'nokogiri'
-gem 'builder'

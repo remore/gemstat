@@ -1,5 +1,0 @@
-gem 'tog_core'
-gem 'seo_urls'
-gem 'attachment_fu'
-gem 'acts_as_rateable'
-gem 'acts_as_taggable_on_steroids'

@@ -1,6 +1,0 @@
-gem 'json'
-gem 'sinatra'
-gem 'thin'
-gem 'rspec'
-gem 'rspec-given'
-gem 'rack-test'

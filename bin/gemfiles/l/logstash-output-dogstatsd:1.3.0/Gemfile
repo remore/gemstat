@@ -1,5 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-input-generator'
-gem 'dogstatsd-ruby'
-gem 'logstash-devutils'
-gem 'overcommit'

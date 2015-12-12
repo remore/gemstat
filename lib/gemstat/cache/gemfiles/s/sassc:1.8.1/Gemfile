@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'minitest'
+gem 'minitest-around'
+gem 'test_construct'
+gem 'pry'
+gem 'bundler'
+gem 'ffi'
+gem 'sass'

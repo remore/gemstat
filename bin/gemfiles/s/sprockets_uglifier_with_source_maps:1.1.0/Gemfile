@@ -1,4 +1,0 @@
-gem 'sprockets-rails'
-gem 'uglifier'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'pluginfactory'
-gem 'ruby-cache'
-gem 'configurability'
-gem 'formvalidator'

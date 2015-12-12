@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'ruby-opengl2'
-gem 'ruby-gsl-ng'

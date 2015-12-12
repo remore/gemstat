@@ -1,6 +1,0 @@
-gem 'jeweler'
-gem 'appraisal'
-gem 'minitest'
-gem 'mocha'
-gem 'rubigen'
-gem 'shoulda-context'

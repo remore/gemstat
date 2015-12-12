@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rest-client'
-gem 'activemodel'
-gem 'json'

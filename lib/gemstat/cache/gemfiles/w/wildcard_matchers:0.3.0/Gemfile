@@ -1,0 +1,8 @@
+gem 'facets'
+gem 'addressable'
+gem 'rake'
+gem 'rspec'
+gem 'autowatchr'
+gem 'pry'
+gem 'tapp'
+gem 'coveralls'

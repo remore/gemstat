@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'rake'
-gem 'moneta'
-gem 'dalli'

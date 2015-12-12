@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rest-client'
-gem 'rubyzip'
-gem 'aws-sdk'

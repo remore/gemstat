@@ -1,0 +1,4 @@
+gem 'colored'
+gem 'highline'
+gem 'bundler'
+gem 'rake'

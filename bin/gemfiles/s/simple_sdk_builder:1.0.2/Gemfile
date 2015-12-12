@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'json'
-gem 'simply_configurable'
-gem 'typhoeus'

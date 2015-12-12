@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'thor'
-gem 'guard'
-gem 'guard-test'

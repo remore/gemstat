@@ -1,7 +1,0 @@
-gem 'remarkable_activemodel'
-gem 'bson_ext'
-gem 'activesupport'
-gem 'mongoid'
-gem 'rspec'
-gem 'bourne'
-gem 'ruby-debug19'

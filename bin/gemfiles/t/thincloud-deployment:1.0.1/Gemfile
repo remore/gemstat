@@ -1,7 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-fast_remote_cache'
-gem 'flowdock'
-gem 'grit'
-gem 'rvm-capistrano'
-gem 'rake'
-gem 'thincloud-test'

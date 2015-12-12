@@ -1,0 +1,4 @@
+gem 'sprockets'
+gem 'therubyracer'
+gem 'rspec'
+gem 'rails'

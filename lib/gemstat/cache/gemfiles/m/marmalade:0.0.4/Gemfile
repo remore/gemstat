@@ -1,0 +1,4 @@
+gem 'trollop'
+gem 'parallel'
+gem 'rspec'
+gem 'mocha'

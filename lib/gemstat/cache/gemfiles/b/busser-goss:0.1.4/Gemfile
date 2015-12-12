@@ -1,0 +1,7 @@
+gem 'busser'
+gem 'bundler'
+gem 'rake'
+gem 'aruba'
+gem 'cane'
+gem 'tailor'
+gem 'countloc'

@@ -1,4 +1,0 @@
-gem 'github-markup'
-gem 'redcarpet'
-gem 'echoe'
-gem 'rake'

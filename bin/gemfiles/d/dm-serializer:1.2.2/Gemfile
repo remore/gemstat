@@ -1,7 +1,0 @@
-gem 'fastercsv'
-gem 'multi_json'
-gem 'json'
-gem 'json_pure'
-gem 'dm-core'
-gem 'rake'
-gem 'rspec'

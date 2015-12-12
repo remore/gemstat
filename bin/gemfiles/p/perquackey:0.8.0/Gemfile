@@ -1,5 +1,0 @@
-gem 'json'
-gem 'sinatra'
-gem 'optparse-defaults'
-gem 'ronn'
-gem 'shoe'

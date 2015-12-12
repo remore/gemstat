@@ -1,0 +1,8 @@
+gem 'open4'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'simplecov'
+gem 'json'
+gem 'rack'
+gem 'thin'

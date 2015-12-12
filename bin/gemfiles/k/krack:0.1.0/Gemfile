@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'multi_json'
-gem 'rake'
-gem 'minitest'
-gem 'rack-test'

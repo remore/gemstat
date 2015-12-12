@@ -1,4 +1,0 @@
-gem 'celluloid-io'
-gem 'yajl-ruby'
-gem 'bundler'
-gem 'rake'

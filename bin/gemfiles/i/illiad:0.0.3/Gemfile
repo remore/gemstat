@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'activerecord'
-gem 'activerecord-sqlserver-adapter'
-gem 'tiny_tds'

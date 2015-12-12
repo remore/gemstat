@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'jferris-mocha'
+gem 'memcached'
+gem 'sequel'
+gem 'activesupport'
+gem 'will_paginate'
+gem 'rufus-json'

@@ -1,4 +1,0 @@
-gem 'infrataster'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

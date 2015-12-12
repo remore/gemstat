@@ -1,8 +1,0 @@
-gem 'spree_essentials'
-gem 'acts-as-taggable-on'
-gem 'shoulda'
-gem 'dummier'
-gem 'factory_girl'
-gem 'capybara'
-gem 'selenium-webdriver'
-gem 'sqlite3'

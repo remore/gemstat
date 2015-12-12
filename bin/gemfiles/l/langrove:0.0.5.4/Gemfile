@@ -1,6 +1,0 @@
-gem 'eventmachine'
-gem 'em-http-request'
-gem 'em-websocket'
-gem 'eventmachine_httpserver'
-gem 'daemon-kit'
-gem 'awesome_print'

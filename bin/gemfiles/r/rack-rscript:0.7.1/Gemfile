@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'app-routes'
-gem 'rscript'
-gem 'haml'
-gem 'tilt'
-gem 'slim'

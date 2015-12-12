@@ -1,7 +1,0 @@
-gem 'rrrretry'
-gem 'excon'
-gem 'mocha'
-gem 'rake'
-gem 'vcr'
-gem 'webmock'
-gem 'dotenv'

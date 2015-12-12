@@ -1,0 +1,7 @@
+gem 'brazilian-rails'
+gem 'ffaker'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'pry'

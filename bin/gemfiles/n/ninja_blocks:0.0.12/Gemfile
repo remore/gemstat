@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'rest-client'
-gem 'json'
-gem 'activesupport'
-gem 'chronic'

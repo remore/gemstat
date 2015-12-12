@@ -1,4 +1,0 @@
-gem 'listen'
-gem 'uglifier'
-gem 'gzip'
-gem 'jshintrb'

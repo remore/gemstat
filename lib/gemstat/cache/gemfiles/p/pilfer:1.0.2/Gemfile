@@ -1,0 +1,2 @@
+gem 'rblineprof'
+gem 'bundler'

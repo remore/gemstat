@@ -1,0 +1,4 @@
+gem 'harness'
+gem 'resque'
+gem 'bundler'
+gem 'rake'

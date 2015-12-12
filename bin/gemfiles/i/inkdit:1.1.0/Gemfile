@@ -1,5 +1,0 @@
-gem 'oauth2'
-gem 'yard'
-gem 'rspec'
-gem 'sinatra'
-gem 'haml'

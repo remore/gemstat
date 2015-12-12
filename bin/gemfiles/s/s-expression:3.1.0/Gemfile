@@ -1,3 +1,0 @@
-gem 'infraruby-shim'
-gem 'infraruby-task'
-gem 'rspec'

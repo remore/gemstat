@@ -1,8 +1,0 @@
-gem 'minitest'
-gem 'mocha'
-gem 'rake'
-gem 'shoulda-context'
-gem 'midi-eye'
-gem 'midi-fx'
-gem 'midi-message'
-gem 'unimidi'

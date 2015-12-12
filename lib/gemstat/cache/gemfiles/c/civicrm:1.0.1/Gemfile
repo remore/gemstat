@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'activesupport'
+gem 'activemodel'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'

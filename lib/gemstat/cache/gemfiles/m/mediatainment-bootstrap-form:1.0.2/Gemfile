@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'actionpack'
+gem 'minitest'
+gem 'rr'

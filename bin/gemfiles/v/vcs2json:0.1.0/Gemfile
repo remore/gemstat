@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'thor'
-gem 'require_all'
-gem 'json_pure'

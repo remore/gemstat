@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'webmock'
-gem 'rake'
-gem 'minitest'

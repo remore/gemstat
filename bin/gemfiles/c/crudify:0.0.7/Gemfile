@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'will_paginate'
-gem 'meta_search'
-gem 'shoulda'
-gem 'sqlite3-ruby'
-gem 'capybara'
-gem 'selenium-webdriver'

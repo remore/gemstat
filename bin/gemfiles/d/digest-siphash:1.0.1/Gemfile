@@ -1,5 +1,0 @@
-gem 'digest-simple'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rake-compiler'

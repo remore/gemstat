@@ -1,8 +1,0 @@
-gem 'fluentd'
-gem 'mysql2-cs-bind'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'spork'
-gem 'pry'
-gem 'test-unit'

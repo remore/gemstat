@@ -1,6 +1,0 @@
-gem 'adhearsion'
-gem 'activesupport'
-gem 'mongoid'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

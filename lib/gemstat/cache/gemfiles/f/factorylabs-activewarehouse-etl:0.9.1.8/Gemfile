@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'activesupport'
+gem 'activerecord'
+gem 'fastercsv'
+gem 'factorylabs-adapter_extensions'

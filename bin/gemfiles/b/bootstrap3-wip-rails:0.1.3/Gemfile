@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'less-rails'
-gem 'bundler'
-gem 'rake'
-gem 'less-rails'

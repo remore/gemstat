@@ -1,4 +1,0 @@
-gem 'hashie'
-gem 'combustion'
-gem 'rails'
-gem 'rspec-rails'

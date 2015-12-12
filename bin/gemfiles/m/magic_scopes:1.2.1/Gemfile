@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'rails'
-gem 'sqlite3'
-gem 'state_machine'
-gem 'rspec-rails'

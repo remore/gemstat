@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'activemodel'
-gem 'actionpack'
-gem 'activesupport'
-gem 'mocha'

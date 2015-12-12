@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'activemodel'
-gem 'bundler'
-gem 'jeweler'
-gem 'turn'
-gem 'vcr'
-gem 'webmock'

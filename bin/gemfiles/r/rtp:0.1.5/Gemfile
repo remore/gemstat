@@ -1,8 +1,0 @@
-gem 'bindata'
-gem 'log_switch'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'tailor'
-gem 'yard'

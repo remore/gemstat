@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'log4r'
-gem 'nokogiri'
-gem 'utf8cleaner'

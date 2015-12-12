@@ -1,5 +1,0 @@
-gem 'sinatra'
-gem 'configure'
-gem 'gom'
-gem 'rspec'
-gem 'reek'

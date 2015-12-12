@@ -1,4 +1,0 @@
-gem 'carrierwave'
-gem 'azure'
-gem 'rake'
-gem 'rspec'

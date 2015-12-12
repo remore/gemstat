@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'minitest'
+gem 'rubocop'
+gem 'timecop'
+gem 'mocha'

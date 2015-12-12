@@ -1,8 +1,0 @@
-gem 'rubysl-cgi'
-gem 'rubysl-erb'
-gem 'rubysl-singleton'
-gem 'bundler'
-gem 'rake'
-gem 'mspec'
-gem 'rubysl-webrick'
-gem 'rubysl-prettyprint'

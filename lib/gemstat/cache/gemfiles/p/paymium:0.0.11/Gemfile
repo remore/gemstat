@@ -1,0 +1,8 @@
+gem 'oj'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'yard'
+gem 'coveralls'
+gem 'vcr'
+gem 'webmock'

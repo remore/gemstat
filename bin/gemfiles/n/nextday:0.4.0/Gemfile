@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'rake'
-gem 'rack-test'
-gem 'json'
-gem 'rack'

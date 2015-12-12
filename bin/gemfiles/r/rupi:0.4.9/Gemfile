@@ -1,3 +1,0 @@
-gem 'daemons'
-gem 'thor'
-gem 'rake'

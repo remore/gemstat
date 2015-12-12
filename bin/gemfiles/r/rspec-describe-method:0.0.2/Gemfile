@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'guard'
-gem 'guard-rspec'
-gem 'guard-bundler'
-gem 'growl'

@@ -1,0 +1,5 @@
+gem 'benchmark-ips'
+gem 'chartkick'
+gem 'minitest'
+gem 'rdoc'
+gem 'rake'

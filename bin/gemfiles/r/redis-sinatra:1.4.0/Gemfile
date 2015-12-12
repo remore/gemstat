@@ -1,6 +1,0 @@
-gem 'redis-store'
-gem 'sinatra'
-gem 'rake'
-gem 'bundler'
-gem 'mocha'
-gem 'minitest'

@@ -1,5 +1,0 @@
-gem 'json'
-gem 'rest-client'
-gem 'rake'
-gem 'contest'
-gem 'fakeweb'

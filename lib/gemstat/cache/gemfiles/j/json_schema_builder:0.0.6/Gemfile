@@ -1,0 +1,8 @@
+gem 'json'
+gem 'gli'
+gem 'activesupport'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3'

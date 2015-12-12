@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'stomp_droid'
-gem 'pry'
-gem 'celluloid'
-gem 'stomp'

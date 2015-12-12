@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'power_assert'
-gem 'bundler'
-gem 'rake'

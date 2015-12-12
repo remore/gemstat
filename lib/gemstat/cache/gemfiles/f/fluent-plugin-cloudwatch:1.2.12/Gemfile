@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'aws-sdk-v1'
+gem 'rake'
+gem 'test-unit'

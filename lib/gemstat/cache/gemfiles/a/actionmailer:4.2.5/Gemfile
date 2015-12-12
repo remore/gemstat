@@ -1,0 +1,5 @@
+gem 'actionpack'
+gem 'actionview'
+gem 'activejob'
+gem 'mail'
+gem 'rails-dom-testing'

@@ -1,0 +1,5 @@
+gem 'htmlentities'
+gem 'mechanize'
+gem 'rake'
+gem 'rspec'
+gem 'echoe'

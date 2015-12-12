@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'guard-compat'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'launchy'

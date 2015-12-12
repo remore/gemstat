@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'json'
+gem 'rails'
+gem 'mongoid'

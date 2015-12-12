@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'excon'
-gem 'webmock'
-gem 'simplecov'
-gem 'codeclimate-test-reporter'
-gem 'yard'

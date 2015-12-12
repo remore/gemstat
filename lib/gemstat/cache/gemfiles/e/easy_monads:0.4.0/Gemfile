@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'shoulda'
+gem 'shared_should'
+gem 'always_execute'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rdoc'

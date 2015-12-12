@@ -1,6 +1,0 @@
-gem 'pry'
-gem 'pry-stack_explorer'
-gem 'minitest'
-gem 'pry'
-gem 'yard'
-gem 'kramdown'

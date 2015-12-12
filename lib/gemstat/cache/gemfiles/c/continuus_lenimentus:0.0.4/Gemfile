@@ -1,0 +1,5 @@
+gem 'simplecov'
+gem 'gibberish'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

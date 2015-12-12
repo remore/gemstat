@@ -1,5 +1,0 @@
-gem 'resque'
-gem 'activesupport'
-gem 'rufus-scheduler'
-gem 'jeweler'
-gem 'mocha'

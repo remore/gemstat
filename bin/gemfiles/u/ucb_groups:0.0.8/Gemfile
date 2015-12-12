@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rest-client'
-gem 'json'
-gem 'ucb_ldap'
-gem 'net-ldap'

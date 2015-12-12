@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'colorize'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'debugger'
-gem 'interactive_editor'

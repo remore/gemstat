@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'httparty'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'rake'

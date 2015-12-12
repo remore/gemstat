@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'builder'
-gem 'hpricot'
-gem 'rtf'
-gem 'rcov'
-gem 'rspec'

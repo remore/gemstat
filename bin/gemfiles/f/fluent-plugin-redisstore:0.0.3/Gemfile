@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'shoulda'
-gem 'fluentd'
-gem 'redis'

@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'octokit'
+gem 'resque'
+gem 'hashie'
+gem 'mocha'
+gem 'resque-mock'

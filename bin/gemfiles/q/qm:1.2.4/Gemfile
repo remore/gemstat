@@ -1,7 +1,0 @@
-gem 'bson_ext'
-gem 'json'
-gem 'httparty'
-gem 'mongo'
-gem 'sinatra'
-gem 'sinatra-cross_origin'
-gem 'unicorn'

@@ -1,7 +1,0 @@
-gem 'state_machine'
-gem 'rake'
-gem 'rspec'
-gem 'flexmock'
-gem 'guard'
-gem 'growl'
-gem 'yard'

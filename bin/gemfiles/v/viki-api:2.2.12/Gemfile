@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'timecop'
-gem 'oj'
-gem 'typhoeus'
-gem 'ethon'
-gem 'addressable'
-gem 'viki_utils'

@@ -1,0 +1,5 @@
+gem 'appraisal'
+gem 'rails'
+gem 'mocha'
+gem 'rake'
+gem 'test-unit'

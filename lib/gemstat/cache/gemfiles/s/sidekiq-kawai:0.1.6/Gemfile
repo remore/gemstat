@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'sidekiq'
+gem 'rspec'
+gem 'rake'

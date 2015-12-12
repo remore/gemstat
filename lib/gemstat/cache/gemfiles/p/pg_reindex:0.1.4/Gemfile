@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'pg'
+gem 'rspec'
+gem 'rake'
+gem 'activerecord'

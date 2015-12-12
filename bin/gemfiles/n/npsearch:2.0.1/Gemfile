@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'coveralls'
-gem 'bio'
-gem 'slim'

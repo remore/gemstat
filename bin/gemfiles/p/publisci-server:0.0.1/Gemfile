@@ -1,8 +1,0 @@
-gem 'bio-publisci'
-gem 'slop'
-gem 'sinatra'
-gem 'sinatra-linkeddata'
-gem 'sinatra-cross_origin'
-gem 'rack-flash3'
-gem 'bundler'
-gem 'rake'

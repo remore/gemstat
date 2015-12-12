@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'null_logger'
-gem 'rake'

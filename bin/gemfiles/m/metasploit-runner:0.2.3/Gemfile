@@ -1,4 +1,0 @@
-gem 'msfrpc-client'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

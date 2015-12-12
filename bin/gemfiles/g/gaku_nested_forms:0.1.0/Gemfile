@@ -1,3 +1,0 @@
-gem 'gaku_forms'
-gem 'nested_form'
-gem 'rails4_client_side_validations'

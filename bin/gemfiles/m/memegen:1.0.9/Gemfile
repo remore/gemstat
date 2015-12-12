@@ -1,4 +1,0 @@
-gem 'rmagick'
-gem 'tinder'
-gem 'multipart-post'
-gem 'highlight'

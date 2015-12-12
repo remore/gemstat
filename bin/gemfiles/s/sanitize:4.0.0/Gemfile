@@ -1,7 +1,0 @@
-gem 'crass'
-gem 'nokogiri'
-gem 'nokogumbo'
-gem 'minitest'
-gem 'rake'
-gem 'redcarpet'
-gem 'yard'

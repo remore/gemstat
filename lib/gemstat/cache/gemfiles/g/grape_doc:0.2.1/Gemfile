@@ -1,0 +1,4 @@
+gem 'grape'
+gem 'trollop'
+gem 'json'
+gem 'rspec'

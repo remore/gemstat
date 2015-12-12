@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'abstract'
+gem 'nokogiri'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

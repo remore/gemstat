@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'aruba'
+gem 'mocha'
+gem 'rake'
+gem 'mail'
+gem 'methadone'

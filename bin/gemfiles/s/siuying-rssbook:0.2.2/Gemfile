@@ -1,3 +1,0 @@
-gem 'prawn'
-gem 'feed-normalizer'
-gem 'hpricot'

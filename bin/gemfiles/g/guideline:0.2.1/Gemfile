@@ -1,4 +1,0 @@
-gem 'code_analyzer'
-gem 'rspec'
-gem 'pry'
-gem 'simplecov'

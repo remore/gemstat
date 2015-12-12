@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'redcarpet'
-gem 'activesupport'
-gem 'rubyzip'
-gem 'georuby'
-gem 'dbf'

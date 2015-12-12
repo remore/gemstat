@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'bluecloth'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'multi_xml'
-gem 'hashie'
-gem 'rash'

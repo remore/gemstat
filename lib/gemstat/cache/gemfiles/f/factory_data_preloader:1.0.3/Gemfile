@@ -1,0 +1,5 @@
+gem 'shoulda'
+gem 'mocha'
+gem 'activerecord'
+gem 'activesupport'
+gem 'sqlite3-ruby'

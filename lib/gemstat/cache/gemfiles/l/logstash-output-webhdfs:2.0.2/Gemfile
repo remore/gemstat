@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'webhdfs'
+gem 'snappy'
+gem 'logstash-devutils'
+gem 'logstash-codec-line'
+gem 'logstash-codec-json'

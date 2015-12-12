@@ -1,0 +1,6 @@
+gem 'log4r'
+gem 'shoulda'
+gem 'shoulda-context'
+gem 'rdoc'
+gem 'jeweler'
+gem 'simplecov'

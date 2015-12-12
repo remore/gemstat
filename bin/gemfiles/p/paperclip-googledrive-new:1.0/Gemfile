@@ -1,3 +1,0 @@
-gem 'paperclip'
-gem 'google-api-client'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'database_cleaner'
-gem 'orm_adapter'

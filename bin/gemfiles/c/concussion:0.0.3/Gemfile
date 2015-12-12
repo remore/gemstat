@@ -1,4 +1,0 @@
-gem 'sucker_punch'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

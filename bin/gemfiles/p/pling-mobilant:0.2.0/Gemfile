@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'rake'
-gem 'pling'

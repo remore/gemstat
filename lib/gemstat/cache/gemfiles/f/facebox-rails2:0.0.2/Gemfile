@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rails'
+gem 'haml-rails'

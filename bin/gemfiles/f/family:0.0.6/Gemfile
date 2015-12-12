@@ -1,5 +1,0 @@
-gem 'validation'
-gem 'declare'
-gem 'yard'
-gem 'rake'
-gem 'bundler'

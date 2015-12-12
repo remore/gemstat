@@ -1,0 +1,5 @@
+gem 'unicode_utils'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

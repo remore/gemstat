@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'leadersend'
-gem 'pg'
-gem 'pry'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'dotenv-rails'

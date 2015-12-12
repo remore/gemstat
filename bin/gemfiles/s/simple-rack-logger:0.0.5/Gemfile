@@ -1,7 +1,0 @@
-gem 'uuid'
-gem 'simplecov'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rb-inotify'
-gem 'guard-bundler'
-gem 'rack-test'

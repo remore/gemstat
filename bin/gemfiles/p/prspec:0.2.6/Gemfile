@@ -1,3 +1,0 @@
-gem 'log4r'
-gem 'parallel'
-gem 'rspec'

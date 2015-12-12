@@ -1,0 +1,7 @@
+gem 'isna'
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'yard'
+gem 'redcarpet'
+gem 'guard-rspec'

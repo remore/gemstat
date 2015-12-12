@@ -1,3 +1,0 @@
-gem 'json'
-gem 'omniauth-oauth'
-gem 'bundler'

@@ -1,2 +1,0 @@
-gem 'fog-aws'
-gem 'rspec'

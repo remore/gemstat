@@ -1,0 +1,5 @@
+gem 'bert'
+gem 'rack'
+gem 'bundler'
+gem 'rspec'
+gem 'rack-test'

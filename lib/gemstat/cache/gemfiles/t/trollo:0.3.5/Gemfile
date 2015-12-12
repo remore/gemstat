@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'activerecord'
+gem 'i18n'
+gem 'workflow'
+gem 'acts_as_commentable'
+gem 'search_cop'
+gem 'combustion'
+gem 'database_cleaner'

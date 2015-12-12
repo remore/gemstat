@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'amqp'

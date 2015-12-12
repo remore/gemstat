@@ -1,6 +1,0 @@
-gem 'rack-plastic'
-gem 'fastimage'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'gli'
-gem 'celluloid'
-gem 'rainbow'

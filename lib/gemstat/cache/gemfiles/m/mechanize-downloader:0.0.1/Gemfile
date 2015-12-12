@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'progressbar'
+gem 'httpclient'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

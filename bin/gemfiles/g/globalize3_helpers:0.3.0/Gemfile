@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'globalize3'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

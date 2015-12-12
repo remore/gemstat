@@ -1,6 +1,0 @@
-gem 'ffi-rzmq'
-gem 'thor'
-gem 'cucumber'
-gem 'aruba'
-gem 'rake'
-gem 'rspec'

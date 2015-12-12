@@ -1,4 +1,0 @@
-gem 'rev'
-gem 'bson_ext'
-gem 'rspec'
-gem 'yard'

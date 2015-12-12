@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'thor'
+gem 'parallel'
+gem 'roo'
+gem 'activesupport'
+gem 'rspec'

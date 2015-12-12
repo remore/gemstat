@@ -1,0 +1,5 @@
+gem 'mspire'
+gem 'rubabel'
+gem 'rspec'
+gem 'jeweler'
+gem 'rcov'

@@ -1,7 +1,0 @@
-gem 'oauth'
-gem 'oauth'
-gem 'railties'
-gem 'activesupport'
-gem 'activesupport'
-gem 'webmock'
-gem 'rspec'

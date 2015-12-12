@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

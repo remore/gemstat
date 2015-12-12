@@ -1,3 +1,0 @@
-gem 'refinerycms-pages'
-gem 'refinerycms-testing'
-gem 'shoulda-matchers'

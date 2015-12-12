@@ -1,0 +1,5 @@
+gem 'addressable'
+gem 'link_header'
+gem 'mynyml-rack-respond_to'
+gem 'newgem'
+gem 'hoe'

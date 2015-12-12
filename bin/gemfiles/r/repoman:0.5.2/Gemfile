@@ -1,8 +1,0 @@
-gem 'grit'
-gem 'map'
-gem 'sinatra'
-gem 'rugged'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'pry'
-gem 'jasmine'

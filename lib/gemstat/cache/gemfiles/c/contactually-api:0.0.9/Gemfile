@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'faraday'
+gem 'roar'
+gem 'pry-byebug'
+gem 'rake'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'builder'
+gem 'json'
+gem 'right_api_client'
+gem 'octokit'
+gem 'thor'
+gem 'nokogiri'

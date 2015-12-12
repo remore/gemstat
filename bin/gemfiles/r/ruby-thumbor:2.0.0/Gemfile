@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'listen'
-gem 'rake'

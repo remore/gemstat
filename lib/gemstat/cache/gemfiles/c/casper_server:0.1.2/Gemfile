@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rack-test'
+gem 'bundler'
+gem 'sinatra'
+gem 'casperreports'

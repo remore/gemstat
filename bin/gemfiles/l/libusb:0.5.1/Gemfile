@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'rake-compiler'
-gem 'rake-compiler-dock'
-gem 'bundler'

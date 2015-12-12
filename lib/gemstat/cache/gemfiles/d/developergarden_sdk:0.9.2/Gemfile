@@ -1,0 +1,4 @@
+gem 'httpclient'
+gem 'nokogiri'
+gem 'handsoap'
+gem 'htmlentities'

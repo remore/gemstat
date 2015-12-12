@@ -1,0 +1,5 @@
+gem 'nanoc'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'bluecloth'

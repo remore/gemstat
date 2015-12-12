@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'hydra-access-controls'
-gem 'jettywrapper'
-gem 'active-fedora'
-gem 'sqlite3'
-gem 'yard'
-gem 'rspec-rails'
-gem 'factory_girl_rails'

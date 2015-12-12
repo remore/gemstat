@@ -1,3 +1,0 @@
-gem 'activeresource'
-gem 'rspec'
-gem 'rake'

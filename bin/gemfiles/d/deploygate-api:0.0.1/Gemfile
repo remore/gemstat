@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

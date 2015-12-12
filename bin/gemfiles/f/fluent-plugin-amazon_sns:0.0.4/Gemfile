@@ -1,4 +1,0 @@
-gem 'fluentd'
-gem 'aws-sdk-v1'
-gem 'bundler'
-gem 'rake'

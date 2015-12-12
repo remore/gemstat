@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'database_cleaner'
+gem 'activerecord'

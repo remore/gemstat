@@ -1,5 +1,0 @@
-gem 'rb-inotify'
-gem 'libusb'
-gem 'yajl-ruby'
-gem 'sys-proctable'
-gem 'pry'

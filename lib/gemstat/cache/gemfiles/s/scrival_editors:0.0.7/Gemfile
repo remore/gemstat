@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'coffee-rails'
+gem 'scrival_sdk'
+gem 'jquery-ui-rails'
+gem 'pry'
+gem 'rspec-rails'

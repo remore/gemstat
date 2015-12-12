@@ -1,6 +1,0 @@
-gem 'aws-sdk'
-gem 'boxxspring'
-gem 'redis'
-gem 'remote_syslog_logger'
-gem 'pry'
-gem 'pry-byebug'

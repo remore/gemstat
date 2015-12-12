@@ -1,0 +1,6 @@
+gem 'middleman-core'
+gem 'builder'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'nokogiri'

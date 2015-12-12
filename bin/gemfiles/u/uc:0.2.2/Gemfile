@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'posix_mq'
-gem 'nakayoshi_fork'

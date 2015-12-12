@@ -1,0 +1,5 @@
+gem 'paypal-express'
+gem 'paypal_adaptive'
+gem 'rspec'
+gem 'rdoc'
+gem 'jeweler'

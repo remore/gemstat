@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-nc'
-gem 'nokogiri'
-gem 'open_uri_redirections'
-gem 'public_suffix'
-gem 'json'

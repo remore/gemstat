@@ -1,0 +1,6 @@
+gem 'logworm_amqp'
+gem 'json'
+gem 'ruby-hmac'
+gem 'logworm_amqp'
+gem 'json'
+gem 'ruby-hmac'

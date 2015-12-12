@@ -1,3 +1,0 @@
-gem 'nori'
-gem 'synapse_redis_logger'
-gem 'redis'

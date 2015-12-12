@@ -1,3 +1,0 @@
-gem 'yard'
-gem 'kramdown'
-gem 'rake-compiler'

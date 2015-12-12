@@ -1,8 +1,0 @@
-gem 'haml'
-gem 'haml-contrib'
-gem 'actionpack'
-gem 'gettext'
-gem 'fast_gettext'
-gem 'rspec'
-gem 'rdoc'
-gem 'maruku'

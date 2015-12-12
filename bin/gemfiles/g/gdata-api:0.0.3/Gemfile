@@ -1,6 +1,0 @@
-gem 'blankslate'
-gem 'nokogiri'
-gem 'tagged_logger'
-gem 'thoughtbot-shoulda'
-gem 'jeweler'
-gem 'redis'

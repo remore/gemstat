@@ -1,4 +1,0 @@
-gem 'execjs'
-gem 'tilt'
-gem 'bundler'
-gem 'rake'

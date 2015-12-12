@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'activerecord'
-gem 'railties'
-gem 'rspec'
-gem 'sqlite3'
-gem 'rails'
-gem 'rake'

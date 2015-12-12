@@ -1,6 +1,0 @@
-gem 'sauce'
-gem 'capybara'
-gem 'thor'
-gem 'arbre'
-gem 'rainbow'
-gem 'rack-proxy'

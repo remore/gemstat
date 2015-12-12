@@ -1,0 +1,5 @@
+gem 'eventmachine-le'
+gem 'yajl-ruby'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'

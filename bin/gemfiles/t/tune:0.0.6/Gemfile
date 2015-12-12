@@ -1,5 +1,0 @@
-gem 'ruby-dbus'
-gem 'thor'
-gem 'rspec'
-gem 'rake'
-gem 'rdoc'

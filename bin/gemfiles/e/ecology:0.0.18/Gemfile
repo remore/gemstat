@@ -1,6 +1,0 @@
-gem 'multi_json'
-gem 'erubis'
-gem 'bundler'
-gem 'scope'
-gem 'mocha'
-gem 'rake'

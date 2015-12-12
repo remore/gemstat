@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'thor'
-gem 'mini_magick'

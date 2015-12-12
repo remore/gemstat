@@ -1,4 +1,0 @@
-gem 'bindata'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

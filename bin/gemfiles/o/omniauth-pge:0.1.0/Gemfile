@@ -1,8 +1,0 @@
-gem 'omniauth-oauth2'
-gem 'bundler'
-gem 'coveralls'
-gem 'rack-test'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'webmock'

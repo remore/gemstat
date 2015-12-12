@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'pry'
-gem 'minitest'
-gem 'minitest-spec'
-gem 'minitest-rg'

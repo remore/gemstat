@@ -1,5 +1,0 @@
-gem 'fluent-logger'
-gem 'zabbix_receiver'
-gem 'slop'
-gem 'bundler'
-gem 'rake'

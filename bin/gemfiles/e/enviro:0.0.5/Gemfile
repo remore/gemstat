@@ -1,6 +1,0 @@
-gem 'cucumber'
-gem 'rspec'
-gem 'autotest-standalone'
-gem 'autotest-growl'
-gem 'simplecov'
-gem 'ruby-debug19'

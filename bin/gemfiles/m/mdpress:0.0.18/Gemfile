@@ -1,4 +1,0 @@
-gem 'redcarpet'
-gem 'trollop'
-gem 'launchy'
-gem 'httparty'

@@ -1,0 +1,6 @@
+gem 'sidekiq'
+gem 'bundler'
+gem 'rake'
+gem 'rack-test'
+gem 'sprockets'
+gem 'sinatra'

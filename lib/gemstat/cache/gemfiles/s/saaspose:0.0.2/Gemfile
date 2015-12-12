@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'confiture'
+gem 'vcr'
+gem 'webmock'
+gem 'rspec'
+gem 'pry'

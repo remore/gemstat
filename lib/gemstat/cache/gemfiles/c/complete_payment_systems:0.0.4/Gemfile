@@ -1,0 +1,6 @@
+gem 'unirest'
+gem 'activesupport'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

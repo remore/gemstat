@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'jbuilder'
-gem 'sinatra'
-gem 'redcarpet'

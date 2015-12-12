@@ -1,8 +1,0 @@
-gem 'sshkit'
-gem 'bundler'
-gem 'coveralls'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'mocha'
-gem 'rubocop'

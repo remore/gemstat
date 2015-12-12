@@ -1,4 +1,0 @@
-gem 'oauth'
-gem 'oauth2'
-gem 'oj'
-gem 'nokogiri'

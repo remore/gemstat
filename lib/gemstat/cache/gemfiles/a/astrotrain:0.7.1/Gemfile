@@ -1,0 +1,7 @@
+gem 'utf8'
+gem 'mail'
+gem 'i18n'
+gem 'faraday'
+gem 'addressable'
+gem 'charlock_holmes'
+gem 'resque'

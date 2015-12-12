@@ -1,4 +1,0 @@
-gem 'thrift-adamd'
-gem 'rake'
-gem 'rack'
-gem 'thin'

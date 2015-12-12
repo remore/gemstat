@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'webmock'
-gem 'minitest-reporters'

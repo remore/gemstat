@@ -1,4 +1,0 @@
-gem 'heroku'
-gem 'rubyforge'
-gem 'gemcutter'
-gem 'hoe'

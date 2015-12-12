@@ -1,0 +1,6 @@
+gem 'bogo-cli'
+gem 'miasma'
+gem 'miasma-aws'
+gem 'net-ssh'
+gem 'sparkle_formation'
+gem 'hashdiff'

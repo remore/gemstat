@@ -1,7 +1,0 @@
-gem 'resque'
-gem 'redphone'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'yard'
-gem 'redcarpet'

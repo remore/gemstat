@@ -1,5 +1,0 @@
-gem 'json'
-gem 'options'
-gem 'orderedhash'
-gem 'tzinfo'
-gem 'mechanize'

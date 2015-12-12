@@ -1,8 +1,0 @@
-gem 'tidy'
-gem 'scrapi'
-gem 'tzinfo'
-gem 'htmlentities'
-gem 'minitest'
-gem 'turn'
-gem 'yard'
-gem 'jeweler'

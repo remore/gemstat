@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'dotenv-rails'
-gem 'fog-azure'
-gem 'azure'

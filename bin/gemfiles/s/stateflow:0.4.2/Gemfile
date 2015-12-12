@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'activerecord'
-gem 'mongoid'
-gem 'sqlite3-ruby'

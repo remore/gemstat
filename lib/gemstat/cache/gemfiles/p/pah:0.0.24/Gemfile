@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'colored'
+gem 'bundler'
+gem 'rake'
+gem 'aruba'
+gem 'thor'
+gem 'pry'

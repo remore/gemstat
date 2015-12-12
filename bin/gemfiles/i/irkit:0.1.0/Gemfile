@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'dnssd'
-gem 'httparty'
-gem 'json'
-gem 'hashie'
-gem 'args_parser'

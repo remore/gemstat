@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'debugger'
+gem 'simplecov'
+gem 'yard'
+gem 'redcarpet'
+gem 'configuration'

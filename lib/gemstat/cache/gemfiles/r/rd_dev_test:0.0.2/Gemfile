@@ -1,0 +1,4 @@
+gem 'highrise'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

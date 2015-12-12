@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'remote_table'
-gem 'to_regexp'

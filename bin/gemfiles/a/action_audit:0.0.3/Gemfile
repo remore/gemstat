@@ -1,4 +1,0 @@
-gem 'micromachine'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

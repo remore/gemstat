@@ -1,3 +1,0 @@
-gem 'librato-metrics'
-gem 'hetchy'
-gem 'minitest'

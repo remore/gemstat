@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'actionview'
+gem 'activejob'
+gem 'bundler'
+gem 'rake'
+gem 'mocha'

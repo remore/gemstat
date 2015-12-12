@@ -1,5 +1,0 @@
-gem 'codefumes'
-gem 'serialport'
-gem 'hoe-git'
-gem 'rspec'
-gem 'hoe'

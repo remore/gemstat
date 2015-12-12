@@ -1,0 +1,8 @@
+gem 'architecture-js'
+gem 'ejs'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'jasmine'
+gem 'nyan-cat-formatter'
+gem 'architecture-js'

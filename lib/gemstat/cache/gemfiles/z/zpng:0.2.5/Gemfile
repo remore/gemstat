@@ -1,0 +1,5 @@
+gem 'rainbow'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'what_methods'

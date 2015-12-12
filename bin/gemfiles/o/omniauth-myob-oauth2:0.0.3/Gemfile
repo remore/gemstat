@@ -1,4 +1,0 @@
-gem 'omniauth'
-gem 'omniauth-oauth2'
-gem 'rake'
-gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'rdbi'
-gem 'ruby-odbc'
-gem 'rdbi-dbrc'
-gem 'rspec'
-gem 'yard'

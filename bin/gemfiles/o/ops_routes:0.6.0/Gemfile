@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'haml'
-gem 'rspec'
-gem 'rack-test'
-gem 'rspec_tag_matchers'

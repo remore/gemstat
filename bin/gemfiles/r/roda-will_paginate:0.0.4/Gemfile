@@ -1,4 +1,0 @@
-gem 'roda'
-gem 'will_paginate'
-gem 'bundler'
-gem 'rake'

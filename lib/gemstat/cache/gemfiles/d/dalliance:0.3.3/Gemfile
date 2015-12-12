@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'state_machine'
+gem 'rspec'
+gem 'delayed_job'
+gem 'delayed_job_active_record'
+gem 'sqlite3'
+gem 'resque'

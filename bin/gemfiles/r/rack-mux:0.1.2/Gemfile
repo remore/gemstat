@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'rack-client'
-gem 'rspec'
-gem 'rake'
-gem 'json'
-gem 'mongrel'
-gem 'ruby-debug'

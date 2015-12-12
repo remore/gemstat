@@ -1,0 +1,5 @@
+gem 'cql-rb'
+gem 'activemodel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

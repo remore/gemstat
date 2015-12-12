@@ -1,5 +1,0 @@
-gem 'addressable'
-gem 'highline'
-gem 'rest-client'
-gem 'aws-sdk-v1'
-gem 'dotenv'

@@ -1,0 +1,7 @@
+gem 'aws-sdk'
+gem 'builder'
+gem 'jeweler'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'rspec-spies'
+gem 'rcov'

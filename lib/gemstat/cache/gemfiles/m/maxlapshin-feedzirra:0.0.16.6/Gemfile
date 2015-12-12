@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'pauldix-sax-machine'
+gem 'builder'
+gem 'activesupport'
+gem 'mdalessio-dryopteris'

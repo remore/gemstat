@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'cover_me'
-gem 'shoulda'
-gem 'mocha'
-gem 'bundler'
-gem 'jeweler'
-gem 'rest-client'

@@ -1,8 +1,0 @@
-gem 'axlsx'
-gem 'activerecord'
-gem 'i18n'
-gem 'rake'
-gem 'bundler'
-gem 'sqlite3'
-gem 'yard'
-gem 'rdiscount'

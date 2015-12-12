@@ -1,0 +1,4 @@
+gem 'gem_loader'
+gem 'actionpack'
+gem 'addressable'
+gem 'rspec'

@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'appraisal'
+gem 'activesupport'
+gem 'json'
+gem 'virtus'
+gem 'coercible'

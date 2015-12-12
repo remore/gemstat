@@ -1,0 +1,6 @@
+gem 'globalize'
+gem 'globalize-accessors'
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'minitest'

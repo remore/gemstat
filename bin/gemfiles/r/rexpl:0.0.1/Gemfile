@@ -1,5 +1,0 @@
-gem 'ansi'
-gem 'minitest'
-gem 'mocha'
-gem 'yard'
-gem 'bluecloth'

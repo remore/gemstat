@@ -1,0 +1,2 @@
+gem 'kaminari'
+gem 'coffee-rails'

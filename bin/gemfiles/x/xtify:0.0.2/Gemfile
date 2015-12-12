@@ -1,6 +1,0 @@
-gem 'curb'
-gem 'activesupport'
-gem 'shoulda-context'
-gem 'bundler'
-gem 'jeweler'
-gem 'webmock'

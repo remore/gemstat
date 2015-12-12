@@ -1,4 +1,0 @@
-gem 'guid'
-gem 'nokogiri'
-gem 'json'
-gem 'macaddr'

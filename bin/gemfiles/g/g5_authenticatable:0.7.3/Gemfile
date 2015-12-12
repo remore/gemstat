@@ -1,6 +1,0 @@
-gem 'devise_g5_authenticatable'
-gem 'omniauth-g5'
-gem 'g5_authenticatable_api'
-gem 'rolify'
-gem 'pundit'
-gem 'g5_updatable'

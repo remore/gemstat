@@ -1,5 +1,0 @@
-gem 'faraday'
-gem 'nokogiri'
-gem 'rspec'
-gem 'awesome_print'
-gem 'rake'

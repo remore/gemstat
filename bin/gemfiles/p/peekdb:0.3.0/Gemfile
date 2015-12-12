@@ -1,4 +1,0 @@
-gem 'ruby-graphviz'
-gem 'pg'
-gem 'rake'
-gem 'rspec'

@@ -1,0 +1,2 @@
+gem 'ember-auth-session-cookie-source'
+gem 'rails'

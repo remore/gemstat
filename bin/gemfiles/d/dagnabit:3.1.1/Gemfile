@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'autotest'
-gem 'bluecloth'
-gem 'cucumber'
-gem 'rake'
-gem 'rspec'
-gem 'pg'
-gem 'yard'

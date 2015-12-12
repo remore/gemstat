@@ -1,6 +1,0 @@
-gem 'pakyow-support'
-gem 'pakyow-core'
-gem 'pakyow-presenter'
-gem 'slim'
-gem 'rake'
-gem 'minitest'

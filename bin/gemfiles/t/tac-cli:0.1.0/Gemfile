@@ -1,8 +1,0 @@
-gem 'json_pure'
-gem 'progressbar'
-gem 'terminal-table'
-gem 'paint'
-gem 'interact'
-gem 'libxml-ruby'
-gem 'uuidtools'
-gem 'rest-client'

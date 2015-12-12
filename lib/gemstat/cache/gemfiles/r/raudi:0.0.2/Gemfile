@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'guard-rspec'
+gem 'fuubar'
+gem 'ruby_gntp'
+gem 'ruby-debug19'

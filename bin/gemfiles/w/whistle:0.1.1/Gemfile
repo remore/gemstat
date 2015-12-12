@@ -1,3 +1,0 @@
-gem 'htmlentities'
-gem 'activesupport'
-gem 'xmpp4r-simple'

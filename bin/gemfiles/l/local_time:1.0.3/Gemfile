@@ -1,5 +1,0 @@
-gem 'coffee-rails'
-gem 'rails'
-gem 'rails-dom-testing'
-gem 'blade'
-gem 'blade-sauce_labs_plugin'

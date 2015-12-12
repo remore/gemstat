@@ -1,4 +1,0 @@
-gem 'simple_api_client'
-gem 'curb'
-gem 'bundler'
-gem 'rake'

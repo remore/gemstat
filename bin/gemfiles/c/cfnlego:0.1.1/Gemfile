@@ -1,4 +1,0 @@
-gem 'ruby-beautify'
-gem 'bundler'
-gem 'rake'
-gem 'cfndsl'

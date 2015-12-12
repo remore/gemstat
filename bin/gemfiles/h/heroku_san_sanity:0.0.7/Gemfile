@@ -1,4 +1,0 @@
-gem 'heroku'
-gem 'heroku_san'
-gem 'highline'
-gem 'hpricot'

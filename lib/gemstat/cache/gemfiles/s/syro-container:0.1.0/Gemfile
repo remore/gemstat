@@ -1,0 +1,6 @@
+gem 'syro'
+gem 'dry-container'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'

@@ -1,4 +1,0 @@
-gem 'newgem'
-gem 'rspec'
-gem 'mocha'
-gem 'hoe'

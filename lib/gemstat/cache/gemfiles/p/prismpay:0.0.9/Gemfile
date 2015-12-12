@@ -1,0 +1,2 @@
+gem 'activemerchant'
+gem 'savon'

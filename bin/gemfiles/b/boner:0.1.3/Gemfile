@@ -1,8 +1,0 @@
-gem 'middleman'
-gem 'rb-inotify'
-gem 'sass'
-gem 'therubyracer'
-gem 'coffee-filter'
-gem 'underscore-source'
-gem 'backbone-source'
-gem 'jquery-source'

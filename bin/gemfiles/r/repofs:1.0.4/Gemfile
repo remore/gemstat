@@ -1,7 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'repofs-api-client'
-gem 'commander'
-gem 'settingslogic'
-gem 'bundler'
-gem 'jeweler'

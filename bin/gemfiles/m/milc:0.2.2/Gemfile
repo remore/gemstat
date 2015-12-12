@@ -1,5 +1,0 @@
-gem 'logger_pipe'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

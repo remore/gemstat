@@ -1,6 +1,0 @@
-gem 'amqp'
-gem 'xmpp4r'
-gem 'eventmachine'
-gem 'mail'
-gem 'sqlite3'
-gem 'rake'

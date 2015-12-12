@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'rspec'
-gem 'timecop'
-gem 'ruby-debug19'

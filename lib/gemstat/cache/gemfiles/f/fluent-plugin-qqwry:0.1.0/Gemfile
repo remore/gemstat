@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'fluentd'
+gem 'fluent-mixin-rewrite-tag-name'
+gem 'qqwry'

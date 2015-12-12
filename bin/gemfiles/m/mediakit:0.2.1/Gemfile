@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'cool.io'
-gem 'rake'
-gem 'pry'
-gem 'ruby-debug-ide'
-gem 'yard'
-gem 'rubocop'
-gem 'minitest-power_assert'

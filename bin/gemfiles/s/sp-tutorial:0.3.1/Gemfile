@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'sinatra'
-gem 'rdiscount'
-gem 'ultraviolet'
-gem 'rack-codehighlighter'
-gem 'sinatra-rdiscount'
-gem 'sinatra-static-assets'

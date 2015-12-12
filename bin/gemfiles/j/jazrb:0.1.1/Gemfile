@@ -1,4 +1,0 @@
-gem 'envjs'
-gem 'smparkes-eventmachine'
-gem 'nokogiri'
-gem 'ragaskar-jsdoc_helper'

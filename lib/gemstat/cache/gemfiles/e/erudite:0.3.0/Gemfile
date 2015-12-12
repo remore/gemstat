@@ -1,0 +1,5 @@
+gem 'parser'
+gem 'coveralls'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

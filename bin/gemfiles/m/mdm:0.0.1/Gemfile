@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'houston'
-gem 'confiture'
-gem 'plist'
-gem 'sqlite3'

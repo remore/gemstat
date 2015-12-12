@@ -1,5 +1,0 @@
-gem 'json'
-gem 'nokogiri'
-gem 'zip'
-gem 'multi_xml'
-gem 'httparty'

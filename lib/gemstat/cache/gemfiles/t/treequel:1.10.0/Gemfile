@@ -1,0 +1,8 @@
+gem 'ruby-ldap'
+gem 'loggability'
+gem 'hoe-mercurial'
+gem 'hoe-highline'
+gem 'rdoc'
+gem 'rspec'
+gem 'sequel'
+gem 'hoe'

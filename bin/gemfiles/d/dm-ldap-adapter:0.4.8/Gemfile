@@ -1,8 +1,0 @@
-gem 'net-ldap'
-gem 'slf4r'
-gem 'dm-core'
-gem 'dm-transactions'
-gem 'dm-sqlite-adapter'
-gem 'dm-migrations'
-gem 'rspec'
-gem 'ruby-ldap'

@@ -1,3 +1,0 @@
-gem 'dat-worker-pool'
-gem 'assert'
-gem 'scmd'

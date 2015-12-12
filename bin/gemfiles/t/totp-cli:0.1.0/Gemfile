@@ -1,8 +1,0 @@
-gem 'slop'
-gem 'rotp'
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'rubygems-tasks'
-gem 'pry'

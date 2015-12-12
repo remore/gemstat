@@ -1,7 +1,0 @@
-gem 'configurethis'
-gem 'net-ping'
-gem 'activesupport'
-gem 'redis'
-gem 'mattsnyder-stately'
-gem 'bundler'
-gem 'rake'

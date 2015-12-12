@@ -1,8 +1,0 @@
-gem 'builder'
-gem 'crack'
-gem 'httpi'
-gem 'gyoku'
-gem 'rspec'
-gem 'autotest'
-gem 'mocha'
-gem 'timecop'

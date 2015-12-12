@@ -1,0 +1,6 @@
+gem 'riot'
+gem 'nokogiri'
+gem 'rdiscount'
+gem 'mustache'
+gem 'hashie'
+gem 'haml'

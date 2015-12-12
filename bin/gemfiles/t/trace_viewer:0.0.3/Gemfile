@@ -1,4 +1,0 @@
-gem 'launchy'
-gem 'haml'
-gem 'redparse'
-gem 'coderay'

@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'httparty'
-gem 'minitest'
-gem 'purdytest'

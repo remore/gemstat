@@ -1,7 +1,0 @@
-gem 'swineherd'
-gem 'configliere'
-gem 'rake'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

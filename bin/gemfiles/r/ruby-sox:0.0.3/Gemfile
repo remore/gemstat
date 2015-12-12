@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'yard'
-gem 'guard-rspec'
-gem 'metric_fu'

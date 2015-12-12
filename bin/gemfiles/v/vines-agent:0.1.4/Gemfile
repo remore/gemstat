@@ -1,7 +1,0 @@
-gem 'blather'
-gem 'ohai'
-gem 'session'
-gem 'slave'
-gem 'vines'
-gem 'minitest'
-gem 'rake'

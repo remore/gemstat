@@ -1,6 +1,0 @@
-gem 'savon'
-gem 'xpath'
-gem 'sax-machine'
-gem 'libxml-ruby'
-gem 'rake'
-gem 'pry'

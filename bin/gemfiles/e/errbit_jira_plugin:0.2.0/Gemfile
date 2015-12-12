@@ -1,4 +1,0 @@
-gem 'errbit_plugin'
-gem 'jira-ruby'
-gem 'bundler'
-gem 'rake'

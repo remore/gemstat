@@ -1,0 +1,5 @@
+gem 'htmlcompressor'
+gem 'eco'
+gem 'rake'
+gem 'rspec'
+gem 'execjs'

@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'
-gem 'json-schema'
-gem 'ruby-prof'
-gem 'pry'

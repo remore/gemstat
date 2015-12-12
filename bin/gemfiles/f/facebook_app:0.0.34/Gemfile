@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'delayed_job'
-gem 'state_machine'
-gem 'koala'
-gem 'slim-rails'
-gem 'rubber'
-gem 'configurable_engine'
-gem 'formtastic'

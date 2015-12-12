@@ -1,8 +1,0 @@
-gem 'lita'
-gem 'nokogiri'
-gem 'httparty'
-gem 'bundler'
-gem 'pry-byebug'
-gem 'rake'
-gem 'rack-test'
-gem 'rspec'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thor'
-gem 'lame'
-gem 'httparty'
-gem 'httmultiparty'

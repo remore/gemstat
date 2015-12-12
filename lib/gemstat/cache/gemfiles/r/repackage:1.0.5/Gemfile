@@ -1,0 +1,4 @@
+gem 'extracter'
+gem 'colours'
+gem 'cliner'
+gem 'remove_file_suffix'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'activerecord'
-gem 'mysql2'
-gem 'rspec-rails'

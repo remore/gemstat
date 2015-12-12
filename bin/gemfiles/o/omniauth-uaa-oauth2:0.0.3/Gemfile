@@ -1,5 +1,0 @@
-gem 'omniauth'
-gem 'cf-uaa-lib'
-gem 'cf-uaa-lib'
-gem 'rspec'
-gem 'rake'

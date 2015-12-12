@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'activesupport'
+gem 'activemodel'
+gem 'rspec'
+gem 'faker'
+gem 'rake'

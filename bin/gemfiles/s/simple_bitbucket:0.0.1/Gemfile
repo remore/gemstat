@@ -1,4 +1,0 @@
-gem 'jeweler'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'

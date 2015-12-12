@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-html-matchers'
-gem 'rspec-action_view'
-gem 'yard'

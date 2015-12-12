@@ -1,0 +1,6 @@
+gem 'tco'
+gem 'rmagick'
+gem 'docopt'
+gem 'ruby-terminfo'
+gem 'bundler'
+gem 'rake'

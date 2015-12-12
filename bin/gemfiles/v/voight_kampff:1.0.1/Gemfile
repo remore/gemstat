@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'rails'
-gem 'rspec-rails'
-gem 'combustion'

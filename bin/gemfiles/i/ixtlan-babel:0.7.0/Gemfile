@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'multi_json'
-gem 'virtus'

@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'minitest'
-gem 'pry'
-gem 'rake'

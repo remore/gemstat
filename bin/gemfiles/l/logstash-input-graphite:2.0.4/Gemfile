@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-input-tcp'
-gem 'logstash-devutils'

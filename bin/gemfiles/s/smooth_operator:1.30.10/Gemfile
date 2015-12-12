@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'json'
-gem 'faraday'
-gem 'typhoeus'

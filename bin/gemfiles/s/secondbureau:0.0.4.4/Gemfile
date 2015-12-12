@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'haml-rails'
-gem 'highline'
-gem 'hpricot'
-gem 'ruby_parser'
-gem 'sass-rails'
-gem 'bootstrap-sass'
-gem 'pry-debugger'

@@ -1,7 +1,0 @@
-gem 'parallel'
-gem 'chef'
-gem 'knife-ec2'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

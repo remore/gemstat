@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'devise'
+gem 'piggybak'
+gem 'sqlite3'
+gem 'rails_admin'

@@ -1,4 +1,0 @@
-gem 'geocoder'
-gem 'rspec'
-gem 'rake'
-gem 'guard-rspec'

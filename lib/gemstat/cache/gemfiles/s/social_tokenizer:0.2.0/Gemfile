@@ -1,0 +1,8 @@
+gem 'activemodel'
+gem 'tokenizer'
+gem 'social_tokenizer'
+gem 'rspec'
+gem 'cucumber'
+gem 'bundler'
+gem 'jeweler'
+gem 'coveralls'

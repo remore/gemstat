@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'rake'
-gem 'sqlite3'
-gem 'sequel'
-gem 'caliph'
-gem 'valise'

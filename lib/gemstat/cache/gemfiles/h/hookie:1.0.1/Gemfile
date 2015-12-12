@@ -1,0 +1,5 @@
+gem 'grit'
+gem 'diff-lcs'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

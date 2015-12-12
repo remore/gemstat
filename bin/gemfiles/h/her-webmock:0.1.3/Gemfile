@@ -1,5 +1,0 @@
-gem 'her'
-gem 'webmock'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

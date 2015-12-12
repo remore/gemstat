@@ -1,0 +1,5 @@
+gem 'taskmapper'
+gem 'rspec'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rcov'

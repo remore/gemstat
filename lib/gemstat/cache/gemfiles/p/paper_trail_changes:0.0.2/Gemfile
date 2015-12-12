@@ -1,0 +1,5 @@
+gem 'string-cases'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

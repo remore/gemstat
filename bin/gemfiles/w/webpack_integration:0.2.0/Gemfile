@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'maxitest'
-gem 'mocha'
-gem 'rails'
-gem 'rack-test'
-gem 'pry'

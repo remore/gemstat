@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'bundler'
+gem 'rake'
+gem 'rack-test'
+gem 'sinatra'

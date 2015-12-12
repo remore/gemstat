@@ -1,3 +1,0 @@
-gem 'sqlite3'
-gem 'bundler'
-gem 'jeweler'

@@ -1,5 +1,0 @@
-gem 'bitarray'
-gem 'rake'
-gem 'yard'
-gem 'minitest'
-gem 'minitest-reporters'

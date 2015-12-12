@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'dante'
-gem 'open4'
-gem 'god'
-gem 'amqp'
-gem 'json'

@@ -1,6 +1,0 @@
-gem 'haml'
-gem 'activesupport'
-gem 'actionpack'
-gem 'rirfe'
-gem 'rails'
-gem 'bundler'

@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'heroku'
-gem 'rush'
-gem 'delayed_job'
-gem 'rspec'

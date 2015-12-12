@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'multi_json'
-gem 'plek'
-gem 'rake'
-gem 'gem_publisher'
-gem 'rspec'
-gem 'webmock'

@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'activesupport'
-gem 'opensips-pi'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rack-test'

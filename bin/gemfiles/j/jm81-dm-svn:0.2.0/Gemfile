@@ -1,4 +1,0 @@
-gem 'dm-core'
-gem 'dm-aggregates'
-gem 'dm-validations'
-gem 'jm81-svn-fixture'

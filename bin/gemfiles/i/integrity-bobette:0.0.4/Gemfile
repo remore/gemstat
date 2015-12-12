@@ -1,5 +1,0 @@
-gem 'bob'
-gem 'rack'
-gem 'rack-test'
-gem 'json'
-gem 'beacon'

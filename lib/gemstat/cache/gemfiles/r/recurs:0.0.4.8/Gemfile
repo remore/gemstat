@@ -1,0 +1,6 @@
+gem 'ri_cal'
+gem 'haml'
+gem 'rspec'
+gem 'aruba'
+gem 'rake'
+gem 'cucumber'

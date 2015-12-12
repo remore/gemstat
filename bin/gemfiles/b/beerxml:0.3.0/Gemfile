@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'dm-core'
-gem 'dm-validations'
-gem 'rspec'
-gem 'autotest-standalone'
-gem 'autotest-growl'
-gem 'rcov'
-gem 'yard'

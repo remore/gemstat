@@ -1,5 +1,0 @@
-gem 'trollop'
-gem 'nmatrix'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

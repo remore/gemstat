@@ -1,0 +1,6 @@
+gem 'json_pure'
+gem 'rdf'
+gem 'addressable'
+gem 'yard'
+gem 'rspec'
+gem 'rdf-spec'

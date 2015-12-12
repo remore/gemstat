@@ -1,3 +1,0 @@
-gem 'dropmyemail-openstack'
-gem 'rspec'
-gem 'shoulda'

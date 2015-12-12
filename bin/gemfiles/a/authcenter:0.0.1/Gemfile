@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'tiny_passport'
-gem 'sqlite3'

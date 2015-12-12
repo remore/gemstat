@@ -1,3 +1,0 @@
-gem 'oauth'
-gem 'activeresource'
-gem 'jwagener-multipart-post'

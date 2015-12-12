@@ -1,0 +1,6 @@
+gem 'redcarpet'
+gem 'nokogiri'
+gem 'uv'
+gem 'rdoc'
+gem 'rake'
+gem 'minitest'

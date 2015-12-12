@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'colorize'
+gem 'json_schema'
+gem 'thor'
+gem 'bundler'
+gem 'rake'

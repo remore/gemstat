@@ -1,8 +1,0 @@
-gem 'capistrano'
-gem 'colorize'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'rspec'

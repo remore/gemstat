@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'highline'
-gem 'five_leaves'
-gem 'bundler'
-gem 'grasshopper'
-gem 'rake'
-gem 'pry'

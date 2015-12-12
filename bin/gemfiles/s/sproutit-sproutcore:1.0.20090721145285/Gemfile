@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'json_pure'
-gem 'extlib'
-gem 'erubis'
-gem 'jeweler'

@@ -1,7 +1,0 @@
-gem 'sass'
-gem 'compass'
-gem 'combustion'
-gem 'rspec'
-gem 'sass-rails'
-gem 'webrat'
-gem 'rspec-rails'

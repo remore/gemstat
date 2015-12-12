@@ -1,0 +1,5 @@
+gem 'twitter'
+gem 'oauth'
+gem 'OptionParser'
+gem 'launchy'
+gem 'mocha'

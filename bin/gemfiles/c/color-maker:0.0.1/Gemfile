@@ -1,6 +1,0 @@
-gem 'color'
-gem 'activesupport'
-gem 'yard'
-gem 'minitest'
-gem 'bundler'
-gem 'rake'

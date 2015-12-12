@@ -1,3 +1,0 @@
-gem 'dbi'
-gem 'bundler'
-gem 'rake'

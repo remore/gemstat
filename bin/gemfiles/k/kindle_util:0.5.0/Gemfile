@@ -1,4 +1,0 @@
-gem 'logging'
-gem 'highline'
-gem 'clamp'
-gem 'mechanize'

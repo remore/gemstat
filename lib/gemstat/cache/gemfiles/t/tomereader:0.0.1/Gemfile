@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pdf-reader'
+gem 'rspec'
+gem 'logging'
+gem 'em-synchrony'
+gem 'tempfile'

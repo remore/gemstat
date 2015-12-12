@@ -1,0 +1,7 @@
+gem 'rubycritic'
+gem 'chronic'
+gem 'configurations'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'

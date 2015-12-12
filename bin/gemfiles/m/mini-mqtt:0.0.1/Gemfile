@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'pry'
-gem 'dotenv'
-gem 'cutest'

@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'redis'
-gem 'minitest'
-gem 'rack-test'

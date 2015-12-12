@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rest-client'
-gem 'json'
-gem 'fakeweb'
-gem 'vcr'

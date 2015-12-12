@@ -1,4 +1,0 @@
-gem 'aws-sdk'
-gem 'httparty'
-gem 'netaddr'
-gem 'thor'

@@ -1,5 +1,0 @@
-gem 'sidekiq'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'

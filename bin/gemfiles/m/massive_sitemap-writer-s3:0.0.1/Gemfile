@@ -1,5 +1,0 @@
-gem 's3'
-gem 'massive_sitemap'
-gem 'retryable'
-gem 'rake'
-gem 'rspec'

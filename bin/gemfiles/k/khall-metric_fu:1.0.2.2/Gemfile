@@ -1,6 +1,0 @@
-gem 'flay'
-gem 'flog'
-gem 'rcov'
-gem 'reek'
-gem 'roodi'
-gem 'chronic'

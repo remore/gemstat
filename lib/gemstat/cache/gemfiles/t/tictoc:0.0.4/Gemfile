@@ -1,0 +1,5 @@
+gem 'rb-appscript'
+gem 'i18n'
+gem 'activesupport'
+gem 'rake'
+gem 'gem-release'

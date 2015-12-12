@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'bcrypt'
-gem 'sass-rails'
-gem 'sqlite3'

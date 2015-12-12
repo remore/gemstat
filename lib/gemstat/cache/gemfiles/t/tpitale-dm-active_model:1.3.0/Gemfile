@@ -1,0 +1,5 @@
+gem 'dm-core'
+gem 'activemodel'
+gem 'rake'
+gem 'rspec'
+gem 'test-unit'

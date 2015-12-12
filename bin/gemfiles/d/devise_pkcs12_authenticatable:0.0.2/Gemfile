@@ -1,5 +1,0 @@
-gem 'devise'
-gem 'activesupport'
-gem 'railties'
-gem 'bundler'
-gem 'rake'

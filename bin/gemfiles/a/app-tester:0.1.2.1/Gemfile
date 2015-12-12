@@ -1,6 +1,0 @@
-gem 'json'
-gem 'faraday'
-gem 'rspec'
-gem 'rspec-expectations'
-gem 'rake'
-gem 'rspec'

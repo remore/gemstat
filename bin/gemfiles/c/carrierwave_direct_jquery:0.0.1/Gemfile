@@ -1,8 +1,0 @@
-gem 'carrierwave'
-gem 'carrierwave_direct'
-gem 'rspec'
-gem 'timecop'
-gem 'rails'
-gem 'sqlite3'
-gem 'capybara'
-gem 'bson_ext'

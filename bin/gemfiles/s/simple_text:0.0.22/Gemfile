@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'slim'
-gem 'whodunnit'
-gem 'kaminari'
-gem 'redcarpet'
-gem 'sqlite3'

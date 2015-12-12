@@ -1,6 +1,0 @@
-gem 'ruby-ip'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'ruby-prof'

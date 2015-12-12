@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'coffee-rails'
-gem 'scrivito_sdk'
-gem 'pry'
-gem 'rake'

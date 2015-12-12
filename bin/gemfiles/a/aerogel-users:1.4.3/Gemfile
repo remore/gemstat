@@ -1,8 +1,0 @@
-gem 'aerogel-core'
-gem 'aerogel-forms'
-gem 'aerogel-mailer'
-gem 'aerogel-font_awesome'
-gem 'omniauth'
-gem 'bcrypt'
-gem 'bundler'
-gem 'rake'

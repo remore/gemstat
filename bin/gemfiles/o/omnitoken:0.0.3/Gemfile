@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'haml'
-gem 'omniauth'
-gem 'rack-test'

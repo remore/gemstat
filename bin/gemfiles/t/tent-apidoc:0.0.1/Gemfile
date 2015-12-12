@@ -1,5 +1,0 @@
-gem 'tent-client'
-gem 'tentd'
-gem 'rack-test'
-gem 'fabrication'
-gem 'faker'

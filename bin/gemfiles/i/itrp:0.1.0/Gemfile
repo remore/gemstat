@@ -1,7 +1,0 @@
-gem 'trisulrp'
-gem 'terminal-table'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

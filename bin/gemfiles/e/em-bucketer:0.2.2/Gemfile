@@ -1,8 +1,0 @@
-gem 'eventmachine'
-gem 'em-hiredis'
-gem 'bundler'
-gem 'redis'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'yard'

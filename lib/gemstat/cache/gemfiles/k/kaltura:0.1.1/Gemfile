@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'hashie'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'rake'

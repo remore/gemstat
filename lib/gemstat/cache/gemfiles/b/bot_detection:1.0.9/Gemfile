@@ -1,0 +1,4 @@
+gem 'public_suffix'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

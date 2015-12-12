@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'rack-slashenforce'
-gem 'bundler'
-gem 'rake'

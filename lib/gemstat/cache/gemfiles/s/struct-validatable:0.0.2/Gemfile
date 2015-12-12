@@ -1,0 +1,6 @@
+gem 'validation'
+gem 'test-unit'
+gem 'struct-alias_member'
+gem 'yard'
+gem 'rake'
+gem 'bundler'

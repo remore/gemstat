@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'PageRankr'
-gem 'em-http-request'
-gem 'em-synchrony'

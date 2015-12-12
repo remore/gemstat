@@ -1,6 +1,0 @@
-gem 'ProMotion'
-gem 'motion-cocoapods'
-gem 'motion-stump'
-gem 'motion-redgreen'
-gem 'rake'
-gem 'motion_print'

@@ -1,6 +1,0 @@
-gem 'selenium-webdriver'
-gem 'chronic_duration'
-gem 'term-ansicolor'
-gem 'bombshell'
-gem 'bundler'
-gem 'jeweler'

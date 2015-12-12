@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'rubytree'
-gem 'libxml-ruby'

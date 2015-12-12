@@ -1,4 +1,0 @@
-gem 'hpricot'
-gem 'htmlentities'
-gem 'css_parser'
-gem 'text-reform'

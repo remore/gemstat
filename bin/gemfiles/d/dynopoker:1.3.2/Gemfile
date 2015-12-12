@@ -1,3 +1,0 @@
-gem 'logger'
-gem 'rspec'
-gem 'webmock'

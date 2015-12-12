@@ -1,6 +1,0 @@
-gem 'heroku'
-gem 'heroku-api'
-gem 'scrolls'
-gem 'sequel'
-gem 'rspec'
-gem 'fakefs'

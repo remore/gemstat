@@ -1,0 +1,4 @@
+gem 'dchelimsky-rspec'
+gem 'rack'
+gem 'cucumber'
+gem 'hoe'

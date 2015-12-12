@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'autotest-standalone'
-gem 'rake'

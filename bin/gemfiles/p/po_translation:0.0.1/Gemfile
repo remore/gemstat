@@ -1,4 +1,0 @@
-gem 'mechanize'
-gem 'active_support'
-gem 'get_pomo'
-gem 'htmlentities'

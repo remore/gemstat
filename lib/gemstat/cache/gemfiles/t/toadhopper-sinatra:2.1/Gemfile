@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'toadhopper'
+gem 'rake'
+gem 'exemplor'
+gem 'rr'
+gem 'rack-test'

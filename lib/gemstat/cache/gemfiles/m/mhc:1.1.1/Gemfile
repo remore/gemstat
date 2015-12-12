@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'ri_cal'
+gem 'tzinfo'
+gem 'tzinfo-data'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

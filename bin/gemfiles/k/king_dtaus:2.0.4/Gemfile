@@ -1,6 +1,0 @@
-gem 'i18n'
-gem 'rdoc'
-gem 'rspec'
-gem 'simplecov'
-gem 'mocha'
-gem 'rake'

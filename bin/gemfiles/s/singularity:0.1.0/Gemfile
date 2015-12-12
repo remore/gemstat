@@ -1,5 +1,0 @@
-gem 'redis-objects'
-gem 'bundler'
-gem 'pry'
-gem 'rspec'
-gem 'mock_redis'

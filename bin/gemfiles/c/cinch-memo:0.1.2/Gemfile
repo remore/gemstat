@@ -1,6 +1,0 @@
-gem 'cinch'
-gem 'json'
-gem 'redis'
-gem 'riot'
-gem 'mocha'
-gem 'timecop'

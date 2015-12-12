@@ -1,7 +1,0 @@
-gem 'typhoeus'
-gem 'json'
-gem 'rspec'
-gem 'guard'
-gem 'growl'
-gem 'webmock'
-gem 'rake'

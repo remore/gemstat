@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'rspec'
-gem 'simplecov'
-gem 'coveralls'
-gem 'rubygems-tasks'

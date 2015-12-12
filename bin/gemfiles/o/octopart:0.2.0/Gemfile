@@ -1,6 +1,0 @@
-gem 'hashie'
-gem 'json'
-gem 'rest-client'
-gem 'rspec'
-gem 'vcr'
-gem 'fakeweb'

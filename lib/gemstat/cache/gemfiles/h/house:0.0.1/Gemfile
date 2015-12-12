@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'grit'
+gem 'net-ssh'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'

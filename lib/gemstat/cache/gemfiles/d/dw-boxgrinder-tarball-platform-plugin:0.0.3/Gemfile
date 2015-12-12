@@ -1,0 +1,2 @@
+gem 'boxgrinder-build'
+gem 'minitar'

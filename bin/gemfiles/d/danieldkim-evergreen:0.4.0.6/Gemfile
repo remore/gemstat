@@ -1,6 +1,0 @@
-gem 'capybara'
-gem 'launchy'
-gem 'sinatra'
-gem 'json_pure'
-gem 'rspec'
-gem 'capybara-envjs'

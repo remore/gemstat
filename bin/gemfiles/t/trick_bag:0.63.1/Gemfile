@@ -1,8 +1,0 @@
-gem 'os'
-gem 'diffy'
-gem 'net-ssh'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-byebug'

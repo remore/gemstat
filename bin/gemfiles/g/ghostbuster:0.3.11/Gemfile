@@ -1,4 +1,0 @@
-gem 'thin'
-gem 'rake'
-gem 'bundler'
-gem 'sinatra'

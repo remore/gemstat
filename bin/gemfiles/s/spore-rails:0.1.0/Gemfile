@@ -1,5 +1,0 @@
-gem 'spore-api'
-gem 'netrc'
-gem 'bundler'
-gem 'byebug'
-gem 'rake'

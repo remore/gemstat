@@ -1,4 +1,0 @@
-gem 'carrierwave'
-gem 'streamio-ffmpeg'
-gem 'bundler'
-gem 'rake'

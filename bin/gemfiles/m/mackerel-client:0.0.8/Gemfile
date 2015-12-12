@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'

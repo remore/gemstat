@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'clickatell'
-gem 'activesupport'
-gem 'static_record_cache'

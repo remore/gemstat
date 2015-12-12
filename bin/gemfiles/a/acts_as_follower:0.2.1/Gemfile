@@ -1,5 +1,0 @@
-gem 'sqlite3'
-gem 'shoulda_create'
-gem 'shoulda'
-gem 'factory_girl'
-gem 'rails'

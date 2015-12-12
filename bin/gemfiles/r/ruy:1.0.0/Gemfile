@@ -1,3 +1,0 @@
-gem 'tzinfo'
-gem 'rspec'
-gem 'simplecov'

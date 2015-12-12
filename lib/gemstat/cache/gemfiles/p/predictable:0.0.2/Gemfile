@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'predictionio'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

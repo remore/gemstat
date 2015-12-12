@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'trollop'
-gem 'colored'
-gem 'simplecov'
-gem 'rake'
-gem 'test-unit'
-gem 'fakeweb'

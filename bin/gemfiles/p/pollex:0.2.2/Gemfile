@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'lrucache'
-gem 'cld'
-gem 'json'

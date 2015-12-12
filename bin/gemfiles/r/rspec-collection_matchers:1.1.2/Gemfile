@@ -1,3 +1,0 @@
-gem 'rspec-expectations'
-gem 'bundler'
-gem 'activemodel'

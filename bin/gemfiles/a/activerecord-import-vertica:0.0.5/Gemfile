@@ -1,3 +1,0 @@
-gem 'activerecord-import'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'bootstrap-sass'
-gem 'font-awesome-sass-rails'
-gem 'railties'
-gem 'sass-rails'

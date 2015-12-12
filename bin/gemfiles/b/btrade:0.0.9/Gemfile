@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'oauth'
-gem 'json'
-gem 'faraday'
-gem 'fakeweb'
-gem 'vcr'

@@ -1,0 +1,6 @@
+gem 'happymapper'
+gem 'httparty'
+gem 'rails'
+gem 'bundler'
+gem 'rspec-rails'
+gem 'rspec2-rails-views-matchers'

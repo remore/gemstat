@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'minitest'
-gem 'vcr'
-gem 'webmock'
-gem 'rake'

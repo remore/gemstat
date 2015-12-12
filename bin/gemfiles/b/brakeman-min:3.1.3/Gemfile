@@ -1,5 +1,0 @@
-gem 'test-unit'
-gem 'ruby_parser'
-gem 'ruby2ruby'
-gem 'multi_json'
-gem 'safe_yaml'

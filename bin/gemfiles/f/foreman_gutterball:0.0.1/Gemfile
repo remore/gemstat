@@ -1,3 +1,0 @@
-gem 'katello'
-gem 'rubocop'
-gem 'rubocop-checkstyle_formatter'

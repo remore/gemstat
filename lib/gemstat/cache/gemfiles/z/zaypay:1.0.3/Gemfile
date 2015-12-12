@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'test-unit'
+gem 'mocha'
+gem 'shoulda'
+gem 'fakeweb'
+gem 'minitest'
+gem 'yard'

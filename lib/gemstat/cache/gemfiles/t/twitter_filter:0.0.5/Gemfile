@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-mocks'
+gem 'rspec-expectations'
+gem 'fakefs'

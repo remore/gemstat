@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'where_to'
-gem 'gli'

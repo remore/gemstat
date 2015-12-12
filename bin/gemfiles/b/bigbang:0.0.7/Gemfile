@@ -1,2 +1,0 @@
-gem 'fog'
-gem 'amazon-ec2'

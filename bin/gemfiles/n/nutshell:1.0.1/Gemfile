@@ -1,5 +1,0 @@
-gem 'open4'
-gem 'highline'
-gem 'ruby-termios'
-gem 'rdoc'
-gem 'hoe'

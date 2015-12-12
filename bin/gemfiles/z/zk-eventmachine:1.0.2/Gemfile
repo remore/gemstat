@@ -1,3 +1,0 @@
-gem 'zk'
-gem 'eventmachine'
-gem 'deferred'

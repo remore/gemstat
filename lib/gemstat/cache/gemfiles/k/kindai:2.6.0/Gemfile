@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'rmagick'
+gem 'zipruby'
+gem 'json'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'

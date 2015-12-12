@@ -1,3 +1,0 @@
-gem 'google_drive'
-gem 'rspec'
-gem 'fakefs'

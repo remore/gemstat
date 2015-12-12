@@ -1,0 +1,5 @@
+gem 'jeweler'
+gem 'shoulda'
+gem 'hpricot'
+gem 'erubis'
+gem 'rdoc'

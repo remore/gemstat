@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'sinatra-tags'
-gem 'sinatra-tests'
-gem 'rspec'

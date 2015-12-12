@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'excon'
-gem 'hashie'
-gem 'bundler'
-gem 'rake'

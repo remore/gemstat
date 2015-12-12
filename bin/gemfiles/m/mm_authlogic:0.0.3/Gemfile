@@ -1,4 +1,0 @@
-gem 'mongo_mapper'
-gem 'authlogic'
-gem 'rake'
-gem 'bson_ext'

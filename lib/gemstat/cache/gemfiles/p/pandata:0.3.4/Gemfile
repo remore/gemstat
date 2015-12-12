@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'ruby-progressbar'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'
+gem 'yard'

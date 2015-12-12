@@ -1,3 +1,0 @@
-gem 'mongo'
-gem 'mongoriver'
-gem 'rake'

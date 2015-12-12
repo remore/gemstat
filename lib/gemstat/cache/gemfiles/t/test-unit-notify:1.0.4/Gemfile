@@ -1,0 +1,6 @@
+gem 'test-unit'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'packnga'
+gem 'kramdown'

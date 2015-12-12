@@ -1,6 +1,0 @@
-gem 'thin'
-gem 'resque'
-gem 'rake'
-gem 'json'
-gem 'sinatra'
-gem 'trollop'

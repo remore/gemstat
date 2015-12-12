@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

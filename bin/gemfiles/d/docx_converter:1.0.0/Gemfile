@@ -1,5 +1,0 @@
-gem 'kramdown'
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'rmagick'
-gem 'ruby-filemagic'

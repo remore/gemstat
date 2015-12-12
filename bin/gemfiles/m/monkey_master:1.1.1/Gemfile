@@ -1,5 +1,0 @@
-gem 'docopt'
-gem 'rspec'
-gem 'pry'
-gem 'rake'
-gem 'bundler'

@@ -1,0 +1,6 @@
+gem 'redis-store'
+gem 'redis-activesupport'
+gem 'rake'
+gem 'bundler'
+gem 'mocha'
+gem 'minitest'

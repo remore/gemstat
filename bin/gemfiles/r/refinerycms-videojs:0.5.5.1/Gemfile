@@ -1,3 +1,0 @@
-gem 'dragonfly'
-gem 'rack-cache'
-gem 'refinerycms-core'

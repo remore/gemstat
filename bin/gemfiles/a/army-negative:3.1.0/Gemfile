@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'mysql2'
-gem 'bundler'
-gem 'cucumber'
-gem 'rspec'

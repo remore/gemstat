@@ -1,5 +1,0 @@
-gem 'net-http-persistent'
-gem 'fluentd'
-gem 'rspec'
-gem 'webmock'
-gem 'simplecov'

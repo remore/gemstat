@@ -1,0 +1,8 @@
+gem 'poseidon'
+gem 'snappy'
+gem 'hash_symbolizer'
+gem 'schash'
+gem 'rb-inotify'
+gem 'timers'
+gem 'mixlib-shellout'
+gem 'rake'

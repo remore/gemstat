@@ -1,4 +1,0 @@
-gem 'yard'
-gem 'cover_me'
-gem 'parallel_tests'
-gem 'ZenTest'

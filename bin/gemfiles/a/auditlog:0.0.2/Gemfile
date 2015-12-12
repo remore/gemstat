@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'request_store'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'sqlite3'
-gem 'awesome_print'

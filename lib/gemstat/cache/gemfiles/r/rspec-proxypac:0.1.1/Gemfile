@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'pac'
+gem 'therubyracer'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'coveralls'
+gem 'byebug'

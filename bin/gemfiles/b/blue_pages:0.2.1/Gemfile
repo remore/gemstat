@@ -1,4 +1,0 @@
-gem 'mongoid'
-gem 'mongoid-tree'
-gem 'bluecloth'
-gem 'RedCloth'

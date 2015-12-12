@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'mongoid-multi-db'
-gem 'rspec'

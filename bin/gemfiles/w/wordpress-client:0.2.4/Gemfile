@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'logger'
-gem 'multi_json'
-gem 'rspec'
-gem 'simplecov'
-gem 'rake'

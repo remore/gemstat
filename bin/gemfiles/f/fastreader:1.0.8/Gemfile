@@ -1,8 +1,0 @@
-gem 'simple-rss'
-gem 'activerecord'
-gem 'activesupport'
-gem 'feed-normalizer'
-gem 'hpricot'
-gem 'highline'
-gem 'sqlite3-ruby'
-gem 'hoe'

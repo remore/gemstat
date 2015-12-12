@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'equivalent-xml'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'rake'
-gem 'rspec'
-gem 'thin'
-gem 'simplecov'

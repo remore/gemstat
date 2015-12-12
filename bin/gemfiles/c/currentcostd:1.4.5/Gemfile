@@ -1,5 +1,0 @@
-gem 'currentcost'
-gem 'amee'
-gem 'eeml-simple'
-gem 'daemons'
-gem 'builder'

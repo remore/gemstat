@@ -1,3 +1,0 @@
-gem 'ruby-dtrace'
-gem 'rack'
-gem 'rspec'

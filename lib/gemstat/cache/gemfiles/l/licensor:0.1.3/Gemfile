@@ -1,0 +1,6 @@
+gem 'colorize'
+gem 'mustache'
+gem 'thor'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

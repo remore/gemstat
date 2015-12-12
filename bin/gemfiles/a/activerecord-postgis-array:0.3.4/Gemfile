@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'pg_array_parser'
-gem 'activerecord-postgis-adapter'
-gem 'rails'
-gem 'rspec-rails'
-gem 'bourne'
-gem 'pg'

@@ -1,0 +1,6 @@
+gem 'resque'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'json'
+gem 'orderedhash'

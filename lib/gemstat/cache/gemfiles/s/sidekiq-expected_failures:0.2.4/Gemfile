@@ -1,0 +1,8 @@
+gem 'sidekiq'
+gem 'bundler'
+gem 'rake'
+gem 'sinatra'
+gem 'rack-test'
+gem 'timecop'
+gem 'mocha'
+gem 'coveralls'

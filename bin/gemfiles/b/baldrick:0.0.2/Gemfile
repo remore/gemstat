@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'newgem'
-gem 'rspec'
-gem 'cucumber'
-gem 'hoe'

@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'brauser'
-gem 'addressable'
-gem 'em-synchrony'
-gem 'gemoji'

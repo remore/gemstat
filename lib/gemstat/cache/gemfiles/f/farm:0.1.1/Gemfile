@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'json'
+gem 'rake'
+gem 'rest-client'

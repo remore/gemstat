@@ -1,4 +1,0 @@
-gem 'resque'
-gem 'sentry-raven'
-gem 'rspec'
-gem 'mocha'

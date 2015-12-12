@@ -1,0 +1,2 @@
+gem 'padrino'
+gem 'jbuilder'

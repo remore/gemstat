@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'opal'
-gem 'opal-jquery'
-gem 'opal-activesupport'
-gem 'opal-rails'
-gem 'opal-sprockets'

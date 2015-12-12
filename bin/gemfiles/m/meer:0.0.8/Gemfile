@@ -1,4 +1,0 @@
-gem 'highline'
-gem 'thor'
-gem 'terminal-table'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'aws-sdk'
-gem 'mime-types'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

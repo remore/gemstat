@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'nokogiri'
-gem 'gli'
-gem 'aws-sdk'
-gem 'inifile'

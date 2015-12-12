@@ -1,3 +1,0 @@
-gem 'httpclient'
-gem 'mime-types'
-gem 'timers'

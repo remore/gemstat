@@ -1,6 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-rails'
-gem 'capistrano-bundler'
-gem 'capistrano-passenger'
-gem 'bundler'
-gem 'rake'

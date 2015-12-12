@@ -1,4 +1,0 @@
-gem 'mocha'
-gem 'actioncontroller'
-gem 'spicycode-micronaut'
-gem 'spicycode-micronaut-rails'

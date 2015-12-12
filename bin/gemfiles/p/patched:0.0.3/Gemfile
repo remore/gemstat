@@ -1,4 +1,0 @@
-gem 'sourcify'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

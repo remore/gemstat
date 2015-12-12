@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'mocha'
-gem 'shoulda'
-gem 'webmock'
-gem 'vcr'
-gem 'simplecov'
-gem 'savon'

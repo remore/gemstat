@@ -1,5 +1,0 @@
-gem 'colorize'
-gem 'retriable'
-gem 'awesome_print'
-gem 'selenium-webdriver'
-gem 'json'

@@ -1,4 +1,0 @@
-gem 'sidekiq'
-gem 'minitest'
-gem 'rake'
-gem 'simplecov'

@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'chronic_duration'

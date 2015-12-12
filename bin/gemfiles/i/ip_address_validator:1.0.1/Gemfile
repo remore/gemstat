@@ -1,4 +1,0 @@
-gem 'localized_each_validator'
-gem 'jeweler'
-gem 'yard'
-gem 'RedCloth'

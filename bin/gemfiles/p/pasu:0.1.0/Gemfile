@@ -1,8 +1,0 @@
-gem 'cuba'
-gem 'cuba-sendfile'
-gem 'slim'
-gem 'tilt'
-gem 'puma'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

@@ -1,0 +1,6 @@
+gem 'shoulda'
+gem 'rr'
+gem 'kvs'
+gem 'sinatra'
+gem 'choice'
+gem 'termcolor'

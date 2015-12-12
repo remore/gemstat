@@ -1,5 +1,0 @@
-gem 'vapir-common'
-gem 'win32-process'
-gem 'nokogiri'
-gem 'ffi'
-gem 'winwindow'

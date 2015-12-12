@@ -1,5 +1,0 @@
-gem 'twitter'
-gem 'twitter_oauth'
-gem 'shell-base'
-gem 'bundler'
-gem 'rake'

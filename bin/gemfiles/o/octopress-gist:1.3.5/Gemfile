@@ -1,5 +1,0 @@
-gem 'octopress-code-highlighter'
-gem 'jekyll'
-gem 'rake'
-gem 'RedCloth'
-gem 'clash'

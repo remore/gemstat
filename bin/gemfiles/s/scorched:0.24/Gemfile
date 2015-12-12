@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'rack-accept'
-gem 'scorched-accept'
-gem 'tilt'
-gem 'rack-test'
-gem 'rspec'
-gem 'rake'

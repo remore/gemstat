@@ -1,2 +1,0 @@
-gem 'websocket-eventmachine-server'
-gem 'xml-registry'

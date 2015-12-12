@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'nokogiri'
+gem 'uuid'
+gem 'mimemagic'
+gem 'bundler'
+gem 'rake'

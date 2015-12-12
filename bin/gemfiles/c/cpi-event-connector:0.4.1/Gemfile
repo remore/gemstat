@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'justinf-unification_assertion'
-gem 'bunny'
-gem 'activesupport'
-gem 'uuidtools'
-gem 'nokogiri'

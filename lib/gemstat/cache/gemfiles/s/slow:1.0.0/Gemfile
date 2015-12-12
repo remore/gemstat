@@ -1,0 +1,2 @@
+gem 'em-proxy'
+gem 'thoughtbot-shoulda'

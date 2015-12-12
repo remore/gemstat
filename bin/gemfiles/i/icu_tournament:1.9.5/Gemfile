@@ -1,8 +1,0 @@
-gem 'dbf'
-gem 'rubyzip'
-gem 'icu_name'
-gem 'icu_utils'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'

@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'bundler'
+gem 'jeweler'
+gem 'ipaddress'
+gem 'simplecov'
+gem 'rspec'
+gem 'yard'

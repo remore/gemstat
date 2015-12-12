@@ -1,0 +1,6 @@
+gem 'hexx-dependencies'
+gem 'hexx-domains'
+gem 'hexx-validators'
+gem 'policy'
+gem 'service_objects'
+gem 'hexx-rspec'

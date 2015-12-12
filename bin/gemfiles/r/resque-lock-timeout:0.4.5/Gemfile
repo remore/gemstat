@@ -1,5 +1,0 @@
-gem 'resque'
-gem 'rake'
-gem 'minitest'
-gem 'yard'
-gem 'simplecov'

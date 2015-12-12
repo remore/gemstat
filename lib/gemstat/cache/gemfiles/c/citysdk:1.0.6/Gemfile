@@ -1,0 +1,7 @@
+gem 'i18n'
+gem 'dbf'
+gem 'georuby'
+gem 'faraday'
+gem 'charlock_holmes'
+gem 'curses'
+gem 'rspec'

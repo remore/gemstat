@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'httparty'
-gem 'i18n'
-gem 'nokogiri'
-gem 'tzinfo'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'

@@ -1,4 +1,0 @@
-gem 'test-unit'
-gem 'rake'
-gem 'mast'
-gem 'indexer'

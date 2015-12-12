@@ -1,0 +1,5 @@
+gem 'pony'
+gem 'rake'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'activerecord'

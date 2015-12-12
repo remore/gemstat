@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'phony'
-gem 'shoulda-context'
-gem 'sqlite3'

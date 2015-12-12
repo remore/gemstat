@@ -1,0 +1,5 @@
+gem 'earth'
+gem 'emitter'
+gem 'fuzzy_infer'
+gem 'mysql2'
+gem 'sniff'

@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'stock_quote'
-gem 'rest-client'
-gem 'mime-types'

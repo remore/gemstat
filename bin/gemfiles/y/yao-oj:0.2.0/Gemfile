@@ -1,6 +1,0 @@
-gem 'yao'
-gem 'faraday_middleware-parse_oj'
-gem 'bundler'
-gem 'rake'
-gem 'test-unit'
-gem 'power_assert'

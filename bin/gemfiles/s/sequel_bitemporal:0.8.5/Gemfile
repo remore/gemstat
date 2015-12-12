@@ -1,4 +1,0 @@
-gem 'sequel'
-gem 'rspec'
-gem 'timecop'
-gem 'rake'

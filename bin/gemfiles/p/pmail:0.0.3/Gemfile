@@ -1,3 +1,0 @@
-gem 'postmark'
-gem 'mail'
-gem 'json'

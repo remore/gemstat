@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'atom'
+gem 'json'
+gem 'markauskas-googlebase'

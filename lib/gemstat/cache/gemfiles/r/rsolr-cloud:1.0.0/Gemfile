@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'activesupport'
+gem 'zk-server'
+gem 'zk'
+gem 'rsolr'

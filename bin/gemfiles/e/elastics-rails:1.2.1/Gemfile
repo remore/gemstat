@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'elastics-client'
-gem 'elastics-models'

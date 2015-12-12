@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rspec-rails'
+gem 'appraisal'
+gem 'thor'
+gem 'rspec'

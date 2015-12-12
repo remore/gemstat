@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'foodcritic'
+gem 'chef'
+gem 'rspec'
+gem 'chefspec'

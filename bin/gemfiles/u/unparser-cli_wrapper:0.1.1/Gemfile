@@ -1,4 +1,0 @@
-gem 'unparser'
-gem 'diff-lcs'
-gem 'bundler'
-gem 'rake'

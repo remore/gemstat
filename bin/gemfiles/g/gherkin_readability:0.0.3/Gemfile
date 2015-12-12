@@ -1,4 +1,0 @@
-gem 'gherkin'
-gem 'term-ansicolor'
-gem 'syllables'
-gem 'aruba'

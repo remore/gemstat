@@ -1,4 +1,0 @@
-gem 'hashie'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'

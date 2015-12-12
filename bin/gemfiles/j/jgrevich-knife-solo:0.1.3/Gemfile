@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'mocha'
-gem 'chef'
-gem 'net-ssh'

@@ -1,3 +1,0 @@
-gem 'json_api_client'
-gem 'json_api_client_mock'
-gem 'webmock'

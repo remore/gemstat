@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'balanced'
-gem 'jquery-rails'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'vcr'
-gem 'webmock'

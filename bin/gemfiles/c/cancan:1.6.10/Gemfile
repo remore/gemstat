@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rails'
-gem 'rr'
-gem 'supermodel'

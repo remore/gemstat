@@ -1,0 +1,4 @@
+gem 'archive-tar-minitar'
+gem 'progress'
+gem 'rspec'
+gem 'rubocop'

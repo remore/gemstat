@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'capybara-webkit'
-gem 'pry'
-gem 'sinatra'

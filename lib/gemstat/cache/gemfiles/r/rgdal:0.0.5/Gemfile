@@ -1,0 +1,4 @@
+gem 'gdal'
+gem 'activesupport'
+gem 'rspec'
+gem 'rake'

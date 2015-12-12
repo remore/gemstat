@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'require_all'
-gem 'rails-app-spec'
-gem 'rails3_artifactor'
-gem 'code-spec'
-gem 'activesupport'

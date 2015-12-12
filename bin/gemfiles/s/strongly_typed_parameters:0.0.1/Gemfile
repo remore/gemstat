@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'activemodel'
-gem 'railties'
-gem 'rake'
-gem 'mocha'

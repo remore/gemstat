@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'byebug'

@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'google_drive'
-gem 'charlock_holmes'
-gem 'highline'
-gem 'rake'
-gem 'test-unit'
-gem 'simplecov'

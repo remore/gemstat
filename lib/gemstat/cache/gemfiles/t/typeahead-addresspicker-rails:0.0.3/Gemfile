@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'actionpack'
+gem 'jquery-rails'
+gem 'twitter-typeahead-rails'
+gem 'rails'
+gem 'bundler'

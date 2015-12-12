@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'meta_instance'
+gem 'bundler'
+gem 'rspec'
+gem 'sqlite3'
+gem 'pry-byebug'
+gem 'codeclimate-test-reporter'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'awesome_print'
-gem 'vcr'
-gem 'webmock'

@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'sqlite3'
-gem 'activesupport'
-gem 'activerecord'

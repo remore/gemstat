@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'httparty'
-gem 'crack'
-gem 'oauth2'
-gem 'bundler'
-gem 'jeweler'

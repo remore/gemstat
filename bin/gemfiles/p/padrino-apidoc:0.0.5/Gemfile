@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'pry-nav'
-gem 'midwire_common'
-gem 'padrino'

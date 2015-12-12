@@ -1,6 +1,0 @@
-gem 'em-synchrony'
-gem 'em-http-request'
-gem 'faye-websocket'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

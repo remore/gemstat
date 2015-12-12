@@ -1,3 +1,0 @@
-gem 'OptionParser'
-gem 'pry'
-gem 'rspec'

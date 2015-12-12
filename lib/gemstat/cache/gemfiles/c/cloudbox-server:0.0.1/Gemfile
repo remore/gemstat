@@ -1,0 +1,6 @@
+gem 'json'
+gem 'logger'
+gem 'ipaddress'
+gem 'net-http-digest_auth'
+gem 'net-scp'
+gem 'yard'

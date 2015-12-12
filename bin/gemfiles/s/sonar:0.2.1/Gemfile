@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'rake'
-gem 'specular'
-gem 'bundler'

@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'capistrano'
-gem 'rake'

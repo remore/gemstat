@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'bacon'
+gem 'Bacon_Colored'
+gem 'pry'

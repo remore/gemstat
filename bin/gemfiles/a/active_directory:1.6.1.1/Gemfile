@@ -1,3 +1,0 @@
-gem 'net-ldap'
-gem 'bindata'
-gem 'minitest'

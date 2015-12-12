@@ -1,4 +1,0 @@
-gem 'pivotal-tracker'
-gem 'colored'
-gem 'choice'
-gem 'rake'

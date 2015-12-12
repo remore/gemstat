@@ -1,3 +1,0 @@
-gem 'ruby_reddit_api'
-gem 'open_uri_redirections'
-gem 'minitest'

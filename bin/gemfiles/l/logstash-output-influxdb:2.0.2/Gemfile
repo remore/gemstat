@@ -1,6 +1,0 @@
-gem 'logstash-core'
-gem 'stud'
-gem 'ftw'
-gem 'logstash-devutils'
-gem 'logstash-input-generator'
-gem 'logstash-filter-kv'

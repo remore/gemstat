@@ -1,7 +1,0 @@
-gem 'roo'
-gem 'fastercsv'
-gem 'activesupport'
-gem 'slither'
-gem 'nokogiri'
-gem 'escape'
-gem 'errata'

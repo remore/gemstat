@@ -1,3 +1,0 @@
-gem 'log4r'
-gem 'ruby-hmac'
-gem 'nokogiri'

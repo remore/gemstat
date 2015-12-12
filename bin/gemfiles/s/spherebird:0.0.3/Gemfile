@@ -1,4 +1,0 @@
-gem 'oauth'
-gem 'twitter'
-gem 'rspec'
-gem 'jeweler'

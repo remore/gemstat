@@ -1,3 +1,0 @@
-gem 'null_logger'
-gem 'active_support'
-gem 'nokogiri'

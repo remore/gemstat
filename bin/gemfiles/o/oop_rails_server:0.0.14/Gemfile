@@ -1,4 +1,0 @@
-gem 'json'
-gem 'file-tail'
-gem 'bundler'
-gem 'rake'

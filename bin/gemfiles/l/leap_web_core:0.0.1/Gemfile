@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'couchrest'
-gem 'couchrest_model'

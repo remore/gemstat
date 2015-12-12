@@ -1,0 +1,5 @@
+gem 'virtus'
+gem 'axiom-memory-adapter'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

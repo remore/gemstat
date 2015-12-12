@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rack-test'
-gem 'guard-rspec'
-gem 'rack'
-gem 'geoip'

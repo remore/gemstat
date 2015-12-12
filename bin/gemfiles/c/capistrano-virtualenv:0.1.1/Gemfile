@@ -1,6 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-platform-resources'
-gem 'capistrano-pyenv'
-gem 'net-scp'
-gem 'net-ssh'
-gem 'vagrant'

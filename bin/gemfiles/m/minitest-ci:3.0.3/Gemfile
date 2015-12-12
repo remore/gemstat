@@ -1,5 +1,0 @@
-gem 'minitest'
-gem 'nokogiri'
-gem 'rdoc'
-gem 'ZenTest'
-gem 'hoe'

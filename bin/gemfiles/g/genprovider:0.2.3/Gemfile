@@ -1,7 +1,0 @@
-gem 'cim'
-gem 'mof'
-gem 'rdoc'
-gem 'rake'
-gem 'sfcc'
-gem 'bundler'
-gem 'cucumber'

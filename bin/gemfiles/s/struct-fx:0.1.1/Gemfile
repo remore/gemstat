@@ -1,5 +1,0 @@
-gem 'frozen-objects'
-gem 'bit-packer'
-gem 'bundler'
-gem 'jeweler'
-gem 'riot'

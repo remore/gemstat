@@ -1,3 +1,0 @@
-gem 'unicorn'
-gem 'rspec'
-gem 'curb'

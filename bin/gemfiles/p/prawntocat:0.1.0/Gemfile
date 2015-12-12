@@ -1,4 +1,0 @@
-gem 'octokit'
-gem 'prawn'
-gem 'bundler'
-gem 'rake'

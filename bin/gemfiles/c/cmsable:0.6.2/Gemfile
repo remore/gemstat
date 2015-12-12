@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'ckeditor'
-gem 'cancan'
-gem 'sqlite3'

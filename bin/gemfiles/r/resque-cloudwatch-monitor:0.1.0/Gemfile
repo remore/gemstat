@@ -1,5 +1,0 @@
-gem 'resque'
-gem 'rake'
-gem 'aws-sdk'
-gem 'rspec'
-gem 'timecop'

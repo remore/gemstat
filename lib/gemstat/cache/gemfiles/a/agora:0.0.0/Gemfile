@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'adhoc'
+gem 'amqp'
+gem 'openpgp'
+gem 'rdf'

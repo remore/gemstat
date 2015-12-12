@@ -1,8 +1,0 @@
-gem 'oily_png'
-gem 'chunky_png'
-gem 'rmagick'
-gem 'mini_magick'
-gem 'css_parser'
-gem 'rails'
-gem 'test-unit'
-gem 'ZenTest'

@@ -1,0 +1,2 @@
+gem 'memdash'
+gem 'mongoid'

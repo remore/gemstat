@@ -1,7 +1,0 @@
-gem 'rufus-scheduler'
-gem 'daemons'
-gem 'parseconfig'
-gem 'munin-ruby'
-gem 'json'
-gem 'jeweler'
-gem 'yard'

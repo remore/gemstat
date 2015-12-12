@@ -1,3 +1,0 @@
-gem 'rbind'
-gem 'ffi'
-gem 'minitest'

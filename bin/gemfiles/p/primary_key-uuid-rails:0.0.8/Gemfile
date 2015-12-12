@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'uuidtools'
-gem 'sqlite3'

@@ -1,3 +1,0 @@
-gem 'debitech_soap'
-gem 'rake'
-gem 'rspec'

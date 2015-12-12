@@ -1,3 +1,0 @@
-gem 'yajl-ruby'
-gem 'httparty'
-gem 'bini'

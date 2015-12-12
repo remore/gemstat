@@ -1,6 +1,0 @@
-gem 'redis'
-gem 'rspec'
-gem 'mock_redis'
-gem 'guard-rspec'
-gem 'rake'
-gem 'timecop'

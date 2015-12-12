@@ -1,2 +1,0 @@
-gem 'logstash-output-elasticsearch'
-gem 'logstash-devutils'

@@ -1,0 +1,5 @@
+gem 'mongrel'
+gem 'json'
+gem 'daemons'
+gem 'rack'
+gem 'hoe'

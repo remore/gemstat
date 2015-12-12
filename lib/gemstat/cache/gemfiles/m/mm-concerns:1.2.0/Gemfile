@@ -1,0 +1,4 @@
+gem 'mongo_mapper'
+gem 'bundler'
+gem 'jeweler'
+gem 'mongo_mapper'

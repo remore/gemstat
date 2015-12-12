@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'multi_json'
-gem 'activerecord'
-gem 'logcast'

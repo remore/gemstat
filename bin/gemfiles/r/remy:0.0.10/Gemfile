@@ -1,8 +1,0 @@
-gem 'i18n'
-gem 'json'
-gem 'rspec'
-gem 'activesupport'
-gem 'chef'
-gem 'rake'
-gem 'fog'
-gem 'hashie'

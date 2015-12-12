@@ -1,4 +1,0 @@
-gem 'termios'
-gem 'trollop'
-gem 'chronic'
-gem 'highline'

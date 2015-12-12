@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'sass-rails'
+gem 'simple_form'

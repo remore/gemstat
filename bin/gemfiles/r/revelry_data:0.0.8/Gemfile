@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'jsonapi-resources'
-gem 'revelry_core'
-gem 'sqlite3'
-gem 'rspec'
-gem 'jasmine-rails'

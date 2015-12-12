@@ -1,8 +1,0 @@
-gem 'about_pos'
-gem 'i_dig_sql'
-gem 'bundler'
-gem 'rake'
-gem 'bacon'
-gem 'Bacon_Colored'
-gem 'pry'
-gem 'diffy'

@@ -1,6 +1,0 @@
-gem 'rails-i18n'
-gem 'activesupport'
-gem 'bundler'
-gem 'gem_publisher'
-gem 'rake'
-gem 'minitest'

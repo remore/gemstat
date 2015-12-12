@@ -1,7 +1,0 @@
-gem 'dry-configurable'
-gem 'dry-container'
-gem 'dry-equalizer'
-gem 'dry-data'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

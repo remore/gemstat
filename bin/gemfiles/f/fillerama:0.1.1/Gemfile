@@ -1,5 +1,0 @@
-gem 'htmlentities'
-gem 'rest-client'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'

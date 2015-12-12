@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'codeclimate-test-reporter'
-gem 'generator_spec'
-gem 'railties'
-gem 'rspec'

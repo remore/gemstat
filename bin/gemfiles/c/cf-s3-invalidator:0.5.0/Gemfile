@@ -1,7 +1,0 @@
-gem 'aws-sdk'
-gem 'simple-cloudfront-invalidator'
-gem 'colored'
-gem 'cucumber'
-gem 'rspec'
-gem 'rake'
-gem 'aruba'

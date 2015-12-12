@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'fastercsv'
-gem 'chronic'
-gem 'highline'
-gem 'terminal-table'

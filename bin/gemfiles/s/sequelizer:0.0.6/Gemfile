@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'guard'
-gem 'guard-minitest'
-gem 'minitest'
-gem 'sequel'
-gem 'dotenv'
-gem 'thor'
-gem 'hashie'

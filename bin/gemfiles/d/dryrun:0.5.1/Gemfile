@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'pry-byebug'
-gem 'rspec'
-gem 'bundler'
-gem 'colorize'
-gem 'nokogiri'

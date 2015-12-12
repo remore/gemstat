@@ -1,0 +1,2 @@
+gem 'sipatra'
+gem 'rspec'

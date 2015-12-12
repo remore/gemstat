@@ -1,0 +1,4 @@
+gem 'em-http-request'
+gem 'em-http-request'
+gem 'nokogiri'
+gem 'hashie'

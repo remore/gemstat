@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'sinatra'
-gem 'json'
-gem 'plist'
-gem 'rspec'
-gem 'cucumber'
-gem 'mocha'
-gem 'rest-client'

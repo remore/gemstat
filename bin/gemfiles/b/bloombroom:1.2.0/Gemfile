@@ -1,3 +1,0 @@
-gem 'ffi'
-gem 'ffi-compiler'
-gem 'rspec'

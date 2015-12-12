@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'highline'
+gem 'fileutils'
+gem 'i18n'
+gem 'fuzzy-string-match'

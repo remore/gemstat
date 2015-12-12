@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'sass-rails'
-gem 'bootstrap-sass'
-gem 'rake'
-gem 'rails'
-gem 'appraisal'

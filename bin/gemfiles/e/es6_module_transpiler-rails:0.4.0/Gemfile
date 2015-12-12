@@ -1,4 +1,0 @@
-gem 'execjs'
-gem 'rake'
-gem 'tilt'
-gem 'sprockets'

@@ -1,0 +1,4 @@
+gem 'github-release'
+gem 'rake'
+gem 'bundler'
+gem 'rdoc'

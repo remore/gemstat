@@ -1,5 +1,0 @@
-gem 'docopt'
-gem 'highline'
-gem 'time-lord'
-gem 'terminal-table'
-gem 'dawn-api'

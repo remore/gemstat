@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'railties'
-gem 'compass-rails'
-gem 'compass-normalize'
-gem 'animate.sass-rails'

@@ -1,3 +1,0 @@
-gem 'logstash-output-elasticsearch_java'
-gem 'logstash-devutils'
-gem 'logstash-codec-plain'

@@ -1,5 +1,0 @@
-gem 'em-http-request'
-gem 'em-hiredis'
-gem 'multi_json'
-gem 'daemon-spawn'
-gem 'iobuffer'

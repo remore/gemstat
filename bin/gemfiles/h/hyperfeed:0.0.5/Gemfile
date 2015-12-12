@@ -1,5 +1,0 @@
-gem 'http_monkey'
-gem 'nokogiri'
-gem 'methodize'
-gem 'rspec'
-gem 'fakeweb'

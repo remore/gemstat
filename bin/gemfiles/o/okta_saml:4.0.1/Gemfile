@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'ruby-saml'
-gem 'rspec-rails'

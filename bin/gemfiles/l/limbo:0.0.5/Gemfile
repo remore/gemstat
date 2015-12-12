@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'fakeweb'
-gem 'rails'

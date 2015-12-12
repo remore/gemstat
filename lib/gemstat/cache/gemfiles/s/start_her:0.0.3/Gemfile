@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'msgpack'
+gem 'logstash-logger'
+gem 'gemsupport'
+gem 'rspec'
+gem 'rubocop'
+gem 'pry'

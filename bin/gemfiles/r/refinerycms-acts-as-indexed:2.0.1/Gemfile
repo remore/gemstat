@@ -1,3 +1,0 @@
-gem 'refinerycms-core'
-gem 'acts_as_indexed'
-gem 'decorators'

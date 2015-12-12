@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'ZenTest'
+gem 'guard-rspec'
+gem 'autotest-fsevent'
+gem 'rb-fsevent'
+gem 'geminabox'

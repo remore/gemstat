@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'msgpack'
-gem 'active_support'
-gem 'bunny'
-gem 'amqp'
-gem 'rspec'
-gem 'evented-spec'

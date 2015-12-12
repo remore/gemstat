@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'activesupport'
-gem 'eventmachine'
-gem 'log4r'

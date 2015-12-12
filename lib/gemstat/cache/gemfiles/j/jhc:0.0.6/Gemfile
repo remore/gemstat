@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'nokogiri'
+gem 'haml'
+gem 'json'
+gem 'term-ansicolor'

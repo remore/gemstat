@@ -1,4 +1,0 @@
-gem 'aws-sdk'
-gem 'commander'
-gem 'CFPropertyList'
-gem 'bundler'

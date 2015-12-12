@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'rspec'
-gem 'pry'
-gem 'fuubar'
-gem 'settingslogic'

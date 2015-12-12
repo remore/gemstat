@@ -1,0 +1,5 @@
+gem 'mecab-light'
+gem 'mojinizer'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'

@@ -1,3 +1,0 @@
-gem 'docopt'
-gem 'parslet'
-gem 'rspec'

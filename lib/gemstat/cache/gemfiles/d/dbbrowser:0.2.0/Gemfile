@@ -1,0 +1,6 @@
+gem 'textutils'
+gem 'activerecord'
+gem 'activerecord-utils'
+gem 'sinatra'
+gem 'rdoc'
+gem 'hoe'

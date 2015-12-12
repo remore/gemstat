@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'net-dns'
-gem 'mail'
-gem 'dkim'
-gem 'work_queue'

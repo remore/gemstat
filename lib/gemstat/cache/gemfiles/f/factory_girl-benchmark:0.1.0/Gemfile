@@ -1,0 +1,5 @@
+gem 'factory_girl'
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

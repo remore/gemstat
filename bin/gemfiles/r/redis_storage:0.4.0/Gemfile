@@ -1,8 +1,0 @@
-gem 'redis'
-gem 'json'
-gem 'activemodel'
-gem 'rspec'
-gem 'mocha'
-gem 'mock_redis'
-gem 'generator_spec'
-gem 'rails'

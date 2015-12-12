@@ -1,6 +1,0 @@
-gem 'bigdecimal'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'rspec-parameterized'

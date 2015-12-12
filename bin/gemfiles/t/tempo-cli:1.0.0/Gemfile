@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'turn'
-gem 'pry'
-gem 'gli'
-gem 'chronic'

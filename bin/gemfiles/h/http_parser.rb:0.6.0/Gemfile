@@ -1,6 +1,0 @@
-gem 'rake-compiler'
-gem 'rspec'
-gem 'json'
-gem 'benchmark_suite'
-gem 'ffi'
-gem 'yajl-ruby'

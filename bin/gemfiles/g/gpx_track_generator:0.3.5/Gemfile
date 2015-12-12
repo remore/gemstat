@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'thor'
-gem 'activesupport'
-gem 'fedux_org-stdlib'

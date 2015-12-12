@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'debugger'
-gem 'webmock'
-gem 'vcr'
-gem 'turn'
-gem 'rake'

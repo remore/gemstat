@@ -1,8 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-file-resources'
-gem 'json'
-gem 'mime-types'
-gem 'capistrano-platform-resources'
-gem 'net-scp'
-gem 'net-ssh'
-gem 'vagrant'

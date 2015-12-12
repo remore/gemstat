@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'activeresource'
-gem 'main'
-gem 'highline'

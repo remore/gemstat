@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'addressable'
+gem 'http'
+gem 'rspec'
+gem 'activemodel'

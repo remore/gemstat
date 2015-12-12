@@ -1,0 +1,5 @@
+gem 'extlib'
+gem 'dm-aggregates'
+gem 'dm-timestamps'
+gem 'dm-core'
+gem 'activesupport'

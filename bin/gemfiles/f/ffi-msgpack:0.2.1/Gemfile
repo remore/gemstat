@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'rubygems-tasks'
-gem 'rspec'
-gem 'yard'

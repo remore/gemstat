@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'rails_admin'
-gem 'globalize'
-gem 'haml-rails'
-gem 'coffee-rails'
-gem 'sass-rails'

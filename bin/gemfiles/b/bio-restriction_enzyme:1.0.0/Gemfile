@@ -1,5 +1,0 @@
-gem 'bio-data-restriction_enzyme'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'bio'

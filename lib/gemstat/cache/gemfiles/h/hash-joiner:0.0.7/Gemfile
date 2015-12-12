@@ -1,0 +1,5 @@
+gem 'safe_yaml'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'codeclimate-test-reporter'

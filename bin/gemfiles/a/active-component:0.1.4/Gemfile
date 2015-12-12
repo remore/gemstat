@@ -1,8 +1,0 @@
-gem 'mustache'
-gem 'sqlite3'
-gem 'faker'
-gem 'pry'
-gem 'mocha'
-gem 'coveralls'
-gem 'sinatra'
-gem 'rails'

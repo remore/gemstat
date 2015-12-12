@@ -1,3 +1,0 @@
-gem 'ruby-password'
-gem 'shredder'
-gem 'symmetric_gpg'

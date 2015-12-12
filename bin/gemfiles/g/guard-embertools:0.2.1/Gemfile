@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'

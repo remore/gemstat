@@ -1,0 +1,7 @@
+gem 'wordnet'
+gem 'wordnet-defaultdb'
+gem 'bundler'
+gem 'rake'
+gem 'pry-rescue'
+gem 'rspec'
+gem 'simplecov'

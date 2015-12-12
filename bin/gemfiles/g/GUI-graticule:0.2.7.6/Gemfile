@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'english'
-gem 'fastercsv'
-gem 'hoe'

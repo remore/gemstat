@@ -1,4 +1,0 @@
-gem 'redis-namespace'
-gem 'vegas'
-gem 'sinatra'
-gem 'multi_json'

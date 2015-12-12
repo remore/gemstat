@@ -1,4 +1,0 @@
-gem 'rubyzip'
-gem 'xml-magic'
-gem 'tomk32-flickr_fu'
-gem 'iptc'

@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'json'
-gem 'activesupport'
-gem 'i18n'
-gem 'shoulda'

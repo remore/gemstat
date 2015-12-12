@@ -1,3 +1,0 @@
-gem 'sinatra'
-gem 'activesupport'
-gem 'rspec'

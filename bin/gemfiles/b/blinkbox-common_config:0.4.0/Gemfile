@@ -1,5 +1,0 @@
-gem 'java_properties'
-gem 'ruby-units'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

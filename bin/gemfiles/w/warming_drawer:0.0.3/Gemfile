@@ -1,7 +1,0 @@
-gem 'sidekiq'
-gem 'httpclient'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'
-gem 'rake'
-gem 'webmock'

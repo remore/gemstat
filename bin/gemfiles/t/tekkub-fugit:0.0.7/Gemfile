@@ -1,3 +1,0 @@
-gem 'wxruby'
-gem 'mime-types'
-gem 'diff-lcs'

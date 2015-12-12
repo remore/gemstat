@@ -1,4 +1,0 @@
-gem 'mongoid'
-gem 'rspec'
-gem 'autotest'
-gem 'yard'

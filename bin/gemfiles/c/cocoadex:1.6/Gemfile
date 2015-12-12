@@ -1,7 +1,0 @@
-gem 'rdoc'
-gem 'rake'
-gem 'methadone'
-gem 'term-ansicolor'
-gem 'ruby-progressbar'
-gem 'bri'
-gem 'nokogiri'

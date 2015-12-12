@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'octokit'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

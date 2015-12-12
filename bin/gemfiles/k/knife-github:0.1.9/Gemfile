@@ -1,4 +1,0 @@
-gem 'mixlib-versioning'
-gem 'highline'
-gem 'rb-readline'
-gem 'chef'

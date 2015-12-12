@@ -1,3 +1,0 @@
-gem 'middleman-core'
-gem 'uglifier'
-gem 'ejs'

@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'coveralls'
-gem 'webmock'
-gem 'vcr'

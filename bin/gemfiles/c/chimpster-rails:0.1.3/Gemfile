@@ -1,5 +1,0 @@
-gem 'actionmailer'
-gem 'chimpster'
-gem 'rake'
-gem 'uakari'
-gem 'json'

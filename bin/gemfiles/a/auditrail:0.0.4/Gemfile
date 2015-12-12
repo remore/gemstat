@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'railties'
-gem 'rspec'
-gem 'sqlite3-ruby'

@@ -1,8 +1,0 @@
-gem 'celluloid'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'simplecov'
-gem 'guard-rspec'
-gem 'codeclimate-test-reporter'

@@ -1,8 +1,0 @@
-gem 'mongoid'
-gem 'stringex'
-gem 'bundler'
-gem 'coveralls'
-gem 'guard'
-gem 'guard-minitest'
-gem 'minitest'
-gem 'rake'

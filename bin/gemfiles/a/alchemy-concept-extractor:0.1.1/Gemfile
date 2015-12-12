@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'rdf'
-gem 'rdf-rdfxml'
-gem 'rdf-trig'
-gem 'rdf-turtle'
-gem 'rdf-xsd'

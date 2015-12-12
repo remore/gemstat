@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'activeresource'
-gem 'bundler'
-gem 'rake'

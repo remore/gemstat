@@ -1,0 +1,2 @@
+gem 'ember-auth-strategy-dummy-source'
+gem 'rails'

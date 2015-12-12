@@ -1,4 +1,0 @@
-gem 'highline'
-gem 'ezcrypto'
-gem 'rspec'
-gem 'rake'

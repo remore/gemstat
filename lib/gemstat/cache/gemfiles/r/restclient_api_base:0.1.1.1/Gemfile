@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'lumberjack'
+gem 'bundler'
+gem 'rake'

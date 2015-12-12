@@ -1,3 +1,0 @@
-gem 'gdk_pixbuf2'
-gem 'clutter'
-gem 'gstreamer'

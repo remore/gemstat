@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'aws-sdk-core'
-gem 'terminal-table'
-gem 'bundler'
-gem 'rake'

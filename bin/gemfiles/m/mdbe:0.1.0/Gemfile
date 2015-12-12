@@ -1,3 +1,0 @@
-gem 'sinatra'
-gem 'sinatra-contrib'
-gem 'multi_json'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'acts_as_list'
-gem 'inherited_resources'
-gem 'th_simple_admin_panel'
-gem 'th_simple_data_presentation'
-gem 'chosen-rails'

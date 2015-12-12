@@ -1,0 +1,4 @@
+gem 'mime-types'
+gem 'webmock'
+gem 'rspec'
+gem 'netrc'

@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'mongo'
-gem 'mustache'
-gem 'shoulda'

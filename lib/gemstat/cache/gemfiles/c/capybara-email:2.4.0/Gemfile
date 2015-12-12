@@ -1,0 +1,6 @@
+gem 'mail'
+gem 'capybara'
+gem 'actionmailer'
+gem 'bourne'
+gem 'rspec'
+gem 'rake'

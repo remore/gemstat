@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake-compiler'
-gem 'rspec'
-gem 'simplecov'

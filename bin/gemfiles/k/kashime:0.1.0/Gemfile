@@ -1,5 +1,0 @@
-gem 'fog'
-gem 'thor'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

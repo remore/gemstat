@@ -1,5 +1,0 @@
-gem 'rspec-core'
-gem 'minitest'
-gem 'what_weve_got_here_is_an_error_to_communicate'
-gem 'haiti'
-gem 'cucumber'

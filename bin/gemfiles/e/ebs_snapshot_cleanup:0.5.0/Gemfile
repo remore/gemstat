@@ -1,2 +1,0 @@
-gem 'amazon-ec2'
-gem 'aws_credentials'

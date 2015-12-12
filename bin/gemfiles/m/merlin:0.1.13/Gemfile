@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'deep_merge'
-gem 'rspec'
-gem 'capybara'

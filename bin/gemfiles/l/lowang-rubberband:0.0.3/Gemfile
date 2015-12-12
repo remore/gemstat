@@ -1,3 +1,0 @@
-gem 'patron'
-gem 'yajl-ruby'
-gem 'shoulda'

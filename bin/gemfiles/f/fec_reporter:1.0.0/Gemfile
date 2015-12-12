@@ -1,7 +1,0 @@
-gem 'fech'
-gem 'byebug'
-gem 'rake'
-gem 'rspec'
-gem 'mocha'
-gem 'bundler'
-gem 'rdoc'

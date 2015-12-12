@@ -1,5 +1,0 @@
-gem 'haml'
-gem 'rubocop'
-gem 'sysexits'
-gem 'rspec'
-gem 'rspec-its'

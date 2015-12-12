@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'activesupport'
-gem 'rspec'
-gem 'rubygems-tasks'
-gem 'timecop'
-gem 'codeclimate-test-reporter'
-gem 'rubocop'

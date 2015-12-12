@@ -1,7 +1,0 @@
-gem 'clamp'
-gem 'clarence'
-gem 'fog'
-gem 'ipaddress'
-gem 'rake'
-gem 'scrolls'
-gem 'minitest'

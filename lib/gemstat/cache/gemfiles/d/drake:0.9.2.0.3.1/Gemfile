@@ -1,0 +1,4 @@
+gem 'comp_tree'
+gem 'minitest'
+gem 'session'
+gem 'flexmock'

@@ -1,0 +1,8 @@
+gem 'mustache'
+gem 'handlebars'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'

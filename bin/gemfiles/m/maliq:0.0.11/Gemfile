@@ -1,5 +1,0 @@
-gem 'trollop'
-gem 'rdiscount'
-gem 'liquid'
-gem 'gepub'
-gem 'rspec'

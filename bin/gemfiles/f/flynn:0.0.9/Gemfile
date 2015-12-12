@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'i18n'
-gem 'rspec'
-gem 'cover_me'

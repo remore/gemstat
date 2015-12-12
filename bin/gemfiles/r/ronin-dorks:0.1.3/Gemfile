@@ -1,5 +1,0 @@
-gem 'ronin'
-gem 'gscraper'
-gem 'rspec'
-gem 'yard'
-gem 'hoe'

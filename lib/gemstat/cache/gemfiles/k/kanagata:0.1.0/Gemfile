@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'erubis'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'

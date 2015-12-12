@@ -1,0 +1,5 @@
+gem 'json'
+gem 'curb'
+gem 'diffy'
+gem 'rainbow'
+gem 'gemnasium-parser'

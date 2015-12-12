@@ -1,4 +1,0 @@
-gem 'nokogiri-happymapper'
-gem 'byebug'
-gem 'bundler'
-gem 'rake'

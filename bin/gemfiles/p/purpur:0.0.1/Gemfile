@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'
-gem 'uglifier'
-gem 'csso-rails'

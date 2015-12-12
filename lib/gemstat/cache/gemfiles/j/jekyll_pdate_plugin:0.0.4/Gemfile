@@ -1,0 +1,4 @@
+gem 'parsi-date'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

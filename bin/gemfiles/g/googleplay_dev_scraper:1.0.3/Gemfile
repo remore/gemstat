@@ -1,4 +1,0 @@
-gem 'mechanize'
-gem 'rspec'
-gem 'rake'
-gem 'rdoc'

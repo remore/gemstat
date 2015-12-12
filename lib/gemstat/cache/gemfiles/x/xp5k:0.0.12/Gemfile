@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'restfully'
+gem 'term-ansicolor'
+gem 'json'
+gem 'net-ssh-multi'
+gem 'bundler'

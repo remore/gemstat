@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'hyperion-api'
-gem 'riak-client'

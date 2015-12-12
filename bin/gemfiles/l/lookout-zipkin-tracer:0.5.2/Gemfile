@@ -1,6 +1,0 @@
-gem 'finagle-thrift'
-gem 'rack'
-gem 'rspec'
-gem 'rack-test'
-gem 'hermann'
-gem 'scribe'

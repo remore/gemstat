@@ -1,3 +1,0 @@
-gem 'newrelic_rpm'
-gem 'activesupport'
-gem 'promiscuous'

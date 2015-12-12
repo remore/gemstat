@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'lograge'
-gem 'bundler'
-gem 'rake'

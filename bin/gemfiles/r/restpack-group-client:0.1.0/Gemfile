@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'yajl-ruby'
-gem 'rspec'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'json'
-gem 'rake'
-gem 'bundler'
-gem 'yard'
-gem 'minitest'
-gem 'minitest-great_expectations'
-gem 'minitest-reporters'

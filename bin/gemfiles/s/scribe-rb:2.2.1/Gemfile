@@ -1,4 +1,0 @@
-gem 'thrift'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'

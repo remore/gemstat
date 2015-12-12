@@ -1,6 +1,0 @@
-gem 'require_relative'
-gem 'rake'
-gem 'guard'
-gem 'guard-minitest'
-gem 'facter'
-gem 'minitest'

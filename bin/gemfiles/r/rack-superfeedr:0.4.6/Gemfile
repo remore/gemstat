@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'shoulda'
-gem 'turn'
-gem 'bundler'
-gem 'jeweler'
-gem 'thin'
-gem 'test-unit'

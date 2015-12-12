@@ -1,2 +1,0 @@
-gem 'warden'
-gem 'bcrypt-ruby'

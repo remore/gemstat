@@ -1,7 +1,0 @@
-gem 'interactor'
-gem 'tracker-p_g'
-gem 'bundler'
-gem 'foreman'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

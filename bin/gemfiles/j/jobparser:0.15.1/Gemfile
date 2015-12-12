@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'
-gem 'webmock'
-gem 'open_uri_redirections'
-gem 'nokogiri'
-gem 'mongoid'

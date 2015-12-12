@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'devise'
-gem 'oauth2'
-gem 'json'

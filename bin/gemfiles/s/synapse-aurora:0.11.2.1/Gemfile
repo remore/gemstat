@@ -1,7 +1,0 @@
-gem 'aws-sdk'
-gem 'docker-api'
-gem 'zk'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-nav'

@@ -1,4 +1,0 @@
-gem 'actionpack'
-gem 'named_accessors'
-gem 'rake'
-gem 'rspec'

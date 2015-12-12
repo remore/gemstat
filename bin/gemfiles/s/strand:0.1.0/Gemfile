@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'em-spec'
-gem 'eventmachine'
-gem 'jeweler'
-gem 'rcov'
-gem 'rr'
-gem 'rspec'

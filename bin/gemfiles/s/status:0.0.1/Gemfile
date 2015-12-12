@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'rspec-rails'
-gem 'rails'
-gem 'sqlite3'

@@ -1,7 +1,0 @@
-gem 'htmlentities'
-gem 'hpricot'
-gem 'rspec'
-gem 'rdoc'
-gem 'log_buddy'
-gem 'mocha'
-gem 'rails'

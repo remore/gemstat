@@ -1,4 +1,0 @@
-gem 'hipchat-api'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

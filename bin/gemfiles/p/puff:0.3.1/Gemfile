@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'activesupport'
-gem 'redis'
-gem 'hiredis'
-gem 'rake'

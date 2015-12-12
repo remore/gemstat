@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'minitest'
-gem 'rake'
-gem 'encoded_polyline'

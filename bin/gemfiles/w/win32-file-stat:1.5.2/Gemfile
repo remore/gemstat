@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'test-unit'
-gem 'win32-security'
-gem 'rake'

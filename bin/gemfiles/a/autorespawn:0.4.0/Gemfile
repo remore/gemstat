@@ -1,7 +1,0 @@
-gem 'hooks'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'fakefs'
-gem 'flexmock'
-gem 'coveralls'

@@ -1,0 +1,6 @@
+gem 'curses'
+gem 'safe_colorize'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'awesome_print'

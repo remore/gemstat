@@ -1,0 +1,6 @@
+gem 'rugged'
+gem 'parser'
+gem 'diffy'
+gem 'trollop'
+gem 'rake'
+gem 'rspec'

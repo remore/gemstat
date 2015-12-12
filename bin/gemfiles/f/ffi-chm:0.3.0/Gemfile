@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'bindata'
-gem 'nokogiri'
-gem 'hoe'

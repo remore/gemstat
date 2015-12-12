@@ -1,0 +1,7 @@
+gem 'http'
+gem 'activesupport'
+gem 'activemodel'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-stack_explorer'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'libxml-ruby'
-gem 'nokogiri'

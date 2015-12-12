@@ -1,5 +1,0 @@
-gem 'sinatra'
-gem 'tree'
-gem 'sinatra-contrib'
-gem 'rake'
-gem 'minitest'

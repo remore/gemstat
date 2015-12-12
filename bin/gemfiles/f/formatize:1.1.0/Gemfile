@@ -1,4 +1,0 @@
-gem 'RedCloth'
-gem 'bluecloth'
-gem 'actionpack'
-gem 'rake'

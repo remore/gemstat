@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'mock_redis'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'

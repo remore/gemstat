@@ -1,7 +1,0 @@
-gem 'streamio'
-gem 'thor'
-gem 'ruby-progressbar'
-gem 'multi_json'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

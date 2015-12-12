@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'sinatra'
-gem 'rack-test'
-gem 'warden'
-gem 'rocra'

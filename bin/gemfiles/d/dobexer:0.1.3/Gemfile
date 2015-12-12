@@ -1,3 +1,0 @@
-gem 'delayed_job'
-gem 'exception_notification'
-gem 'rails'

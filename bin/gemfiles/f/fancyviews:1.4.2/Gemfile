@@ -1,5 +1,0 @@
-gem 'sinatra'
-gem 'haml'
-gem 'exemplor'
-gem 'fancypath'
-gem 'rack-test'

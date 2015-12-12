@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'pg'
+gem 'rails'
+gem 'bundler'
+gem 'rake'

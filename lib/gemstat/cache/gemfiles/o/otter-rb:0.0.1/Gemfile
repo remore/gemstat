@@ -1,0 +1,4 @@
+gem 'em-http-request'
+gem 'yajl-ruby'
+gem 'minitest'
+gem 'yard'

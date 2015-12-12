@@ -1,0 +1,8 @@
+gem 'system_timer'
+gem 'mime-types'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'webmock'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'

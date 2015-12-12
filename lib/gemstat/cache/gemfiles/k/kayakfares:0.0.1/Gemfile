@@ -1,0 +1,7 @@
+gem 'mechanize'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'
+gem 'guard-rspec'
+gem 'pry'

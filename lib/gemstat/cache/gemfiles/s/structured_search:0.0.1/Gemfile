@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'coveralls'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'guard-spork'
+gem 'byebug'
+gem 'google_custom_search_api'

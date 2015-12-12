@@ -1,4 +1,0 @@
-gem 'turnip'
-gem 'mocha'
-gem 'rspec'
-gem 'nokogiri'

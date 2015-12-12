@@ -1,0 +1,6 @@
+gem 'highrise'
+gem 'rspec'
+gem 'rspec-mocks'
+gem 'rake'
+gem 'pry'
+gem 'pry-nav'

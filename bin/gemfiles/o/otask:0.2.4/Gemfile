@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'chronic'
-gem 'rb-appscript'
-gem 'amatch'

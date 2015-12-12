@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'json'
-gem 'wildcloud-logger'
-gem 'wildcloud-configuration'

@@ -1,6 +1,0 @@
-gem 'rdoc'
-gem 'require_all'
-gem 'rdp-arguments'
-gem 'sane'
-gem 'ParseTree'
-gem 'ruby2ruby'

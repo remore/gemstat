@@ -1,4 +1,0 @@
-gem 'hoe-doofus'
-gem 'hoe-git'
-gem 'hoe-gemcutter'
-gem 'hoe'

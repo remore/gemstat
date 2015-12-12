@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'spec'
-gem 'rspec'
-gem 'rake'
-gem 'jeweler'
-gem 'appraisal'
-gem 'simplecov'

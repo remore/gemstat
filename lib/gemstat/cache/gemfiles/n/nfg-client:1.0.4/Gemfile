@@ -1,0 +1,5 @@
+gem 'andand'
+gem 'rspec'
+gem 'simplecov'
+gem 'mocha'
+gem 'rake'

@@ -1,0 +1,7 @@
+gem 'paperclip'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'fog'
+gem 'bundler'
+gem 'rake'
+gem 'appraisal'

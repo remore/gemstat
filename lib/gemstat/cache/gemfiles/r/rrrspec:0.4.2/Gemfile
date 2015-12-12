@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'rrrspec-client'
+gem 'rrrspec-server'
+gem 'rrrspec-web'

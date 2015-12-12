@@ -1,0 +1,8 @@
+gem 'pit'
+gem 'rest-client'
+gem 'trollop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'webmock'

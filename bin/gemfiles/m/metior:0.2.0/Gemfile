@@ -1,8 +1,0 @@
-gem 'grit'
-gem 'hashery'
-gem 'mustache'
-gem 'octokit'
-gem 'mocha'
-gem 'rake'
-gem 'shoulda'
-gem 'yard'

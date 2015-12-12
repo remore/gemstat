@@ -1,0 +1,4 @@
+gem 'mongo'
+gem 'activesupport'
+gem 'rspec'
+gem 'mocha'

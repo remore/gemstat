@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'streamio-ffmpeg'
+gem 'bundler'
+gem 'rake'

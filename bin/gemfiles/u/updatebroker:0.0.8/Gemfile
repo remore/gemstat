@@ -1,4 +1,0 @@
-gem 'hiredis'
-gem 'em-hiredis'
-gem 'em-synchrony'
-gem 'goliath'

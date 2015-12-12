@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'recursive-open-struct'
+gem 'json'

@@ -1,7 +1,0 @@
-gem 'pry'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'vcr'
-gem 'webmock'
-gem 'rest-client'

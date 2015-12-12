@@ -1,0 +1,5 @@
+gem 'colorize'
+gem 'gli'
+gem 'listen'
+gem 'match_files'
+gem 'activeresource'

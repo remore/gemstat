@@ -1,4 +1,0 @@
-gem 'activesupport-core-ext'
-gem 'rake'
-gem 'bundler'
-gem 'jeweler'

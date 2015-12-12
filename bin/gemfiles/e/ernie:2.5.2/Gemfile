@@ -1,3 +1,0 @@
-gem 'bert'
-gem 'bertrpc'
-gem 'shoulda'

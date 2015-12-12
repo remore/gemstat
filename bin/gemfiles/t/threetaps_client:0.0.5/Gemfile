@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'json'
-gem 'rest-client'
-gem 'mime-types'

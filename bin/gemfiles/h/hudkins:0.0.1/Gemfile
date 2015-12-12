@@ -1,6 +1,0 @@
-gem 'json'
-gem 'nokogiri'
-gem 'rest-client'
-gem 'minitest'
-gem 'mocha'
-gem 'hoe'

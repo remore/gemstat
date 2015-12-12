@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'open4'
-gem 'voloko-sdoc'
-gem 'technicalpickles-jeweler'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'guard'
-gem 'libnotify'
-gem 'guard-rspec'
-gem 'nokogiri'

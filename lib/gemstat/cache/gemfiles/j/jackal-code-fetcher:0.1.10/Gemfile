@@ -1,0 +1,4 @@
+gem 'jackal'
+gem 'git'
+gem 'jackal-assets'
+gem 'carnivore-actor'

@@ -1,6 +1,0 @@
-gem 'nanoc'
-gem 'nokogiri'
-gem 'jsmin'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

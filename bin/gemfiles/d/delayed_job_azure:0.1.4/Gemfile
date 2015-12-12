@@ -1,7 +1,0 @@
-gem 'azure'
-gem 'delayed_job'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'rspec'

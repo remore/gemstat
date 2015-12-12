@@ -1,8 +1,0 @@
-gem 'json'
-gem 'bundler'
-gem 'rake'
-gem 'coveralls'
-gem 'minitest'
-gem 'webmock'
-gem 'inch'
-gem 'rubocop'

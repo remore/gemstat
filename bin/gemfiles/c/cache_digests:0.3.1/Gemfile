@@ -1,4 +1,0 @@
-gem 'actionpack'
-gem 'thread_safe'
-gem 'rake'
-gem 'minitest'

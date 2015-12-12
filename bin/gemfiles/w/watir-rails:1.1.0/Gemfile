@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'rails'
-gem 'watir'
-gem 'yard'
-gem 'redcarpet'
-gem 'rspec'

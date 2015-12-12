@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'cloudstrg'
-gem 'dropbox-sdk'
-gem 'sqlite3'

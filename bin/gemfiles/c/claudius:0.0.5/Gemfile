@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'fog'
-gem 'net-ssh'
-gem 'graph'
-gem 'awesome_print'

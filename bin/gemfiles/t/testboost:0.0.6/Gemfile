@@ -1,7 +1,0 @@
-gem 'json'
-gem 'net-scp'
-gem 'net-ssh'
-gem 'io'
-gem 'pry'
-gem 'pry-nav'
-gem 'activesupport'

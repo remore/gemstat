@@ -1,6 +1,0 @@
-gem 'roger'
-gem 'rubocop'
-gem 'rake'
-gem 'test-unit'
-gem 'thor'
-gem 'mocha'

@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'libxml-ruby'
+gem 'xmlhasher'
+gem 'rdoc'
+gem 'rake'
+gem 'webmock'

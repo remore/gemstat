@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'blueprints'
-gem 'mocha'
-gem 'activesupport'
-gem 'actionpack'

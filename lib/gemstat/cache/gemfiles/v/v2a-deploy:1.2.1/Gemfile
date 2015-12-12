@@ -1,0 +1,5 @@
+gem 'capistrano'
+gem 'capistrano_ssh'
+gem 'capistrano_rails_console'
+gem 'capistrano_mongo'
+gem 'rake'

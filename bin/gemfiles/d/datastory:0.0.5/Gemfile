@@ -1,4 +1,0 @@
-gem 'redcarpet'
-gem 'erubis'
-gem 'bundler'
-gem 'rake'

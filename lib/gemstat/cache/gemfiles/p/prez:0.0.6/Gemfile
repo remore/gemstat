@@ -1,0 +1,8 @@
+gem 'coffee-script'
+gem 'launchy'
+gem 'sass'
+gem 'therubyracer'
+gem 'thor'
+gem 'uglifier'
+gem 'bundler'
+gem 'rake'

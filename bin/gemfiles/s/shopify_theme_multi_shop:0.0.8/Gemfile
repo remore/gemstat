@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'httparty'
-gem 'json'
-gem 'listen'

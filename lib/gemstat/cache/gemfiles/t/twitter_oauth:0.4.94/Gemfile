@@ -1,0 +1,5 @@
+gem 'oauth'
+gem 'json'
+gem 'mime-types'
+gem 'shoulda'
+gem 'mocha'

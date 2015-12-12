@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'mustache'
-gem 'rake'
-gem 'aruba'

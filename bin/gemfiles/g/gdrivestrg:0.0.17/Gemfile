@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'cloudstrg'
-gem 'google-api-client'
-gem 'sqlite3'

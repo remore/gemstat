@@ -1,3 +1,0 @@
-gem 'camping'
-gem 'activerecord'
-gem 'sqlite3'

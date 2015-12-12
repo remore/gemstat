@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'capistrano'
+gem 'eycap'
+gem 'newrelic_rpm'
+gem 'tinder'

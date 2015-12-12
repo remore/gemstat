@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'nextday'
-gem 'jquery-rails'
-gem 'sqlite3'

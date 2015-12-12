@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'faker'
-gem 'sqlite3'

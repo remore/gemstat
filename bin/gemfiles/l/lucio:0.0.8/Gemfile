@@ -1,5 +1,0 @@
-gem 'sparse'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

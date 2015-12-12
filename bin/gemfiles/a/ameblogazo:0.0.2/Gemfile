@@ -1,4 +1,0 @@
-gem 'capybara'
-gem 'capybara-webkit'
-gem 'headless'
-gem 'rspec'

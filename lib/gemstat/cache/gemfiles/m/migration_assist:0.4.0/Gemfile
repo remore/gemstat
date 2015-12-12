@@ -1,0 +1,8 @@
+gem 'require_all'
+gem 'rails'
+gem 'sugar-high'
+gem 'rails_artifactor'
+gem 'shoulda'
+gem 'jeweler'
+gem 'bundler'
+gem 'rcov'

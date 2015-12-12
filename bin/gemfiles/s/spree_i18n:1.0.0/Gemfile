@@ -1,8 +1,0 @@
-gem 'spree'
-gem 'i18n'
-gem 'rails'
-gem 'rspec-rails'
-gem 'i18n-spec'
-gem 'spork'
-gem 'sqlite3'
-gem 'i18n-spec'

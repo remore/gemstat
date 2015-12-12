@@ -1,0 +1,6 @@
+gem 'httparty'
+gem 'nori'
+gem 'nokogiri'
+gem 'xml-simple'
+gem 'roxml'
+gem 'i18n'

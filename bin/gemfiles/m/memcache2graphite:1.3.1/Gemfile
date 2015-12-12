@@ -1,4 +1,0 @@
-gem 'simple-graphite'
-gem 'dalli'
-gem 'eventmachine'
-gem 'daemons'

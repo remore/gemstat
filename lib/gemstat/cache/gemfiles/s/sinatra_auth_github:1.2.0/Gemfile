@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'warden-github'
+gem 'rake'
+gem 'rspec'
+gem 'shotgun'
+gem 'randexp'
+gem 'rack-test'

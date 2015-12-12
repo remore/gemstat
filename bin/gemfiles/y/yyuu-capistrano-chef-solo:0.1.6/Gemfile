@@ -1,3 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-copy-subdir'
-gem 'capistrano-rbenv'

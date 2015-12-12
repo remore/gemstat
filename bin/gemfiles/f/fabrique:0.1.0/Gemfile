@@ -1,5 +1,0 @@
-gem 'liquid'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'cucumber'

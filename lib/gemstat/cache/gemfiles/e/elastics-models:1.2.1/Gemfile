@@ -1,0 +1,3 @@
+gem 'elastics-client'
+gem 'elastics-scopes'
+gem 'active_attr'

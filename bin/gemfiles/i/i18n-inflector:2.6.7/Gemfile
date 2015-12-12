@@ -1,8 +1,0 @@
-gem 'i18n'
-gem 'hoe-yard'
-gem 'test_declarative'
-gem 'yard'
-gem 'rdoc'
-gem 'bundler'
-gem 'hoe-bundler'
-gem 'hoe'

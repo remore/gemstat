@@ -1,4 +1,0 @@
-gem 'redcarpet'
-gem 'rspec'
-gem 'rake'
-gem 'yard'

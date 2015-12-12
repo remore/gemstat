@@ -1,4 +1,0 @@
-gem 'merb-core'
-gem 'mongrel'
-gem 'sequel'
-gem 'mysql'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'coffee-script'
+gem 'uglifier'

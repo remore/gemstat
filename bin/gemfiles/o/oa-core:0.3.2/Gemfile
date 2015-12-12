@@ -1,6 +1,0 @@
-gem 'rack-test'
-gem 'rake'
-gem 'rdiscount'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'

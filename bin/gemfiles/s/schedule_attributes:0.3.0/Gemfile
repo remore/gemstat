@@ -1,7 +1,0 @@
-gem 'ice_cube'
-gem 'activesupport'
-gem 'tzinfo'
-gem 'rspec'
-gem 'pry'
-gem 'activerecord'
-gem 'sqlite3'

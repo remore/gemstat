@@ -1,0 +1,8 @@
+gem 'riot'
+gem 'rr'
+gem 'eventmachine'
+gem 'json_pure'
+gem 'daemons'
+gem 'thor'
+gem 'ruby-mp3info'
+gem 'growl'

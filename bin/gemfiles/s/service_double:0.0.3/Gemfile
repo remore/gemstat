@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'sinatra'
-gem 'verbose_hash_fetch'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'cucumber'

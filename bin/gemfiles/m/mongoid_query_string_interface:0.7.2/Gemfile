@@ -1,5 +1,0 @@
-gem 'query_string_interface'
-gem 'will_paginate'
-gem 'mongoid'
-gem 'rspec'
-gem 'database_cleaner'

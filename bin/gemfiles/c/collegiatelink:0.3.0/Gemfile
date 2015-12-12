@@ -1,6 +1,0 @@
-gem 'guid'
-gem 'nokogiri'
-gem 'representable'
-gem 'socksify'
-gem 'rspec'
-gem 'net-ssh'

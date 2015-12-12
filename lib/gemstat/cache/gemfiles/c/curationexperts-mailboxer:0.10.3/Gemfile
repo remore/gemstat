@@ -1,0 +1,8 @@
+gem 'foreigner'
+gem 'rails'
+gem 'carrierwave'
+gem 'rspec-rails'
+gem 'factory_girl'
+gem 'forgery'
+gem 'capybara'
+gem 'sqlite3'

@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'axlsx'
-gem 'logstash-devutils'

@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'font-awesome-rails'
-gem 'coveralls'
-gem 'sqlite3'

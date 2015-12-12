@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'parallel'
+gem 'net-ping'
+gem 'ruby-progressbar'

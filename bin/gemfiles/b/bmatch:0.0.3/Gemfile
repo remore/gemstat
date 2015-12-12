@@ -1,5 +1,0 @@
-gem 'ffi'
-gem 'pry'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'guard-rspec'
-gem 'rack-test'
-gem 'rake'
-gem 'rspec'
-gem 'chef'
-gem 'omniauth'

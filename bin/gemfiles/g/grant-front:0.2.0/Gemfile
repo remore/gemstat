@@ -1,4 +1,0 @@
-gem 'kramdown'
-gem 'rack'
-gem 'bundler'
-gem 'rake'

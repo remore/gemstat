@@ -1,6 +1,0 @@
-gem 'json'
-gem 'oauth'
-gem 'rake'
-gem 'jnunemaker-matchy'
-gem 'shoulda'
-gem 'mocha'

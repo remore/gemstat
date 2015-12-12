@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'rb-fsevent'
-gem 'growl_notify'

@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'jruby-openssl'
-gem 'nokogiri'
-gem 'sundawg_country_codes'
-gem 'savon'
-gem 'i18n'

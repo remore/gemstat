@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'json'
-gem 'rest-client'
-gem 'rspec'
-gem 'debugger'

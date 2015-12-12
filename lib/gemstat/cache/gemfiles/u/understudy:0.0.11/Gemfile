@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'rdiff-simple'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'fakefs'
+gem 'guard-rspec'

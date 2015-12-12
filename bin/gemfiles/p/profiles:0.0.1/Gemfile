@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'thor'
-gem 'plist'
-gem 'CFPropertyList'
-gem 'nokogiri'

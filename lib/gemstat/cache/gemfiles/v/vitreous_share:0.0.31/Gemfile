@@ -1,0 +1,8 @@
+gem 'json'
+gem 'dropbox'
+gem 'mustache'
+gem 'rdiscount'
+gem 'bundler'
+gem 'mocha'
+gem 'dummy_dropbox'
+gem 'rake'

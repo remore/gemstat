@@ -1,5 +1,0 @@
-gem 'rocco'
-gem 'redcarpet'
-gem 'github-markup'
-gem 'mustache'
-gem 'pygmentize'

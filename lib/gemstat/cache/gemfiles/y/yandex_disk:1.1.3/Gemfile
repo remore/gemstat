@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'
+gem 'fastimage'

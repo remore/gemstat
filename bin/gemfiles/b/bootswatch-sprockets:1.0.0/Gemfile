@@ -1,4 +1,0 @@
-gem 'bootstrap-sass'
-gem 'pry'
-gem 'bundler'
-gem 'rake'

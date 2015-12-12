@@ -1,8 +1,0 @@
-gem 'json'
-gem 'activerecord'
-gem 'redis'
-gem 'bundler'
-gem 'sqlite3'
-gem 'rake'
-gem 'test-unit'
-gem 'shoulda-context'

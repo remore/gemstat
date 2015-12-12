@@ -1,0 +1,6 @@
+gem 'biodiversity'
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'coveralls'

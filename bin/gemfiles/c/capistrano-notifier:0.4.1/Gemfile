@@ -1,6 +1,0 @@
-gem 'actionmailer'
-gem 'activesupport'
-gem 'capistrano'
-gem 'rake'
-gem 'rspec'
-gem 'timecop'

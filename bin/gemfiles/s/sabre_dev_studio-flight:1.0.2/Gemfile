@@ -1,5 +1,0 @@
-gem 'webmock'
-gem 'geminabox'
-gem 'rdoc'
-gem 'rake'
-gem 'sabre_dev_studio'

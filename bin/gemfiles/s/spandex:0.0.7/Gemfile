@@ -1,4 +1,0 @@
-gem 'tilt'
-gem 'ratom'
-gem 'rspec'
-gem 'redcarpet'

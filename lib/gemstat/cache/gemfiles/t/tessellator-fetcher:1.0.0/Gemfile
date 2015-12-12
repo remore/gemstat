@@ -1,0 +1,5 @@
+gem 'spinny'
+gem 'openssl-better_defaults'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

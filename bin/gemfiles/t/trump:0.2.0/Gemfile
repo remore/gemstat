@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thor'
-gem 'json_pure'
-gem 'curl_wrapper'
-gem 'clipboard'

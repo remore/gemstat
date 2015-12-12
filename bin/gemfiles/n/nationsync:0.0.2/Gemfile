@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'thor'
-gem 'listen'
-gem 'highline'
-gem 'bundler'
-gem 'rake'

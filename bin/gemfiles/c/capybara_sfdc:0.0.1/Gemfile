@@ -1,3 +1,0 @@
-gem 'capybara'
-gem 'databasedotcom'
-gem 'rspec'

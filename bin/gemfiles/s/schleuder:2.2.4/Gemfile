@@ -1,4 +1,0 @@
-gem 'gpgme'
-gem 'highline'
-gem 'log4r'
-gem 'ruby-filemagic'

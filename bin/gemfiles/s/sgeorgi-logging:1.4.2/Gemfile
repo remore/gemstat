@@ -1,5 +1,0 @@
-gem 'little-plugger'
-gem 'flexmock'
-gem 'bones-git'
-gem 'bones-extras'
-gem 'bones'

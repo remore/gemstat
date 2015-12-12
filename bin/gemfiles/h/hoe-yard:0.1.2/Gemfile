@@ -1,4 +1,0 @@
-gem 'yard'
-gem 'rubyforge'
-gem 'gemcutter'
-gem 'hoe'

@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'json'
-gem 'yard'
-gem 'rake-compiler'

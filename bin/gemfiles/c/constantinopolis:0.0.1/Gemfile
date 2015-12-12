@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'pry-byebug'
-gem 'capybara'
-gem 'launchy'
-gem 'poltergeist'
-gem 'sinatra'

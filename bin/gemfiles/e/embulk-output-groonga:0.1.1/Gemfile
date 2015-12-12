@@ -1,4 +1,0 @@
-gem 'groonga-command-parser'
-gem 'groonga-client'
-gem 'bundler'
-gem 'rake'

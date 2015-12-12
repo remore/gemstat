@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'coveralls'
-gem 'pry'
-gem 'rspec'
-gem 'hashie'
-gem 'eventmachine'
-gem 'segregate'

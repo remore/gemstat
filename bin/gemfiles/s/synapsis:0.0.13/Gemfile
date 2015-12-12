@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'bundler'
-gem 'faker'
-gem 'pry'
-gem 'rake'
-gem 'rspec'

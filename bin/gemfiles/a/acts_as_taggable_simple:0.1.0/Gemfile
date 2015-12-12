@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'activerecord'
-gem 'activesupport'
-gem 'sqlite3-ruby'
-gem 'mongoid'
-gem 'bson_ext'
-gem 'factory_girl'

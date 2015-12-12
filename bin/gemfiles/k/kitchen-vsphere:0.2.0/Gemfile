@@ -1,6 +1,0 @@
-gem 'test-kitchen'
-gem 'rbvmomi'
-gem 'fog'
-gem 'cane'
-gem 'tailor'
-gem 'countloc'

@@ -1,8 +1,0 @@
-gem 'commander'
-gem 'bcrypt-ruby'
-gem 'crypt19'
-gem 'highline'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

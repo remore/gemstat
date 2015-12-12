@@ -1,4 +1,0 @@
-gem 'fluentd'
-gem 'rake'
-gem 'pry'
-gem 'pry-nav'

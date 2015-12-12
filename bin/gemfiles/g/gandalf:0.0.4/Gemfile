@@ -1,4 +1,0 @@
-gem 'feedzirra'
-gem 'activesupport'
-gem 'rufus-scheduler'
-gem 'dm-core'

@@ -1,4 +1,0 @@
-gem 'fog'
-gem 'rmagick'
-gem 'git'
-gem 'progressbar'

@@ -1,0 +1,7 @@
+gem 'enum'
+gem 'shoulda'
+gem 'yard'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

@@ -1,6 +1,0 @@
-gem 'dalli'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'tilt'

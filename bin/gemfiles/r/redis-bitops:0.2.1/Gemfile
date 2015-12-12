@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'rspec'
-gem 'awesome_print'
-gem 'guard-rspec'
-gem 'pry'
-gem 'byebug'
-gem 'pry-byebug'

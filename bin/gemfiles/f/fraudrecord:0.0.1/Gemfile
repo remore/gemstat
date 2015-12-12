@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'activesupport'
-gem 'vcr'
-gem 'webmock'
-gem 'minitest'
-gem 'simplecov'
-gem 'coveralls'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'activesupport'
-gem 'nokogiri'
-gem 'thor'
-gem 'virtus'

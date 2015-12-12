@@ -1,0 +1,6 @@
+gem 'json'
+gem 'cause'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

@@ -1,8 +1,0 @@
-gem 'arel'
-gem 'arel-trigonometry'
-gem 'activerecord'
-gem 'bundler'
-gem 'mysql2'
-gem 'pg'
-gem 'rake'
-gem 'rspec'

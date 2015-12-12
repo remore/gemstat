@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'stratify-base'
+gem 'thoughtafter-simple-rss'
+gem 'database_cleaner'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'

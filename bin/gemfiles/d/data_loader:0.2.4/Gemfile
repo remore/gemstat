@@ -1,4 +1,0 @@
-gem 'fastercsv'
-gem 'activerecord'
-gem 'rspec'
-gem 'rake'

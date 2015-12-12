@@ -1,5 +1,0 @@
-gem 'dragonfly'
-gem 'uber'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

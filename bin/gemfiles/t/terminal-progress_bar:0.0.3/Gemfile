@@ -1,5 +1,0 @@
-gem 'optionalargument'
-gem 'declare'
-gem 'yard'
-gem 'rake'
-gem 'bundler'

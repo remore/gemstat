@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'octokit'
+gem 'rake'
+gem 'bundler'
+gem 'simplecov'
+gem 'rspec'

@@ -1,0 +1,4 @@
+gem 'autoproj'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

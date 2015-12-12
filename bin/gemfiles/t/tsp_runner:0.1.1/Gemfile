@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'bundler'
-gem 'factory_girl'
-gem 'faker'
-gem 'mocha'
-gem 'pry'
-gem 'rake'

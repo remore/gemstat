@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'multi_json'
+gem 'json_pure'
+gem 'rake'
+gem 'rcov'
+gem 'rspec'

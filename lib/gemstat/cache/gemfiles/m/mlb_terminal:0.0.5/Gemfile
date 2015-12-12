@@ -1,0 +1,4 @@
+gem 'commander'
+gem 'nokogiri'
+gem 'activesupport'
+gem 'chronic'

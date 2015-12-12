@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'rspec'
-gem 'rake'
-gem 'mysql2'
-gem 'cucumber'
-gem 'guard-rspec'
-gem 'guard-cucumber'

@@ -1,6 +1,0 @@
-gem 'smart_properties'
-gem 'activesupport'
-gem 'pry'
-gem 'rake'
-gem 'rspec'
-gem 'actionview'

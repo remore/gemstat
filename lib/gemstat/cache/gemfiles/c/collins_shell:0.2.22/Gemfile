@@ -1,0 +1,7 @@
+gem 'collins_client'
+gem 'highline'
+gem 'mustache'
+gem 'pry'
+gem 'rubygems-update'
+gem 'terminal-table'
+gem 'thor'

@@ -1,5 +1,0 @@
-gem 'fnv'
-gem 'rake'
-gem 'minitest'
-gem 'rdoc'
-gem 'simplecov'

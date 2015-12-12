@@ -1,0 +1,4 @@
+gem 'omnifocus'
+gem 'json'
+gem 'rdoc'
+gem 'hoe'

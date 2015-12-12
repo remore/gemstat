@@ -1,0 +1,4 @@
+gem 'sass'
+gem 'autoprefixer-rails'
+gem 'rails'
+gem 'rspec'

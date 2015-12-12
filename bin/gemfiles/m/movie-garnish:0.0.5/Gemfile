@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'imdb'
-gem 'atomic-parsley-ruby'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

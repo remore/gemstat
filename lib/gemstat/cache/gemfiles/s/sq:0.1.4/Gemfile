@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'trollop'
+gem 'ruby-progressbar'
+gem 'simplecov'
+gem 'rake'
+gem 'test-unit'
+gem 'fakeweb'
+gem 'coveralls'

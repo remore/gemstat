@@ -1,5 +1,0 @@
-gem 'htmlentities'
-gem 'rspec-rails'
-gem 'sqlite3'
-gem 'pry'
-gem 'jquery-rails'

@@ -1,0 +1,5 @@
+gem 'sparklines'
+gem 'chronic'
+gem 'mechanize'
+gem 'hpricot'
+gem 'hoe'

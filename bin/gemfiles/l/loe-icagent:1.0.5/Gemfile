@@ -1,4 +1,0 @@
-gem 'uuidtools'
-gem 'rake'
-gem 'launchy'
-gem 'builder'

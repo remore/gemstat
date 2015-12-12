@@ -1,0 +1,4 @@
+gem 'asset_sync'
+gem 'fog'
+gem 'colorize'
+gem 'net-ssh-simple'

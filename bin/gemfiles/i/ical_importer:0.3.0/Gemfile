@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'tzinfo'
-gem 'icalendar'
-gem 'i18n'
-gem 'rake'
-gem 'rspec'
-gem 'awesome_print'

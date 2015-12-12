@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'fredo'
-gem 'rest-client'
-gem 'builder'
-gem 'crack'

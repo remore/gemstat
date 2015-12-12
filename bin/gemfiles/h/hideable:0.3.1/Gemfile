@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'sqlite3'
-gem 'timecop'
-gem 'appraisal'

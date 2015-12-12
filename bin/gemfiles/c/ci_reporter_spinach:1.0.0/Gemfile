@@ -1,7 +1,0 @@
-gem 'ci_reporter'
-gem 'spinach'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-collection_matchers'
-gem 'ci_reporter_test_utils'

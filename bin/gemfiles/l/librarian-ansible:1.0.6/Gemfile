@@ -1,4 +1,0 @@
-gem 'librarian'
-gem 'faraday'
-gem 'rake'
-gem 'rspec'

@@ -1,3 +1,0 @@
-gem 'globalize3'
-gem 'spree_core'
-gem 'rspec-rails'

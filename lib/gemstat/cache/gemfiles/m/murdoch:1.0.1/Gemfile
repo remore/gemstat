@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'ruport'
+gem 'ruport-util'
+gem 'acts_as_reportable'

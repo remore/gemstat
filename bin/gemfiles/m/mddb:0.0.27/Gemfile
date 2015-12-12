@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'mongo_mapper'
-gem 'hirb'
-gem 'thor'
-gem 'micro-optparse'
-gem 'resque'
-gem 'bson_ext'
-gem 'require_all'

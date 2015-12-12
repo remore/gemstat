@@ -1,0 +1,4 @@
+gem 'active_support'
+gem 'json'
+gem 'minitest'
+gem 'mocha'

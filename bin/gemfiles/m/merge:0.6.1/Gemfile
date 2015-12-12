@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'echoe'
-gem 'sqlite3'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'growl'

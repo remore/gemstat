@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'shoulda'
+gem 'mocha'
+gem 'aws-s3'
+gem 'gstore'
+gem 'sqlite3-ruby'

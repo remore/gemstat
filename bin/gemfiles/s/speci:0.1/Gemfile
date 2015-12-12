@@ -1,4 +1,0 @@
-gem 'listen'
-gem 'rb-fsevent'
-gem 'ripl'
-gem 'looksee'

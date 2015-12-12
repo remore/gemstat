@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'liquid'
-gem 'sqlite3'
-gem 'pry'

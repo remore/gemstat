@@ -1,0 +1,4 @@
+gem 'sinatra'
+gem 'redis-namespace'
+gem 'haml'
+gem 'turn'

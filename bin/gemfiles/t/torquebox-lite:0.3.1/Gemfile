@@ -1,6 +1,0 @@
-gem 'torquebox-configure'
-gem 'torquebox-core'
-gem 'torquebox-rake-support'
-gem 'torquebox-web'
-gem 'thor'
-gem 'rspec'

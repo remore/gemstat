@@ -1,0 +1,4 @@
+gem 'parseconfig'
+gem 'rest-client'
+gem 'console_editor'
+gem 'xml-simple'

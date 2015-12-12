@@ -1,6 +1,0 @@
-gem 'thin'
-gem 'sinatra'
-gem 'sinatra-contrib'
-gem 'haml'
-gem 'sanitize'
-gem 'rdiscount'

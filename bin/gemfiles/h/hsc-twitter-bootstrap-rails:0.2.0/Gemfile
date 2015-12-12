@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'actionpack'
-gem 'haml-rails'
-gem 'sass-twitter-bootstrap-rails'

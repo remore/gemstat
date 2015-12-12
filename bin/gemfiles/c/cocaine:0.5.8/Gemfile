@@ -1,7 +1,0 @@
-gem 'climate_control'
-gem 'rspec'
-gem 'bourne'
-gem 'mocha'
-gem 'rake'
-gem 'activesupport'
-gem 'pry'

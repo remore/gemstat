@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'pry-doc'
+gem 'codeclimate-test-reporter'
+gem 'benchmark-ips'
+gem 'ruby-prof'

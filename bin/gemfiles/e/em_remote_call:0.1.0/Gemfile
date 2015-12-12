@@ -1,3 +1,0 @@
-gem 'eventmachine'
-gem 'is_a_collection'
-gem 'em_json_connection'

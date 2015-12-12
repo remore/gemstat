@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'actionpack'
-gem 'ammeter'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'rspec-rails'

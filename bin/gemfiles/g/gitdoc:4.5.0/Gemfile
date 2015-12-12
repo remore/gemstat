@@ -1,5 +1,0 @@
-gem 'rdiscount'
-gem 'haml'
-gem 'sinatra'
-gem 'coffee-script'
-gem 'json'

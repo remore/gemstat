@@ -1,3 +1,0 @@
-gem 'koi-vm-ruby'
-gem 'koi-reference-parser'
-gem 'koi-reference-compiler'

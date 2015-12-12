@@ -1,8 +1,0 @@
-gem 'excon'
-gem 'chunky_png'
-gem 'nokogiri'
-gem 'mechanize'
-gem 'bundler'
-gem 'rake'
-gem 'webmock'
-gem 'vcr'

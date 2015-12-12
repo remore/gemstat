@@ -1,4 +1,0 @@
-gem 'faye'
-gem 'bundler'
-gem 'rake'
-gem 'mocha'

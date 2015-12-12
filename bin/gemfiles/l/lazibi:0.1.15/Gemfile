@@ -1,6 +1,0 @@
-gem 'webgen'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'rcov'
-gem 'coderay'

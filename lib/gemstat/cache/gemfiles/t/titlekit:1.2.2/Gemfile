@@ -1,0 +1,4 @@
+gem 'rchardet19'
+gem 'treetop'
+gem 'rake'
+gem 'rspec'

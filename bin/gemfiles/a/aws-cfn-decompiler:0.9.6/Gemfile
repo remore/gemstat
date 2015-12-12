@@ -1,7 +1,0 @@
-gem 'awesome_print'
-gem 'psych'
-gem 'json'
-gem 'slop'
-gem 'aws-cfn-compiler'
-gem 'aws-cfn-dsl'
-gem 'dldinternet-mixlib-logging'

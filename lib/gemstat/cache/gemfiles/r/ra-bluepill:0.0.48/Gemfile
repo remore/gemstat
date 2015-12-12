@@ -1,0 +1,4 @@
+gem 'daemons'
+gem 'blankslate'
+gem 'state_machine'
+gem 'activesupport'

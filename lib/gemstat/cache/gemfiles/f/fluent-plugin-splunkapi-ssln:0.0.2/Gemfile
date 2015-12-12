@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'net-http-persistent'
+gem 'fluentd'
+gem 'net-http-persistent'

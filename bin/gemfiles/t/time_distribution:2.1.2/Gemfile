@@ -1,8 +1,0 @@
-gem 'chronic'
-gem 'chronic_duration'
-gem 'ruby-duration'
-gem 'rake'
-gem 'awesome_print'
-gem 'minitest'
-gem 'pry-rescue'
-gem 'simplecov'

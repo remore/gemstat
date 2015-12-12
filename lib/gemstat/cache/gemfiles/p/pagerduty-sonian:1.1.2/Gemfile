@@ -1,0 +1,6 @@
+gem 'json'
+gem 'curb'
+gem 'bundler'
+gem 'jeweler'
+gem 'json'
+gem 'curb'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'builder'
+gem 'xml-simple'
+gem 'i18n'
+gem 'activesupport'

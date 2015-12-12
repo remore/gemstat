@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'antlr3'
-gem 'trollop'
-gem 'colorize'

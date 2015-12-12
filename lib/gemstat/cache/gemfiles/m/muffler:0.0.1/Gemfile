@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'bundler'
+gem 'mocha'
+gem 'simplecov'
+gem 'guard-minitest'

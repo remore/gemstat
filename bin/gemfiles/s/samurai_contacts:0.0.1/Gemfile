@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'samurai_core'
-gem 'deface'
-gem 'sqlite3'

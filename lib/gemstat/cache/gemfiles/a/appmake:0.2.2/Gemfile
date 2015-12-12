@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'listen'
+gem 'rb-fsevent'
+gem 'sass'

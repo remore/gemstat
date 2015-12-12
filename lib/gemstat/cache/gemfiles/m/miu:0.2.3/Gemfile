@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'god'
+gem 'ffi-rzmq'
+gem 'msgpack'
+gem 'rake'
+gem 'rspec'
+gem 'celluloid-zmq'

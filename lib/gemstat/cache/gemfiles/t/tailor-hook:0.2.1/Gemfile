@@ -1,0 +1,7 @@
+gem 'tailor'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rr'
+gem 'guard-minitest'

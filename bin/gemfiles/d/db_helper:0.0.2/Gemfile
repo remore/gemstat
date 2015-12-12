@@ -1,6 +1,0 @@
-gem 'input_reader'
-gem 'activesupport'
-gem 'sys-proctable'
-gem 'parseconfig'
-gem 'bundler'
-gem 'rake'

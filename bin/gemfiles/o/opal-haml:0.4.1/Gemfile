@@ -1,4 +1,0 @@
-gem 'opal'
-gem 'haml'
-gem 'opal-rspec'
-gem 'rake'

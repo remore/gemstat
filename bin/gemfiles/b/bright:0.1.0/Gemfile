@@ -1,4 +1,0 @@
-gem 'httpi'
-gem 'json'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'shoulda'
-gem 'mocha'
-gem 'nokogiri'
-gem 'httpclient'
-gem 'activesupport'
-gem 'rsolr'
-gem 'rsolr-ext'

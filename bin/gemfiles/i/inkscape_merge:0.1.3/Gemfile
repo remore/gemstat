@@ -1,4 +1,0 @@
-gem 'fastercsv'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

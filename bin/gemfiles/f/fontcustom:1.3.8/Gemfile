@@ -1,6 +1,0 @@
-gem 'json'
-gem 'thor'
-gem 'listen'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'

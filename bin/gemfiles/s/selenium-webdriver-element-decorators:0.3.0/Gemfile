@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'selenium-webdriver'
-gem 'au3'
-gem 'selenium-webdriver'
-gem 'au3'

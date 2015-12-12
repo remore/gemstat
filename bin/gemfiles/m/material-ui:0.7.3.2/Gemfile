@@ -1,6 +1,0 @@
-gem 'less-rails'
-gem 'react-source'
-gem 'railties'
-gem 'bundler'
-gem 'rake'
-gem 'json'

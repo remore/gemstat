@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'activerecord'
-gem 'i18n'
-gem 'workflow'
-gem 'search_cop'
-gem 'combustion'
-gem 'database_cleaner'

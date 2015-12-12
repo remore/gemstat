@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'rubyntlm'
+gem 'handsoap'
+gem 'rspec'
+gem 'yard'

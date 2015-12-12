@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'rspec-given'
+gem 'webmock'
+gem 'httparty'

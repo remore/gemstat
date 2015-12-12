@@ -1,4 +1,0 @@
-gem 'errbit_plugin'
-gem 'ruby-fogbugz'
-gem 'bundler'
-gem 'rake'

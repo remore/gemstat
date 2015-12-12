@@ -1,8 +1,0 @@
-gem 'emoji_data'
-gem 'polyglot'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-given'
-gem 'pry'
-gem 'codeclimate-test-reporter'

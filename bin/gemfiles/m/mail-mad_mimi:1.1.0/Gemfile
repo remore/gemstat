@@ -1,4 +1,0 @@
-gem 'madmimi'
-gem 'mail'
-gem 'rspec'
-gem 'actionmailer'

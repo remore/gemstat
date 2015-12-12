@@ -1,4 +1,0 @@
-gem 'launchy'
-gem 'mechanize'
-gem 'daemons'
-gem 'highline'

@@ -1,0 +1,4 @@
+gem 'hoe'
+gem 'rubyforge'
+gem 'rake'
+gem 'hoe'

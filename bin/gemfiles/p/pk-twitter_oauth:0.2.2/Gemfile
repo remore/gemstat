@@ -1,3 +1,0 @@
-gem 'sporkd-oauth'
-gem 'json'
-gem 'mime-types'

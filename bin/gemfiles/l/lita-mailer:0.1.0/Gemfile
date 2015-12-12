@@ -1,7 +1,0 @@
-gem 'lita'
-gem 'mail'
-gem 'bundler'
-gem 'pry-byebug'
-gem 'rake'
-gem 'rack-test'
-gem 'rspec'

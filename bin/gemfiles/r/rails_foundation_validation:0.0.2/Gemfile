@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'foundation-rails'
-gem 'activevalidators'

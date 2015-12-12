@@ -1,5 +1,0 @@
-gem 'hurley'
-gem 'bundler'
-gem 'rake'
-gem 'sinatra'
-gem 'minitest'

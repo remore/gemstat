@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'bunny'
+gem 'json'
+gem 'msgpack'
+gem 'bundler'
+gem 'rspec'

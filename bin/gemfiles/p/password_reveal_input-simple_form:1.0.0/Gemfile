@@ -1,4 +1,0 @@
-gem 'simple_form'
-gem 'jquery-rails'
-gem 'bundler'
-gem 'rake'

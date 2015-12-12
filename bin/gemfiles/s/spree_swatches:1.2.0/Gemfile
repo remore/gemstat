@@ -1,7 +1,0 @@
-gem 'spree_core'
-gem 'less-rails-bootstrap'
-gem 'capybara'
-gem 'factory_girl'
-gem 'ffaker'
-gem 'rspec-rails'
-gem 'sqlite3'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'squeel'
-gem 'pg'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'tzinfo-data'

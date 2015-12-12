@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'httparty'
-gem 'mash'
-gem 'version_string'
-gem 'jeweler'
-gem 'rcov'
-gem 'rspec'
-gem 'rr'

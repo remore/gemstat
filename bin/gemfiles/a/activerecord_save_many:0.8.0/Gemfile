@@ -1,4 +1,0 @@
-gem 'activerecord_execute_raw'
-gem 'rspec'
-gem 'yard'
-gem 'rr'

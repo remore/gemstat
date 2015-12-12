@@ -1,7 +1,0 @@
-gem 'minitest'
-gem 'mocha'
-gem 'nutcracker'
-gem 'rack'
-gem 'haml'
-gem 'sinatra'
-gem 'json'

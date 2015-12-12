@@ -1,3 +1,0 @@
-gem 'gpg_status_parser'
-gem 'gems'
-gem 'mocha'

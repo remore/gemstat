@@ -1,0 +1,6 @@
+gem 'rjb'
+gem 'rjb-loader'
+gem 'minitest'
+gem 'rake'
+gem 'coveralls'
+gem 'bundler'

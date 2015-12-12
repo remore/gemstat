@@ -1,8 +1,0 @@
-gem 'kippt'
-gem 'bulkippt'
-gem 'thor'
-gem 'rake'
-gem 'rspec'
-gem 'fivemat'
-gem 'pry'
-gem 'pry-debugger'

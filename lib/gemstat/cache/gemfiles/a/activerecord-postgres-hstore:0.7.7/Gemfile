@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'rake'
+gem 'pg-hstore'
+gem 'bundler'
+gem 'rdoc'
+gem 'rspec'

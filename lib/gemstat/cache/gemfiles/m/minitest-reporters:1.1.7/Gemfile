@@ -1,0 +1,6 @@
+gem 'minitest'
+gem 'ansi'
+gem 'ruby-progressbar'
+gem 'builder'
+gem 'maruku'
+gem 'rake'

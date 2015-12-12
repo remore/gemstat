@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'rspec'
-gem 'sqlite3-ruby'
-gem 'rake'
-gem 'pry-meta'
-gem 'cpf_cnpj'
-gem 'sshkey'
-gem 'codeclimate-test-reporter'

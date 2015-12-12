@@ -1,0 +1,7 @@
+gem 'coolline'
+gem 'coderay'
+gem 'terminal-table'
+gem 'runivedo'
+gem 'term-ansicolor'
+gem 'bundler'
+gem 'rake'

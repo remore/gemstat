@@ -1,3 +1,0 @@
-gem 'carrierwave'
-gem 'rspec'
-gem 'mini_magick'

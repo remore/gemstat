@@ -1,5 +1,0 @@
-gem 'sinatra-bells'
-gem 'solr4r'
-gem 'unicode'
-gem 'hen'
-gem 'rake'

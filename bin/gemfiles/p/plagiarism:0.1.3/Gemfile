@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'money'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'excon'
-gem 'webmock'

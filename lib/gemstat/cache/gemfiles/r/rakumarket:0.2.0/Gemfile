@@ -1,0 +1,6 @@
+gem 'nibbler'
+gem 'httparty'
+gem 'oj'
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'

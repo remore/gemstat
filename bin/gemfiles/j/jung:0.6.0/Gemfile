@@ -1,5 +1,0 @@
-gem 'gibbon'
-gem 'activesupport'
-gem 'i18n'
-gem 'rdoc'
-gem 'gsm_encoder'

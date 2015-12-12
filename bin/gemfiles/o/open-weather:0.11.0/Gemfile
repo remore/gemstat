@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'json'

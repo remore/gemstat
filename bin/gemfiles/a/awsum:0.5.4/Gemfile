@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'fakeweb'
-gem 'rcov'
-gem 'timecop'
-gem 'rspec'

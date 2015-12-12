@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'filewatcher'
+gem 'celluloid'
+gem 'httparty'
+gem 'filepath'

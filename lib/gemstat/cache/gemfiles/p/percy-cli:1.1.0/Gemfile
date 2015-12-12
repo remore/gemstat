@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'percy-client'
+gem 'thread'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

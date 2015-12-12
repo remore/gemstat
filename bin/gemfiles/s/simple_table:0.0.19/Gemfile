@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'activesupport'
-gem 'activerecord'
-gem 'gem_patching'
-gem 'mocha'

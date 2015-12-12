@@ -1,6 +1,0 @@
-gem 'source_finder'
-gem 'bundler'
-gem 'rake'
-gem 'quality'
-gem 'rspec'
-gem 'simplecov'

@@ -1,8 +1,0 @@
-gem 'addressable'
-gem 'treetop'
-gem 'libxml-ruby'
-gem 'whatlanguage'
-gem 'nokogiri'
-gem 'builder'
-gem 'rspec'
-gem 'active_support'

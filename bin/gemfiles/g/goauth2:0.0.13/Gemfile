@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'json'
-gem 'oauth2'
-gem 'bundler'

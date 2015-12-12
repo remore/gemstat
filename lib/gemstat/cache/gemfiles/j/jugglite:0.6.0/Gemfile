@@ -1,0 +1,4 @@
+gem 'thin'
+gem 'em-hiredis'
+gem 'redis'
+gem 'rspec'

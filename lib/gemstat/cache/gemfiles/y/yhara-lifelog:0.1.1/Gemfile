@@ -1,0 +1,4 @@
+gem 'ramaze'
+gem 'haml'
+gem 'dm-core'
+gem 'do_sqlite3'

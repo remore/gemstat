@@ -1,6 +1,0 @@
-gem 'benchmark-ips'
-gem 'bundler'
-gem 'hashie'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

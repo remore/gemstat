@@ -1,6 +1,0 @@
-gem 'ayl'
-gem 'rails'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'sqlite3'

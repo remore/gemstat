@@ -1,3 +1,0 @@
-gem 'rack'
-gem 'test-spec'
-gem 'json'

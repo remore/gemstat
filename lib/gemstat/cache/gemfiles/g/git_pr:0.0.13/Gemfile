@@ -1,0 +1,8 @@
+gem 'colorize'
+gem 'tty'
+gem 'git'
+gem 'netrc'
+gem 'octokit'
+gem 'highline'
+gem 'bundler'
+gem 'rake'

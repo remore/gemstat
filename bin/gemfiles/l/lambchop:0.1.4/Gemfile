@@ -1,5 +1,0 @@
-gem 'aws-sdk-core'
-gem 'rubyzip'
-gem 'diffy'
-gem 'bundler'
-gem 'rake'

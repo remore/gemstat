@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'bundler'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'colorize'
+gem 'simplecov'

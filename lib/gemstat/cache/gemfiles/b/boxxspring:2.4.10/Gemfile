@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'addressable'
+gem 'fnv'
+gem 'pry'

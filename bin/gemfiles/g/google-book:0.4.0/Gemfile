@@ -1,5 +1,0 @@
-gem 'bookland'
-gem 'httparty'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'

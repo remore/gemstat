@@ -1,0 +1,8 @@
+gem 'reek'
+gem 'guard'
+gem 'bundler'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'simplecov'
+gem 'rspec'
+gem 'rake'

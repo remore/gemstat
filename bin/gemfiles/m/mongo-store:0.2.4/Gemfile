@@ -1,4 +1,0 @@
-gem 'mongo'
-gem 'rack'
-gem 'rspec'
-gem 'yard'

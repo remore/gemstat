@@ -1,5 +1,0 @@
-gem 'highline'
-gem 'json'
-gem 'rake'
-gem 'sqlite3'
-gem 'CFPropertyList'

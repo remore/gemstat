@@ -1,6 +1,0 @@
-gem 'msgpack-rpc'
-gem 'daemons'
-gem 'bundler'
-gem 'builder'
-gem 'minitest'
-gem 'jeweler'

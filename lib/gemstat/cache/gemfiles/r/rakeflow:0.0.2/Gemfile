@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rake'
+gem 'heroku'
+gem 'sqlite3'

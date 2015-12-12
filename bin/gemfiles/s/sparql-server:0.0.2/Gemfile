@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rdf'
-gem 'rdf-mapper'
-gem 'rdf-sparql'

@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'colorize'
-gem 'highline'
-gem 'actionview'
-gem 'bundler'
-gem 'rake'

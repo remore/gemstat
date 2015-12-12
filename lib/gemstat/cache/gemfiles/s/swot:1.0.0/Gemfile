@@ -1,0 +1,8 @@
+gem 'public_suffix'
+gem 'naughty_or_nice'
+gem 'nokogiri'
+gem 'rake'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'minitest'

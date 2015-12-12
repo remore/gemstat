@@ -1,4 +1,0 @@
-gem 'twitter-stream'
-gem 'scashin133-xmpp4r-simple'
-gem 'yajl-ruby'
-gem 'typhoeus'

@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'trollop'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'ruby-debug'
+gem 'equivalent-xml'

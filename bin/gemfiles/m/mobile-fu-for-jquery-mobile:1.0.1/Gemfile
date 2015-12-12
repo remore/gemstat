@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rack-mobile-detect'
-gem 'mocha'
-gem 'rdoc'
-gem 'httparty'

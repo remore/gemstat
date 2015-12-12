@@ -1,3 +1,0 @@
-gem 'term-ansicolor'
-gem 'listen'
-gem 'rb-inotify'

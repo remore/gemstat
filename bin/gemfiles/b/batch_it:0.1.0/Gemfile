@@ -1,8 +1,0 @@
-gem 'tilt'
-gem 'redcarpet'
-gem 'aruba'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'simplecov'

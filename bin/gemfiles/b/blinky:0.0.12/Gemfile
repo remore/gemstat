@@ -1,4 +1,0 @@
-gem 'libusb'
-gem 'chicanery'
-gem 'rspec'
-gem 'rake'

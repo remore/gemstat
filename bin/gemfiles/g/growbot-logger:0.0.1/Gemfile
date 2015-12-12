@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'ashikawa-core'
-gem 'arduino_firmata'

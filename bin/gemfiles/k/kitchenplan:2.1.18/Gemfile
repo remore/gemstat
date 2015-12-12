@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'gabba'
-gem 'deep_merge'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

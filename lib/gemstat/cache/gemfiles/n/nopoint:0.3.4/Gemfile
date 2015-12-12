@@ -1,0 +1,7 @@
+gem 'coderay'
+gem 'kramdown'
+gem 'commander'
+gem 'safe_yaml'
+gem 'directory_watcher'
+gem 'bundler'
+gem 'rake'

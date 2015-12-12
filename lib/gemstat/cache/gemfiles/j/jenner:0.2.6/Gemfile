@@ -1,0 +1,6 @@
+gem 'haml'
+gem 'liquid'
+gem 'maruku'
+gem 'mercenary'
+gem 'sass'
+gem 'test-unit'

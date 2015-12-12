@@ -1,6 +1,0 @@
-gem 'yard'
-gem 'rspec'
-gem 'rspec-its'
-gem 'fuubar'
-gem 'mixlib-shellout'
-gem 'rake'

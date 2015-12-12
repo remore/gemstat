@@ -1,3 +1,0 @@
-gem 'extlib'
-gem 'net-http-persistent'
-gem 'sequel'

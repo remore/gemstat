@@ -1,0 +1,5 @@
+gem 'bmizerany-sinatra'
+gem 'dm-core'
+gem 'do_sqlite3'
+gem 'guid'
+gem 'twitter'

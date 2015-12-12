@@ -1,8 +1,0 @@
-gem 'capistrano'
-gem 'bundler'
-gem 'rake'
-gem 'capistrano-copy-subdir'
-gem 'capistrano-platform-resources'
-gem 'net-scp'
-gem 'net-ssh'
-gem 'vagrant'

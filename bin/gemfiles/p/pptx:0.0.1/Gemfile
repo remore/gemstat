@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'zipline'
-gem 'rspec'

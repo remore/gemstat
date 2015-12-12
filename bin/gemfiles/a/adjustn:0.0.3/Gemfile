@@ -1,5 +1,0 @@
-gem 'test-declare'
-gem 'rspec'
-gem 'yard'
-gem 'rake'
-gem 'bundler'

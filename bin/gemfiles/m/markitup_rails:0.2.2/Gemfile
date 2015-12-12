@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'bluecloth'
-gem 'bb-ruby'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

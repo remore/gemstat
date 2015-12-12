@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'mysql'
-gem 'addressable'
-gem 'rest-client'
-gem 'multi_json'
-gem 'activerecord'

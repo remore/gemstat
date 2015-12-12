@@ -1,0 +1,4 @@
+gem 'php-serialize'
+gem 'phpass-ruby'
+gem 'rails'
+gem 'mysql2'

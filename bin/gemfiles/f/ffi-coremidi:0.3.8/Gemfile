@@ -1,5 +1,0 @@
-gem 'minitest'
-gem 'mocha'
-gem 'rake'
-gem 'shoulda-context'
-gem 'ffi'

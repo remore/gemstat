@@ -1,8 +1,0 @@
-gem 'schema_plus_core'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-core'
-gem 'schema_dev'
-gem 'simplecov'
-gem 'simplecov-gem-profile'

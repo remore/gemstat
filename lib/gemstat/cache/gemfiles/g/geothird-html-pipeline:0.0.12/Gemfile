@@ -1,0 +1,8 @@
+gem 'gemoji'
+gem 'nokogiri'
+gem 'github-markdown'
+gem 'sanitize'
+gem 'rinku'
+gem 'escape_utils'
+gem 'activesupport'
+gem 'geothird-linguist'

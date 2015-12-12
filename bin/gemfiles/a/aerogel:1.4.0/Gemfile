@@ -1,5 +1,0 @@
-gem 'aerogel-core'
-gem 'aerogel-admin'
-gem 'aerogel-pages'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,8 @@
+gem 'descendants_tracker'
+gem 'concord'
+gem 'faraday'
+gem 'adamantium'
+gem 'equalizer'
+gem 'abstract_type'
+gem 'multi_json'
+gem 'null_logger'

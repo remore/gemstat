@@ -1,0 +1,4 @@
+gem 'liquid'
+gem 'kramdown'
+gem 'bundler'
+gem 'rake'

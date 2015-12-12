@@ -1,5 +1,0 @@
-gem 'typogruby'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'jekyll'

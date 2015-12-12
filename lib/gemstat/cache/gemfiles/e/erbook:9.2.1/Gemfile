@@ -1,0 +1,8 @@
+gem 'ember'
+gem 'maruku'
+gem 'coderay'
+gem 'haml'
+gem 'mime-types'
+gem 'json'
+gem 'inochi'
+gem 'inochi'

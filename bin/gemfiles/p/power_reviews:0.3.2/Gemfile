@@ -1,4 +1,0 @@
-gem 'whenever'
-gem 'fastercsv'
-gem 'activesupport'
-gem 'shoulda'

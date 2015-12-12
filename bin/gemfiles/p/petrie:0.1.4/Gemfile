@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'friendly_id'
-gem 'awesome_nested_set'
-gem 'the_sortable_tree'
-gem 'sqlite3'

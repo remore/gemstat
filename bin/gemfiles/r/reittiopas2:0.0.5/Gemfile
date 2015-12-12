@@ -1,7 +1,0 @@
-gem 'json'
-gem 'addressable'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'guard-rspec'
-gem 'simplecov'

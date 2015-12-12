@@ -1,7 +1,0 @@
-gem 'logstash-core'
-gem 'stud'
-gem 'logstash-codec-plain'
-gem 'json'
-gem 'ftw'
-gem 'logstash-devutils'
-gem 'logstash-output-elasticsearch'

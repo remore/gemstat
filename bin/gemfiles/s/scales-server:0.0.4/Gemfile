@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'scales-core'
-gem 'goliath'
-gem 'em-proxy'

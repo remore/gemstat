@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'sidekiq'
+gem 'resque'
+gem 'webmock'

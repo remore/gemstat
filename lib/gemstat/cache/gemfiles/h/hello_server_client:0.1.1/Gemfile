@@ -1,0 +1,6 @@
+gem 'ohm'
+gem 'ohm-contrib'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

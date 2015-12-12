@@ -1,0 +1,7 @@
+gem 'jekyll'
+gem 'octopress-hooks'
+gem 'octopress-escape-code'
+gem 'bundler'
+gem 'rake'
+gem 'octopress'
+gem 'pry-byebug'

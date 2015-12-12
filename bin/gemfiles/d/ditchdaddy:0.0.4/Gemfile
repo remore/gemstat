@@ -1,7 +1,0 @@
-gem 'dnsimple-ruby'
-gem 'highline'
-gem 'rainbow'
-gem 'rest-client'
-gem 'rdoc'
-gem 'newgem'
-gem 'hoe'

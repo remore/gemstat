@@ -1,8 +1,0 @@
-gem 'parslet'
-gem 'jeweler'
-gem 'rake'
-gem 'redcarpet'
-gem 'rspec'
-gem 'rspec-its'
-gem 'simplecov'
-gem 'yard'

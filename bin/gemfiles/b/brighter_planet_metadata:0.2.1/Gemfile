@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'i18n'
-gem 'cache_method'
-gem 'multi_json'

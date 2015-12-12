@@ -1,0 +1,4 @@
+gem 'cim'
+gem 'rake'
+gem 'bundler'
+gem 'racc'

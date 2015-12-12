@@ -1,0 +1,4 @@
+gem 'celluloid'
+gem 'excon'
+gem 'yajl-ruby'
+gem 'kpeg'

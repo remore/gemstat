@@ -1,0 +1,5 @@
+gem 'active_support'
+gem 'serialport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

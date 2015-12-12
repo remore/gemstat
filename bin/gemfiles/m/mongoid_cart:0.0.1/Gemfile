@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'mongoid'
-gem 'rspec-rails'
-gem 'factory_girl_rails'
-gem 'cucumber'
-gem 'database_cleaner'
-gem 'mongoid-rspec'

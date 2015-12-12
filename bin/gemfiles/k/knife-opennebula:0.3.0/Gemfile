@@ -1,4 +1,0 @@
-gem 'fog'
-gem 'chef'
-gem 'opennebula'
-gem 'highline'

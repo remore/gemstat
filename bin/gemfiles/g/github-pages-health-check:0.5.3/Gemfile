@@ -1,8 +1,0 @@
-gem 'net-dns'
-gem 'public_suffix'
-gem 'typhoeus'
-gem 'addressable'
-gem 'rspec'
-gem 'pry'
-gem 'gem-release'
-gem 'webmock'

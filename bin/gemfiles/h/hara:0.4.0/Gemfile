@@ -1,5 +1,0 @@
-gem 'em-websocket'
-gem 'eventmachine'
-gem 'celluloid'
-gem 'bundler'
-gem 'rake'

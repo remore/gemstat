@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'simplecov'
-gem 'simplecov-rcov'
-gem 'bundler'
-gem 'rake'

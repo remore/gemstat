@@ -1,0 +1,6 @@
+gem 'simplecov'
+gem 'certifi'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'turn'

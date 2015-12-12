@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'liquid'
+gem 'ckeditor'
+gem 'simple_form'
+gem 'rubytree'
+gem 'pg'
+gem 'factory_girl_rails'

@@ -1,7 +1,0 @@
-gem 'chunky_png'
-gem 'oily_png'
-gem 'phantomjs'
-gem 'diff-lcs'
-gem 'rspec'
-gem 'mocha'
-gem 'codeclimate-test-reporter'

@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'rspec'
-gem 'yard'
-gem 'rake'
-gem 'bundler'

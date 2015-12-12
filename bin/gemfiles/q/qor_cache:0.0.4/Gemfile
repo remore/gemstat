@@ -1,4 +1,0 @@
-gem 'qor_dsl'
-gem 'rails'
-gem 'sqlite3'
-gem 'qor_test'

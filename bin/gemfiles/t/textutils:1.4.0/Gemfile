@@ -1,6 +1,0 @@
-gem 'props'
-gem 'logutils'
-gem 'rubyzip'
-gem 'activesupport'
-gem 'rdoc'
-gem 'hoe'

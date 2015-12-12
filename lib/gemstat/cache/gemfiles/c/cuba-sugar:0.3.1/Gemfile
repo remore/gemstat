@@ -1,0 +1,5 @@
+gem 'cuba'
+gem 'json'
+gem 'rack_csrf'
+gem 'cutest'
+gem 'tilt'

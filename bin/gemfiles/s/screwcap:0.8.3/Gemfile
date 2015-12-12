@@ -1,4 +1,0 @@
-gem 'net-ssh'
-gem 'net-ssh-gateway'
-gem 'net-scp'
-gem 'hoe'

@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'chunky_png'

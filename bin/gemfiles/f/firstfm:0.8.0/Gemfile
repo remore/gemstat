@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'will_paginate'
-gem 'chronic'
-gem 'rake'
-gem 'bundler'
-gem 'jeweler'
-gem 'fakeweb'

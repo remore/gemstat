@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'sidekiq'
+gem 'sidekiq-status'
+gem 'carrierwave'
+gem 'rails'

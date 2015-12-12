@@ -1,7 +1,0 @@
-gem 'term-ansicolor'
-gem 'rest-client'
-gem 'thor'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'sqlite3-ruby'
-gem 'mini_magick'

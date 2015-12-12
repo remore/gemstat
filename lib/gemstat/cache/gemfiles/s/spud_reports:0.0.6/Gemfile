@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'spud_core'
+gem 'paperclip'
+gem 'rabl'
+gem 'rghost'
+gem 'rghost_barcode'
+gem 'rghost_rails'
+gem 'mysql2'

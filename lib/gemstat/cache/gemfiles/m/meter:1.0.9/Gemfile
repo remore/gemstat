@@ -1,0 +1,6 @@
+gem 'useragent'
+gem 'locality'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'timecop'

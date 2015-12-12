@@ -1,4 +1,0 @@
-gem 'itamae-plugin-resource-iptables'
-gem 'bundler'
-gem 'rake'
-gem 'serverspec'

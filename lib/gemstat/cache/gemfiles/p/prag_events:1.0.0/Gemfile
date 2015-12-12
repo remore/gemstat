@@ -1,0 +1,7 @@
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'ronn'
+gem 'methadone'
+gem 'gem-man'
+gem 'open4'

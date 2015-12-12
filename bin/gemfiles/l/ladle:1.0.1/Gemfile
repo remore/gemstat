@@ -1,7 +1,0 @@
-gem 'open4'
-gem 'rspec'
-gem 'yard'
-gem 'rdiscount'
-gem 'net-ldap'
-gem 'ci_reporter'
-gem 'rake'

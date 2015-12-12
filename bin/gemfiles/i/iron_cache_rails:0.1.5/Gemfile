@@ -1,5 +1,0 @@
-gem 'iron_cache'
-gem 'test-unit'
-gem 'minitest'
-gem 'rake'
-gem 'uber_config'

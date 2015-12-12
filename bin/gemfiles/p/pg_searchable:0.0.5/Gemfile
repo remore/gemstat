@@ -1,6 +1,0 @@
-gem 'arel'
-gem 'activerecord'
-gem 'activesupport'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

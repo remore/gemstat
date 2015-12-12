@@ -1,6 +1,0 @@
-gem 'rdf'
-gem 'deprecation'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rdf-turtle'

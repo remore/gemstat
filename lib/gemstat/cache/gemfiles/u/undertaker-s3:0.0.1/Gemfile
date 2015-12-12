@@ -1,0 +1,4 @@
+gem 'colorize'
+gem 'trollop'
+gem 'aws-s3'
+gem 'fileutils'

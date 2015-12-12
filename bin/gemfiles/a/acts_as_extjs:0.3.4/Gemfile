@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'activerecord'
-gem 'rails_paginate'

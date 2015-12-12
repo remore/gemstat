@@ -1,0 +1,6 @@
+gem 'choice'
+gem 'net-ssh'
+gem 'mini_logger'
+gem 'choice'
+gem 'net-ssh'
+gem 'mini_logger'

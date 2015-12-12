@@ -1,7 +1,0 @@
-gem 'mocha'
-gem 'test-unit'
-gem 'test-spec'
-gem 'ruby-debug19'
-gem 'capistrano'
-gem 'aws-s3'
-gem 'amazon-ec2'

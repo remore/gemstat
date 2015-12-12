@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thincloud-test'
-gem 'formatador'
-gem 'vcr'
-gem 'dotenv'
-gem 'webmock'
-gem 'codeclimate-test-reporter'

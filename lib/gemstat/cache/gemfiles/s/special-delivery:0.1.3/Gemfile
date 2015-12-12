@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'mysql2'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'pry'
+gem 'shoulda-matchers'
+gem 'simplecov'
+gem 'coveralls'

@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'actionpack'
-gem 'railties'
-gem 'appraisal'

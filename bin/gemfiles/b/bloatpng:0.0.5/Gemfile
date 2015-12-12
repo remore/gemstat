@@ -1,5 +1,0 @@
-gem 'digest-crc'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'bundler'
-gem 'rspec'
-gem 'webmock'
-gem 'rake'

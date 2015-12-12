@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'sqlite3'
-gem 'bundler'
-gem 'rake'

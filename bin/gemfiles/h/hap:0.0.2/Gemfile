@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'thor'
-gem 'activesupport'
-gem 'heroku-api'
-gem 'heroku'
-gem 'oj'

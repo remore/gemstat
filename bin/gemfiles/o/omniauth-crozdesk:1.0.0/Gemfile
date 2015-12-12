@@ -1,4 +1,0 @@
-gem 'omniauth-oauth2'
-gem 'rspec'
-gem 'webmock'
-gem 'rack-test'

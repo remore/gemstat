@@ -1,0 +1,7 @@
+gem 'json'
+gem 'multipart-post'
+gem 'mime-types'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'

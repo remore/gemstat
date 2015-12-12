@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'github_api'
+gem 'colorize'
+gem 'github_changelog_generator'
+gem 'hub'

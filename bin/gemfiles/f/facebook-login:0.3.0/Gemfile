@@ -1,4 +1,0 @@
-gem 'oauth2'
-gem 'rack'
-gem 'addressable'
-gem 'hashie'

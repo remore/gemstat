@@ -1,7 +1,0 @@
-gem 'configliere'
-gem 'multi_json'
-gem 'gorillib'
-gem 'forgery'
-gem 'uuidtools'
-gem 'eventmachine'
-gem 'log4r'

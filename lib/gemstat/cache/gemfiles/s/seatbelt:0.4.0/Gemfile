@@ -1,0 +1,6 @@
+gem 'multi_json'
+gem 'rake'
+gem 'minitest'
+gem 'travis-lint'
+gem 'json'
+gem 'mocha'

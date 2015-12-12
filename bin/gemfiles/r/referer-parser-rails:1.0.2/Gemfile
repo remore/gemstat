@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'factory_girl'
-gem 'rails'
-gem 'referer-parser'

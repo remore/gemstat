@@ -1,0 +1,5 @@
+gem 'sidekiq'
+gem 'activesupport'
+gem 'rspec'
+gem 'timecop'
+gem 'rake'

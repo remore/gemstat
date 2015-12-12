@@ -1,3 +1,0 @@
-gem 'spree_core'
-gem 'devise_bushido_authenticatable'
-gem 'cancan'

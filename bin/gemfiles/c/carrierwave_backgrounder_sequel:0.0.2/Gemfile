@@ -1,3 +1,0 @@
-gem 'carrierwave_backgrounder'
-gem 'orm_adapter-sequel'
-gem 'rspec'

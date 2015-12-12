@@ -1,0 +1,5 @@
+gem 'json'
+gem 'puppet'
+gem 'dm-types'
+gem 'dm-core'
+gem 'rake'

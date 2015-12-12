@@ -1,6 +1,0 @@
-gem 'railsless-deploy'
-gem 'multi_json'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

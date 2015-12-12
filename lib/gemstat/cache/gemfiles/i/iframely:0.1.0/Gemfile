@@ -1,0 +1,6 @@
+gem 'hashie'
+gem 'faraday'
+gem 'minitest'
+gem 'webmock'
+gem 'bundler'
+gem 'rake'

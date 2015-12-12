@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'slim-rails'
+gem 'kaminari'
+gem 'strong_parameters'

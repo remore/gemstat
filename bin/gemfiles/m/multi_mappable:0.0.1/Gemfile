@@ -1,6 +1,0 @@
-gem 'virtus'
-gem 'roxml'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'debugger'

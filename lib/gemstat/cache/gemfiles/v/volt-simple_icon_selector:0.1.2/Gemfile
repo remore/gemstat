@@ -1,0 +1,4 @@
+gem 'volt'
+gem 'volt-font_awesome'
+gem 'rspec'
+gem 'rake'

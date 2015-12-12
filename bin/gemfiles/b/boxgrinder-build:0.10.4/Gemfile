@@ -1,8 +1,0 @@
-gem 'boxgrinder-core'
-gem 'aws-sdk'
-gem 'net-sftp'
-gem 'net-ssh'
-gem 'progressbar'
-gem 'rest-client'
-gem 'nokogiri'
-gem 'builder'

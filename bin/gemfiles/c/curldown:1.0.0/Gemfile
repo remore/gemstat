@@ -1,4 +1,0 @@
-gem 'curb'
-gem 'github-markdown'
-gem 'nokogiri'
-gem 'pygments.rb'

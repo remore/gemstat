@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'terminal-table'
-gem 'rspec'
-gem 'cucumber'
-gem 'terminal-table'
-gem 'aruba'

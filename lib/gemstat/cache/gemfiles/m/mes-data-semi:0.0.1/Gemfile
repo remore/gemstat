@@ -1,0 +1,2 @@
+gem 'mes-core'
+gem 'sqlite3'

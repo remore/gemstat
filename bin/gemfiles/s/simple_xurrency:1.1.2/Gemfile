@@ -1,5 +1,0 @@
-gem 'crack'
-gem 'jeweler'
-gem 'rspec'
-gem 'fakeweb'
-gem 'bundler'

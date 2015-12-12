@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'mem'
-gem 'ruboty'
-gem 'twitter'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'twitter_oauth'
-gem 'json'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

@@ -1,5 +1,0 @@
-gem 'rgeo'
-gem 'activerecord'
-gem 'minitest'
-gem 'rake'
-gem 'rdoc'

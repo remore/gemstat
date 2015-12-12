@@ -1,5 +1,0 @@
-gem 'github-markdown'
-gem 'github-markup'
-gem 'pdfkit'
-gem 'wkhtmltopdf-binary'
-gem 'haml'

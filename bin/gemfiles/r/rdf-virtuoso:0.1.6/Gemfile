@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rdf-spec'
-gem 'rdf'
-gem 'httparty'
-gem 'api_smith'

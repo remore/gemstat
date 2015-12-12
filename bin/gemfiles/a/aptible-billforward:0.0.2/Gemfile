@@ -1,5 +1,0 @@
-gem 'gem_config'
-gem 'sawyer'
-gem 'bundler'
-gem 'aptible-tasks'
-gem 'rake'

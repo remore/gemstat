@@ -1,0 +1,4 @@
+gem 'jdbc-mysql'
+gem 'logstash-input-jdbc'
+gem 'logstash-devutils'
+gem 'torquay'

@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'awesome_print'
+gem 'webmock'
+gem 'typhoeus'
+gem 'guard-rspec'
+gem 'httparty'
+gem 'multi_json'

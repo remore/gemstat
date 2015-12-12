@@ -1,0 +1,2 @@
+gem 'autoloader'
+gem 'nokogiri'

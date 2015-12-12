@@ -1,4 +1,0 @@
-gem 'json'
-gem 'virtus'
-gem 'rspec'
-gem 'faker'

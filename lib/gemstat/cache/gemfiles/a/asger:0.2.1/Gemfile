@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'aws-sdk'
+gem 'trollop'
+gem 'hashie'
+gem 'activesupport'

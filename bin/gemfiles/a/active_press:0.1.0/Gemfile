@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'rspec'
-gem 'shoulda-matchers'
-gem 'factory_girl'
-gem 'sqlite3'

@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit-rr'
+gem 'fluentd'
+gem 'aws-sdk-core'
+gem 'msgpack'
+gem 'google-protobuf'

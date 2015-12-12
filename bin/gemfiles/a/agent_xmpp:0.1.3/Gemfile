@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'sequel'
-gem 'evma_xmlpushparser'
-gem 'sqlite3'

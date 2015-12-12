@@ -1,0 +1,4 @@
+gem 'POpen4'
+gem 'climate'
+gem 'rspec'
+gem 'rake'

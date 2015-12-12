@@ -1,0 +1,4 @@
+gem 'engineyard-eycap'
+gem 'zilkey-auto_tagger'
+gem 'capistrano'
+gem 'capistrano-ext'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'jeweler'
-gem 'thor'
-gem 'json'
-gem 'rest-client'

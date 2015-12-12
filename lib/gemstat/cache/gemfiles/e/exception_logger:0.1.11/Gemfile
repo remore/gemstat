@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'kaminari'
+gem 'meta_where'
+gem 'i18n'
+gem 'shoulda'
+gem 'jeweler'

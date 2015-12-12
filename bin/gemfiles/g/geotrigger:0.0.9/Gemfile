@@ -1,4 +1,0 @@
-gem 'httpclient'
-gem 'timecop'
-gem 'rspec'
-gem 'pry'

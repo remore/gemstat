@@ -1,4 +1,0 @@
-gem 'sequel'
-gem 'minitest'
-gem 'pg'
-gem 'sqlite3'

@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'actionpack'
-gem 'railties'
-gem 'rspec'

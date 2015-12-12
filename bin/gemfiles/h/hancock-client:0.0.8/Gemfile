@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'ruby-openid'
-gem 'haml'
-gem 'rack-openid'

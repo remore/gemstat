@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'rails'
+gem 'rugged'
+gem 'uglifier'
+gem 'yui-compressor'

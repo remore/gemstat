@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'amqp'
-gem 'bunny'
-gem 'syslogger'

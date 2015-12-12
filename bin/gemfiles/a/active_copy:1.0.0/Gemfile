@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'pygments.rb'
-gem 'redcarpet'
-gem 'sqlite3'
-gem 'rspec'
-gem 'yard'
-gem 'pry'

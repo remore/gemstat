@@ -1,0 +1,4 @@
+gem 'daemons'
+gem 'eventmachine'
+gem 'hoe'
+gem 'hoe'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'simplecov'
+gem 'awesome_print'
+gem 'pry-byebug'
+gem 'pry-doc'

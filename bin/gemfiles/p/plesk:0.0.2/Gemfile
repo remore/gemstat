@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'gli'
-gem 'guard-rspec'
-gem 'rake'
-gem 'rspec'

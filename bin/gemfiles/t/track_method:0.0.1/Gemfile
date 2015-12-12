@@ -1,7 +1,0 @@
-gem 'wrap_method'
-gem 'cobalt'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

@@ -1,4 +1,0 @@
-gem 'chronic'
-gem 'fattr'
-gem 'arrayfields'
-gem 'map'

@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'json'
+gem 'mocha'
+gem 'test-unit'
+gem 'rake'

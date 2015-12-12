@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'coffee-rails'
-gem 'brancusi'
-gem 'sqlite3'

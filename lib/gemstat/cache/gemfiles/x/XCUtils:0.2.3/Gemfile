@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'rmagick'
+gem 'fileutils'
+gem 'parseconfig'
+gem 'debugger'

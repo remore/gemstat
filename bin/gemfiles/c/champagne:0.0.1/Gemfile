@@ -1,3 +1,0 @@
-gem 'thin'
-gem 'sinatra'
-gem 'eventmachine'

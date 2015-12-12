@@ -1,0 +1,5 @@
+gem 'global_registry'
+gem 'active_model_serializers'
+gem 'redis'
+gem 'bundler'
+gem 'rake'

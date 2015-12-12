@@ -1,6 +1,0 @@
-gem 'ffi'
-gem 'libspotify'
-gem 'performer'
-gem 'rake'
-gem 'rbgccxml'
-gem 'rspec'

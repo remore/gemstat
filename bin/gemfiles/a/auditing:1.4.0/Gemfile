@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'sqlite3-ruby'
-gem 'timecop'
-gem 'activerecord'
-gem 'activesupport'

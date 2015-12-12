@@ -1,5 +1,0 @@
-gem 'mixlib-config'
-gem 'between_meals'
-gem 'rubocop'
-gem 'knife-solo'
-gem 'chef-zero'

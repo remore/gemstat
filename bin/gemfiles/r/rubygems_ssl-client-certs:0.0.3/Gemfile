@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-core'
-gem 'mime-types'
-gem 'coveralls'

@@ -1,4 +1,0 @@
-gem 'xml-mapping'
-gem 'money'
-gem 'activesupport'
-gem 'libxml-ruby'

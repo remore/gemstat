@@ -1,7 +1,0 @@
-gem 'abstract_type'
-gem 'clavius'
-gem 'equalizer'
-gem 'memoizable'
-gem 'tzinfo'
-gem 'rake'
-gem 'rspec'

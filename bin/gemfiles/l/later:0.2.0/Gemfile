@@ -1,5 +1,0 @@
-gem 'redis'
-gem 'nest'
-gem 'json'
-gem 'predicates'
-gem 'minitest'

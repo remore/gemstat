@@ -1,4 +1,0 @@
-gem 'padrino-core'
-gem 'padrino-helpers'
-gem 'therubyracer'
-gem 'less'

@@ -1,3 +1,0 @@
-gem 'railties'
-gem 'actionpack'
-gem 'requirejs-rails'

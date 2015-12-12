@@ -1,0 +1,6 @@
+gem 'chronic_duration'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'timecop'

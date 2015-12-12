@@ -1,4 +1,0 @@
-gem 'childprocess'
-gem 'engineyard'
-gem 'ffi-ncurses'
-gem 'rspec'

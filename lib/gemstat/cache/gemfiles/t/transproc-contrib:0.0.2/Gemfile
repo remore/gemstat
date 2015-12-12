@@ -1,0 +1,5 @@
+gem 'transproc'
+gem 'addressable'
+gem 'ipaddress'
+gem 'bundler'
+gem 'rake'

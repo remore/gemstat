@@ -1,5 +1,0 @@
-gem 'redis'
-gem 'rspec'
-gem 'rake'
-gem 'debugger'
-gem 'mock_redis'

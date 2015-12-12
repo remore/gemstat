@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'minitest'
-gem 'minitest_should'
-gem 'sqlite3'

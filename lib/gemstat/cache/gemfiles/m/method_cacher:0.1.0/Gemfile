@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'supermodel'
+gem 'activesupport'
+gem 'ruby-debug19'

@@ -1,3 +1,0 @@
-gem 'mogilefs-client'
-gem 'rack'
-gem 'mocha'

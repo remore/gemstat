@@ -1,4 +1,0 @@
-gem 'workflow'
-gem 'sequel'
-gem 'bundler'
-gem 'rake'

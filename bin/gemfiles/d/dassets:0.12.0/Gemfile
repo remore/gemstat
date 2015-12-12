@@ -1,5 +1,0 @@
-gem 'assert'
-gem 'assert-rack-test'
-gem 'sinatra'
-gem 'ns-options'
-gem 'rack'

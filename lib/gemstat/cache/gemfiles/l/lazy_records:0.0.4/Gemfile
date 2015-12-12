@@ -1,0 +1,8 @@
+gem 'totally_lazy'
+gem 'lock_method'
+gem 'encrypted_strings'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

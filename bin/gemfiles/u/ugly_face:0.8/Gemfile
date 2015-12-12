@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'syntax'
-gem 'rspec'
-gem 'aruba'
-gem 'cucumber'

@@ -1,0 +1,7 @@
+gem 'faraday'
+gem 'linkeddata'
+gem 'http_logger'
+gem 'slop'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

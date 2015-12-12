@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'thor'
-gem 'nokogiri'
-gem 'pkgwat'
-gem 'colored'
-gem 'deltacloud-client'

@@ -1,3 +1,0 @@
-gem 'rack'
-gem 'yui-compressor'
-gem 'rack-test'

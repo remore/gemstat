@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'json'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'
+gem 'vcr'

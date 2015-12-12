@@ -1,8 +1,0 @@
-gem 'mysql2'
-gem 'activerecord'
-gem 'activesupport'
-gem 'sinatra-activerecord'
-gem 'hooks'
-gem 'debugger'
-gem 'rspec'
-gem 'database_cleaner'

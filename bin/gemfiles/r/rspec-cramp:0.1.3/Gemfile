@@ -1,5 +1,0 @@
-gem 'cramp'
-gem 'rack'
-gem 'eventmachine'
-gem 'http_router'
-gem 'rspec'

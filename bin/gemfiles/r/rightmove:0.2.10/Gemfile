@@ -1,6 +1,0 @@
-gem 'blm'
-gem 'rubyzip'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

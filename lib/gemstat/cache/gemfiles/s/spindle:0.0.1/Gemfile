@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rdoc'
+gem 'activerecord'
+gem 'activesupport'
+gem 'colorize'
+gem 'cinch'

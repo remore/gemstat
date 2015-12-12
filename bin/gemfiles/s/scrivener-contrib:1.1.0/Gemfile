@@ -1,5 +1,0 @@
-gem 'scrivener'
-gem 'cutest'
-gem 'ohm'
-gem 'sequel'
-gem 'sqlite3'

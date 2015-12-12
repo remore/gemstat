@@ -1,5 +1,0 @@
-gem 'redis'
-gem 'uri-redis'
-gem 'gibbler'
-gem 'storable'
-gem 'multi_json'

@@ -1,7 +1,0 @@
-gem 'connection_pool'
-gem 'sinatra'
-gem 'haml'
-gem 'rake'
-gem 'minitest'
-gem 'sinatra-contrib'
-gem 'mocha'

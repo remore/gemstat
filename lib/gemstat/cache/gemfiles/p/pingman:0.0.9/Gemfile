@@ -1,0 +1,4 @@
+gem 'net-ping'
+gem 'curses'
+gem 'bundler'
+gem 'rake'

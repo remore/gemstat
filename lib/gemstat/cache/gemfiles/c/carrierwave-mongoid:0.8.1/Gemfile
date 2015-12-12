@@ -1,0 +1,7 @@
+gem 'carrierwave'
+gem 'mongoid'
+gem 'mongoid-grid_fs'
+gem 'rspec'
+gem 'rake'
+gem 'mini_magick'
+gem 'pry'

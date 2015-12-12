@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'faker'
-gem 'acts_as_fu'

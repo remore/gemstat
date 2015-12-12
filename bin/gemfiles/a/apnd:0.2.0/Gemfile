@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'json'
-gem 'daemons'
-gem 'shoulda'

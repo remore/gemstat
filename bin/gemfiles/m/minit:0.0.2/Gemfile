@@ -1,4 +1,0 @@
-gem 'jsmin'
-gem 'cssmin'
-gem 'fakefs'
-gem 'watchr'

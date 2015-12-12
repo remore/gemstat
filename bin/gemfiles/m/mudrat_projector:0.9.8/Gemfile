@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'pry'
-gem 'rake'
-gem 'simplecov'
-gem 'timecop'

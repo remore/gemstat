@@ -1,3 +1,0 @@
-gem 'childprocess'
-gem 'thor'
-gem 'table_print'

@@ -1,8 +1,0 @@
-gem 'require_all'
-gem 'thor'
-gem 'watir-webdriver'
-gem 'xml-simple'
-gem 'haml'
-gem 'psych'
-gem 'minitest'
-gem 'autotest'

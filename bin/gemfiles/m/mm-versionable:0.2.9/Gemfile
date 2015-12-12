@@ -1,8 +1,0 @@
-gem 'i18n'
-gem 'differ'
-gem 'builder'
-gem 'bson'
-gem 'mongo_mapper'
-gem 'rake'
-gem 'shoulda'
-gem 'ruby-debug19'

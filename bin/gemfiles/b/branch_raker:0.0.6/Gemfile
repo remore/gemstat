@@ -1,4 +1,0 @@
-gem 'gitlab-grit'
-gem 'minitar'
-gem 'rake'
-gem 'bump'

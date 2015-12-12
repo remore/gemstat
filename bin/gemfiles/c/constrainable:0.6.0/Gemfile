@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'sqlite3-ruby'
-gem 'shoulda-matchers'
-gem 'actionpack'

@@ -1,5 +1,0 @@
-gem 'deface'
-gem 'rails'
-gem 'foreman-tasks'
-gem 'rubocop'
-gem 'rdoc'

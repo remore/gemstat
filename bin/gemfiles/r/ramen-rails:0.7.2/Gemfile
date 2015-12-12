@@ -1,7 +1,0 @@
-gem 'actionpack'
-gem 'rake'
-gem 'rspec'
-gem 'hashie'
-gem 'timecop'
-gem 'byebug'
-gem 'activesupport'

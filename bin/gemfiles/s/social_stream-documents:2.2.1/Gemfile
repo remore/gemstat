@@ -1,4 +1,0 @@
-gem 'social_stream-base'
-gem 'paperclip'
-gem 'paperclip-ffmpeg'
-gem 'delayed_paperclip'

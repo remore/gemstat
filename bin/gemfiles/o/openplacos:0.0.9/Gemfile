@@ -1,3 +1,0 @@
-gem 'ruby-dbus-openplacos'
-gem 'json'
-gem 'oauth2'

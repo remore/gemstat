@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'gnuplot'
-gem 'imgurr'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'refile'
-gem 'mongoid'
-gem 'rake'
-gem 'rspec'
-gem 'mongoid-rspec'

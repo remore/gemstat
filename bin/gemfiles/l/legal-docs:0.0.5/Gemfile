@@ -1,6 +1,0 @@
-gem 'redcarpet'
-gem 'bundler'
-gem 'rspec'
-gem 'jeweler'
-gem 'i18n-spec'
-gem 'localeapp'

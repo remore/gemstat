@@ -1,5 +1,0 @@
-gem 'rspec-expectations'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'sqlite3'
-gem 'rb-inotify'

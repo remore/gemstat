@@ -1,4 +1,0 @@
-gem 'json'
-gem 'nokogiri'
-gem 'bundler'
-gem 'sass'

@@ -1,3 +1,0 @@
-gem 'rufus-scheduler'
-gem 'dante'
-gem 'rails'

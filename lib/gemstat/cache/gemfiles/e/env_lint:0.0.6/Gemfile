@@ -1,0 +1,5 @@
+gem 'formatador'
+gem 'capistrano'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

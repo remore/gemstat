@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'higml'
-gem 'capybara'
-gem 'rspec-rails'
-gem 'ruby-debug'

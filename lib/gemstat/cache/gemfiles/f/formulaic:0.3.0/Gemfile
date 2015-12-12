@@ -1,0 +1,7 @@
+gem 'capybara'
+gem 'i18n'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

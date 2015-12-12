@@ -1,5 +1,0 @@
-gem 'erubis'
-gem 'json_schema'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

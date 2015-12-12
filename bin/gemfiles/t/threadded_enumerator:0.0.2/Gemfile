@@ -1,7 +1,0 @@
-gem 'tsafe'
-gem 'wref'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

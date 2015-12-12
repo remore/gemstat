@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'druid-tools'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rspec-rails'

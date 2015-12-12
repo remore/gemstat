@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'sqlite3'
-gem 'sequel'
-gem 'rainbow'
-gem 'unicode_utils'

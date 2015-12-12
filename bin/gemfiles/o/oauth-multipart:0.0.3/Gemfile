@@ -1,3 +1,0 @@
-gem 'oauth'
-gem 'multipart-post'
-gem 'sqlite3'

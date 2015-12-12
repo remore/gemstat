@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'sinatra'
-gem 'sinatra-contrib'
-gem 'bundler'

@@ -1,8 +1,0 @@
-gem 'eventmachine'
-gem 'rake-compiler'
-gem 'rspec'
-gem 'activerecord'
-gem 'mysql'
-gem 'do_mysql'
-gem 'sequel'
-gem 'faker'

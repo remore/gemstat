@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'hashie'
-gem 'mocha'
-gem 'ruby-debug'

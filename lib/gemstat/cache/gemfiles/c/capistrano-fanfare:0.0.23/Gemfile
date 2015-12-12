@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'capistrano_colors'
+gem 'sushi'
+gem 'multi_json'
+gem 'minitest-capistrano'
+gem 'timecop'
+gem 'mocha'

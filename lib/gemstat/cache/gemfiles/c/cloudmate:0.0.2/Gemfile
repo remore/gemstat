@@ -1,0 +1,5 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'rake'
+gem 'minitest'
+gem 'webmock'

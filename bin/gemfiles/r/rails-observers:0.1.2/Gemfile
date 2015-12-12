@@ -1,7 +1,0 @@
-gem 'activemodel'
-gem 'minitest'
-gem 'railties'
-gem 'activerecord'
-gem 'actionmailer'
-gem 'actionpack'
-gem 'sqlite3'

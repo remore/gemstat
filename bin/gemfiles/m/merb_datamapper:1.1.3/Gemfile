@@ -1,4 +1,0 @@
-gem 'merb-core'
-gem 'dm-core'
-gem 'dm-migrations'
-gem 'rspec'

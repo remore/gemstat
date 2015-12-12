@@ -1,0 +1,8 @@
+gem 'rbczmq'
+gem 'minitest'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rails'
+gem 'sinatra'

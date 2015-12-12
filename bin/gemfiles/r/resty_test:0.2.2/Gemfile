@@ -1,4 +1,0 @@
-gem 'excon'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'

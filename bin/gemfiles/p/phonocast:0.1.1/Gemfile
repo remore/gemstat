@@ -1,5 +1,0 @@
-gem 'ruby-mp3info'
-gem 'thor'
-gem 'minitest'
-gem 'libxml-ruby'
-gem 'rake'

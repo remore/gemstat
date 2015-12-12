@@ -1,0 +1,2 @@
+gem 'synergy'
+gem 'dalli'

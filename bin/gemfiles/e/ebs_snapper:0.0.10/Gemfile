@@ -1,6 +1,0 @@
-gem 'aws-sdk'
-gem 'aws-sdk-v1'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'fakeweb'

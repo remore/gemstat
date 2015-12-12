@@ -1,5 +1,0 @@
-gem 'builder'
-gem 'excon'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'

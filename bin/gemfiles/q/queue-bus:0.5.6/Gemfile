@@ -1,5 +1,0 @@
-gem 'multi_json'
-gem 'redis'
-gem 'rspec'
-gem 'timecop'
-gem 'json_pure'

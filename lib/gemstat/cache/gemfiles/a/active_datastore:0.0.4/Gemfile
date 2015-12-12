@@ -1,0 +1,7 @@
+gem 'google-api-client'
+gem 'json'
+gem 'oj'
+gem 'active_support'
+gem 'i18n'
+gem 'bundler'
+gem 'rake'

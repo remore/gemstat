@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rack'
-gem 'sinatra'
-gem 'vegas'

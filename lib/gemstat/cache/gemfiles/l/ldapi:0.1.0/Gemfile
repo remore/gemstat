@@ -1,0 +1,7 @@
+gem 'net-ldap'
+gem 'json'
+gem 'sinatra'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

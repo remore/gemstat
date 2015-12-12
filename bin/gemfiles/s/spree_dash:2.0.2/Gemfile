@@ -1,3 +1,0 @@
-gem 'spree_backend'
-gem 'spree_frontend'
-gem 'httparty'

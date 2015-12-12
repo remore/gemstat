@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'nokogiri'
+gem 'sass'
+gem 'rspec-rails'
+gem 'capybara'
+gem 'generator_spec'

@@ -1,7 +1,0 @@
-gem 'sequel'
-gem 'thrift'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-hooks'
-gem 'minitest-shared_description'
-gem 'activesupport'

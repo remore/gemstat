@@ -1,4 +1,0 @@
-gem 'rugged'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

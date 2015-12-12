@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'guard'
+gem 'guard-shell'
+gem 'thor'
+gem 'aws-sdk-v1'

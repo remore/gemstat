@@ -1,7 +1,0 @@
-gem 'rainbow'
-gem 'rest-client'
-gem 'listen'
-gem 'bundler'
-gem 'rake'
-gem 'byebug'
-gem 'awesome_print'

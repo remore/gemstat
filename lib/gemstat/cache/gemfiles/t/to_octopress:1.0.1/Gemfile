@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'pg'
+gem 'reverse_markdown'
+gem 'rubyzip'

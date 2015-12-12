@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'faraday'
+gem 'bundler'
+gem 'pry'
+gem 'rake'

@@ -1,7 +1,0 @@
-gem 'dm-core'
-gem 'dm-aggregates'
-gem 'dm-timestamps'
-gem 'dm-types'
-gem 'dm-validations'
-gem 'dm-migrations'
-gem 'micronaut'

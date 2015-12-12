@@ -1,0 +1,5 @@
+gem 'speedometer'
+gem 'nzb'
+gem 'parseconfig'
+gem 'rake'
+gem 'rake-compiler'

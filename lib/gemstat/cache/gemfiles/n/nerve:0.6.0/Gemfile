@@ -1,0 +1,8 @@
+gem 'json'
+gem 'zk'
+gem 'bunny'
+gem 'etcd'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'
+gem 'pry'

@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'chronic'
-gem 'tzinfo'

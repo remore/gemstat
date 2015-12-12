@@ -1,0 +1,5 @@
+gem 'accessible_seed_yaml'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'coveralls'

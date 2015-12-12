@@ -1,6 +1,0 @@
-gem 'gdata'
-gem 'imap-backup'
-gem 'rake'
-gem 'pry'
-gem 'pry-doc'
-gem 'rspec'

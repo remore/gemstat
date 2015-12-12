@@ -1,5 +1,0 @@
-gem 'factor-connector-api'
-gem 'rest-client'
-gem 'codeclimate-test-reporter'
-gem 'rspec'
-gem 'rake'

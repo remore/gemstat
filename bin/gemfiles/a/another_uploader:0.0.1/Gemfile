@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'paperclip'
-gem 'aws-sdk'
-gem 'flash_cookie_session'
-gem 'uploadify-rails'
-gem 'best_in_place'
-gem 'sqlite3'

@@ -1,7 +1,0 @@
-gem 'serialport'
-gem 'activesupport'
-gem 'libusb'
-gem 'rspec'
-gem 'pry'
-gem 'yard'
-gem 'redcarpet'

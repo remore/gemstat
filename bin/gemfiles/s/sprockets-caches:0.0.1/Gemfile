@@ -1,4 +1,0 @@
-gem 'sprockets-cache-memcache'
-gem 'sprockets-cache-mongodb'
-gem 'sprockets-cache-redis'
-gem 'sprockets-cache-riak'

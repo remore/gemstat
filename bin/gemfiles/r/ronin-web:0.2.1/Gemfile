@@ -1,8 +1,0 @@
-gem 'mechanize'
-gem 'spidr'
-gem 'sinatra'
-gem 'ronin'
-gem 'rspec'
-gem 'test-unit'
-gem 'rack-test'
-gem 'hoe'

@@ -1,0 +1,2 @@
+gem 'site_prism'
+gem 'vcr'

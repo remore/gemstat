@@ -1,4 +1,0 @@
-gem 'chef'
-gem 'twitter'
-gem 'bundler'
-gem 'rake'

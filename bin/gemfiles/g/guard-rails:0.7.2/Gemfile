@@ -1,6 +1,0 @@
-gem 'guard'
-gem 'guard-compat'
-gem 'rspec'
-gem 'rr'
-gem 'fakefs'
-gem 'version'

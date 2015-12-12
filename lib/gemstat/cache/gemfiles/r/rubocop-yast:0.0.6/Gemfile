@@ -1,0 +1,5 @@
+gem 'rubocop'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'simplecov'

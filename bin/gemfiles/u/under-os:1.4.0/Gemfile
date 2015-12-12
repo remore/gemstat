@@ -1,5 +1,0 @@
-gem 'under-os-core'
-gem 'under-os-http'
-gem 'under-os-ui'
-gem 'rake'
-gem 'motion-facon'

@@ -1,0 +1,7 @@
+gem 'railties'
+gem 'rake'
+gem 'rdoc'
+gem 'minitest'
+gem 'minitest_should'
+gem 'turn'
+gem 'simplecov'

@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'git'
-gem 'commander'
-gem 'colorize'

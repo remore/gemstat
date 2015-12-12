@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'nokogiri'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'
+gem 'unf'

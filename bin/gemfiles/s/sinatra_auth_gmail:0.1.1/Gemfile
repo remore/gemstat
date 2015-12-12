@@ -1,4 +1,0 @@
-gem 'haml'
-gem 'sinatra'
-gem 'rack'
-gem 'warden-googleapps'

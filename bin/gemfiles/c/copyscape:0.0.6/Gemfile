@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'nokogiri'
-gem 'httparty'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'

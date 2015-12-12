@@ -1,5 +1,0 @@
-gem 'imgix'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'

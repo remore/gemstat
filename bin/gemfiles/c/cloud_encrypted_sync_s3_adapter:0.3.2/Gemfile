@@ -1,6 +1,0 @@
-gem 'aws-sdk'
-gem 'cloud_encrypted_sync'
-gem 'rake'
-gem 'mocha'
-gem 'simplecov'
-gem 'activesupport'

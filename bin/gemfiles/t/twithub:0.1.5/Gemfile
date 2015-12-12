@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'twitter'
-gem 'feedzirra'

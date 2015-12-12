@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'ccls-common_lib'
-gem 'ryanb-acts-as-list'

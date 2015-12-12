@@ -1,5 +1,0 @@
-gem 'grape'
-gem 'knock'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

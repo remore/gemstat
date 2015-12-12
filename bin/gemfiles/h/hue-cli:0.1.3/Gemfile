@@ -1,5 +1,0 @@
-gem 'json'
-gem 'hue-lib'
-gem 'rspec'
-gem 'mocha'
-gem 'webmock'

@@ -1,5 +1,0 @@
-gem 'ezcrypto'
-gem 'uuid'
-gem 'dm-core'
-gem 'do_sqlite3'
-gem 'wxruby'

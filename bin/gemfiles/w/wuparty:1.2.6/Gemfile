@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'multipart-post'
-gem 'mime-types'

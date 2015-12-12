@@ -1,5 +1,0 @@
-gem 'activemerchant'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'fakeweb'

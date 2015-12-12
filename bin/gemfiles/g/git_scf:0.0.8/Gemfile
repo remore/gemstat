@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'hub'
-gem 'jira-ruby'
-gem 'rugged'

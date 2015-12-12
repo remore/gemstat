@@ -1,7 +1,0 @@
-gem 'chef'
-gem 'google-api-client'
-gem 'multi_json'
-gem 'mixlib-config'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

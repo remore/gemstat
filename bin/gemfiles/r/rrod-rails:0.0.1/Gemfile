@@ -1,6 +1,0 @@
-gem 'rrod'
-gem 'bundler'
-gem 'capybara'
-gem 'rails'
-gem 'rake'
-gem 'rspec-rails'

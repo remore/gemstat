@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'date_validator'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'debugger'

@@ -1,4 +1,0 @@
-gem 'ore'
-gem 'ore-tasks'
-gem 'rspec'
-gem 'yard'

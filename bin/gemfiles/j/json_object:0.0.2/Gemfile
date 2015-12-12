@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'json'
-gem 'activesupport'
-gem 'i18n'

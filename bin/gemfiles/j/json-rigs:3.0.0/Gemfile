@@ -1,5 +1,0 @@
-gem 'daemons'
-gem 'json'
-gem 'listen'
-gem 'sinatra'
-gem 'haml'

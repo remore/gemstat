@@ -1,0 +1,6 @@
+gem 'transport'
+gem 'rspec'
+gem 'reek'
+gem 'rake'
+gem 'rdoc'
+gem 'dotenv'

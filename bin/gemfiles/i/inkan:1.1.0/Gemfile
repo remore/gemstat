@@ -1,4 +1,0 @@
-gem 'jeweler'
-gem 'yard'
-gem 'rspec'
-gem 'rcov'

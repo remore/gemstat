@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'activesupport'
-gem 'pry'
-gem 'rspec'
-gem 'simplecov'
-gem 'simplecov-rcov'

@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'haml_to_js'
-gem 'rspec'
-gem 'rake'

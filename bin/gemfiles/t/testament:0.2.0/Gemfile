@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'sequel'
-gem 'sqlite3'
-gem 'terminal-table'
-gem 'thor'
-gem 'rspec'
-gem 'pry'

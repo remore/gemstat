@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'mongrel'
-gem 'mongrel_cluster'
-gem 'sqlite3-ruby'
-gem 'rails-app-installer'

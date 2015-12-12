@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'json'
-gem 'rack'
-gem 'rack-test'
-gem 'webmock'
-gem 'rspec'

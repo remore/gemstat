@@ -1,4 +1,0 @@
-gem 'right_aws_api'
-gem 'work_queue'
-gem 'bundler'
-gem 'rake'

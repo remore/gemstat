@@ -1,5 +1,0 @@
-gem 'chronic'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'minitest-rails'

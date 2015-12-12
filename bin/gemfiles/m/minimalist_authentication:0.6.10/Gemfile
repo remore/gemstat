@@ -1,4 +1,0 @@
-gem 'bcrypt'
-gem 'rails'
-gem 'sqlite3'
-gem 'factory_girl'

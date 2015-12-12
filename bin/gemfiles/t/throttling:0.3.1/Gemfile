@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'timecop'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'growl'

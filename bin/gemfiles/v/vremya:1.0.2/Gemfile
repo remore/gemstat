@@ -1,4 +1,0 @@
-gem 'yard'
-gem 'minitest'
-gem 'rake'
-gem 'tzinfo'

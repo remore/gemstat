@@ -1,7 +1,0 @@
-gem 'miasma'
-gem 'pry'
-gem 'minitest'
-gem 'vcr'
-gem 'webmock'
-gem 'psych'
-gem 'mime-types'

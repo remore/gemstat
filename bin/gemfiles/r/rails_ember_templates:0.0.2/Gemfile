@@ -1,3 +1,0 @@
-gem 'railties'
-gem 'barber'
-gem 'sqlite3'

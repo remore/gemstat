@@ -1,4 +1,0 @@
-gem 'fluentd'
-gem 'fnordmetric'
-gem 'rake'
-gem 'mock_redis'

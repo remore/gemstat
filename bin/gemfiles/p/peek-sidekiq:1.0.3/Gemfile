@@ -1,3 +1,0 @@
-gem 'peek'
-gem 'sidekiq'
-gem 'atomic'

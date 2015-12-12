@@ -1,5 +1,0 @@
-gem 'rubycas-client'
-gem 'ucb_ldap'
-gem 'actionpack'
-gem 'rspec'
-gem 'echoe'

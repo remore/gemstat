@@ -1,0 +1,4 @@
+gem 'fast_trie'
+gem 'rdoc'
+gem 'jeweler'
+gem 'ruby-prof'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'git'
-gem 'rake'
-gem 'rspec'
-gem 'cucumber'

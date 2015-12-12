@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'hpricot'
+gem 'rubyXL'
+gem 'rubyzip'

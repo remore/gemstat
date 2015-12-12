@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'yard'
-gem 'rubocop'
-gem 'test-unit'
-gem 'coveralls'

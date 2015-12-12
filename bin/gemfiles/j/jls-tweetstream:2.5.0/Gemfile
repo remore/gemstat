@@ -1,5 +1,0 @@
-gem 'daemons'
-gem 'em-twitter'
-gem 'em-http-request'
-gem 'twitter'
-gem 'bundler'

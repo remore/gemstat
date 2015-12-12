@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'mail'
-gem 'rake'
-gem 'actionmailer'
-gem 'actionmailer-maildir'
-gem 'rspec'
-gem 'fakefs'

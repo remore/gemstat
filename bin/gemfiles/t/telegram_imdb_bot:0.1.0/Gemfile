@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'telegram-bot-ruby'
-gem 'imdb'
-gem 'daemons'

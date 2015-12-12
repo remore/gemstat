@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'cancan'
-gem 'haml'
-gem 'kaminari'
-gem 'simple_form'

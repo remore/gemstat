@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'cucumber'
-gem 'rspec-expectations'

@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'sorcery'
-gem 'cocoon'
-gem 'jquery-rails'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'factory_girl_rails'

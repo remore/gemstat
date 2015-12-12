@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'bundler'
-gem 'appraisal'
-gem 'tzinfo'

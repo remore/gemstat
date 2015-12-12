@@ -1,5 +1,0 @@
-gem 'net-ssh'
-gem 'net-scp'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

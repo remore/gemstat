@@ -1,0 +1,6 @@
+gem 'builder'
+gem 'yard'
+gem 'bluecloth'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

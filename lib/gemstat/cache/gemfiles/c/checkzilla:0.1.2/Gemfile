@@ -1,0 +1,5 @@
+gem 'clamp'
+gem 'twitter'
+gem 'hipchat'
+gem 'clamp'
+gem 'pony'

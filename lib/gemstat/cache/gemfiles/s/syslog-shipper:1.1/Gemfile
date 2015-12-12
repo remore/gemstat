@@ -1,0 +1,2 @@
+gem 'eventmachine-tail'
+gem 'trollop'

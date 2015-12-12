@@ -1,3 +1,0 @@
-gem 'debugger-ruby_core_source'
-gem 'yajl-ruby'
-gem 'rake-compiler'

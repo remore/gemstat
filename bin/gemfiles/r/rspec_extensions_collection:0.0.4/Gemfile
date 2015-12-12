@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'rspec'
-gem 'mongoid-rspec'
-gem 'factory_girl'

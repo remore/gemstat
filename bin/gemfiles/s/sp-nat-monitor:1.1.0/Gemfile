@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'byebug'
-gem 'bundler'
-gem 'rake'
-gem 'net-ping'
-gem 'fog'

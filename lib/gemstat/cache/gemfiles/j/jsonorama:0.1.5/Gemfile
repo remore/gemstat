@@ -1,0 +1,4 @@
+gem 'blobject'
+gem 'rack'
+gem 'wirble'
+gem 'rails'

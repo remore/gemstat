@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'specinfra'
+gem 'net-scp'
+gem 'hashie'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'

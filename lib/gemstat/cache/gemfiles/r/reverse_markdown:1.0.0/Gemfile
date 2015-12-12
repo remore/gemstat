@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'
+gem 'redcarpet'
+gem 'codeclimate-test-reporter'

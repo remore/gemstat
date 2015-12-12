@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-spec-context'
-gem 'fakeweb'

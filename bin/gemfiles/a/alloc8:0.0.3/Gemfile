@@ -1,3 +1,0 @@
-gem 'redis'
-gem 'thor'
-gem 'rspec'

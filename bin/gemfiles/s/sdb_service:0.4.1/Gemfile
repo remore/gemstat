@@ -1,3 +1,0 @@
-gem 'uuidtools'
-gem 'json_pure'
-gem 'caring-aws-sdb'

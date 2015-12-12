@@ -1,4 +1,0 @@
-gem 'json'
-gem 'rake'
-gem 'mocha'
-gem 'dotenv'

@@ -1,0 +1,5 @@
+gem 'escort'
+gem 'yajl-ruby'
+gem 'multi_json'
+gem 'rake'
+gem 'rspec'

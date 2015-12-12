@@ -1,0 +1,7 @@
+gem 'rest-client'
+gem 'gherkin'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'wally'
+gem 'capybara'

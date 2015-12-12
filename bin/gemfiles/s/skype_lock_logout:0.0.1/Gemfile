@@ -1,6 +1,0 @@
-gem 'ruby-dbus'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

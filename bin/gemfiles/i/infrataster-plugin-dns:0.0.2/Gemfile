@@ -1,8 +1,0 @@
-gem 'infrataster'
-gem 'rspec-dns'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'coveralls'
-gem 'byebug'

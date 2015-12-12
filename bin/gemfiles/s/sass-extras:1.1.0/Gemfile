@@ -1,6 +1,0 @@
-gem 'sass'
-gem 'chunky_png'
-gem 'rack'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

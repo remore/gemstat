@@ -1,8 +1,0 @@
-gem 'mail'
-gem 'gpgme'
-gem 'bundler'
-gem 'test-unit'
-gem 'rake'
-gem 'actionmailer'
-gem 'pry-nav'
-gem 'shoulda-context'

@@ -1,8 +1,0 @@
-gem 'httpclient'
-gem 'json'
-gem 'rspec'
-gem 'webmock'
-gem 'fakefs'
-gem 'rack-test'
-gem 'simplecov'
-gem 'rake'

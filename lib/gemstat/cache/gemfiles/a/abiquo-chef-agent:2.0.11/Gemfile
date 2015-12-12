@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'simplecov'
+gem 'chef'
+gem 'rest-client'
+gem 'xml-simple'

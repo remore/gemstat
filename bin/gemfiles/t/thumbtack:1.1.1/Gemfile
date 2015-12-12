@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'codeclimate-test-reporter'
-gem 'minitest'
-gem 'rake'
-gem 'yard'

@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'money'
+gem 'uuid'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rake'
+gem 'forgery'

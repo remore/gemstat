@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'cinch'
+gem 'rspec'
+gem 'fakefs'

@@ -1,0 +1,5 @@
+gem 'blockenspiel'
+gem 'rspec'
+gem 'yard'
+gem 'jeweler'
+gem 'rcov'

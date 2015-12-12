@@ -1,6 +1,0 @@
-gem 'peach'
-gem 'jeweler'
-gem 'rake'
-gem 'rdoc'
-gem 'bundler'
-gem 'peach'

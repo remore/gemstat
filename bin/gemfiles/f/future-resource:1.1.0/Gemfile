@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'ci_reporter'
-gem 'yard'
-gem 'rake'
-gem 'guard-rspec'

@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'activerecord'
-gem 'actionpack'
-gem 'rake'
-gem 'rspec'

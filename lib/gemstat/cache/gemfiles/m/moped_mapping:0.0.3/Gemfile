@@ -1,0 +1,4 @@
+gem 'moped'
+gem 'bundler'
+gem 'rake'
+gem 'tengine_support'

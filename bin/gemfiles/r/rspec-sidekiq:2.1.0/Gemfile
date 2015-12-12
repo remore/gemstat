@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'sidekiq'
-gem 'coveralls'
-gem 'fuubar'
-gem 'activejob'
-gem 'actionmailer'

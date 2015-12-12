@@ -1,0 +1,6 @@
+gem 'ai_games-logger'
+gem 'ai_games-parser'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rubocop'

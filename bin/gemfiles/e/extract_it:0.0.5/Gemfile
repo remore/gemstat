@@ -1,5 +1,0 @@
-gem 'opn'
-gem 'colour_aid'
-gem 'alias_e'
-gem 'extracter'
-gem 'remove_file_suffix'

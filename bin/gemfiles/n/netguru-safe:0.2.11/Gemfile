@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rr'
-gem 'aws-sdk'
-gem 'cloudfiles'
-gem 'net-sftp'
-gem 'toadhopper'

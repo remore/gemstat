@@ -1,0 +1,6 @@
+gem 'yaks'
+gem 'hexp'
+gem 'yaks-sinatra'
+gem 'rspec'
+gem 'rack-test'
+gem 'capybara'

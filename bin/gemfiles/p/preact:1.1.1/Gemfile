@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'multi_json'
-gem 'sucker_punch'

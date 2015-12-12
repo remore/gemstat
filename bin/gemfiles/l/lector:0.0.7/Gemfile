@@ -1,6 +1,0 @@
-gem 'pry'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'citrus'

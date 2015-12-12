@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'bit_core'
-gem 'pg'
-gem 'spring'
-gem 'redcarpet'
-gem 'rspec-rails'

@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'redcarpet'
+gem 'github-markup'
+gem 'coveralls'

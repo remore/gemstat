@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'trollop'
-gem 'nori'
-gem 'rest-client'

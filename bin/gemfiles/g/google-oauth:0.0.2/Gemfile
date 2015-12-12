@@ -1,7 +1,0 @@
-gem 'google-api-client'
-gem 'oj'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

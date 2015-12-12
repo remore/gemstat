@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'ruby-hmac'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'
-gem 'simplecov'
-gem 'mocha'

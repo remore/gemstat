@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'rake'
-gem 'bundler'
-gem 'pry'
-gem 'pry-nav'
-gem 'rspec'
-gem 'response_mate'

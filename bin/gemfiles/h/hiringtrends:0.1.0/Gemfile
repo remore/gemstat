@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'redis'
-gem 'liquid'
-gem 'rspec'

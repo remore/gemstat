@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'sinatra'
-gem 'fauna'
-gem 'mustache'
-gem 'active_support'

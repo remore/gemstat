@@ -1,5 +1,0 @@
-gem 'rainbow'
-gem 'awesome_print'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

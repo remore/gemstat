@@ -1,0 +1,5 @@
+gem 'webmock'
+gem 'simplecov'
+gem 'rake'
+gem 'test-unit'
+gem 'nokogiri'

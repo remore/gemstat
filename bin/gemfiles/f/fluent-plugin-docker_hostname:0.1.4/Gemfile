@@ -1,3 +1,0 @@
-gem 'docker-api'
-gem 'bundler'
-gem 'rake'

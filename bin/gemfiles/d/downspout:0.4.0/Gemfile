@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'shoulda'
-gem 'mocha'
-gem 'curb'
-gem 'simplecov'

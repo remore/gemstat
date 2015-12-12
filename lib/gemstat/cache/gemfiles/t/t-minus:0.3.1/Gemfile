@@ -1,0 +1,7 @@
+gem 'createsend'
+gem 'bundler'
+gem 'rspec-rails'
+gem 'mocha'
+gem 'cucumber-rails'
+gem 'webrat'
+gem 'nokogiri'

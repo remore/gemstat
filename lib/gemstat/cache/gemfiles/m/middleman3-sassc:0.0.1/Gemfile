@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'sassc'
+gem 'sassc-rails'
+gem 'middleman-core'

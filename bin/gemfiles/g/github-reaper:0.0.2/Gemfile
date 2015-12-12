@@ -1,3 +1,0 @@
-gem 'octokit'
-gem 'slop'
-gem 'colorize'

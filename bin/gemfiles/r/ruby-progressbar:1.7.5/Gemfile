@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rspectacular'
-gem 'fuubar'
-gem 'warning_filter'
-gem 'timecop'
-gem 'codeclimate-test-reporter'

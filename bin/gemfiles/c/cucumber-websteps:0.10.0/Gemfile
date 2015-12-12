@@ -1,7 +1,0 @@
-gem 'capybara'
-gem 'cucumber'
-gem 'launchy'
-gem 'sinatra'
-gem 'cucumber-sinatra'
-gem 'rake'
-gem 'rspec'

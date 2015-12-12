@@ -1,0 +1,2 @@
+gem 'shoulda'
+gem 'test_equality_with_lcs'

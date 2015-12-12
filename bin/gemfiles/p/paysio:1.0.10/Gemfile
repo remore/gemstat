@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'activesupport'
-gem 'activemodel'
-gem 'oj'
-gem 'rake'
-gem 'rspec'
-gem 'mocha'

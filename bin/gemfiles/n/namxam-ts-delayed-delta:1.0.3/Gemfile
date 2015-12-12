@@ -1,5 +1,0 @@
-gem 'thinking-sphinx'
-gem 'delayed_job'
-gem 'rspec'
-gem 'yard'
-gem 'cucumber'

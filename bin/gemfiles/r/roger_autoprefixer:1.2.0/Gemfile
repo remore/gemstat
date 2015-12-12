@@ -1,5 +1,0 @@
-gem 'roger'
-gem 'autoprefixer-rails'
-gem 'rake'
-gem 'test-unit'
-gem 'rubocop'

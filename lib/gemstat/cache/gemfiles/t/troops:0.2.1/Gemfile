@@ -1,0 +1,6 @@
+gem 'betabuilder'
+gem 'thor'
+gem 'rake'
+gem 'bundler'
+gem 'jeweler'
+gem 'betabuilder'

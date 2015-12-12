@@ -1,0 +1,7 @@
+gem 'warbler'
+gem 'plist'
+gem 'rubyzip'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'pry'

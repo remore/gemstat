@@ -1,0 +1,6 @@
+gem 'rspec-rails'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rails'
+gem 'sqlite3'

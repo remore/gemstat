@@ -1,0 +1,5 @@
+gem 'octokit'
+gem 'chef'
+gem 'ridley'
+gem 'rake'
+gem 'rubocop'

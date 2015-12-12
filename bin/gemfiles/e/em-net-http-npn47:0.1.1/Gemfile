@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'eventmachine'
-gem 'addressable'
-gem 'em-http-request'
-gem 'rspec'
-gem 'mimic'
-gem 'weary'

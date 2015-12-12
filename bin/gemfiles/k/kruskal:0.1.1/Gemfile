@@ -1,3 +1,0 @@
-gem 'json'
-gem 'bundler'
-gem 'guard-rspec'

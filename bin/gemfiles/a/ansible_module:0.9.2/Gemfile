@@ -1,5 +1,0 @@
-gem 'json'
-gem 'virtus'
-gem 'activesupport'
-gem 'activemodel'
-gem 'rspec'

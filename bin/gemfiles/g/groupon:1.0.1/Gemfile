@@ -1,7 +1,0 @@
-gem 'hashie'
-gem 'httparty'
-gem 'shoulda'
-gem 'mg'
-gem 'jnunemaker-matchy'
-gem 'fakeweb'
-gem 'yard'

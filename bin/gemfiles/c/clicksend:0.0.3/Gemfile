@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'multi_json'
-gem 'rdoc'
-gem 'rspec'
-gem 'webmock'
-gem 'simplecov'
-gem 'hoe'

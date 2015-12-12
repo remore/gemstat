@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'slog'
+gem 'oj'
+gem 'curb'
+gem 'rest-client'

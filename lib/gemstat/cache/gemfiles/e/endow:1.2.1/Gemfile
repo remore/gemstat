@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'httpi'
+gem 'multi_json'
+gem 'retryable-rb'
+gem 'wisper'
+gem 'bundler'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'cuke_modeler'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'cucumber'
-gem 'simplecov'

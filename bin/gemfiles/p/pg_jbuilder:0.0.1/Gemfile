@@ -1,8 +1,0 @@
-gem 'handlebars'
-gem 'activerecord'
-gem 'pg'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rails'
-gem 'sqlite3'

@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'adapter'
-gem 'sqlite3'

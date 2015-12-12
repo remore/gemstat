@@ -1,8 +1,0 @@
-gem 'json'
-gem 'redis'
-gem 'redis-namespace'
-gem 'rest-client'
-gem 'vcr'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

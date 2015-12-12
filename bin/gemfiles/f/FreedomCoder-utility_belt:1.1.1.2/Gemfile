@@ -1,4 +1,0 @@
-gem 'wirble'
-gem 'aws-s3'
-gem 'Platform'
-gem 'json'

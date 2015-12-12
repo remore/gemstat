@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'aws-s3'
-gem 'httpclient'
-gem 'pvande-differ'
-gem 'hoe'

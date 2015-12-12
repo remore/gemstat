@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'rake'
-gem 'activerecord'
-gem 'mongoid'
-gem 'rspec'

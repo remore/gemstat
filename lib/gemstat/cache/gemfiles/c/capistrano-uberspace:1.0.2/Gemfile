@@ -1,0 +1,8 @@
+gem 'capistrano'
+gem 'capistrano-rails'
+gem 'capistrano-bundler'
+gem 'inifile'
+gem 'passenger'
+gem 'rack'
+gem 'bundler'
+gem 'rake'

@@ -1,4 +1,0 @@
-gem 'simple_form'
-gem 'mongoid'
-gem 'bundler'
-gem 'rake'

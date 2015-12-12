@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'rouge'
+gem 'redcarpet'
+gem 'airbrake'
+gem 'rails_autolink'
+gem 'sanitize'
+gem 'bundler'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'recursive-open-struct'
-gem 'hash-deep-merge'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

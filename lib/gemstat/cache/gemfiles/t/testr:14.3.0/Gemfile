@@ -1,0 +1,4 @@
+gem 'binman'
+gem 'json'
+gem 'guard'
+gem 'diff-lcs'

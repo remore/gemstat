@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'thor'
-gem 'pry'
-gem 'fog'
-gem 'unf'
-gem 'xml-simple'
-gem 'vagrant-aws'

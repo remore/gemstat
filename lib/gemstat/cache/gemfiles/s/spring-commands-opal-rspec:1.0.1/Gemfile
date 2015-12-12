@@ -1,0 +1,5 @@
+gem 'opal-rspec'
+gem 'opal-rails'
+gem 'spring'
+gem 'rake'
+gem 'rspec-rails'

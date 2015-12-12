@@ -1,4 +1,0 @@
-gem 'fog'
-gem 'highline'
-gem 'colorize'
-gem 'rspec'

@@ -1,3 +1,0 @@
-gem 'slf4j'
-gem 'logback'
-gem 'hoe'

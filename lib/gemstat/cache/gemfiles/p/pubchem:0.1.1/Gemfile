@@ -1,0 +1,5 @@
+gem 'mechanize'
+gem 'nokogiri'
+gem 'fuzzy-string-match'
+gem 'ox'
+gem 'bundler'

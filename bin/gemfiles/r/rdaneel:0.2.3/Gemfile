@@ -1,5 +1,0 @@
-gem 'em-http-request'
-gem 'robot_rules'
-gem 'rspec'
-gem 'cucumber'
-gem 'relevance-rcov'

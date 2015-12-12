@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'thread_safe'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'timecop'
-gem 'webmock'

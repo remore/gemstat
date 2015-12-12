@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'verbs'
+gem 'rails'
+gem 'sqlite3'
+gem 'rspec-rails'
+gem 'test-unit'
+gem 'factory_girl'
+gem 'timecop'

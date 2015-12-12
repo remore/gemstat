@@ -1,5 +1,0 @@
-gem 'typhoeus'
-gem 'nokogiri'
-gem 'rspec'
-gem 'mocha'
-gem 'rake'

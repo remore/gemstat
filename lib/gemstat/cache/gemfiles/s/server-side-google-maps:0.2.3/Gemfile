@@ -1,0 +1,2 @@
+gem 'httparty'
+gem 'nayutaya-googlemaps-polyline'

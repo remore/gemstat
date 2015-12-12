@@ -1,0 +1,5 @@
+gem 'kgio'
+gem 'wrongdoc'
+gem 'tdb'
+gem 'dalli'
+gem 'memcached'

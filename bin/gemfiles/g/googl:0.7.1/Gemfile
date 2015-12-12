@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'json'
-gem 'rspec'
-gem 'jeweler'
-gem 'webmock'
-gem 'timecop'

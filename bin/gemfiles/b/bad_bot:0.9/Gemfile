@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'turnip'
-gem 'capybara'
-gem 'debugger'
-gem 'simplecov'

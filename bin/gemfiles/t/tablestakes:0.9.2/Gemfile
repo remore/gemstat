@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rspec-its'
-gem 'rspec-core'
-gem 'rspec-expectations'
-gem 'factory_girl'
-gem 'simplecov'
-gem 'coveralls'

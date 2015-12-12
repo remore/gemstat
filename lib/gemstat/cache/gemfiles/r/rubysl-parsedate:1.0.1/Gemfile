@@ -1,0 +1,4 @@
+gem 'rubysl-date'
+gem 'bundler'
+gem 'rake'
+gem 'mspec'

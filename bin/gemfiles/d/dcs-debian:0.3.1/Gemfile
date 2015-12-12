@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'colored'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'minitest'
-gem 'sqlite3-ruby'
-gem 'hoe'

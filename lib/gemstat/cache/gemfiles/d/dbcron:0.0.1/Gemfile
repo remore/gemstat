@@ -1,0 +1,8 @@
+gem 'parse-cron'
+gem 'activerecord'
+gem 'activesupport'
+gem 'celluloid'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'minitest'

@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'sunspot'
-gem 'sunspot_rails'
-gem 'kaminari'

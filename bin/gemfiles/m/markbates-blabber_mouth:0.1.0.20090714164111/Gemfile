@@ -1,4 +1,0 @@
-gem 'tmail'
-gem 'validatable'
-gem 'xmpp4r'
-gem 'xmpp4r-simple'

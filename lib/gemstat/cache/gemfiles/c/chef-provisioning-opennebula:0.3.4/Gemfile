@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'chef-provisioning'
+gem 'opennebula'
+gem 'rspec'
+gem 'rake'

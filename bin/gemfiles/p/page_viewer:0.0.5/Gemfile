@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'docverter'
-gem 'redcarpet'
-gem 'rouge'

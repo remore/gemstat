@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'fog'
+gem 'parallel'
+gem 'thread_safe'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

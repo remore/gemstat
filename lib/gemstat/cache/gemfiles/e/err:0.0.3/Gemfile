@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'mocha'
+gem 'minitest'
+gem 'airbrake'
+gem 'honeybadger'
+gem 'opbeat'

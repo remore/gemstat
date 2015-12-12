@@ -1,0 +1,4 @@
+gem 'sunspot_rbg'
+gem 'nokogiri'
+gem 'rspec'
+gem 'rspec-rails'

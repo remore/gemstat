@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rack'
-gem 'multi_json'

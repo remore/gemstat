@@ -1,4 +1,0 @@
-gem 'mime-types'
-gem 'safe_shell'
-gem 'shoulda'
-gem 'mocha'

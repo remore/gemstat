@@ -1,0 +1,4 @@
+gem 'selenium-webdriver'
+gem 'test-unit'
+gem 'shoulda-context'
+gem 'bundler'

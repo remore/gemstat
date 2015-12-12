@@ -1,5 +1,0 @@
-gem 'aws-sdk'
-gem 'thor'
-gem 'multi_json'
-gem 'minitest'
-gem 'rake'

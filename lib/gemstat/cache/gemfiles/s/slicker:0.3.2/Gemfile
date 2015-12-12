@@ -1,0 +1,6 @@
+gem 'sanitize'
+gem 'minitest'
+gem 'yard'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

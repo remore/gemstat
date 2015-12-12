@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'activesupport'
+gem 'httparty'
+gem 'echoe'

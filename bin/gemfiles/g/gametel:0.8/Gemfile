@@ -1,6 +1,0 @@
-gem 'brazenhead'
-gem 'ADB'
-gem 'page_navigation'
-gem 'rspec'
-gem 'cucumber'
-gem 'require_all'

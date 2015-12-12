@@ -1,5 +1,0 @@
-gem 'hiera'
-gem 'pbkdf2'
-gem 'rbnacl'
-gem 'bundler'
-gem 'rake'

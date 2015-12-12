@@ -1,6 +1,0 @@
-gem 'omniauth-oauth'
-gem 'rspec'
-gem 'bundler'
-gem 'bueller'
-gem 'rake'
-gem 'rcov'

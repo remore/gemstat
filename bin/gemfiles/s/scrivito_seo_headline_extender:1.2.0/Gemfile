@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'scrivito_sdk'
-gem 'rake'

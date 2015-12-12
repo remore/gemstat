@@ -1,4 +1,0 @@
-gem 'simplecov'
-gem 'fakeweb'
-gem 'httparty'
-gem 'hashie'

@@ -1,0 +1,6 @@
+gem 'right_aws'
+gem 'single_instance'
+gem 'rake'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

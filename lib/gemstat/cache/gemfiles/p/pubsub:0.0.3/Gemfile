@@ -1,0 +1,2 @@
+gem 'ruby_events'
+gem 'rspec'

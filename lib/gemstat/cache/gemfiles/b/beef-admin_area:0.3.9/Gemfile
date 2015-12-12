@@ -1,0 +1,2 @@
+gem 'thoughtbot-sortable_table'
+gem 'will_paginate'

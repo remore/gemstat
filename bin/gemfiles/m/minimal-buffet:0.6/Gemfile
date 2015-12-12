@@ -1,4 +1,0 @@
-gem 'colorize'
-gem 'wopen3'
-gem 'rspec'
-gem 'mkdtemp'

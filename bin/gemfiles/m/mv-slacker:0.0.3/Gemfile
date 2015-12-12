@@ -1,4 +1,0 @@
-gem 'mvclient'
-gem 'httparty'
-gem 'slack-rtmapi'
-gem 'colorize'

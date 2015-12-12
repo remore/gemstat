@@ -1,7 +1,0 @@
-gem 'builder'
-gem 'ci_reporter'
-gem 'fakeweb'
-gem 'mocha'
-gem 'rake'
-gem 'shoulda'
-gem 'test-unit'

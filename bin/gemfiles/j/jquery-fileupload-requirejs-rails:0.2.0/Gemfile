@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'actionpack'
-gem 'requirejs-rails'
-gem 'jquery-rails'
-gem 'jqueryui-requirejs-rails'
-gem 'rails'

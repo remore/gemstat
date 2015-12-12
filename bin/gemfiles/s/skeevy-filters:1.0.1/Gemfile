@@ -1,4 +1,0 @@
-gem 'skeevy'
-gem 'snappy'
-gem 'rspec'
-gem 'guard-rspec'

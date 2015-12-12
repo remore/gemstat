@@ -1,0 +1,6 @@
+gem 'will_paginate'
+gem 'json'
+gem 'meta_search'
+gem 'paper_trail'
+gem 'tiny_mce'
+gem 'devise'

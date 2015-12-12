@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'writeexcel'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'codeclimate-test-reporter'
+gem 'rubocop'

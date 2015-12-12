@@ -1,7 +1,0 @@
-gem 'classy_struct'
-gem 'json'
-gem 'gherkin'
-gem 'cucumber'
-gem 'aruba'
-gem 'rspec'
-gem 'simplecov'

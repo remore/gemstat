@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'aws-sdk'
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'

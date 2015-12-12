@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'datamapper'
-gem 'builder'
-gem 'taps'
-gem 'bundler'
-gem 'thoughtbot-shoulda'

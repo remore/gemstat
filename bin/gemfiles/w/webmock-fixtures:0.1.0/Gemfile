@@ -1,4 +1,0 @@
-gem 'webmock'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'

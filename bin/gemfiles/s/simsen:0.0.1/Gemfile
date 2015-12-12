@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'curb'
-gem 'rake'
-gem 'rspec'
-gem 'shoulda-matchers'

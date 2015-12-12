@@ -1,4 +1,0 @@
-gem 'selenium-webdriver'
-gem 'ffi'
-gem 'colorize'
-gem 'Platform'

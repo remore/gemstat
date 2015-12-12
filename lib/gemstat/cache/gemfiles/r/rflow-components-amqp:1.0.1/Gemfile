@@ -1,0 +1,5 @@
+gem 'rflow'
+gem 'amqp'
+gem 'rspec'
+gem 'rspec-collection_matchers'
+gem 'rake'

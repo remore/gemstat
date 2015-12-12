@@ -1,5 +1,0 @@
-gem 'jekyll'
-gem 'clash'
-gem 'rake'
-gem 'octopress-hooks'
-gem 'octopress-debugger'

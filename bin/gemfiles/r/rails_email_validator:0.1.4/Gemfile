@@ -1,7 +1,0 @@
-gem 'activemodel'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'idn'
-gem 'rspec'
-gem 'yard'

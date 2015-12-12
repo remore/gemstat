@@ -1,0 +1,4 @@
+gem 'nuggets'
+gem 'hen'
+gem 'rake'
+gem 'rspec'

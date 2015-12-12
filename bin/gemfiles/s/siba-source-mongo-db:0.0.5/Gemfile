@@ -1,4 +1,0 @@
-gem 'siba'
-gem 'minitest'
-gem 'rake'
-gem 'guard-minitest'

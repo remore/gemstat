@@ -1,4 +1,0 @@
-gem 'kballard-osx-plist'
-gem 'facets'
-gem 'uuid'
-gem 'echoe'

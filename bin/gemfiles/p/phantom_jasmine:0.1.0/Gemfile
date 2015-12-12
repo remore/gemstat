@@ -1,7 +1,0 @@
-gem 'jasmine'
-gem 'facter'
-gem 'phantomjs'
-gem 'json'
-gem 'rspec'
-gem 'fuubar'
-gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'markaby'
+gem 'activesupport'
+gem 'hoe'

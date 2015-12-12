@@ -1,7 +1,0 @@
-gem 'props'
-gem 'logutils'
-gem 'fetcher'
-gem 'gli'
-gem 'rubyzip'
-gem 'rdoc'
-gem 'hoe'

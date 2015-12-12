@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'memoist'
-gem 'bundler'
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'

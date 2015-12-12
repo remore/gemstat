@@ -1,3 +1,0 @@
-gem 'warden-browserid'
-gem 'devise'
-gem 'rake'

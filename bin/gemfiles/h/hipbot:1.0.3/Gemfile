@@ -1,8 +1,0 @@
-gem 'xmpp4r-hipchat'
-gem 'daemons'
-gem 'activesupport'
-gem 'eventmachine'
-gem 'em-http-request'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'

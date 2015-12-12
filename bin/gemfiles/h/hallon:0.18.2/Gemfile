@@ -1,5 +1,0 @@
-gem 'weak_observable'
-gem 'spotify'
-gem 'ffi'
-gem 'rake'
-gem 'rspec'

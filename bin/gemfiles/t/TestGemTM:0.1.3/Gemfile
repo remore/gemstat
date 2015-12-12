@@ -1,6 +1,0 @@
-gem 'savon'
-gem 'json'
-gem 'rest-client'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

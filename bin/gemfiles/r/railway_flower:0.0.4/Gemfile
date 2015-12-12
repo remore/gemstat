@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'rake'

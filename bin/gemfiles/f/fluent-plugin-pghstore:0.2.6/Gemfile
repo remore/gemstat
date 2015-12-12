@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'fluentd'
-gem 'pg'
-gem 'test-unit'

@@ -1,3 +1,0 @@
-gem 'net-http-server'
-gem 'pry'
-gem 'rspec'

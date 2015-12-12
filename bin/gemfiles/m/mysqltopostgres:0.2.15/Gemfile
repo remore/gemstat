@@ -1,7 +1,0 @@
-gem 'mysql-pr'
-gem 'postgres-pr'
-gem 'activerecord'
-gem 'test-unit'
-gem 'activerecord-jdbc-adapter'
-gem 'activerecord-jdbcpostgresql-adapter'
-gem 'activerecord-jdbcsqlite3-adapter'

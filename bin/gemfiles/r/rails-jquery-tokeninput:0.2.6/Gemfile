@@ -1,8 +1,0 @@
-gem 'jquery-rails'
-gem 'activemodel'
-gem 'actionpack'
-gem 'sprockets-rails'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'poltergeist'
-gem 'pry-byebug'

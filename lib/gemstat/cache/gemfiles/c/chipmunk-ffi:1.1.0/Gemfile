@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'nice-ffi'
+gem 'rspec'
+gem 'jeweler'

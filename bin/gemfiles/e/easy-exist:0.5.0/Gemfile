@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rack-test'
-gem 'shoulda-matchers'
-gem 'pry-debugger'

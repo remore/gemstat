@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'bundler'
-gem 'rake'
-gem 'mocha'
-gem 'minitest'
-gem 'simplecov'
-gem 'vcr'
-gem 'fakeweb'

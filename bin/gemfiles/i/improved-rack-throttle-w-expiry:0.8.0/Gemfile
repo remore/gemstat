@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'timecop'
-gem 'rack-test'
-gem 'rspec'
-gem 'yard'
-gem 'redcarpet'
-gem 'rake'
-gem 'jeweler'

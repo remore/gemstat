@@ -1,0 +1,5 @@
+gem 'railties'
+gem 'actionview'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'

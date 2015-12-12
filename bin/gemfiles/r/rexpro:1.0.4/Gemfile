@@ -1,5 +1,0 @@
-gem 'msgpack'
-gem 'uuid'
-gem 'tcp_timeout'
-gem 'bundler'
-gem 'rake'

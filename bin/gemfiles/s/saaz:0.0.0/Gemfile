@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'activesupport'
-gem 'stripe'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'

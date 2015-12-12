@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'json'
+gem 'sys-proctable'

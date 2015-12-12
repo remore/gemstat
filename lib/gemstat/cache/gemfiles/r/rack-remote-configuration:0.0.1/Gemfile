@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'json'
+gem 'plist'
+gem 'rspec'
+gem 'rake'

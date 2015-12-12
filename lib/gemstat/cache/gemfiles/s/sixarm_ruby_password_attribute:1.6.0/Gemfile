@@ -1,0 +1,2 @@
+gem 'bcrypt-ruby'
+gem 'sixarm_ruby_active_record_mock'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'sinatra'
+gem 'haml'
+gem 'ohm'
+gem 'evri_rpx'

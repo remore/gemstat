@@ -1,4 +1,0 @@
-gem 'execjs'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

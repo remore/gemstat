@@ -1,6 +1,0 @@
-gem 'judge'
-gem 'formtastic'
-gem 'rake'
-gem 'rails'
-gem 'sqlite3'
-gem 'rspec'

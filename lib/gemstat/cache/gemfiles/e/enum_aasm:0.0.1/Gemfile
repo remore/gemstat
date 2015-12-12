@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'aasm'
+gem 'power_enum'

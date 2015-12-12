@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'broach'
+gem 'nokogiri'
+gem 'sanitize'

@@ -1,4 +1,0 @@
-gem 'actionpack'
-gem 'activerecord'
-gem 'activesupport'
-gem 'rake'

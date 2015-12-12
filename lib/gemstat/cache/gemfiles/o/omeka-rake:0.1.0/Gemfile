@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'net-ssh'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-filesystem'
+gem 'coveralls'

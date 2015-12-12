@@ -1,0 +1,6 @@
+gem 'addressable'
+gem 'multi_json'
+gem 'extlib'
+gem 'rake'
+gem 'rspec'
+gem 'launchy'

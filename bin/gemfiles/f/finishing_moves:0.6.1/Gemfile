@@ -1,6 +1,0 @@
-gem 'rb-readline'
-gem 'rspec'
-gem 'priscilla'
-gem 'pry-byebug'
-gem 'fuubar'
-gem 'coveralls'

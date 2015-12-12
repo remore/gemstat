@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'mail'
-gem 'activesupport'
-gem 'rspec'
-gem 'yard'

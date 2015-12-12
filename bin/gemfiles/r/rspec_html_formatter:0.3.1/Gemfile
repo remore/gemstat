@@ -1,7 +1,0 @@
-gem 'rspec-core'
-gem 'rouge'
-gem 'activesupport'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

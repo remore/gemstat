@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'virtus'
-gem 'json'
-gem 'rspec'

@@ -1,7 +1,0 @@
-gem 'ruby-filemagic'
-gem 'rails'
-gem 'redis'
-gem 'mysql2'
-gem 'jquery-rails'
-gem 'capybara-webkit'
-gem 'connection_pool'

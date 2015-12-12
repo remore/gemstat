@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'syntax'
-gem 'richunits'
-gem 'chronic'

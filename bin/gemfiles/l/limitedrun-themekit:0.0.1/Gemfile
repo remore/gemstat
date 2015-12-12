@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'capybara'
-gem 'rake'
-gem 'sinatra'
-gem 'activesupport'
-gem 'hashie'
-gem 'liquid'

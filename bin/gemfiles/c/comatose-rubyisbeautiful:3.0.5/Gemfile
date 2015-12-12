@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rails'
-gem 'acts_as_versioned'
-gem 'acts_as_list-rails3'
-gem 'acts_as_tree_rails3'
-gem 'term-ansicolor'

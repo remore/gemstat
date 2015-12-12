@@ -1,8 +1,0 @@
-gem 'archive-tar-minitar'
-gem 'rye'
-gem 'bluecloth'
-gem 'rspec'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

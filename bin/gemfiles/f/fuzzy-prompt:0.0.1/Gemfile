@@ -1,5 +1,0 @@
-gem 'i18n'
-gem 'active_support'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

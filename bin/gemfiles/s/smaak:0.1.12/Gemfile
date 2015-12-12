@@ -1,8 +1,0 @@
-gem 'persistent-cache'
-gem 'bundler'
-gem 'rake'
-gem 'byebug'
-gem 'simplecov'
-gem 'simplecov-rcov'
-gem 'rspec'
-gem 'rack'

@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'rake'
+gem 'contest'
+gem 'mocha'

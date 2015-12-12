@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'log4r'
-gem 'secured_cloud_api_client'

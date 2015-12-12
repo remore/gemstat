@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'sinatra'
-gem 'rdiscount'
-gem 'ultraviolet'
-gem 'coderay'
-gem 'wbzyl-sinatra-rdiscount'
-gem 'wbzyl-rack-codehighlighter'

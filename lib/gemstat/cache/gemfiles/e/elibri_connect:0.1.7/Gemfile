@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'acts_as_elibri_product'
+gem 'elibri_api_client'
+gem 'elibri_onix_mocks'
+gem 'whenever'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'

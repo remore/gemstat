@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'table_print'
-gem 'droplet_kit'
-gem 'hashie'
-gem 'highline'
-gem 'bundler'
-gem 'rake'

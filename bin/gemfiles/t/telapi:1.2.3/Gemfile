@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'multi_json'
-gem 'nokogiri'
-gem 'recursive-open-struct'
-gem 'rake'
-gem 'rspec'
-gem 'fakeweb'

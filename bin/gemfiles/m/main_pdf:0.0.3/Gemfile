@@ -1,6 +1,0 @@
-gem 'opn'
-gem 'colours'
-gem 'cliner'
-gem 'save_file'
-gem 'show_directory_content'
-gem 'esystem'

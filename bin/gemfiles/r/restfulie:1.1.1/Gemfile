@@ -1,7 +1,0 @@
-gem 'sqlite3-ruby'
-gem 'nokogiri'
-gem 'json_pure'
-gem 'rack-conneg'
-gem 'hypertemplate'
-gem 'medie'
-gem 'respondie'

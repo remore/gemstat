@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'treetop'
-gem 'polyglot'
-gem 'midiator'

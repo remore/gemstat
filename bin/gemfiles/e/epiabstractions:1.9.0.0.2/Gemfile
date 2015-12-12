@@ -1,3 +1,0 @@
-gem 'castle.core'
-gem 'castle.dynamicproxy2'
-gem 'pagetypebuilder'

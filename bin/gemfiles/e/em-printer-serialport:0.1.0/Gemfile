@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'serialport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

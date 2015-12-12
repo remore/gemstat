@@ -1,3 +1,0 @@
-gem 'object_proxy'
-gem 'activesupport'
-gem 'libxml-ruby'

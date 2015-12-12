@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'multi_json'
-gem 'aws-sdk'
-gem 'rake'
-gem 'rspec'
-gem 'mocha'

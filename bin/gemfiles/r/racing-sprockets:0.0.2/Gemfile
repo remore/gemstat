@@ -1,4 +1,0 @@
-gem 'thread'
-gem 'thread_safe'
-gem 'bundler'
-gem 'rake'

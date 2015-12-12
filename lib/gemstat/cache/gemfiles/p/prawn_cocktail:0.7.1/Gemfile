@@ -1,0 +1,4 @@
+gem 'prawn'
+gem 'activesupport'
+gem 'rake'
+gem 'pdf-inspector'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'mercenary'
-gem 'premailer'
-gem 'liquid'
-gem 'mail'
-gem 'launchy'

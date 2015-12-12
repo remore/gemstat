@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'haml_coffee_assets'
-gem 'rails-backbone'
-gem 'inflection-js-rails'
-gem 'twitter-bootstrap-rails'
-gem 'activesupport'

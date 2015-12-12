@@ -1,5 +1,0 @@
-gem 'colorize'
-gem 'commander'
-gem 'jekyll'
-gem 'bundler'
-gem 'rake'

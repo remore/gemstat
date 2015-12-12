@@ -1,0 +1,6 @@
+gem 'jquery-rails'
+gem 'loyal_core'
+gem 'loyal_devise'
+gem 'cancan'
+gem 'rails'
+gem 'sqlite3'

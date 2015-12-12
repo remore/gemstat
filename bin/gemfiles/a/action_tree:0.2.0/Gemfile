@@ -1,4 +1,0 @@
-gem 'backports'
-gem 'rspec'
-gem 'yard'
-gem 'yard-rspec'

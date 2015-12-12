@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'thor'
-gem 'rake'

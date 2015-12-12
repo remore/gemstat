@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'multi_json'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'
+gem 'yard'

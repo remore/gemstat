@@ -1,8 +1,0 @@
-gem 'serialport'
-gem 'rake'
-gem 'hanna-nouveau'
-gem 'VersionCheck'
-gem 'simplecov'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'coveralls'

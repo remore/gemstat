@@ -1,0 +1,4 @@
+gem 'yard'
+gem 'maruku'
+gem 'hpricot'
+gem 'ruby_parser'

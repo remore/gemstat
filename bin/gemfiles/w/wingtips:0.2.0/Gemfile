@@ -1,6 +1,0 @@
-gem 'shoes'
-gem 'shoes-highlighter'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'

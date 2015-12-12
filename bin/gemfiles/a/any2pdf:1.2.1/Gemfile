@@ -1,5 +1,0 @@
-gem 'pdfkit'
-gem 'css_parser'
-gem 'trollop'
-gem 'nokogiri'
-gem 'zlog'

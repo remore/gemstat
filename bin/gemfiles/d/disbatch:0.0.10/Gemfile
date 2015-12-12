@@ -1,5 +1,0 @@
-gem 'bson'
-gem 'json'
-gem 'mongo'
-gem 'trollop'
-gem 'eventmachine'

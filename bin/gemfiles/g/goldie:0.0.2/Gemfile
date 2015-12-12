@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'sqlite3'
-gem 'activerecord'
-gem 'smart_colored'
-gem 'terminal-table'
-gem 'rake'

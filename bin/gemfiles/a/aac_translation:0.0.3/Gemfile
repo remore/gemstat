@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'fast_gettext'
-gem 'sqlite3'
-gem 'factory_girl'
-gem 'database_cleaner'

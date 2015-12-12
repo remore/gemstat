@@ -1,4 +1,0 @@
-gem 'json'
-gem 'shoulda'
-gem 'mcmire-matchy'
-gem 'mocha'

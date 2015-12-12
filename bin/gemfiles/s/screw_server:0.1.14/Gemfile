@@ -1,8 +1,0 @@
-gem 'json'
-gem 'haml'
-gem 'bundler'
-gem 'rack'
-gem 'sinatra'
-gem 'daemons'
-gem 'eventmachine'
-gem 'thin'

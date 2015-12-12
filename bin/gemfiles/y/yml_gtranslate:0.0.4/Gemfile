@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'ya2yaml'
-gem 'json'

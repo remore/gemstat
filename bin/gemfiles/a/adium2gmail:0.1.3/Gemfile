@@ -1,4 +1,0 @@
-gem 'mail'
-gem 'nokogiri'
-gem 'parallel'
-gem 'rspec'

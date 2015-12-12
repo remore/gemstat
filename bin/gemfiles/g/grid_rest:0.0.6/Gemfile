@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'rest-client'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

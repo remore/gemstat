@@ -1,5 +1,0 @@
-gem 'holygrail'
-gem 'jspec'
-gem 'nokogiri'
-gem 'action_controller'
-gem 'hoe'

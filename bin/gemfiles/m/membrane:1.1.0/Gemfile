@@ -1,3 +1,0 @@
-gem 'ci_reporter'
-gem 'rake'
-gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'coveralls'
-gem 'i18n'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'thor'
-gem 'launchy'

@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'thor-scmversion'
-gem 'webmock'
-gem 'spork'
-gem 'simplecov'
-gem 'vcr'
-gem 'aruba'
-gem 'rspec'

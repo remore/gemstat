@@ -1,0 +1,5 @@
+gem 'term-ansicolor'
+gem 'yard'
+gem 'rspec'
+gem 'jeweler'
+gem 'simplecov'

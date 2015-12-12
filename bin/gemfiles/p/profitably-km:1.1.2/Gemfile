@@ -1,7 +1,0 @@
-gem 'km'
-gem 'bundler'
-gem 'rspec'
-gem 'awesome_print'
-gem 'rake'
-gem 'watchr'
-gem 'json'

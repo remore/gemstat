@@ -1,4 +1,0 @@
-gem 'dbi'
-gem 'spreadsheet'
-gem 'fastercsv'
-gem 'base_app'

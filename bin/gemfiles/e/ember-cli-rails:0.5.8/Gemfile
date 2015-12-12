@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'non-stupid-digest-assets'
-gem 'sprockets'
-gem 'cocaine'

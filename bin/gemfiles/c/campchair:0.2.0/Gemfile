@@ -1,3 +1,0 @@
-gem 'leveldb-ruby'
-gem 'rspec'
-gem 'rake'

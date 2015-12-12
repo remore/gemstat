@@ -1,5 +1,0 @@
-gem 'rghost'
-gem 'rghost_barcode'
-gem 'parseline'
-gem 'activemodel'
-gem 'unidecoder'

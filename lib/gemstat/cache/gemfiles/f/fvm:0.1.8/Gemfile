@@ -1,0 +1,6 @@
+gem 'thor'
+gem 'highline'
+gem 'nokogiri'
+gem 'activeresource'
+gem 'geoffrey'
+gem 'versionomy'

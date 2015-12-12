@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'multi_json'
-gem 'rspec'
-gem 'rake'
-gem 'sinatra-contrib'
-gem 'test-unit'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rdbi'
-gem 'jinx'
-gem 'jinx-json'
-gem 'jinx-migrate'
-gem 'rspec'
-gem 'yard'
-gem 'rake'

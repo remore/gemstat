@@ -1,4 +1,0 @@
-gem 'geoip'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

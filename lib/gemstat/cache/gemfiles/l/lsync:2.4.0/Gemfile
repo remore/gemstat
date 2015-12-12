@@ -1,0 +1,6 @@
+gem 'fingerprint'
+gem 'rexec'
+gem 'lockfile'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'

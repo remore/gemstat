@@ -1,0 +1,5 @@
+gem 'sass'
+gem 'autoprefixer-rails'
+gem 'execjs'
+gem 'thor'
+gem 'rake'

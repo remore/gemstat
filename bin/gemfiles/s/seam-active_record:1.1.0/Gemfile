@@ -1,7 +1,0 @@
-gem 'seam'
-gem 'subtle'
-gem 'bundler'
-gem 'rake'
-gem 'mocha'
-gem 'contrast'
-gem 'timecop'

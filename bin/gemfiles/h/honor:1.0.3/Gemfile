@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'rspec'
-gem 'ammeter'
-gem 'supermodel'
-gem 'database_cleaner'
-gem 'timecop'

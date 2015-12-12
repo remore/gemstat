@@ -1,0 +1,6 @@
+gem 'gnuplot'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'simplecov'

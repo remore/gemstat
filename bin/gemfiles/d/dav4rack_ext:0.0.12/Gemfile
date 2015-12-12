@@ -1,3 +1,0 @@
-gem 'dav4rack'
-gem 'http_router'
-gem 'vcard_parser'

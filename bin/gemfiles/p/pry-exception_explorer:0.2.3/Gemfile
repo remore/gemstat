@@ -1,3 +1,0 @@
-gem 'pry-stack_explorer'
-gem 'bacon'
-gem 'rake'

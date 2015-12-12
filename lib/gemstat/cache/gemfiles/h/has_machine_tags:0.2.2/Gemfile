@@ -1,0 +1,5 @@
+gem 'bacon'
+gem 'bacon-bits'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'activerecord-jdbcsqlite3-adapter'

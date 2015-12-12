@@ -1,8 +1,0 @@
-gem 'tilt'
-gem 'RedCloth'
-gem 'rails'
-gem 'rspec-rails'
-gem 'jeweler'
-gem 'cucumber'
-gem 'cucumber-rails'
-gem 'capybara'

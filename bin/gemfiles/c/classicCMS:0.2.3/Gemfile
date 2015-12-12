@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'mongoid'
-gem 'bson_ext'
-gem 'sinatra'

@@ -1,3 +1,0 @@
-gem 'test-unit'
-gem 'knut-gempackager'
-gem 'knut-testtask'

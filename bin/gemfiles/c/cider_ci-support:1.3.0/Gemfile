@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'flay'
-gem 'flog'
-gem 'json_roa-client'
-gem 'mime-types'
-gem 'simplecov'
-gem 'thread'

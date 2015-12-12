@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'elasticsearch'
+gem 'aws-sdk'
+gem 'faraday'
+gem 'faraday_middleware'

@@ -1,4 +1,0 @@
-gem 'rugged'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

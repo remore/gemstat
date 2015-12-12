@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'sprockets'
+gem 'coffee-script'
+gem 'activesupport'
+gem 'rspec'
+gem 'ci_reporter'
+gem 'simplecov'
+gem 'simplecov-rcov'

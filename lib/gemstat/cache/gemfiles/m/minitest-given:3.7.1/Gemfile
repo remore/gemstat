@@ -1,0 +1,2 @@
+gem 'given_core'
+gem 'minitest'

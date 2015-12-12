@@ -1,5 +1,0 @@
-gem 'halidator'
-gem 'json_spec'
-gem 'rspec'
-gem 'cucumber'
-gem 'rack-test'

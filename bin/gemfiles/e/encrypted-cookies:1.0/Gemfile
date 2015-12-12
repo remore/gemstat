@@ -1,3 +1,0 @@
-gem 'test-unit'
-gem 'activesupport'
-gem 'actionpack'

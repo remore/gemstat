@@ -1,4 +1,0 @@
-gem 'simpleconsole'
-gem 'fssm'
-gem 'jsmin'
-gem 'sprockets'

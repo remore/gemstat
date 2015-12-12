@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'heroku'
-gem 'resque'
-gem 'redis'

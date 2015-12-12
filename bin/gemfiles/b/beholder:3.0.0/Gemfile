@@ -1,4 +1,0 @@
-gem 'fsevents'
-gem 'rspec'
-gem 'yard'
-gem 'rr'

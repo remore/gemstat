@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'bundler'
-gem 'fix'
-gem 'rake'
-gem 'rubocop'
-gem 'simplecov'
-gem 'webmock'
-gem 'yard'

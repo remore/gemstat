@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rainbow'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'yard'

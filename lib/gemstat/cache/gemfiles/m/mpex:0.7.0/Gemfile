@@ -1,0 +1,8 @@
+gem 'cri'
+gem 'json'
+gem 'highline'
+gem 'gpgme'
+gem 'net-yail'
+gem 'rake'
+gem 'cucumber'
+gem 'rspec-expectations'

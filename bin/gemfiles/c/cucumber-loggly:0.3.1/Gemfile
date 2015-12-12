@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'loggly-ruby-client'
-gem 'trollop'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

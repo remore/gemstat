@@ -1,0 +1,8 @@
+gem 'gli'
+gem 'versionomy'
+gem 'mixlib-shellout'
+gem 'rake'
+gem 'aruba'
+gem 'aruba-doubles'
+gem 'pry'
+gem 'tailor'

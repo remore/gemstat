@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'redcarpet'
-gem 'cucumber'
-gem 'aruba'

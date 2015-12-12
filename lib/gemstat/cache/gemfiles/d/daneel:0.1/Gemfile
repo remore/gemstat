@@ -1,0 +1,5 @@
+gem 'sparks'
+gem 'sinatra'
+gem 'puma'
+gem 'rake'
+gem 'bundler'

@@ -1,3 +1,0 @@
-gem 'mongo'
-gem 'qu'
-gem 'bson_ext'

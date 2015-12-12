@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'rake'
-gem 'docker-api'
-gem 'rainbow'

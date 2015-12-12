@@ -1,0 +1,5 @@
+gem 'extlib'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'coveralls'

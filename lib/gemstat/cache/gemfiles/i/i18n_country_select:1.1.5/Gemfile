@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'i18n-country-translations'
+gem 'unicode_utils'
+gem 'rails'
+gem 'rspec-rails'
+gem 'spork'

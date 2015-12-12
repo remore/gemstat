@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rest-client'
-gem 'sinatra'
-gem 'thin'
-gem 'sucker_punch'
-gem 'rprogram'

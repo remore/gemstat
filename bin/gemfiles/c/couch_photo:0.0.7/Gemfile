@@ -1,6 +1,0 @@
-gem 'cucumber'
-gem 'rspec'
-gem 'couchrest_model_config'
-gem 'couchrest'
-gem 'mini_magick'
-gem 'couchrest_model'

@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'xcodeproj'
-gem 'bundler'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'rake'

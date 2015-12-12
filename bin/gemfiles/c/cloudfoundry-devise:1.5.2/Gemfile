@@ -1,3 +1,0 @@
-gem 'warden'
-gem 'orm_adapter'
-gem 'bcrypt-ruby'

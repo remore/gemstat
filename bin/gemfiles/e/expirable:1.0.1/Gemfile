@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'clockwork'
-gem 'delayed_job'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'msgpack'
+gem 'yajl-ruby'
+gem 'docker-api'

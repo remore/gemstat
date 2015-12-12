@@ -1,0 +1,7 @@
+gem 'haml'
+gem 'rubyzip'
+gem 'plist'
+gem 'uglifier'
+gem 'sass-rails'
+gem 'rake'
+gem 'rspec'

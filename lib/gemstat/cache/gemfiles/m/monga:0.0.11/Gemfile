@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'kgio'
+gem 'em-synchrony'
+gem 'bson'
+gem 'bin_utils'

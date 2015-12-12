@@ -1,4 +1,0 @@
-gem 'selenium-webdriver'
-gem 'spec'
-gem 'bundler'
-gem 'rake'

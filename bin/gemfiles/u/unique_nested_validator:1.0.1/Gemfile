@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'i18n'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

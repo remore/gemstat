@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'ZenTest'
-gem 'json'
-gem 'configliere'
-gem 'rubberband'
-gem 'ripl'

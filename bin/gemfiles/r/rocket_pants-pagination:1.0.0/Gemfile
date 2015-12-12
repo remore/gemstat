@@ -1,7 +1,0 @@
-gem 'rocket_pants'
-gem 'will_paginate'
-gem 'active_model_serializers'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'fuubar'

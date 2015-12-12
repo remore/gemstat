@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'progressbar'
+gem 'json'
+gem 'taglib-ruby'
+gem 'nokogiri'
+gem 'speak_slow'
+gem 'trollop'

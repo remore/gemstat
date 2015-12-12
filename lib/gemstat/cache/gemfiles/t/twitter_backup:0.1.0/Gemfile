@@ -1,0 +1,6 @@
+gem 'highline'
+gem 'activesupport'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'twitter'
+gem 'slop'

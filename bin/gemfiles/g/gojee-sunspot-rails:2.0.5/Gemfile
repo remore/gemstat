@@ -1,4 +1,0 @@
-gem 'gojee-sunspot'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rspec-rails'

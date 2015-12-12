@@ -1,8 +1,0 @@
-gem 'active-triples'
-gem 'deprecation'
-gem 'activesupport'
-gem 'pry'
-gem 'rdoc'
-gem 'rspec'
-gem 'coveralls'
-gem 'guard-rspec'

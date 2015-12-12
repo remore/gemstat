@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'nokogiri'
-gem 'taglib-ruby'
-gem 'minitest'
-gem 'vcr'
-gem 'webmock'
-gem 'mocha'
-gem 'guard-minitest'

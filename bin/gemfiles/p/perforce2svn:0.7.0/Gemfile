@@ -1,7 +1,0 @@
-gem 'log4r'
-gem 'choosy'
-gem 'rspec'
-gem 'mocha'
-gem 'autotest'
-gem 'autotest-notification'
-gem 'ZenTest'

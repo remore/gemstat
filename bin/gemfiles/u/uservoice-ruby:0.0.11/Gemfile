@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'ezcrypto'
-gem 'json'
-gem 'oauth'

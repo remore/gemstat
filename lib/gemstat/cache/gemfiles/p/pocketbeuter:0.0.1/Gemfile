@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'launchy'
+gem 'thor'
+gem 'colorize'
+gem 'rspec'
+gem 'webmock'
+gem 'vcr'

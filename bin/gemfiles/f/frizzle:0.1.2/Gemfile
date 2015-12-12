@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'webmock'
-gem 'vcr'
-gem 'turn'
-gem 'minitest'
-gem 'httparty'
-gem 'hashie'

@@ -1,0 +1,8 @@
+gem 'capybara'
+gem 'rspec-rails'
+gem 'shoulda-matchers'
+gem 'simplecov'
+gem 'sqlite3'
+gem 'formtastic'
+gem 'simple_form'
+gem 'rails'

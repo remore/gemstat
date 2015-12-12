@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'rake'
-gem 'rdoc'
-gem 'yard'
-gem 'redcarpet'

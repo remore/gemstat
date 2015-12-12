@@ -1,4 +1,0 @@
-gem 'fog'
-gem 'rake'
-gem 'minitest'
-gem 'pry-debugger'

@@ -1,0 +1,8 @@
+gem 'sequel'
+gem 'rr'
+gem 'fabrication'
+gem 'rspec'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'mongoid'
+gem 'database_cleaner'

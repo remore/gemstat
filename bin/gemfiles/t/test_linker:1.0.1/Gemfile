@@ -1,7 +1,0 @@
-gem 'versionomy'
-gem 'log_switch'
-gem 'bundler'
-gem 'cucumber'
-gem 'fakeweb'
-gem 'rspec'
-gem 'yard'

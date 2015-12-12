@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'mocha'
-gem 'sinatra'
-gem 'shotgun'
-gem 'thin'
-gem 'json'
-gem 'coffee-script'

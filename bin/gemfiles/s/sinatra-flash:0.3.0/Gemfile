@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'rspec'
-gem 'yard'
-gem 'sinatra-sessionography'

@@ -1,3 +1,0 @@
-gem 'hash-persistent'
-gem 'sinatra-options-route'
-gem 'sinatra-response-header-helpers'

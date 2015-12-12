@@ -1,7 +1,0 @@
-gem 'rdf'
-gem 'activesupport'
-gem 'i18n'
-gem 'rspec'
-gem 'rspec-its'
-gem 'rdf-spec'
-gem 'yard'

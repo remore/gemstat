@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'observable_object'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'dotenv'

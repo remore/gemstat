@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'midi'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'debugger'

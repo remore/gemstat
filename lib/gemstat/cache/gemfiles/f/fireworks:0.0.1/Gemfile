@@ -1,0 +1,2 @@
+gem 'filesize'
+gem 'chronic_duration'

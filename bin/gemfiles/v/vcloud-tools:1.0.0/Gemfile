@@ -1,8 +1,0 @@
-gem 'vcloud-core'
-gem 'vcloud-edge_gateway'
-gem 'vcloud-launcher'
-gem 'vcloud-net_launcher'
-gem 'vcloud-walker'
-gem 'gem_publisher'
-gem 'rake'
-gem 'vcloud-tools-tester'

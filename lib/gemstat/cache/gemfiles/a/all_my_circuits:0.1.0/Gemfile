@@ -1,0 +1,5 @@
+gem 'concurrent-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'puma'

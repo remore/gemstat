@@ -1,5 +1,0 @@
-gem 'highline'
-gem 'mail'
-gem 'nokogiri'
-gem 'mocha'
-gem 'rspec'

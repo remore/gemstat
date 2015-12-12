@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'attache_api'
+gem 'httpclient'
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'sqlite3'
+gem 'factory_girl_rails'

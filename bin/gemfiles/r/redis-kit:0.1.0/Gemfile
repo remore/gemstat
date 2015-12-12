@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'hiredis'
-gem 'mock_redis'
-gem 'rake'
-gem 'rb-fsevent'
-gem 'guard'
-gem 'guard-minitest'

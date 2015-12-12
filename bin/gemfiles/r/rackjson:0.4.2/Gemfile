@@ -1,4 +1,0 @@
-gem 'mongo'
-gem 'mongo_ext'
-gem 'json'
-gem 'rack'

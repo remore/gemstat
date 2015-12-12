@@ -1,3 +1,0 @@
-gem 'xml-object'
-gem 'libxml-ruby'
-gem 'shoulda'

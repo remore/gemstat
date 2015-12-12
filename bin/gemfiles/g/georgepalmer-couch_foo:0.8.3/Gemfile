@@ -1,4 +1,0 @@
-gem 'json'
-gem 'activesupport'
-gem 'jchris-couchrest'
-gem 'uuid'

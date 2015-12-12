@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'bundler'
+gem 'fakeweb'
+gem 'rubocop'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'simplecov'

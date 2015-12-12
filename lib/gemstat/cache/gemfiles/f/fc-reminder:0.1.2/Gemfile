@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'twilio-ruby'
+gem 'mixlib-cli'
+gem 'daemons'
+gem 'clockwork'
+gem 'bundler'

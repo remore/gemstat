@@ -1,0 +1,4 @@
+gem 'qiita'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'

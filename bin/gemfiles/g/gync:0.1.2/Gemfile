@@ -1,7 +1,0 @@
-gem 'git'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'ruby-debug'
-gem 'ruby-debug19'

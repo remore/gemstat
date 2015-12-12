@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'

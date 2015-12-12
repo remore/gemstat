@@ -1,7 +1,0 @@
-gem 'msgpack'
-gem 'msgpack-rpc'
-gem 'tokyocabinet'
-gem 'tokyotyrant'
-gem 'memcache-client'
-gem 'rack'
-gem 'rspec'

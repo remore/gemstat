@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'auto_awesomplete'
-gem 'simple_form'
-gem 'bundler'
-gem 'rails'

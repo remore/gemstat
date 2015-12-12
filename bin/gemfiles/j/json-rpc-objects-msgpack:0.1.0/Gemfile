@@ -1,4 +1,0 @@
-gem 'json-rpc-objects'
-gem 'msgpack'
-gem 'bundler'
-gem 'jeweler'

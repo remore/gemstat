@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'bacon'
-gem 'test-unit'
-gem 'eventmachine'
-gem 'growl'
-gem 'guard-rspec'
-gem 'guard-bundler'
-gem 'rake'

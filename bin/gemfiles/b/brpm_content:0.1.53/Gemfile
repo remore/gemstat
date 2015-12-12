@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'savon'
-gem 'capistrano'
-gem 'rake'
-gem 'rspec'

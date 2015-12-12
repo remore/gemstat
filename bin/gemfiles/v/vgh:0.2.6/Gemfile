@@ -1,7 +1,0 @@
-gem 'aws-sdk'
-gem 'sinatra'
-gem 'rspec'
-gem 'rake'
-gem 'yard'
-gem 'bundler'
-gem 'reek'

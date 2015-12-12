@@ -1,4 +1,0 @@
-gem 'hashie'
-gem 'ice_nine'
-gem 'optser'
-gem 'uuidtools'

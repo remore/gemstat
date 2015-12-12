@@ -1,4 +1,0 @@
-gem 'beefcake'
-gem 'ffwd'
-gem 'rspec'
-gem 'rspec-mocks'

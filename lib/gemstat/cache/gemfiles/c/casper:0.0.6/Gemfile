@@ -1,0 +1,6 @@
+gem 'ffi'
+gem 'contest'
+gem 'stories'
+gem 'capybara'
+gem 'sinatra'
+gem 'haml'

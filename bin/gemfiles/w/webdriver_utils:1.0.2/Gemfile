@@ -1,6 +1,0 @@
-gem 'selenium-webdriver'
-gem 'pry'
-gem 'appium_thor'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

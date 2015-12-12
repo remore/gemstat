@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'bundler'
-gem 'pry'
-gem 'pry-nav'

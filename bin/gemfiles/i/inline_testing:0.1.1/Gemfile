@@ -1,7 +1,0 @@
-gem 'ruby_parser'
-gem 'file-tail'
-gem 'sourcify'
-gem 'riot'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

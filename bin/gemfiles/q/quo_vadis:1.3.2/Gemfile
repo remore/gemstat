@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'bcrypt-ruby'
-gem 'sqlite3-ruby'
-gem 'capybara'
-gem 'launchy'
-gem 'rake'

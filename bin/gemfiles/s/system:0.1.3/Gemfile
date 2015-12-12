@@ -1,7 +1,0 @@
-gem 'version'
-gem 'rake'
-gem 'guard-rspec'
-gem 'guard-yard'
-gem 'rb-fsevent'
-gem 'fuubar'
-gem 'kramdown'

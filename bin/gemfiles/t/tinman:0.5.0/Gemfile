@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'builder'
-gem 'rack'
-gem 'RedCloth'

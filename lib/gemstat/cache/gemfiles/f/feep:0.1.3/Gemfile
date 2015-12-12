@@ -1,0 +1,7 @@
+gem 'wavefile'
+gem 'os'
+gem 'pry-byebug'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

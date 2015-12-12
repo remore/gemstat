@@ -1,6 +1,0 @@
-gem 'shoulda'
-gem 'remote_table'
-gem 'activesupport'
-gem 'fastercsv'
-gem 'andand'
-gem 'amatch'

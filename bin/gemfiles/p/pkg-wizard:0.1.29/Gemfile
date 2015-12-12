@@ -1,8 +1,0 @@
-gem 'resque'
-gem 'git'
-gem 'sinatra'
-gem 'thin'
-gem 'rufus-scheduler'
-gem 'term-ansicolor'
-gem 'mixlib-cli'
-gem 'daemons'

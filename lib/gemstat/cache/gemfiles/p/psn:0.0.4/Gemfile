@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'nokogiri'
+gem 'retriable'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'vcr'
+gem 'webmock'

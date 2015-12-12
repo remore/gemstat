@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'typhoeus'
+gem 'minitest'
+gem 'mocha'
+gem 'rake'

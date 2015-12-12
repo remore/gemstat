@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'thoughtbot-factory_girl'
-gem 'ruby-debug'
-gem 'searchlogic'

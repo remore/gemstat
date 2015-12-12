@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rack'
-gem 'redis'
-gem 'guard'
-gem 'guard-minitest'

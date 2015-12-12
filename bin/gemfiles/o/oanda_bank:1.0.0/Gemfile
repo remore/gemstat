@@ -1,6 +1,0 @@
-gem 'vcr'
-gem 'rspec'
-gem 'webmock'
-gem 'simplecov'
-gem 'oauth2'
-gem 'money'

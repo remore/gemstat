@@ -1,0 +1,4 @@
+gem 'riak-client'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'

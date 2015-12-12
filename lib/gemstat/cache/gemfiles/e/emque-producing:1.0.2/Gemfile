@@ -1,0 +1,8 @@
+gem 'oj'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'bunny'
+gem 'simplecov'

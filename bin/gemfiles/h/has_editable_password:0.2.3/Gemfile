@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'bcrypt-ruby'

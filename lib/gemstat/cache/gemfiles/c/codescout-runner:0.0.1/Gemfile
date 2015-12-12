@@ -1,0 +1,8 @@
+gem 'json'
+gem 'hashie'
+gem 'faraday'
+gem 'codescout-analyzer'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'webmock'

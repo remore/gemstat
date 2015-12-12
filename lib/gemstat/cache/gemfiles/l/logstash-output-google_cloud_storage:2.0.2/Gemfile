@@ -1,0 +1,5 @@
+gem 'logstash-core'
+gem 'stud'
+gem 'google-api-client'
+gem 'logstash-codec-plain'
+gem 'logstash-devutils'

@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'redcarpet'
-gem 'sanitize'
-gem 'minitest'
-gem 'rake'

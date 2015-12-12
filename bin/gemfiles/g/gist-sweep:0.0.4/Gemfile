@@ -1,4 +1,0 @@
-gem 'json'
-gem 'github_api'
-gem 'bundler'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'redcarpet'
-gem 'albino'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rspec-rails'

@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'geoip'
-gem 'slim'
-gem 'thor'

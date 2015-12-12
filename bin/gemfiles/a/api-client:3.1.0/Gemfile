@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'webmock'
-gem 'rspec'
-gem 'yard'
-gem 'coveralls'
-gem 'activemodel'
-gem 'json_pure'

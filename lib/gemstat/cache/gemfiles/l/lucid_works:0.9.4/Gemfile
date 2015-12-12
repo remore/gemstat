@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'rest-client'
+gem 'json'
+gem 'rsolr'
+gem 'nokogiri'

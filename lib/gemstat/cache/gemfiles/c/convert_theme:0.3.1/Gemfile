@@ -1,0 +1,5 @@
+gem 'hpricot'
+gem 'rubigen'
+gem 'rails'
+gem 'haml'
+gem 'hoe'

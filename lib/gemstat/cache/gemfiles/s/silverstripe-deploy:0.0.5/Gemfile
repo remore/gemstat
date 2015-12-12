@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'railsless-deploy'
+gem 'bundler'
+gem 'jeweler'
+gem 'capistrano'
+gem 'railsless-deploy'
+gem 'jeweler'

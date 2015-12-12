@@ -1,5 +1,0 @@
-gem 'omniauth-oauth2'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'rubocop'

@@ -1,4 +1,0 @@
-gem 'highline'
-gem 'nokogiri'
-gem 'minitest'
-gem 'rake'

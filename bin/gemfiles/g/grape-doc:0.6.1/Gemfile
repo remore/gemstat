@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'grape'
-gem 'loader'
-gem 'RedCloth'
-gem 'rack-test'
-gem 'rack-test-poc'

@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'tpope-pickler'
-gem 'newgem'
-gem 'hoe'

@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'eventmachine'
-gem 'active_support'

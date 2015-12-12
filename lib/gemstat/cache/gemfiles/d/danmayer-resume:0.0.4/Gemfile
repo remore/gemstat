@@ -1,0 +1,8 @@
+gem 'jeweler'
+gem 'main'
+gem 'maruku'
+gem 'sinatra'
+gem 'erubis'
+gem 'less'
+gem 'launchy'
+gem 'rdiscount'

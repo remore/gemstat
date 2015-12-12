@@ -1,3 +1,0 @@
-gem 'rack'
-gem 'jeweler'
-gem 'rack-test'

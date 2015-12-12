@@ -1,4 +1,0 @@
-gem 'capybara'
-gem 'minitest'
-gem 'poltergeist'
-gem 'rake'

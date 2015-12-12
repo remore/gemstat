@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'typhoeus'
+gem 'sqlite3'
+gem 'capybara'
+gem 'factory_girl_rails'
+gem 'launchy'
+gem 'appraisal'

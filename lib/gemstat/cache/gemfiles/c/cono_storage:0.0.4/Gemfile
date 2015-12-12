@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'mimemagic'
+gem 'bundler'
+gem 'rake'

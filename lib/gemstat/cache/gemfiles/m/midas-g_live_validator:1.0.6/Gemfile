@@ -1,0 +1,4 @@
+gem 'newgem'
+gem 'rails'
+gem 'midas-guilded'
+gem 'hoe'

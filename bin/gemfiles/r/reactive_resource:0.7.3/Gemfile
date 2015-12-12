@@ -1,4 +1,0 @@
-gem 'activeresource'
-gem 'activesupport'
-gem 'shoulda'
-gem 'webmock'

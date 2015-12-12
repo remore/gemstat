@@ -1,2 +1,0 @@
-gem 'delayed_job'
-gem 'rspec'

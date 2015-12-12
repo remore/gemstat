@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'rails'
-gem 'thor'
-gem 'aruba'
-gem 'bundler'
-gem 'cucumber'
-gem 'rspec'

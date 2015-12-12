@@ -1,4 +1,0 @@
-gem 'csv-diff'
-gem 'arg-parser'
-gem 'color-console'
-gem 'axlsx'

@@ -1,8 +1,0 @@
-gem 'require_all'
-gem 'sugar-high'
-gem 'file_mutate'
-gem 'activesupport'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

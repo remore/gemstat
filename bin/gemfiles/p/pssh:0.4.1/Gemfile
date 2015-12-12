@@ -1,6 +1,0 @@
-gem 'json'
-gem 'rack'
-gem 'thin'
-gem 'websocket-rack'
-gem 'haml'
-gem 'tilt'

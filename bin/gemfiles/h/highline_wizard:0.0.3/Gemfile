@@ -1,4 +1,0 @@
-gem 'highline'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

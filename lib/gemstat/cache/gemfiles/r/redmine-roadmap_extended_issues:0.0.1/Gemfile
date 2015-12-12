@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'redmine-more_view_hooks'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'

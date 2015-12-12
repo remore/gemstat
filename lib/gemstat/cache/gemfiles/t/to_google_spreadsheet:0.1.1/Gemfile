@@ -1,0 +1,2 @@
+gem 'google-spreadsheet-ruby'
+gem 'rspec'

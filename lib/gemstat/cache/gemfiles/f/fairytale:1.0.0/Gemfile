@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'json'
+gem 'tilt'
+gem 'sanitize'

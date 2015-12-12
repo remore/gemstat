@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'json'
-gem 'require_all'

@@ -1,3 +1,0 @@
-gem 'couchrest'
-gem 'couchrest_model'
-gem 'ruby-openid'

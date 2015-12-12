@@ -1,0 +1,7 @@
+gem 'builder'
+gem 'activesupport'
+gem 'htmlentities'
+gem 'nokogiri'
+gem 'tzinfo'
+gem 'rake'
+gem 'mocha'

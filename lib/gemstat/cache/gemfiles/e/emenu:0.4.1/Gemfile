@@ -1,0 +1,7 @@
+gem 'haml'
+gem 'activesupport'
+gem 'actionpack'
+gem 'rspec-rails'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

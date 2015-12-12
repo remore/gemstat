@@ -1,3 +1,0 @@
-gem 'docile'
-gem 'rspec'
-gem 'guard-rspec'

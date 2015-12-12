@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'deep_merge'
-gem 'bundler'
-gem 'rake'

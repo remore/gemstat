@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'mustache'
-gem 'directory_watcher'
-gem 'redcarpet'
-gem 'nokogiri'
-gem 'cucumber'
-gem 'capybara'
-gem 'rspec-expectations'

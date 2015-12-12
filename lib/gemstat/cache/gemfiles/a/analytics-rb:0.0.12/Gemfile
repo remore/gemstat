@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'oauth2'
+gem 'oauth'
+gem 'rspec'
+gem 'rake'
+gem 'mocha'
+gem 'vcr'
+gem 'fakeweb'

@@ -1,6 +1,0 @@
-gem 'simple_form'
-gem 'RedCloth'
-gem 'haml-rails'
-gem 'awesome_nested_set'
-gem 'BlueCloth'
-gem 'rspec-rails'

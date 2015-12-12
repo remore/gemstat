@@ -1,0 +1,7 @@
+gem 'roxml'
+gem 'activesupport'
+gem 'i18n'
+gem 'andand'
+gem 'nokogiri'
+gem 'rake'
+gem 'rspec'

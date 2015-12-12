@@ -1,7 +1,0 @@
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'faker'

@@ -1,5 +1,0 @@
-gem 'challah'
-gem 'highline'
-gem 'rails'
-gem 'rake'
-gem 'bcrypt-ruby'

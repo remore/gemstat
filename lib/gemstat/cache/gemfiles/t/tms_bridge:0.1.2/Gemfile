@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'actionpack'
+gem 'activerecord'
+gem 'uuidtools'
+gem 'iron_cache'
+gem 'typhoeus'

@@ -1,3 +1,0 @@
-gem 'libvirt-ruby'
-gem 'rake'
-gem 'rspec'

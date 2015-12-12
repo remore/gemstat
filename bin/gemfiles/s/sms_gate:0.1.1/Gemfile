@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'resque'
-gem 'rake'
-gem 'webmock'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'resque_unit'
-gem 'shoulda'

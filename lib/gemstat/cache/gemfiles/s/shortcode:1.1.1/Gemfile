@@ -1,0 +1,7 @@
+gem 'parslet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'slim'
+gem 'haml'

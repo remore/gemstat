@@ -1,0 +1,7 @@
+gem 'json'
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'rr'
+gem 'coveralls'
+gem 'debugger'

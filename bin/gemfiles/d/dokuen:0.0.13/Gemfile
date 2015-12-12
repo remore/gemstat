@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'thor'
-gem 'mason'
-gem 'foreman'

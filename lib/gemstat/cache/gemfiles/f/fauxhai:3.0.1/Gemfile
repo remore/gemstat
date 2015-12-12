@@ -1,0 +1,4 @@
+gem 'net-ssh'
+gem 'chef'
+gem 'ohai'
+gem 'rake'

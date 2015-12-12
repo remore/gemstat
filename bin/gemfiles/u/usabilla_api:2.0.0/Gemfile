@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'rake'
-gem 'webmock'
-gem 'simplecov'
-gem 'rspec'
-gem 'rspec-pride'

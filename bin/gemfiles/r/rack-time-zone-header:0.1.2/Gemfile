@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'rake'
-gem 'tzinfo'
-gem 'rack-test'
-gem 'rspec'

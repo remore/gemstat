@@ -1,7 +1,0 @@
-gem 'activemodel'
-gem 'activesupport'
-gem 'activerecord'
-gem 'jeweler'
-gem 'rspec'
-gem 'sqlite3'
-gem 'watchr'

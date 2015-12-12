@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'httmultiparty'
-gem 'rack'
-gem 'colorize'

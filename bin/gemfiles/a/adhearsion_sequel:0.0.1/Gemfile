@@ -1,8 +1,0 @@
-gem 'adhearsion'
-gem 'activesupport'
-gem 'sequel'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'mocha'
-gem 'guard-rspec'

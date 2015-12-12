@@ -1,0 +1,8 @@
+gem 'radiant-layouts-extension'
+gem 'radiant-mailer_layouts-extension'
+gem 'authlogic'
+gem 'sanitize'
+gem 'snail'
+gem 'vcard'
+gem 'fastercsv'
+gem 'ancestry'

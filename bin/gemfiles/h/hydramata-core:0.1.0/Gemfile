@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rspec-given'
-gem 'sqlite3'
-gem 'rubydora'
-gem 'database_cleaner'

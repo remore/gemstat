@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rspec-action_view'
-gem 'generator-spec'
-gem 'devise'
-gem 'activesupport'
-gem 'require_all'
-gem 'sugar-high'
-gem 'r3_plugin_toolbox'

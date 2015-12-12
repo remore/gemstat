@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'addressable'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rspec-its'
-gem 'rack-test'
-gem 'webmock'

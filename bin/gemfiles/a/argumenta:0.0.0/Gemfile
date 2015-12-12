@@ -1,7 +1,0 @@
-gem 'celluloid'
-gem 'celluloid-zmq'
-gem 'dcell'
-gem 'http'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

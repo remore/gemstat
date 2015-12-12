@@ -1,6 +1,0 @@
-gem 'aws-sdk'
-gem 'httpclient'
-gem 'addressable'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

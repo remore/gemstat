@@ -1,6 +1,0 @@
-gem 'thin'
-gem 'gollum'
-gem 'sinatra_auth_github'
-gem 'warden-github'
-gem 'rack-test'
-gem 'rspec'

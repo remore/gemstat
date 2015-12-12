@@ -1,0 +1,6 @@
+gem 'grit'
+gem 'hashery'
+gem 'rubikon'
+gem 'rake'
+gem 'shoulda'
+gem 'yard'

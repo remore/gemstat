@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'watchr'
-gem 'configliere'
-gem 'right_aws'

@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'varnish-rb'
-gem 'logstash-devutils'

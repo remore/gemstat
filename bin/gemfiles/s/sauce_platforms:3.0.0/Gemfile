@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'appium_thor'
-gem 'thor'
-gem 'pry'
-gem 'sauce_whisk'
-gem 'coveralls'

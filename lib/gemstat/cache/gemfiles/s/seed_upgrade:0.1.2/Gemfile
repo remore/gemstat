@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'guard-rspec'
+gem 'rails'
+gem 'vkill_gems_methods'
+gem 'machinist'

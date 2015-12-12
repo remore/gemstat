@@ -1,7 +1,0 @@
-gem 'activerecord-import'
-gem 'rails'
-gem 'rubyzip'
-gem 'curses'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'rr'

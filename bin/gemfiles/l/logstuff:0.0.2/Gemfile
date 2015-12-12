@@ -1,6 +1,0 @@
-gem 'request_store'
-gem 'logstash-event'
-gem 'rspec'
-gem 'bundler'
-gem 'rails'
-gem 'rake'

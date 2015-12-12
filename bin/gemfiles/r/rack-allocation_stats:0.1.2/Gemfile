@@ -1,3 +1,0 @@
-gem 'allocation_stats'
-gem 'yajl-ruby'
-gem 'rspec'

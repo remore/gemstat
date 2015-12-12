@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rubyzip'
-gem 'CFPropertyList'
-gem 'pngdefry'
-gem 'rake'
-gem 'minitest'

@@ -1,5 +1,0 @@
-gem 'api-resource'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

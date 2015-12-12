@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'ohai'
-gem 'systemu'
-gem 'fpm'

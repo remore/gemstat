@@ -1,0 +1,5 @@
+gem 'ruby-units'
+gem 'bundler'
+gem 'guard-rspec'
+gem 'rake'
+gem 'rspec'

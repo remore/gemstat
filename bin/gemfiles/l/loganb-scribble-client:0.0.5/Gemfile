@@ -1,5 +1,0 @@
-gem 'uuidtools'
-gem 'collections'
-gem 'json'
-gem 'newgem'
-gem 'hoe'

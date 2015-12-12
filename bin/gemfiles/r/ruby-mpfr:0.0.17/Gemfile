@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'extconf-task'
-gem 'gmp'

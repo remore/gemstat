@@ -1,3 +1,0 @@
-gem 'google-api-client'
-gem 'minitest'
-gem 'parallel'

@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'daemons'
-gem 'fastercsv'
-gem 'rake'
-gem 'uuidtools'
-gem 'yard'

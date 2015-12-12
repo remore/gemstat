@@ -1,7 +1,0 @@
-gem 'resque'
-gem 'minitest'
-gem 'bundler'
-gem 'jeweler'
-gem 'mynyml-redgreen'
-gem 'timecop'
-gem 'rack-test'

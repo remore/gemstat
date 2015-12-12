@@ -1,0 +1,5 @@
+gem 'git'
+gem 'orm_adapter'
+gem 'kramdown'
+gem 'railties'
+gem 'sqlite3'

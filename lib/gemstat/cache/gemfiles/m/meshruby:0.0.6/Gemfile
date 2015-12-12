@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'simplecov'
+gem 'eventmachine'
+gem 'socket.io-client-simple'

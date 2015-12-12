@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'airbrake'
+gem 'whenever'
+gem 'delayed_job'

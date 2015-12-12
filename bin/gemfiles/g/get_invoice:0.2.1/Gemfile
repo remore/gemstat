@@ -1,8 +1,0 @@
-gem 'invoice_harvester'
-gem 'blinksale'
-gem 'ruby-freshbooks'
-gem 'rspec'
-gem 'mocha'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

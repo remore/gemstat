@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'jquery-rails'
+gem 'rake'
+gem 'rails'
+gem 'capybara'
+gem 'poltergeist'

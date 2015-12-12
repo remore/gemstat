@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pdf-reader'
-gem 'docx'
-gem 'rspec'

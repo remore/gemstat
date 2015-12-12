@@ -1,6 +1,0 @@
-gem 'chef'
-gem 'chef-zero'
-gem 'berkshelf'
-gem 'rspec-core'
-gem 'rspec-expectations'
-gem 'rspec-mocks'

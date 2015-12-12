@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rr'
-gem 'mharris_ext'
-gem 'andand'
-gem 'fattr'
-gem 'mongo'
-gem 'mongo_scope'
-gem 'activesupport'

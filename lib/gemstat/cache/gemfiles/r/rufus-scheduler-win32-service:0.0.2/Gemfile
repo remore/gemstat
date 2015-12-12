@@ -1,0 +1,6 @@
+gem 'rufus-scheduler'
+gem 'win32-service'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'

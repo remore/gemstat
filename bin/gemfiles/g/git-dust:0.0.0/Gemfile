@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'guard-bundler'
-gem 'guard-rspec'
-gem 'pry-byebug'

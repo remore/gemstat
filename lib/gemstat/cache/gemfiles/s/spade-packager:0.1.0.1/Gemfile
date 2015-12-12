@@ -1,0 +1,7 @@
+gem 'libgems'
+gem 'gemcutter'
+gem 'highline'
+gem 'json_pure'
+gem 'thor'
+gem 'rspec'
+gem 'rack'

@@ -1,7 +1,0 @@
-gem 'mongo'
-gem 'json'
-gem 'json_pure'
-gem 'sinatra'
-gem 'descriptive_statistics'
-gem 'rspec'
-gem 'rack-test'

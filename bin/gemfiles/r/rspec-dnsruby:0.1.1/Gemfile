@@ -1,3 +1,0 @@
-gem 'dnsruby'
-gem 'activesupport'
-gem 'rspec'

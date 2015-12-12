@@ -1,6 +1,0 @@
-gem 'berkshelf'
-gem 'chef'
-gem 'chefspec'
-gem 'foodcritic'
-gem 'rake'
-gem 'serverspec'

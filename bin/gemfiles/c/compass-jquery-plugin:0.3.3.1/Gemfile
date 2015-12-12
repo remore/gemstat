@@ -1,4 +1,0 @@
-gem 'haml'
-gem 'compass'
-gem 'ri_cal'
-gem 'rspec'

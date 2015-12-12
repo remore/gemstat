@@ -1,0 +1,7 @@
+gem 'oauth'
+gem 'mash'
+gem 'httparty'
+gem 'thoughtbot-shoulda'
+gem 'jnunemaker-matchy'
+gem 'mocha'
+gem 'fakeweb'

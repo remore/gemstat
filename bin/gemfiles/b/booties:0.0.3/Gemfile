@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'appraisal'
-gem 'minitest'
-gem 'minitest-focus'
-gem 'minitest-reporters'
-gem 'pry-rails'

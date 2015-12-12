@@ -1,4 +1,0 @@
-gem 'jwt'
-gem 'devise'
-gem 'rails'
-gem 'rspec-rails'

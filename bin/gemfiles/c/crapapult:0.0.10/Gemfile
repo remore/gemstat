@@ -1,7 +1,0 @@
-gem 'capistrano'
-gem 'erubis'
-gem 'nokogiri'
-gem 'highline'
-gem 'patron'
-gem 'yajl-ruby'
-gem 'always_verify_ssl_certificates'

@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'rails'
-gem 'jeweler'
-gem 'bundler'
-gem 'rcov'
-gem 'capybara'
-gem 'sqlite3'
-gem 'launchy'

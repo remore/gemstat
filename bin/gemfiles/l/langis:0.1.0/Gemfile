@@ -1,6 +1,0 @@
-gem 'blockenspiel'
-gem 'eventmachine'
-gem 'rspec'
-gem 'yard'
-gem 'blockenspiel'
-gem 'eventmachine'

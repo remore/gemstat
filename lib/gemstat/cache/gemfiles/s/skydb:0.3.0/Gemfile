@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'mocha'
+gem 'unindentable'
+gem 'simplecov'
+gem 'webmock'

@@ -1,0 +1,7 @@
+gem 'selenium-client'
+gem 'rspec'
+gem 'rr'
+gem 'thor'
+gem 'lsof'
+gem 'rubyzip'
+gem 'gem-release'

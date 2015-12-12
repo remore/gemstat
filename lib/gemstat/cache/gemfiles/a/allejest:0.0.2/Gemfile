@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'activesupport'
+gem 'feed_me'
+gem 'simply_useful'
+gem 'pony'

@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'aws-sdk'
-gem 'jquery.fileupload-rails'
-gem 'paperclip'
-gem 'coffee-rails'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

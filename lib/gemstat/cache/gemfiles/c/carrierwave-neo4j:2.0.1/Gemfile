@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'neo4j'
+gem 'carrierwave'
+gem 'rspec'

@@ -1,6 +1,0 @@
-gem 'infrataster'
-gem 'net-ldap'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'

@@ -1,8 +1,0 @@
-gem 'multipart-post'
-gem 'oauth2'
-gem 'json'
-gem 'addressable'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'webmock'

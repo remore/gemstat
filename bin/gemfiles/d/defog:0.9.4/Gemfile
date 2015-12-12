@@ -1,8 +1,0 @@
-gem 'fog'
-gem 'hash_keyword_args'
-gem 'fastandand'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'simplecov'
-gem 'simplecov-gem-profile'

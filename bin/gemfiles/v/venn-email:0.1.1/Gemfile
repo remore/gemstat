@@ -1,6 +1,0 @@
-gem 'mandrill-api'
-gem 'sendgrid-ruby'
-gem 'rest-client'
-gem 'multi_json'
-gem 'bundler'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'yui-compressor'
-gem 'closure-compiler'
-gem 'html_compressor'
-gem 'rspec'
-gem 'mocha'
-gem 'autotest-standalone'

@@ -1,7 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-codec-plain'
-gem 'logstash-mixin-http_client'
-gem 'stud'
-gem 'logstash-codec-json'
-gem 'logstash-devutils'
-gem 'flores'

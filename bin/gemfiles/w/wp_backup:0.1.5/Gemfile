@@ -1,4 +1,0 @@
-gem 'aws-sdk'
-gem 'thor'
-gem 'ronn'
-gem 'rspec'

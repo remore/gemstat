@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'shoulda'
-gem 'rack'
-gem 'rack-test'

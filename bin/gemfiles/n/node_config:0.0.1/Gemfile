@@ -1,5 +1,0 @@
-gem 'hash_with_struct_access'
-gem 'rails'
-gem 'minitest'
-gem 'rake'
-gem 'turn'

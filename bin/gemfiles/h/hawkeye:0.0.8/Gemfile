@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'eggs'
-gem 'nokogiri'
-gem 'sanitize'
-gem 'hawkeye'

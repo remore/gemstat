@@ -1,5 +1,0 @@
-gem 'pg'
-gem 'hoe-mercurial'
-gem 'hoe-highline'
-gem 'rdoc'
-gem 'hoe'

@@ -1,8 +1,0 @@
-gem 'ffi-libc'
-gem 'shoulda'
-gem 'yard'
-gem 'redcarpet'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

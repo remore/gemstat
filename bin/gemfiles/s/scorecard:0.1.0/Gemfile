@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'combustion'
-gem 'rspec-rails'
-gem 'sidekiq'
-gem 'sqlite3'

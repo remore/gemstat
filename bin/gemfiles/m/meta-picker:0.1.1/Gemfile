@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'hashie'
-gem 'faraday'
-gem 'rspec'
-gem 'vcr'
-gem 'simplecov'

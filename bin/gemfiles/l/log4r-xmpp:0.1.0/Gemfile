@@ -1,5 +1,0 @@
-gem 'log4r'
-gem 'xmpp4r'
-gem 'rake'
-gem 'rcov'
-gem 'rspec'

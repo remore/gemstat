@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rest-client'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

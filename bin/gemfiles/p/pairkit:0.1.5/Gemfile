@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'multi_json'
-gem 'thor'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

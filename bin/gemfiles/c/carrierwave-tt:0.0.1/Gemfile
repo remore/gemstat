@@ -1,4 +1,0 @@
-gem 'carrierwave'
-gem 'rest-client'
-gem 'rspec'
-gem 'rake'

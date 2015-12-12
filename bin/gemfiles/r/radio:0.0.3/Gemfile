@@ -1,4 +1,0 @@
-gem 'fftw3'
-gem 'thin'
-gem 'libusb'
-gem 'serialport'

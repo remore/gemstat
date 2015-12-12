@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'mechanize'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'vcr'

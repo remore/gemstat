@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'jquery-rails'
-gem 'jasmine-headless-webkit'
-gem 'jasmine-spec-extras'

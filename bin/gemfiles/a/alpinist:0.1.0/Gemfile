@@ -1,4 +1,0 @@
-gem 'multi_xml'
-gem 'rubytree'
-gem 'bundler'
-gem 'rake'

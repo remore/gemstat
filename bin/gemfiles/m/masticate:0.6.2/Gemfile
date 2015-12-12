@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'ruby_gntp'

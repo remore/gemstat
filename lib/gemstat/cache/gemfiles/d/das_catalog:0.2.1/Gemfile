@@ -1,0 +1,6 @@
+gem 'mechanize'
+gem 'highline'
+gem 'minitest'
+gem 'mocha'
+gem 'fakefs'
+gem 'fakeweb'

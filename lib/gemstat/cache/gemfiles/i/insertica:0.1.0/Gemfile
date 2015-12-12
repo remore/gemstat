@@ -1,0 +1,5 @@
+gem 'vertica'
+gem 'thor'
+gem 'rake'
+gem 'minitest'
+gem 'pry'

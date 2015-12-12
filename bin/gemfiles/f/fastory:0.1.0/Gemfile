@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'activesupport'
-gem 'activerecord'
-gem 'factory_girl'

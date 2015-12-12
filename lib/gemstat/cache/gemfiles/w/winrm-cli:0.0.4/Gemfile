@@ -1,0 +1,2 @@
+gem 'em-winrm'
+gem 'commander'

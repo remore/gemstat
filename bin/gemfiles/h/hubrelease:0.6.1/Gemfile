@@ -1,4 +1,0 @@
-gem 'octokit'
-gem 'mime-types'
-gem 'bundler'
-gem 'rake'

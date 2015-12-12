@@ -1,6 +1,0 @@
-gem 'httpclient'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-vcr'
-gem 'vcr'
-gem 'webmock'

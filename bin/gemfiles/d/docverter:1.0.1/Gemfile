@@ -1,3 +1,0 @@
-gem 'rest-client'
-gem 'mocha'
-gem 'shoulda'

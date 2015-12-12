@@ -1,4 +1,0 @@
-gem 'em-hiredis'
-gem 'vines'
-gem 'minitest'
-gem 'rake'

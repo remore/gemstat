@@ -1,4 +1,0 @@
-gem 'conjur-api'
-gem 'rake'
-gem 'rspec'
-gem 'ci_reporter'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'i18n'
-gem 'rspec'
-gem 'mongoid'

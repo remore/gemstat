@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'sass-rails'
-gem 'acts_as_list'
-gem 'sqlite3'
-gem 'dibber'

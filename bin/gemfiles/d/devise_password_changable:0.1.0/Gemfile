@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'

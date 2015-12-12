@@ -1,0 +1,7 @@
+gem 'unirest'
+gem 'bundler'
+gem 'guard-rspec'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'terminal-notifier-guard'

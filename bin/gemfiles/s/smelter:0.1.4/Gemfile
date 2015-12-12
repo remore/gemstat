@@ -1,5 +1,0 @@
-gem 'thread_safe'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'redis-objects'

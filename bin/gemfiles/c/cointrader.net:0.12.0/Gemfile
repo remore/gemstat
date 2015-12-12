@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'vcr'
-gem 'dotenv'
-gem 'gem-release'

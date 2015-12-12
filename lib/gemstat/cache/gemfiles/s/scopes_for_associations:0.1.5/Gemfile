@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'rake'
+gem 'awesome_print'
+gem 'rspec'
+gem 'sqlite3'

@@ -1,0 +1,8 @@
+gem 'actionpack'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'nokogiri'
+gem 'rubocop'
+gem 'reek'

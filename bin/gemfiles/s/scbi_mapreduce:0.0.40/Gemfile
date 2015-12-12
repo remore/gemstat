@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'json'
-gem 'rdoc'
-gem 'newgem'
-gem 'hoe'

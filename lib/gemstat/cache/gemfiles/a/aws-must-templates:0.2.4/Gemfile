@@ -1,0 +1,5 @@
+gem 'aws-must'
+gem 'rake'
+gem 'rspec'
+gem 'serverspec'
+gem 'aws-ssh-resolver'

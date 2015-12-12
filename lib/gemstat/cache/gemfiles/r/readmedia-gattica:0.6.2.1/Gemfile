@@ -1,0 +1,6 @@
+gem 'gattica'
+gem 'test-unit'
+gem 'hpricot'
+gem 'test-unit'
+gem 'bundler'
+gem 'hpricot'

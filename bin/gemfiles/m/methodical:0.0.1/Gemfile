@@ -1,4 +1,0 @@
-gem 'extlib'
-gem 'arrayfields'
-gem 'rspec'
-gem 'mocha'

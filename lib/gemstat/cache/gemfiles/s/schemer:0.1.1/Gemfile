@@ -1,0 +1,4 @@
+gem 'contest'
+gem 'sqlite3'
+gem 'sequel'
+gem 'active_record'

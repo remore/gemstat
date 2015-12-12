@@ -1,4 +1,0 @@
-gem 'props'
-gem 'activerecord'
-gem 'rdoc'
-gem 'hoe'

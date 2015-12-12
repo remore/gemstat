@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'traktr'
+gem 'myanimelist'
+gem 'toname'
+gem 'highline'

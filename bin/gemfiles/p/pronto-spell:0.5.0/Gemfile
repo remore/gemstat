@@ -1,5 +1,0 @@
-gem 'pronto'
-gem 'ffi-aspell'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'

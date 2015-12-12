@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'tilt'
-gem 'sprockets'
-gem 'handlebars'
-gem 'execjs'
-gem 'rake'

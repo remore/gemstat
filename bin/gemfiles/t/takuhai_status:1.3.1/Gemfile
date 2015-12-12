@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'mechanize'
-gem 'faraday-cookie_jar'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

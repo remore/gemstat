@@ -1,7 +1,0 @@
-gem 'rack'
-gem 'tilt'
-gem 'hpricot'
-gem 'css_parser'
-gem 'text-reform'
-gem 'htmlentities'
-gem 'rspec'

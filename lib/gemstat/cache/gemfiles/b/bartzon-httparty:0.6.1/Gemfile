@@ -1,0 +1,6 @@
+gem 'crack'
+gem 'activesupport'
+gem 'cucumber'
+gem 'fakeweb'
+gem 'mongrel'
+gem 'rspec'

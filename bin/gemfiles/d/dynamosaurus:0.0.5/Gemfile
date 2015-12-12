@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'aws-sdk-core'

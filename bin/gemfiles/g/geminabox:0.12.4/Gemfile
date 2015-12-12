@@ -1,7 +1,0 @@
-gem 'sinatra'
-gem 'builder'
-gem 'httpclient'
-gem 'nesty'
-gem 'faraday'
-gem 'rake'
-gem 'pry'

@@ -1,3 +1,0 @@
-gem 'httpclient'
-gem 'rmagick'
-gem 'nokogiri'

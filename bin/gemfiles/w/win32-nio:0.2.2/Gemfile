@@ -1,3 +1,0 @@
-gem 'win32-event'
-gem 'rake'
-gem 'test-unit'

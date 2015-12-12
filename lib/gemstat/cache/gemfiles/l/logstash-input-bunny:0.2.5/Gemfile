@@ -1,0 +1,6 @@
+gem 'logstash-core'
+gem 'logstash-codec-json'
+gem 'logstash-input-rabbitmq'
+gem 'amq-protocol'
+gem 'bunny'
+gem 'logstash-devutils'

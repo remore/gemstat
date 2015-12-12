@@ -1,7 +1,0 @@
-gem 'arel'
-gem 'activerecord'
-gem 'bundler'
-gem 'mysql2'
-gem 'pg'
-gem 'rake'
-gem 'rspec'

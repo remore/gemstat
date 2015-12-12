@@ -1,7 +1,0 @@
-gem 'execjs'
-gem 'json'
-gem 'rspec'
-gem 'rake'
-gem 'bundler'
-gem 'rdoc'
-gem 'source_map'

@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'rails'
-gem 'nokogiri'
-gem 'chronic'
-gem 'StreetAddress'
-gem 'open_uri_redirections'

@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'simplecov'
-gem 'sqlite3'

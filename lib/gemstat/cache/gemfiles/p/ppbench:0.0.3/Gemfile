@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'commander'
+gem 'parallel'
+gem 'progressbar'
+gem 'descriptive_statistics'
+gem 'terminal-table'
+gem 'httpclient'

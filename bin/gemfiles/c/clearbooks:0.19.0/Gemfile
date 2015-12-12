@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'savon'
-gem 'andand'
-gem 'pry'

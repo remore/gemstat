@@ -1,5 +1,0 @@
-gem 'aduki'
-gem 'rspec'
-gem 'rspec_numbering_formatter'
-gem 'bundler'
-gem 'rake'

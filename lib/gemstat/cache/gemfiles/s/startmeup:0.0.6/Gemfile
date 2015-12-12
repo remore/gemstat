@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'bourbon'
+gem 'neat'
+gem 'sass'
+gem 'haml'
+gem 'thor'

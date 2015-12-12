@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'httparty'
-gem 'multi_json'
-gem 'hashie'
-gem 'json'

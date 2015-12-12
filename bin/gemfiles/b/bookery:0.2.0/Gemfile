@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'kramdown'
-gem 'coderay'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'
-gem 'simplecov'

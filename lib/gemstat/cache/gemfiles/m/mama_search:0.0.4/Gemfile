@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'rake'
+gem 'rubberband'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'
+gem 'sqlite3-ruby'

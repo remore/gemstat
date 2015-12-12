@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'cucumber'
-gem 'rspec'
-gem 'require_all'
-gem 'aruba'

@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'bundler'
-gem 'rails'
-gem 'pry'

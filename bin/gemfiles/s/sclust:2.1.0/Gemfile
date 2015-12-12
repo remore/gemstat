@@ -1,4 +1,0 @@
-gem 'log4r'
-gem 'mechanize'
-gem 'stemmer'
-gem 'nokogiri'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'thor'
-gem 'version'
-gem 'hipchat-api'

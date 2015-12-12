@@ -1,6 +1,0 @@
-gem 'prawn'
-gem 'prawn-table'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'minitest'

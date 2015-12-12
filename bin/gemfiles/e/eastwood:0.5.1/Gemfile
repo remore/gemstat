@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'coffee-rails'
-gem 'sqlite3'
-gem 'appraisal'
-gem 'rspec-rails'
-gem 'shoulda'
-gem 'execjs'
-gem 'simplecov'

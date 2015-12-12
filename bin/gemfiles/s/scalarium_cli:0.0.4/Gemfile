@@ -1,4 +1,0 @@
-gem 'mechanize'
-gem 'thor'
-gem 'rspec'
-gem 'webmock'

@@ -1,6 +1,0 @@
-gem 'guard'
-gem 'rspec'
-gem 'bundler'
-gem 'guard-rspec'
-gem 'yard'
-gem 'kramdown'

@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'mocha'
-gem 'sqlite3-ruby'

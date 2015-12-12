@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'headless'
+gem 'selenium-webdriver'
+gem 'chunky_png'
+gem 'oily_png'

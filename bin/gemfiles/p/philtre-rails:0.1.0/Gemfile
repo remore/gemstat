@@ -1,6 +1,0 @@
-gem 'philtre'
-gem 'activemodel'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'faker'

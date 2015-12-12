@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rails_admin'
-gem 'phony'
-gem 'phony_rails'

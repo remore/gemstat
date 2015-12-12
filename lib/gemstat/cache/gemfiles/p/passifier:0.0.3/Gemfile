@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rubyzip'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

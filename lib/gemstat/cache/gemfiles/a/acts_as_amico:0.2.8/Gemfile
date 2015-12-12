@@ -1,0 +1,8 @@
+gem 'redis'
+gem 'amico'
+gem 'rails'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'factory_girl_rails'
+gem 'fakeweb'
+gem 'uuidtools'

@@ -1,7 +1,0 @@
-gem 'msgpack'
-gem 'activesupport'
-gem 'eigenclass'
-gem 'roo'
-gem 'rake'
-gem 'rspec'
-gem 'ice_nine'

@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'json'
-gem 'faraday'
-gem 'addressable'
-gem 'redis-objects'
-gem 'will_paginate'

@@ -1,3 +1,0 @@
-gem 'dnssd'
-gem 'nokogiri'
-gem 'sinatra'

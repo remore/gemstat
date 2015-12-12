@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rautomation'
-gem 'au3'
-gem 'serialport'

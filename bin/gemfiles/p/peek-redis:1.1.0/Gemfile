@@ -1,3 +1,0 @@
-gem 'peek'
-gem 'redis'
-gem 'atomic'

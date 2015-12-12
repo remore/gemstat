@@ -1,4 +1,0 @@
-gem 'activemodel'
-gem 'bson_ext'
-gem 'rspec'
-gem 'rake'

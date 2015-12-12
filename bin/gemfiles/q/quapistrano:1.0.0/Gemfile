@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'capistrano'

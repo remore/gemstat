@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'Shoulda'
-gem 'matchy'

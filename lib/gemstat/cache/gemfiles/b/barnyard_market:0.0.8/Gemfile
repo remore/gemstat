@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'aws-sdk'
+gem 'barnyard_ccfeeder'
+gem 'barnyard_harvester'
+gem 'crack'
+gem 'uuid'
+gem 'bunny'

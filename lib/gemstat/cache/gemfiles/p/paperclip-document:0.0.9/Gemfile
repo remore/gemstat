@@ -1,0 +1,8 @@
+gem 'paperclip'
+gem 'burisu-docsplit'
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'rails'
+gem 'sqlite3'
+gem 'minitest'

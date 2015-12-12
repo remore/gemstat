@@ -1,0 +1,5 @@
+gem 'rest-client'
+gem 'chef'
+gem 'slack-post'
+gem 'rake'
+gem 'rubocop'

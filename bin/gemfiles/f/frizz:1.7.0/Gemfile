@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 's3'
-gem 'colorize'
-gem 'mime-types'
-gem 'listen'
-gem 'cloudfront-invalidator'

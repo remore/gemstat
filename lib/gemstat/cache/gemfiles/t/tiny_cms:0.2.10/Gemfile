@@ -1,0 +1,4 @@
+gem 'uuid'
+gem 'shoulda'
+gem 'rails'
+gem 'factory_girl'

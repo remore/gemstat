@@ -1,0 +1,4 @@
+gem 'chartbeat'
+gem 'stats_combiner'
+gem 'hashie'
+gem 'nokogiri'

@@ -1,5 +1,0 @@
-gem 'aws-sdk'
-gem 'aws-asg-fleet'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

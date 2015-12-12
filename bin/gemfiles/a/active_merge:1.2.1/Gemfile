@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'active_patterns'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'database_cleaner'

@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'require_all'
-gem 'activemodel'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

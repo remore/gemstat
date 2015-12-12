@@ -1,0 +1,8 @@
+gem 'rack'
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'sinatra'
+gem 'guard-rspec'

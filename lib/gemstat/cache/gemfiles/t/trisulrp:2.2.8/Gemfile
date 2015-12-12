@@ -1,0 +1,5 @@
+gem 'ruby-protocol-buffers'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

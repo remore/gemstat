@@ -1,0 +1,4 @@
+gem 'guard'
+gem 'mixlib-shellout'
+gem 'bundler'
+gem 'rake'

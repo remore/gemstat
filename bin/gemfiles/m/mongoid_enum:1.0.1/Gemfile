@@ -1,4 +1,0 @@
-gem 'mongoid'
-gem 'factory_girl'
-gem 'rubocop'
-gem 'rdoc'

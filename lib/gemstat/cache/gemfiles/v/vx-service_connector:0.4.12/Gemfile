@@ -1,0 +1,8 @@
+gem 'octokit'
+gem 'faraday'
+gem 'oauth'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'webmock'

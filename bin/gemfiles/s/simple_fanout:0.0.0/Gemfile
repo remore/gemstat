@@ -1,3 +1,0 @@
-gem 'jwt'
-gem 'rest-client'
-gem 'rspec'

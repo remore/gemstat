@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'ooyala-v2-api'
-gem 'rails-assets-jquery-ooyala'
-gem 'bundler'
-gem 'rake'

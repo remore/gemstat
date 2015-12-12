@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'webmock'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'simplecov'
-gem 'json'

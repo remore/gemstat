@@ -1,0 +1,4 @@
+gem 'savon'
+gem 'rspec'
+gem 'activemodel'
+gem 'fakeweb'

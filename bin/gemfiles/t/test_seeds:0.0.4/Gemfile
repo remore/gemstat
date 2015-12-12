@@ -1,4 +1,0 @@
-gem 'jeweler'
-gem 'rake'
-gem 'mysql2'
-gem 'activerecord'

@@ -1,4 +1,0 @@
-gem 'lotus-model'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

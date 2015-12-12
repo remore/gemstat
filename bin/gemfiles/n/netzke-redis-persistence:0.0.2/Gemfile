@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'netzke-core'
-gem 'redis'
-gem 'sqlite3'

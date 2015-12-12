@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'shoulda'
-gem 'jeweler'
-gem 'rcov'
-gem 'rspec'
-gem 'cucumber'

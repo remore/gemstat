@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'amatch'
+gem 'rspec'
+gem 'actionpack'
+gem 'activesupport'
+gem 'activeresource'
+gem 'rest-client'
+gem 'curb'

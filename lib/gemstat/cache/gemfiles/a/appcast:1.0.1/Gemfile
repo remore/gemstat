@@ -1,0 +1,5 @@
+gem 'mongrel'
+gem 'builder'
+gem 'activesupport'
+gem 'activerecord'
+gem 'hoe'

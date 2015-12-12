@@ -1,4 +1,0 @@
-gem 'open_uri_redirections'
-gem 'progressbar'
-gem 'rubyzip'
-gem 'thor'

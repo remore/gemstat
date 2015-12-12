@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'bootstrap-sass'
-gem 'gritter'
-gem 'spreadsheet'
-gem 'carrierwave'
-gem 'devise'
-gem 'cancan'

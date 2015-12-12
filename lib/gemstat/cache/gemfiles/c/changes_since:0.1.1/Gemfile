@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'mocha'
+gem 'shoulda'
+gem 'git'
+gem 'octokit'

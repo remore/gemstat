@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'ci_reporter'
-gem 'bundler'
-gem 'rake'
-gem 'ci_reporter_test_utils'
-gem 'rspec-collection_matchers'

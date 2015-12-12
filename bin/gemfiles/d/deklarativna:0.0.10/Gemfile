@@ -1,7 +1,0 @@
-gem 'launchy'
-gem 'sinatra'
-gem 'thin'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

@@ -1,0 +1,6 @@
+gem 'double-bag-ftps'
+gem 'net-sftp'
+gem 'net-scp'
+gem 's3'
+gem 'bundler'
+gem 'rake'

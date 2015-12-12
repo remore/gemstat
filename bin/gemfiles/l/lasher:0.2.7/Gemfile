@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'net-ssh'
-gem 'barge'
-gem 'highline'
-gem 'colored'
-gem 'json'
-gem 'terminal-table'

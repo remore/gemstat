@@ -1,4 +1,0 @@
-gem 'cf'
-gem 'bosh_cli'
-gem 'rake'
-gem 'bundler'

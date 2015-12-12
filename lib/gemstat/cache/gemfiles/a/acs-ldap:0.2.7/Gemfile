@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'debugger2'
+gem 'net-ldap'
+gem 'rails'

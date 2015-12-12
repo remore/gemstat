@@ -1,6 +1,0 @@
-gem 'cocaine'
-gem 'thor'
-gem 'rspec'
-gem 'pry'
-gem 'bundler'
-gem 'rake'

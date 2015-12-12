@@ -1,6 +1,0 @@
-gem 'active_attr'
-gem 'neography'
-gem 'rspec'
-gem 'rake'
-gem 'coveralls'
-gem 'codeclimate-test-reporter'

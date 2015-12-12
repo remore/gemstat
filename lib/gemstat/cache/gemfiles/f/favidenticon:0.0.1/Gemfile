@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'mini_magick'
+gem 'ruby_identicon'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'

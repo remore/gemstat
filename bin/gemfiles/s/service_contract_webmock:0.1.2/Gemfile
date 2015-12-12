@@ -1,6 +1,0 @@
-gem 'avro'
-gem 'service_contract'
-gem 'webmock'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

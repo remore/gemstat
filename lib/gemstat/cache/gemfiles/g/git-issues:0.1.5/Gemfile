@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'parseconfig'
+gem 'bitbucket_rest_api'
+gem 'octokit'
+gem 'gitlab'
+gem 'zlog'
+gem 'highline'

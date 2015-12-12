@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rinku'
-gem 'jquery-rails'
-gem 'sqlite3'
-gem 'jeweler'

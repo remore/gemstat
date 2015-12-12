@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-utils'
-gem 'sqlite3'
-gem 'activerecord'
-gem 'pry-meta'
-gem 'codeclimate-test-reporter'

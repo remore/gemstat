@@ -1,5 +1,0 @@
-gem 'friendly_id'
-gem 'stringex'
-gem 'rake'
-gem 'activerecord'
-gem 'sqlite3'

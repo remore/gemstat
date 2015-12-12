@@ -1,7 +1,0 @@
-gem 'slosilo'
-gem 'conjur-api'
-gem 'rack'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'ci_reporter_rspec'

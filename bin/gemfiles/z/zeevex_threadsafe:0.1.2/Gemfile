@@ -1,4 +1,0 @@
-gem 'zeevex_proxy'
-gem 'zeevex_delayed'
-gem 'rspec'
-gem 'rake'

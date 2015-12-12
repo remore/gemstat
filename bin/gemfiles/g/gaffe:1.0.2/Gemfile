@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'
-gem 'rubocop'
-gem 'scss-lint'
-gem 'phare'
-gem 'rails'

@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'ruby-debug19'
-gem 'fuubar'
-gem 'thor'
-gem 'json'

@@ -1,0 +1,5 @@
+gem 'string-direction'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'bump'

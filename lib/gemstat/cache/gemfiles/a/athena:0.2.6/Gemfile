@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'highline'
+gem 'xmlstreamin'
+gem 'ruby-nuggets'

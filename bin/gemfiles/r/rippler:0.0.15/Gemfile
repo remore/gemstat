@@ -1,3 +1,0 @@
-gem 'faye-websocket'
-gem 'nokogiri'
-gem 'faraday'

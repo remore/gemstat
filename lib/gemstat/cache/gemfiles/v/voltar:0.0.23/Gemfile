@@ -1,0 +1,7 @@
+gem 'skeuocard-rails'
+gem 'angularjs-file-upload-rails'
+gem 'rails'
+gem 'haml-rails'
+gem 'sprockets'
+gem 'gem-release'
+gem 'sqlite3'

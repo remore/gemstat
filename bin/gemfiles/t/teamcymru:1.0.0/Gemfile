@@ -1,7 +1,0 @@
-gem 'structformatter'
-gem 'twitter'
-gem 'ruby-cache'
-gem 'json'
-gem 'configparser'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,5 @@
+gem 'beaneater'
+gem 'dante'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'

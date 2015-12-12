@@ -1,6 +1,0 @@
-gem 'virtualbox'
-gem 'net-ssh'
-gem 'net-scp'
-gem 'json_pure'
-gem 'git-style-binaries'
-gem 'archive-tar-minitar'

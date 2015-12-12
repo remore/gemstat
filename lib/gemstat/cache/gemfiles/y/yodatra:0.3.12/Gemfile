@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'sinatra'
+gem 'sinatra-activerecord'
+gem 'sinatra-logger'
+gem 'clogger'
+gem 'sinatra-contrib'
+gem 'rack-protection'

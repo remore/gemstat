@@ -1,2 +1,0 @@
-gem 'gobject-introspection'
-gem 'gtk2'

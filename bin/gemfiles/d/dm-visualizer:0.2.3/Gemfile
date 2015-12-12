@@ -1,4 +1,0 @@
-gem 'ruby-graphviz'
-gem 'dm-core'
-gem 'bundler'
-gem 'yard'

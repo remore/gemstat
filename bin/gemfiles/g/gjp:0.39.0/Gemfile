@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'clamp'
-gem 'rubyzip'
-gem 'rest-client'
-gem 'json'
-gem 'text'
-gem 'nokogiri'

@@ -1,4 +1,0 @@
-gem 'adhearsion'
-gem 'toadhopper'
-gem 'newrelic_rpm'
-gem 'guard-rspec'

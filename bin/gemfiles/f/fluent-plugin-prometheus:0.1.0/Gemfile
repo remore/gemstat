@@ -1,6 +1,0 @@
-gem 'fluentd'
-gem 'prometheus-client'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'test-unit'

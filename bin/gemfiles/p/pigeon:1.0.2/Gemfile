@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'minitest-reporters'
-gem 'minitest'
-gem 'jeweler'

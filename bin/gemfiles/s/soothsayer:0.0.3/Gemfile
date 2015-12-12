@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'google-api-client'
-gem 'json'

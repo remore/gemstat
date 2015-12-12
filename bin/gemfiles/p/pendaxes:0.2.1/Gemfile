@@ -1,6 +1,0 @@
-gem 'hashr'
-gem 'haml'
-gem 'mail'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

@@ -1,0 +1,4 @@
+gem 'grit'
+gem 'octokit'
+gem 'pit'
+gem 'rspec'

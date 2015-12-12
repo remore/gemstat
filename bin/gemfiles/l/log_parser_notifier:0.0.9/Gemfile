@@ -1,7 +1,0 @@
-gem 'request-log-analyzer'
-gem 'slop'
-gem 'dogstatsd-ruby'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

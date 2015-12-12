@@ -1,3 +1,0 @@
-gem 'calabash-cucumber'
-gem 'calabash-android'
-gem 'xamarin-test-cloud'

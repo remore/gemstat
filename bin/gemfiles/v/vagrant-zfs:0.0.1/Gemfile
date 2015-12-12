@@ -1,4 +1,0 @@
-gem 'zfs'
-gem 'rake'
-gem 'minitest'
-gem 'vagrant'

@@ -1,7 +1,0 @@
-gem 'hiredis'
-gem 'redis'
-gem 'vegas'
-gem 'multi_json'
-gem 'sinatra'
-gem 'rake'
-gem 'rspec'

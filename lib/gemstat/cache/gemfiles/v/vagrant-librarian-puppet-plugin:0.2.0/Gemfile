@@ -1,0 +1,6 @@
+gem 'librarian-puppet'
+gem 'librarian'
+gem 'puppet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

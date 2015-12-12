@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'actionpack'
-gem 'activerecord'
-gem 'activeresource'
-gem 'actionmailer'
-gem 'railties'
-gem 'bundler'

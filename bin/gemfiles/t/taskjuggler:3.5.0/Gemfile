@@ -1,3 +1,0 @@
-gem 'mail'
-gem 'term-ansicolor'
-gem 'rspec'

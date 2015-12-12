@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'activesupport'
+gem 'rspec-rails'
+gem 'rspec_tag_matchers'
+gem 'sqlite3-ruby'
+gem 'database_cleaner'

@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'bundler'
-gem 'rails'
-gem 'mocha'
-gem 'sqlite3'

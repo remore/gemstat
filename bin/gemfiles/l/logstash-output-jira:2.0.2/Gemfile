@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'jiralicious'
-gem 'logstash-devutils'

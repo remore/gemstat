@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'rspec-rails'

@@ -1,7 +1,0 @@
-gem 'ruby-git'
-gem 'rugged'
-gem 'git'
-gem 'listen'
-gem 'colored'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'racc'
-gem 'rspec'
-gem 'rdoc'
-gem 'rdiscount'
-gem 'yard'

@@ -1,0 +1,6 @@
+gem 'quantify'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'rcov'
+gem 'rdoc'

@@ -1,3 +1,0 @@
-gem 'newrelic_rpm'
-gem 'bundler'
-gem 'rake'

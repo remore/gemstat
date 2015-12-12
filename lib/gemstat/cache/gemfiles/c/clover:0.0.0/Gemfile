@@ -1,0 +1,7 @@
+gem 'tty-progressbar'
+gem 'tty-screen'
+gem 'pastel'
+gem 'coderay'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'librato-metrics'
-gem 'i18n'
-gem 'interception'

@@ -1,6 +1,0 @@
-gem 'httpclient'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'webmock'

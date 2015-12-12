@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'ruby-hmac'
+gem 'thoughtbot-shoulda'
+gem 'jnunemaker-matchy'
+gem 'mocha'
+gem 'fakeweb'
+gem 'redgreen'

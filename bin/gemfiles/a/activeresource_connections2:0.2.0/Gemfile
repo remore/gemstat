@@ -1,6 +1,0 @@
-gem 'activeresource'
-gem 'retryable'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'webmock'

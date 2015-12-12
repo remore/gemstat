@@ -1,0 +1,8 @@
+gem 'jsl-hashback'
+gem 'nokogiri'
+gem 'pauldix-sax-machine'
+gem 'taf2-curb'
+gem 'builder'
+gem 'activesupport'
+gem 'memcache-client'
+gem 'mdalessio-dryopteris'

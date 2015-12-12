@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'oauth2'
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'rspec'
+gem 'rack-test'
+gem 'simplecov'
+gem 'webmock'

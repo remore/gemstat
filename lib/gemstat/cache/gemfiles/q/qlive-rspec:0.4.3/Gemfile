@@ -1,0 +1,4 @@
+gem 'qlive-rails'
+gem 'rspec-rails'
+gem 'poltergeist'
+gem 'factory_girl_rails'

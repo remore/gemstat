@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'clik'
+gem 'colored'
+gem 'cucumber'

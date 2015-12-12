@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'relief'
-gem 'jeweler'
-gem 'rspec'

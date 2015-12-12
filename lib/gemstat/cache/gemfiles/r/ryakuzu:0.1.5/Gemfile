@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'virtus'
+gem 'slim-rails'
+gem 'virtus-relations'
+gem 'sqlite3'
+gem 'pry'

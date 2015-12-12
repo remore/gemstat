@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'awesome_print'
-gem 'simplecov'
-gem 'coveralls'
-gem 'codeclimate-test-reporter'

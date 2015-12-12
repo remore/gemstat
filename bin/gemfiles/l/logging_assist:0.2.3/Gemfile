@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'require_all'
-gem 'colorize'
-gem 'sugar-high'
-gem 'log4r-color'
-gem 'activesupport'

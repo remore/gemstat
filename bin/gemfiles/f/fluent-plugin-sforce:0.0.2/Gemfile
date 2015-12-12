@@ -1,5 +1,0 @@
-gem 'fluentd'
-gem 'restforce'
-gem 'faye'
-gem 'nokogiri'
-gem 'rake'

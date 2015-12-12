@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'capistrano'
+gem 'capistrano-rails'
+gem 'capistrano-bundler'
+gem 'nokogiri'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'em-websocket'
+gem 'sinatra'
+gem 'thin'
+gem 'launchy'
+gem 'json'

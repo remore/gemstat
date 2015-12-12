@@ -1,4 +1,0 @@
-gem 'savon'
-gem 'httpclient'
-gem 'envcrypt'
-gem 'configatron'

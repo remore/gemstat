@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'json'
-gem 'thor'
-gem 'sinatra'

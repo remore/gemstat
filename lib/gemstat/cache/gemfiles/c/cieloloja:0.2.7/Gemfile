@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'i18n'
+gem 'builder'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rspec'
+gem 'fakeweb'

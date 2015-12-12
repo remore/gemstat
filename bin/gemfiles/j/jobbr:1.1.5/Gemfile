@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'mongoid'
-gem 'delayed_job_mongoid'
-gem 'whenever'
-gem 'chronic_duration'
-gem 'haml'
-gem 'sqlite3'
-gem 'combustion'

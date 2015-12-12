@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'rest-client'
-gem 'minitest'
-gem 'rake'

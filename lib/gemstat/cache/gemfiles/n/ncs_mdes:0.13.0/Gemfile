@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'rspec'
+gem 'rake'
+gem 'yard'
+gem 'ci_reporter'

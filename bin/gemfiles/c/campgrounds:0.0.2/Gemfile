@@ -1,8 +1,0 @@
-gem 'hashie'
-gem 'rest-client'
-gem 'xml-simple'
-gem 'geokit'
-gem 'webmock'
-gem 'vcr'
-gem 'turn'
-gem 'rake'

@@ -1,0 +1,4 @@
+gem 'rubytree'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

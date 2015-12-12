@@ -1,0 +1,5 @@
+gem 'avro'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'faker'

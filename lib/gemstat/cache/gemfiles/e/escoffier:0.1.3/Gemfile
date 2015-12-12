@@ -1,0 +1,4 @@
+gem 'bzip2-ruby'
+gem 'snmp'
+gem 'term-ansicolor'
+gem 'rspec'

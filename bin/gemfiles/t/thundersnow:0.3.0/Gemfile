@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'htmlentities'
-gem 'rspec'
-gem 'ruby-debug'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'fakeweb'

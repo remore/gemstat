@@ -1,0 +1,4 @@
+gem 'httparty'
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'json'

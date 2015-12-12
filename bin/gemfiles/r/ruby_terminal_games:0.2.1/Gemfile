@@ -1,4 +1,0 @@
-gem 'curses'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'

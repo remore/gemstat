@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'guilded'
+gem 'rspec'
+gem 'yard'

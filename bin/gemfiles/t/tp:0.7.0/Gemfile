@@ -1,7 +1,0 @@
-gem 'coderay'
-gem 'prawn'
-gem 'thor'
-gem 'cane'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

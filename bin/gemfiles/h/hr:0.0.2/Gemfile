@@ -1,5 +1,0 @@
-gem 'colorize'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'capistrano-ext'
-gem 'bundler'
-gem 'rake'

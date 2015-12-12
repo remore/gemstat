@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'coveralls'
-gem 'rake'
-gem 'minitest'
-gem 'pry'
-gem 'pry-nav'
-gem 'guard'
-gem 'guard-minitest'

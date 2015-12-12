@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'pry'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'simplecov'

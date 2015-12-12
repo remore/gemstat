@@ -1,7 +1,0 @@
-gem 'mongoid'
-gem 'mongoid_adjust'
-gem 'bson'
-gem 'mongoid'
-gem 'mongoid_adjust'
-gem 'bson'
-gem 'rspec'

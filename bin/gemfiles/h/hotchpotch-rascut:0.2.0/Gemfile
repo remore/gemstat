@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'mongrel'
-gem 'json_pure'

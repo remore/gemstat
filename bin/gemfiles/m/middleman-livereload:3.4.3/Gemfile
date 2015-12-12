@@ -1,3 +1,0 @@
-gem 'middleman-core'
-gem 'rack-livereload'
-gem 'em-websocket'

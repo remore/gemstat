@@ -1,0 +1,6 @@
+gem 'rbook-bisac'
+gem 'rbook-gbip'
+gem 'rbook-isbn'
+gem 'rbook-onix'
+gem 'rbook-pacstream'
+gem 'rbook-titlepage'

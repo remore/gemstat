@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'google-api-client'
-gem 'icalendar'

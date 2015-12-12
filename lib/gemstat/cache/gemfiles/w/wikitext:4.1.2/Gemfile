@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'thor'
+gem 'yard'
+gem 'wopen3'
+gem 'ZenTest'

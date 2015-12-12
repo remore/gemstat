@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'minitest'
-gem 'guard'
-gem 'guard-minitest'
-gem 'minitest-colorize'

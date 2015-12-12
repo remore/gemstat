@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'activerecord'
-gem 'activemodel'
-gem 'activesupport'
-gem 'sqlite3'

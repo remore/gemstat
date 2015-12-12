@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rack-timeout'
-gem 'safely_block'
-gem 'bundler'
-gem 'rake'

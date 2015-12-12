@@ -1,8 +1,0 @@
-gem 'eventmachine-le'
-gem 'iobuffer'
-gem 'em-udns'
-gem 'escape_utils'
-gem 'term-ansicolor'
-gem 'posix-spawn'
-gem 'em-synchrony'
-gem 'rake'

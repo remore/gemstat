@@ -1,8 +1,0 @@
-gem 'sucker_punch'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'activerecord'
-gem 'sqlite3'

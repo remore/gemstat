@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'ci_reporter'
+gem 'rspec'
+gem 'selenium-client'
+gem 'syntax'

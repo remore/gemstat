@@ -1,7 +1,0 @@
-gem 'minitest'
-gem 'httpi'
-gem 'mail'
-gem 'json'
-gem 'activesupport'
-gem 'settingslogic'
-gem 'nokogiri'

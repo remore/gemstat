@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'thin'
-gem 'bundler'
-gem 'rake'

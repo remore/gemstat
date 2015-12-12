@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'addressable'
-gem 'faraday'
-gem 'faraday_middleware'

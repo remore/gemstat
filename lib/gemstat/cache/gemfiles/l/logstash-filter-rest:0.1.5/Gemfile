@@ -1,0 +1,4 @@
+gem 'logstash-core'
+gem 'rest-client'
+gem 'logstash-codec-json'
+gem 'logstash-devutils'

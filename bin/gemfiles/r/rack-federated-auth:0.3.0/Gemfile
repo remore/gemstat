@@ -1,5 +1,0 @@
-gem 'omniauth'
-gem 'sinatra'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'

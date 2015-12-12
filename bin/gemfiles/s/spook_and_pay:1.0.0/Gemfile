@@ -1,5 +1,0 @@
-gem 'braintree'
-gem 'spreedly'
-gem 'rack'
-gem 'rspec'
-gem 'httparty'

@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'iolite'
+gem 'bundler'
+gem 'rake'

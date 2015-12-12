@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'sshkit'
-gem 'bundler'
-gem 'chandler'
-gem 'rake'

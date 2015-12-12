@@ -1,6 +1,0 @@
-gem 'execjs'
-gem 'commonjs'
-gem 'escodegen'
-gem 'rake'
-gem 'rspec'
-gem 'rr'

@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'pry-debugger'
-gem 'pry'
-gem 'letter_opener'
-gem 'actionmailer'
-gem 'whenever'

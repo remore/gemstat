@@ -1,8 +1,0 @@
-gem 'uri_template'
-gem 'faraday'
-gem 'json'
-gem 'fuzzyurl'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'
-gem 'sinatra'

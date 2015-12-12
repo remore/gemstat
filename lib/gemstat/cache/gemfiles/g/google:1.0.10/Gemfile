@@ -1,0 +1,5 @@
+gem 'trollop'
+gem 'json'
+gem 'htmlentities'
+gem 'formatador'
+gem 'ruby-readability'

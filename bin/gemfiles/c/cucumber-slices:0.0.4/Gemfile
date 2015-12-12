@@ -1,7 +1,0 @@
-gem 'docopt'
-gem 'rspec'
-gem 'rdoc'
-gem 'cucumber'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

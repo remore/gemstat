@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rspec'
+gem 'webmock'
+gem 'debugger'
+gem 'bundler'
+gem 'oauth'
+gem 'activeresource'

@@ -1,5 +1,0 @@
-gem 'choice'
-gem 'xmpp4r-simple-19'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

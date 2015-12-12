@@ -1,4 +1,0 @@
-gem 'faye'
-gem 'rake'
-gem 'rspec'
-gem 'jasmine'

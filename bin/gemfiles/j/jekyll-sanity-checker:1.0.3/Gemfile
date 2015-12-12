@@ -1,8 +1,0 @@
-gem 'css_parser'
-gem 'jekyll'
-gem 'nokogiri'
-gem 'bundler'
-gem 'minitest'
-gem 'pry'
-gem 'rake'
-gem 'rubocop'

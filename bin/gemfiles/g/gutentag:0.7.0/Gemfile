@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'appraisal'
-gem 'bundler'
-gem 'combustion'
-gem 'rails'
-gem 'rspec-rails'
-gem 'sqlite3'

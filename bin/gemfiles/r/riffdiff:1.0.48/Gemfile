@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rubocop'
-gem 'rake'
-gem 'diff-lcs'
-gem 'slop'

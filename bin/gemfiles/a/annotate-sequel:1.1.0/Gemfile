@@ -1,7 +1,0 @@
-gem 'sequel'
-gem 'terminal-table'
-gem 'rspec'
-gem 'sqlite3'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

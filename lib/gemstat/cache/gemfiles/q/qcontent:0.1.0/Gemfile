@@ -1,0 +1,4 @@
+gem 'activesupport'
+gem 'money'
+gem 'newgem'
+gem 'hoe'

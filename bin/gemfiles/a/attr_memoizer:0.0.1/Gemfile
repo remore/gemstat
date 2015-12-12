@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'minitest'
-gem 'minitest-great_expectations'

@@ -1,0 +1,7 @@
+gem 'riak-client'
+gem 'ripple'
+gem 'rake'
+gem 'simplecov'
+gem 'mini_shoulda'
+gem 'ruby-prof'
+gem 'debugger'

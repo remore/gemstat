@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'coffee-script-source'
-gem 'therubyracer'
-gem 'therubyrhino'

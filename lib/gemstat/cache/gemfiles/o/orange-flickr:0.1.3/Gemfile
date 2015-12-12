@@ -1,0 +1,4 @@
+gem 'flickraw-cached'
+gem 'orange-core'
+gem 'rspec'
+gem 'yard'

@@ -1,6 +1,0 @@
-gem 'cinch'
-gem 'pivotal-tracker'
-gem 'settingslogic'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

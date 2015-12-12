@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'mocha'
-gem 'minitest'
-gem 'guard'
-gem 'guard-minitest'
-gem 'hashie'

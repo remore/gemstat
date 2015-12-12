@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'activemodel'
-gem 'activerecord'
-gem 'rspec'
-gem 'simplecov'

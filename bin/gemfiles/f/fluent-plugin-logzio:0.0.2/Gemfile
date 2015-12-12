@@ -1,6 +1,0 @@
-gem 'net-http-persistent'
-gem 'fluentd'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'test-unit'

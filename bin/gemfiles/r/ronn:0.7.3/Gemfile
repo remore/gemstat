@@ -1,3 +1,0 @@
-gem 'hpricot'
-gem 'rdiscount'
-gem 'mustache'

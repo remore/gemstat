@@ -1,0 +1,5 @@
+gem 'hoopla-savon'
+gem 'rubyzip'
+gem 'commander'
+gem 'erubis'
+gem 'mechanize'

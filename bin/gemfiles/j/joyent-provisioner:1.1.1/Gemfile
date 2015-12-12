@@ -1,3 +1,0 @@
-gem 'mixlib-cli'
-gem 'chef'
-gem 'knife-joyent'

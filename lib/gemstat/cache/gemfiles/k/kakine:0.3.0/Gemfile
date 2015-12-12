@@ -1,0 +1,7 @@
+gem 'fog'
+gem 'thor'
+gem 'hashdiff'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'mocha'

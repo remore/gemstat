@@ -1,6 +1,0 @@
-gem 'heroku-api'
-gem 'dnsimple-ruby'
-gem 'octokit'
-gem 'pivotal-tracker'
-gem 'rspec'
-gem 'vcr'

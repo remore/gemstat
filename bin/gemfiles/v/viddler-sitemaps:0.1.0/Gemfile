@@ -1,5 +1,0 @@
-gem 'viddler-ruby'
-gem 'builder'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

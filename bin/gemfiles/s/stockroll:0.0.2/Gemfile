@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'thor'
-gem 'colorize'
-gem 'em-http-request'
-gem 'curses'

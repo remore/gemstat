@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'bundler'
-gem 'aptible-tasks'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

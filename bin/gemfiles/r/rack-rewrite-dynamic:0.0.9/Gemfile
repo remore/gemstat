@@ -1,4 +1,0 @@
-gem 'rack-rewrite'
-gem 'activesupport'
-gem 'rack'
-gem 'rspec'

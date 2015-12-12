@@ -1,4 +1,0 @@
-gem 'therubyracer'
-gem 'opal'
-gem 'bundler'
-gem 'pry-byebug'

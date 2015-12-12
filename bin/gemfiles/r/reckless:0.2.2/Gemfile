@@ -1,7 +1,0 @@
-gem 'json'
-gem 'faraday'
-gem 'nokogiri'
-gem 'hashr'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'minitest'
-gem 'ansi'
-gem 'turn'
-gem 'pry'
-gem 'mocha'
-gem 'gem-release'

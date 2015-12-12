@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'mocha'
-gem 'thor'
-gem 'cocaine'
-gem 'activesupport'
-gem 'highline'

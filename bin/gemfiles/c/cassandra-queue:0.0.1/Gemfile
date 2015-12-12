@@ -1,5 +1,0 @@
-gem 'cassandra'
-gem 'bundler'
-gem 'scope'
-gem 'mocha'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'cane'
-gem 'morecane'
-gem 'celluloid-io'

@@ -1,7 +1,0 @@
-gem 'getopt'
-gem 'rpeg-multimarkdown'
-gem 'libxslt-ruby'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

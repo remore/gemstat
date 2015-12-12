@@ -1,0 +1,7 @@
+gem 'padrino'
+gem 'minitest'
+gem 'turn'
+gem 'bundler'
+gem 'jeweler'
+gem 'yard'
+gem 'uuid'

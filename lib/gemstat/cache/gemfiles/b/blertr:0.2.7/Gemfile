@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rdoc'
+gem 'rspec'
+gem 'simplecov'
+gem 'twitter'

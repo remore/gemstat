@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'thread_safe'
+gem 'bundler'
+gem 'rake'
+gem 'beanstalk_integration_tests'
+gem 'minitest_should'
+gem 'mocha'

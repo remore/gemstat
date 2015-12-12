@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'schema_plus_indexes'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'schema_dev'
-gem 'simplecov'
-gem 'simplecov-gem-profile'

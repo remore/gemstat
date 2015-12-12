@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'net-scp'
-gem 'cucumber'
-gem 'aruba'
-gem 'rake'
-gem 'geminabox-ng'

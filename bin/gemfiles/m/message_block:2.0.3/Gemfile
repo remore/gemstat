@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rspec'
-gem 'appraisal'
-gem 'sqlite3-ruby'

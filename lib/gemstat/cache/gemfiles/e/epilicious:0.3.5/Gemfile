@@ -1,0 +1,8 @@
+gem 'nokogiri'
+gem 'redis'
+gem 'json'
+gem 'bundler'
+gem 'mocha'
+gem 'pry'
+gem 'vcr'
+gem 'rake'

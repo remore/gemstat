@@ -1,0 +1,2 @@
+gem 'kramdown'
+gem 'sanitize'

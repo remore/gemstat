@@ -1,0 +1,5 @@
+gem 'sc-core-ext'
+gem 'rspec-rails'
+gem 'webrat'
+gem 'genspec'
+gem 'email_spec'

@@ -1,5 +1,0 @@
-gem 'citrus'
-gem 'erubis'
-gem 'quote_unquote'
-gem 'bundler'
-gem 'rake'

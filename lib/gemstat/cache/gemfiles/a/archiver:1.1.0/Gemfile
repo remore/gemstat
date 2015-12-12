@@ -1,0 +1,5 @@
+gem 'exifr'
+gem 'progressbar'
+gem 'whitespace'
+gem 'yard'
+gem 'jeweler'

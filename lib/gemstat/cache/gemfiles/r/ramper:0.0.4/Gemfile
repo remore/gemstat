@@ -1,0 +1,5 @@
+gem 'flog'
+gem 'flay'
+gem 'courgette'
+gem 'code_statistics'
+gem 'rspec'

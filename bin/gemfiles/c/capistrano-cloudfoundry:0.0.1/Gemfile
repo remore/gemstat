@@ -1,8 +1,0 @@
-gem 'cucumber'
-gem 'capybara'
-gem 'capybara-mechanize'
-gem 'rake'
-gem 'rspec'
-gem 'capistrano'
-gem 'vmc'
-gem 'capistrano-ext'

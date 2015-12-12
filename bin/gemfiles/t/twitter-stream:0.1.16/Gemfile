@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'simple_oauth'
-gem 'http_parser.rb'
-gem 'rspec'

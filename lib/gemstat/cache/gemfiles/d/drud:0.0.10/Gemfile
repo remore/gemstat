@@ -1,0 +1,7 @@
+gem 'chef'
+gem 'octokit'
+gem 'rake'
+gem 'aws-sdk'
+gem 'humanize-bytes'
+gem 'rspec'
+gem 'rubocop'

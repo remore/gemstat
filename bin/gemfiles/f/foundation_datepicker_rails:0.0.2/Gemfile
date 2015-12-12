@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'foundation-rails'
-gem 'font-awesome-rails'
-gem 'pry'
-gem 'sqlite3'

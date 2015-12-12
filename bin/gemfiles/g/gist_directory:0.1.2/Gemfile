@@ -1,5 +1,0 @@
-gem 'git'
-gem 'gist'
-gem 'rake'
-gem 'rspec'
-gem 'pry-byebug'

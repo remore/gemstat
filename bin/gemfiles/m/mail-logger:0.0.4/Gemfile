@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'mocha'
-gem 'minitest'
-gem 'test-unit'
-gem 'rake'
-gem 'mail'

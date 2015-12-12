@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'codeclimate-test-reporter'

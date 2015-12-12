@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'termcolor'
-gem 'crack'
-gem 'coderay'
-gem 'httpclient'

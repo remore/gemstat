@@ -1,4 +1,0 @@
-gem 'radix62'
-gem 'minitest'
-gem 'mocha'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'trollop'
-gem 'bundler'
-gem 'rake'
-gem 'simplecov'

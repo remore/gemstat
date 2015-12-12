@@ -1,3 +1,0 @@
-gem 'term-ansicolor'
-gem 'activesupport'
-gem 'i18n'

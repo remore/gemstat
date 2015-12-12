@@ -1,0 +1,7 @@
+gem 'i18n_data'
+gem 'actionpack'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'coveralls'

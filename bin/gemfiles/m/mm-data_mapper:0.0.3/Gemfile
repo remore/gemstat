@@ -1,6 +1,0 @@
-gem 'monkey-mailer'
-gem 'data_mapper'
-gem 'rspec'
-gem 'dm-mysql-adapter'
-gem 'database_cleaner'
-gem 'spawn'

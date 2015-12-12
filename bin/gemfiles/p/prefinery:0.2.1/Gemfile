@@ -1,4 +1,0 @@
-gem 'activeresource'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

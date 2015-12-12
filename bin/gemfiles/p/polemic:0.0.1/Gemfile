@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'ancestry'
-gem 'cancan'
-gem 'devise'
-gem 'pg'
-gem 'rspec'
-gem 'factory_girl_rails'
-gem 'rspec-rails'

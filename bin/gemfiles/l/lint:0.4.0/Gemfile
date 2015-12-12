@@ -1,6 +1,0 @@
-gem 'coffeelint'
-gem 'rubocop'
-gem 'rubocop-rspec'
-gem 'scss_lint'
-gem 'bundler'
-gem 'rake'

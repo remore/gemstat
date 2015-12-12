@@ -1,6 +1,0 @@
-gem 'minitest'
-gem 'bundler'
-gem 'rake'
-gem 'minitest-rg'
-gem 'simplecov'
-gem 'rubocop'

@@ -1,0 +1,5 @@
+gem 'rspec-core'
+gem 'bundler'
+gem 'git-version-bump'
+gem 'rake'
+gem 'rdoc'

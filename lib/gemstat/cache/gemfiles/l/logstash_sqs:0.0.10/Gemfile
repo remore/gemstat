@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'aws-sdk'
+gem 'logstasher'
+gem 'eventmachine'
+gem 'eventmachine-tail'
+gem 'daemon-spawn'

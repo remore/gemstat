@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rr'
+gem 'docker-api'
+gem 'thor'

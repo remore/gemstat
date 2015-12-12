@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'colorize'
-gem 'trollop'
-gem 'highline'
-gem 'clipboard'

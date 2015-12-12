@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'gherkin'
-gem 'cucumber'
-gem 'yard'

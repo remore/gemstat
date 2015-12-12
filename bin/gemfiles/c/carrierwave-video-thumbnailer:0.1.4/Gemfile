@@ -1,8 +1,0 @@
-gem 'carrierwave'
-gem 'pry'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubygems-tasks'
-gem 'yard'

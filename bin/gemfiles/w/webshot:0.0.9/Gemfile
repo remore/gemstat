@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'gem-release'
-gem 'activesupport'
-gem 'poltergeist'
-gem 'faye-websocket'
-gem 'mini_magick'

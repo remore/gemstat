@@ -1,6 +1,0 @@
-gem 'logstash-core'
-gem 'beefcake'
-gem 'logstash-input-rabbitmq'
-gem 'bunny'
-gem 'amq-protocol'
-gem 'logstash-devutils'

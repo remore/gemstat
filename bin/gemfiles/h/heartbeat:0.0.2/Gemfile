@@ -1,7 +1,0 @@
-gem 'eventmachine'
-gem 'bunny'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

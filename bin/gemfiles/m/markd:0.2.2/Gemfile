@@ -1,4 +1,0 @@
-gem 'erubis'
-gem 'bluecloth'
-gem 'nokogiri'
-gem 'bundler'

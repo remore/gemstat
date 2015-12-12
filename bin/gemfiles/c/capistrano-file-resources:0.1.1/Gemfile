@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'mime-types'
-gem 'net-scp'
-gem 'net-ssh'
-gem 'vagrant'

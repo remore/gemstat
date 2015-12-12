@@ -1,0 +1,5 @@
+gem 'activemerchant'
+gem 'aasm'
+gem 'muck-engine'
+gem 'muck-users'
+gem 'rspec'

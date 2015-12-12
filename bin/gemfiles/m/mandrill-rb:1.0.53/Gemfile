@@ -1,5 +1,0 @@
-gem 'json'
-gem 'excon'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

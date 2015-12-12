@@ -1,4 +1,0 @@
-gem 'colsole'
-gem 'docopt'
-gem 'minitest'
-gem 'run-gem-dev'

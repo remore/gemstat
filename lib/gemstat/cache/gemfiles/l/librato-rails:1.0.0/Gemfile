@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'activesupport'
+gem 'librato-rack'
+gem 'sqlite3'
+gem 'capybara'
+gem 'rails'

@@ -1,4 +1,0 @@
-gem 'flame_channel_parser'
-gem 'update_hints'
-gem 'cli_test'
-gem 'hoe'

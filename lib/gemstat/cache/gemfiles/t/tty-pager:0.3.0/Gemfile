@@ -1,0 +1,4 @@
+gem 'tty-screen'
+gem 'tty-which'
+gem 'verse'
+gem 'bundler'

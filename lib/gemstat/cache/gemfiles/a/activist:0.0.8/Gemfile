@@ -1,0 +1,7 @@
+gem 'redis'
+gem 'redis-namespace'
+gem 'activesupport'
+gem 'bundler'
+gem 'rspec'
+gem 'activerecord'
+gem 'sqlite3-ruby'

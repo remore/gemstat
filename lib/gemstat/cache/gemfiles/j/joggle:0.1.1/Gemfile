@@ -1,0 +1,2 @@
+gem 'xmpp4r'
+gem 'json'

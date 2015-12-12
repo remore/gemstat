@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'webmock'
+gem 'rspec'
+gem 'ci_reporter_rspec'
+gem 'io-grab'

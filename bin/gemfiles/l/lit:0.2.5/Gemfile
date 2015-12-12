@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'i18n'
-gem 'jquery-rails'
-gem 'pg'
-gem 'devise'

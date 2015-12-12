@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'em-synchrony'
+gem 'em-http-request'
+gem 'hot_tub'
+gem 'rspec'
+gem 'builder'

@@ -1,0 +1,8 @@
+gem 'charlock_holmes'
+gem 'io-console'
+gem 'json'
+gem 'jwt'
+gem 'mimemagic'
+gem 'rest-client'
+gem 'minitest'
+gem 'rake'

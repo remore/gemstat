@@ -1,4 +1,0 @@
-gem 'spree_core'
-gem 'capybara'
-gem 'rspec-rails'
-gem 'sqlite3'

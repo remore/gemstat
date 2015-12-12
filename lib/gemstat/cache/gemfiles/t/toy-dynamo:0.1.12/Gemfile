@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'adapter'
+gem 'rake'
+gem 'aws-sdk'
+gem 'orm_adapter'

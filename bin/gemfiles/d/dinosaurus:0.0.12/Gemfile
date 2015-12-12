@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'httparty'
-gem 'activesupport'
-gem 'rake'

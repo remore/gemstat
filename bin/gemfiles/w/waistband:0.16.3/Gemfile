@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'elasticsearch'
-gem 'json'
-gem 'bundler'
-gem 'rake'

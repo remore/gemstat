@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'virtus'
-gem 'jquery-rails'
-gem 'sqlite3'
-gem 'thin'

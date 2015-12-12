@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'cassandra-driver'
+gem 'activesupport'
+gem 'i18n'

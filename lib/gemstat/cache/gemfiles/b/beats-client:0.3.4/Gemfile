@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'multi_json'
+gem 'json_pure'
+gem 'rake'
+gem 'yard'
+gem 'redcarpet'
+gem 'github-markup'
+gem 'simplecov'

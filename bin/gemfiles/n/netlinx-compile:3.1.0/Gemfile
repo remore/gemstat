@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'rspec'
-gem 'rspec-its'
-gem 'fivemat'
-gem 'pry'
-gem 'rb-readline'

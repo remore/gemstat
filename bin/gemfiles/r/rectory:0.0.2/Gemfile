@@ -1,7 +1,0 @@
-gem 'celluloid'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'webmock'
-gem 'rb-fsevent'
-gem 'yard'
-gem 'redcarpet'

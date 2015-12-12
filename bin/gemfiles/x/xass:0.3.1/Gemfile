@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rails'
-gem 'haml'
-gem 'activesupport'
-gem 'sass'
-gem 'csspool'
-gem 'nokogiri'

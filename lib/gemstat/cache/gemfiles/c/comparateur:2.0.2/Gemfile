@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'diff-lcs'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'

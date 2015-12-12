@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'pry'
+gem 'actionpack'
+gem 'activesupport'

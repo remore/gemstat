@@ -1,8 +1,0 @@
-gem 'bigdecimal'
-gem 'em-http-request'
-gem 'faye-websocket'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'pry'

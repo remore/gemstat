@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'json'
-gem 'nori'
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'rspec'
-gem 'webmock'

@@ -1,0 +1,6 @@
+gem 'hydra-head'
+gem 'active_attr'
+gem 'sufia-models'
+gem 'hydra-collections'
+gem 'bundler'
+gem 'rake'

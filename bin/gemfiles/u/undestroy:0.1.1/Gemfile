@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'assert'
-gem 'assert-rails'

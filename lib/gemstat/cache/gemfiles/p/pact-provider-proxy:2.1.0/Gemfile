@@ -1,0 +1,6 @@
+gem 'pact'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rack'
+gem 'rack-proxy'

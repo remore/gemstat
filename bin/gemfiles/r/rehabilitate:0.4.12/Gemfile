@@ -1,6 +1,0 @@
-gem 'commander'
-gem 'pluginfactory'
-gem 'log4r'
-gem 'net-ssh'
-gem 'net-scp'
-gem 'fog'

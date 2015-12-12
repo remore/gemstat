@@ -1,4 +1,0 @@
-gem 'highline'
-gem 'hoe'
-gem 'hoe-mercurial'
-gem 'rdoc'

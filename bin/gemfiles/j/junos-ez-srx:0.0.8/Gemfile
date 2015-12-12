@@ -1,3 +1,0 @@
-gem 'netconf'
-gem 'ipaddress'
-gem 'junos-ez-stdlib'

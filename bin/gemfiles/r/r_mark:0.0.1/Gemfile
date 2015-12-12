@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'redcarpet'
-gem 'rdiscount'
-gem 'kramdown'

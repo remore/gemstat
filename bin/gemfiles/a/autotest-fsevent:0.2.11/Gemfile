@@ -1,4 +1,0 @@
-gem 'sys-uname'
-gem 'rake'
-gem 'rspec'
-gem 'ZenTest'

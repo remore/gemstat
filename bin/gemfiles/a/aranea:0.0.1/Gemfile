@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'rack'
-gem 'activesupport'
-gem 'rails'
-gem 'rspec'
-gem 'timecop'
-gem 'debugger'

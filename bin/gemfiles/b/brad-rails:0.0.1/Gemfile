@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'railties'
-gem 'haml'
-gem 'i18n'
-gem 'less-rails'

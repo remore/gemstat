@@ -1,7 +1,0 @@
-gem 'git-version-bump'
-gem 'ffi'
-gem 'bundler'
-gem 'github-release'
-gem 'rake'
-gem 'redcarpet'
-gem 'yard'

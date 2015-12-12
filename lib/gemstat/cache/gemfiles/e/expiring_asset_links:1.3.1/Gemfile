@@ -1,0 +1,4 @@
+gem 'carrierwave'
+gem 'fog'
+gem 'rails'
+gem 'sqlite3'

@@ -1,4 +1,0 @@
-gem 'bencode'
-gem 'retriable'
-gem 'activesupport'
-gem 'pry'

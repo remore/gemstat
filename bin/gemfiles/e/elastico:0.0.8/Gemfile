@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'spawnling'
-gem 'rest-client'

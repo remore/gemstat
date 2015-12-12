@@ -1,0 +1,7 @@
+gem 'activemodel'
+gem 'bundler'
+gem 'guard-rspec'
+gem 'guard-rubocop'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

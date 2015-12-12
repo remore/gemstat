@@ -1,3 +1,0 @@
-gem 'rest-client'
-gem 'github_api'
-gem 'rake'

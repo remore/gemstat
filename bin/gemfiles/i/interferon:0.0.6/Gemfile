@@ -1,5 +1,0 @@
-gem 'dogapi'
-gem 'aws-sdk'
-gem 'dogstatsd-ruby'
-gem 'rspec'
-gem 'pry'

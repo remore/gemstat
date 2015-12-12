@@ -1,0 +1,4 @@
+gem 'rethinkdb'
+gem 'debugger'
+gem 'guard'
+gem 'guard-rspec'

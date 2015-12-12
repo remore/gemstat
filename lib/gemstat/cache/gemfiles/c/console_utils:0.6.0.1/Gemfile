@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'term-ansicolor'
+gem 'awesome_print'
+gem 'benchmark-ips'
+gem 'pry-rails'
+gem 'rdoc'
+gem 'appraisal'
+gem 'minitest'

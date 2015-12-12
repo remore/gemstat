@@ -1,5 +1,0 @@
-gem 'paperclip'
-gem 'aws-sdk'
-gem 'rake'
-gem 'rspec'
-gem 'autotest'

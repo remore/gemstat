@@ -1,0 +1,4 @@
+gem 'git'
+gem 'right_aws'
+gem 'bundler'
+gem 'rush'

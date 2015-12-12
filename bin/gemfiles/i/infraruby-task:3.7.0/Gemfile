@@ -1,3 +1,0 @@
-gem 'infraruby-base'
-gem 'rake'
-gem 'rspec'

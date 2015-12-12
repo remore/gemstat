@@ -1,4 +1,0 @@
-gem 'pauldix-typhoeus'
-gem 'json'
-gem 'thoughtbot-shoulda'
-gem 'jeremymcanally-matchy'

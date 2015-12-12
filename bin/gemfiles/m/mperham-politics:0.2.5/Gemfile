@@ -1,3 +1,0 @@
-gem 'memcache-client'
-gem 'starling-starling'
-gem 'net-mdns'

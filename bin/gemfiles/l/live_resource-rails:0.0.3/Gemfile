@@ -1,7 +1,0 @@
-gem 'rails-observers'
-gem 'rails'
-gem 'live_resource'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'

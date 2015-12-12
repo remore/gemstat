@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'yard'
-gem 'jeweler'
-gem 'rcov'

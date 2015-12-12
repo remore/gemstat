@@ -1,5 +1,0 @@
-gem 'typhoeus'
-gem 'json'
-gem 'minitest'
-gem 'webmock'
-gem 'rake'

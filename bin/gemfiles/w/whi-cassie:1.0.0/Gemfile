@@ -1,5 +1,0 @@
-gem 'cassandra-driver'
-gem 'activemodel'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

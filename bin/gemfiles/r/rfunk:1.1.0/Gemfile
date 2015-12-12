@@ -1,8 +1,0 @@
-gem 'ice_nine'
-gem 'concurrent-ruby'
-gem 'concurrent-ruby-ext'
-gem 'hamster'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-given'
-gem 'rubocop'

@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'json'
-gem 'shoulda'
-gem 'fakeweb'
-gem 'geo_ruby'

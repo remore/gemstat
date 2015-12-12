@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'capybara'
-gem 'codeclimate-test-reporter'
-gem 'poltergeist'
-gem 'rack-test'
-gem 'rake'
-gem 'oktobertest'

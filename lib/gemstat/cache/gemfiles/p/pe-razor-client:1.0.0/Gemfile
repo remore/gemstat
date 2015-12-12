@@ -1,0 +1,4 @@
+gem 'mime-types'
+gem 'multi_json'
+gem 'rest-client'
+gem 'command_line_reporter'

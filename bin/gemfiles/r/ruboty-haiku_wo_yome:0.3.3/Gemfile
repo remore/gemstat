@@ -1,7 +1,0 @@
-gem 'ruboty'
-gem 'ikku'
-gem 'slack-api'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'wtfpl_init'

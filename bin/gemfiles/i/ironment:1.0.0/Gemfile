@@ -1,7 +1,0 @@
-gem 'commander'
-gem 'codeclimate-test-reporter'
-gem 'fakefs'
-gem 'guard'
-gem 'guard-minitest'
-gem 'minitest'
-gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'less-rails'
-gem 'mini_magick'
-gem 'sqlite3'
-gem 'byebug'
-gem 'awesome_print'

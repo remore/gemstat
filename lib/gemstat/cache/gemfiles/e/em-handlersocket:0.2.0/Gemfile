@@ -1,0 +1,2 @@
+gem 'eventmachine'
+gem 'rspec'

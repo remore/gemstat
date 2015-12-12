@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'ftw'
-gem 'logstash-devutils'

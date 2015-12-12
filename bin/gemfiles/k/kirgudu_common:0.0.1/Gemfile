@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'kirgudu_base'
-gem 'sqlite3'

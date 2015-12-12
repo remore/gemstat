@@ -1,0 +1,4 @@
+gem 'activeadmin'
+gem 'rails-settings-cached'
+gem 'bundler'
+gem 'rake'

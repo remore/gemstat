@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'mongo'
-gem 'mongo_ext'
-gem 'hashie'

@@ -1,4 +1,0 @@
-gem 'spree_core'
-gem 'factory_girl'
-gem 'rspec-rails'
-gem 'sqlite3'

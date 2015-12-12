@@ -1,4 +1,0 @@
-gem 'tmp'
-gem 'configer'
-gem 'bundler'
-gem 'rake'

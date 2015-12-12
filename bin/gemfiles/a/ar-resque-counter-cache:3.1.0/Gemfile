@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'resque'
-gem 'resque-loner'
-gem 'rspec'
-gem 'sqlite3-ruby'

@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'pry'
-gem 'rubygems-tasks'
-gem 'simplecov'
-gem 'webrick'
-gem 'rest-client'
-gem 'activesupport'

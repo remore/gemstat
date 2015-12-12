@@ -1,5 +1,0 @@
-gem 'mongo_mapper'
-gem 'machinist'
-gem 'i18n'
-gem 'rspec'
-gem 'bson_ext'

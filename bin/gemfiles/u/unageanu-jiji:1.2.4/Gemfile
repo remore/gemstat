@@ -1,7 +1,0 @@
-gem 'httpclient'
-gem 'rubyzip'
-gem 'unageanu-clickclient_scrap'
-gem 'highline'
-gem 'needle'
-gem 'ruby-json'
-gem 'uuidtools'

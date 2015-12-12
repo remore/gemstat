@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'rspec'
-gem 'rake'
-gem 'flexmock'

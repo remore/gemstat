@@ -1,0 +1,6 @@
+gem 'stripe'
+gem 'jimson-temp'
+gem 'dante'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'thin'

@@ -1,3 +1,0 @@
-gem 'libnotify'
-gem 'maildir'
-gem 'rb-inotify'

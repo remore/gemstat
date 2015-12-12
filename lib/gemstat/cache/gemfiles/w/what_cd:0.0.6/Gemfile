@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'mp3info'
+gem 'mktorrent'
+gem 'yaml'
+gem 'logging'
+gem 'pathname'
+gem 'flac2mp3'

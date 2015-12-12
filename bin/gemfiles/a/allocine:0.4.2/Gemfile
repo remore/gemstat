@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'activesupport'
-gem 'vegas'
-gem 'sinatra'

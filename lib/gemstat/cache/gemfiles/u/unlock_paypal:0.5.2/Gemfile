@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'unlock_gateway'
+gem 'paypal-recurring'
+gem 'sqlite3'

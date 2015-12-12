@@ -1,4 +1,0 @@
-gem 'softlayer_api'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

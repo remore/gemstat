@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'test-unit'
-gem 'bundler'
-gem 'test-unit-notify'
-gem 'rake'
-gem 'packnga'
-gem 'kramdown'

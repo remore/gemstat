@@ -1,8 +1,0 @@
-gem 'sinatra'
-gem 'octokit'
-gem 'hashie'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'ultrahook'

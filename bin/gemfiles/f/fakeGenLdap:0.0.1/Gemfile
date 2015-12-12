@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'net-ldap'
-gem 'ruby-debug19'

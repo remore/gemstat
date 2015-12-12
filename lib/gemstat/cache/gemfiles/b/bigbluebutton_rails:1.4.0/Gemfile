@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'bigbluebutton-api-ruby'
+gem 'strong_parameters'
+gem 'resque'
+gem 'browser'

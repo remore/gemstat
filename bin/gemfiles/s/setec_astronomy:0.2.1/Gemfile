@@ -1,5 +1,0 @@
-gem 'clipboard'
-gem 'fast-aes'
-gem 'highline'
-gem 'thor'
-gem 'rspec'

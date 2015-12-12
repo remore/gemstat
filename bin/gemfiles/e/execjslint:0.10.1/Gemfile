@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'jslint-source'
-gem 'execjs'
-gem 'rspec'

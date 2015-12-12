@@ -1,5 +1,0 @@
-gem 'oauth'
-gem 'json'
-gem 'launchy'
-gem 'fakeweb'
-gem 'yaml'

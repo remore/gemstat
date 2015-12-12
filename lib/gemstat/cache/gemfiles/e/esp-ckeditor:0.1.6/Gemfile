@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'juicer'
+gem 'sass-rails'
+gem 'uglifier'
+gem 'turbo-sprockets-rails3'

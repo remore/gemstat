@@ -1,6 +1,0 @@
-gem 'net-ldap'
-gem 'mocha'
-gem 'minitest'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'

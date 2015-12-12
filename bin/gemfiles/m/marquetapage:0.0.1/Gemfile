@@ -1,8 +1,0 @@
-gem 'json'
-gem 'sequel'
-gem 'sqlite3'
-gem 'minitest'
-gem 'minitest-line'
-gem 'inch'
-gem 'rake'
-gem 'rubocop'

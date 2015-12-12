@@ -1,4 +1,0 @@
-gem 'matter_compiler'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

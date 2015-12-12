@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'spring'
-gem 'railties'
-gem 'dotgpg'
-gem 'dotgpg-environment'
-gem 'dotenv'

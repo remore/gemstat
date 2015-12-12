@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'dnclabs-auth-hmac'
-gem 'test-unit'
-gem 'leftright'

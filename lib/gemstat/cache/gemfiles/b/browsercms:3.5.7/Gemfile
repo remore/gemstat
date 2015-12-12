@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'sass-rails'
+gem 'ancestry'
+gem 'ckeditor_rails'
+gem 'jquery-rails'
+gem 'paperclip'
+gem 'term-ansicolor'

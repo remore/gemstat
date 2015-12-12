@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'curb'
-gem 'bundler'
-gem 'rake'

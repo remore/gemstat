@@ -1,0 +1,2 @@
+gem 'simple-rss'
+gem 'ri_cal'

@@ -1,5 +1,0 @@
-gem 'twitter'
-gem 'oauth'
-gem 'rubycop'
-gem 'rspec'
-gem 'bundler'

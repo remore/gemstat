@@ -1,3 +1,0 @@
-gem 'conjur-api'
-gem 'conjur-asset-environment-api'
-gem 'rake'

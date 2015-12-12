@@ -1,6 +1,0 @@
-gem 'redis'
-gem 'os'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'fakeredis'

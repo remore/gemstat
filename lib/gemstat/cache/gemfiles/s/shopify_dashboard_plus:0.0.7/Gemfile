@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'tilt'
+gem 'shopify_api'
+gem 'chartkick'
+gem 'vegas'
+gem 'bundler'
+gem 'rake'

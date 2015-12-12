@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'ruby-debug19'
+gem 'timecop'
+gem 'redis'

@@ -1,0 +1,2 @@
+gem 'newrelic_plugin'
+gem 'snmp'

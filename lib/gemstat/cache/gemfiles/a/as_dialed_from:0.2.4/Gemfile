@@ -1,0 +1,8 @@
+gem 'guard-test'
+gem 'rake'
+gem 'shoulda'
+gem 'test-unit'
+gem 'xml-simple'
+gem 'simplecov'
+gem 'growl'
+gem 'rb-fsevent'

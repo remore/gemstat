@@ -1,4 +1,0 @@
-gem 'pdf-reader'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'

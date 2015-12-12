@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'pry-debugger'
+gem 'rspec'
+gem 'simplecov'
+gem 'rake'

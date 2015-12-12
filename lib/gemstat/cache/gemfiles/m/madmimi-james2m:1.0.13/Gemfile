@@ -1,0 +1,4 @@
+gem 'crack'
+gem 'jeweler'
+gem 'fakeweb'
+gem 'shoulda'

@@ -1,6 +1,0 @@
-gem 'miserable'
-gem 'osc-ruby'
-gem 'noone'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

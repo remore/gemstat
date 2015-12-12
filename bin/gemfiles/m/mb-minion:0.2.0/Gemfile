@@ -1,7 +1,0 @@
-gem 'amqp'
-gem 'bunny'
-gem 'json'
-gem 'activesupport'
-gem 'mocha'
-gem 'rspec'
-gem 'watchr'

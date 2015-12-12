@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'mechanize'
-gem 'nokogiri'
-gem 'rspec'
-gem 'debugger'
-gem 'fakeweb'

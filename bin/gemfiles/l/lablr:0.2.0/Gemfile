@@ -1,6 +1,0 @@
-gem 'htmldoc-hulihanapplications'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'rspec'

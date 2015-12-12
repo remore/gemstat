@@ -1,0 +1,5 @@
+gem 'yard'
+gem 'fakeweb'
+gem 'rspec'
+gem 'rake'
+gem 'kramdown'

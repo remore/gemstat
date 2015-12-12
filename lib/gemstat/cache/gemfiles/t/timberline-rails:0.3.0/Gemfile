@@ -1,0 +1,5 @@
+gem 'timberline'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'yard'

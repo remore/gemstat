@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'couchrest'
-gem 'couch_potato'
-gem 'simply_stored'

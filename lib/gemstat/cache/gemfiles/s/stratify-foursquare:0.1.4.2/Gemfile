@@ -1,0 +1,8 @@
+gem 'foursquare2'
+gem 'railties'
+gem 'stratify-base'
+gem 'database_cleaner'
+gem 'fakeweb'
+gem 'rake'
+gem 'rspec'
+gem 'vcr'

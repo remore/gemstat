@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'rake'

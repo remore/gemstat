@@ -1,0 +1,2 @@
+gem 'geoip'
+gem 'ensure-encoding'

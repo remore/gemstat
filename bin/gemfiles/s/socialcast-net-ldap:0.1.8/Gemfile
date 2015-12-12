@@ -1,5 +1,0 @@
-gem 'archive-tar-minitar'
-gem 'hanna'
-gem 'hoe-git'
-gem 'metaid'
-gem 'hoe'

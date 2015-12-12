@@ -1,0 +1,5 @@
+gem 'activemodel'
+gem 'addressable'
+gem 'json'
+gem 'oauth'
+gem 'rest-client'

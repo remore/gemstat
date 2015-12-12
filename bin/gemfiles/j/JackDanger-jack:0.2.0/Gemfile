@@ -1,5 +1,0 @@
-gem 'jbarnette-johnson'
-gem 'rack'
-gem 'clip'
-gem 'minitest'
-gem 'hoe'

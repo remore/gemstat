@@ -1,0 +1,7 @@
+gem 'riot'
+gem 'maruku'
+gem 'yard'
+gem 'ruby-net-ldap'
+gem 'json'
+gem 'sinatra'
+gem 'rack'

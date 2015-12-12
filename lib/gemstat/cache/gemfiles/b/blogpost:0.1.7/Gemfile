@@ -1,0 +1,4 @@
+gem 'atomutil'
+gem 'mail'
+gem 'bundler'
+gem 'rake'

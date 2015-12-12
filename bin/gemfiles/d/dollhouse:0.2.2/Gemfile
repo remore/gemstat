@@ -1,6 +1,0 @@
-gem 'main'
-gem 'fog'
-gem 'net-ssh'
-gem 'net-sftp'
-gem 'rake'
-gem 'rspec'

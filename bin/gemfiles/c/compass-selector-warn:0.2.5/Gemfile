@@ -1,3 +1,0 @@
-gem 'compass'
-gem 'compass-configparser'
-gem 'css_parser'

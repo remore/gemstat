@@ -1,4 +1,0 @@
-gem 'require_all'
-gem 'minitest'
-gem 'pry'
-gem 'rake'

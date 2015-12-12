@@ -1,3 +1,0 @@
-gem 'execjs'
-gem 'handlebars_assets'
-gem 'underscore-rails'

@@ -1,7 +1,0 @@
-gem 'treetop'
-gem 'jml_thrift'
-gem 'json'
-gem 'bundler'
-gem 'rspec'
-gem 'rdoc'
-gem 'jfish'

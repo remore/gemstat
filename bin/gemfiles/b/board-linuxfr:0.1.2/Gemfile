@@ -1,5 +1,0 @@
-gem 'goliath'
-gem 'hiredis'
-gem 'redis'
-gem 'yajl-ruby'
-gem 'minitest'

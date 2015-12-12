@@ -1,6 +1,0 @@
-gem 'rdf-spec'
-gem 'rspec'
-gem 'yard'
-gem 'rack'
-gem 'rdf'
-gem 'json_pure'

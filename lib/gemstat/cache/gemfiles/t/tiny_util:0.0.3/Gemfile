@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'chinese_pinyin'
+gem 'domain_name'
+gem 'rb-readline'
+gem 'sqlite3'

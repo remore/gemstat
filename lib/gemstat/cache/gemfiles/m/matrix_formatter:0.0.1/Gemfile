@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-fire'
+gem 'json_spec'

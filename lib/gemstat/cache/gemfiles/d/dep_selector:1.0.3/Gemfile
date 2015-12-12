@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'dep-selector-libgecode'
+gem 'rake'
+gem 'rspec'
+gem 'solve'

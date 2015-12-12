@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'activemodel'
-gem 'hashie'
-gem 'i18n'
-gem 'multi_json'
-gem 'rspec'
-gem 'fakeweb'
-gem 'yard'

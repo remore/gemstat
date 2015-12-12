@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'jeweler'
+gem 'json_pure'
+gem 'rspec'
+gem 'actionpack'
+gem 'json_pure'

@@ -1,3 +1,0 @@
-gem 'cucumber'
-gem 'selenium-webdriver'
-gem 'appium_lib'

@@ -1,0 +1,5 @@
+gem 'pmap'
+gem 'gitlab'
+gem 'trollop'
+gem 'colorize'
+gem 'activesupport'

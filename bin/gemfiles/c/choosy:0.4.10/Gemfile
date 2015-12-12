@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'autotest'
-gem 'autotest-notification'
-gem 'ZenTest'
-gem 'cucumber'

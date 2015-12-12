@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'rails'
-gem 'contest'
-gem 'nokogiri'

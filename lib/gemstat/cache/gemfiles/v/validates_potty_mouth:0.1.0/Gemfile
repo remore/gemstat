@@ -1,0 +1,4 @@
+gem 'activemodel'
+gem 'stemmer'
+gem 'bundler'
+gem 'rake'

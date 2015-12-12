@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'aqueduct'
-gem 'mysql2'
-gem 'sqlite3'

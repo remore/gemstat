@@ -1,0 +1,5 @@
+gem 'crack'
+gem 'jeff'
+gem 'money'
+gem 'rake'
+gem 'rspec'

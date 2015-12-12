@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'test-unit'
-gem 'mocha'
-gem 'rake'
-gem 'webmock'
-gem 'faraday'

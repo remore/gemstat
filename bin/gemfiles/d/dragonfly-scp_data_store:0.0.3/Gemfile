@@ -1,7 +1,0 @@
-gem 'dragonfly'
-gem 'net-ssh'
-gem 'net-scp'
-gem 'bundler'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'

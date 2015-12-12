@@ -1,6 +1,0 @@
-gem 'nyny'
-gem 'haml'
-gem 'stackprof'
-gem 'sprockets'
-gem 'bundler'
-gem 'rake'

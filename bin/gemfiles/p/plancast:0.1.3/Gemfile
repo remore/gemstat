@@ -1,6 +1,0 @@
-gem 'hashie'
-gem 'httparty'
-gem 'shoulda'
-gem 'matchy'
-gem 'fakeweb'
-gem 'yard'

@@ -1,5 +1,0 @@
-gem 'github_api'
-gem 'rainbow'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

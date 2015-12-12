@@ -1,0 +1,4 @@
+gem 'erubis'
+gem 'rake'
+gem 'bundler'
+gem 'byebug'

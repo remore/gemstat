@@ -1,4 +1,0 @@
-gem 'fog'
-gem 'identifier'
-gem 'rails'
-gem 'appraisal'

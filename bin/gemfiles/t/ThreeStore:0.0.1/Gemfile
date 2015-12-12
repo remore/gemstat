@@ -1,3 +1,0 @@
-gem 'aws-s3'
-gem 'rake'
-gem 'rspec'

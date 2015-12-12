@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'decent_exposure'
-gem 'sass-rails'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'combustion'
-gem 'sqlite3'

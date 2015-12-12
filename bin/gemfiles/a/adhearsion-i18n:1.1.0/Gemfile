@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'adhearsion'
-gem 'i18n'
-gem 'rspec'

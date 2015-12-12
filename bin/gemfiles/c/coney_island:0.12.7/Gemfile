@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'amqp'
-gem 'bunny'
-gem 'request_store'
-gem 'eventmachine'
-gem 'sqlite3'
-gem 'minitest'

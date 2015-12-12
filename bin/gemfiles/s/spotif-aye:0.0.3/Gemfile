@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'rspec'
-gem 'i18n'
-gem 'webmock'

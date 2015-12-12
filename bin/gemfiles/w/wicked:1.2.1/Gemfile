@@ -1,5 +1,0 @@
-gem 'railties'
-gem 'rails'
-gem 'capybara'
-gem 'appraisal'
-gem 'test-unit'

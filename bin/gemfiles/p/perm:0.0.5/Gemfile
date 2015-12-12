@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'roleup'
-gem 'pry-test'
-gem 'coveralls'

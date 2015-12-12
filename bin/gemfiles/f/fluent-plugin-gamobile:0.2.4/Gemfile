@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'test-unit'
-gem 'fluentd'
-gem 'activesupport'
-gem 'i18n'

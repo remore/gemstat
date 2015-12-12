@@ -1,0 +1,4 @@
+gem 'gem_lint'
+gem 'rake'
+gem 'roodi'
+gem 'rspec'

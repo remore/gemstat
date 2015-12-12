@@ -1,3 +1,0 @@
-gem 'syslog_protocol'
-gem 'bundler'
-gem 'rake'

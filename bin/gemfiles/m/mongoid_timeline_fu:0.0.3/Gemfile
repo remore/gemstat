@@ -1,3 +1,0 @@
-gem 'mocha'
-gem 'mongoid'
-gem 'bson_ext'

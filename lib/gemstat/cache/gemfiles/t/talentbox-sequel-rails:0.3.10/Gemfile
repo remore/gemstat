@@ -1,0 +1,7 @@
+gem 'sequel'
+gem 'railties'
+gem 'rake'
+gem 'yard'
+gem 'rspec'
+gem 'autotest'
+gem 'rcov'

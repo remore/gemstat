@@ -1,3 +1,0 @@
-gem 'lita-slack'
-gem 'bundler'
-gem 'rake'

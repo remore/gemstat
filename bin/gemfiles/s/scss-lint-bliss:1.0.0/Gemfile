@@ -1,4 +1,0 @@
-gem 'rainbow'
-gem 'sass'
-gem 'nokogiri'
-gem 'rspec'

@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'daemons'
+gem 'eventmachine'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

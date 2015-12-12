@@ -1,3 +1,0 @@
-gem 'capistrano'
-gem 'gdata_19'
-gem 'json'

@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'handsoap'
-gem 'httpclient'
-gem 'rubyntlm'
-gem 'icalendar'
-gem 'viewpoint'
-gem 'highline'

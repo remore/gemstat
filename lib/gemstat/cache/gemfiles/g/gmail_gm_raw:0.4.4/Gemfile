@@ -1,0 +1,7 @@
+gem 'mime'
+gem 'mail'
+gem 'gmail_xoauth'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'gem-release'

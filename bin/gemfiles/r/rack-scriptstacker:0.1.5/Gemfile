@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'cantrips'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

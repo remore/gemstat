@@ -1,8 +1,0 @@
-gem 'railties'
-gem 'activesupport'
-gem 'actionpack'
-gem 'activerecord'
-gem 'awesome_nested_set'
-gem 'the_sortable_tree'
-gem 'bundler'
-gem 'rake'

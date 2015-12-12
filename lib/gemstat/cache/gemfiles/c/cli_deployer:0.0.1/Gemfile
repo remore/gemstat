@@ -1,0 +1,4 @@
+gem 'git'
+gem 'fileutils'
+gem 'net-scp'
+gem 'ssh'

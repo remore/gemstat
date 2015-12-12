@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'rubyzip'
-gem 'diff-lcs'
-gem 'rspec'
-gem 'ci_reporter'

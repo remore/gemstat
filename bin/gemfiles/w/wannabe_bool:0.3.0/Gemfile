@@ -1,3 +1,0 @@
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'

@@ -1,0 +1,8 @@
+gem 'guard'
+gem 'guard-compat'
+gem 'jasmine'
+gem 'multi_json'
+gem 'childprocess'
+gem 'thor'
+gem 'tilt'
+gem 'bundler'

@@ -1,0 +1,6 @@
+gem 'omniauth'
+gem 'canonix'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'rack-test'

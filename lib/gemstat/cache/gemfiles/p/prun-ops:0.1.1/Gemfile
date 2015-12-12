@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'capistrano-rails'
+gem 'thin'
+gem 'newrelic_rpm'

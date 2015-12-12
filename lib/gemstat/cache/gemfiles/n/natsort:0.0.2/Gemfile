@@ -1,0 +1,4 @@
+gem 'natcmp'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

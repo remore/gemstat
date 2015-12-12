@@ -1,0 +1,7 @@
+gem 'json'
+gem 'httparty'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'pry-nav'

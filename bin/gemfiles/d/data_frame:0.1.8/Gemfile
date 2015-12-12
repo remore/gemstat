@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'davidrichards-just_enumerable_stats'
-gem 'fastercsv'

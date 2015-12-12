@@ -1,3 +1,0 @@
-gem 'therubyracer'
-gem 'rspec'
-gem 'simplecov'

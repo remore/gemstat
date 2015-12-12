@@ -1,8 +1,0 @@
-gem 'mime-types'
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'
-gem 'puppet'
-gem 'json'
-gem 'facter'
-gem 'facterdb'

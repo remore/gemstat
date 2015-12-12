@@ -1,4 +1,0 @@
-gem 'resque'
-gem 'resque-scheduler'
-gem 'activesupport'
-gem 'activerecord'

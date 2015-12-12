@@ -1,5 +1,0 @@
-gem 'pdf-reader'
-gem 'json'
-gem 'rubyzip'
-gem 'spidr'
-gem 'socksify'

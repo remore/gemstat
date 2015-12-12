@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'activerecord'
+gem 'mongo'
+gem 'webmock'
+gem 'bson_ext'
+gem 'bson_ext'
+gem 'timecop'
+gem 'vcr'

@@ -1,0 +1,8 @@
+gem 'kaminari'
+gem 'cells'
+gem 'cells-erb'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'activerecord'
+gem 'sqlite3'

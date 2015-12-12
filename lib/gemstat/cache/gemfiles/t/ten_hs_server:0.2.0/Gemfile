@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'activesupport'
+gem 'factory_girl'
+gem 'mocha'
+gem 'webmock'
+gem 'httparty'
+gem 'nokogiri'

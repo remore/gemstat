@@ -1,3 +1,0 @@
-gem 'beanstalk-client'
-gem 'em-jack'
-gem 'json'

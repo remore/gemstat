@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'combustion'
-gem 'mysql2'
-gem 'rspec'
-gem 'thinking-sphinx'

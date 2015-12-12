@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rspec-rails'
-gem 'guard-rspec'
-gem 'pry'

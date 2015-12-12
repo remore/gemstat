@@ -1,5 +1,0 @@
-gem 'gtk3'
-gem 'gtksourceview3'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

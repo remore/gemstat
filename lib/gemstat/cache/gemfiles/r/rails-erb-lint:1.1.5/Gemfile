@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'aruba'
+gem 'rainbow'
+gem 'actionpack'
+gem 'builder'
+gem 'gli'

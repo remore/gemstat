@@ -1,6 +1,0 @@
-gem 'addressable'
-gem 'activesupport'
-gem 'uglifier'
-gem 'excon'
-gem 'contracts'
-gem 'thor'

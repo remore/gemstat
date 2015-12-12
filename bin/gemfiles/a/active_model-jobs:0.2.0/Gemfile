@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'yard'
-gem 'activemodel'
-gem 'activejob'

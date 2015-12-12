@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'coffee-script'
-gem 'haml-rails'
-gem 'geocoder'
-gem 'rest-client'
-gem 'pdfkit'
-gem 'prawn'

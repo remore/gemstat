@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'newgem'
+gem 'thoughtbot-shoulda'
+gem 'sqlite3-ruby'
+gem 'hoe'

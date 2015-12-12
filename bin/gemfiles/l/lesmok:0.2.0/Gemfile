@@ -1,5 +1,0 @@
-gem 'liquid'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'sinatra'
-gem 'activesupport'
-gem 'spirit'
-gem 'yard'
-gem 'debugger-pry'
-gem 'rspec'
-gem 'rake'
-gem 'rack-test'

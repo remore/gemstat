@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'bluecloth'
+gem 'nokogiri'
+gem 'json'
+gem 'gli'
+gem 'mg'

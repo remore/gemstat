@@ -1,6 +1,0 @@
-gem 'rexleparser'
-gem 'dynarex-parser'
-gem 'polyrex-parser'
-gem 'rexle-builder'
-gem 'rexle-css'
-gem 'backtrack-xpath'

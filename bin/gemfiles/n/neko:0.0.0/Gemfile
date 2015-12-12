@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'sinatra'
-gem 'haml'
-gem 'fastercsv'

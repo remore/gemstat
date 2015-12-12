@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rspec'
-gem 'rdoc'
-gem 'jeweler'

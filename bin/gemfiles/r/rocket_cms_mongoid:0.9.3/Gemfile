@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mongoid'
-gem 'rocket_cms'
-gem 'glebtv-mongoid_nested_set'
-gem 'glebtv-mongoid-paperclip'
-gem 'mongoid-audit'
-gem 'mongoid-slug'

@@ -1,0 +1,4 @@
+gem 'nerve-easy'
+gem 'nerve'
+gem 'bundler'
+gem 'rake'

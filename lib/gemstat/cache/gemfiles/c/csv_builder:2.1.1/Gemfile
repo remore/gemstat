@@ -1,0 +1,6 @@
+gem 'actionpack'
+gem 'rails'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'rack'
+gem 'sqlite3'

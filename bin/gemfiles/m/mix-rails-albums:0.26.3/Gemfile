@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'mini_magick'
-gem 'haml_coffee_assets'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mocha'
-gem 'dropbox-sdk'
-gem 'thor'
-gem 'listen'

@@ -1,0 +1,2 @@
+gem 'curl_ffi'
+gem 'rspec'

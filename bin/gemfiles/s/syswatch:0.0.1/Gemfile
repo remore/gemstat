@@ -1,7 +1,0 @@
-gem 'sys-filesystem'
-gem 'pony'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'
-gem 'mailcatcher'

@@ -1,7 +1,0 @@
-gem 'ri_cal'
-gem 'recurs'
-gem 'haml'
-gem 'haml-rails'
-gem 'inherited_resources'
-gem 'factory_girl'
-gem 'database_cleaner'

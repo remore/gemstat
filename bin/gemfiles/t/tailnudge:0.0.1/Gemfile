@@ -1,5 +1,0 @@
-gem 'terminal-notifier'
-gem 'eventmachine-tail'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

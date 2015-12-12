@@ -1,5 +1,0 @@
-gem 'atomic'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'

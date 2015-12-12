@@ -1,0 +1,5 @@
+gem 'ffi'
+gem 'blankslate'
+gem 'rspec'
+gem 'tilt'
+gem 'hoe'

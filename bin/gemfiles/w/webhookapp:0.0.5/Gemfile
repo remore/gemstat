@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'dotenv'
-gem 'oauth2'
-gem 'rake'

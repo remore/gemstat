@@ -1,0 +1,4 @@
+gem 'childprocess'
+gem 'oauth'
+gem 'twitter'
+gem 'rack'

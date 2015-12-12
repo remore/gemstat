@@ -1,5 +1,0 @@
-gem 'commander'
-gem 'therubyracer'
-gem 'cucumber'
-gem 'aruba'
-gem 'capybara'

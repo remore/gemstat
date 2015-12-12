@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'highrise'
-gem 'devise'
-gem 'sqlite3'

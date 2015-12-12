@@ -1,6 +1,0 @@
-gem 'eventmachine'
-gem 'em-websocket'
-gem 'em-zeromq'
-gem 'yajl-ruby'
-gem 'eventmachine_httpserver'
-gem 'rspec'

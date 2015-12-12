@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rspec-core'
-gem 'rspec-expectations'
-gem 'pry'
-gem 'rake'

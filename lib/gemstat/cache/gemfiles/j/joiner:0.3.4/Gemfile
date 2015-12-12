@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'combustion'
+gem 'rails'
+gem 'rspec-rails'
+gem 'sqlite3'

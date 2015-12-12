@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'roxml'
-gem 'rake'
-gem 'rspec'

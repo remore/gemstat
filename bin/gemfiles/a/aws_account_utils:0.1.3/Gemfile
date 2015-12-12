@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'webmock'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'fakefs'
-gem 'rake'
-gem 'watir-webdriver'
-gem 'random-word'

@@ -1,8 +1,0 @@
-gem 'rspec-rails'
-gem 'mocha'
-gem 'capybara'
-gem 'watchr'
-gem 'fabrication'
-gem 'ffaker'
-gem 'activemodel'
-gem 'rails'

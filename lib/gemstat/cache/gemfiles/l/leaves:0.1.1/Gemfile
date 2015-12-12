@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'vstudioide'
+gem 'win32rc'
+gem 'xcodeide'

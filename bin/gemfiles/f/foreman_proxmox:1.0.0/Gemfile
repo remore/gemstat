@@ -1,4 +1,0 @@
-gem 'httpclient'
-gem 'json'
-gem 'rubocop'
-gem 'rdoc'

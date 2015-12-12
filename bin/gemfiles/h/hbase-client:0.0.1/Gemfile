@@ -1,4 +1,0 @@
-gem 'thrift'
-gem 'rack'
-gem 'thin'
-gem 'bundler'

@@ -1,8 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-codec-plain'
-gem 'logstash-codec-line'
-gem 'logstash-codec-json'
-gem 'logstash-codec-json_lines'
-gem 'ffi'
-gem 'systemd-journal'
-gem 'logstash-devutils'

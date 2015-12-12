@@ -1,8 +1,0 @@
-gem 'flay'
-gem 'flog'
-gem 'reek'
-gem 'roodi'
-gem 'rails_best_practices'
-gem 'relevance-rcov'
-gem 'mojombo-chronic'
-gem 'construct'

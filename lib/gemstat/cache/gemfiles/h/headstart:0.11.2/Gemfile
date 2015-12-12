@@ -1,0 +1,4 @@
+gem 'mini_fb'
+gem 'delayed_job'
+gem 'mad_mimi_mailer'
+gem 'shoulda'

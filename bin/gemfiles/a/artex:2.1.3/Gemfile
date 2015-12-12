@@ -1,4 +1,0 @@
-gem 'echoe'
-gem 'flexmock'
-gem 'rails'
-gem 'shoulda'

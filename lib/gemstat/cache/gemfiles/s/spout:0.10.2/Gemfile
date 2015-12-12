@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'json'
+gem 'colorize'
+gem 'bundler'

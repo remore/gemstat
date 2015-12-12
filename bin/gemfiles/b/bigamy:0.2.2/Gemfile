@@ -1,6 +1,0 @@
-gem 'shoulda'
-gem 'mocha'
-gem 'factory_girl'
-gem 'ruby-debug'
-gem 'mongo_mapper'
-gem 'active_record'

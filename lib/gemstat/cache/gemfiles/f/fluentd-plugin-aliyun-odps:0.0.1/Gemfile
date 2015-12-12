@@ -1,0 +1,7 @@
+gem 'fluentd'
+gem 'protobuf'
+gem 'yajl-ruby'
+gem 'fluent-mixin-config-placeholders'
+gem 'rake'
+gem 'flexmock'
+gem 'test-unit'

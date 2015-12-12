@@ -1,0 +1,6 @@
+gem 'service_api'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'coveralls'
+gem 'awesome_print'

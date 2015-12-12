@@ -1,4 +1,0 @@
-gem 'virtualbox'
-gem 'choice'
-gem 'systemu'
-gem 'uuid'

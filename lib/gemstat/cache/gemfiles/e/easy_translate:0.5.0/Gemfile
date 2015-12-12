@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'json'
+gem 'thread'
+gem 'thread_safe'

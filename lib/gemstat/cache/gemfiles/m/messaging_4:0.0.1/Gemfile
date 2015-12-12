@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'devise'
+gem 'simple_form'
+gem 'carrierwave'
+gem 'sunspot_rails'
+gem 'jquery-rails'
+gem 'haml'
+gem 'sqlite3'

@@ -1,5 +1,0 @@
-gem 'atomic'
-gem 'hitimes'
-gem 'avl_tree'
-gem 'cql-rb'
-gem 'mocha'

@@ -1,4 +1,0 @@
-gem 'bogo'
-gem 'multi_json'
-gem 'multi_xml'
-gem 'attribute_struct'

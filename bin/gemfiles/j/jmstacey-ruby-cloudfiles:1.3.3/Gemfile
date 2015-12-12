@@ -1,5 +1,0 @@
-gem 'mime-types'
-gem 'archive-tar-minitar'
-gem 'nokogiri'
-gem 'hoe'
-gem 'rcov'

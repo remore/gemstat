@@ -1,3 +1,0 @@
-gem 'shared-mime-info'
-gem 'mail'
-gem 'mime'

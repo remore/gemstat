@@ -1,6 +1,0 @@
-gem 'peregrin'
-gem 'mobi'
-gem 'clive'
-gem 'highline'
-gem 'data_mapper'
-gem 'dm-sqlite-adapter'

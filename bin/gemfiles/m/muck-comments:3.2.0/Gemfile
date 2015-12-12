@@ -1,4 +1,0 @@
-gem 'sanitize'
-gem 'nested_set'
-gem 'muck-engine'
-gem 'muck-users'

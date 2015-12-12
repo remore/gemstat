@@ -1,6 +1,0 @@
-gem 'rmagick'
-gem 'rubocop'
-gem 'rake'
-gem 'coveralls'
-gem 'rspec'
-gem 'fuubar'

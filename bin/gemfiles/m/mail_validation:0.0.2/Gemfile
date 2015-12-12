@@ -1,6 +1,0 @@
-gem 'mail'
-gem 'activemodel'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'
-gem 'yard'

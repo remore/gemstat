@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'eeepub'
-gem 'ptools'
-gem 'haml'
-gem 'tilt'

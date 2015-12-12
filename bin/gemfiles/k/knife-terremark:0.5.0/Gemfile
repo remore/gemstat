@@ -1,6 +1,0 @@
-gem 'chef'
-gem 'fog'
-gem 'net-ssh'
-gem 'net-ssh-multi'
-gem 'net-scp'
-gem 'highline'

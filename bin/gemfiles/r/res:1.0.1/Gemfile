@@ -1,4 +1,0 @@
-gem 'json'
-gem 'test_rail-api'
-gem 'ox'
-gem 'rspec'

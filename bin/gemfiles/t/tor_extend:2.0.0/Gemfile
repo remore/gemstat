@@ -1,4 +1,0 @@
-gem 'tor'
-gem 'geoip'
-gem 'socksify'
-gem 'eventmachine'

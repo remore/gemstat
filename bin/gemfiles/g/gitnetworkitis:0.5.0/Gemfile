@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'fakeweb'
-gem 'vcr'

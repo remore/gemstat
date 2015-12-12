@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'
-gem 'yard'
-gem 'test-unit'
-gem 'simplecov'
-gem 'pry'

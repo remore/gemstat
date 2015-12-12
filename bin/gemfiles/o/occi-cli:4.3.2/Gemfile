@@ -1,3 +1,0 @@
-gem 'occi-api'
-gem 'json'
-gem 'highline'

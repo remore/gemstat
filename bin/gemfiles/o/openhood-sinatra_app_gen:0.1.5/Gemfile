@@ -1,5 +1,0 @@
-gem 'rubigen'
-gem 'rspec'
-gem 'cucumber'
-gem 'sequel'
-gem 'jeweler'

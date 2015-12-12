@@ -1,6 +1,0 @@
-gem 'rice'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

@@ -1,6 +1,0 @@
-gem 'rack-auto-session-domain'
-gem 'restpack-core-client'
-gem 'public_suffix'
-gem 'yajl-ruby'
-gem 'rack'
-gem 'rspec'

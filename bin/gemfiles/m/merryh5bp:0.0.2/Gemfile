@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'capybara'
-gem 'sqlite3'
-gem 'jquery-rails'
-gem 'rspec-rails'
-gem 'jquery-rails'

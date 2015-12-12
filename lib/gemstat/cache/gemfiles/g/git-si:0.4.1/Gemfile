@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'thor'
+gem 'pager'
+gem 'rspec'
+gem 'thor'
+gem 'pager'

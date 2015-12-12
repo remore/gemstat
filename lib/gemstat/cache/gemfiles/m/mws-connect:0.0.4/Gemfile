@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'cucumber'
+gem 'activesupport'
+gem 'logging'
+gem 'nokogiri'

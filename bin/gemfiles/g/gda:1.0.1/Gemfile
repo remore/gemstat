@@ -1,5 +1,0 @@
-gem 'minitest'
-gem 'rdoc'
-gem 'rake-compiler'
-gem 'sqlite3'
-gem 'hoe'

@@ -1,0 +1,7 @@
+gem 'actionmailer'
+gem 'actionpack'
+gem 'devise'
+gem 'rspec'
+gem 'inch'
+gem 'activerecord'
+gem 'mongoid'

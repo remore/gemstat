@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'simplecov'
-gem 'simplecov-rcov'
-gem 'reek'

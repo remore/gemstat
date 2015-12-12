@@ -1,3 +1,0 @@
-gem 'clap'
-gem 'terminal-table'
-gem 'net-http-persistent'

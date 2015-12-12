@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'pusher'
-gem 'mongoid'
-gem 'mongoid-rspec'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'

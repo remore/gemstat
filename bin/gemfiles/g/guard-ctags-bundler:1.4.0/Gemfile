@@ -1,6 +1,0 @@
-gem 'guard'
-gem 'guard-compat'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'purdytest'

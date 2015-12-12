@@ -1,2 +1,0 @@
-gem 'logstash-event'
-gem 'activesupport'

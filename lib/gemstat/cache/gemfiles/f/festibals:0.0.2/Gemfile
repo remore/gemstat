@@ -1,0 +1,4 @@
+gem 'icalendar'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'

@@ -1,3 +1,0 @@
-gem 'activemerchant'
-gem 'nokogiri'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'megingiard'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

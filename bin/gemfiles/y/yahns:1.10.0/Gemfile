@@ -1,4 +1,0 @@
-gem 'kgio'
-gem 'sleepy_penguin'
-gem 'unicorn'
-gem 'minitest'

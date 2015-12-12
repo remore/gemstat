@@ -1,5 +1,0 @@
-gem 'json'
-gem 'mime-types'
-gem 'rest-client'
-gem 'mail'
-gem 'rake'

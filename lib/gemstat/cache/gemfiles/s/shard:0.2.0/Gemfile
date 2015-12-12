@@ -1,0 +1,5 @@
+gem 'octokit'
+gem 'netrc'
+gem 'thor'
+gem 'rake'
+gem 'bundler'

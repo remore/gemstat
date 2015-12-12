@@ -1,4 +1,0 @@
-gem 'pony'
-gem 'jeweler'
-gem 'mocha'
-gem 'thoughtbot-shoulda'

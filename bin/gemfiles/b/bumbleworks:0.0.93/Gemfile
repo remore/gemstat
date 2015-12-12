@@ -1,8 +1,0 @@
-gem 'ruote'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'watchr'
-gem 'pry-rescue'
-gem 'sqlite3'
-gem 'simplecov'

@@ -1,0 +1,6 @@
+gem 'hoe'
+gem 'gemcutter'
+gem 'gemcutter'
+gem 'hoe-doofus'
+gem 'hoe-git'
+gem 'hoe'

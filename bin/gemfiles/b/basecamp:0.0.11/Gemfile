@@ -1,7 +1,0 @@
-gem 'oauth2'
-gem 'xml-simple'
-gem 'activeresource'
-gem 'rake'
-gem 'mg'
-gem 'rspec'
-gem 'webmock'

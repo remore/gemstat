@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'safe_monkeypatch'
-gem 'bundler'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rake'
-gem 'combustion'
-gem 'appraisal'

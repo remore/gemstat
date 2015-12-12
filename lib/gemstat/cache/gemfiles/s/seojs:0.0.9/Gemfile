@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'rack-test'
+gem 'mocha'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov-console'

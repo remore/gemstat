@@ -1,5 +1,0 @@
-gem 'grit'
-gem 'bert'
-gem 'bertrpc'
-gem 'rspec'
-gem 'rr'

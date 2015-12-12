@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'activesupport'
+gem 'rubyzip'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'debugger'

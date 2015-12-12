@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'nokogiri'
-gem 'money'
-gem 'open-uri'

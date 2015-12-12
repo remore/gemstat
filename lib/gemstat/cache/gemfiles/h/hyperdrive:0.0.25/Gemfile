@@ -1,0 +1,7 @@
+gem 'linguistics'
+gem 'multi_json'
+gem 'rack'
+gem 'rack-cache'
+gem 'rack-ssl'
+gem 'rack-accept'
+gem 'thor'

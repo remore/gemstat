@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'activeresource'
-gem 'rcov'
-gem 'webmock'

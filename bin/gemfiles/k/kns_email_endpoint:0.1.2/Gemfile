@@ -1,4 +1,0 @@
-gem 'kns_endpoint'
-gem 'mail'
-gem 'dalli'
-gem 'work_queue'

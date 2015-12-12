@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'stripe'
-gem 'rails'
-gem 'rspec-rails'
-gem 'webmock'
-gem 'appraisal'
-gem 'coveralls'

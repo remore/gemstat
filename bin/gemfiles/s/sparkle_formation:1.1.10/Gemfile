@@ -1,4 +1,0 @@
-gem 'attribute_struct'
-gem 'multi_json'
-gem 'bogo'
-gem 'minitest'

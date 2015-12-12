@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'thor'

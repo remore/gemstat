@@ -1,8 +1,0 @@
-gem 'json'
-gem 'commander'
-gem 'terminal-table'
-gem 'sinatra'
-gem 'rubyzip'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

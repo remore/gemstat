@@ -1,5 +1,0 @@
-gem 'bio'
-gem 'bio-logger'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

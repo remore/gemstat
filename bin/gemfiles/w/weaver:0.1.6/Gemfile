@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'trollop'
-gem 'bundler'
-gem 'rake'

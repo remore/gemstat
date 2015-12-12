@@ -1,3 +1,0 @@
-gem 'config_service'
-gem 'faraday'
-gem 'rspec'

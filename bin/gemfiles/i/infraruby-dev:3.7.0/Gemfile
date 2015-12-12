@@ -1,4 +1,0 @@
-gem 'infraruby-base'
-gem 'infraruby-core'
-gem 'infraruby-init'
-gem 'infraruby-task'

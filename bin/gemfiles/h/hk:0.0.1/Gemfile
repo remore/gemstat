@@ -1,7 +1,0 @@
-gem 'clean_test'
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'ronn'
-gem 'gli'
-gem 'gem-man'

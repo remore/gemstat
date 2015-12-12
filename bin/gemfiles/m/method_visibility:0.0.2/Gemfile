@@ -1,4 +1,0 @@
-gem 'visibility_predicates'
-gem 'yard'
-gem 'rake'
-gem 'bundler'

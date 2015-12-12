@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'trollop'
-gem 'activesupport'
-gem 'awesome_print'
-gem 'hashie'

@@ -1,6 +1,0 @@
-gem 'uuid'
-gem 'mongoid'
-gem 'bundler'
-gem 'pry'
-gem 'rake'
-gem 'rspec'

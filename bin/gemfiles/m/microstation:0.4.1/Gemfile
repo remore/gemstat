@@ -1,8 +1,0 @@
-gem 'methadone'
-gem 'liquid'
-gem 'virtus'
-gem 'minitest'
-gem 'rdoc'
-gem 'rspec'
-gem 'pry-nav'
-gem 'hoe'

@@ -1,4 +1,0 @@
-gem 'pony'
-gem 'popen4'
-gem 'formatador'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'json_pure'
-gem 'highline'
-gem 'rspec'
-gem 'rake'

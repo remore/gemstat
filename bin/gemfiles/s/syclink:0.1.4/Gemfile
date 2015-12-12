@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'sass'
-gem 'gli'
-gem 'sqlite3'

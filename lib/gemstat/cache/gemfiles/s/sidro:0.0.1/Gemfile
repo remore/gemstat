@@ -1,0 +1,8 @@
+gem 'inherited_resources'
+gem 'inherited_resources_views'
+gem 'formtastic'
+gem 'meta_search'
+gem 'meta_where'
+gem 'web-app-theme'
+gem 'kaminari'
+gem 'jquery-rails'

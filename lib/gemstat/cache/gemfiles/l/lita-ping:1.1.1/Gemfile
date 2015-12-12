@@ -1,0 +1,2 @@
+gem 'lita'
+gem 'rspec'

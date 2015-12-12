@@ -1,7 +1,0 @@
-gem 'json'
-gem 'rack'
-gem 'escape'
-gem 'rspec'
-gem 'rack-test'
-gem 'fakeweb'
-gem 'nokogiri'

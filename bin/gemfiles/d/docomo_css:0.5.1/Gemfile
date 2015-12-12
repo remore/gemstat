@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'tiny_css'
-gem 'rails'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'

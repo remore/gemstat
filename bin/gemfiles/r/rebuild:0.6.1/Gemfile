@@ -1,5 +1,0 @@
-gem 'unindent'
-gem 'parseconfig'
-gem 'pry'
-gem 'bundler'
-gem 'rake'

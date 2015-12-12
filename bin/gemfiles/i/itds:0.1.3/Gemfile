@@ -1,5 +1,0 @@
-gem 'tiny_tds'
-gem 'terminal-table'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

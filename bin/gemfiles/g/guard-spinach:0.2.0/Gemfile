@@ -1,5 +1,0 @@
-gem 'guard'
-gem 'guard-compat'
-gem 'spinach'
-gem 'rake'
-gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'foreman'
-gem 'bundler'
-gem 'thor'
-gem 'fog'
-gem 'activesupport'
-gem 'activerecord'
-gem 'pg'

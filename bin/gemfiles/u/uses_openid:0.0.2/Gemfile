@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'railties'

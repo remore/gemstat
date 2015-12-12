@@ -1,0 +1,8 @@
+gem 'strelka'
+gem 'inversion'
+gem 'loggability'
+gem 'hoe-mercurial'
+gem 'hoe-highline'
+gem 'rdoc'
+gem 'hoe-deveiate'
+gem 'hoe'

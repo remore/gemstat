@@ -1,4 +1,0 @@
-gem 'rest_client'
-gem 'nokogiri'
-gem 'json'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'lovely_rufus'
-gem 'minitest'
-gem 'reek'
-gem 'rubocop'

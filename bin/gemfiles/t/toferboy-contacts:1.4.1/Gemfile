@@ -1,4 +1,0 @@
-gem 'json'
-gem 'gdata19'
-gem 'hpricot'
-gem 'encryptor'

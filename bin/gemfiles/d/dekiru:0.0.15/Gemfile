@@ -1,4 +1,0 @@
-gem 'http_accept_language'
-gem 'rails'
-gem 'rake'
-gem 'rspec'

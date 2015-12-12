@@ -1,0 +1,6 @@
+gem 'maven-tools'
+gem 'ruby-maven'
+gem 'bundler'
+gem 'jar-dependencies'
+gem 'rake'
+gem 'minitest'

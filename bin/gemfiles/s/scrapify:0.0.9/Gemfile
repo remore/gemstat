@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'mocha'
-gem 'fakeweb'
-gem 'nokogiri'
-gem 'activesupport'
-gem 'json'

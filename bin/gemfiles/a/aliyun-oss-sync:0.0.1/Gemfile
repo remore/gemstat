@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'gli'
-gem 'aliyun-oss'
-gem 'listen'
-gem 'colored'
-gem 'mime-types'

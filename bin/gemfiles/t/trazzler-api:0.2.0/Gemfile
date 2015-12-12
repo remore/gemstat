@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'webmock'
-gem 'httparty'
-gem 'json'
-gem 'hashie'

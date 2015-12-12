@@ -1,5 +1,0 @@
-gem 'rubysl-english'
-gem 'bundler'
-gem 'rake'
-gem 'mspec'
-gem 'rubysl-prettyprint'

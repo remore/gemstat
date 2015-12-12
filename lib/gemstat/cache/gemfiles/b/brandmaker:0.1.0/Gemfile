@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'activesupport'
+gem 'rest-client'
+gem 'json'
+gem 'rspec'
+gem 'pry'

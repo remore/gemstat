@@ -1,7 +1,0 @@
-gem 'capybara'
-gem 'sinatra'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'simplecov'
-gem 'webrat'
-gem 'cucumber'

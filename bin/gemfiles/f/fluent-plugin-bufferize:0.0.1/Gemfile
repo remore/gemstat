@@ -1,3 +1,0 @@
-gem 'fluentd'
-gem 'bundler'
-gem 'rake'

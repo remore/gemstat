@@ -1,5 +1,0 @@
-gem 'crack'
-gem 'httparty'
-gem 'mash'
-gem 'fakeweb'
-gem 'rspec'

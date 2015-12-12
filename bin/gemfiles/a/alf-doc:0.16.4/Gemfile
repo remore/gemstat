@@ -1,7 +1,0 @@
-gem 'wlang'
-gem 'redcarpet'
-gem 'albino'
-gem 'md2man'
-gem 'rake'
-gem 'rspec'
-gem 'alf-core'

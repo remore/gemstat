@@ -1,0 +1,7 @@
+gem 'mail'
+gem 'i18n'
+gem 'hooks'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'autotest'

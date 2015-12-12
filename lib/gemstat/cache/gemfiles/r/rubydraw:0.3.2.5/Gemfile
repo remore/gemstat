@@ -1,0 +1,2 @@
+gem 'ruby-sdl-ffi'
+gem '2DArray'

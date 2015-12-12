@@ -1,4 +1,0 @@
-gem 'nice-ffi'
-gem 'pry'
-gem 'rspec'
-gem 'eventmachine'

@@ -1,4 +1,0 @@
-gem 'sous_chef'
-gem 'addressable'
-gem 'multi_json'
-gem 'rspec'

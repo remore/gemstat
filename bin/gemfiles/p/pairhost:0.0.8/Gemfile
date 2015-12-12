@@ -1,7 +1,0 @@
-gem 'fog'
-gem 'thor'
-gem 'hirb'
-gem 'launchy'
-gem 'rspec'
-gem 'bahia'
-gem 'rake'

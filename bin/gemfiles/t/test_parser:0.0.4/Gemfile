@@ -1,4 +1,0 @@
-gem 'ruby_parser'
-gem 'ruby2ruby'
-gem 'rspec-core'
-gem 'minitest'

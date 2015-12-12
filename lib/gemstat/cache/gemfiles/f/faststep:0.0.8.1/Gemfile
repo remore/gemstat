@@ -1,0 +1,4 @@
+gem 'rake-compiler'
+gem 'bson'
+gem 'bson_ext'
+gem 'rspec'

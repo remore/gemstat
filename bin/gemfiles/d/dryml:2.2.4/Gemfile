@@ -1,4 +1,0 @@
-gem 'actionpack'
-gem 'hobo_support'
-gem 'cucumber'
-gem 'aruba'

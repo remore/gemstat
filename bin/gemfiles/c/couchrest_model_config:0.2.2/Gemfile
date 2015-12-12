@@ -1,3 +1,0 @@
-gem 'couchrest_model'
-gem 'cucumber'
-gem 'rspec'

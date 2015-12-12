@@ -1,8 +1,0 @@
-gem 'retryable'
-gem 'addressable'
-gem 'faraday'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'rubocop'

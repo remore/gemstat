@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'activesupport'
+gem 'rest-client'
+gem 'omniauth'
+gem 'omniauth-oauth2'
+gem 'bundler'
+gem 'rake'

@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'ffi-rzmq'
-gem 'logstash-devutils'

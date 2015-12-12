@@ -1,0 +1,5 @@
+gem 'angularjs-rails'
+gem 'angular_rails_csrf'
+gem 'rails'
+gem 'rspec-rails'
+gem 'guard-rspec'

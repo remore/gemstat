@@ -1,5 +1,0 @@
-gem 'logging'
-gem 'activesupport'
-gem 'actionview'
-gem 'config_service'
-gem 'minitest'

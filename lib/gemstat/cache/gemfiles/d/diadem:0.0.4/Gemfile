@@ -1,0 +1,8 @@
+gem 'mspire'
+gem 'fftw3'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rdoc'
+gem 'simplecov'
+gem 'gnuplot'

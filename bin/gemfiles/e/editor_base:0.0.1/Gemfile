@@ -1,7 +1,0 @@
-gem 'middleman'
-gem 'backbone-source'
-gem 'coffee-filter'
-gem 'cornerstone-source'
-gem 'haml_coffee_assets'
-gem 'jquery-source'
-gem 'underscore-source'

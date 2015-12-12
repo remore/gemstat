@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'css_parser'
-gem 'shoulda'

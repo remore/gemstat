@@ -1,6 +1,0 @@
-gem 'yajl-ruby'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'yajl-ruby'

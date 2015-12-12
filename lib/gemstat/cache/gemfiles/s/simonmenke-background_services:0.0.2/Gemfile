@@ -1,0 +1,2 @@
+gem 'beanstalk-client'
+gem 'daemons'

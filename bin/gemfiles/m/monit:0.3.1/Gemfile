@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'webmock'
-gem 'nokogiri'
-gem 'activesupport'

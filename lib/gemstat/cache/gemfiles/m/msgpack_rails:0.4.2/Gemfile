@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'msgpack'
+gem 'rake'
+gem 'minitest'
+gem 'activemodel'

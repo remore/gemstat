@@ -1,2 +1,0 @@
-gem 'rb-fsevent'
-gem 'rb-inotify'

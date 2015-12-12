@@ -1,3 +1,0 @@
-gem 'kb-authlogic'
-gem 'declarative_authorization'
-gem 'friendly_id'

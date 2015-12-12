@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'fuubar'
-gem 'ruby-processing'
-gem 'amqp'

@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rspec'
-gem 'jeweler'
-gem 'rcov'

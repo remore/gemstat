@@ -1,4 +1,0 @@
-gem 'yard'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

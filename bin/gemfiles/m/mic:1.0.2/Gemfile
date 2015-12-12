@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'awesome_print'
-gem 'rspec'
-gem 'simplecov'
-gem 'coveralls'

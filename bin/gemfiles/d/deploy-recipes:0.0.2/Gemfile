@@ -1,5 +1,0 @@
-gem 'capistrano'
-gem 'pivotal-tracker'
-gem 'grit'
-gem 'tinder'
-gem 'aws-sdk'

@@ -1,7 +1,0 @@
-gem 'jmx4r'
-gem 'librato-metrics'
-gem 'trollop'
-gem 'jruby-openssl'
-gem 'rake'
-gem 'shoulda'
-gem 'rdoc'

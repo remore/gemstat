@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'fast_open_struct'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

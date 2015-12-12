@@ -1,5 +1,0 @@
-gem 'celluloid'
-gem 'thor'
-gem 'hkdf'
-gem 'rake'
-gem 'rspec'

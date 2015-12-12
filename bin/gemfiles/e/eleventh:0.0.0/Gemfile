@@ -1,4 +1,0 @@
-gem 'commander'
-gem 'json'
-gem 'rubyzip'
-gem 'aws-sdk'

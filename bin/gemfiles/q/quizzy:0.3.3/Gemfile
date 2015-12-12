@@ -1,4 +1,0 @@
-gem 'liquid'
-gem 'activesupport'
-gem 'config_newton'
-gem 'rspec'

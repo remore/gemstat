@@ -1,5 +1,0 @@
-gem 'resque'
-gem 'resque-scheduler'
-gem 'hashie'
-gem 'turn'
-gem 'yard'

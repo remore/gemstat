@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'
-gem 'httperfrb'
-gem 'rmagick'
-gem 'gruff'

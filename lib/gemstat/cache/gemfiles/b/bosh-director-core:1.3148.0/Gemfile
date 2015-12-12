@@ -1,0 +1,7 @@
+gem 'bosh_common'
+gem 'bosh-template'
+gem 'rake'
+gem 'rspec'
+gem 'rspec-its'
+gem 'fakefs'
+gem 'minitar'

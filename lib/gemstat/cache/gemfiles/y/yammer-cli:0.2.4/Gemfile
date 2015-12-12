@@ -1,0 +1,6 @@
+gem 'yammer'
+gem 'launchy'
+gem 'oauth'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'

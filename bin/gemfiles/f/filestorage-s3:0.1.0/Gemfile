@@ -1,4 +1,0 @@
-gem 'filestorage'
-gem 'aws-sdk'
-gem 'bundler'
-gem 'rake'

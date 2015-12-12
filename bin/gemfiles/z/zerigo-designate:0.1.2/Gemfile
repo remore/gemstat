@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'capify-ec2'
-gem 'crack'
-gem 'shoulda'

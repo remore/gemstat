@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'simplecov'
-gem 'yajl-ruby'
-gem 'uuidtools'
-gem 'hashie'
-gem 'json-schema'

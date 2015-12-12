@@ -1,8 +1,0 @@
-gem 'busser'
-gem 'aruba'
-gem 'bundler'
-gem 'countloc'
-gem 'rake'
-gem 'simplecov'
-gem 'finstyle'
-gem 'cane'

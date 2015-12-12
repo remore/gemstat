@@ -1,4 +1,0 @@
-gem 'crack'
-gem 'thor'
-gem 'haml'
-gem 'rspec'

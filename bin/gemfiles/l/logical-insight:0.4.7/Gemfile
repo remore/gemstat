@@ -1,4 +1,0 @@
-gem 'corundum'
-gem 'redcarpet'
-gem 'uuid'
-gem 'sqlite3'

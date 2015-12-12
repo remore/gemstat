@@ -1,3 +1,0 @@
-gem 'deep_merge'
-gem 'redis'
-gem 'jeweler'

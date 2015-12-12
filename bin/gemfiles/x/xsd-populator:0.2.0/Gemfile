@@ -1,6 +1,0 @@
-gem 'builder'
-gem 'xsd-reader'
-gem 'data-provider'
-gem 'nokogiri'
-gem 'rspec'
-gem 'byebug'

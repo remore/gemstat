@@ -1,4 +1,0 @@
-gem 'vultr'
-gem 'aruba'
-gem 'pry'
-gem 'rake'

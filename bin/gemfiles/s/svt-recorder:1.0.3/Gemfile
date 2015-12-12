@@ -1,4 +1,0 @@
-gem 'json_pure'
-gem 'nokogiri'
-gem 'progress_bar'
-gem 'rspec'

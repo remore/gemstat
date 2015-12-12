@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'simplecov-console'
-gem 'webmock'
-gem 'rack'
-gem 'aws-sdk'

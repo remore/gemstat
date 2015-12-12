@@ -1,4 +1,0 @@
-gem 'sourcify'
-gem 'file-tail'
-gem 'rspec'
-gem 'cucumber'

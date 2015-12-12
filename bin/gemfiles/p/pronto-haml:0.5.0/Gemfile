@@ -1,5 +1,0 @@
-gem 'haml_lint'
-gem 'pronto'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'

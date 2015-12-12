@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'httparty'
-gem 'json'

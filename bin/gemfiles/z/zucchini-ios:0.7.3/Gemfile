@@ -1,5 +1,0 @@
-gem 'clamp'
-gem 'plist'
-gem 'rspec'
-gem 'simplecov'
-gem 'coveralls'

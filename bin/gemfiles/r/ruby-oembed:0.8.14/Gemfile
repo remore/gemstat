@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'json'
-gem 'xml-simple'
-gem 'nokogiri'
-gem 'rspec'
-gem 'vcr'
-gem 'fakeweb'

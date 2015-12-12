@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'test-unit'
+gem 'rake'
+gem 'rspec'

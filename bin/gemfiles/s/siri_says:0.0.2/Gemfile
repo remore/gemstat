@@ -1,5 +1,0 @@
-gem 'gcal4ruby'
-gem 'i18n'
-gem 'active_support'
-gem 'rake'
-gem 'jeweler'

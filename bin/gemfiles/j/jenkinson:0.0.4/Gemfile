@@ -1,4 +1,0 @@
-gem 'jenkins_api_client'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

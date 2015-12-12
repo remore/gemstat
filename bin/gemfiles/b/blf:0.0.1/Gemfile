@@ -1,6 +1,0 @@
-gem 'rmagick'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

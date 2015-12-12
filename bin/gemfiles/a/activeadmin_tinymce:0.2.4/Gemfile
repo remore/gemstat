@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'slim-rails'
-gem 'tinymce-rails'
-gem 'activeadmin'

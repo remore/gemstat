@@ -1,7 +1,0 @@
-gem 'statusbot-models'
-gem 'bundler'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'debugger'
-gem 'simplecov'
-gem 'database_cleaner'

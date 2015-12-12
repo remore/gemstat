@@ -1,0 +1,5 @@
+gem 'net-ldap'
+gem 'bundler'
+gem 'ladle'
+gem 'minitest'
+gem 'rake'

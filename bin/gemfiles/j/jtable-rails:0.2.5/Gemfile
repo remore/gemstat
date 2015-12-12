@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'fabrication'
-gem 'jeweler'
-gem 'rails'
-gem 'sqlite3-ruby'
-gem 'ruby-debug19'
-gem 'rails'

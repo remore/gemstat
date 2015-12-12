@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'rubyzip'
-gem 'htmlentities'
-gem 'mimemagic'
-gem 'yard'
-gem 'kramdown'
-gem 'timecop'

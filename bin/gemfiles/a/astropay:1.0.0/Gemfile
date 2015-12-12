@@ -1,4 +1,0 @@
-gem 'hasugar'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

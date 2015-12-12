@@ -1,4 +1,0 @@
-gem 'elasticsearch'
-gem 'bundler'
-gem 'pry'
-gem 'rspec'

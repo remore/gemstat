@@ -1,8 +1,0 @@
-gem 'rdoc'
-gem 'aruba'
-gem 'rake'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'
-gem 'guard-cucumber'
-gem 'methadone'

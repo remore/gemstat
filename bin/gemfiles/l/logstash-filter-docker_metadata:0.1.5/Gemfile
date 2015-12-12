@@ -1,6 +1,0 @@
-gem 'logstash-core'
-gem 'docker-api'
-gem 'lru_redux'
-gem 'json'
-gem 'hashie'
-gem 'logstash-devutils'

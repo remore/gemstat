@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'carrierwave'
+gem 'execjs'
+gem 'sqlite3'

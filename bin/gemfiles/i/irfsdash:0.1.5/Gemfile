@@ -1,4 +1,0 @@
-gem 'bunny'
-gem 'json'
-gem 'trollop'
-gem 'statsd-ruby'

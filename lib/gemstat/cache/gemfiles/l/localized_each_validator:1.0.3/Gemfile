@@ -1,0 +1,6 @@
+gem 'activemodel'
+gem 'activesupport'
+gem 'jeweler'
+gem 'yard'
+gem 'RedCloth'
+gem 'rspec'

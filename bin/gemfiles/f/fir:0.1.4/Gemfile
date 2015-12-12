@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'webrat'
-gem 'rack-test'
-gem 'testunitxml'
-gem 'activesupport'
-gem 'rack'
-gem 'builder'
-gem 'maruku'

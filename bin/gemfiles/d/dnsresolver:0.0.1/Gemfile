@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'ruby-prof'
-gem 'celluloid-io'
-gem 'dnsruby'
-gem 'uuid'
-gem 'activesupport'

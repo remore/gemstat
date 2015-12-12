@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'sprockets'
-gem 'nokogiri'
-gem 'rmagick'
-gem 'chunky_png'

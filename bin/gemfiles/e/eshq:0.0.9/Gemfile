@@ -1,4 +1,0 @@
-gem 'mocha'
-gem 'timecop'
-gem 'fakeweb'
-gem 'multi_json'

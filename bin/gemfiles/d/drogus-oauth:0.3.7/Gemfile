@@ -1,4 +1,0 @@
-gem 'ruby-hmac'
-gem 'actionpack'
-gem 'rack'
-gem 'mocha'

@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'httparty'
-gem 'domainatrix'
-gem 'activerecord'
-gem 'docopt'
-gem 'ruby-progressbar'

@@ -1,4 +1,0 @@
-gem 'json'
-gem 'camertron-eprun'
-gem 'tzinfo'
-gem 'cldr-plurals-runtime-rb'

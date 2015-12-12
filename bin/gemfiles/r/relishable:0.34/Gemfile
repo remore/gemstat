@@ -1,5 +1,0 @@
-gem 'fog'
-gem 'legacy-fernet'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'oui'
+gem 'rb-readline'
+gem 'httparty'
+gem 'terminal-table'

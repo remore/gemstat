@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'thor'
+gem 'json'
+gem 'mocha'
+gem 'json'
+gem 'thor'

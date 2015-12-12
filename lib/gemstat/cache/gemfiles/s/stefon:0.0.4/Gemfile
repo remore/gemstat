@@ -1,0 +1,5 @@
+gem 'gitlab-grit'
+gem 'trollop'
+gem 'fakefs'
+gem 'bundler'
+gem 'rake'

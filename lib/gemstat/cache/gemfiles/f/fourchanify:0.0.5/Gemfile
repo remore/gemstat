@@ -1,0 +1,6 @@
+gem 'fourchan-urler'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'

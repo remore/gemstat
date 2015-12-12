@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'faye'
+gem 'private_pub'
+gem 'thin'

@@ -1,0 +1,4 @@
+gem 'refinerycms-core'
+gem 'refinerycms-nested_models'
+gem 'draper'
+gem 'refinerycms-testing'

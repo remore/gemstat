@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'slop'
-gem 'daemons'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

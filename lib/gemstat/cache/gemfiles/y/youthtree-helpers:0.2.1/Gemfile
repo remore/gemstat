@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'formtastic'
+gem 'youthtree-js'
+gem 'youthtree-settings'

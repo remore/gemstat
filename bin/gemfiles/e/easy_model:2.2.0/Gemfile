@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'activerecord'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

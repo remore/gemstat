@@ -1,0 +1,6 @@
+gem 'callsite'
+gem 'parameters_extra'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'phocus'

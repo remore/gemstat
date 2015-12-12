@@ -1,0 +1,8 @@
+gem 'gir_ffi-gtk'
+gem 'gtk3assist'
+gem 'knjrbfw'
+gem 'html_gen'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

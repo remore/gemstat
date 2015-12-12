@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'seed-fu-ndo'
-gem 'sqlite3'
-gem 'open4'

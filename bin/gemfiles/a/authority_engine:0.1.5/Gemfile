@@ -1,4 +1,0 @@
-gem 'aihs_devise'
-gem 'aihs_devise_invitable'
-gem 'haml'
-gem 'formtastic'

@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'multi_json'
+gem 'websocket-td'
+gem 'bundler'

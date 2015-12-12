@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'json'
-gem 'hashie'
-gem 'event_emitter'
-gem 'socket.io-client-simple'

@@ -1,8 +1,0 @@
-gem 'atomic'
-gem 'nio4r'
-gem 'facter'
-gem 'thread_safe'
-gem 'timers'
-gem 'benchmark_suite'
-gem 'rake'
-gem 'minitest'

@@ -1,3 +1,0 @@
-gem 'redis'
-gem 'json_pure'
-gem 'siren'

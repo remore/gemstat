@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rocco'
+gem 'rr'
+gem 'turn'
+gem 'nokogiri'
+gem 'rubytree'

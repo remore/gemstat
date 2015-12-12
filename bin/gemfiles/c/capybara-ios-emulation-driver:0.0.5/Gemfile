@@ -1,4 +1,0 @@
-gem 'capybara'
-gem 'selenium-webdriver'
-gem 'bundler'
-gem 'rake'

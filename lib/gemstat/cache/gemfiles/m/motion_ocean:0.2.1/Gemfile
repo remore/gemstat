@@ -1,0 +1,4 @@
+gem 'dbt'
+gem 'rake'
+gem 'motion-redgreen'
+gem 'bacon-expect'

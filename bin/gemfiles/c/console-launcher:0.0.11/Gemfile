@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'xml-simple'
-gem 'highline'
-gem 'sfl'
-gem 'rake'
-gem 'rdoc'

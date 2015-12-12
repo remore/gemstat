@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'sqlite3'
+gem 'rails'
+gem 'bundler-audit'

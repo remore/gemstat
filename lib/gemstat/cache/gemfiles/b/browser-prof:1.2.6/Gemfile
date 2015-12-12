@@ -1,0 +1,4 @@
+gem 'ruby-prof'
+gem 'rake'
+gem 'rails'
+gem 'sqlite3'

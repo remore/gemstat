@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'json'
-gem 'addressable'
-gem 'ruby-hmac'

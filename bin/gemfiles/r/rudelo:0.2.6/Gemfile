@@ -1,5 +1,0 @@
-gem 'rufus-decision'
-gem 'parslet'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

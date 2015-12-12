@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'tzinfo'
-gem 'activemodel'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'minitest'
-gem 'mocha'
-gem 'pry'
-gem 'rake'

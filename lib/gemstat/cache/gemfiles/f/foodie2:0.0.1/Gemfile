@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'thor'
+gem 'cucumber'
+gem 'aruba'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

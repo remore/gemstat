@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'pi_piper'
-gem 'ws2801'

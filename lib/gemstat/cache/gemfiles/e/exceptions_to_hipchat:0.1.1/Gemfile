@@ -1,0 +1,2 @@
+gem 'hipchat'
+gem 'rspec'

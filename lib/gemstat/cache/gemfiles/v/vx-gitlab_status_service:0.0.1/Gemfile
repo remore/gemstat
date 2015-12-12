@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'shoulda-matchers'
+gem 'sqlite3'
+gem 'httparty'
+gem 'activerecord'
+gem 'protected_attributes'

@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thor'
-gem 'toml'
-gem 'activesupport'
-gem 'gyoku'
-gem 'deep_merge'

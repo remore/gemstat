@@ -1,8 +1,0 @@
-gem 'flog'
-gem 'flay'
-gem 'churn'
-gem 'parser'
-gem 'ruby2ruby'
-gem 'brakeman'
-gem 'rubocop'
-gem 'git'

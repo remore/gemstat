@@ -1,7 +1,0 @@
-gem 'minitest'
-gem 'mocha'
-gem 'autotest'
-gem 'rails'
-gem 'json'
-gem 'yard'
-gem 'maruku'

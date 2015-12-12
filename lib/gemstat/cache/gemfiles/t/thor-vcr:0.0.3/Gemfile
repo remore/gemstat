@@ -1,0 +1,5 @@
+gem 'vcr'
+gem 'multi_json'
+gem 'fakeweb'
+gem 'bundler'
+gem 'rake'

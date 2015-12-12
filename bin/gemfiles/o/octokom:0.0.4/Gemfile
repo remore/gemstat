@@ -1,5 +1,0 @@
-gem 'clamp'
-gem 'netrc'
-gem 'octokit'
-gem 'rake'
-gem 'rspec'

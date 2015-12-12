@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'ruby-hmac'
-gem 'exponential-backoff'

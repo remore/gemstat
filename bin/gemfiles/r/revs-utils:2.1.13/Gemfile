@@ -1,7 +1,0 @@
-gem 'countries'
-gem 'rdf'
-gem 'actionpack'
-gem 'chronic'
-gem 'rspec'
-gem 'lyberteam-gems-devel'
-gem 'yard'

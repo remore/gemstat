@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rdoc'
-gem 'fakeweb'
-gem 'mocha'
-gem 'net-http-persistent'
-gem 'nokogiri'

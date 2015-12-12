@@ -1,0 +1,5 @@
+gem 'jeweler'
+gem 'rspec'
+gem 'ruby-prof'
+gem 'simplecov'
+gem 'multi_json'

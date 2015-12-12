@@ -1,8 +1,0 @@
-gem 'execjs'
-gem 'ember-source'
-gem 'rake'
-gem 'handlebars-source'
-gem 'simplecov'
-gem 'mocha'
-gem 'appraisal'
-gem 'minitest'

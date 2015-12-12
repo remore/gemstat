@@ -1,0 +1,7 @@
+gem 'colorize'
+gem 'ruby_parser'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry'
+gem 'simplecov'

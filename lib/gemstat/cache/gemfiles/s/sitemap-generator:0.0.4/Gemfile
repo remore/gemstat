@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'clamp'
+gem 'json'
+gem 'log4r'
+gem 'nokogiri'

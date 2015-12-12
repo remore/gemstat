@@ -1,6 +1,0 @@
-gem 'hashie'
-gem 'rake'
-gem 'simplecov'
-gem 'rdoc'
-gem 'rspec'
-gem 'yard'

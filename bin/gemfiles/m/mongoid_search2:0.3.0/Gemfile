@@ -1,6 +1,0 @@
-gem 'mongoid'
-gem 'fast-stemmer'
-gem 'ruby-stemmer'
-gem 'database_cleaner'
-gem 'rake'
-gem 'rspec'

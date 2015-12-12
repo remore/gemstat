@@ -1,6 +1,0 @@
-gem 'require_all'
-gem 'multi_xml'
-gem 'rake'
-gem 'rspec'
-gem 'nokogiri'
-gem 'pry'

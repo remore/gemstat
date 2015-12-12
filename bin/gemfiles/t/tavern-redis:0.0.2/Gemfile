@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'redis-namespace'
-gem 'tavern'
-gem 'multi_json'

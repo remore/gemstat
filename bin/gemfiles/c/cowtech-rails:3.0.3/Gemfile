@@ -1,7 +1,0 @@
-gem 'actionmailer'
-gem 'actionpack'
-gem 'activerecord'
-gem 'bson_ext'
-gem 'cowtech-extensions'
-gem 'mongoid'
-gem 'rake'

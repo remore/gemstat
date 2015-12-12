@@ -1,3 +1,0 @@
-gem 'rspec-rails'
-gem 'bundler'
-gem 'rake'

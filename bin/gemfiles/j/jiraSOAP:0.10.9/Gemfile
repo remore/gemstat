@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'handsoap'
-gem 'yard'
-gem 'redcarpet'
-gem 'minitest'

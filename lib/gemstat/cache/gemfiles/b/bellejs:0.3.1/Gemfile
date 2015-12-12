@@ -1,0 +1,4 @@
+gem 'rbelly'
+gem 'uglifier'
+gem 'bundler'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'activerecord'
-gem 'test_declarative'
-gem 'capture_stdout'
-gem 'mocha'
-gem 'pg'

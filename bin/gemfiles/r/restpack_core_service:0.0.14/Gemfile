@@ -1,8 +1,0 @@
-gem 'restpack_service'
-gem 'bundler'
-gem 'database_cleaner'
-gem 'rake'
-gem 'rspec'
-gem 'bump'
-gem 'shoulda-matchers'
-gem 'factory_girl'

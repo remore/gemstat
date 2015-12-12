@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rake'
+gem 'minitest'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'forgery'

@@ -1,7 +1,0 @@
-gem 'chef'
-gem 'stove'
-gem 'bundler'
-gem 'thor'
-gem 'poise'
-gem 'poise-boiler'
-gem 'rspec-command'

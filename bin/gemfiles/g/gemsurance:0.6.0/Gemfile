@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'git'
-gem 'gems'
-gem 'mocha'
-gem 'rake'
-gem 'nokogiri'
-gem 'test-unit'

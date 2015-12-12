@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'mechanize'
-gem 'rspec'

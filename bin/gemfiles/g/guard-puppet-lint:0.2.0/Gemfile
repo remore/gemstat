@@ -1,4 +1,0 @@
-gem 'jeweler'
-gem 'rcov'
-gem 'libnotify'
-gem 'guard'

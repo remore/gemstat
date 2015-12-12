@@ -1,4 +1,0 @@
-gem 'actionmailer'
-gem 'rspec'
-gem 'jeweler'
-gem 'rcov'

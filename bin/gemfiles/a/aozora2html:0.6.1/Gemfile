@@ -1,7 +1,0 @@
-gem 'rubyzip'
-gem 'bundler'
-gem 'rake'
-gem 'test-unit'
-gem 'test-unit-rr'
-gem 'guard'
-gem 'guard-test'

@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rake-compiler'
+gem 'rake-compiler-dock'
+gem 'rspec'
+gem 'rubygems-tasks'

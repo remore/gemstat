@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rest-client'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'guard'

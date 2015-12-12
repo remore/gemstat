@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'json'
-gem 'httparty'
-gem 'httmultiparty'

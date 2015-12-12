@@ -1,5 +1,0 @@
-gem 'popen4'
-gem 'nori'
-gem 'nokogiri'
-gem 'mocha'
-gem 'rake'

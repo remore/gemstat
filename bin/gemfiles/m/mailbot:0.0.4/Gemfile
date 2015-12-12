@@ -1,7 +1,0 @@
-gem 'dotenv'
-gem 'slop'
-gem 'coderay'
-gem 'redcarpet'
-gem 'mailgun-ruby'
-gem 'bundler'
-gem 'rake'

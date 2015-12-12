@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'activesupport'
-gem 'actionpack'
-gem 'actionmailer'
-gem 'rake'
-gem 'rspec'
-gem 'shoulda'
-gem 'faker'

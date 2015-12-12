@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'haml-rails'
-gem 'bundler'
-gem 'simplecov'
-gem 'rspec-rails'
-gem 'sqlite3-ruby'
-gem 'capybara'
-gem 'jeweler'

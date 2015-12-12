@@ -1,0 +1,5 @@
+gem 'sidekiq'
+gem 'proby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

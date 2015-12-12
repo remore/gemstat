@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'minitest'
+gem 'rdoc'
+gem 'isolate'
+gem 'hoe-git'
+gem 'hoe'

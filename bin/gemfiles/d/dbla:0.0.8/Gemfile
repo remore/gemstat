@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'blacklight'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'mocha'

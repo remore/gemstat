@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'RedCloth'
+gem 'gmail'
+gem 'extlib'
+gem 'jeweler'
+gem 'rspec'

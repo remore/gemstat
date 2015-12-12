@@ -1,4 +1,0 @@
-gem 'methadone'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

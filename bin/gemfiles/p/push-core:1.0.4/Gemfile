@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'multi_json'
-gem 'sqlite3'

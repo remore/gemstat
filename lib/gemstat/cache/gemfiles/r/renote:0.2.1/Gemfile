@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'rspec'
+gem 'require_all'
+gem 'state_machine'
+gem 'thor'

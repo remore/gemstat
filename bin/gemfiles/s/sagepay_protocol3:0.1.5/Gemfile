@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'rspec-rails'
-gem 'pry'
-gem 'mocha'
-gem 'yard'
-gem 'redcarpet'

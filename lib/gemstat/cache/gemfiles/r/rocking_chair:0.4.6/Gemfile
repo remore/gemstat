@@ -1,0 +1,7 @@
+gem 'uuidtools'
+gem 'simply_stored'
+gem 'couch_potato'
+gem 'jeweler'
+gem 'simply_stored'
+gem 'rest-client'
+gem 'couchrest'

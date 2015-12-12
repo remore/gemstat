@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'mocha'
-gem 'shoulda'

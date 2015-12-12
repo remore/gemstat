@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'nokogiri'
-gem 'ffi-xattr'
-gem 'rspec'
-gem 'rake'

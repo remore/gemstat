@@ -1,7 +1,0 @@
-gem 'simple-rss'
-gem 'json'
-gem 'fakeweb'
-gem 'crack'
-gem 'moneta'
-gem 'rest-client'
-gem 'nokogiri'

@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'yajl-ruby'
-gem 'rdoc'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

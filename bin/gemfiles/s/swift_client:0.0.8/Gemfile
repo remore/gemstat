@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'mime-types'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'webmock'

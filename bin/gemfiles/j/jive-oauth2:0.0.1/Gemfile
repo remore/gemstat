@@ -1,4 +1,0 @@
-gem 'cgi-query_string'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

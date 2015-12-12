@@ -1,7 +1,0 @@
-gem 'ruby_do'
-gem 'knjrbfw'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

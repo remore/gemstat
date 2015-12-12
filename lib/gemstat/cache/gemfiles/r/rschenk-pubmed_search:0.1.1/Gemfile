@@ -1,0 +1,2 @@
+gem 'rschenk-simple_uri_template'
+gem 'libxml-ruby'

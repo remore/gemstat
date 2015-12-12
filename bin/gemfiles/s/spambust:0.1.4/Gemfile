@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'rake'
-gem 'rdoc'
-gem 'minitest'
-gem 'rack-test'
-gem 'simplecov'

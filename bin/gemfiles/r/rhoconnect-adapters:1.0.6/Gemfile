@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rhoconnect'
-gem 'activesupport'
-gem 'i18n'
-gem 'rake'
-gem 'nokogiri'
-gem 'templater'

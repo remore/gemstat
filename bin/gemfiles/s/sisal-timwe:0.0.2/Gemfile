@@ -1,4 +1,0 @@
-gem 'sisal'
-gem 'rest-client'
-gem 'rspec'
-gem 'webmock'

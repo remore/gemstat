@@ -1,6 +1,0 @@
-gem 'miasma-open-stack'
-gem 'pry'
-gem 'minitest'
-gem 'vcr'
-gem 'webmock'
-gem 'psych'

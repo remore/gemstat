@@ -1,8 +1,0 @@
-gem 'pry'
-gem 'pry-doc'
-gem 'pry-remote'
-gem 'pry-byebug'
-gem 'hirb'
-gem 'pry-coolline'
-gem 'awesome_print'
-gem 'rubocop'

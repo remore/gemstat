@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'curb'
+gem 'activesupport'
+gem 'nokogiri'
+gem 'actionpack'

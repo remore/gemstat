@@ -1,8 +1,0 @@
-gem 'string-cases'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'hayabusa'
-gem 'sqlite3'
-gem 'codeclimate-test-reporter'

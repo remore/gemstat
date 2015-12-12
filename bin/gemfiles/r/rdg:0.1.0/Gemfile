@@ -1,8 +1,0 @@
-gem 'parser'
-gem 'rgl'
-gem 'require_all'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'codeclimate-test-reporter'
-gem 'rubocop'

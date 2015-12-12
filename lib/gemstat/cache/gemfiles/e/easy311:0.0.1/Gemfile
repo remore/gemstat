@@ -1,0 +1,2 @@
+gem 'active_attr'
+gem 'rest-client'

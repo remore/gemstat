@@ -1,0 +1,6 @@
+gem 'railties'
+gem 'activemodel'
+gem 'coffee-rails'
+gem 'sprockets-rails'
+gem 'actionmailer'
+gem 'activerecord'

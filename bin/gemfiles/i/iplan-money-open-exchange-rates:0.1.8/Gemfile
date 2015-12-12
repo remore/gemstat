@@ -1,6 +1,0 @@
-gem 'money'
-gem 'minitest'
-gem 'pry'
-gem 'rr'
-gem 'rake'
-gem 'json'

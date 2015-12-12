@@ -1,5 +1,0 @@
-gem 'alchemy_cms'
-gem 'redcarpet'
-gem 'github-markdown'
-gem 'bundler'
-gem 'rspec-rails'

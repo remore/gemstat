@@ -1,0 +1,4 @@
+gem 'heroku'
+gem 'multipart-post'
+gem 'rest-client'
+gem 'thor'

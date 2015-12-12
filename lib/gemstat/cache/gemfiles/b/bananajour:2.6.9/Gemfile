@@ -1,0 +1,8 @@
+gem 'sinatra'
+gem 'json'
+gem 'rainbow'
+gem 'grit'
+gem 'dnssd'
+gem 'haml'
+gem 'activesupport'
+gem 'thin'

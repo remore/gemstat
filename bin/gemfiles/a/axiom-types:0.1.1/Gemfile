@@ -1,4 +1,0 @@
-gem 'descendants_tracker'
-gem 'ice_nine'
-gem 'thread_safe'
-gem 'bundler'

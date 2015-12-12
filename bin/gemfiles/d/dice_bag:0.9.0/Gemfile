@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'aruba'
-gem 'rspec'
-gem 'bundler'

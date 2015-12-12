@@ -1,0 +1,2 @@
+gem 'redis'
+gem 'hiredis'

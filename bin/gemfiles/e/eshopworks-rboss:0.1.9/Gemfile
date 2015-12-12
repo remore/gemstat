@@ -1,4 +1,0 @@
-gem 'json_pure'
-gem 'rspec'
-gem 'diff-lcs'
-gem 'hoe'

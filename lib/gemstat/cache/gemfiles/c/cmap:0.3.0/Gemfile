@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pg'
+gem 'pry'
+gem 'directed_graph'

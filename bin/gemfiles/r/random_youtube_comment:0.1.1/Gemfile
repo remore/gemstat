@@ -1,6 +1,0 @@
-gem 'youtube_it'
-gem 'wordnik'
-gem 'json'
-gem 'rspec'
-gem 'jeweler'
-gem 'bundler'

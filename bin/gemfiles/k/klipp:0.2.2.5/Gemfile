@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'ptools'
-gem 'formatador'
-gem 'colorize'
-gem 'grit'
-gem 'highline'
-gem 'zaru'

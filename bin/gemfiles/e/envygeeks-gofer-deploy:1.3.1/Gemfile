@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'envygeeks-coveralls'
-gem 'envygeeks-gofer'

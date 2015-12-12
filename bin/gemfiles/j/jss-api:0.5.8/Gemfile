@@ -1,4 +1,0 @@
-gem 'plist'
-gem 'ruby-mysql'
-gem 'rest-client'
-gem 'net-ldap'

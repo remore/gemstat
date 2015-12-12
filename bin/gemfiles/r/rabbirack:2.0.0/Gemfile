@@ -1,6 +1,0 @@
-gem 'rabbit'
-gem 'sinatra'
-gem 'haml'
-gem 'locale'
-gem 'rake'
-gem 'bundler'

@@ -1,7 +1,0 @@
-gem 'celluloid'
-gem 'celluloid-io'
-gem 'http'
-gem 'http_parser.rb'
-gem 'websocket_parser'
-gem 'rake'
-gem 'rspec'

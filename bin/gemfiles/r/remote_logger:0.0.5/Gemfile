@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'log4r'
-gem 'RingyDingy'

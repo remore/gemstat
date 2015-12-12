@@ -1,4 +1,0 @@
-gem 'hpricot'
-gem 'tzinfo'
-gem 'builder'
-gem 'activesupport'

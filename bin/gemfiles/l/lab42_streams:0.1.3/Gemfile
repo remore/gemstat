@@ -1,8 +1,0 @@
-gem 'forwarder2'
-gem 'lab42_core'
-gem 'pry'
-gem 'pry-nav'
-gem 'rspec'
-gem 'qed'
-gem 'ae'
-gem 'byebug'

@@ -1,0 +1,4 @@
+gem 'activeresource'
+gem 'rspec'
+gem 'ruby-debug19'
+gem 'configuration'

@@ -1,8 +1,0 @@
-gem 'factory_girl'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'
-gem 'debugger'
-gem 'simplecov'
-gem 'sqlite3'
-gem 'activerecord'

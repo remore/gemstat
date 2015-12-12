@@ -1,3 +1,0 @@
-gem 'statsd-ruby'
-gem 'simplecov'
-gem 'rake'

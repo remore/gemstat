@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'rmagick'
+gem 'rspec-rails'
+gem 'capybara'

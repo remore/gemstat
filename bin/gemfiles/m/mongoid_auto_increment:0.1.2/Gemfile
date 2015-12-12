@@ -1,8 +1,0 @@
-gem 'mongoid'
-gem 'bundler'
-gem 'jeweler'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'
-gem 'simplecov'
-gem 'database_cleaner'

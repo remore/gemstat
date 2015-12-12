@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'fakeweb'
-gem 'jeweler'
-gem 'rspec'

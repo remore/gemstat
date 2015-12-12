@@ -1,5 +1,0 @@
-gem 'grape'
-gem 'grape-jbuilder'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

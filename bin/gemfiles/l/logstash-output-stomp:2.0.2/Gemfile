@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'onstomp'
-gem 'logstash-devutils'

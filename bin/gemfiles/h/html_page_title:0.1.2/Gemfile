@@ -1,4 +1,0 @@
-gem 'redirect_follower'
-gem 'hpricot'
-gem 'htmlentities'
-gem 'shoulda'

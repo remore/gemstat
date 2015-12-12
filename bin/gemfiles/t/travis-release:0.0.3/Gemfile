@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rubocop'
-gem 'codeclimate-test-reporter'
-gem 'yard'
-gem 'rake'
-gem 'bundler'

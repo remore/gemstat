@@ -1,8 +1,0 @@
-gem 'octokit'
-gem 'octoauth'
-gem 'faraday-http-cache'
-gem 'rubocop'
-gem 'rake'
-gem 'coveralls'
-gem 'rspec'
-gem 'fuubar'

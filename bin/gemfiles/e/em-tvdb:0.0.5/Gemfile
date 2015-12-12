@@ -1,5 +1,0 @@
-gem 'rest-core'
-gem 'nokogiri'
-gem 'em-http-request'
-gem 'hashie'
-gem 'eventmachine'

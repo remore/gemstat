@@ -1,4 +1,0 @@
-gem 'view_model'
-gem 'rails'
-gem 'bundler'
-gem 'rake'

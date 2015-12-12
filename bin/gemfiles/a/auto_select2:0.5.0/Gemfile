@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'select2-rails'
-gem 'coffee-rails'
-gem 'bundler'
-gem 'rake'
-gem 'rails'

@@ -1,4 +1,0 @@
-gem 'ZenTest'
-gem 'minitest'
-gem 'rdoc'
-gem 'hoe'

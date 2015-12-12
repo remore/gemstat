@@ -1,5 +1,0 @@
-gem 'multi_json'
-gem 'rake'
-gem 'jeweler'
-gem 'pry'
-gem 'pry-debugger'

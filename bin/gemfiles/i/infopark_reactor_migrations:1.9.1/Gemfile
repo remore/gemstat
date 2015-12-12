@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'term-ansicolor'
-gem 'nokogiri'
-gem 'rspec'

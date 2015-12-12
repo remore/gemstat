@@ -1,6 +1,0 @@
-gem 'yard'
-gem 'tomparse'
-gem 'detroit'
-gem 'dotopts'
-gem 'spectroscope'
-gem 'ae'

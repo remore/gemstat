@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'sqlite3-ruby'
+gem 'bson_ext'
+gem 'rspec'
+gem 'yard'
+gem 'timecop'
+gem 'fuubar'

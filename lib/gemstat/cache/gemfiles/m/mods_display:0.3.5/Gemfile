@@ -1,0 +1,5 @@
+gem 'stanford-mods'
+gem 'i18n'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

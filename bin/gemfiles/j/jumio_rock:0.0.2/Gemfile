@@ -1,5 +1,0 @@
-gem 'excon'
-gem 'minitest'
-gem 'rake'
-gem 'chunky_png'
-gem 'webmock'

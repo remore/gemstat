@@ -1,6 +1,0 @@
-gem 'json'
-gem 'webmock'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'webmock'

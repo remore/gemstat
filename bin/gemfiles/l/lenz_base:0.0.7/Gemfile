@@ -1,5 +1,0 @@
-gem 'json'
-gem 'bunny'
-gem 'mysql2'
-gem 'logger'
-gem 'cassandra-driver'

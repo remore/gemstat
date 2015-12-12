@@ -1,8 +1,0 @@
-gem 'virtus'
-gem 'activemodel'
-gem 'activesupport'
-gem 'rspec'
-gem 'factory_girl'
-gem 'fuubar'
-gem 'activemodel'
-gem 'rake'

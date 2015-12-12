@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'openam_auth'
-gem 'railties'

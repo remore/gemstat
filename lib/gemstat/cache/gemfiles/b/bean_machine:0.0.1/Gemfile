@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'yard'
+gem 'cucumber'
+gem 'machinist'
+gem 'faker'
+gem 'money'
+gem 'activerecord'
+gem 'activemerchant'

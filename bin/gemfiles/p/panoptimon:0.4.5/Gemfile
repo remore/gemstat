@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'daemons'
-gem 'json'
-gem 'thin'
-gem 'riemann-client'

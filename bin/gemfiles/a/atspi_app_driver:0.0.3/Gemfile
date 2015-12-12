@@ -1,3 +1,0 @@
-gem 'gir_ffi'
-gem 'bundler'
-gem 'rake'

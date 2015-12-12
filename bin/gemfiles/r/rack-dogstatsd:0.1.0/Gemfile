@@ -1,3 +1,0 @@
-gem 'dogstatsd-ruby'
-gem 'bundler'
-gem 'rake'

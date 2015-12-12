@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'factory_girl'
-gem 'log_buddy'
-gem 'actionpack'
-gem 'httparty'
-gem 'oauth2'

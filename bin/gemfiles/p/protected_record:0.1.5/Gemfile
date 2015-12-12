@@ -1,6 +1,0 @@
-gem 'pay_dirt'
-gem 'activerecord'
-gem 'coveralls'
-gem 'minitest'
-gem 'rake'
-gem 'pry'

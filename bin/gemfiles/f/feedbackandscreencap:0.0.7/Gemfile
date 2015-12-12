@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rails'
-gem 'rspec-rails'
-gem 'simplecov'
-gem 'shoulda-matchers'
-gem 'sqlite3'

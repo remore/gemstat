@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thor'
-gem 'awscli'
-gem 'rest_client'

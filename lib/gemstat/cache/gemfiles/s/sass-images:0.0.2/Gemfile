@@ -1,0 +1,6 @@
+gem 'sass'
+gem 'mini_magick'
+gem 'mime-types'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

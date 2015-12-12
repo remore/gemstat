@@ -1,4 +1,0 @@
-gem 'json'
-gem 'retryable'
-gem 'rake'
-gem 'rspec'

@@ -1,3 +1,0 @@
-gem 'test-unit'
-gem 'log4r'
-gem 'shoulda'

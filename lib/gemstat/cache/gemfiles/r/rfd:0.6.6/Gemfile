@@ -1,0 +1,5 @@
+gem 'curses'
+gem 'rubyzip'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

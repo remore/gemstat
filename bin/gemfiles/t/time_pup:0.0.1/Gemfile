@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'debugger'
-gem 'activesupport'
-gem 'tzinfo'

@@ -1,0 +1,6 @@
+gem 'rspec'
+gem 'watir-webdriver'
+gem 'selenium-webdriver'
+gem 'debugger'
+gem 'yard'
+gem 'yard-tomdoc'

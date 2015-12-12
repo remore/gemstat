@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'facets'
-gem 'bundler'
-gem 'rake'

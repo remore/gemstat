@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'artifice'
-gem 'fakefs'
-gem 'haml'
-gem 'less'
-gem 'rest-client'
-gem 'rcov'
-gem 'rspec'

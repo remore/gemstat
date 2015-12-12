@@ -1,5 +1,0 @@
-gem 'hpricot'
-gem 'rubyzip'
-gem 'optiflag'
-gem 'simple-rss'
-gem 'mechanize'

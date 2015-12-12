@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'generator_spec'

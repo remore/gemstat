@@ -1,0 +1,8 @@
+gem 'openshift-origin-controller'
+gem 'json'
+gem 'systemu'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'mocha'
+gem 'stomp'

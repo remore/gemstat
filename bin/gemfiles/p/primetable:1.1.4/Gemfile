@@ -1,6 +1,0 @@
-gem 'therubyracer'
-gem 'formatador'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

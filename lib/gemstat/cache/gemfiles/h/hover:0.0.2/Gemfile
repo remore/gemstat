@@ -1,0 +1,4 @@
+gem 'rest-client'
+gem 'json'
+gem 'bundler'
+gem 'rake'

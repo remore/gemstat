@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'kaminari'
-gem 'jbuilder'
-gem 'coffee-rails'
-gem 'pg'

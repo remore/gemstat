@@ -1,3 +1,0 @@
-gem 'simplecov-rcov'
-gem 'bundler'
-gem 'rake'

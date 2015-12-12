@@ -1,6 +1,0 @@
-gem 'deep_thought'
-gem 'httparty'
-gem 'minitest'
-gem 'mocha'
-gem 'database_cleaner'
-gem 'turn'

@@ -1,4 +1,0 @@
-gem 'rmagick'
-gem 'rack'
-gem 'image_optimizer'
-gem 'configurations'

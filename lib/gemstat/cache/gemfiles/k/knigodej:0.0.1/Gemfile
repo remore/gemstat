@@ -1,0 +1,6 @@
+gem 'micro-optparse'
+gem 'mini_magick'
+gem 'prawn'
+gem 'rdoba'
+gem 'bundler'
+gem 'rake'

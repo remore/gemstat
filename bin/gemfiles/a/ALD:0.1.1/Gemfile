@@ -1,8 +1,0 @@
-gem 'rubyzip'
-gem 'nokogiri'
-gem 'net-http-digest_auth'
-gem 'semantic'
-gem 'rake'
-gem 'coveralls'
-gem 'rdoc'
-gem 'webmock'

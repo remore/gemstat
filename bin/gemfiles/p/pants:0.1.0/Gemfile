@@ -1,7 +1,0 @@
-gem 'eventmachine'
-gem 'log_switch'
-gem 'thor'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'yard'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'jwt'
+gem 'bundler'
+gem 'rake'
+gem 'sqlite3'
+gem 'rspec'
+gem 'rspec-rails'

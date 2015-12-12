@@ -1,0 +1,6 @@
+gem 'disque'
+gem 'logging'
+gem 'thor'
+gem 'rspec'
+gem 'rake'
+gem 'pry'

@@ -1,4 +1,0 @@
-gem 'rack-client'
-gem 'json'
-gem 'rack-idempotent'
-gem 'rspec'

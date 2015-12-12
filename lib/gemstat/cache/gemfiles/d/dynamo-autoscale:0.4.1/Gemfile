@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'rbtree'
+gem 'ruby-prof'
+gem 'colored'
+gem 'activesupport'
+gem 'pony'

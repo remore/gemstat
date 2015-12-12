@@ -1,7 +1,0 @@
-gem 'tzinfo'
-gem 'tzinfo-data'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'rubocop'

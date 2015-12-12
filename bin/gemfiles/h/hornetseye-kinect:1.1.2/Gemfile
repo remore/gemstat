@@ -1,4 +1,0 @@
-gem 'malloc'
-gem 'multiarray'
-gem 'hornetseye-frame'
-gem 'rake'

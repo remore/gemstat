@@ -1,4 +1,0 @@
-gem 'CFPropertyList'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

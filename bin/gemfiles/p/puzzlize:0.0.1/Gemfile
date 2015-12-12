@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'supermodel'
-gem 'paperclip'
-gem 'rmagick'

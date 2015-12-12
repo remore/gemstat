@@ -1,4 +1,0 @@
-gem 'simplecov'
-gem 'bundler'
-gem 'mocha'
-gem 'rake'

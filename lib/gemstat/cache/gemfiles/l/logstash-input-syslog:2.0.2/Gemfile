@@ -1,0 +1,8 @@
+gem 'logstash-core'
+gem 'concurrent-ruby'
+gem 'thread_safe'
+gem 'stud'
+gem 'logstash-codec-plain'
+gem 'logstash-filter-grok'
+gem 'logstash-filter-date'
+gem 'logstash-devutils'

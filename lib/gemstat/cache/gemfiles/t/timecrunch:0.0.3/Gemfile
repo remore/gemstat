@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'terminal-notifier'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

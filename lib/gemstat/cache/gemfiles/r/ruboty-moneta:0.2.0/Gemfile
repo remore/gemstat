@@ -1,0 +1,5 @@
+gem 'ruboty'
+gem 'moneta'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

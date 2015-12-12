@@ -1,0 +1,4 @@
+gem 'redis-mutex'
+gem 'redis-namespace'
+gem 'bundler'
+gem 'rake'

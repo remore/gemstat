@@ -1,6 +1,0 @@
-gem 'omniauth'
-gem 'maruku'
-gem 'simplecov'
-gem 'rack-test'
-gem 'rake'
-gem 'rspec'

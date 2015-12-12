@@ -1,5 +1,0 @@
-gem 'aws_config'
-gem 'aws-sdk'
-gem 'slop'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rest-client'
-gem 'savon'
-gem 'activemerchant'

@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'json'
+gem 'bundler'
+gem 'rake'
+gem 'shoulda'
+gem 'rspec'

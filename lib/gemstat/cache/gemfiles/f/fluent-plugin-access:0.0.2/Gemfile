@@ -1,0 +1,4 @@
+gem 'fluentd'
+gem 'mongoid'
+gem 'msgpack'
+gem 'nokogiri'

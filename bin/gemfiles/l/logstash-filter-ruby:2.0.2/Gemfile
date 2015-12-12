@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-filter-date'
-gem 'logstash-devutils'

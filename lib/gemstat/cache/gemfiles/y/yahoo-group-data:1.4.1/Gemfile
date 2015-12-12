@@ -1,0 +1,5 @@
+gem 'nokogiri'
+gem 'yajl-ruby'
+gem 'curb'
+gem 'webmock'
+gem 'simplecov'

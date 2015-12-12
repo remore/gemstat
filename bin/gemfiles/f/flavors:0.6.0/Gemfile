@@ -1,8 +1,0 @@
-gem 'railties'
-gem 'activesupport'
-gem 'activerecord'
-gem 'rspec'
-gem 'rake'
-gem 'shoulda-matchers'
-gem 'sqlite3'
-gem 'coveralls'

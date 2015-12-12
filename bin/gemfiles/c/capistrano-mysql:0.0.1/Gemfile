@@ -1,8 +1,0 @@
-gem 'capistrano'
-gem 'capistrano_colors'
-gem 'capistrano-ext'
-gem 'railsless-deploy'
-gem 'ruby-progressbar'
-gem 'railsless-deploy'
-gem 'bundler'
-gem 'rake'

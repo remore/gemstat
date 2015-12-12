@@ -1,0 +1,4 @@
+gem 'aws-sdk-core'
+gem 'rack'
+gem 'bundler'
+gem 'rake'

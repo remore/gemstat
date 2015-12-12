@@ -1,5 +1,0 @@
-gem 'ruby_gpg'
-gem 'rspec'
-gem 'mocha'
-gem 'yard'
-gem 'cucumber'

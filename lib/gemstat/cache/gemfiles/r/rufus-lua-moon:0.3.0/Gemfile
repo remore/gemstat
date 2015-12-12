@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'rufus-lua-win'
+gem 'rufus-lua'

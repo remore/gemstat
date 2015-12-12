@@ -1,4 +1,0 @@
-gem 'libxml-ruby'
-gem 'term-ansicolor'
-gem 'zucker'
-gem 'bones'

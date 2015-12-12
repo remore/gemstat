@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'appraisal'
-gem 'aruba'
-gem 'bundler'
-gem 'rails'
-gem 'rake'
-gem 'rspec-rails'

@@ -1,7 +1,0 @@
-gem 'fakeweb'
-gem 'json'
-gem 'rspec'
-gem 'rake'
-gem 'shopify_api'
-gem 'activesupport'
-gem 'libxml-ruby'

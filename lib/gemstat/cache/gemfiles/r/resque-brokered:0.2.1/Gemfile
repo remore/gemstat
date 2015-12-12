@@ -1,0 +1,5 @@
+gem 'resque'
+gem 'redis'
+gem 'rake'
+gem 'rspec'
+gem 'yajl-ruby'

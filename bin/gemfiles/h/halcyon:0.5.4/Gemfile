@@ -1,5 +1,0 @@
-gem 'merb-core'
-gem 'rack'
-gem 'extlib'
-gem 'json_pure'
-gem 'rubigen'

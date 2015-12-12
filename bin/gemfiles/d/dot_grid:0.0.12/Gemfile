@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rspec-collection_matchers'
-gem 'rake'
-gem 'coveralls'
-gem 'prawn'
-gem 'trollop'

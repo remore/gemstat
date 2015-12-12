@@ -1,4 +1,0 @@
-gem 'padrino-core'
-gem 'bundler'
-gem 'padrino-helpers'
-gem 'padrino-mailer'

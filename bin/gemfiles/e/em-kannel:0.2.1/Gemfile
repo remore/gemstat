@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'em-http-request'
-gem 'activemodel'
-gem 'rspec'
-gem 'webmock'

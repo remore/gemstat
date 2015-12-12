@@ -1,4 +1,0 @@
-gem 'coffee-script'
-gem 'tilt'
-gem 'sprockets'
-gem 'bundler'

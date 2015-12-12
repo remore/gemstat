@@ -1,8 +1,0 @@
-gem 'stripe'
-gem 'aptible-resource'
-gem 'bundler'
-gem 'aptible-tasks'
-gem 'simplecov'
-gem 'rake'
-gem 'rspec-its'
-gem 'rspec'

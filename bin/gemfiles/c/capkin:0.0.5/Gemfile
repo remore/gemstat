@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'paint'
-gem 'ruby_apk'
-gem 'google-api-client'
-gem 'googleauth'

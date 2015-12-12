@@ -1,4 +1,0 @@
-gem 'opn'
-gem 'colour_aid'
-gem 'save_file'
-gem 'try_syck'

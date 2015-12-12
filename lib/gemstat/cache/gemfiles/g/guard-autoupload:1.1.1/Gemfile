@@ -1,0 +1,5 @@
+gem 'guard'
+gem 'net-sftp'
+gem 'net-ssh-simple'
+gem 'bundler'
+gem 'rake'

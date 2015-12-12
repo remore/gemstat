@@ -1,0 +1,2 @@
+gem 'hammer_cli'
+gem 'pry'

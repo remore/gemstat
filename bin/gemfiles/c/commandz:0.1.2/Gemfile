@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'jasmine'
-gem 'uglifier'
-gem 'sprockets'
-gem 'jasmine-headless-webkit'
-gem 'guard-jasmine-headless-webkit'

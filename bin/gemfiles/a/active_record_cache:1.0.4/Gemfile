@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'sort_by_field'
-gem 'rspec'
-gem 'sqlite3'
-gem 'bundler'
-gem 'rake'

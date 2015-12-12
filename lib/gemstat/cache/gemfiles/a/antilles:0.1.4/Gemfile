@@ -1,0 +1,7 @@
+gem 'json'
+gem 'bundler'
+gem 'mimic'
+gem 'httparty'
+gem 'daemons'
+gem 'rspec'
+gem 'rake'

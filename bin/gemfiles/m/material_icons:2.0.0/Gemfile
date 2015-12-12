@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'rails'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'coveralls'

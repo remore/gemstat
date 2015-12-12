@@ -1,0 +1,4 @@
+gem 'json-rpc-objects'
+gem 'bson'
+gem 'bundler'
+gem 'jeweler'

@@ -1,4 +1,0 @@
-gem 'json'
-gem 'activesupport'
-gem 'rspec'
-gem 'bundler'

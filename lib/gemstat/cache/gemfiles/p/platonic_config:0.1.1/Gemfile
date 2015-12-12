@@ -1,0 +1,2 @@
+gem 'simplecov'
+gem 'rspec'

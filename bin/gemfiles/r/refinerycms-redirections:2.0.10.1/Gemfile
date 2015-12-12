@@ -1,5 +1,0 @@
-gem 'refinerycms-core'
-gem 'refinerycms-i18n'
-gem 'rack-rewrite'
-gem 'enumerize'
-gem 'refinerycms-testing'

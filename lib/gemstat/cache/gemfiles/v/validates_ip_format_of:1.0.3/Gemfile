@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'faker'
+gem 'guard-rspec'
+gem 'rb-fsevent'
+gem 'terminal-notifier-guard'
+gem 'appraisal'

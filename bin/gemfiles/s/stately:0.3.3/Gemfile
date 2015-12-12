@@ -1,5 +1,0 @@
-gem 'pry'
-gem 'redcarpet'
-gem 'rspec'
-gem 'yard'
-gem 'rdoc'

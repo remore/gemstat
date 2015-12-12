@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'builder'
-gem 'xmlparser'
-gem 'facets'

@@ -1,6 +1,0 @@
-gem 'hoe-mercurial'
-gem 'hoe-highline'
-gem 'tidy-ext'
-gem 'rake-compiler'
-gem 'rspec'
-gem 'hoe'

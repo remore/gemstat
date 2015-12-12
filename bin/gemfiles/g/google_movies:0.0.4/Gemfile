@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'nokogiri'
-gem 'vcr'
-gem 'webmock'

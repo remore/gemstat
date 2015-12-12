@@ -1,8 +1,0 @@
-gem 'sass'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitap'
-gem 'tapout'
-gem 'term-ansicolor'
-gem 'colorize'

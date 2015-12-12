@@ -1,3 +1,0 @@
-gem 'database_rewinder'
-gem 'minitest-reporters'
-gem 'minitest-around'

@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'hiredis'
-gem 'eventmachine'
-gem 'eventmachine_httpserver'
-gem 'rspec'
-gem 'timecop'
-gem 'statsd-ruby'

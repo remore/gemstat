@@ -1,3 +1,0 @@
-gem 'help_parser'
-gem 'test-unit'
-gem 'symmetric_gpg'

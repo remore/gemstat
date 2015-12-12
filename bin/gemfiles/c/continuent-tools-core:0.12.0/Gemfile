@@ -1,7 +1,0 @@
-gem 'json_pure'
-gem 'net-ssh'
-gem 'net-scp'
-gem 'xhr-ifconfig'
-gem 'escape'
-gem 'zip'
-gem 'open4'

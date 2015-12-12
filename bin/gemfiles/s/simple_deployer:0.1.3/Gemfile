@@ -1,5 +1,0 @@
-gem 'aws'
-gem 'zip'
-gem 'appoxy_rails'
-gem 'simple_record'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'json'
-gem 'pygments.rb'
-gem 'active_support'
-gem 'slop'
-gem 'rspec'

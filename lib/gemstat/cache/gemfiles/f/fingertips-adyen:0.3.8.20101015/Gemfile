@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'git'
+gem 'gemcutter'
+gem 'activerecord'
+gem 'nokogiri'

@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bones'
+gem 'bones-rspec'
+gem 'rake'
+gem 'rspec'
+gem 'bones'

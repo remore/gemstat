@@ -1,4 +1,0 @@
-gem 'stashboard-ruby'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

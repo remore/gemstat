@@ -1,5 +1,0 @@
-gem 'daemons'
-gem 'thor'
-gem 'bitbucket_rest_api'
-gem 'bundler'
-gem 'rake'

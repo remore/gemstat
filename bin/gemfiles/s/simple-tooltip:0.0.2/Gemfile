@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'rdiscount'
-gem 'RedCloth'
-gem 'thor'
-gem 'bundler'

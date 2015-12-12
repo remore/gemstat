@@ -1,3 +1,0 @@
-gem 'jar_wrapper'
-gem 'gemspec_deps_gen'
-gem 'gemcutter'

@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'sinatra'
+gem 'rake'
+gem 'rubygems-tasks'
+gem 'rspec'
+gem 'rack-test'
+gem 'yard'

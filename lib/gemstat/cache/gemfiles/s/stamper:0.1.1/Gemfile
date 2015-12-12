@@ -1,0 +1,5 @@
+gem 'colorize'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'pry'

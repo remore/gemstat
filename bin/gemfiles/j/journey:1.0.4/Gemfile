@@ -1,6 +1,0 @@
-gem 'minitest'
-gem 'racc'
-gem 'rdoc'
-gem 'json'
-gem 'rdoc'
-gem 'hoe'

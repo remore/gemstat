@@ -1,4 +1,0 @@
-gem 'mongoid'
-gem 'database_cleaner'
-gem 'rake'
-gem 'rspec'

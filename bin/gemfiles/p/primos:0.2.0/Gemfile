@@ -1,7 +1,0 @@
-gem 'cucumber'
-gem 'shoulda-matchers'
-gem 'rspec-expectations'
-gem 'aruba'
-gem 'yard'
-gem 'bundler'
-gem 'rake'

@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'log4r'
-gem 'sqlite3'

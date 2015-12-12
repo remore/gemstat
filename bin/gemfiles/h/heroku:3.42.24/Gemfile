@@ -1,8 +1,0 @@
-gem 'heroku-api'
-gem 'launchy'
-gem 'netrc'
-gem 'rest-client'
-gem 'rubyzip'
-gem 'multi_json'
-gem 'net-ssh-gateway'
-gem 'net-ssh'

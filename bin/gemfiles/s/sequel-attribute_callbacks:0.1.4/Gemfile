@@ -1,4 +1,0 @@
-gem 'sequel'
-gem 'rake'
-gem 'rspec'
-gem 'pg'

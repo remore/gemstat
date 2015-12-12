@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'cucumber'
+gem 'rest-client'
+gem 'launchy'
+gem 'syntax'
+gem 'rake'
+gem 'jeweler'

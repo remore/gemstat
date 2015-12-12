@@ -1,5 +1,0 @@
-gem 'guard'
-gem 'gimli'
-gem 'bundler'
-gem 'rspec'
-gem 'rr'

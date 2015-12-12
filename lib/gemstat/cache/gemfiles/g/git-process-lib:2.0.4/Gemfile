@@ -1,0 +1,8 @@
+gem 'octokit'
+gem 'json'
+gem 'multi_json'
+gem 'trollop'
+gem 'highline'
+gem 'addressable'
+gem 'gem-man'
+gem 'faraday'

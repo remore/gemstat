@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'guard-motion'
-gem 'rm-digest'

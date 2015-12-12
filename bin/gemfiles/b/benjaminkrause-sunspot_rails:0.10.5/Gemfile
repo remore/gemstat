@@ -1,6 +1,0 @@
-gem 'escape'
-gem 'outoftime-sunspot'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'ruby-debug'
-gem 'technicalpickles-jeweler'

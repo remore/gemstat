@@ -1,5 +1,0 @@
-gem 'posix-spawn'
-gem 'multi_json'
-gem 'casperjs'
-gem 'rake'
-gem 'rspec'

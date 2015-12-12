@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'couchrest'
+gem 'fakeweb'
+gem 'factory_girl_rails'
+gem 'mocha'

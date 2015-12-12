@@ -1,7 +1,0 @@
-gem 'semverse'
-gem 'berkshelf'
-gem 'ridley'
-gem 'ridley-connectors'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

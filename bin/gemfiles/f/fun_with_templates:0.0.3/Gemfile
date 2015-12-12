@@ -1,8 +1,0 @@
-gem 'fun_with_gems'
-gem 'fun_with_string_colors'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'debugger'
-gem 'fun_with_testing'

@@ -1,8 +1,0 @@
-gem 'addressable'
-gem 'rails'
-gem 'responders'
-gem 'sqlite3'
-gem 'bcrypt'
-gem 'scrypt'
-gem 'minitest'
-gem 'capybara'

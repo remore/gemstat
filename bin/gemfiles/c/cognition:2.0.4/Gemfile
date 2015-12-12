@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'tilt'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'webmock'
-gem 'haml'

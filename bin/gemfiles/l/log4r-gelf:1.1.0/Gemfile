@@ -1,4 +1,0 @@
-gem 'log4r'
-gem 'gelf'
-gem 'rake'
-gem 'rspec'

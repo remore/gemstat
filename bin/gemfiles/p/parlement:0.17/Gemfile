@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'gettext'
-gem 'RedCloth'
-gem 'ruby-debug'
-gem 'term-ansicolor'

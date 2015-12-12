@@ -1,0 +1,6 @@
+gem 'execjs'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

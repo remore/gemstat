@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'net-ssh'
-gem 'quickl'

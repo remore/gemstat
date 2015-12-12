@@ -1,0 +1,5 @@
+gem 'loyal_core'
+gem 'loyal_admin'
+gem 'loyal_passport'
+gem 'rails'
+gem 'sqlite3'

@@ -1,5 +1,0 @@
-gem 'object_proxy'
-gem 'rake'
-gem 'jeweler'
-gem 'object_proxy'
-gem 'active_record'

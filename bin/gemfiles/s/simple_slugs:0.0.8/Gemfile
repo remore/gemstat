@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'i18n'
-gem 'test_declarative'
-gem 'database_cleaner'
-gem 'sqlite3-ruby'
-gem 'globalize3'

@@ -1,4 +1,0 @@
-gem 'vagrant'
-gem 'bundler'
-gem 'mocha'
-gem 'rake'

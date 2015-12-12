@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'git'
-gem 'guard'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'growl'
-gem 'rb-fsevent'
-gem 'rake'

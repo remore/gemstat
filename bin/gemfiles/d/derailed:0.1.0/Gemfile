@@ -1,3 +1,0 @@
-gem 'derailed_benchmarks'
-gem 'bundler'
-gem 'rake'

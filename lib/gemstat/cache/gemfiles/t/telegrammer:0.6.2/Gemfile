@@ -1,0 +1,5 @@
+gem 'httpclient'
+gem 'virtus'
+gem 'multi_json'
+gem 'bundler'
+gem 'rake'

@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'concerning'
-gem 'rake'
-gem 'minitest'
-gem 'sqlite3'

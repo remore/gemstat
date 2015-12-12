@@ -1,7 +1,0 @@
-gem 'rubyzip'
-gem 'nori'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'pry'
-gem 'simplecov'

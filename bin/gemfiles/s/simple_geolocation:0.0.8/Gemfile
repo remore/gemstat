@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'geokit'
-gem 'activesupport'
-gem 'brcep'

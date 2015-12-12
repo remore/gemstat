@@ -1,3 +1,0 @@
-gem 'sequel'
-gem 'bundler'
-gem 'sqlite3'

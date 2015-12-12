@@ -1,0 +1,7 @@
+gem 'string-scrub'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'json'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'

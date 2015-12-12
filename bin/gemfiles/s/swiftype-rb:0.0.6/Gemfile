@@ -1,5 +1,0 @@
-gem 'json'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'hashie'
-gem 'activesupport'

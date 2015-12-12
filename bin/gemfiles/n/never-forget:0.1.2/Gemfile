@@ -1,4 +1,0 @@
-gem 'mingo'
-gem 'activesupport'
-gem 'rack'
-gem 'erubis'

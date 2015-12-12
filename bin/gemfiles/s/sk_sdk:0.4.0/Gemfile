@@ -1,8 +1,0 @@
-gem 'curb'
-gem 'activesupport'
-gem 'activeresource'
-gem 'sk_api_schema'
-gem 'rake'
-gem 'simplecov'
-gem 'rspec'
-gem 'rdoc'

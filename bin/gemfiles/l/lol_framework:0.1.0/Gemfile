@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'autotest-standalone'
-gem 'test_notifier'
-gem 'railties'
-gem 'sprockets'
-gem 'bootstrap-sass'

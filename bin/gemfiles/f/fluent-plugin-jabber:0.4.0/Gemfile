@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'xmpp4r'
-gem 'fluentd'
-gem 'pit'

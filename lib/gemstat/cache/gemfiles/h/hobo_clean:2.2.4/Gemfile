@@ -1,0 +1,2 @@
+gem 'hobo'
+gem 'hobo_jquery'

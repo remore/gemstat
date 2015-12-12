@@ -1,8 +1,0 @@
-gem 'adhearsion'
-gem 'punchblock'
-gem 'activesupport'
-gem 'coveralls'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'guard-rspec'

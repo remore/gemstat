@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'coveralls'
-gem 'minitest'
-gem 'pay_dirt'

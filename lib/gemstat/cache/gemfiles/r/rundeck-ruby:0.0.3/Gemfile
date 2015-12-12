@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'json'
+gem 'activesupport'
+gem 'i18n'
+gem 'naught'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

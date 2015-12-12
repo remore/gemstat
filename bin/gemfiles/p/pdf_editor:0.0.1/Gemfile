@@ -1,8 +1,0 @@
-gem 'prawn'
-gem 'pdf-reader'
-gem 'docsplit'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pdf-inspector'
-gem 'pry'

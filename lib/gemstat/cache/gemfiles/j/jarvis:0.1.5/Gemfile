@@ -1,0 +1,6 @@
+gem 'unimidi'
+gem 'midiator'
+gem 'eventmachine'
+gem 'colored'
+gem 'json'
+gem 'ruby_cowsay'

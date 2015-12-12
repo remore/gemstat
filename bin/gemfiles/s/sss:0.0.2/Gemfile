@@ -1,3 +1,0 @@
-gem 'clap'
-gem 'aws-s3'
-gem 'cutest'

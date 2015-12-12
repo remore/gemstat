@@ -1,0 +1,5 @@
+gem 'factory_girl'
+gem 'object_daddy'
+gem 'populator'
+gem 'rspec-rails'
+gem 'universe-rack-testing'

@@ -1,0 +1,6 @@
+gem 'omniauth-oauth'
+gem 'multi_xml'
+gem 'rspec'
+gem 'rake'
+gem 'webmock'
+gem 'rack-test'

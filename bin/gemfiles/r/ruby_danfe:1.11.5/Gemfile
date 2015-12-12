@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'prawn'
-gem 'barby'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'simplecov'

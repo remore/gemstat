@@ -1,6 +1,0 @@
-gem 'active_remote'
-gem 'activesupport'
-gem 'bundler'
-gem 'mocha'
-gem 'pry'
-gem 'rake'

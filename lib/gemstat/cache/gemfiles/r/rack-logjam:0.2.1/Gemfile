@@ -1,0 +1,5 @@
+gem 'jsonpath'
+gem 'multi_json'
+gem 'nokogiri'
+gem 'bundler'
+gem 'rake'

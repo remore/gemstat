@@ -1,0 +1,2 @@
+gem 'geokit'
+gem 'geoip'

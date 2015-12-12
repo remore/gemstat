@@ -1,8 +1,0 @@
-gem 'rkelly-remix'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'closure-compiler'
-gem 'terminal-table'
-gem 'uglifier'

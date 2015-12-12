@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'pivotal-tracker'
-gem 'mysql2'

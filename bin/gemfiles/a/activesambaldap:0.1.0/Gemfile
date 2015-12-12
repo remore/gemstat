@@ -1,6 +1,0 @@
-gem 'activeldap'
-gem 'bundler'
-gem 'rake'
-gem 'yard'
-gem 'test-unit'
-gem 'test-unit-notify'

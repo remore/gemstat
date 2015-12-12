@@ -1,4 +1,0 @@
-gem 'commander'
-gem 'safe_yaml'
-gem 'bundler'
-gem 'rake'

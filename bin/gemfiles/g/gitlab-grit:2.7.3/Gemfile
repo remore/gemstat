@@ -1,5 +1,0 @@
-gem 'charlock_holmes'
-gem 'posix-spawn'
-gem 'mime-types'
-gem 'diff-lcs'
-gem 'mocha'

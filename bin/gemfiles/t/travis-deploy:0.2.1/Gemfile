@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'multi_json'
-gem 'rspec'
-gem 'webmock'

@@ -1,8 +1,0 @@
-gem 'sidekiq'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'activesupport'
-gem 'simplecov'
-gem 'rspec-sidekiq'

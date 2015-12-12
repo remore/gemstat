@@ -1,7 +1,0 @@
-gem 'libxml-ruby'
-gem 'activerecord'
-gem 'activesupport'
-gem 'builder'
-gem 'net-ping'
-gem 'ruby-units'
-gem 'soap4r'

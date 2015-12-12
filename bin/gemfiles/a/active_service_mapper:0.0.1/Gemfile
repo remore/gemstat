@@ -1,5 +1,0 @@
-gem 'plain_old_model'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-core'

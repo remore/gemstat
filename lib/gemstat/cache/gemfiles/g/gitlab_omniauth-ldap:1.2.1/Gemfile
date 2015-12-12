@@ -1,0 +1,4 @@
+gem 'omniauth'
+gem 'net-ldap'
+gem 'pyu-ruby-sasl'
+gem 'rubyntlm'

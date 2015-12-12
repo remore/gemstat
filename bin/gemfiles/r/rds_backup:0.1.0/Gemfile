@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'pry'
-gem 'pry_byebug'
-gem 'aws-sdk'
-gem 'fog'
-gem 'yell'
-gem 'hipchat'

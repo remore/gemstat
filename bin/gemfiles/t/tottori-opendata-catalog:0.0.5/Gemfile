@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'nokogiri'
-gem 'bundler'
-gem 'awesome_print'
-gem 'rake'
-gem 'rspec'
-gem 'facets'

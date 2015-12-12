@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'rspec'
+gem 'rack-test'
+gem 'rcov'
+gem 'builder'
+gem 'haml'
+gem 'bundler'

@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rainpress'
-gem 'yui-compressor'
-gem 'rspec'
-gem 'rspec-rails'

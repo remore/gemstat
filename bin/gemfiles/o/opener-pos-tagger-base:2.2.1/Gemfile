@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'cliver'
-gem 'rspec'
-gem 'cucumber'

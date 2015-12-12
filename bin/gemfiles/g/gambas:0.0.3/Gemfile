@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'prawn'
-gem 'capybara'
-gem 'sqlite3'

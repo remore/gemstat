@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'RedCloth'
-gem 'cmdparse'
-gem 'BlueCloth'
-gem 'builder'
-gem 'markaby'

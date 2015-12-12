@@ -1,0 +1,8 @@
+gem 'elected'
+gem 'concurrent-ruby'
+gem 'concurrent-ruby-edge'
+gem 'pry'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'timecop'

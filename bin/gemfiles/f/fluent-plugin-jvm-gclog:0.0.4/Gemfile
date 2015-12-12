@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'fluentd'
-gem 'jvm_gclog'

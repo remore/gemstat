@@ -1,5 +1,0 @@
-gem 'neighborly-balanced'
-gem 'rails'
-gem 'slim'
-gem 'rspec-rails'
-gem 'sqlite3'

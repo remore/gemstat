@@ -1,5 +1,0 @@
-gem 'fluentd'
-gem 'aws-sdk'
-gem 'rake'
-gem 'rdoc'
-gem 'test-unit'

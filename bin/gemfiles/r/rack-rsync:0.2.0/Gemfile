@@ -1,5 +1,0 @@
-gem 'rsync'
-gem 'rack'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-its'

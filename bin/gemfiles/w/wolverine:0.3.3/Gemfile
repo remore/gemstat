@@ -1,5 +1,0 @@
-gem 'redis'
-gem 'mocha'
-gem 'minitest'
-gem 'rake'
-gem 'yard'

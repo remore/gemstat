@@ -1,5 +1,0 @@
-gem 'json'
-gem 'term-ansicolor'
-gem 'rake'
-gem 'minitest'
-gem 'autotest'

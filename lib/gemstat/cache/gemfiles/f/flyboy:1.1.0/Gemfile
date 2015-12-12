@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'prawn'
+gem 'prawn-table'
+gem 'handles_sortable_columns'
+gem 'aasm'
+gem 'dorsale'
+gem 'sqlite3'

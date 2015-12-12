@@ -1,0 +1,4 @@
+gem 'ptools'
+gem 'term-ansicolor'
+gem 'cmdparse'
+gem 'hoe'

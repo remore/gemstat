@@ -1,7 +1,0 @@
-gem 'slim'
-gem 'redcarpet'
-gem 'builder'
-gem 'sass'
-gem 'commander'
-gem 'bundler'
-gem 'rake'

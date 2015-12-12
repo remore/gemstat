@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'fog'
-gem 'bundler'
-gem 'rake'

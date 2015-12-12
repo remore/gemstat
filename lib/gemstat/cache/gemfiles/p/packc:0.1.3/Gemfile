@@ -1,0 +1,4 @@
+gem 'thor'
+gem 'daemons'
+gem 'filewatch'
+gem 'httmultiparty'

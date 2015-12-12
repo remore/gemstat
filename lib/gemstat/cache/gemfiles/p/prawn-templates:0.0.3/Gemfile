@@ -1,0 +1,5 @@
+gem 'pdf-reader'
+gem 'prawn'
+gem 'pdf-inspector'
+gem 'rspec'
+gem 'rake'

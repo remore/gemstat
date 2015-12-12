@@ -1,0 +1,4 @@
+gem 'shoulda'
+gem 'leftright'
+gem 'log4r'
+gem 'json'

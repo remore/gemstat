@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'rspec'
-gem 'autotest'
-gem 'autotest-rails-pure'
-gem 'autotest-growl'
-gem 'autotest-fsevent'

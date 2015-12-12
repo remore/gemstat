@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'twitter_oauth'
-gem 'mail'

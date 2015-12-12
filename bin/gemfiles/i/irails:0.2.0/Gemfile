@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'bond'
-gem 'rbczmq'
-gem 'multi_json'
-gem 'mimemagic'
-gem 'rails'

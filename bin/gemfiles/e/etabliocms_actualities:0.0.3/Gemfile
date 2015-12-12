@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'etabliocms_core'
-gem 'awesome_nested_set'
-gem 'kaminari'
-gem 'sqlite3'

@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'xml-simple'
-gem 'highline'
-gem 'bundler'
-gem 'rake'

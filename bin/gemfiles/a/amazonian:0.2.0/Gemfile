@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'hashie'
-gem 'crack'
-gem 'patron'

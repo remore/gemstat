@@ -1,0 +1,6 @@
+gem 'activejob'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'tapp'
+gem 'coveralls'

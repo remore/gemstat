@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'goliath'
+gem 'etcd'
+gem 'gv-common'
+gem 'gv-bedrock'

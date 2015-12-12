@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'artii'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

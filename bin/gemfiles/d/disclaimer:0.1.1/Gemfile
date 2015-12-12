@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'acts_as_list'
-gem 'sqlite3'
-gem 'dibber'

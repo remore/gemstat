@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'activemodel'
-gem 'activesupport'

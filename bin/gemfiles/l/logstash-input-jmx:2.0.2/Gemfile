@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'jmx4r'
-gem 'logstash-devutils'
-gem 'logstash-codec-plain'

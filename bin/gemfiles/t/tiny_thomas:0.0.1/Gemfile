@@ -1,4 +1,0 @@
-gem 'json'
-gem 'cobravsmongoose'
-gem 'bundler'
-gem 'shoulda'

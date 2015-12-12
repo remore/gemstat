@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'activerecord'
-gem 'will_paginate'
-gem 'sqlite3-ruby'

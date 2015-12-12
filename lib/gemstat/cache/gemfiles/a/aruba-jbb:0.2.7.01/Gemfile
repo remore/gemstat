@@ -1,0 +1,4 @@
+gem 'builder'
+gem 'cucumber'
+gem 'background_process'
+gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'devise'
-gem 'cancancan'
-gem 'rolify'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,2 @@
+gem 'adva-core'
+gem 'truncate_html'

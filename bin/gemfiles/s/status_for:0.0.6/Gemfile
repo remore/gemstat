@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'pg'
-gem 'rspec-rails'

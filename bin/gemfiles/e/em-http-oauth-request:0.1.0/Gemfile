@@ -1,3 +1,0 @@
-gem 'oauth'
-gem 'em-http-request'
-gem 'hoe'

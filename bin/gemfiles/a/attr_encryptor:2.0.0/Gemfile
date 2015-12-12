@@ -1,7 +1,0 @@
-gem 'encryptor2'
-gem 'activerecord'
-gem 'datamapper'
-gem 'mocha'
-gem 'sequel'
-gem 'dm-sqlite-adapter'
-gem 'sqlite3'

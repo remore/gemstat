@@ -1,0 +1,2 @@
+gem 'rakefile'
+gem 'openpgp'

@@ -1,6 +1,0 @@
-gem 'logutils'
-gem 'fetcher'
-gem 'nokogiri'
-gem 'activerecord'
-gem 'rdoc'
-gem 'hoe'

@@ -1,0 +1,6 @@
+gem 'net-ping'
+gem 'getoptions'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

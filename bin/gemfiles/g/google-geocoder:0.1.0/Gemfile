@@ -1,4 +1,0 @@
-gem 'json_pure'
-gem 'launchy'
-gem 'jeweler'
-gem 'gemcutter'

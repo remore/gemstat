@@ -1,8 +1,0 @@
-gem 'googlecharts'
-gem 'launchy'
-gem 'sqlite3'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'shoulda'
-gem 'rails'

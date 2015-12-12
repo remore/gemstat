@@ -1,0 +1,5 @@
+gem 'templater'
+gem 'activesupport'
+gem 'rubyzip2'
+gem 'supermodel'
+gem 'bowline-bundler'

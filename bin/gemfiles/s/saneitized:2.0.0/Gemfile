@@ -1,6 +1,0 @@
-gem 'chronic'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'
-gem 'coveralls'

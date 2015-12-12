@@ -1,8 +1,0 @@
-gem 'fog'
-gem 'multi_json'
-gem 'excon'
-gem 'mixlib-cli'
-gem 'mechanize'
-gem 'highline'
-gem 'nokogiri'
-gem 'json_pure'

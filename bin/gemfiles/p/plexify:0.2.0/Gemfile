@@ -1,5 +1,0 @@
-gem 'ruby-tmdb'
-gem 'colorize'
-gem 'amatch'
-gem 'ruby-progressbar'
-gem 'rspec'

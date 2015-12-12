@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'rdoc'
-gem 'minitest-matchers'
-gem 'hoe'

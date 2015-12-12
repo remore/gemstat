@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'colorize'
-gem 'nokogiri'
-gem 'httparty'

@@ -1,0 +1,8 @@
+gem 'rest-client'
+gem 'yajl-ruby'
+gem 'rmagick'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

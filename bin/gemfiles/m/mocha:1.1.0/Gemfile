@@ -1,5 +1,0 @@
-gem 'metaclass'
-gem 'rake'
-gem 'introspection'
-gem 'yard'
-gem 'redcarpet'

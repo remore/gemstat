@@ -1,7 +1,0 @@
-gem 'rake-rubygems'
-gem 'hanna'
-gem 'mailfactory'
-gem 'rspec'
-gem 'bundler'
-gem 'rcov'
-gem 'rspec'

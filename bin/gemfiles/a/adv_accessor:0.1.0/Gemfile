@@ -1,5 +1,0 @@
-gem 'mharris_ext'
-gem 'fattr'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

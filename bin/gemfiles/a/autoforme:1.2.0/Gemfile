@@ -1,7 +1,0 @@
-gem 'forme'
-gem 'rack'
-gem 'enum_csv'
-gem 'sequel'
-gem 'minitest'
-gem 'minitest-hooks'
-gem 'capybara'

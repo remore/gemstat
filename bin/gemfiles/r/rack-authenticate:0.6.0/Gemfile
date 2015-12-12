@@ -1,5 +1,0 @@
-gem 'ruby-hmac'
-gem 'rspec'
-gem 'rack-test'
-gem 'timecop'
-gem 'rake'

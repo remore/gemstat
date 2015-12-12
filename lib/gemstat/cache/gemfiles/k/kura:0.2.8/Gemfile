@@ -1,0 +1,7 @@
+gem 'google-api-client'
+gem 'bundler'
+gem 'rake'
+gem 'test-unit'
+gem 'simplecov'
+gem 'test-unit-power_assert'
+gem 'pry'

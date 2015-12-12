@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'bundler'
-gem 'coveralls'
-gem 'codeclimate-test-reporter'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-power_assert'
-gem 'sqlite3'

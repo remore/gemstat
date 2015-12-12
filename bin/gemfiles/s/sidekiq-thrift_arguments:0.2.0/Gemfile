@@ -1,4 +1,0 @@
-gem 'sidekiq'
-gem 'thrift-base64'
-gem 'bundler'
-gem 'rake'

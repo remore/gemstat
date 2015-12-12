@@ -1,3 +1,0 @@
-gem 'hobo_jquery'
-gem 'bootstrap-sass'
-gem 'hobo_will_paginate-bootstrap'

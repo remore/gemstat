@@ -1,6 +1,0 @@
-gem 'carrierwave'
-gem 'image_optim'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'mini_magick'

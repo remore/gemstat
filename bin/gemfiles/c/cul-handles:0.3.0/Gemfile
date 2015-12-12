@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'thoughtbot-shoulda'
-gem 'test-unit'
-gem 'simplecov-rcov'

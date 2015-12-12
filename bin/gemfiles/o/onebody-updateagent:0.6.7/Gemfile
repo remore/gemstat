@@ -1,3 +1,0 @@
-gem 'fastercsv'
-gem 'highline'
-gem 'activeresource'

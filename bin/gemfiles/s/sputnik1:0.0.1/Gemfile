@@ -1,3 +1,0 @@
-gem 'mixlib-cli'
-gem 'rspec'
-gem 'rspec-spies'

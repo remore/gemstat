@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'aruba'
+gem 'simplecov'
+gem 'simplecov-console'
+gem 'rubocop'
+gem 'chef'

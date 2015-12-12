@@ -1,0 +1,8 @@
+gem 'trollop'
+gem 'simplecov'
+gem 'rake'
+gem 'test-unit'
+gem 'fakeweb'
+gem 'coveralls'
+gem 'rubocop'
+gem 'rubygems-tasks'

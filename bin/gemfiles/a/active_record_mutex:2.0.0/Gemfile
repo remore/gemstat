@@ -1,6 +1,0 @@
-gem 'gem_hadar'
-gem 'test-unit'
-gem 'byebug'
-gem 'simplecov'
-gem 'mysql2'
-gem 'activerecord'

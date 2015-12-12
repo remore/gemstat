@@ -1,0 +1,4 @@
+gem 'jruby-openssl'
+gem 'capistrano'
+gem 'capistrano-spec'
+gem 'rspec'

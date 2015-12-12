@@ -1,0 +1,4 @@
+gem 'flukso4r'
+gem 'mongrel'
+gem 'xml-simple'
+gem 'msg-flukso-localinterface'

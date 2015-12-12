@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'amqp'
+gem 'bunny'
+gem 'uuid'
+gem 'bundler'
+gem 'rake'

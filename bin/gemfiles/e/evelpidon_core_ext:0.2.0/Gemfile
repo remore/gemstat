@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'test-unit'
-gem 'activesupport'
-gem 'i18n'

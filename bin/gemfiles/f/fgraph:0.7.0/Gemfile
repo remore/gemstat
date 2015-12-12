@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'shoulda'
-gem 'mocha'
-gem 'fakeweb'

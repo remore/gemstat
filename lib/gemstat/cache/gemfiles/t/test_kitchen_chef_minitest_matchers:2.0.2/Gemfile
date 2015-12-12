@@ -1,0 +1,8 @@
+gem 'mixlib-shellout'
+gem 'bundler'
+gem 'rake'
+gem 'minitest-focus'
+gem 'mocha'
+gem 'rubocop'
+gem 'guard'
+gem 'guard-minitest'

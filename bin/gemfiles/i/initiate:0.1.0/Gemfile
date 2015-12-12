@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'rspec'
-gem 'pry'

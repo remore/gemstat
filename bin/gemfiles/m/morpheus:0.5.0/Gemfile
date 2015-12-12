@@ -1,8 +1,0 @@
-gem 'yajl-ruby'
-gem 'typhoeus'
-gem 'activemodel'
-gem 'activesupport'
-gem 'i18n'
-gem 'rails'
-gem 'sqlite3'
-gem 'rspec-rails'

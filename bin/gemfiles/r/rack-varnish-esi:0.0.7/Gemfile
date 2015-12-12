@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'webmock'

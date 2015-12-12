@@ -1,5 +1,0 @@
-gem 'rspec-core'
-gem 'terminal-table'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

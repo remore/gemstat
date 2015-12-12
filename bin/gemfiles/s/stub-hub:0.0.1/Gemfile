@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'fakefs'
-gem 'rack-test'
-gem 'byebug'
-gem 'thor'
-gem 'rack'

@@ -1,8 +1,0 @@
-gem 'sidekiq'
-gem 'rake'
-gem 'rack-test'
-gem 'sprockets'
-gem 'sinatra'
-gem 'slim'
-gem 'connection_pool'
-gem 'mock_redis'

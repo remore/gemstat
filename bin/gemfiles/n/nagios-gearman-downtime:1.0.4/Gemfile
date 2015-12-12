@@ -1,3 +1,0 @@
-gem 'gearman-ruby'
-gem 'thor'
-gem 'bluepill'

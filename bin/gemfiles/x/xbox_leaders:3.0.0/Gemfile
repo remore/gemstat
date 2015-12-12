@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'vcr'
-gem 'fakeweb'

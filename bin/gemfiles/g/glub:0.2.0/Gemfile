@@ -1,8 +1,0 @@
-gem 'webmock'
-gem 'vcr'
-gem 'thor'
-gem 'rake'
-gem 'rest-client'
-gem 'sif'
-gem 'bundler'
-gem 'jeweler'

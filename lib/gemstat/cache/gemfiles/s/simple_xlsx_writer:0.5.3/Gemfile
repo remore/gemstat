@@ -1,0 +1,2 @@
+gem 'rubyzip'
+gem 'fast_xs'

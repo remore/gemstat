@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'json'
-gem 'multipart-post'
-gem 'net-http-uploadprogress'

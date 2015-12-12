@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'clamp'
+gem 'pry'
+gem 'mysql'

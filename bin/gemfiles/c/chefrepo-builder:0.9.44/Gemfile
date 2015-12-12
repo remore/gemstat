@@ -1,6 +1,0 @@
-gem 'cicd-builder'
-gem 'json'
-gem 'bundler'
-gem 'rake'
-gem 'rubygems-tasks'
-gem 'cucumber'

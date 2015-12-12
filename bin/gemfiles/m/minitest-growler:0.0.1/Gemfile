@@ -1,7 +1,0 @@
-gem 'minitest'
-gem 'growl'
-gem 'mocha'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

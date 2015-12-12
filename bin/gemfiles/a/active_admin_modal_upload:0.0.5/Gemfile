@@ -1,6 +1,0 @@
-gem 'rails'
-gem 's3_direct_upload'
-gem 'jquery-ui-rails'
-gem 'jquery-modal-rails'
-gem 'sidekiq'
-gem 'sqlite3'

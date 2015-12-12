@@ -1,8 +1,0 @@
-gem 'dns_adapter'
-gem 'i18n'
-gem 'addressable'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'

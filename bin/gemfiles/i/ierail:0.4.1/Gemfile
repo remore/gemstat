@@ -1,7 +1,0 @@
-gem 'json'
-gem 'rest-client'
-gem 'nokogiri'
-gem 'tzinfo'
-gem 'vcr'
-gem 'webmock'
-gem 'timecop'

@@ -1,7 +1,0 @@
-gem 'commander'
-gem 'terminal-table'
-gem 'minitest'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

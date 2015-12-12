@@ -1,0 +1,4 @@
+gem 'cliver'
+gem 'safe_shell'
+gem 'bundler'
+gem 'rake'

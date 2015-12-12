@@ -1,5 +1,0 @@
-gem 'mongo'
-gem 'bson_ext'
-gem 'trollop'
-gem 'sequel'
-gem 'bunny'

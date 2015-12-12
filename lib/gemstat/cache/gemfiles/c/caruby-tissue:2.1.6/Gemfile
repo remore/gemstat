@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'caruby-core'
+gem 'uom'
+gem 'yard'
+gem 'rake'
+gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'makerakeworkwell'
-gem 'less'
-gem 'coderay'
-gem 'kramdown'
-gem 'minitest'
-gem 'rdoc'
-gem 'hoe'

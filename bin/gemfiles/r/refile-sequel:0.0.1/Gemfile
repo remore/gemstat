@@ -1,6 +1,0 @@
-gem 'refile'
-gem 'sequel'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'sqlite3'

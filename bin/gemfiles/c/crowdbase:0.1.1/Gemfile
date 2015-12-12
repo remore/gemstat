@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'activesupport'
-gem 'toystore'
-gem 'log4r'
-gem 'excon'
-gem 'yajl-ruby'

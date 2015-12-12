@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rack-test'
-gem 'rake'
-gem 'rspec'
-gem 'rack'
-gem 'excon'

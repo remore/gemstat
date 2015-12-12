@@ -1,4 +1,0 @@
-gem 'guard-compat'
-gem 'execjs'
-gem 'coffee-script'
-gem 'bundler'

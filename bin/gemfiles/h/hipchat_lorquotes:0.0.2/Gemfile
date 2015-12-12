@@ -1,4 +1,0 @@
-gem 'hipchat'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

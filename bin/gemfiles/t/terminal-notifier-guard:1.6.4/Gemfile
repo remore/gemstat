@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'bacon'
-gem 'mocha'
-gem 'mocha-on-bacon'

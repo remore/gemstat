@@ -1,0 +1,5 @@
+gem 'mini_fb'
+gem 'delayed_job'
+gem 'mad_mimi_mailer'
+gem 'create-rails-dev-db'
+gem 'shoulda'

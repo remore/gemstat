@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'extensions'
-gem 'pdf-writer'
-gem 'slimtimer4r'
-gem 'money'
-gem 'mysql'
-gem 'rails'
-gem 'i18n'

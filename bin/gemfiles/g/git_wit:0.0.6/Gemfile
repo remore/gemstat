@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'authorized_keys'
-gem 'thor'

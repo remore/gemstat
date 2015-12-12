@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'virtus'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

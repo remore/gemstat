@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'mysql2'
-gem 'rspec-rails'
-gem 'capybara'
-gem 'factory_girl_rails'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'growl'

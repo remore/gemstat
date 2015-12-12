@@ -1,0 +1,4 @@
+gem 'fog'
+gem 'httparty'
+gem 'mysql'
+gem 'mongo'

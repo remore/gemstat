@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'rack'
-gem 'ruby-openid'

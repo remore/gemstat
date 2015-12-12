@@ -1,0 +1,2 @@
+gem 'webmoney'
+gem 'bundler'

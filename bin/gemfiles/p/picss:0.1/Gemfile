@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'guard'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'cucumber'

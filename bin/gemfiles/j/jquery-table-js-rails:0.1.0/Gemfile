@@ -1,4 +1,0 @@
-gem 'jquery-rails'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

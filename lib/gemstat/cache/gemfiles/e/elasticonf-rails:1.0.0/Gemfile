@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'elasticonf'
+gem 'appraisal'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec-rails'
+gem 'yard'

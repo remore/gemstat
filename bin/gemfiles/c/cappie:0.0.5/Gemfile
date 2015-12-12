@@ -1,7 +1,0 @@
-gem 'cucumber'
-gem 'capybara'
-gem 'procession'
-gem 'rspec-expectations'
-gem 'selenium-webdriver'
-gem 'poltergeist'
-gem 'rack'

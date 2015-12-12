@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'multi_json'
-gem 'active_hash'
-gem 'pry'

@@ -1,4 +1,0 @@
-gem 'redis-objects'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

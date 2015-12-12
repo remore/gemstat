@@ -1,4 +1,0 @@
-gem 'fastercsv'
-gem 'rake'
-gem 'bundler'
-gem 'minitest'

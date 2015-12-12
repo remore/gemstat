@@ -1,4 +1,0 @@
-gem 'airbrake'
-gem 'logging'
-gem 'bundler'
-gem 'rake'

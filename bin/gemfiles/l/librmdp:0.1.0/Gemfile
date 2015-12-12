@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'activesupport'
-gem 'rake'
-gem 'ffi-rzmq'

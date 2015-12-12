@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'mocha'
-gem 'actionpack'
-gem 'rspec-rails'
-gem 'pry'
-gem 'activemodel'

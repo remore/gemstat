@@ -1,4 +1,0 @@
-gem 'chronic'
-gem 'ruby-dbus'
-gem 'spreadsheet'
-gem 'terminal-table'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'fastthread'
-gem 'daemon_controller'
-gem 'file-tail'
-gem 'rack'

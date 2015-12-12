@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'haml'
-gem 'json_pure'
-gem 'sinatra'

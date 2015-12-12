@@ -1,6 +1,0 @@
-gem 'json'
-gem 'activesupport'
-gem 'awesome_print'
-gem 'test-unit'
-gem 'bundler'
-gem 'rake'

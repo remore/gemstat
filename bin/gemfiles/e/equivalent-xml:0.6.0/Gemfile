@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'bundler'
-gem 'simplecov'
-gem 'rspec'
-gem 'rake'
-gem 'rdoc'

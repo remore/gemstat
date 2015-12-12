@@ -1,0 +1,6 @@
+gem 'prime-numbers'
+gem 'rspec'
+gem 'simplecov'
+gem 'simplecov-rcov'
+gem 'rake'
+gem 'pry'

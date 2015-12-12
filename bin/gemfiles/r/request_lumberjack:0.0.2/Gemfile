@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'actionpack'
-gem 'do_sqlite3'
-gem 'dm-core'
-gem 'dm-validations'

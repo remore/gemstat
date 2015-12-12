@@ -1,8 +1,0 @@
-gem 'multi_json'
-gem 'rbnacl'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-stack_explorer'
-gem 'rspec_junit_formatter'

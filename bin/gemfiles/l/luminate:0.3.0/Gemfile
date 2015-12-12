@@ -1,4 +1,0 @@
-gem 'multi_json'
-gem 'map'
-gem 'bundler'
-gem 'rake'

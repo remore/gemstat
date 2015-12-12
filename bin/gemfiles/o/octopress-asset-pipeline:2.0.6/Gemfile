@@ -1,5 +1,0 @@
-gem 'octopress-ink'
-gem 'bundler'
-gem 'clash'
-gem 'rake'
-gem 'pry-byebug'

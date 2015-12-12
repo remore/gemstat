@@ -1,4 +1,0 @@
-gem 'iron-extensions'
-gem 'iron-dsl'
-gem 'rspec'
-gem 'roo'

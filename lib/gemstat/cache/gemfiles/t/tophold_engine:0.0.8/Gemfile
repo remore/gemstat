@@ -1,0 +1,6 @@
+gem 'mysql2'
+gem 'configatron'
+gem 'mongoid'
+gem 'sunspot'
+gem 'sunspot_cell'
+gem 'sunspot_mongoid'

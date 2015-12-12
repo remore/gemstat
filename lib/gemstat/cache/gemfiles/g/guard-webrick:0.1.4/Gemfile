@@ -1,0 +1,6 @@
+gem 'guard'
+gem 'spoon'
+gem 'ffi'
+gem 'launchy'
+gem 'rspec'
+gem 'guard-rspec'

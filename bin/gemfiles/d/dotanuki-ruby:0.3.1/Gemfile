@@ -1,5 +1,0 @@
-gem 'open4'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'simplecov'
-gem 'rake'

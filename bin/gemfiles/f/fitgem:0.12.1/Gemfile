@@ -1,5 +1,0 @@
-gem 'oauth'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'rdiscount'

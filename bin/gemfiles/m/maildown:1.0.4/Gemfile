@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'kramdown'
-gem 'sqlite3'

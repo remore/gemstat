@@ -1,3 +1,0 @@
-gem 'pusher-client'
-gem 'git'
-gem 'httparty'

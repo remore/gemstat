@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'

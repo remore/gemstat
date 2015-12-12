@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'haml'
+gem 'sass'
+gem 'uuid'
+gem 'hashie'
+gem 'sinatra-reloader'

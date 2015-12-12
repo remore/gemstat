@@ -1,7 +1,0 @@
-gem 'capistrano'
-gem 'bundler'
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'webmock'

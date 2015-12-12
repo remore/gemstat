@@ -1,7 +1,0 @@
-gem 'multi_json'
-gem 'rack'
-gem 'json-schema'
-gem 'nokogiri'
-gem 'simple_oauth'
-gem 'bundler'
-gem 'rake'

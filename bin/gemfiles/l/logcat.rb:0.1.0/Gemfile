@@ -1,5 +1,0 @@
-gem 'ruby-terminfo'
-gem 'rdoc'
-gem 'rspec'
-gem 'rubygems-tasks'
-gem 'pry'

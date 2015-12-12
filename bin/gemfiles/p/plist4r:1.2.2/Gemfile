@@ -1,6 +1,0 @@
-gem 'libxml-ruby'
-gem 'haml'
-gem 'libxml4r'
-gem 'rspec'
-gem 'yard'
-gem 'cucumber'

@@ -1,0 +1,5 @@
+gem 'onstomp'
+gem 'rspec'
+gem 'json'
+gem 'rake'
+gem 'eventmachine'

@@ -1,7 +1,0 @@
-gem 'twitter'
-gem 'activesupport'
-gem 'retryable'
-gem 'daemons'
-gem 'rspec'
-gem 'timecop'
-gem 'get-twitter-oauth-token'

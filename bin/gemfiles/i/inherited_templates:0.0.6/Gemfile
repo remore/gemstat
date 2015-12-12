@@ -1,4 +1,0 @@
-gem 'inherited_resources'
-gem 'formtastic'
-gem 'will_paginate'
-gem 'validation_reflection'

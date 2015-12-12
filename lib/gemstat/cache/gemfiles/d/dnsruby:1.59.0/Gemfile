@@ -1,0 +1,7 @@
+gem 'pry'
+gem 'pry-byebug'
+gem 'rake'
+gem 'minitest'
+gem 'rubydns'
+gem 'nio4r'
+gem 'coveralls'

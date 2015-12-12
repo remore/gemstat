@@ -1,6 +1,0 @@
-gem 'cucumber'
-gem 'json'
-gem 'rspec'
-gem 'newgem'
-gem 'sinatra'
-gem 'hoe'

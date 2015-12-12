@@ -1,6 +1,0 @@
-gem 'therubyracer'
-gem 'rednode'
-gem 'eventmachine'
-gem 'optitron'
-gem 'rake'
-gem 'rspec'

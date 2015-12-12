@@ -1,0 +1,5 @@
+gem 'pws'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'aptible-tasks'
+gem 'rake'

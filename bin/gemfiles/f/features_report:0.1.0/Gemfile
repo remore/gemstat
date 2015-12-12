@@ -1,5 +1,0 @@
-gem 'trollop'
-gem 'cucumber'
-gem 'prawn'
-gem 'newgem'
-gem 'hoe'

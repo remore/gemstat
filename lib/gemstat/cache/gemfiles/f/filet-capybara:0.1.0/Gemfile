@@ -1,0 +1,3 @@
+gem 'filet'
+gem 'capybara'
+gem 'rake'

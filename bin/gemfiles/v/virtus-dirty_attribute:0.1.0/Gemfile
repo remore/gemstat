@@ -1,4 +1,0 @@
-gem 'virtus'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

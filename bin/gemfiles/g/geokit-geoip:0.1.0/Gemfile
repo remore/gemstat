@@ -1,5 +1,0 @@
-gem 'geoip'
-gem 'geokit'
-gem 'rake'
-gem 'shoulda'
-gem 'ruby-debug'

@@ -1,3 +1,0 @@
-gem 'nanoc'
-gem 'bibtex-ruby'
-gem 'latex-decode'

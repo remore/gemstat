@@ -1,6 +1,0 @@
-gem 'guard'
-gem 'minitest'
-gem 'rake'
-gem 'erubis'
-gem 'redcarpet'
-gem 'pygments.rb'

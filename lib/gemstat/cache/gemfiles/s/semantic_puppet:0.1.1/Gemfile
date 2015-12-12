@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'cane'
+gem 'yard'
+gem 'redcarpet'

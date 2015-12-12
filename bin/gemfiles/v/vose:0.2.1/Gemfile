@@ -1,5 +1,0 @@
-gem 'pry'
-gem 'ruby_gntp'
-gem 'guard-minitest'
-gem 'guard-bundler'
-gem 'rinruby'

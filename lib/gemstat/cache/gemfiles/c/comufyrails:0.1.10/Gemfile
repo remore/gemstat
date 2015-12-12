@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'em-synchrony'
+gem 'em-http-request'
+gem 'rake'
+gem 'rspec'

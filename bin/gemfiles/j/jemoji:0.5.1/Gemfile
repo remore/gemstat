@@ -1,6 +1,0 @@
-gem 'jekyll'
-gem 'html-pipeline'
-gem 'gemoji'
-gem 'rake'
-gem 'rdoc'
-gem 'rspec'

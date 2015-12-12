@@ -1,0 +1,8 @@
+gem 'activesupport'
+gem 'redis'
+gem 'hooks'
+gem 'minitest'
+gem 'minifacture'
+gem 'yard'
+gem 'rails'
+gem 'database_cleaner'

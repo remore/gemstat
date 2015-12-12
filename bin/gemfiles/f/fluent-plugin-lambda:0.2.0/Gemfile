@@ -1,5 +1,0 @@
-gem 'fluentd'
-gem 'aws-sdk-core'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

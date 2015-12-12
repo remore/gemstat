@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'fakeweb'
+gem 'jeweler'
+gem 'simplecov'
+gem 'rspec'

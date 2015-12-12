@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'savon'
-gem 'concurrent-ruby'
-gem 'typhoeus'

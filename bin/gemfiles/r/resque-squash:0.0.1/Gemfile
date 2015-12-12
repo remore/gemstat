@@ -1,4 +1,0 @@
-gem 'resque'
-gem 'squash_ruby'
-gem 'bundler'
-gem 'rake'

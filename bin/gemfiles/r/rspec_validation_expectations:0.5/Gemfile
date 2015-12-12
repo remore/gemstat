@@ -1,3 +1,0 @@
-gem 'activesupport'
-gem 'activerecord'
-gem 'validation_reflection'

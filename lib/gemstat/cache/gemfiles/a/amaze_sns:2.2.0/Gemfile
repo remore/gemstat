@@ -1,0 +1,7 @@
+gem 'eventmachine'
+gem 'em-http-request'
+gem 'crack'
+gem 'ruby-hmac'
+gem 'json'
+gem 'rspec'
+gem 'webmock'

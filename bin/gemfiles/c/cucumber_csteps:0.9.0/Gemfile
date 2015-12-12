@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'dp'
-gem 'parslet'
-gem 'activesupport'
-gem 'cucumber'
-gem 'ffi'

@@ -1,3 +1,0 @@
-gem 'httpclient'
-gem 'json_pure'
-gem 'sshkeyauth'

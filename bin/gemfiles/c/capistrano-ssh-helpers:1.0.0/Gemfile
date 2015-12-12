@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

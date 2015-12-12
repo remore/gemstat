@@ -1,0 +1,8 @@
+gem 'acpc_poker_types'
+gem 'contextual_exceptions'
+gem 'minitest'
+gem 'mocha'
+gem 'awesome_print'
+gem 'pry-rescue'
+gem 'simplecov'
+gem 'acpc_dealer'

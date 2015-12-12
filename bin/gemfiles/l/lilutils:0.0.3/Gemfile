@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'test-unit'

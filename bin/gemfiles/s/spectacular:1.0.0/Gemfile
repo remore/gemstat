@@ -1,4 +1,0 @@
-gem 'snmp'
-gem 'minitest'
-gem 'rdoc'
-gem 'hoe'

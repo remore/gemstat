@@ -1,4 +1,0 @@
-gem 'coffee-rails'
-gem 'jquery-rails'
-gem 'rails'
-gem 'sqlite3'

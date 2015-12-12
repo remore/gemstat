@@ -1,8 +1,0 @@
-gem 'github-markdown'
-gem 'github-markup'
-gem 'nokogiri'
-gem 'pygments.rb'
-gem 'handlebars'
-gem 'rake'
-gem 'oj'
-gem 'http_parser.rb'

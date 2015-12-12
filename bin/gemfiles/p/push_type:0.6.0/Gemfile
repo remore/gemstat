@@ -1,7 +1,0 @@
-gem 'push_type_core'
-gem 'push_type_admin'
-gem 'push_type_wysiwyg'
-gem 'push_type_auth'
-gem 'minitest-spec-rails'
-gem 'database_cleaner'
-gem 'factory_girl_rails'

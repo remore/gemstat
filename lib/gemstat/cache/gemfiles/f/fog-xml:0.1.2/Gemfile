@@ -1,0 +1,7 @@
+gem 'fog-core'
+gem 'nokogiri'
+gem 'rake'
+gem 'minitest'
+gem 'turn'
+gem 'pry'
+gem 'coveralls'

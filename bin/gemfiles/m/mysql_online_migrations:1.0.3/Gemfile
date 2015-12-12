@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'mysql2'
-gem 'logger'
-gem 'rspec'
-gem 'pry'

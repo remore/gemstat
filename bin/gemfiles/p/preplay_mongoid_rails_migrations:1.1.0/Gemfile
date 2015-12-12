@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'railties'
-gem 'activesupport'
-gem 'mongoid'
-gem 'test-unit'

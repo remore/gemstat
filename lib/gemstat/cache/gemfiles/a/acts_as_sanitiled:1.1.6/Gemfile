@@ -1,0 +1,4 @@
+gem 'sanitize'
+gem 'RedCloth'
+gem 'bacon'
+gem 'activesupport'

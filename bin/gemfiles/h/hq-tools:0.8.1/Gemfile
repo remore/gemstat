@@ -1,8 +1,0 @@
-gem 'cucumber'
-gem 'hq-dev'
-gem 'libxml-ruby'
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'rspec_junit_formatter'
-gem 'simplecov'

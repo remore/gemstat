@@ -1,3 +1,0 @@
-gem 'sane'
-gem 'rspec'
-gem 'win32-process'

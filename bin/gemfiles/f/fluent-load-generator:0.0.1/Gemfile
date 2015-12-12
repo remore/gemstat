@@ -1,4 +1,0 @@
-gem 'uuidtools'
-gem 'rake'
-gem 'simplecov'
-gem 'rr'

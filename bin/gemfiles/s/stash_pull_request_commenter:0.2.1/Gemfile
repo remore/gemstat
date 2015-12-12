@@ -1,4 +1,0 @@
-gem 'docopt'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

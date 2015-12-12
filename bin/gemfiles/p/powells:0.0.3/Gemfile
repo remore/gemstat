@@ -1,5 +1,0 @@
-gem 'excon'
-gem 'minitest'
-gem 'pry'
-gem 'rake'
-gem 'vcr'

@@ -1,3 +1,0 @@
-gem 'em-websocket'
-gem 'thin'
-gem 'rake'

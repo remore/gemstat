@@ -1,4 +1,0 @@
-gem 'version'
-gem 'active_support'
-gem 'gosu'
-gem 'rake'

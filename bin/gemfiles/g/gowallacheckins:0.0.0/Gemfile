@@ -1,6 +1,0 @@
-gem 'retryable'
-gem 'httparty'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

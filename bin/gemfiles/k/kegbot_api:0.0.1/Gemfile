@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'wwtd'
-gem 'fakeweb'
-gem 'yard'
-gem 'activesupport'

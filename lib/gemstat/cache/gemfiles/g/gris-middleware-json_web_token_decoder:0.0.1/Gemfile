@@ -1,0 +1,7 @@
+gem 'gris'
+gem 'jwt'
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'rspec'
+gem 'byebug'

@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'nokogiri'
-gem 'bundler'
-gem 'pry'
-gem 'pry-byebug'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

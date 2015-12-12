@@ -1,0 +1,6 @@
+gem 'eventmachine'
+gem 'em-websocket'
+gem 'em-http-request'
+gem 'activesupport'
+gem 'nokogiri'
+gem 'bzip2-ruby'

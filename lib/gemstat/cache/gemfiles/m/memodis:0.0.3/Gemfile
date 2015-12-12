@@ -1,0 +1,4 @@
+gem 'redis'
+gem 'riot'
+gem 'reek'
+gem 'daemon_controller'

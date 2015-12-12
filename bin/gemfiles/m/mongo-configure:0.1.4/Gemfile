@@ -1,4 +1,0 @@
-gem 'morphine'
-gem 'mongo'
-gem 'rspec'
-gem 'rake'

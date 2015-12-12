@@ -1,7 +1,0 @@
-gem 'her'
-gem 'faye-websocket'
-gem 'faraday_middleware'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'byebug'

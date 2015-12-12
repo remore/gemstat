@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'rack-contrib'
-gem 'sequel'
-gem 'sinatra'
-gem 'sinatra-param'
-gem 'dotenv'
-gem 'rspec'
-gem 'rake'

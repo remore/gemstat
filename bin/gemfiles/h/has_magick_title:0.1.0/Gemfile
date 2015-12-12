@@ -1,7 +1,0 @@
-gem 'magick_title'
-gem 'rails'
-gem 'sqlite3'
-gem 'shoulda'
-gem 'dummier'
-gem 'spork'
-gem 'spork-testunit'

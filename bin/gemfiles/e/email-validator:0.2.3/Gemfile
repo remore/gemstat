@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'mocha'
-gem 'shoulda-context'
-gem 'rake'
-gem 'sqlite3'

@@ -1,6 +1,0 @@
-gem 'rubytree'
-gem 'activesupport'
-gem 'i18n'
-gem 'net-ldap'
-gem 'castanet'
-gem 'warden'

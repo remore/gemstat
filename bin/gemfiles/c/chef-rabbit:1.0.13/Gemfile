@@ -1,3 +1,0 @@
-gem 'amq-protocol'
-gem 'bunny'
-gem 'chef'

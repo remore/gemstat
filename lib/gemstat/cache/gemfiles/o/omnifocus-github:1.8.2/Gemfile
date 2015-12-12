@@ -1,0 +1,5 @@
+gem 'omnifocus'
+gem 'octokit'
+gem 'minitest'
+gem 'rdoc'
+gem 'hoe'

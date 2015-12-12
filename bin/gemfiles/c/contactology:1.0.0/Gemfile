@@ -1,8 +1,0 @@
-gem 'hashie'
-gem 'httparty'
-gem 'multi_json'
-gem 'vcr'
-gem 'webmock'
-gem 'rspec'
-gem 'factory_girl'
-gem 'rack'

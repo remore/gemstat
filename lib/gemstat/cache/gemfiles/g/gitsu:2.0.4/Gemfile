@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rake'
+gem 'coveralls'
+gem 'json'
+gem 'mime-types'
+gem 'rspec'
+gem 'cucumber'

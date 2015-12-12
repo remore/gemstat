@@ -1,5 +1,0 @@
-gem 'capybara'
-gem 'rake'
-gem 'rainbow'
-gem 'inch'
-gem 'rspec'

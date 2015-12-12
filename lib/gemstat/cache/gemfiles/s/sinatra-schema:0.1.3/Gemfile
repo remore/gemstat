@@ -1,0 +1,5 @@
+gem 'multi_json'
+gem 'sinatra'
+gem 'rack-test'
+gem 'rake'
+gem 'rspec'

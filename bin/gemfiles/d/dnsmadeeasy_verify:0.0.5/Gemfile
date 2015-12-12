@@ -1,3 +1,0 @@
-gem 'faraday'
-gem 'whois'
-gem 'dnsruby'

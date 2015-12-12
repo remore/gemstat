@@ -1,4 +1,0 @@
-gem 'bulldoggy'
-gem 'rspec'
-gem 'rspec-its'
-gem 'rake'

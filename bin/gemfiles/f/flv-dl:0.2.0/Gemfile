@@ -1,5 +1,0 @@
-gem 'uri-query_params'
-gem 'nokogiri'
-gem 'rubygems-tasks'
-gem 'rspec'
-gem 'yard'

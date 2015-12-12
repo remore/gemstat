@@ -1,7 +1,0 @@
-gem 'configatron'
-gem 'nokogiri'
-gem 'httparty'
-gem 'rspec'
-gem 'fakeweb'
-gem 'mocha'
-gem 'vcr'

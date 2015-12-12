@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'firmata'
-gem 'event_spitter'
-gem 'pry'

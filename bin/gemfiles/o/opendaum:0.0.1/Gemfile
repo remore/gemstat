@@ -1,6 +1,0 @@
-gem 'oauth'
-gem 'json'
-gem 'minitest'
-gem 'sinatra'
-gem 'sinatra-contrib'
-gem 'haml'

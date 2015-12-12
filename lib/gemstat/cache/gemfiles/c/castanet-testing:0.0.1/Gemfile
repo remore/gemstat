@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'foreman'
+gem 'yard'
+gem 'json'
+gem 'rack'
+gem 'rake'

@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'pygments.rb'
-gem 'redcarpet'
-gem 'RedCloth'
-gem 'nokogiri'

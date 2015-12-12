@@ -1,6 +1,0 @@
-gem 'mina'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'
-gem 'rubygems-tasks'
-gem 'yard'

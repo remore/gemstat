@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'coveralls'
-gem 'simplecov'

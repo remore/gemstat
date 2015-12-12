@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'watir'
-gem 'nokogiri'
-gem 'spreadsheet'
-gem 'thor'

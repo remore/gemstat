@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'activerecord'
+gem 'rake'
+gem 'rspec'
+gem 'sqlite3'
+gem 'appraisal'

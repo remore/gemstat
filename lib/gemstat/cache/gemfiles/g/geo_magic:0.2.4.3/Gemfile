@@ -1,0 +1,8 @@
+gem 'geo-distance'
+gem 'httparty'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'geo-distance'
+gem 'httparty'

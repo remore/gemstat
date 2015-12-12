@@ -1,8 +1,0 @@
-gem 'multipart-post'
-gem 'net-http-digest_auth'
-gem 'nokogiri'
-gem 'mime-types'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

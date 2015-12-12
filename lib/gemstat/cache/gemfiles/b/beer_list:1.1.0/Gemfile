@@ -1,0 +1,4 @@
+gem 'mechanize'
+gem 'thor'
+gem 'bundler'
+gem 'rspec'

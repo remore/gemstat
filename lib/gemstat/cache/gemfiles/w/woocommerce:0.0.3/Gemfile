@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'awesome_print'

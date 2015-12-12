@@ -1,0 +1,2 @@
+gem 'apispree_core'
+gem 'apispree_auth'

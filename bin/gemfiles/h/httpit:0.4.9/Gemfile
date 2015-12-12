@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'haml'
-gem 'kramdown'
-gem 'sass'

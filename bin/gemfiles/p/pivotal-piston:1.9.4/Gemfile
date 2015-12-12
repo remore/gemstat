@@ -1,5 +1,0 @@
-gem 'main'
-gem 'open4'
-gem 'log4r'
-gem 'activesupport'
-gem 'hoe'

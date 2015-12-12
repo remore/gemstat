@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'httperfrb'
-gem 'ruport'

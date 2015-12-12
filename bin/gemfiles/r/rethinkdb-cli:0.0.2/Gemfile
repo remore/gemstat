@@ -1,5 +1,0 @@
-gem 'rethinkdb'
-gem 'ripl'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

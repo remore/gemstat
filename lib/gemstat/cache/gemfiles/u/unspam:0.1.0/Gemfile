@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'httparty'
+gem 'netaddr'
+gem 'bundler'
+gem 'rake'

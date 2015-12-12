@@ -1,0 +1,6 @@
+gem 'arrayfields'
+gem 'amalgalite'
+gem 'rest-client'
+gem 'json'
+gem 'xmpp4r'
+gem 'elif'

@@ -1,4 +1,0 @@
-gem 'mechanize'
-gem 'webrat'
-gem 'rspec'
-gem 'fakeweb'

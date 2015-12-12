@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'shoulda'
+gem 'mocha'
+gem 'bundler'
+gem 'sqlite3-ruby'
+gem 'ruby-debug'
+gem 'timecop'
+gem 'backgrounded'

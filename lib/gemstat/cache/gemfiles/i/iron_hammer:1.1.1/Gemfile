@@ -1,0 +1,5 @@
+gem 'rubyzip2'
+gem 'builder'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

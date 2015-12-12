@@ -1,5 +1,0 @@
-gem 'bio-alignment'
-gem 'bio-bgzf'
-gem 'bio-genomic-interval'
-gem 'bio-logger'
-gem 'kyotocabinet-ruby'

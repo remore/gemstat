@@ -1,7 +1,0 @@
-gem 'netaddr'
-gem 'rspec'
-gem 'ip'
-gem 'clamp'
-gem 'json'
-gem 'aws-sdk-v1'
-gem 'activesupport'

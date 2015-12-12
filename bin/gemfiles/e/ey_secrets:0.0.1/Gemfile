@@ -1,6 +1,0 @@
-gem 'engineyard-cloud-client'
-gem 'thor'
-gem 'rainbow'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

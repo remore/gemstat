@@ -1,3 +1,0 @@
-gem 'test-spec'
-gem 'memcache-client'
-gem 'camping'

@@ -1,0 +1,6 @@
+gem 'nestful'
+gem 'nokogiri'
+gem 'i18n'
+gem 'rspec'
+gem 'ruby-debug19'
+gem 'timecop'

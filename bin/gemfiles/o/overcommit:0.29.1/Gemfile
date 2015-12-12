@@ -1,4 +1,0 @@
-gem 'childprocess'
-gem 'iniparse'
-gem 'rspec'
-gem 'travis'

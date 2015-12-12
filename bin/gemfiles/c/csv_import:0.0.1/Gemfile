@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'rspec'
-gem 'steak'
-gem 'sqlite3'
-gem 'launchy'

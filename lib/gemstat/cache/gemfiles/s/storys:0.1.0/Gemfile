@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rspec'
+gem 'factory_girl'
+gem 'nsf'
+gem 'addressable'
+gem 'naturally'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'ace-client'
-gem 'thor'
-gem 'json'
-gem 'builder'

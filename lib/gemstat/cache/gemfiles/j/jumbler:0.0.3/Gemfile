@@ -1,0 +1,6 @@
+gem 'listen'
+gem 'rake'
+gem 'trollop'
+gem 'wdm'
+gem 'rspec'
+gem 'bundler'

@@ -1,4 +1,0 @@
-gem 'algorithms'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'

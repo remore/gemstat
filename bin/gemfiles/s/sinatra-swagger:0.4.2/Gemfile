@@ -1,5 +1,0 @@
-gem 'json-schema'
-gem 'sinatra'
-gem 'sinatra-contrib'
-gem 'rake'
-gem 'rspec'

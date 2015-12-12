@@ -1,6 +1,0 @@
-gem 'rjb'
-gem 'builder'
-gem 'activesupport'
-gem 'prawn'
-gem 'rspec'
-gem 'rake'

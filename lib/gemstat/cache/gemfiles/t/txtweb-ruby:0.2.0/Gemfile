@@ -1,0 +1,6 @@
+gem 'httpclient'
+gem 'xml-simple'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

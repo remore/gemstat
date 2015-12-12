@@ -1,8 +1,0 @@
-gem 'atomic'
-gem 'listen'
-gem 'rufus-scheduler'
-gem 'mini_exiftool'
-gem 'flickraw'
-gem 'json'
-gem 'trollop'
-gem 'inifile'

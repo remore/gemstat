@@ -1,6 +1,0 @@
-gem 'haml'
-gem 'tilt'
-gem 'rails'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'ejs'

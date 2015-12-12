@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'mechanize'
+gem 'nokogiri'
+gem 'security'
+gem 'certified'
+gem 'rspec'
+gem 'rake'

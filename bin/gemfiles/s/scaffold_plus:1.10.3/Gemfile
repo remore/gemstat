@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'railties'
-gem 'bundler'
-gem 'rake'

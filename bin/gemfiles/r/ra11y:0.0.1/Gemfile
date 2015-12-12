@@ -1,6 +1,0 @@
-gem 'colorator'
-gem 'parallel'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

@@ -1,5 +1,0 @@
-gem 'tco'
-gem 'docopt'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

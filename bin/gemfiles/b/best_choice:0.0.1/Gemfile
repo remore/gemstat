@@ -1,5 +1,0 @@
-gem 'json'
-gem 'redis-objects'
-gem 'rr'
-gem 'rails'
-gem 'sqlite3'

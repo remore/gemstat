@@ -1,8 +1,0 @@
-gem 'activemodel'
-gem 'rspec'
-gem 'minitest'
-gem 'activesupport'
-gem 'nori'
-gem 'rest-client'
-gem 'geo_ip'
-gem 'freegeoip'

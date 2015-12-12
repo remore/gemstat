@@ -1,7 +1,0 @@
-gem 'selenium-webdriver'
-gem 'eventmachine'
-gem 'em-proxy'
-gem 'mail'
-gem 'daemons'
-gem 'rspec'
-gem 'rake'

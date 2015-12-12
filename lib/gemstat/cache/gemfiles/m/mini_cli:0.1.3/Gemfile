@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'rerun'
+gem 'puma'
+gem 'bundler'
+gem 'rake'

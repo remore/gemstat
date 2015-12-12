@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'escort'
+gem 'aws-sdk'
+gem 'chronic_duration'
+gem 'chronic'

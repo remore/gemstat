@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'rspec'
-gem 'rspec-its'
-gem 'pry-nav'
-gem 'codeclimate-test-reporter'
-gem 'sqlite3'

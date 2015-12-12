@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'pry'
+gem 'fluentd'
+gem 'string-scrub'
+gem 'docker-api'

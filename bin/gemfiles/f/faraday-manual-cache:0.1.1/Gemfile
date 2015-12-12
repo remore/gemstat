@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'faraday'
-gem 'bundler'
-gem 'rake'

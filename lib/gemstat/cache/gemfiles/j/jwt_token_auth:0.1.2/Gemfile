@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'jwt'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'pry-byebug'

@@ -1,0 +1,5 @@
+gem 'jquery-rails'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

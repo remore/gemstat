@@ -1,3 +1,0 @@
-gem 'posix-spawn'
-gem 'ripper-tags'
-gem 'yajl-ruby'

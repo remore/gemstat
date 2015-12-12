@@ -1,6 +1,0 @@
-gem 'adhearsion'
-gem 'rspec-rails'
-gem 'cucumber'
-gem 'aruba'
-gem 'rails'
-gem 'capistrano'

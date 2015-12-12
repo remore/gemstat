@@ -1,0 +1,8 @@
+gem 'yajl-ruby'
+gem 'nokogiri'
+gem 'typhoeus'
+gem 'logging'
+gem 'rspec'
+gem 'rr'
+gem 'pry-nav'
+gem 'rake'

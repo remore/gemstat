@@ -1,0 +1,7 @@
+gem 'activerecord'
+gem 'actionpack'
+gem 'database_cleaner'
+gem 'jeweler'
+gem 'cucumber'
+gem 'mysql'
+gem 'rspec'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'trollop'
-gem 'notepunch-git-media'
-gem 'thor'
-gem 'httparty'

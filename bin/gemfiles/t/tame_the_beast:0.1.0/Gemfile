@@ -1,4 +1,0 @@
-gem 'ruby-debug'
-gem 'rspec'
-gem 'growl'
-gem 'guard-rspec'

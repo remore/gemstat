@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'fog'
-gem 'retryable'
-gem 'pry'

@@ -1,0 +1,4 @@
+gem 'rack'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'

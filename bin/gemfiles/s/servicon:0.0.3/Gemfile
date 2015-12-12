@@ -1,7 +1,0 @@
-gem 'paint'
-gem 'thor'
-gem 'cucumber'
-gem 'aruba'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

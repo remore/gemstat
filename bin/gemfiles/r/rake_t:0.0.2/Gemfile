@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'capybara'
-gem 'launchy'
-gem 'poltergeist'
-gem 'sqlite3'

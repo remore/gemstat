@@ -1,5 +1,0 @@
-gem 'meta_methods'
-gem 'json'
-gem 'text-interpolator'
-gem 'gemspec_deps_gen'
-gem 'gemcutter'

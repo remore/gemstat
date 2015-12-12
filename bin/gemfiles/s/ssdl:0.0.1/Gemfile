@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'prawn'
-gem 'bundler'
-gem 'rake'

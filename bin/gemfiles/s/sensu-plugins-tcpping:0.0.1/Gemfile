@@ -1,4 +1,0 @@
-gem 'sensu-plugin'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'

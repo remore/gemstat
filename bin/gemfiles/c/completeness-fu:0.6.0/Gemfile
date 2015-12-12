@@ -1,4 +1,0 @@
-gem 'activemodel'
-gem 'rake'
-gem 'shoulda'
-gem 'mocha'

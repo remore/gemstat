@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'simplecov'
-gem 'yard'
-gem 'redcarpet'
-gem 'minitest'
-gem 'turn'

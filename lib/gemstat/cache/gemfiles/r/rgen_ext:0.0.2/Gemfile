@@ -1,0 +1,4 @@
+gem 'rgen'
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'

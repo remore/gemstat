@@ -1,3 +1,0 @@
-gem 'faraday'
-gem 'net-http-persistent'
-gem 'wisper'

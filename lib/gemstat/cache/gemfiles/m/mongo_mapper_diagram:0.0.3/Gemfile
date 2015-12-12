@@ -1,0 +1,6 @@
+gem 'mongo_mapper'
+gem 'gviz'
+gem 'bson_ext'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

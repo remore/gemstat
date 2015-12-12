@@ -1,4 +1,0 @@
-gem 'puma'
-gem 'get_process_mem'
-gem 'rake'
-gem 'test-unit'

@@ -1,4 +1,0 @@
-gem 'actionmailer'
-gem 'addressable'
-gem 'css_parser'
-gem 'nokogiri'

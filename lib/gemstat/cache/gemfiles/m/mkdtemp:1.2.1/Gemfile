@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rcov'
+gem 'rspec'
+gem 'yard'

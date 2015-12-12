@@ -1,4 +1,0 @@
-gem 'addressable'
-gem 'public_suffix'
-gem 'nokogiri'
-gem 'rspec'

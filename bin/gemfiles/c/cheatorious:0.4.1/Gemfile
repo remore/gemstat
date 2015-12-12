@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'rainbow'
-gem 'hirb'
-gem 'hirb-unicode'
-gem 'step-up'
-gem 'rake'

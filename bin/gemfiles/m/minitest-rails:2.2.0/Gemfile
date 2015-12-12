@@ -1,5 +1,0 @@
-gem 'minitest'
-gem 'railties'
-gem 'rdoc'
-gem 'fakefs'
-gem 'hoe'

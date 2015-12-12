@@ -1,6 +1,0 @@
-gem 'json'
-gem 'thin'
-gem 'webmock'
-gem 'curb'
-gem 'rake'
-gem 'rspec'

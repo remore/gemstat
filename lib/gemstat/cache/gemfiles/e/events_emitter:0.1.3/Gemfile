@@ -1,0 +1,8 @@
+gem 'shoulda'
+gem 'mocha'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'redis'
+gem 'dalli'

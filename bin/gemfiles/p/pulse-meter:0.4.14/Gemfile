@@ -1,5 +1,0 @@
-gem 'pulse_meter_cli'
-gem 'pulse_meter_core'
-gem 'pulse_meter_visualizer'
-gem 'rake'
-gem 'foreman'

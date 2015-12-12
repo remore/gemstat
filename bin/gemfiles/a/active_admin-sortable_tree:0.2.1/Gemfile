@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'activeadmin'
-gem 'jquery-ui-rails'
-gem 'capybara'
-gem 'rspec-rails'
-gem 'phantomjs'
-gem 'poltergeist'
-gem 'database_cleaner'

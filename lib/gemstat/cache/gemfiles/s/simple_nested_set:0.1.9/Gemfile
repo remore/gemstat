@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'gem_patching'
+gem 'test_declarative'
+gem 'rake'
+gem 'sqlite3'
+gem 'pg'
+gem 'mysql2'
+gem 'database_cleaner'

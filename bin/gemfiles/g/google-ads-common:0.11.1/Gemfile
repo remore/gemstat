@@ -1,4 +1,0 @@
-gem 'google-ads-savon'
-gem 'httpi'
-gem 'signet'
-gem 'rake'

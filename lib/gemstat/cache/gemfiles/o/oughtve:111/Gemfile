@@ -1,0 +1,4 @@
+gem 'dm-core'
+gem 'data_objects'
+gem 'do_sqlite3'
+gem 'rspec'

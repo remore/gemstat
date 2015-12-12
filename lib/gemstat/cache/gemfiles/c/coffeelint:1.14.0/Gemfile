@@ -1,0 +1,5 @@
+gem 'coffee-script'
+gem 'json'
+gem 'execjs'
+gem 'rspec'
+gem 'rake'

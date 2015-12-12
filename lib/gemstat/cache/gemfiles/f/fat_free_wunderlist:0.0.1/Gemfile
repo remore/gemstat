@@ -1,0 +1,8 @@
+gem 'mail'
+gem 'rails'
+gem 'actionmailer'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'combustion'
+gem 'sqlite3'
+gem 'factory_girl'

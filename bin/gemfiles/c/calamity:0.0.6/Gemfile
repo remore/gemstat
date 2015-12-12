@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'gli'
-gem 'sqlite3'

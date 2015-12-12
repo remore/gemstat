@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'collection_of'
-gem 'bundler'
-gem 'rake'
-gem 'thor'
-gem 'mechanize'
-gem 'rubyzip'
-gem 'pry'

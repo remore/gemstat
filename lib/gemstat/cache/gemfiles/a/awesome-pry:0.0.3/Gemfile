@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'pry-rails'
+gem 'awesome_print'
+gem 'pry-byebug'
+gem 'pry-doc'
+gem 'pry-stack_explorer'
+gem 'bundler'
+gem 'rake'

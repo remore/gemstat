@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'bcrypt-ruby'
-gem 'jeweler'
-gem 'rake'
-gem 'ruby-debug19'
-gem 'sqlite3'
-gem 'activerecord'

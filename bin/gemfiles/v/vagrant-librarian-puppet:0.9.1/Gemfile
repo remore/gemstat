@@ -1,6 +1,0 @@
-gem 'librarian-puppet'
-gem 'her'
-gem 'puppet'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

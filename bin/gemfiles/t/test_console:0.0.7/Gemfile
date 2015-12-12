@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'hirb'
-gem 'mocha'
-gem 'shoulda'
-gem 'sqlite3'
-gem 'ruby-debug'

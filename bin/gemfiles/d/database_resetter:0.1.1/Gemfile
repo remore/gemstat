@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'ap'
-gem 'pry'
-gem 'jeweler'

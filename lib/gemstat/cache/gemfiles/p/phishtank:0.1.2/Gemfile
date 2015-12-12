@@ -1,0 +1,4 @@
+gem 'typhoeus'
+gem 'nokogiri'
+gem 'rspec'
+gem 'vcr'

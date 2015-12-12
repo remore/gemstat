@@ -1,0 +1,5 @@
+gem 'factory_girl_rails'
+gem 'pg'
+gem 'rspec-rails'
+gem 'phony_rails'
+gem 'rails'

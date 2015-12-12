@@ -1,0 +1,2 @@
+gem 'ember-auth-module-url_authenticatable-source'
+gem 'rails'

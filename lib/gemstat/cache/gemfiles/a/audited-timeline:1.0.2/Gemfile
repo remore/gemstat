@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'audited'
+gem 'rails'
+gem 'draper'

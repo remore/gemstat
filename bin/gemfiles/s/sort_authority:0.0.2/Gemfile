@@ -1,3 +1,0 @@
-gem 'rake'
-gem 'ffi-compiler'
-gem 'minitest'

@@ -1,8 +1,0 @@
-gem 'facets'
-gem 'ansi'
-gem 'rdoc'
-gem 'xml-simple'
-gem 'detroit'
-gem 'citron'
-gem 'lime'
-gem 'ae'

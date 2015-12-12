@@ -1,0 +1,7 @@
+gem 'httparty'
+gem 'activesupport'
+gem 'minitest'
+gem 'webmock'
+gem 'vcr'
+gem 'pry'
+gem 'simplecov'

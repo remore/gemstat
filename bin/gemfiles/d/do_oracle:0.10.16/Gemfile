@@ -1,3 +1,0 @@
-gem 'data_objects'
-gem 'rspec'
-gem 'rake-compiler'

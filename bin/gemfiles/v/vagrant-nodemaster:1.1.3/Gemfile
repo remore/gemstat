@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'sqlite3'
-gem 'bundler'
-gem 'rake'

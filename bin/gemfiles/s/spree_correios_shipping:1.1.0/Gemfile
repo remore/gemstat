@@ -1,7 +1,0 @@
-gem 'spree_core'
-gem 'correios-frete'
-gem 'capybara'
-gem 'factory_girl'
-gem 'ffaker'
-gem 'rspec-rails'
-gem 'pg'

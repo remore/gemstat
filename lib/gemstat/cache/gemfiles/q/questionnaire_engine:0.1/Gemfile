@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'mocha'
+gem 'faker'
+gem 'rake'

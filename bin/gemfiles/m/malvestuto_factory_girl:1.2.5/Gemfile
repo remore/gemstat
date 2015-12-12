@@ -1,6 +1,0 @@
-gem 'rcov'
-gem 'rspec'
-gem 'cucumber'
-gem 'activerecord'
-gem 'rr'
-gem 'sqlite3'

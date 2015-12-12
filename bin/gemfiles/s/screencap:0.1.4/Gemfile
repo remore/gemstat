@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'phantomjs.rb'
-gem 'fastimage'
-gem 'phantomjs'

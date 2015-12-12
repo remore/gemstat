@@ -1,6 +1,0 @@
-gem 'cassandra-driver'
-gem 'inflecto'
-gem 'query_builder'
-gem 'rom'
-gem 'hexx-rspec'
-gem 'timecop'

@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'em-websocket'
+gem 'sinatra'
+gem 'slop'
+gem 'launchy'

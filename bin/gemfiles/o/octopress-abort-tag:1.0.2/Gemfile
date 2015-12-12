@@ -1,5 +1,0 @@
-gem 'octopress-tag-helpers'
-gem 'jekyll'
-gem 'bundler'
-gem 'rake'
-gem 'clash'

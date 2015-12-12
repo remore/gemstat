@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'thor'
-gem 'colored'
-gem 'redis'
-gem 'hiredis'
-gem 'twitter'

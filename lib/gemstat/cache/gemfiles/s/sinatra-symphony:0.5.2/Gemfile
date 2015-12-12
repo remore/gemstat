@@ -1,0 +1,7 @@
+gem 'sinatra'
+gem 'em-synchrony'
+gem 'async-rack'
+gem 'rake'
+gem 'thin'
+gem 'rack-test'
+gem 'em-http-request'

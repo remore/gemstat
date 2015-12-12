@@ -1,7 +1,0 @@
-gem 'adapter-postgres'
-gem 'jeweler'
-gem 'yajl-ruby'
-gem 'rspec'
-gem 'log_buddy'
-gem 'timecop'
-gem 'i18n'

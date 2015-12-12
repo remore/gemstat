@@ -1,8 +1,0 @@
-gem 'faraday'
-gem 'multi_json'
-gem 'json'
-gem 'rake'
-gem 'rdiscount'
-gem 'rspec'
-gem 'simplecov'
-gem 'webmock'

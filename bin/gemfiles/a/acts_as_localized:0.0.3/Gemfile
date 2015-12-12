@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'i18n'
-gem 'sqlite3'
-gem 'minitest'

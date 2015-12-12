@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'mocha'
-gem 'bourne'
-gem 'rake'

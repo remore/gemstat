@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'madmimi'
-gem 'actionmailer'
-gem 'jeweler'
-gem 'rspec'

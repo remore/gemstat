@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'schacon-git'
+gem 'rest_client'
+gem 'bones'

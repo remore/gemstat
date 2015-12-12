@@ -1,6 +1,0 @@
-gem 'choice'
-gem 'sinatra'
-gem 'json'
-gem 'tinder'
-gem 'rack-test'
-gem 'mocha'

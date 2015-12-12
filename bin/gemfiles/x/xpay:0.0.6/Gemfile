@@ -1,6 +1,0 @@
-gem 'active_support'
-gem 'bundler'
-gem 'rspec'
-gem 'shoulda'
-gem 'mocha'
-gem 'log_buddy'

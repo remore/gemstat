@@ -1,0 +1,4 @@
+gem 'brief'
+gem 'datapimp'
+gem 'bundler'
+gem 'rake'

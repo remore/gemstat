@@ -1,4 +1,0 @@
-gem 'jamster-statsd'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'

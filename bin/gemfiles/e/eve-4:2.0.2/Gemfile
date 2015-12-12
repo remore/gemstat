@@ -1,6 +1,0 @@
-gem 'nokogiri'
-gem 'activesupport'
-gem 'sc-core-ext'
-gem 'rails'
-gem 'rspec-rails'
-gem 'bundler'

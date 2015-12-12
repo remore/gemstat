@@ -1,5 +1,0 @@
-gem 'configparser'
-gem 'json'
-gem 'crack'
-gem 'bundler'
-gem 'rake'

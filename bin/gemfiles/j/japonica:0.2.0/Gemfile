@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'nokogiri'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

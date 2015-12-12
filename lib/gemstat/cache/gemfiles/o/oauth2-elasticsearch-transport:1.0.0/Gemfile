@@ -1,0 +1,5 @@
+gem 'elasticsearch'
+gem 'oauth2'
+gem 'rspec'
+gem 'debugger'
+gem 'webmock'

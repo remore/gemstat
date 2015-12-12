@@ -1,3 +1,0 @@
-gem 'connection_pool'
-gem 'redic'
-gem 'cutest'

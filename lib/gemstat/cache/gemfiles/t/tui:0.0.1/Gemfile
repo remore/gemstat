@@ -1,0 +1,5 @@
+gem 'commander'
+gem 'excon'
+gem 'mime-types'
+gem 'json'
+gem 'rspec'

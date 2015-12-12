@@ -1,4 +1,0 @@
-gem 'json'
-gem 'thrift'
-gem 'rspec'
-gem 'simplecov'

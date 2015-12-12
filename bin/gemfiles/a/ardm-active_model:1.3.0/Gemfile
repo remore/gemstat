@@ -1,6 +1,0 @@
-gem 'ardm-core'
-gem 'activemodel'
-gem 'ardm-validations'
-gem 'rake'
-gem 'rspec'
-gem 'test-unit'

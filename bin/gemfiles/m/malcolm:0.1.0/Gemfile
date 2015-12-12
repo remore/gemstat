@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'gyoku'
-gem 'nori'
-gem 'nokogiri'
-gem 'rake'
-gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'chef'
-gem 'aruba'
-gem 'bundler'
-gem 'cucumber'
-gem 'rake'

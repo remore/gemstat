@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'bootstrap-sass'
-gem 'font-awesome-sass'
-gem 'sprockets'
-gem 'uglifier'
-gem 'bundler'

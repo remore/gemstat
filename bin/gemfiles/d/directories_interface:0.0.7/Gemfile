@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'savon'
-gem 'akami'
-gem 'htmlentities'
-gem 'nokogiri'
-gem 'jruby-openssl'

@@ -1,4 +1,0 @@
-gem 'colorize'
-gem 'github-markup'
-gem 'listen'
-gem 'redcarpet'

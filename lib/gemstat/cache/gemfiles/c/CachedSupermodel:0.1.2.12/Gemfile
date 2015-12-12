@@ -1,0 +1,2 @@
+gem 'AdoccaMemcache'
+gem 'hoe'

@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'json'
-gem 'rest-client'
-gem 'highline'
-gem 'terminal-table'

@@ -1,4 +1,0 @@
-gem 'origen'
-gem 'origen_testers'
-gem 'origen_doc_helpers'
-gem 'origen_jtag'

@@ -1,6 +1,0 @@
-gem 'reek'
-gem 'flog'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'autotest'

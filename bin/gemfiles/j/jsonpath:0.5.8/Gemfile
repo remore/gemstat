@@ -1,6 +1,0 @@
-gem 'multi_json'
-gem 'code_stats'
-gem 'rake'
-gem 'minitest'
-gem 'phocus'
-gem 'bundler'

@@ -1,0 +1,5 @@
+gem 'json-ld'
+gem 'rdf'
+gem 'rdf-turle'
+gem 'rdf-rdfa'
+gem 'jekyll'

@@ -1,6 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-codec-plain'
-gem 'stud'
-gem 'mixpanel_client'
-gem 'rufus-scheduler'
-gem 'logstash-devutils'

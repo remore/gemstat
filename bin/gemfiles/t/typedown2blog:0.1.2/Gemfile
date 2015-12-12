@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'attachments'
-gem 'typedown'
-gem 'mail_processor'

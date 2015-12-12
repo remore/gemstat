@@ -1,4 +1,0 @@
-gem 'libxml-ruby'
-gem 'httparty'
-gem 'rspec'
-gem 'webmock'

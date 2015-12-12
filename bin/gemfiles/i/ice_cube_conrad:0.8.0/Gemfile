@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'active_support'
-gem 'tzinfo'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'virtus'
-gem 'multi_json'

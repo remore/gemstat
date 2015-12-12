@@ -1,0 +1,6 @@
+gem 'rapuncel'
+gem 'rake'
+gem 'rspec'
+gem 'rr'
+gem 'webmock'
+gem 'vcr'

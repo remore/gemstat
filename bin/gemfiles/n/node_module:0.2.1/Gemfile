@@ -1,6 +1,0 @@
-gem 'live_ast'
-gem 'therubyracer'
-gem 'opal'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

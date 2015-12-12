@@ -1,8 +1,0 @@
-gem 'mongoid'
-gem 'rdoc'
-gem 'bson_ext'
-gem 'rspec-core'
-gem 'rspec'
-gem 'database_cleaner'
-gem 'bundler'
-gem 'jeweler'

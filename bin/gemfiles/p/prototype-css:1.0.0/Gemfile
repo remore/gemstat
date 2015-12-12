@@ -1,4 +1,0 @@
-gem 'sass'
-gem 'compass'
-gem 'SassyJSON'
-gem 'SassyStrings'

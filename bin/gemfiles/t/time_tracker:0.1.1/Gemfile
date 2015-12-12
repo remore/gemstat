@@ -1,4 +1,0 @@
-gem 'icalendar'
-gem 'prawn'
-gem 'json'
-gem 'httpclient'

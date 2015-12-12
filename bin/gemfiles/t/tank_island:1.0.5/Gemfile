@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'gosu'
-gem 'rmagick'
-gem 'gosu_texture_packer'
-gem 'perlin_noise'

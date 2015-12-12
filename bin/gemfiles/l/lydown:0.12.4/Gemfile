@@ -1,8 +1,0 @@
-gem 'treetop'
-gem 'diff-lcs'
-gem 'escape_utils'
-gem 'thor'
-gem 'directory_watcher'
-gem 'ruby-progressbar'
-gem 'parallel'
-gem 'combine_pdf'

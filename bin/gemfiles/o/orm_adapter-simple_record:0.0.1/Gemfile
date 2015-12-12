@@ -1,6 +1,0 @@
-gem 'orm_adapter'
-gem 'simple_record'
-gem 'rake'
-gem 'rspec'
-gem 'active_support'
-gem 'i18n'

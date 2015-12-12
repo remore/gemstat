@@ -1,3 +1,0 @@
-gem 'railties'
-gem 'logical_model'
-gem 'protected_attributes'

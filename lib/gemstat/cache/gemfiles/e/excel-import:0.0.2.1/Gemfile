@@ -1,0 +1,4 @@
+gem 'roo'
+gem 'axlsx'
+gem 'rubyzip'
+gem 'zip-zip'

@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rack-contrib'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-param'
+gem 'activesupport'
+gem 'rake'

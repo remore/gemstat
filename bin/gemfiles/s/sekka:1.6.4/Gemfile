@@ -1,8 +1,0 @@
-gem 'eventmachine'
-gem 'memcache-client'
-gem 'nendo'
-gem 'distributed-trie'
-gem 'rack'
-gem 'ruby-progressbar'
-gem 'bundler'
-gem 'rake'

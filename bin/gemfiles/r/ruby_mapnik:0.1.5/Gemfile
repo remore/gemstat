@@ -1,4 +1,0 @@
-gem 'rice'
-gem 'rake-compiler'
-gem 'chunky_png'
-gem 'hoe'

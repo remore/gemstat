@@ -1,6 +1,0 @@
-gem 'i18n'
-gem 'railties'
-gem 'rspec-rails'
-gem 'i18n-spec'
-gem 'spork'
-gem 'i18n-tasks'

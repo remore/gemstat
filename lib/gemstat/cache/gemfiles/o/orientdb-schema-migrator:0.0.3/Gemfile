@@ -1,0 +1,7 @@
+gem 'orientdb4r'
+gem 'activesupport'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'climate_control'

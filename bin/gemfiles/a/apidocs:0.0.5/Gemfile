@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'rdoc'
-gem 'jquery-rails'
-gem 'bootstrap-sass'

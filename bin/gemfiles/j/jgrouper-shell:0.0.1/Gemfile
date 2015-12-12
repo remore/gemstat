@@ -1,5 +1,0 @@
-gem 'jgrouper'
-gem 'pry'
-gem 'rake'
-gem 'rdoc'
-gem 'rdoc-readme'

@@ -1,0 +1,2 @@
+gem 'cocaine'
+gem 'orm_adapter'

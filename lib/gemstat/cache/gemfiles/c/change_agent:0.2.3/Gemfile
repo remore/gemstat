@@ -1,0 +1,6 @@
+gem 'rugged'
+gem 'dotenv'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'shoulda'

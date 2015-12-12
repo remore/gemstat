@@ -1,6 +1,0 @@
-gem 'veritas'
-gem 'backports'
-gem 'jeweler'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

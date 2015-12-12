@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'haml'
+gem 'shoulda'
+gem 'rack-test'
+gem 'rake'

@@ -1,4 +1,0 @@
-gem 'tokyocabinet'
-gem 'json'
-gem 'bundler'
-gem 'jeweler'

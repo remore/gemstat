@@ -1,6 +1,0 @@
-gem 'i18n'
-gem 'ice_nine'
-gem 'inflecto'
-gem 'equalizer'
-gem 'hexx-rspec'
-gem 'timecop'

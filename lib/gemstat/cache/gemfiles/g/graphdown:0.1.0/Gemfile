@@ -1,0 +1,6 @@
+gem 'svgen'
+gem 'thor'
+gem 'redcarpet'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

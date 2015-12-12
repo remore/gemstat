@@ -1,5 +1,0 @@
-gem 'ramverk-utils'
-gem 'bundler'
-gem 'rake'
-gem 'rack'
-gem 'minitest'

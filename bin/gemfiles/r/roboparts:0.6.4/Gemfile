@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rails'
-gem 'bitters'
-gem 'rspec'
-gem 'capybara'

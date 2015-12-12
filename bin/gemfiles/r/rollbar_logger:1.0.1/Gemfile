@@ -1,4 +1,0 @@
-gem 'rollbar'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

@@ -1,0 +1,5 @@
+gem 'parallel'
+gem 'rspec'
+gem 'rake'
+gem 'simplecov'
+gem 'rspec-fire'

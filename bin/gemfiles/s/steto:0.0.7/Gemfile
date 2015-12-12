@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'
-gem 'RedCloth'
-gem 'cocaine'
-gem 'parallel'
-gem 'json'

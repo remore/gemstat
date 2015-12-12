@@ -1,4 +1,0 @@
-gem 'phantomjs'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

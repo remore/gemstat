@@ -1,0 +1,5 @@
+gem 'joint'
+gem 'paperclip'
+gem 'shoulda'
+gem 'mongo_mapper'
+gem 'ruby-debug'

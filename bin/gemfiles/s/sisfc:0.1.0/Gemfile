@@ -1,5 +1,0 @@
-gem 'activesupport'
-gem 'awesome_print'
-gem 'erv'
-gem 'bundler'
-gem 'rake'

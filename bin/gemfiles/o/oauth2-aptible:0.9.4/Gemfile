@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'faraday'
-gem 'multi_json'
-gem 'multi_xml'
-gem 'rack'
-gem 'jwt'

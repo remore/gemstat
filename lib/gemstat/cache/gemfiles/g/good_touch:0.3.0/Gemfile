@@ -1,0 +1,4 @@
+gem 'activerecord'
+gem 'thoughtbot-shoulda'
+gem 'rake'
+gem 'sqlite3'

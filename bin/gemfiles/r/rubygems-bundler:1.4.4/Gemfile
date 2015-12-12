@@ -1,3 +1,0 @@
-gem 'bundler-unload'
-gem 'executable-hooks'
-gem 'tf'

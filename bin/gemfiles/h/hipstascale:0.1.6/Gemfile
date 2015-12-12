@@ -1,3 +1,0 @@
-gem 'eventmachine'
-gem 'json'
-gem 'rest-client'

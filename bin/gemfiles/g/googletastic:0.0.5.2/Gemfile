@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'activesupport'
-gem 'activerecord'
-gem 'gdata'
-gem 'rspec'

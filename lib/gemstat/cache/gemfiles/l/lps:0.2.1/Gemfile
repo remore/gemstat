@@ -1,0 +1,5 @@
+gem 'option_initializer'
+gem 'test-unit'
+gem 'guard'
+gem 'guard-test'
+gem 'rake'

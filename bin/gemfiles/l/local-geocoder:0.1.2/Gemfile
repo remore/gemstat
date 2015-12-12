@@ -1,4 +1,0 @@
-gem 'trollop'
-gem 'rake'
-gem 'rspec'
-gem 'rake-compiler'

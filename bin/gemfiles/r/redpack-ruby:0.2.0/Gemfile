@@ -1,7 +1,0 @@
-gem 'redis'
-gem 'bson'
-gem 'bson_ext'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

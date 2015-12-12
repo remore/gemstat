@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'saxerator'
-gem 'try_to'
-gem 'factory_girl_rails'

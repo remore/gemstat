@@ -1,6 +1,0 @@
-gem 'bibtex-ruby'
-gem 'trollop'
-gem 'ffi-libarchive'
-gem 'ffi-inliner'
-gem 'highline'
-gem 'rspec'

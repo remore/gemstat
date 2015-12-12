@@ -1,0 +1,7 @@
+gem 'yard'
+gem 'jeweler'
+gem 'rcov'
+gem 'configliere'
+gem 'gorillib'
+gem 'erubis'
+gem 'right_aws'

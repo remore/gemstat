@@ -1,4 +1,0 @@
-gem 'artoo'
-gem 'minitest'
-gem 'minitest-happy'
-gem 'mocha'

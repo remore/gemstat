@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'redis'
-gem 'yell'
-gem 'nokogiri'
-gem 'bundler'

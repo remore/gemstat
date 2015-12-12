@@ -1,5 +1,0 @@
-gem 'fluentd'
-gem 'riemann-client'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

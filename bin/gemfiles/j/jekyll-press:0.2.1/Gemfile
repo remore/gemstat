@@ -1,5 +1,0 @@
-gem 'jekyll'
-gem 'html_press'
-gem 'multi_css'
-gem 'multi_js'
-gem 'rake'

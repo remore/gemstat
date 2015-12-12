@@ -1,7 +1,0 @@
-gem 'oauth'
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'cucumber'
-gem 'capybara'
-gem 'simplecov'

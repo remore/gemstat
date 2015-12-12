@@ -1,5 +1,0 @@
-gem 'crisp'
-gem 'rake'
-gem 'jeweler'
-gem 'rspec'
-gem 'treetop'

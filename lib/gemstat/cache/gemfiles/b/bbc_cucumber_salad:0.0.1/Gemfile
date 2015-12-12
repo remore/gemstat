@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'cucumber'
+gem 'rspec'
+gem 'poltergeist'
+gem 'redis'

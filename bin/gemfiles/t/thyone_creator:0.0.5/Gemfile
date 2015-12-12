@@ -1,8 +1,0 @@
-gem 'i18n'
-gem 'activesupport'
-gem 'thor'
-gem 'rake'
-gem 'rspec'
-gem 'mg'
-gem 'activesupport'
-gem 'i18n'

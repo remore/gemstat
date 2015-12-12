@@ -1,4 +1,0 @@
-gem 'json'
-gem 'httparty'
-gem 'bundler'
-gem 'rake'

@@ -1,8 +1,0 @@
-gem 'paperclip'
-gem 'dropbox-sdk'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'activerecord'
-gem 'rest-client'

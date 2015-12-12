@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'activesupport'
+gem 'bundler'
+gem 'uuidtools'
+gem 'rspec'

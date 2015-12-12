@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'memcached-northscale'
-gem 'gchart'
-gem 'haml'

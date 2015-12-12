@@ -1,5 +1,0 @@
-gem 'codeclimate-test-reporter'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

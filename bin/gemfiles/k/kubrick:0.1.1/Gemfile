@@ -1,3 +1,0 @@
-gem 'simple_oauth'
-gem 'faraday'
-gem 'crack'

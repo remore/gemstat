@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'activerecord'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'simplecov'

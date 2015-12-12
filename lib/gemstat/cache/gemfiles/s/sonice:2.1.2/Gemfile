@@ -1,0 +1,6 @@
+gem 'anyplayer'
+gem 'sinatra'
+gem 'haml'
+gem 'xml-simple'
+gem 'thin'
+gem 'rake'

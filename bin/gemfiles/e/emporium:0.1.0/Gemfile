@@ -1,7 +1,0 @@
-gem 'nokogiri'
-gem 'ruby-hmac'
-gem 'json'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'

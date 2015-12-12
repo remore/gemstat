@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'typhoeus'
-gem 'bloomfilter-rb'
-gem 'nokogiri'
-gem 'domainatrix'

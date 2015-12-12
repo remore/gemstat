@@ -1,3 +1,0 @@
-gem 'poltergeist'
-gem 'rspec'
-gem 'simplecov'

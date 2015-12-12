@@ -1,0 +1,7 @@
+gem 'capistrano'
+gem 'capistrano-ext'
+gem 'shoulda'
+gem 'bundler'
+gem 'jeweler'
+gem 'rdoc'
+gem 'rcov'

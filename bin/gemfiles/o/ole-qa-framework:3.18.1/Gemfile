@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'yard'
-gem 'watir-webdriver'
-gem 'headless'
-gem 'rspec'

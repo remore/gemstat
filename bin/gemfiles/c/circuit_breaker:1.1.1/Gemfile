@@ -1,3 +1,0 @@
-gem 'aasm'
-gem 'rake'
-gem 'rspec'

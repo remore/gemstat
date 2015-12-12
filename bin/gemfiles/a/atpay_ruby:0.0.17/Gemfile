@@ -1,8 +1,0 @@
-gem 'rbnacl-libsodium'
-gem 'trollop'
-gem 'liquid'
-gem 'thor'
-gem 'httpi'
-gem 'multi_json'
-gem 'rspec'
-gem 'rspec-mocks'

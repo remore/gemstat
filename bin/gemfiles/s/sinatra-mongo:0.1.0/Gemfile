@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rack-test'
-gem 'mongo'
-gem 'sinatra'

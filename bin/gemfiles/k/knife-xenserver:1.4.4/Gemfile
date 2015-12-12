@@ -1,5 +1,0 @@
-gem 'terminal-table'
-gem 'chef'
-gem 'fog'
-gem 'uuidtools'
-gem 'bundler'

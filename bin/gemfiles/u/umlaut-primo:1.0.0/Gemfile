@@ -1,8 +1,0 @@
-gem 'require_all'
-gem 'exlibris-primo'
-gem 'rake'
-gem 'jquery-rails'
-gem 'mysql2'
-gem 'vcr'
-gem 'webmock'
-gem 'pry'

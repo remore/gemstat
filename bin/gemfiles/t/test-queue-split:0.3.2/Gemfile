@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'cucumber'
-gem 'appium_thor'

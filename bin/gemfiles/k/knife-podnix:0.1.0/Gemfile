@@ -1,6 +1,0 @@
-gem 'podnix'
-gem 'highline'
-gem 'yajl-ruby'
-gem 'chef'
-gem 'minitest'
-gem 'rake'

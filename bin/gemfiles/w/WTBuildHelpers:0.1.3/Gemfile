@@ -1,4 +1,0 @@
-gem 'OptionParser'
-gem 'rest-client'
-gem 'bundler'
-gem 'rake'

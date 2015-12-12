@@ -1,3 +1,0 @@
-gem 'RubyInline'
-gem 'bundler'
-gem 'rspec'

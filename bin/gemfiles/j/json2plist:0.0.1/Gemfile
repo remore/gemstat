@@ -1,5 +1,0 @@
-gem 'multi_json'
-gem 'plist'
-gem 'slop'
-gem 'bundler'
-gem 'rake'

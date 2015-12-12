@@ -1,3 +1,0 @@
-gem 'ruby-protocol-buffers'
-gem 'varint'
-gem 'bundler'

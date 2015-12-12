@@ -1,8 +1,0 @@
-gem 'moon-null_io'
-gem 'rake'
-gem 'rubocop'
-gem 'guard'
-gem 'yard'
-gem 'rspec'
-gem 'codeclimate-test-reporter'
-gem 'simplecov'

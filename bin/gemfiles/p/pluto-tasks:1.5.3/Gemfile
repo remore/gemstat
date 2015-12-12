@@ -1,4 +1,0 @@
-gem 'pluto-models'
-gem 'pluto-update'
-gem 'rdoc'
-gem 'hoe'

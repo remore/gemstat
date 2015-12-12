@@ -1,0 +1,4 @@
+gem 'json'
+gem 'global_phone'
+gem 'global_phone_dbgen'
+gem 'rspec'

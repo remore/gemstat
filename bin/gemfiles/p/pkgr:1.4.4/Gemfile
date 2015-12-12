@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'thor'
-gem 'fpm'
-gem 'facter'
-gem 'mixlib-log'
-gem 'mixlib-shellout'
-gem 'rspec'

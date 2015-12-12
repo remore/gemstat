@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'diff-lcs'
-gem 'colored'

@@ -1,5 +1,0 @@
-gem 'savon'
-gem 'rake'
-gem 'rdoc'
-gem 'vcr'
-gem 'webmock'

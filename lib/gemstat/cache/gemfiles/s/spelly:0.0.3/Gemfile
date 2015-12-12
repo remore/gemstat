@@ -1,0 +1,2 @@
+gem 'hunspell-ffi'
+gem 'rspec'

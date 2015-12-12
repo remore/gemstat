@@ -1,4 +1,0 @@
-gem 'oauth'
-gem 'happymapper'
-gem 'GeoRuby'
-gem 'hoe'

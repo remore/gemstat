@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'colorize'
+gem 'bundler'
+gem 'pry'
+gem 'rake'

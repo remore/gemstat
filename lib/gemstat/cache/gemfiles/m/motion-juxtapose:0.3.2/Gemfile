@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'haml'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakefs'

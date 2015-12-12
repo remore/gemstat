@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'RedCloth'
-gem 'warbler'
-gem 'builder'
-gem 'json'

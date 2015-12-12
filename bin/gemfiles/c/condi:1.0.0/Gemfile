@@ -1,6 +1,0 @@
-gem 'actionpack'
-gem 'mocha'
-gem 'pry'
-gem 'yard'
-gem 'redcarpet'
-gem 'simplecov'

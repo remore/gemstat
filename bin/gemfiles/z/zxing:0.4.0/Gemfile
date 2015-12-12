@@ -1,3 +1,0 @@
-gem 'jruby-jars'
-gem 'rspec'
-gem 'rake'

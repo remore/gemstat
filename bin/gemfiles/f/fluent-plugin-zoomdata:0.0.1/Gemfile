@@ -1,4 +1,0 @@
-gem 'json'
-gem 'fluentd'
-gem 'webmock'
-gem 'fluentd'

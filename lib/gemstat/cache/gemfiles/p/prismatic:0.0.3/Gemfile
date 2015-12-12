@@ -1,0 +1,6 @@
+gem 'site_prism'
+gem 'docile'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'codeclimate-test-reporter'

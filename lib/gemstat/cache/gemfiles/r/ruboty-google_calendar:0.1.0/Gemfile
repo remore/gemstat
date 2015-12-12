@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'google-api-client'
+gem 'ruboty'
+gem 'bundler'
+gem 'rake'

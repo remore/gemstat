@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'simplecov'
+gem 'ruby-prof'
+gem 'ruby-debug19'

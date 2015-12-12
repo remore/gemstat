@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'capybara'
+gem 'plehoux-poltergeist'
+gem 'highline'
+gem 'chronic'

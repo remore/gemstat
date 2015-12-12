@@ -1,5 +1,0 @@
-gem 'anemone'
-gem 'nokogiri'
-gem 'rspec'
-gem 'rake'
-gem 'test_construct'

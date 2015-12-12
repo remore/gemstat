@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'gabba'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

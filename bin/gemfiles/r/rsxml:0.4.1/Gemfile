@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'builder'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rr'

@@ -1,7 +1,0 @@
-gem 'bosh_cli'
-gem 'net-dns'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'rspec-fire'
-gem 'fakeweb'

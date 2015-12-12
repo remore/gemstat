@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'rspec'
-gem 'rack-test'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

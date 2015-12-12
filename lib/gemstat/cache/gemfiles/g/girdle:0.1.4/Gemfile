@@ -1,0 +1,4 @@
+gem 'bundler'
+gem 'mocha'
+gem 'nokogiri'
+gem 'nokogiri-plist'

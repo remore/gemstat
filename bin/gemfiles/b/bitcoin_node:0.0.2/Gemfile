@@ -1,5 +1,0 @@
-gem 'celluloid-io'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

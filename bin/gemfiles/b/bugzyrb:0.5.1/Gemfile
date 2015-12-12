@@ -1,4 +1,0 @@
-gem 'yard'
-gem 'subcommand'
-gem 'highline'
-gem 'sqlite3'

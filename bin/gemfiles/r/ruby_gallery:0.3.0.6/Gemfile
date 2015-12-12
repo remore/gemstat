@@ -1,8 +1,0 @@
-gem 'bourbon'
-gem 'compass-rails'
-gem 'paperclip'
-gem 'jquery-fileupload-rails'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

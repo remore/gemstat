@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'nokogumbo'
-gem 'rails'
-gem 'sprockets'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

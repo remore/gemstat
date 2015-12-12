@@ -1,3 +1,0 @@
-gem 'colors'
-gem 'trollop'
-gem 'net-ssh'

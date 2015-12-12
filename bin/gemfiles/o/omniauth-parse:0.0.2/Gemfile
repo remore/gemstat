@@ -1,5 +1,0 @@
-gem 'multi_json'
-gem 'faraday'
-gem 'rspec'
-gem 'rack-test'
-gem 'webmock'

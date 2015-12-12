@@ -1,0 +1,5 @@
+gem 'multi_json'
+gem 'beanstalk-client'
+gem 'rufus-scheduler'
+gem 'json'
+gem 'dante'

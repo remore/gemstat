@@ -1,0 +1,5 @@
+gem 'fakefs'
+gem 'rake'
+gem 'rspec'
+gem 'simplecov'
+gem 'timecop'

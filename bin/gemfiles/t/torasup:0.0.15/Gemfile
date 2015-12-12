@@ -1,5 +1,0 @@
-gem 'countries'
-gem 'phony'
-gem 'deep_merge'
-gem 'rspec'
-gem 'rake'

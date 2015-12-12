@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'mocha'
-gem 'awesome_print'
-gem 'faraday'
-gem 'multi_json'
-gem 'yajl-ruby'
-gem 'hashr'
-gem 'link_header'

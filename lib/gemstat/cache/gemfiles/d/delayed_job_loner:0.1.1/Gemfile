@@ -1,0 +1,6 @@
+gem 'delayed_job'
+gem 'rspec'
+gem 'rails'
+gem 'sqlite3-ruby'
+gem 'sqlite3_ar_regexp'
+gem 'delayed_job_active_record'

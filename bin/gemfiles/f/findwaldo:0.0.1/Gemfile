@@ -1,4 +1,0 @@
-gem 'nokogiri-diff'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

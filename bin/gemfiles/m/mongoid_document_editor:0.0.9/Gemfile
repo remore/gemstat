@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'simple_form'
-gem 'mongoid'
-gem 'strong_parameters'
-gem 'jquery-rails'
-gem 'bundler'
-gem 'rake'

@@ -1,0 +1,5 @@
+gem 'gem_hadar'
+gem 'rake'
+gem 'simplecov'
+gem 'test-unit'
+gem 'tins'

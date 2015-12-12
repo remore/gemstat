@@ -1,3 +1,0 @@
-gem 'orm_adapter'
-gem 'mongo_mapper'
-gem 'devise'

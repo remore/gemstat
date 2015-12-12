@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rails'
+gem 'rspec-rails'
+gem 'pry-meta'

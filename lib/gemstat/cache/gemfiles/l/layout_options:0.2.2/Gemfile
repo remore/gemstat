@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-rails'
+gem 'ruby-debug19'
+gem 'inherited_resources'

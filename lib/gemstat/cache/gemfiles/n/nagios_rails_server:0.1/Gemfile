@@ -1,0 +1,4 @@
+gem 'nagios_helper'
+gem 'async_sinatra'
+gem 'thin'
+gem 'rake'

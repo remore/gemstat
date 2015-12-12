@@ -1,0 +1,4 @@
+gem 'session'
+gem 'guard-rspec'
+gem 'rr'
+gem 'rspec'

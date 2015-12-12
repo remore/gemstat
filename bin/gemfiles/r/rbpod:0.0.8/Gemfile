@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'rdoc'
-gem 'rake-compiler'
-gem 'rake'
-gem 'trollop'

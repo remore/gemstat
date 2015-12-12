@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'childprocess'
-gem 'nokogiri'
-gem 'ptools'

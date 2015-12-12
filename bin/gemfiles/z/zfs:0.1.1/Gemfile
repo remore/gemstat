@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'guard-rspec'
-gem 'guard-bundler'
-gem 'rake'
-gem 'vagrant'
-gem 'vagrant-proxyssh'

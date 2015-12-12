@@ -1,5 +1,0 @@
-gem 'gaku_core'
-gem 'gaku_admin'
-gem 'gaku_frontend'
-gem 'gaku_testing'
-gem 'gaku_sample'

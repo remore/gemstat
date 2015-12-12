@@ -1,5 +1,0 @@
-gem 'colored'
-gem 'sys-proctable'
-gem 'cucumber'
-gem 'rspec'
-gem 'rubocop'

@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rspec-mocks'
-gem 'bundler'
-gem 'activeresource'
-gem 'activerecord'

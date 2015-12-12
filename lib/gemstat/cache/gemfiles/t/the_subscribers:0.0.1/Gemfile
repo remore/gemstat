@@ -1,0 +1,5 @@
+gem 'state_machine'
+gem 'encryptor'
+gem 'haml'
+gem 'bundler'
+gem 'rake'

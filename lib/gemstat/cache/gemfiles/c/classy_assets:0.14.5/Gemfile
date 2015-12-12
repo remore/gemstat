@@ -1,0 +1,7 @@
+gem 'sprockets'
+gem 'sinatra'
+gem 'escape_utils'
+gem 'oj'
+gem 'bundler'
+gem 'rake'
+gem 'gem-release'

@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'rspec'
-gem 'sqlite3'
-gem 'mysql2'
-gem 'pg'
-gem 'rake'
-gem 'simplecov'

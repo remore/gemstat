@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'hashie'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-nav'

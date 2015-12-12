@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'murder'
-gem 'rspec'
-gem 'mocha'

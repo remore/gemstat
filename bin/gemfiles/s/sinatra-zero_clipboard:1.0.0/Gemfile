@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rack'
-gem 'rack-test'
-gem 'rspec'
-gem 'simplecov'
-gem 'slim'
-gem 'pry'
-gem 'sinatra'

@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'meta_search'
+gem 'devise'
+gem 'formtastic'
+gem 'inherited_resources'
+gem 'kaminari'
+gem 'sass'
+gem 'fastercsv'

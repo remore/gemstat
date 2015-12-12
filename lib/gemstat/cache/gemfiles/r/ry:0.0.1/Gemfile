@@ -1,0 +1,7 @@
+gem 'bundler'
+gem 'rdoc'
+gem 'aruba'
+gem 'rake'
+gem 'test-unit'
+gem 'rspec'
+gem 'methadone-rehab'

@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'sequel'
-gem 'http_spew'
-gem 'rpatricia'
-gem 'wrongdoc'

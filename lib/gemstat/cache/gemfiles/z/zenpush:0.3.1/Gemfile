@@ -1,0 +1,7 @@
+gem 'boson'
+gem 'httparty'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'awesome_print'
+gem 'json_pure'
+gem 'rake'

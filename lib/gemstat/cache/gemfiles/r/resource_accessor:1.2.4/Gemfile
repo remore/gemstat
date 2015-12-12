@@ -1,0 +1,2 @@
+gem 'gemspec_deps_gen'
+gem 'gemcutter'

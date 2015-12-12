@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'redis'
-gem 'rdoc'

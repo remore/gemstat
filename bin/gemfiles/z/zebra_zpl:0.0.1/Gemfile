@@ -1,5 +1,0 @@
-gem 'cover_me'
-gem 'zebra_zpl'
-gem 'rspec'
-gem 'pry'
-gem 'pry-nav'

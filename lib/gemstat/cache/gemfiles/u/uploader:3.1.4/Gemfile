@@ -1,0 +1,4 @@
+gem 'mime-types'
+gem 'rack'
+gem 'paperclip'
+gem 'aws-s3'

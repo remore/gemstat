@@ -1,0 +1,7 @@
+gem 'rack'
+gem 'rake'
+gem 'rspec'
+gem 'bundler'
+gem 'rack-test'
+gem 'yarjuf'
+gem 'cucumber'

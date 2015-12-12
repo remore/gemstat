@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'paperclip'
-gem 'rest-client'

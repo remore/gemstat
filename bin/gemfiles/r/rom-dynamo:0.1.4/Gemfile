@@ -1,4 +1,0 @@
-gem 'rom'
-gem 'aws-sdk-core'
-gem 'bundler'
-gem 'rake'

@@ -1,2 +1,0 @@
-gem 'faye-websocket'
-gem 'rack'

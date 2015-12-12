@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'rspec'
+gem 'pg'
+gem 'nokogiri'
+gem 'sanitize'
+gem 'string_in_file'
+gem 'array_in_file'
+gem 'database_params'

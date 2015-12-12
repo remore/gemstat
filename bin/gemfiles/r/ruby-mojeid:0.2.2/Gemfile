@@ -1,6 +1,0 @@
-gem 'ruby-openid'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'ruby-openid'

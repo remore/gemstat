@@ -1,2 +1,0 @@
-gem 'msgpack-rpc'
-gem 'net-scp'

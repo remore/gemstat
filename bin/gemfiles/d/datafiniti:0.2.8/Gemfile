@@ -1,6 +1,0 @@
-gem 'webmock'
-gem 'vcr'
-gem 'dotenv'
-gem 'faraday'
-gem 'httparty'
-gem 'solr_query'

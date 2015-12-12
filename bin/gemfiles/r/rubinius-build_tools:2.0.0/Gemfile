@@ -1,5 +1,0 @@
-gem 'rubinius-ast'
-gem 'rubinius-compiler'
-gem 'rubinius-melbourne'
-gem 'rubinius-processor'
-gem 'rubinius-toolset'

@@ -1,5 +1,0 @@
-gem 'mocha'
-gem 'minitest'
-gem 'yard'
-gem 'rcov'
-gem 'ruby-debug'

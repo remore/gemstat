@@ -1,0 +1,6 @@
+gem 'jnunemaker-httparty'
+gem 'jnunemaker-happymapper'
+gem 'mislav-will_paginate'
+gem 'nokogiri'
+gem 'configatron'
+gem 'ruby-hmac'

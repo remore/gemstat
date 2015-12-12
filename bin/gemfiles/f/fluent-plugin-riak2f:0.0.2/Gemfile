@@ -1,6 +1,0 @@
-gem 'fluentd'
-gem 'riak-client'
-gem 'uuidtools'
-gem 'rake'
-gem 'simplecov'
-gem 'rr'

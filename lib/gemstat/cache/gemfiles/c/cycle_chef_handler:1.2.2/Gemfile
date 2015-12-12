@@ -1,0 +1,5 @@
+gem 'chef'
+gem 'bunny'
+gem 'classad'
+gem 'rdoc'
+gem 'hoe'

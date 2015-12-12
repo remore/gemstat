@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'redis'
-gem 'carrierwave'
-gem 'mini_magick'
-gem 'yajl-ruby'
-gem 'bundler'
-gem 'rake'

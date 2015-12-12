@@ -1,3 +1,0 @@
-gem 'meta_tools'
-gem 'rspec'
-gem 'guard-rspec'

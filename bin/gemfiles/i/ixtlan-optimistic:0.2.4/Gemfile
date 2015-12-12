@@ -1,5 +1,0 @@
-gem 'minitest'
-gem 'dm-timestamps'
-gem 'dm-migrations'
-gem 'dm-sqlite-adapter'
-gem 'rake'

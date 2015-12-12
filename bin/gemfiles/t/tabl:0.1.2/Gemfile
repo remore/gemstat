@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'fastercsv'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'libnotify'
-gem 'guard-rspec'

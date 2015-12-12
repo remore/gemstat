@@ -1,7 +1,0 @@
-gem 'libxml-ruby'
-gem 'nokogiri'
-gem 'jeweler'
-gem 'git'
-gem 'rake'
-gem 'shoulda'
-gem 'rspec'

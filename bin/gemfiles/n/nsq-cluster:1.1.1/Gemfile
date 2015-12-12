@@ -1,6 +1,0 @@
-gem 'sys-proctable'
-gem 'fakeweb'
-gem 'jeweler'
-gem 'rspec'
-gem 'rspec-rainbow'
-gem 'rspec-legacy_formatters'

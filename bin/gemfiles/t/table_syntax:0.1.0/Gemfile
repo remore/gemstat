@@ -1,7 +1,0 @@
-gem 'parser'
-gem 'unparser'
-gem 'proc_to_ast'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-reporters'

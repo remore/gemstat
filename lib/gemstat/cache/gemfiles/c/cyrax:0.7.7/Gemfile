@@ -1,0 +1,6 @@
+gem 'activesupport'
+gem 'activemodel'
+gem 'has_active_logger'
+gem 'multi_json'
+gem 'sqlite3'
+gem 'rspec'

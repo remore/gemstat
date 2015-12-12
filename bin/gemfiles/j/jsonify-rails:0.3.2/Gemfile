@@ -1,6 +1,0 @@
-gem 'jsonify'
-gem 'actionpack'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rails'

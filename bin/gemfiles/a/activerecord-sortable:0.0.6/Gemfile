@@ -1,4 +1,0 @@
-gem 'capybara'
-gem 'poltergeist'
-gem 'coveralls'
-gem 'rubocop'

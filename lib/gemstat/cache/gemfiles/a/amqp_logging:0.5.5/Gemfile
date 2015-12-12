@@ -1,0 +1,5 @@
+gem 'bunny'
+gem 'activesupport'
+gem 'json'
+gem 'mocha'
+gem 'redgreen'

@@ -1,0 +1,5 @@
+gem 'multi_xml'
+gem 'faraday'
+gem 'minitest'
+gem 'mocha'
+gem 'webmock'

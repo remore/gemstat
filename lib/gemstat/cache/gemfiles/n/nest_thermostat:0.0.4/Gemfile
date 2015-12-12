@@ -1,0 +1,5 @@
+gem 'httparty'
+gem 'rspec'
+gem 'awesome_print'
+gem 'dotenv'
+gem 'pry'

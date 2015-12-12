@@ -1,0 +1,4 @@
+gem 'rjb'
+gem 'combustion'
+gem 'rspec-rails'
+gem 'jasper-rails-rspec'

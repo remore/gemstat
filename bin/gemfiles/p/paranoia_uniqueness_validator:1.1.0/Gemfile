@@ -1,4 +1,0 @@
-gem 'activerecord'
-gem 'paranoia'
-gem 'database_cleaner'
-gem 'rspec-rails'

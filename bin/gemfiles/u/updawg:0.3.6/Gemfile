@@ -1,4 +1,0 @@
-gem 'builder'
-gem 'aggregate'
-gem 'rspec'
-gem 'hpricot'

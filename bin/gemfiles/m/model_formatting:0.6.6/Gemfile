@@ -1,7 +1,0 @@
-gem 'redcarpet'
-gem 'actionpack'
-gem 'activerecord'
-gem 'activesupport'
-gem 'tidy_ffi'
-gem 'jeremymcanally-context'
-gem 'jeremymcanally-matchy'

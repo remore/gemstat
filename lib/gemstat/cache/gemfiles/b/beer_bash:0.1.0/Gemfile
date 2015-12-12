@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'commander'
+gem 'mechanize'
+gem 'terminal-table'

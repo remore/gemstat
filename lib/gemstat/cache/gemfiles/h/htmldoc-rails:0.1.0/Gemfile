@@ -1,0 +1,7 @@
+gem 'htmldoc'
+gem 'actionpack'
+gem 'mcmire-protest'
+gem 'mcmire-matchy'
+gem 'mcmire-mocha'
+gem 'mocha-protest-integration'
+gem 'yard'

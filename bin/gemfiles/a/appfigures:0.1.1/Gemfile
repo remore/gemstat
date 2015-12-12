@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'httparty'
-gem 'rake'
-gem 'gemcutter'
-gem 'jeweler'

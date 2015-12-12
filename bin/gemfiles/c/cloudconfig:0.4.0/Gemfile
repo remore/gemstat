@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'thor'
-gem 'user_config'
-gem 'cloudstack_ruby_client'

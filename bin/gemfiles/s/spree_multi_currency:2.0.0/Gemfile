@@ -1,6 +1,0 @@
-gem 'spree_core'
-gem 'nokogiri'
-gem 'money'
-gem 'json'
-gem 'rspec'
-gem 'rspec-rails'

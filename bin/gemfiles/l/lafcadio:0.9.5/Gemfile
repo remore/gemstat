@@ -1,7 +1,0 @@
-gem 'contxtlservice'
-gem 'englishext'
-gem 'extensions'
-gem 'log4r'
-gem 'month'
-gem 'queuehash'
-gem 'uscommerce'

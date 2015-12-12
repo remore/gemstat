@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'xml-simple'
-gem 'webmock'
-gem 'capistrano'
-gem 'rest-client'
-gem 'multi_json'
-gem 'builder'

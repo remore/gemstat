@@ -1,0 +1,8 @@
+gem 'multi_json'
+gem 'bundler'
+gem 'fakeweb'
+gem 'mocha'
+gem 'rake'
+gem 'rdoc'
+gem 'rdoc-readme'
+gem 'simplecov'

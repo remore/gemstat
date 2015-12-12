@@ -1,7 +1,0 @@
-gem 'neighborly-balanced'
-gem 'rails'
-gem 'slim'
-gem 'sidekiq'
-gem 'rspec-rails'
-gem 'shoulda-matchers'
-gem 'webmock'

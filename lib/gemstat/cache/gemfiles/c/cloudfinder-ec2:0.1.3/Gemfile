@@ -1,0 +1,6 @@
+gem 'aws-sdk'
+gem 'slop'
+gem 'rake'
+gem 'rspec'
+gem 'guard'
+gem 'guard-rspec'

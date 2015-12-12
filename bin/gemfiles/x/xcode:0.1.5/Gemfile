@@ -1,3 +1,0 @@
-gem 'plist'
-gem 'net-github-upload'
-gem 'keychain_services'

@@ -1,6 +1,0 @@
-gem 'redis'
-gem 'rake'
-gem 'rspec'
-gem 'activerecord'
-gem 'sqlite3-ruby'
-gem 'i18n'

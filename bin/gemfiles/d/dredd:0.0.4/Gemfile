@@ -1,6 +1,0 @@
-gem 'hashie'
-gem 'statsample'
-gem 'bundler'
-gem 'rake'
-gem 'rr'
-gem 'guard-minitest'

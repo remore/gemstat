@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'twitter-bootstrap-rails'
-gem 'jquery-rails'

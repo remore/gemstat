@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rugged'
-gem 'builder'
-gem 'nokogiri'
-gem 'redcarpet'
-gem 'aws-sdk'

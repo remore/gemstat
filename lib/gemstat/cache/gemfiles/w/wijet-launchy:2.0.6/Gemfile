@@ -1,0 +1,8 @@
+gem 'addressable'
+gem 'rake'
+gem 'minitest'
+gem 'bones'
+gem 'bones-rcov'
+gem 'rcov'
+gem 'spoon'
+gem 'ffi'

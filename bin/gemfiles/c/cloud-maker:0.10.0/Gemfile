@@ -1,7 +1,0 @@
-gem 'colorize'
-gem 'thor'
-gem 'aws-sdk'
-gem 'rest-client'
-gem 'deep_merge'
-gem 'ruby-termios'
-gem 'pry'

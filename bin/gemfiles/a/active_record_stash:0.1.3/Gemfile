@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'sqlite3'
-gem 'pry'
-gem 'activerecord'
-gem 'activemodel'
-gem 'activesupport'

@@ -1,3 +1,0 @@
-gem 'rspec'
-gem 'faraday'
-gem 'faraday_middleware'

@@ -1,3 +1,0 @@
-gem 'resque'
-gem 'bundler'
-gem 'rake'

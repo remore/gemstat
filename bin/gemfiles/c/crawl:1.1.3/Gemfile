@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'rest-client'
-gem 'eventmachine'
-gem 'em-http-request'

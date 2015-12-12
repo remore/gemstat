@@ -1,0 +1,6 @@
+gem 'gli'
+gem 'bundler'
+gem 'rake'
+gem 'yard'
+gem 'minitest'
+gem 'minitest-reporters'

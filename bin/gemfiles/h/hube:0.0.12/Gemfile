@@ -1,3 +1,0 @@
-gem 'octokit'
-gem 'hirb'
-gem 'rspec'

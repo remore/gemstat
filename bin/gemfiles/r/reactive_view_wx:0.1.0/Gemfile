@@ -1,6 +1,0 @@
-gem 'reactive'
-gem 'activesupport'
-gem 'actionpack'
-gem 'wxruby'
-gem 'wx_sugar'
-gem 'hoe'

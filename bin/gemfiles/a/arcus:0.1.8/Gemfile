@@ -1,6 +1,0 @@
-gem 'i18n'
-gem 'activesupport'
-gem 'nori'
-gem 'nokogiri'
-gem 'cmdparse'
-gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'hashie'
-gem 'sqlite3'
-gem 'minitest'
-gem 'rails'
-gem 'grape'

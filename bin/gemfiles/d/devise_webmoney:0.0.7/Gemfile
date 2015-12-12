@@ -1,3 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'devise'
-gem 'rack-webmoney'

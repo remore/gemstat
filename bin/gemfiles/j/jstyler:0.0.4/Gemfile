@@ -1,4 +1,0 @@
-gem 'buildr'
-gem 'session'
-gem 'rubyforge'
-gem 'hoe'

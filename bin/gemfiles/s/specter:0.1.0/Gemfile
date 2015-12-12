@@ -1,6 +1,0 @@
-gem 'expedition'
-gem 'middleware'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

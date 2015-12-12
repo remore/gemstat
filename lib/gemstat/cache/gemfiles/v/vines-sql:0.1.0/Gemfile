@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'vines'
+gem 'minitest'
+gem 'rake'
+gem 'sqlite3'

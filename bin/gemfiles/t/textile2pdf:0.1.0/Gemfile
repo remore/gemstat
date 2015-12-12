@@ -1,5 +1,0 @@
-gem 'wkhtmltopdf-binary'
-gem 'pdfkit'
-gem 'RedCloth'
-gem 'optiflag'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'bootstrap-sass'
-gem 'rails'
-gem 'haml'
-gem 'jeweler'

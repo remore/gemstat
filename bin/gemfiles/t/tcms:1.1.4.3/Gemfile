@@ -1,4 +1,0 @@
-gem 'sinatra'
-gem 'httpclient'
-gem 'rake'
-gem 'bundler'

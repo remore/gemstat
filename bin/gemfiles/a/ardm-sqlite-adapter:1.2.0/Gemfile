@@ -1,5 +1,0 @@
-gem 'ardm-do-adapter'
-gem 'do_sqlite3'
-gem 'ardm-migrations'
-gem 'rspec'
-gem 'rake'

@@ -1,7 +1,0 @@
-gem 'watchr'
-gem 'rspec'
-gem 'rake'
-gem 'eventmachine'
-gem 'em-http-request'
-gem 'daemon-kit'
-gem 'resque'

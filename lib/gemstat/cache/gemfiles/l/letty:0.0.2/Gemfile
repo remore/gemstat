@@ -1,0 +1,4 @@
+gem 'debug_inspector'
+gem 'spinny-utilities'
+gem 'bundler'
+gem 'rake'

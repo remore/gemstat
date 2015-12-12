@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'activesupport'
-gem 'shoulda'
-gem 'appraisal'
-gem 'mocha'
-gem 'aws-s3'
-gem 'cloudfiles'
-gem 'sqlite3-ruby'

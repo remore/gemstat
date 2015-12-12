@@ -1,6 +1,0 @@
-gem 'commander'
-gem 'filander'
-gem 'rest-client'
-gem 'json_pure'
-gem 'activesupport'
-gem 'rspec'

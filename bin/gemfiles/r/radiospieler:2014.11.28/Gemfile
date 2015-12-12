@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'htmlentities'
-gem 'simple_cache_rs'
-gem 'nokogiri'
-gem 'addressable'

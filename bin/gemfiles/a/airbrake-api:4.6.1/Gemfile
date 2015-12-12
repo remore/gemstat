@@ -1,5 +1,0 @@
-gem 'hashie'
-gem 'parallel'
-gem 'faraday_middleware'
-gem 'multi_xml'
-gem 'bundler'

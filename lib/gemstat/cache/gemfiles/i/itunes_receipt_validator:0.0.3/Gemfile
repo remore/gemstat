@@ -1,0 +1,8 @@
+gem 'itunes_receipt_decoder'
+gem 'rake'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'simplecov'
+gem 'codeclimate-test-reporter'
+gem 'rubocop'
+gem 'webmock'

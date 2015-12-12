@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'slim'
-gem 'tilt'
-gem 'font-awesome-rails'
-gem 'rspec-rails'
-gem 'capybara'

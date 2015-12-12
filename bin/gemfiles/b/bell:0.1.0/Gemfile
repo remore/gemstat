@@ -1,6 +1,0 @@
-gem 'cucumber'
-gem 'rake'
-gem 'rspec'
-gem 'embratel'
-gem 'sequel'
-gem 'sqlite3'

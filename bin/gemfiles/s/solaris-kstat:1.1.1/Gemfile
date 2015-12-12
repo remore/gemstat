@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'test-unit'
-gem 'mkmf-lite'
-gem 'rake'

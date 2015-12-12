@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

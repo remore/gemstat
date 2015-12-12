@@ -1,0 +1,6 @@
+gem 'rack'
+gem 'activesupport'
+gem 'mongo'
+gem 'mocha'
+gem 'rack-test'
+gem 'thoughtbot-shoulda'

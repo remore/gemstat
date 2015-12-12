@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'sass'
-gem 'bourbon'
-gem 'font-awesome-rails'

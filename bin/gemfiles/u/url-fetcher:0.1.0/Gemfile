@@ -1,8 +1,0 @@
-gem 'image_size'
-gem 'mechanize'
-gem 'minitest'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'metrical'

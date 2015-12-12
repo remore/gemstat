@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'httparty'
-gem 'konacha'
-gem 'bundler'
-gem 'rake'

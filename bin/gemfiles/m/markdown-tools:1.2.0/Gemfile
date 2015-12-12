@@ -1,4 +1,0 @@
-gem 'markdown'
-gem 'markdown-service'
-gem 'rdoc'
-gem 'hoe'

@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'mechanize'
+gem 'nokogiri'
+gem 'term-extract'

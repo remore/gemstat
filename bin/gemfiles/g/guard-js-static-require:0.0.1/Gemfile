@@ -1,2 +1,0 @@
-gem 'guard-minitest'
-gem 'growl_notify'

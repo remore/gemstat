@@ -1,6 +1,0 @@
-gem 'sass'
-gem 'rspec'
-gem 'mocha'
-gem 'bourne'
-gem 'cucumber'
-gem 'aruba'

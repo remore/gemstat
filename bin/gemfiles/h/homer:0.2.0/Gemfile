@@ -1,7 +1,0 @@
-gem 'github_api'
-gem 'highline'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'github_api'
-gem 'jeweler'

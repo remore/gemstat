@@ -1,3 +1,0 @@
-gem 'net-ssh'
-gem 'test-unit'
-gem 'mocha'

@@ -1,7 +1,0 @@
-gem 'highline'
-gem 'inifile'
-gem 'aruba'
-gem 'cucumber'
-gem 'dimensions'
-gem 'rake'
-gem 'rspec-expectations'

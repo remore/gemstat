@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'inline_styles'
-gem 'rails'
-gem 'sass-rails'

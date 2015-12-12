@@ -1,4 +1,0 @@
-gem 'parslet'
-gem 'rspec'
-gem 'jeweler'
-gem 'rake'

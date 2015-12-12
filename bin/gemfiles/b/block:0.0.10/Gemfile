@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'rdoc'
-gem 'aruba'
-gem 'foreman'
-gem 'gli'
-gem 'redis'
-gem 'eventmachine'
-gem 'eventmachine-tail'

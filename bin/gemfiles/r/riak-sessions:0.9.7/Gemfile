@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rspec-rails'
-gem 'yajl-ruby'
-gem 'rails'
-gem 'rake'
-gem 'riak-client'
-gem 'rack'

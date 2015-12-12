@@ -1,4 +1,0 @@
-gem 'safe_yaml'
-gem 'colorize'
-gem 'xml-simple'
-gem 'webmock'

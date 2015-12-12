@@ -1,4 +1,0 @@
-gem 'slim'
-gem 'minitest'
-gem 'bundler'
-gem 'jeweler'

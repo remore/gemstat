@@ -1,4 +1,0 @@
-gem 'comable-core'
-gem 'comable-frontend'
-gem 'comable-backend'
-gem 'comable-sample'

@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'xlsx_writer'
-gem 'prawn'
-gem 'posix-spawn'
-gem 'rspec'
-gem 'remote_table'
-gem 'unix_utils'
-gem 'yard'

@@ -1,3 +1,0 @@
-gem 'test-unit'
-gem 'shoulda'
-gem 'shoulda-matchers'

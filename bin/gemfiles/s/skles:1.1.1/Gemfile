@@ -1,6 +1,0 @@
-gem 'httpclient'
-gem 'savon'
-gem 'jeweler'
-gem 'yard'
-gem 'RedCloth'
-gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'compass'
-gem 'railties'
-gem 'sprockets'
-gem 'rake'

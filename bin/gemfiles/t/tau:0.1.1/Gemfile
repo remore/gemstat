@@ -1,8 +1,0 @@
-gem 'cucumber'
-gem 'aruba'
-gem 'childprocess'
-gem 'sinatra'
-gem 'sass'
-gem 'coffee-script'
-gem 'haml'
-gem 'thor'

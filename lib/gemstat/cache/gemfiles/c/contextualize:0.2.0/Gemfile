@@ -1,0 +1,7 @@
+gem 'mixology'
+gem 'i18n'
+gem 'activesupport'
+gem 'rspec'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'

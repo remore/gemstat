@@ -1,4 +1,0 @@
-gem 'mongoid'
-gem 'pickle'
-gem 'rspec'
-gem 'bundler'

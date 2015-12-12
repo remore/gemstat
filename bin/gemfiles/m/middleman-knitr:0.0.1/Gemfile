@@ -1,4 +1,0 @@
-gem 'tilt'
-gem 'tilt-knitr'
-gem 'minitest'
-gem 'middleman-core'

@@ -1,4 +1,0 @@
-gem 'csspool'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'ghaki-app'
-gem 'ghaki-bool'
-gem 'rspec'
-gem 'mocha'
-gem 'rdoc'

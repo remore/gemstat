@@ -1,3 +1,0 @@
-gem 'faraday'
-gem 'json'
-gem 'log4r'

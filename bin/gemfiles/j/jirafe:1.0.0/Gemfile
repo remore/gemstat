@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'webmock'
-gem 'vcr'
-gem 'yard'
-gem 'rspec'
-gem 'autotest'
-gem 'travis-lint'
-gem 'net-http-server'

@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'graticule'
+gem 'newgem'
+gem 'hoe'

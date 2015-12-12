@@ -1,0 +1,6 @@
+gem 'protest'
+gem 'rubyzip'
+gem 'json'
+gem 'nokogiri'
+gem 'rio'
+gem 'trollop'

@@ -1,7 +1,0 @@
-gem 'addressable'
-gem 'rake'
-gem 'rspec'
-gem 'launchy'
-gem 'diff-lcs'
-gem 'typhoeus'
-gem 'rack'

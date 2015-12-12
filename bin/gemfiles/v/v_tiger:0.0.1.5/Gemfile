@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'activesupport'
-gem 'i18n'
-gem 'rspec'

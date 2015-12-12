@@ -1,3 +1,0 @@
-gem 'ruby-unix-now'
-gem 'rest-client'
-gem 'heroku'

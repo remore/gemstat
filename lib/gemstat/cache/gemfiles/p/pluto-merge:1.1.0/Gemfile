@@ -1,0 +1,5 @@
+gem 'pluto-models'
+gem 'pakman'
+gem 'fetcher'
+gem 'rdoc'
+gem 'hoe'

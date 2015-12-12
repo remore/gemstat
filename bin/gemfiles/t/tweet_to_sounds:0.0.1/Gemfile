@@ -1,7 +1,0 @@
-gem 'freesound-ruby'
-gem 'minitest'
-gem 'mocha'
-gem 'pry'
-gem 'rake'
-gem 'vcr'
-gem 'webmock'

@@ -1,2 +1,0 @@
-gem 'activerecord'
-gem 'collectiveidea-delayed_job'

@@ -1,7 +1,0 @@
-gem 'warden'
-gem 'oauth'
-gem 'activerecord'
-gem 'rspec'
-gem 'rake'
-gem 'sqlite3'
-gem 'factory_girl'

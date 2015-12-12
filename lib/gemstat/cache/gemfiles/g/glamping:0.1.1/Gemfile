@@ -1,0 +1,4 @@
+gem 'metaid'
+gem 'erubis'
+gem 'activerecord'
+gem 'mime-types'

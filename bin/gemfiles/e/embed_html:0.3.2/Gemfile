@@ -1,3 +1,0 @@
-gem 'hpricot'
-gem 'typhoeus'
-gem 'mime-types'

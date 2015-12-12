@@ -1,0 +1,7 @@
+gem 'spree_api'
+gem 'spree_core'
+gem 'bootstrap-sass'
+gem 'canonical-rails'
+gem 'jquery-rails'
+gem 'sprockets-rails'
+gem 'capybara-accessible'

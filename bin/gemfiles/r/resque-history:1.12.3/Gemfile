@@ -1,8 +1,0 @@
-gem 'resque'
-gem 'rake'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec-rails'
-gem 'rspec'
-gem 'rack-test'
-gem 'timecop'

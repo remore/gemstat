@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'watir-rails'
+gem 'nokogiri'
+gem 'headless'
+gem 'grit'

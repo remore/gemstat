@@ -1,4 +1,0 @@
-gem 'common'
-gem 'log4r-1.0.5'
-gem 'rgl-0.2.3'
-gem 'stream-0.5'

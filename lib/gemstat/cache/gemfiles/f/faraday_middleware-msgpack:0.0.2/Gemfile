@@ -1,0 +1,4 @@
+gem 'faraday_middleware'
+gem 'msgpack'
+gem 'rake'
+gem 'rspec'

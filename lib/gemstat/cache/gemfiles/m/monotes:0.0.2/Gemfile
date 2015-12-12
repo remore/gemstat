@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'octokit'
+gem 'netrc'
+gem 'virtus'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'factory_girl'

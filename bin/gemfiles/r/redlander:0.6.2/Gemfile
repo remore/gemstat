@@ -1,3 +1,0 @@
-gem 'xml_schema'
-gem 'ffi'
-gem 'rspec'

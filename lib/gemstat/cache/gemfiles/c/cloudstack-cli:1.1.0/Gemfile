@@ -1,0 +1,4 @@
+gem 'rdoc'
+gem 'rake'
+gem 'thor'
+gem 'cloudstack_client'

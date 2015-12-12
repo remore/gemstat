@@ -1,5 +1,0 @@
-gem 'git'
-gem 'clamp'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'

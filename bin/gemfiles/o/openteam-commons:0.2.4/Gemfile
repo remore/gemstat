@@ -1,5 +1,0 @@
-gem 'airbrake'
-gem 'configliere'
-gem 'rails'
-gem 'unicorn'
-gem 'whenever'

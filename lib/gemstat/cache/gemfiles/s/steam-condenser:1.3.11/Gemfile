@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'multi_xml'
+gem 'mocha'
+gem 'rake'
+gem 'shoulda-context'
+gem 'test-unit'
+gem 'yard'

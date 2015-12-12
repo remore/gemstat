@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'activesupport'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'database_cleaner'

@@ -1,3 +1,0 @@
-gem 'dragonfly'
-gem 'aws-s3'
-gem 'acts_as_list'

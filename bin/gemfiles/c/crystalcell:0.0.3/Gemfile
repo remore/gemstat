@@ -1,8 +1,0 @@
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'malge'
-gem 'mageo'
-gem 'maset'
-gem 'builtinextension'

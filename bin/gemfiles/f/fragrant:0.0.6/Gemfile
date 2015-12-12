@@ -1,8 +1,0 @@
-gem 'vagrant'
-gem 'uuid'
-gem 'puma'
-gem 'vegas'
-gem 'grape'
-gem 'rspec'
-gem 'rake'
-gem 'rack-test'

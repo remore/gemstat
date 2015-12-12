@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'webmock'
-gem 'vcr'
-gem 'turn'
-gem 'rspec'
-gem 'httparty'

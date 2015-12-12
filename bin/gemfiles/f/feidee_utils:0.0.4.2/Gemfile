@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rubyzip'
-gem 'sqlite3'
-gem 'minitest'

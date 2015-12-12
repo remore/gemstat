@@ -1,4 +1,0 @@
-gem 'meme_captain'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

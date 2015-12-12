@@ -1,0 +1,6 @@
+gem 'tzinfo'
+gem 'json'
+gem 'parallel'
+gem 'aws-sdk'
+gem 'bundler'
+gem 'rake'

@@ -1,6 +1,0 @@
-gem 'rdiscount'
-gem 'erubis'
-gem 'git'
-gem 'json'
-gem 'mocha'
-gem 'test-spec'

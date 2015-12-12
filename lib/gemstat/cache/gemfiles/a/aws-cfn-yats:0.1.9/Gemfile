@@ -1,0 +1,2 @@
+gem 'aws-cfn-decompiler'
+gem 'aws-cfn-compiler'

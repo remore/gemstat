@@ -1,8 +1,0 @@
-gem 'multi_json'
-gem 'faraday'
-gem 'mail'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'rspec-expectations'
-gem 'factory_girl'
-gem 'webmock'

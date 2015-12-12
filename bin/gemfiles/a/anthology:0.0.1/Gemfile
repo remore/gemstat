@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'raconteur'
-gem 'paperclip'
-gem 'byebug'
-gem 'minitest'
-gem 'guard'
-gem 'guard-minitest'
-gem 'sqlite3'

@@ -1,0 +1,6 @@
+gem 'recursive-open-struct'
+gem 'foreman'
+gem 'pry'
+gem 'racksh'
+gem 'rake'
+gem 'rspec'

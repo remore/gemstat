@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'trollop'
-gem 'mysql2'
-gem 'ipaddress'

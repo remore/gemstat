@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'timecop'
+gem 'activesupport'
+gem 'tzinfo'

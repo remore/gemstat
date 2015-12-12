@@ -1,4 +1,0 @@
-gem 'rack'
-gem 'activesupport'
-gem 'rspec'
-gem 'timecop'

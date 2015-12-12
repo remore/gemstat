@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'paper_trail'
+gem 'sqlite3'
+gem 'rake'
+gem 'rspec-rails'
+gem 'capybara'

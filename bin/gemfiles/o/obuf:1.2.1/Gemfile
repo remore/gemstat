@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'flexmock'
-gem 'rake'
-gem 'jeweler'

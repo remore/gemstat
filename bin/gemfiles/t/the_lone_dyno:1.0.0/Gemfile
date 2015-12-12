@@ -1,6 +1,0 @@
-gem 'hey_you'
-gem 'pg'
-gem 'activerecord'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

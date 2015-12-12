@@ -1,5 +1,0 @@
-gem 'ero_getter'
-gem 'nokogiri'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

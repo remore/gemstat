@@ -1,0 +1,4 @@
+gem 'generate_method'
+gem 'bundler'
+gem 'rspec'
+gem 'rspec-its'

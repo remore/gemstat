@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'rdoc'
+gem 'jeweler'
+gem 'ruby-prof'

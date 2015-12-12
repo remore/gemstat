@@ -1,0 +1,4 @@
+gem 'rmagick'
+gem 'trollop'
+gem 'rake'
+gem 'rspec'

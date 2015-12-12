@@ -1,4 +1,0 @@
-gem 'pry'
-gem 'rake'
-gem 'webmock'
-gem 'nokogiri'

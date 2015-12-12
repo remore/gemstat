@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'pry-test'
+gem 'simplecov'
+gem 'coveralls'

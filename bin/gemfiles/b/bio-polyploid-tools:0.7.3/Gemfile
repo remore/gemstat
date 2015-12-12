@@ -1,5 +1,0 @@
-gem 'bio'
-gem 'bio-samtools'
-gem 'rake'
-gem 'jeweler'
-gem 'systemu'

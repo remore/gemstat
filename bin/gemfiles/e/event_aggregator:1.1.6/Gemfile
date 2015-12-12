@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'guard-rspec'
-gem 'faker'
-gem 'coveralls'
-gem 'thread'

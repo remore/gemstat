@@ -1,8 +1,0 @@
-gem 'cinch'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'ruby-debug19'

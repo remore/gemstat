@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'chef'
-gem 'safe_yaml'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

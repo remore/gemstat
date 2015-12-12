@@ -1,5 +1,0 @@
-gem 'multi_xml'
-gem 'httparty'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

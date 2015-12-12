@@ -1,6 +1,0 @@
-gem 'honeybadger'
-gem 'spree_core'
-gem 'spree'
-gem 'rake'
-gem 'rspec'
-gem 'sqlite3'

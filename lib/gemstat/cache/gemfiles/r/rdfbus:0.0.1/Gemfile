@@ -1,0 +1,6 @@
+gem 'rdf-spec'
+gem 'rspec'
+gem 'yard'
+gem 'rdf'
+gem 'uuid'
+gem 'amqp'

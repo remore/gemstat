@@ -1,0 +1,4 @@
+gem 'webmachine'
+gem 'sprockets'
+gem 'rspec'
+gem 'rack'

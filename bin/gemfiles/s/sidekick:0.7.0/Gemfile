@@ -1,3 +1,0 @@
-gem 'tilt'
-gem 'eventmachine'
-gem 'em-dir-watcher'

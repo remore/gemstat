@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'webmock'
-gem 'json'
-gem 'rest-client'

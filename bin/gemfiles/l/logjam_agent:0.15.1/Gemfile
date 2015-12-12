@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'i18n'
-gem 'activesupport'
-gem 'time_bandits'

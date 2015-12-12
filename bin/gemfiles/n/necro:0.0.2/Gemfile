@@ -1,7 +1,0 @@
-gem 'slop'
-gem 'iniparse'
-gem 'colored'
-gem 'bacon'
-gem 'mocha'
-gem 'mocha-on-bacon'
-gem 'rake'

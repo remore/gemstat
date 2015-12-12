@@ -1,0 +1,6 @@
+gem 'savon'
+gem 'config_newton'
+gem 'vcr'
+gem 'fakeweb'
+gem 'rspec'
+gem 'equivalent-xml'

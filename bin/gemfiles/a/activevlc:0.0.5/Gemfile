@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'coveralls'
-gem 'thor'
-gem 'activesupport'
-gem 'ffi'

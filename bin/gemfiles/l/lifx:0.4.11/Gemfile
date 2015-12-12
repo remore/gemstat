@@ -1,6 +1,0 @@
-gem 'bindata'
-gem 'timers'
-gem 'configatron'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

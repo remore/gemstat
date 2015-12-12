@@ -1,0 +1,6 @@
+gem 'netrc'
+gem 'rest-client'
+gem 'slop'
+gem 'highline'
+gem 'httparty'
+gem 'git'

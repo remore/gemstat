@@ -1,0 +1,5 @@
+gem 'cancan'
+gem 'bootstrap_forms'
+gem 'rake'
+gem 'rails'
+gem 'rspec-rails'

@@ -1,6 +1,0 @@
-gem 'mash'
-gem 'httparty'
-gem 'shoulda'
-gem 'jnunemaker-matchy'
-gem 'mocha'
-gem 'fakeweb'

@@ -1,5 +1,0 @@
-gem 'middleman'
-gem 'rake'
-gem 'cucumber'
-gem 'aruba'
-gem 'rspec'

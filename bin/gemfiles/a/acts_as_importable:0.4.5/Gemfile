@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'actionpack'
-gem 'fastercsv'
-gem 'bundler'
-gem 'jeweler'

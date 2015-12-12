@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'slop'
-gem 'rake'
-gem 'rest-client'

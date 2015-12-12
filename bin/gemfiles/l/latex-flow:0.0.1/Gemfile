@@ -1,8 +1,0 @@
-gem 'thor'
-gem 'systemu'
-gem 'watchr'
-gem 'highline'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'

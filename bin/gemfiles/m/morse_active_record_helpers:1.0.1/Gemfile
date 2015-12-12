@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'coveralls'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'rake'
-gem 'rspec'

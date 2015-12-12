@@ -1,5 +1,0 @@
-gem 'escape_utils'
-gem 'yajl-ruby'
-gem 'httpi'
-gem 'eventmachine'
-gem 'em-http-request'

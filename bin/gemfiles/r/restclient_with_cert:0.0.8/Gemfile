@@ -1,4 +1,0 @@
-gem 'rest-client'
-gem 'rake'
-gem 'rcov'
-gem 'rspec'

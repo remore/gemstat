@@ -1,5 +1,0 @@
-gem 'json'
-gem 'highline'
-gem 'hoe-yard'
-gem 'webmock'
-gem 'hoe'

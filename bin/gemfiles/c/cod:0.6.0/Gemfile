@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'flexmock'
-gem 'yard'
-gem 'guard'
-gem 'growl'

@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'railties'
-gem 'activerecord'
-gem 'actionpack'
-gem 'devise'

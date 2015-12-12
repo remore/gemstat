@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'sexpr'
-gem 'alf-core'

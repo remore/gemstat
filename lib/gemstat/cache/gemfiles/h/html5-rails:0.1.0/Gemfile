@@ -1,0 +1,4 @@
+gem 'jquery-rails'
+gem 'railties'
+gem 'thor'
+gem 'compass-h5bp'

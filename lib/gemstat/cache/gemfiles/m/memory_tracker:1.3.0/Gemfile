@@ -1,0 +1,6 @@
+gem 'sys-proctable'
+gem 'activesupport'
+gem 'byebug'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'

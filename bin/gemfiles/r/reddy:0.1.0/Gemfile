@@ -1,6 +1,0 @@
-gem 'addressable'
-gem 'treetop'
-gem 'libxml-ruby'
-gem 'whatlanguage'
-gem 'newgem'
-gem 'hoe'

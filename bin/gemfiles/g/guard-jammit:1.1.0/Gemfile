@@ -1,4 +1,0 @@
-gem 'guard'
-gem 'guard-compat'
-gem 'jammit'
-gem 'bundler'

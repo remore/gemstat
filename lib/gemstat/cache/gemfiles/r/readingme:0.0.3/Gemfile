@@ -1,0 +1,5 @@
+gem 'listen'
+gem 'htmlentities'
+gem 'pandoc-ruby'
+gem 'bundler'
+gem 'rake'

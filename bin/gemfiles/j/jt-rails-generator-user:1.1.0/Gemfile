@@ -1,3 +1,0 @@
-gem 'validates_email_format_of'
-gem 'bcrypt'
-gem 'jt-rails-tokenizable'

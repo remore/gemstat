@@ -1,8 +1,0 @@
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'yard'
-gem 'rdiscount'
-gem 'pry'
-gem 'notes'
-gem 'guard-rspec'

@@ -1,7 +1,0 @@
-gem 'padrino'
-gem 'activesupport'
-gem 'rake'
-gem 'slim'
-gem 'haml'
-gem 'rack-test'
-gem 'rspec'

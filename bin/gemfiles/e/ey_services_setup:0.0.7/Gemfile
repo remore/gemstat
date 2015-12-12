@@ -1,4 +1,0 @@
-gem 'ey_instance_api_client'
-gem 'json'
-gem 'rake'
-gem 'rspec'

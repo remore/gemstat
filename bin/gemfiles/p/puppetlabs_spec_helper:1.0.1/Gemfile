@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec-puppet'
-gem 'puppet-lint'
-gem 'puppet-syntax'
-gem 'mocha'

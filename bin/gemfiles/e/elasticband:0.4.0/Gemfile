@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'dotenv'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'codeclimate-test-reporter'

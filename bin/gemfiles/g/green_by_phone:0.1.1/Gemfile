@@ -1,4 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'active_support'
-gem 'fakeweb'
-gem 'erb'

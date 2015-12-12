@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'rspec'
-gem 'rdoc'
-gem 'vcr'
-gem 'fakeweb'

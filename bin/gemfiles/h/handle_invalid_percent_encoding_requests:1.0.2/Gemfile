@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'rack-utf8_sanitizer'
-gem 'rake'

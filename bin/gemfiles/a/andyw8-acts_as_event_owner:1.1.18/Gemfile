@@ -1,6 +1,0 @@
-gem 'ri_cal'
-gem 'rake'
-gem 'activerecord'
-gem 'activesupport'
-gem 'rspec'
-gem 'sqlite3'

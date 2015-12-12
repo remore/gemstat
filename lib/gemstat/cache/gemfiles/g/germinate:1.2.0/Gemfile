@@ -1,0 +1,7 @@
+gem 'ick'
+gem 'fattr'
+gem 'arrayfields'
+gem 'orderedhash'
+gem 'alter-ego'
+gem 'main'
+gem 'bones'

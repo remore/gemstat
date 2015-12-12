@@ -1,6 +1,0 @@
-gem 'rrails'
-gem 'guard'
-gem 'shoulda'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

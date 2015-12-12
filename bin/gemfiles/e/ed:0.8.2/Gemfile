@@ -1,4 +1,0 @@
-gem 'shell_command'
-gem 'observe'
-gem 'rake'
-gem 'minitest'

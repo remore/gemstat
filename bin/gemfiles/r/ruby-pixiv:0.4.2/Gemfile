@@ -1,4 +1,0 @@
-gem 'curb'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

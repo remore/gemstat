@@ -1,5 +1,0 @@
-gem 'serverspec'
-gem 'winrm'
-gem 'os'
-gem 'bundler'
-gem 'rake'

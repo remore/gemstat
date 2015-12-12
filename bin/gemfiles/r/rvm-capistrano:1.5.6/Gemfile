@@ -1,6 +1,0 @@
-gem 'capistrano'
-gem 'rake'
-gem 'rspec'
-gem 'capistrano-spec'
-gem 'guard-rspec'
-gem 'guard-bundler'

@@ -1,6 +1,0 @@
-gem 'RedCloth'
-gem 'liquid'
-gem 'classifier'
-gem 'maruku'
-gem 'directory_watcher'
-gem 'open4'

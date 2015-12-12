@@ -1,5 +1,0 @@
-gem 'relax'
-gem 'jeweler'
-gem 'mocha'
-gem 'thoughtbot-shoulda'
-gem 'fakeweb'

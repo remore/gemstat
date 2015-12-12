@@ -1,5 +1,0 @@
-gem 'google-api-client'
-gem 'mime-types'
-gem 'gdata'
-gem 'aws-s3'
-gem 'rspec'

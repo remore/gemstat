@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'hashie'
+gem 'yajl-ruby'
+gem 'rspec'
+gem 'webmock'
+gem 'timecop'
+gem 'pry'

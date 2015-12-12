@@ -1,6 +1,0 @@
-gem 'fidius-common'
-gem 'activerecord'
-gem 'activerecord'
-gem 'activesupport'
-gem 'fidius-common'
-gem 'snortor'

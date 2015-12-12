@@ -1,0 +1,5 @@
+gem 'autotest'
+gem 'minitest'
+gem 'mocha'
+gem 'rcov'
+gem 'json'

@@ -1,4 +1,0 @@
-gem 'dm-core'
-gem 'do_sqlite3'
-gem 'gcal4ruby'
-gem 'log4r'

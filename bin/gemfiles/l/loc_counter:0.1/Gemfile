@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'activesupport'
-gem 'rake'
-gem 'pry'
-gem 'awesome_print'
-gem 'rspec'

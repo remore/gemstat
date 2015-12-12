@@ -1,4 +1,0 @@
-gem 'jievro-ast'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

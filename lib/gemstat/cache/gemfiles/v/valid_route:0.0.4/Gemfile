@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'factory_girl_rails'
+gem 'jquery-rails'
+gem 'ffaker'
+gem 'sqlite3'

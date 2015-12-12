@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'faker'
-gem 'activesupport'
-gem 'rspec'
-gem 'jeweler'

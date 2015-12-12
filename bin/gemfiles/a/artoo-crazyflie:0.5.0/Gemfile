@@ -1,5 +1,0 @@
-gem 'artoo'
-gem 'hybridgroup-crubyflie'
-gem 'minitest'
-gem 'minitest-happy'
-gem 'mocha'

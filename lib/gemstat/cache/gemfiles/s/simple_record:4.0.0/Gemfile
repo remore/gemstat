@@ -1,0 +1,6 @@
+gem 'uuidtools'
+gem 'activesupport'
+gem 'i18n'
+gem 'jeweler'
+gem 'aws'
+gem 'concur'

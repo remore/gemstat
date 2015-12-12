@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'pg'
-gem 'pg_query'
-gem 'curses'
-gem 'mixlib-cli'
-gem 'activesupport'

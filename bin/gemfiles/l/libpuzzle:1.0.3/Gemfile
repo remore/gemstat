@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'rake-compiler'
-gem 'minitest'
-gem 'byebug'

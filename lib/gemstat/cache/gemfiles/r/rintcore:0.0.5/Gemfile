@@ -1,0 +1,5 @@
+gem 'serialport'
+gem 'activesupport'
+gem 'thor'
+gem 'rake'
+gem 'yard'

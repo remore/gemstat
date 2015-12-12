@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'rdiscount'
-gem 'sinatra'
-gem 'haml'
-gem 'gatekeeper'
-gem 'liquid'
-gem 'paperclip'
-gem 'rspec'

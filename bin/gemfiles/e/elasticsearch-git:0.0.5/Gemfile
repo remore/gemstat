@@ -1,7 +1,0 @@
-gem 'elasticsearch-model'
-gem 'elasticsearch-api'
-gem 'rugged'
-gem 'charlock_holmes'
-gem 'gitlab-linguist'
-gem 'activemodel'
-gem 'activesupport'

@@ -1,0 +1,2 @@
+gem 'faye-websocket'
+gem 'rippler'

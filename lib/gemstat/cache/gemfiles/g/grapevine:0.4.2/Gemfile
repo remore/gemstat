@@ -1,0 +1,8 @@
+gem 'yard'
+gem 'thor'
+gem 'json'
+gem 'grape'
+gem 'i18n'
+gem 'roar'
+gem 'rspec'
+gem 'byebug'

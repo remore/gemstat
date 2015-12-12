@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'pry'
+gem 'sqlite3'

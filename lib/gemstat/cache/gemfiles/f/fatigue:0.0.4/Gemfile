@@ -1,0 +1,4 @@
+gem 'nokogiri'
+gem 'mechanize'
+gem 'ruby-progressbar'
+gem 'rr'

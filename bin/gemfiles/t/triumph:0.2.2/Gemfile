@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'rails3-generators'
-gem 'shoulda'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'rdoc'
-gem 'rails'

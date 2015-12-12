@@ -1,0 +1,6 @@
+gem 'zendesk_api'
+gem 'json'
+gem 'rake'
+gem 'geminabox'
+gem 'log4r'
+gem 'pry'

@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'aruba'
-gem 'git'
-gem 'puppet-blacksmith'

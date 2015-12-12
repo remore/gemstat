@@ -1,4 +1,0 @@
-gem 'logstash-core'
-gem 'jdbc-mysql'
-gem 'logstash-filter-jdbc'
-gem 'logstash-devutils'

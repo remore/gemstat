@@ -1,3 +1,0 @@
-gem 'pry'
-gem 'rest-client'
-gem 'nokogiri'

@@ -1,0 +1,7 @@
+gem 'commander'
+gem 'terminal-table'
+gem 'clipboard'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'fakefs'

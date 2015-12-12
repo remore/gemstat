@@ -1,7 +1,0 @@
-gem 'fullstack-admin'
-gem 'ars-permalink'
-gem 'acts-as-taggable-on'
-gem 'acts_as_indexed'
-gem 'awesome_nested_set'
-gem 'whenever'
-gem 'jeweler'

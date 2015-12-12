@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'codeclimate-test-reporter'
-gem 'sqlite3'

@@ -1,3 +1,0 @@
-gem 'statsd-ruby'
-gem 'rspec'
-gem 'guard-rspec'

@@ -1,6 +1,0 @@
-gem 'tapout'
-gem 'minitest'
-gem 'minitest-reporter-api'
-gem 'qed'
-gem 'ae'
-gem 'ergo'

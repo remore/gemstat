@@ -1,4 +1,0 @@
-gem 'carrierwave'
-gem 'raca'
-gem 'rspec'
-gem 'rake'

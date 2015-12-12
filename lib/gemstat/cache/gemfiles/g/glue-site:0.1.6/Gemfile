@@ -1,0 +1,8 @@
+gem 'main'
+gem 'RedCloth'
+gem 'rdiscount'
+gem 'haml'
+gem 'builder'
+gem 'rspec'
+gem 'nokogiri'
+gem 'swiss_knife'

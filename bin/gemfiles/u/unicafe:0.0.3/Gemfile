@@ -1,4 +1,0 @@
-gem 'feedzirra'
-gem 'geocoder'
-gem 'rspec'
-gem 'fakeweb'

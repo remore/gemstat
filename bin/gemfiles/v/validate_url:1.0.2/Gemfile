@@ -1,4 +1,0 @@
-gem 'activemodel'
-gem 'addressable'
-gem 'rspec'
-gem 'diff-lcs'

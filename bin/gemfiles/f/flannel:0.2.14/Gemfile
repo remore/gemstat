@@ -1,4 +1,0 @@
-gem 'treetop'
-gem 'polyglot'
-gem 'shoulda'
-gem 'mocha'

@@ -1,4 +1,0 @@
-gem 'thor'
-gem 'tilt'
-gem 'mini_magick'
-gem 'rake'

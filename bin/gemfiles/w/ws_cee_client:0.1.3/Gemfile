@@ -1,4 +1,0 @@
-gem 'savon'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

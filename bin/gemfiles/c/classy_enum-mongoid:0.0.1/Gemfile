@@ -1,3 +1,0 @@
-gem 'classy_enum'
-gem 'mongoid'
-gem 'rspec-rails'

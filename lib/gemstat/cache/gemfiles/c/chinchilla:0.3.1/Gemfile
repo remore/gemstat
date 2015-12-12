@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'poltergeist'
+gem 'rocha'
+gem 'rake'
+gem 'rspec'

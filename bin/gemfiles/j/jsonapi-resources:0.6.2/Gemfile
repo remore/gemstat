@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-spec-rails'
-gem 'simplecov'
-gem 'pry'
-gem 'rails'

@@ -1,6 +1,0 @@
-gem 'highline'
-gem 'xmpp4r'
-gem 'choosy'
-gem 'rspec'
-gem 'autotest'
-gem 'autotest-notification'

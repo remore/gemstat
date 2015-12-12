@@ -1,4 +1,0 @@
-gem 'rubocop'
-gem 'rubocop-checkstyle_formatter'
-gem 'bundler'
-gem 'rake'

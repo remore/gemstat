@@ -1,5 +1,0 @@
-gem 'byebug'
-gem 'builder'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'

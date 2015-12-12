@@ -1,8 +1,0 @@
-gem 'mechanize'
-gem 'nokogiri'
-gem 'facter'
-gem 'sqlite3-ruby'
-gem 'activerecord'
-gem 'wxruby'
-gem 'thoughtbot-shoulda'
-gem 'redgreen'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'mail'
+gem 'activemodel'

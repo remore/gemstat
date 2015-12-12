@@ -1,4 +1,0 @@
-gem 'blankslate'
-gem 'rest-client'
-gem 'multi_json'
-gem 'rack'

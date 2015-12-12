@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'trix_on_rails'
-gem 'mysql2'

@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'nokogiri'
-gem 'weather-icons-rails'
-gem 'sqlite3'

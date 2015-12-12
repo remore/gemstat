@@ -1,4 +1,0 @@
-gem 'activemerchant'
-gem 'rake'
-gem 'mocha'
-gem 'rails'

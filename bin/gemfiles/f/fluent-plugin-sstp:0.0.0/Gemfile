@@ -1,6 +1,0 @@
-gem 'fluentd'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rr'
-gem 'pry'

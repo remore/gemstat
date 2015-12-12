@@ -1,4 +1,0 @@
-gem 'middleman'
-gem 'jekyll'
-gem 'rspec'
-gem 'rake'

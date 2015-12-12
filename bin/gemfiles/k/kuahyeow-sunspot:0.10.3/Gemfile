@@ -1,5 +1,0 @@
-gem 'mwmitchell-rsolr'
-gem 'daemons'
-gem 'rspec'
-gem 'ruby-debug'
-gem 'technicalpickles-jeweler'

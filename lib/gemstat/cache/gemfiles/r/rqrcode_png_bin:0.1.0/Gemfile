@@ -1,0 +1,4 @@
+gem 'rqrcode_png'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'fluent-logger'
-gem 'sentry-raven'

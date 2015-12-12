@@ -1,5 +1,0 @@
-gem 'sass'
-gem 'sprockets-rails'
-gem 'jquery-rails'
-gem 'bundler'
-gem 'rake'

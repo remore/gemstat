@@ -1,8 +1,0 @@
-gem 'chef'
-gem 'ruby-graphviz'
-gem 'rake'
-gem 'appraisal'
-gem 'aruba'
-gem 'aruba-doubles'
-gem 'cane'
-gem 'tailor'

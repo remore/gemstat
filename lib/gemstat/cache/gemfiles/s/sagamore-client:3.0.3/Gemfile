@@ -1,0 +1,4 @@
+gem 'patron'
+gem 'addressable'
+gem 'json'
+gem 'hashie'

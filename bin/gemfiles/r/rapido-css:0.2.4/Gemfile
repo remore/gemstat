@@ -1,8 +1,0 @@
-gem 'sass'
-gem 'compass'
-gem 'susy'
-gem 'sass-media_query_combiner'
-gem 'sass-globbing'
-gem 'breakpoint'
-gem 'compass-placeholders'
-gem 'oily_png'

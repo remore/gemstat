@@ -1,7 +1,0 @@
-gem 'thor'
-gem 'activesupport'
-gem 'rspec_piccolo'
-gem 'bundler'
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'

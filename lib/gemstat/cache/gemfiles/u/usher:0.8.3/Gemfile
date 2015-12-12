@@ -1,0 +1,5 @@
+gem 'fuzzyhash'
+gem 'yard'
+gem 'rspec'
+gem 'code_stats'
+gem 'rake'

@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'nokogiri'
-gem 'rest-client'
-gem 'sys-uname'

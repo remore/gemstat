@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'oauth'
-gem 'oauth2'
-gem 'rake'
-gem 'debugger'

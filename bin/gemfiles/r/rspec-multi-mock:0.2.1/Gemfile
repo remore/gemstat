@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'mocha'
-gem 'not_a_mock'
-gem 'rr'

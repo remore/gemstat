@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'ecdsa'
-gem 'rest-client'
-gem 'rspec-rails'
-gem 'sqlite3'

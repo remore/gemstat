@@ -1,0 +1,5 @@
+gem 'serverspec'
+gem 'net-ssh'
+gem 'rake'
+gem 'rspec-core'
+gem 'bundler'

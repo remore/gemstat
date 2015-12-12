@@ -1,4 +1,0 @@
-gem 'httparty'
-gem 'crack'
-gem 'builder'
-gem 'activesupport'

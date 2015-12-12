@@ -1,2 +1,0 @@
-gem 'concurrent-ruby'
-gem 'workers'

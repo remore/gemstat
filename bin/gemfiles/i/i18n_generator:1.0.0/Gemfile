@@ -1,7 +1,0 @@
-gem 'roo'
-gem 'thor'
-gem 'rubyzip'
-gem 'minitest'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

@@ -1,0 +1,4 @@
+gem 'crack'
+gem 'multi_json'
+gem 'socky-authenticator'
+gem 'rspec'

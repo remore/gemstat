@@ -1,6 +1,0 @@
-gem 'sass-rails'
-gem 'formtastic'
-gem 'cocoon'
-gem 'table_for_collection'
-gem 'will_paginate'
-gem 'will_paginate_twitter_bootstrap'

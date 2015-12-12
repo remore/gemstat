@@ -1,5 +1,0 @@
-gem 'mechanize'
-gem 'thor'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

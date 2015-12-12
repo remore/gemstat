@@ -1,5 +1,0 @@
-gem 'cucumber'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-core'
-gem 'aruba'

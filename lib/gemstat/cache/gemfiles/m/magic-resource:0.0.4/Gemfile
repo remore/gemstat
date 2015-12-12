@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'ruby-features'
+gem 'activerecord-devkit'
+gem 'bundler'
+gem 'rake'

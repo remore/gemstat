@@ -1,6 +1,0 @@
-gem 'detroit'
-gem 'ergo'
-gem 'rubytest'
-gem 'rubytest-cli'
-gem 'microtest'
-gem 'ae'

@@ -1,8 +1,0 @@
-gem 'opener-daemons'
-gem 'opener-webservice'
-gem 'builder'
-gem 'nokogiri'
-gem 'slop'
-gem 'rspec'
-gem 'rake'
-gem 'cliver'

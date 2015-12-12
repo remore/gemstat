@@ -1,0 +1,5 @@
+gem 'sequel'
+gem 'delayed_job'
+gem 'tzinfo'
+gem 'rspec'
+gem 'rake'

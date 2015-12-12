@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'compass'
-gem 'bourbon'
-gem 'breakpoint'
-gem 'rake'

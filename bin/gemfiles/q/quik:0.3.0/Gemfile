@@ -1,7 +1,0 @@
-gem 'logutils'
-gem 'textutils'
-gem 'fetcher'
-gem 'rubyzip'
-gem 'gli'
-gem 'rdoc'
-gem 'hoe'

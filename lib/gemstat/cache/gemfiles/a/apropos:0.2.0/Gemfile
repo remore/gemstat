@@ -1,0 +1,6 @@
+gem 'compass'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'cane'
+gem 'simplecov'

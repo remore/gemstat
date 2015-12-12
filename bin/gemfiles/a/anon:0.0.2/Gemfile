@@ -1,7 +1,0 @@
-gem 'time_difference'
-gem 'thor'
-gem 'rspec'
-gem 'simplecov'
-gem 'reevoocop'
-gem 'rake'
-gem 'codeclimate-test-reporter'

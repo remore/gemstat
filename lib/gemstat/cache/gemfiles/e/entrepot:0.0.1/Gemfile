@@ -1,0 +1,6 @@
+gem 'digest'
+gem 'bundler'
+gem 'rake'
+gem 'fileutils'
+gem 'rspec'
+gem 'pry'

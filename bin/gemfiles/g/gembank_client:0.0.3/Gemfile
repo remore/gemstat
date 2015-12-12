@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'thor'
-gem 'pry'
-gem 'rake'
-gem 'rspec'

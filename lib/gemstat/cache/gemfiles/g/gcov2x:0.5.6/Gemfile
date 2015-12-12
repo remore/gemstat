@@ -1,0 +1,8 @@
+gem 'rspec'
+gem 'rake'
+gem 'rubygems-tasks'
+gem 'simplecov'
+gem 'terminal-table'
+gem 'term-ansicolor'
+gem 'mixlib-cli'
+gem 'gyoku'

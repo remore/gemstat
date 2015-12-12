@@ -1,7 +1,0 @@
-gem 'mongo_mapper'
-gem 'activemodel'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'shoulda'
-gem 'mcmire-matchy'

@@ -1,8 +1,0 @@
-gem 'fog-core'
-gem 'dropbox-sdk'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'webmock'
-gem 'coveralls'
-gem 'rubocop'

@@ -1,0 +1,7 @@
+gem 'rails'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'kaminari'
+gem 'jquery-datatables-rails'
+gem 'bundler'
+gem 'rake'

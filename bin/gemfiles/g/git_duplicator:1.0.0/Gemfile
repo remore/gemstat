@@ -1,3 +1,0 @@
-gem 'http'
-gem 'git'
-gem 'simple_oauth'

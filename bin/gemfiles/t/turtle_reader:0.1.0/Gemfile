@@ -1,5 +1,0 @@
-gem 'rdf-turtle'
-gem 'rbzip2'
-gem 'hen'
-gem 'rake'
-gem 'rspec'

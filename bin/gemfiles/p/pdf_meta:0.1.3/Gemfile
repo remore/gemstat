@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'virtus'
-gem 'minitest'
-gem 'pry'
-gem 'awesome_print'
-gem 'bundler'
-gem 'rake'

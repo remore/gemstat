@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'debugger'
-gem 'rdoc'
-gem 'webmock'
-gem 'simplecov'

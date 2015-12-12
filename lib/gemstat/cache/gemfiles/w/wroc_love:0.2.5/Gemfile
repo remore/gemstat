@@ -1,0 +1,4 @@
+gem 'launchy'
+gem 'geocoder'
+gem 'json'
+gem 'bundler'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'vcr'
-gem 'dotenv'
-gem 'pry'
-gem 'typhoeus'

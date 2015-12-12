@@ -1,7 +1,0 @@
-gem 'http2'
-gem 'string-cases'
-gem 'tretry'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

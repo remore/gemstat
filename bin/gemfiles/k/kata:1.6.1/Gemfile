@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'command_line_reporter'
-gem 'octokit'

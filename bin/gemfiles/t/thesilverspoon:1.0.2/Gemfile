@@ -1,7 +1,0 @@
-gem 'gritter'
-gem 'spreadsheet'
-gem 'carrierwave'
-gem 'devise'
-gem 'cancan'
-gem 'nifty-generators'
-gem 'cells'

@@ -1,5 +1,0 @@
-gem 'lemon'
-gem 'qed'
-gem 'rubytest-cli'
-gem 'rake'
-gem 'simplecov'

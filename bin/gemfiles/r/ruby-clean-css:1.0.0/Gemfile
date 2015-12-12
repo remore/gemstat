@@ -1,4 +1,0 @@
-gem 'therubyracer'
-gem 'commonjs'
-gem 'rake'
-gem 'webmock'

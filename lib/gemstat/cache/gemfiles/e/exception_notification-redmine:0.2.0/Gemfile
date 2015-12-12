@@ -1,0 +1,5 @@
+gem 'exception_notification'
+gem 'httparty'
+gem 'json'
+gem 'bundler'
+gem 'rake'

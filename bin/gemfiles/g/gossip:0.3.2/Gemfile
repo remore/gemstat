@@ -1,7 +1,0 @@
-gem 's4t-utils'
-gem 'xmpp4r'
-gem 'tinder'
-gem 'snitch'
-gem 'twitter'
-gem 'user-choices'
-gem 'hoe'

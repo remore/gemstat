@@ -1,0 +1,4 @@
+gem 'newgem'
+gem 'actionpack'
+gem 'rack'
+gem 'hoe'

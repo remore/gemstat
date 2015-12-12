@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'highline'
-gem 'weakling'
-gem 'ref'

@@ -1,0 +1,5 @@
+gem 'json'
+gem 'minitest'
+gem 'fakeweb'
+gem 'turn'
+gem 'pry'

@@ -1,8 +1,0 @@
-gem 'actionview'
-gem 'actionview-helpers-auto_tag_helper'
-gem 'activerecord-mlang'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'sqlite3'

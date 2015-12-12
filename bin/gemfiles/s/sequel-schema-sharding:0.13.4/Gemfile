@@ -1,6 +1,0 @@
-gem 'sequel'
-gem 'pg'
-gem 'sequel-replica-failover'
-gem 'ruby-usdt'
-gem 'bundler'
-gem 'rake'

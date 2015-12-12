@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'activesupport'
-gem 'rubocop'
-gem 'rspec'

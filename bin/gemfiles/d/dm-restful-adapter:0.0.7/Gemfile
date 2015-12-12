@@ -1,7 +1,0 @@
-gem 'dm-core'
-gem 'multi_json'
-gem 'rspec'
-gem 'mimic'
-gem 'activerecord'
-gem 'sqlite3'
-gem 'database_cleaner'

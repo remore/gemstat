@@ -1,4 +1,0 @@
-gem 'rspec-core'
-gem 'httparty'
-gem 'rake'
-gem 'rspec'

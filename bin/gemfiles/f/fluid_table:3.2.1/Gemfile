@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'rake'
-gem 'minitest'
-gem 'mocha'
-gem 'nokogiri'

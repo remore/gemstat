@@ -1,5 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'yard'
-gem 'activesupport'
-gem 'xdg'
-gem 'ya2yaml'

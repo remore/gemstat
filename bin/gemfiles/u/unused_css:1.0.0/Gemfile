@@ -1,7 +1,0 @@
-gem 'css_parser'
-gem 'bundler'
-gem 'rake'
-gem 'sinatra'
-gem 'thin'
-gem 'cucumber'
-gem 'watir-webdriver'

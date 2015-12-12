@@ -1,5 +1,0 @@
-gem 'guard'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'guard-rspec'

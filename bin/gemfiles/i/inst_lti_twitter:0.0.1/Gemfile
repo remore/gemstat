@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'twitter'
-gem 'ims-lti'
-gem 'pry'
-gem 'sqlite3'

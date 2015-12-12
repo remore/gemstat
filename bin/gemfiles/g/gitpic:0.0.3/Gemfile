@@ -1,3 +1,0 @@
-gem 'term-ansicolor'
-gem 'rest-client'
-gem 'thor'

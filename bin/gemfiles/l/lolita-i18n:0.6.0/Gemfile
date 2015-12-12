@@ -1,7 +1,0 @@
-gem 'lolita'
-gem 'i18n'
-gem 'hiredis'
-gem 'redis'
-gem 'yajl-ruby'
-gem 'unicode_utils'
-gem 'axlsx'

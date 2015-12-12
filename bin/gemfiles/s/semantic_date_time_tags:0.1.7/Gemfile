@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'bundler'
-gem 'coveralls'
-gem 'guard'
-gem 'guard-minitest'
-gem 'minitest'
-gem 'rake'

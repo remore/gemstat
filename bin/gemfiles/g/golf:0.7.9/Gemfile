@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'json'
-gem 'rack'
-gem 'hpricot'
-gem 'haml'
-gem 'compass'

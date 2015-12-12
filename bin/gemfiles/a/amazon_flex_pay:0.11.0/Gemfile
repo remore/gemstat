@@ -1,8 +1,0 @@
-gem 'rest-client'
-gem 'multi_xml'
-gem 'activesupport'
-gem 'mocha'
-gem 'bundler'
-gem 'rake'
-gem 'rails'
-gem 'shoulda'

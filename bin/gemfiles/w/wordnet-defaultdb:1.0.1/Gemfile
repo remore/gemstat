@@ -1,7 +1,0 @@
-gem 'wordnet'
-gem 'sqlite3'
-gem 'hoe-mercurial'
-gem 'hoe-highline'
-gem 'rdoc'
-gem 'rubyzip'
-gem 'hoe'

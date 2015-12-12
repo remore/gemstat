@@ -1,0 +1,7 @@
+gem 'nokogiri'
+gem 'pygments.rb'
+gem 'msgpack'
+gem 'kramdown'
+gem 'json'
+gem 'rspec'
+gem 'simplecov'

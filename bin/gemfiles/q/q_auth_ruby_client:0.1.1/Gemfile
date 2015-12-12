@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'poodle-rb'
-gem 'typhoeus'
-gem 'sqlite3'

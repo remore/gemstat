@@ -1,8 +1,0 @@
-gem 'minitest'
-gem 'mocha'
-gem 'rake'
-gem 'shoulda-context'
-gem 'alsa-rawmidi'
-gem 'ffi-coremidi'
-gem 'midi-jruby'
-gem 'midi-winmm'

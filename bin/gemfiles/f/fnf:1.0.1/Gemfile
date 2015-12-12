@@ -1,3 +1,0 @@
-gem 'eventmachine'
-gem 'msgpack'
-gem 'typhoeus'

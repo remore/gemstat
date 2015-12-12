@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'multi_json'
-gem 'hashie'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'typhoeus'

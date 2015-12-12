@@ -1,0 +1,7 @@
+gem 'typhoeus'
+gem 'nokogiri'
+gem 'sax-machine'
+gem 'rake'
+gem 'rspec'
+gem 'mocha'
+gem 'guard-rspec'

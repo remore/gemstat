@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'cucumber'
+gem 'rack-test'
+gem 'rest-client'
+gem 'json'
+gem 'rack'
+gem 'rest-client'

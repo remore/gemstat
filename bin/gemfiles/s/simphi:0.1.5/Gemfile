@@ -1,6 +1,0 @@
-gem 'simple_form'
-gem 'rack'
-gem 'coffee-rails'
-gem 'jquery-rails'
-gem 'bundler'
-gem 'rake'

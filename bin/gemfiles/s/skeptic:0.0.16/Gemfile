@@ -1,8 +1,0 @@
-gem 'trollop'
-gem 'ffi-aspell'
-gem 'rspec'
-gem 'cucumber'
-gem 'aruba'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

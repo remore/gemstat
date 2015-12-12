@@ -1,5 +1,0 @@
-gem 'test-unit'
-gem 'contest'
-gem 'mocha'
-gem 'yard'
-gem 'maruku'

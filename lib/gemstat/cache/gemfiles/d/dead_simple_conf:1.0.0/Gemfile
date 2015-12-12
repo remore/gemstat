@@ -1,0 +1,7 @@
+gem 'schmurfy-bacon'
+gem 'guard-bacon'
+gem 'growl'
+gem 'rb-fsevent'
+gem 'mocha'
+gem 'simplecov'
+gem 'rake'

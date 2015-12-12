@@ -1,5 +1,0 @@
-gem 'configatron'
-gem 'addressable'
-gem 'daemons'
-gem 'activesupport'
-gem 'i18n'

@@ -1,6 +1,0 @@
-gem 'fluent-logger'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'rspec-mocks'

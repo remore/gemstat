@@ -1,3 +1,0 @@
-gem 'logstash'
-gem 'addressable'
-gem 'logstash-devutils'

@@ -1,4 +1,0 @@
-gem 'net-http-persistent'
-gem 'json'
-gem 'rubyforge'
-gem 'hoe'

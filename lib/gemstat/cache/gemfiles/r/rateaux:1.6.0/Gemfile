@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'database_cleaner'
+gem 'sqlite3'
+gem 'jquery-rails'
+gem 'rspec-rails'
+gem 'terminal-table'

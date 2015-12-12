@@ -1,3 +1,0 @@
-gem 'mongo'
-gem 'i18n'
-gem 'ruby_ext'

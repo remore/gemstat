@@ -1,4 +1,0 @@
-gem 'resque'
-gem 'thor'
-gem 'bundler'
-gem 'rake'

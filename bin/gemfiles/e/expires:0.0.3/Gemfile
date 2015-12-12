@@ -1,5 +1,0 @@
-gem 'color_print'
-gem 'sqlite3'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

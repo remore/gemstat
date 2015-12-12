@@ -1,5 +1,0 @@
-gem 'geminabox'
-gem 'bundler'
-gem 'rake'
-gem 'travis'
-gem 'builder'

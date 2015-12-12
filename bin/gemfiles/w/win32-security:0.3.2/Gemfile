@@ -1,4 +1,0 @@
-gem 'ffi'
-gem 'rake'
-gem 'test-unit'
-gem 'sys-admin'

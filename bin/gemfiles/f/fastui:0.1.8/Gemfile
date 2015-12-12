@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'awesome_nested_set'
-gem 'bcrypt-ruby'
-gem 'mysql2'

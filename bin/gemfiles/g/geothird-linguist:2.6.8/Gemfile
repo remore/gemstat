@@ -1,8 +1,0 @@
-gem 'charlock_holmes_bundle_icu'
-gem 'escape_utils'
-gem 'mime-types'
-gem 'pygments.rb'
-gem 'mocha'
-gem 'json'
-gem 'rake'
-gem 'yajl-ruby'

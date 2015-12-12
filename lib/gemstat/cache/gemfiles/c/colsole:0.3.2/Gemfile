@@ -1,0 +1,6 @@
+gem 'runfile'
+gem 'run-gem-dev'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'rake'
+gem 'simplecov'

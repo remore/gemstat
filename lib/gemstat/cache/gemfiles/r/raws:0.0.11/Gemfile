@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'typhoeus'
+gem 'ht2p'
+gem 'nokogiri'
+gem 'uuidtools'

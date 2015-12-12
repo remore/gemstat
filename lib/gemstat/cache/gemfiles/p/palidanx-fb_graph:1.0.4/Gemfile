@@ -1,0 +1,7 @@
+gem 'json'
+gem 'activesupport'
+gem 'rest-client'
+gem 'oauth2'
+gem 'rspec'
+gem 'rcov'
+gem 'fakeweb'

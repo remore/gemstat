@@ -1,5 +1,0 @@
-gem 'colorize'
-gem 'bundler'
-gem 'thor'
-gem 'faker'
-gem 'net-ssh'

@@ -1,5 +1,0 @@
-gem 'jeweler'
-gem 'rspec'
-gem 'yard'
-gem 'rack-test'
-gem 'sinatra'

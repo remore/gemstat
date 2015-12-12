@@ -1,0 +1,6 @@
+gem 'jquery-rails'
+gem 'twitter-bootstrap-rails'
+gem 'simple_form'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

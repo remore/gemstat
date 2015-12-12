@@ -1,5 +1,0 @@
-gem 'shoulda'
-gem 'webmock'
-gem 'mocha'
-gem 'rest-client'
-gem 'json'

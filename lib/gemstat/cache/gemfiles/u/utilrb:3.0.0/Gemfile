@@ -1,0 +1,5 @@
+gem 'facets'
+gem 'rake'
+gem 'flexmock'
+gem 'minitest'
+gem 'coveralls'

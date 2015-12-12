@@ -1,3 +1,0 @@
-gem 'term-ansicolor'
-gem 'iniparse'
-gem 'mixlib-cli'

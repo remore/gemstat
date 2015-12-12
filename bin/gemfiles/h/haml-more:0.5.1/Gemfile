@@ -1,3 +1,0 @@
-gem 'monkey-lib'
-gem 'haml'
-gem 'rspec'

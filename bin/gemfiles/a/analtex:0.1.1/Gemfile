@@ -1,4 +1,0 @@
-gem 'minitest'
-gem 'pry'
-gem 'bundler'
-gem 'rake'

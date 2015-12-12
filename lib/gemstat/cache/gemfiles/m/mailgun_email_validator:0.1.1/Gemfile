@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rest-client'
+gem 'spectator-validates_email'
+gem 'sqlite3'
+gem 'rspec'

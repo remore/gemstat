@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'timecop'
-gem 'redis'
-gem 'telegram-bot-ruby'

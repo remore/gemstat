@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'jeweler'
-gem 'rake'
-gem 'rspec'

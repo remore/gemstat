@@ -1,3 +1,0 @@
-gem 'web_translate_it'
-gem 'trollop'
-gem 'sinatra'

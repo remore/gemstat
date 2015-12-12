@@ -1,6 +1,0 @@
-gem 'reel'
-gem 'mustermann'
-gem 'rack'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

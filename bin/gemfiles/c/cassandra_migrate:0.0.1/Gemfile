@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'trollop'
-gem 'cql-rb'
-gem 'erubis'

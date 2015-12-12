@@ -1,0 +1,6 @@
+gem 'sqlite3-ruby'
+gem 'text'
+gem 'bundler'
+gem 'jeweler'
+gem 'rcov'
+gem 'rspec'

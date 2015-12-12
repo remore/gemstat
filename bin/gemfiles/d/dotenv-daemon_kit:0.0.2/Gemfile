@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'dotenv'
-gem 'daemon-kit'

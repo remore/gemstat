@@ -1,6 +1,0 @@
-gem 'ruby-hmac'
-gem 'rest-client'
-gem 'rspec'
-gem 'webmock'
-gem 'rake'
-gem 'pry'

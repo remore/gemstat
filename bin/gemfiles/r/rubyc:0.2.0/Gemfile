@@ -1,6 +1,0 @@
-gem 'thor'
-gem 'rake'
-gem 'bundler'
-gem 'minitest'
-gem 'aruba'
-gem 'colorize'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'cucumber'
-gem 'copyright-headers'
-gem 'ruby-maven'

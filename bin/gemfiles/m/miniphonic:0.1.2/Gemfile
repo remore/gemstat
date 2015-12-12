@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'mocha'
-gem 'vcr'
-gem 'multi_json'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'mime-types'

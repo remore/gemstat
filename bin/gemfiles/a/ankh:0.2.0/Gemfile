@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'configatron'
-gem 'sqlite3'
-gem 'rake'
-gem 'rails'
-gem 'rspec'
-gem 'mocha'

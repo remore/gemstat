@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'sidekiq'
-gem 'rspec-rails'
-gem 'rspec-its'
-gem 'sqlite3'
-gem 'shoulda-matchers'

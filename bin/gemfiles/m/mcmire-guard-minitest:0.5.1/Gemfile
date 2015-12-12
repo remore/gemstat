@@ -1,5 +1,0 @@
-gem 'guard'
-gem 'rake'
-gem 'minitest'
-gem 'bundler'
-gem 'mocha'

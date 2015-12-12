@@ -1,0 +1,5 @@
+gem 'thor'
+gem 'rmagick'
+gem 'bundler'
+gem 'rake'
+gem 'pry'

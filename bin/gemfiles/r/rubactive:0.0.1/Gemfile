@@ -1,6 +1,0 @@
-gem 'shoulda'
-gem 'assert2'
-gem 'rr'
-gem 'bundler'
-gem 'jeweler'
-gem 'test-unit'

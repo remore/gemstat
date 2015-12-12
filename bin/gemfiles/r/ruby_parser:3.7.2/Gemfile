@@ -1,7 +1,0 @@
-gem 'sexp_processor'
-gem 'minitest'
-gem 'rdoc'
-gem 'racc'
-gem 'rake'
-gem 'oedipus_lex'
-gem 'hoe'

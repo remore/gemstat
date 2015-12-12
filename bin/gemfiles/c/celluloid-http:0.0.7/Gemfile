@@ -1,8 +1,0 @@
-gem 'rack'
-gem 'celluloid-io'
-gem 'http_parser.rb'
-gem 'activesupport'
-gem 'rake'
-gem 'turn'
-gem 'minitest'
-gem 'mocha'

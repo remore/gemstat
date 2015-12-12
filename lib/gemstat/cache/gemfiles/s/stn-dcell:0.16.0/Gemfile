@@ -1,0 +1,8 @@
+gem 'celluloid'
+gem 'celluloid-zmq'
+gem 'reel'
+gem 'http'
+gem 'celluloid-redis'
+gem 'redis-namespace'
+gem 'rake'
+gem 'rspec'

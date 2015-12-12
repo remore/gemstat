@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'jeweler'
+gem 'gmath3D'
+gem 'ruby-opengl'
+gem 'rmagick'

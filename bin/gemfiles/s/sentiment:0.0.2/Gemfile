@@ -1,5 +1,0 @@
-gem 'httparty'
-gem 'mash'
-gem 'test/unit'
-gem 'vcr'
-gem 'webmock'

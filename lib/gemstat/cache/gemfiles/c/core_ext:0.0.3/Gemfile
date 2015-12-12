@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'minitest'
+gem 'builder'
+gem 'i18n'
+gem 'json'
+gem 'tzinfo'
+gem 'concurrent-ruby'
+gem 'method_source'

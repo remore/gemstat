@@ -1,5 +1,0 @@
-gem 'lazy_const'
-gem 'minitest'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

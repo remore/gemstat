@@ -1,5 +1,0 @@
-gem 'builder'
-gem 'aduki'
-gem 'countries'
-gem 'rspec'
-gem 'rspec_numbering_formatter'

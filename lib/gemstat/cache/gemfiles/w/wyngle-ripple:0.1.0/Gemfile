@@ -1,0 +1,7 @@
+gem 'rspec'
+gem 'rake'
+gem 'ammeter'
+gem 'riak-client'
+gem 'activesupport'
+gem 'activemodel'
+gem 'tzinfo'

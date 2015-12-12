@@ -1,0 +1,5 @@
+gem 'rails'
+gem 'rmagick'
+gem 'carrierwave'
+gem 'sqlite3'
+gem 'sass-rails'

@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'oembedr'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rdoc'
-gem 'guard-rspec'
-gem 'rb-fsevent'

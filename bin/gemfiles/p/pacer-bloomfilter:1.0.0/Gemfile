@@ -1,6 +1,0 @@
-gem 'pacer'
-gem 'bundler'
-gem 'jeweler'
-gem 'rspec'
-gem 'rcov'
-gem 'pacer'

@@ -1,0 +1,7 @@
+gem 'octopress-hooks'
+gem 'octopress'
+gem 'octopress-linkblog'
+gem 'clash'
+gem 'bundler'
+gem 'rake'
+gem 'octopress-debugger'

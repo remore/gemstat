@@ -1,0 +1,8 @@
+gem 'moip'
+gem 'rspec'
+gem 'rspec'
+gem 'rspec'
+gem 'rspec'
+gem 'nokogiri'
+gem 'httparty'
+gem 'activesupport'

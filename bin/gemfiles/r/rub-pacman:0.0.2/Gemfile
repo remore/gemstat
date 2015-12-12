@@ -1,4 +1,0 @@
-gem 'gosu'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

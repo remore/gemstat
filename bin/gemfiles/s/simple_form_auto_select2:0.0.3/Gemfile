@@ -1,7 +1,0 @@
-gem 'railties'
-gem 'select2-rails'
-gem 'auto_select2'
-gem 'simple_form'
-gem 'bundler'
-gem 'rake'
-gem 'rails'

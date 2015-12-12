@@ -1,4 +1,0 @@
-gem 'globodns_client'
-gem 'rake'
-gem 'mocha'
-gem 'test-unit'

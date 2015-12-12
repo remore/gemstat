@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'i18n'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'rack-test'

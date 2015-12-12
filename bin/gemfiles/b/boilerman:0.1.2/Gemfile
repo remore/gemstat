@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'jquery-rails'
-gem 'bootstrap-sass'
-gem 'sass-rails'
-gem 'gon'
-gem 'responders'

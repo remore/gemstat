@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'colorize'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

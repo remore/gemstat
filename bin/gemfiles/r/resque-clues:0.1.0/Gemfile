@@ -1,7 +1,0 @@
-gem 'resque'
-gem 'multi_json'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'pry-debugger'
-gem 'cane'

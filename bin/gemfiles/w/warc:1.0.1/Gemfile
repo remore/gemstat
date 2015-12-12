@@ -1,7 +1,0 @@
-gem 'uuid'
-gem 'activemodel'
-gem 'rack'
-gem 'thor'
-gem 'rack-contrib'
-gem 'sinatra'
-gem 'thin'

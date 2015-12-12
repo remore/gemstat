@@ -1,8 +1,0 @@
-gem 'inflecto'
-gem 'plexus-rmmseg'
-gem 'ting'
-gem 'ice_nine'
-gem 'rubyzip'
-gem 'rspec'
-gem 'rake'
-gem 'pry'

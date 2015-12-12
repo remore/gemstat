@@ -1,4 +1,0 @@
-gem 'popen4'
-gem 'open4'
-gem 'net-ssh'
-gem 'net-scp'

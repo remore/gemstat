@@ -1,6 +1,0 @@
-gem 'excon'
-gem 'nokogiri'
-gem 'bundler'
-gem 'pry'
-gem 'rake'
-gem 'rspec'

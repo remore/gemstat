@@ -1,2 +1,0 @@
-gem 'nokogiri'
-gem 'rmagick'

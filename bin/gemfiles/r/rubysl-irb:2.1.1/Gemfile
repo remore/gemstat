@@ -1,7 +1,0 @@
-gem 'rubysl-e2mmap'
-gem 'rubysl-mathn'
-gem 'rubysl-thread'
-gem 'bundler'
-gem 'rake'
-gem 'mspec'
-gem 'rubysl-prettyprint'

@@ -1,7 +1,0 @@
-gem 'json'
-gem 'addressable'
-gem 'uglifier'
-gem 'rainpress'
-gem 'rake'
-gem 'shoulda-context'
-gem 'mocha'

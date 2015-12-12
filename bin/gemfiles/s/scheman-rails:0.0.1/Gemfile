@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'scheman'
-gem 'bundler'
-gem 'mysql2'
-gem 'pry'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'

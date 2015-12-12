@@ -1,0 +1,6 @@
+gem 'parser'
+gem 'astrolabe'
+gem 'bundler'
+gem 'rainbow'
+gem 'json'
+gem 'activesupport'

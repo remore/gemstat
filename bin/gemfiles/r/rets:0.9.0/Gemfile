@@ -1,8 +1,0 @@
-gem 'httpclient'
-gem 'http-cookie'
-gem 'nokogiri'
-gem 'rdoc'
-gem 'mocha'
-gem 'vcr'
-gem 'webmock'
-gem 'hoe'

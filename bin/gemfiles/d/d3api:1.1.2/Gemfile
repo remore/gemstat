@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'rake'
-gem 'rspec'
-gem 'vcr'
-gem 'pry'
-gem 'simplecov'

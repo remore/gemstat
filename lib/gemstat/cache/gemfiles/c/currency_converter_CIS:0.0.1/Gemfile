@@ -1,0 +1,2 @@
+gem 'geocoder'
+gem 'nokogiri'

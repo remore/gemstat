@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'nokogiri'
-gem 'levenshteinish'
-gem 'vcr'
-gem 'rspec'
-gem 'webmock'

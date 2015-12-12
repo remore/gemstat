@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'devise'
-gem 'rolify'
-gem 'pundit'
-gem 'devise_invitable'
-gem 'sqlite3'
-gem 'rspec'
-gem 'rspec-rails'

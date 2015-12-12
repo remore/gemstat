@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'knife-windows'
+gem 'chef'
+gem 'mixlib-config'
+gem 'equivalent-xml'
+gem 'knife-cloud'

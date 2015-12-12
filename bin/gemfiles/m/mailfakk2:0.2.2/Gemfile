@@ -1,4 +1,0 @@
-gem 'activesupport'
-gem 'andand'
-gem 'mail'
-gem 'prawn'

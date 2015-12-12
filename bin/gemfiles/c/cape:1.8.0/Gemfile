@@ -1,6 +1,0 @@
-gem 'appraisal'
-gem 'aruba'
-gem 'capistrano'
-gem 'rake'
-gem 'rspec'
-gem 'json_pure'

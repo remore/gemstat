@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'fog'
-gem 'pmap'
-gem 'sqlite3'
-gem 'rspec-rails'

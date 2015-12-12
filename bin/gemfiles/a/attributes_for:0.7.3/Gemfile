@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'font-awesome-rails'
-gem 'chronic_duration'
-gem 'phony'
-gem 'coveralls'
-gem 'sqlite3'

@@ -1,0 +1,6 @@
+gem 'paperclip'
+gem 'sqlite3'
+gem 'activemodel'
+gem 'activerecord'
+gem 'rspec'
+gem 'rake'

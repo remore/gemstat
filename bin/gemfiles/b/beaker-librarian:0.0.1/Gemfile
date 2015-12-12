@@ -1,4 +1,0 @@
-gem 'beaker'
-gem 'beaker-rspec'
-gem 'bundler'
-gem 'rake'

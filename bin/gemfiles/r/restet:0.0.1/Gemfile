@@ -1,4 +1,0 @@
-gem 'multipart-post'
-gem 'yajl-ruby'
-gem 'sinatra'
-gem 'vegas'

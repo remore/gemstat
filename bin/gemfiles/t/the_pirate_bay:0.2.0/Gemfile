@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'nokogiri'
-gem 'hyper_api'
-gem 'rspec'
-gem 'webmock'

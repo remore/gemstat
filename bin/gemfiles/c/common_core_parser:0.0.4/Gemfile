@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'rake'
-gem 'rdoc'
-gem 'activesupport'
-gem 'mocha'

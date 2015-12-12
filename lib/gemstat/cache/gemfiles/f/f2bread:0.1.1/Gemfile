@@ -1,0 +1,8 @@
+gem 'geoip'
+gem 'time_diff'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'geoip'
+gem 'time_diff'

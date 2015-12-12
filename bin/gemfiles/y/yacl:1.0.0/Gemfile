@@ -1,5 +1,0 @@
-gem 'map'
-gem 'trollop'
-gem 'rake'
-gem 'minitest'
-gem 'rdoc'

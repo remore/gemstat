@@ -1,3 +1,0 @@
-gem 'eventmachine'
-gem 'ffi'
-gem 'ffi-rzmq'

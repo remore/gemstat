@@ -1,5 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'mongo'
-gem 'bson_ext'
-gem 'mongo_mapper'
-gem 'ghazel-daemons'

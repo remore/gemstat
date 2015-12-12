@@ -1,4 +1,0 @@
-gem 'httpclient'
-gem 'nokogiri'
-gem 'activesupport'
-gem 'shoulda'

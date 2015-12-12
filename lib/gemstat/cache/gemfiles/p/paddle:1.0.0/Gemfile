@@ -1,0 +1,4 @@
+gem 'rdoc'
+gem 'rubyforge'
+gem 'gemcutter'
+gem 'hoe'

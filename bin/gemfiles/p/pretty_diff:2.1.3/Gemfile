@@ -1,6 +1,0 @@
-gem 'charlock_holmes'
-gem 'levenshtein-ffi'
-gem 'diff_match_patch_native'
-gem 'jeweler'
-gem 'builder'
-gem 'turn'

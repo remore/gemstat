@@ -1,5 +1,0 @@
-gem 'json'
-gem 'configliere'
-gem 'rest-client'
-gem 'addressable'
-gem 'rspec'

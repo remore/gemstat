@@ -1,7 +1,0 @@
-gem 'exceptional'
-gem 'sinatra'
-gem 'rake'
-gem 'rack-test'
-gem 'webmock'
-gem 'json_pure'
-gem 'pry'

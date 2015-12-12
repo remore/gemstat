@@ -1,0 +1,2 @@
+gem 'immutable_struct'
+gem 'hpricot'

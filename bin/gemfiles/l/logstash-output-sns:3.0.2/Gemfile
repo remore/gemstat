@@ -1,3 +1,0 @@
-gem 'logstash-core'
-gem 'logstash-mixin-aws'
-gem 'logstash-devutils'

@@ -1,5 +1,0 @@
-gem 'highline'
-gem 'netrc'
-gem 'multi_json'
-gem 'thor'
-gem 'faraday'

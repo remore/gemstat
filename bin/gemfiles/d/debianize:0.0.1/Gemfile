@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'slop'
-gem 'json'
-gem 'rest-client'

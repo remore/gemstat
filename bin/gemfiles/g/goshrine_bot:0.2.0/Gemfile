@@ -1,5 +1,0 @@
-gem 'eventmachine'
-gem 'em-http-request'
-gem 'faye'
-gem 'json'
-gem 'rspec'

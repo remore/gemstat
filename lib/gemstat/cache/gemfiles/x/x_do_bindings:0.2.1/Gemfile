@@ -1,0 +1,4 @@
+gem 'ffi'
+gem 'rdoc'
+gem 'rspec'
+gem 'bundler'

@@ -1,4 +1,0 @@
-gem 'rmagick'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

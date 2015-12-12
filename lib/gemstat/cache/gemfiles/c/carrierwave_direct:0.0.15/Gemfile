@@ -1,0 +1,8 @@
+gem 'carrierwave'
+gem 'uuidtools'
+gem 'fog'
+gem 'rspec'
+gem 'timecop'
+gem 'rails'
+gem 'sqlite3'
+gem 'capybara'

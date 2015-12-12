@@ -1,8 +1,0 @@
-gem 'killbill'
-gem 'cinch'
-gem 'mail'
-gem 'jruby-openssl'
-gem 'jbundler'
-gem 'rake'
-gem 'rack'
-gem 'rspec'

@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'beaneater'
+gem 'minitest_should'
+gem 'mocha'

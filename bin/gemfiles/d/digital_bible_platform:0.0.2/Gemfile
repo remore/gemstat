@@ -1,7 +1,0 @@
-gem 'iso-639'
-gem 'typhoeus'
-gem 'oj'
-gem 'hashie'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

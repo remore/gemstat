@@ -1,0 +1,5 @@
+gem 'middleman-core'
+gem 'ruby-hmac'
+gem 'parallel'
+gem 'fog'
+gem 'progressbar'

@@ -1,3 +1,0 @@
-gem 'hirb'
-gem 'rspec'
-gem 'simplecov'

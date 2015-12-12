@@ -1,3 +1,0 @@
-gem 'haml-rails'
-gem 'sinatra'
-gem 'sass'

@@ -1,4 +1,0 @@
-gem 'aerogel-core'
-gem 'font-awesome-sass'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'yard'
-gem 'method_decorators'
-gem 'rspec'
-gem 'rspec-given'

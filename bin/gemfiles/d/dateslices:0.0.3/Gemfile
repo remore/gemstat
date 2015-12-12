@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'pg'
-gem 'mysql'
-gem 'rspec-rails'
-gem 'rspec-autotest'
-gem 'autotest-rails'

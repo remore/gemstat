@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'yard'
-gem 'pry-byebug'
-gem 'vcr'
-gem 'webmock'

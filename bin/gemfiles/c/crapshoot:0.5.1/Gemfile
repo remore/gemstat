@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'guard-test'
-gem 'shoulda'
-gem 'bundler'

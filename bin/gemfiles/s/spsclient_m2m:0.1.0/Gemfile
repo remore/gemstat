@@ -1,3 +1,0 @@
-gem 'polyrex'
-gem 'spstrigger_execute'
-gem 'websocket-eventmachine-client'

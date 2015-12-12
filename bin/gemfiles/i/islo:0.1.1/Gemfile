@@ -1,5 +1,0 @@
-gem 'rainbow'
-gem 'slop'
-gem 'rspec'
-gem 'rake'
-gem 'pry'

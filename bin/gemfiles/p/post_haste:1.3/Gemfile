@@ -1,6 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'rake'
-gem 'bundler'
-gem 'shoulda'
-gem 'minitest'

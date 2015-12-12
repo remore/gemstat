@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'simplecov'
+gem 'byebug'
+gem 'minitest'

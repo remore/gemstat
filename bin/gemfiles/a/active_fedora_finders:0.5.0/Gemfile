@@ -1,8 +1,0 @@
-gem 'active-fedora'
-gem 'activerecord'
-gem 'nokogiri'
-gem 'yard'
-gem 'RedCloth'
-gem 'rake'
-gem 'rspec'
-gem 'mocha'

@@ -1,0 +1,8 @@
+gem 'thor'
+gem 'listen'
+gem 'colorize'
+gem 'versacommerce-theme_api_client'
+gem 'bundler'
+gem 'rake'
+gem 'pry'
+gem 'pry-stack_explorer'

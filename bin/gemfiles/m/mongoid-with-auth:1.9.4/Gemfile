@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'durran-validatable'
-gem 'will_paginate'
-gem 'mongo'
-gem 'bson'
-gem 'rspec'
-gem 'mocha'

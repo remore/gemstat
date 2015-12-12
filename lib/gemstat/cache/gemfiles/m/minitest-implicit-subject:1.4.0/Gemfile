@@ -1,0 +1,4 @@
+gem 'minitest'
+gem 'awesome_print'
+gem 'bundler'
+gem 'rake'

@@ -1,3 +1,0 @@
-gem 'httparty'
-gem 'commander'
-gem 'terminal-table'

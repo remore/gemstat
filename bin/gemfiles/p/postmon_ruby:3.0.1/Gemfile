@@ -1,6 +1,0 @@
-gem 'json'
-gem 'bundler'
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'webmock'

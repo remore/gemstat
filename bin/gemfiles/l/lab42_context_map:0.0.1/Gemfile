@@ -1,6 +1,0 @@
-gem 'forwarder2'
-gem 'pry-nav'
-gem 'rspec'
-gem 'cucumber'
-gem 'aruba'
-gem 'travis-lint'

@@ -1,4 +1,0 @@
-gem 'actionpack'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

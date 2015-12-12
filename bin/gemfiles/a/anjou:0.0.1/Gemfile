@@ -1,8 +1,0 @@
-gem 'aws-sdk'
-gem 'net-sftp'
-gem 'bundler'
-gem 'rspec'
-gem 'pry'
-gem 'rake'
-gem 'coy'
-gem 'fakefs'

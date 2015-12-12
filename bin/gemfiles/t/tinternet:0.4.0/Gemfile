@@ -1,6 +1,0 @@
-gem 'rest-client'
-gem 'audible'
-gem 'rspec'
-gem 'rsettings'
-gem 'bundler'
-gem 'jeweler'

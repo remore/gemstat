@@ -1,0 +1,2 @@
+gem 'mongo_mapper'
+gem 'rake'

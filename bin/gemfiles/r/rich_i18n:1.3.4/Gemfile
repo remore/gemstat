@@ -1,5 +1,0 @@
-gem 'authlogic'
-gem 'formtastic'
-gem 'hpricot'
-gem 'i18n'
-gem 'jzip'

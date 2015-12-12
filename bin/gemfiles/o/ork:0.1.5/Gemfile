@@ -1,3 +1,0 @@
-gem 'riak-client'
-gem 'protest'
-gem 'mocha'

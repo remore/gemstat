@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'minitest-reporters'
+gem 'webmock'
+gem 'CFPropertyList'
+gem 'nokogiri'
+gem 'tzinfo'
+gem 'tzinfo-data'

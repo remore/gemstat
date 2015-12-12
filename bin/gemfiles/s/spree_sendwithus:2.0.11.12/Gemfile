@@ -1,5 +1,0 @@
-gem 'spree_core'
-gem 'send_with_us'
-gem 'rspec-rails'
-gem 'simplecov'
-gem 'sqlite3'

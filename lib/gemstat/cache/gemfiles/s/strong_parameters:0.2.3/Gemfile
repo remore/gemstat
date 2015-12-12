@@ -1,0 +1,5 @@
+gem 'activesupport'
+gem 'actionpack'
+gem 'activemodel'
+gem 'railties'
+gem 'rake'

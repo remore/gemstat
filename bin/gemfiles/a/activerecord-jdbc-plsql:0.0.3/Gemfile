@@ -1,5 +1,0 @@
-gem 'activerecord'
-gem 'activerecord-jdbc-adapter'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

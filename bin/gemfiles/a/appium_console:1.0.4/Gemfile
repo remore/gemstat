@@ -1,6 +1,0 @@
-gem 'appium_lib'
-gem 'pry'
-gem 'bond'
-gem 'spec'
-gem 'rake'
-gem 'posix-spawn'

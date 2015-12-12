@@ -1,7 +1,0 @@
-gem 'shoulda'
-gem 'factory_girl'
-gem 'mocha'
-gem 'vcr'
-gem 'fakeweb'
-gem 'relax'
-gem 'libxml-ruby'

@@ -1,5 +1,0 @@
-gem 'rest-client'
-gem 'term-ansicolor'
-gem 'activerecord'
-gem 'awesome_print'
-gem 'rack'

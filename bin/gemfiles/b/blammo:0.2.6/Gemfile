@@ -1,8 +1,0 @@
-gem 'git'
-gem 'thor'
-gem 'hirb'
-gem 'rake'
-gem 'rcov'
-gem 'rr'
-gem 'rspec'
-gem 'timecop'

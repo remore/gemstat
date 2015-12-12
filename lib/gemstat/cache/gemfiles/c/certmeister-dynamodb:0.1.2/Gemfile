@@ -1,0 +1,5 @@
+gem 'certmeister'
+gem 'aws-sdk-core'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

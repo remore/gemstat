@@ -1,2 +1,0 @@
-gem 'geocoder'
-gem 'redis-expiring_counter'

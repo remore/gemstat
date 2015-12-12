@@ -1,4 +1,0 @@
-gem 'savon'
-gem 'json'
-gem 'bundler'
-gem 'rake'

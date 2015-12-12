@@ -1,4 +1,0 @@
-gem 'savon'
-gem 'identity_linker'
-gem 'bundler'
-gem 'rake'

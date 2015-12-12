@@ -1,0 +1,8 @@
+gem 'grape'
+gem 'grape-entity'
+gem 'grape-kaminari'
+gem 'grape-swagger'
+gem 'hashie-forbidden_attributes'
+gem 'bundler'
+gem 'rake'
+gem 'rails'

@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'ir_b'
-gem 'cane'

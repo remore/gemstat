@@ -1,0 +1,6 @@
+gem 'dogstatsd-ruby'
+gem 'bundler'
+gem 'rspec'
+gem 'rake'
+gem 'sinatra'
+gem 'webmock'

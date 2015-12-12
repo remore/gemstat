@@ -1,7 +1,0 @@
-gem 'test-kitchen'
-gem 'vmware-vra'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'webmock'

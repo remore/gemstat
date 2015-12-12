@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'ruby-terminfo'
+gem 'rainbow'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'

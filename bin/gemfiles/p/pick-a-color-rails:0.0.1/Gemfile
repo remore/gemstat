@@ -1,4 +1,0 @@
-gem 'jquery-rails'
-gem 'tiny-color-rails'
-gem 'railties'
-gem 'bundler'

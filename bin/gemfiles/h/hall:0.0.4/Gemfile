@@ -1,8 +1,0 @@
-gem 'httparty'
-gem 'rake'
-gem 'bundler'
-gem 'rspec'
-gem 'rr'
-gem 'webmock'
-gem 'vcr'
-gem 'rdoc'

@@ -1,4 +1,0 @@
-gem 'nesta'
-gem 'diskcached'
-gem 'rake'
-gem 'yard'

@@ -1,3 +1,0 @@
-gem 'mongo_mapper'
-gem 'jnunemaker-matchy'
-gem 'shoulda'

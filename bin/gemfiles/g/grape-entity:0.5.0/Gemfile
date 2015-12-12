@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'multi_json'
-gem 'rake'
-gem 'maruku'
-gem 'yard'
-gem 'rspec'
-gem 'bundler'

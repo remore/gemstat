@@ -1,8 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'supermodel'
-gem 'mocha'
-gem 'debugger'
-gem 'rails'
-gem 'cancan'
-gem 'activerecord'

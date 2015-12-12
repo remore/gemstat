@@ -1,8 +1,0 @@
-gem 'rails'
-gem 'jbuilder'
-gem 'sqlite3'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-spec-rails'
-gem 'factory_girl_rails'
-gem 'forgery'

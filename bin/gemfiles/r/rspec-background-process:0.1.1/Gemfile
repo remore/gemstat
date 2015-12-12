@@ -1,8 +1,0 @@
-gem 'daemon'
-gem 'micromachine'
-gem 'rufus-lru'
-gem 'file-tail'
-gem 'retries'
-gem 'rspec'
-gem 'jeweler'
-gem 'bundler'

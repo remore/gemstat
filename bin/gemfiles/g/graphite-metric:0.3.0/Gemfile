@@ -1,4 +1,0 @@
-gem 'guard-minitest'
-gem 'minitest'
-gem 'pry'
-gem 'turn'

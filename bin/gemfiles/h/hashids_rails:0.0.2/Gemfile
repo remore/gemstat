@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'hashids'
-gem 'sqlite3'

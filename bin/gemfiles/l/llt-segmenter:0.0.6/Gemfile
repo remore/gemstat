@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'
-gem 'llt-core'
-gem 'llt-constants'
-gem 'llt-logger'

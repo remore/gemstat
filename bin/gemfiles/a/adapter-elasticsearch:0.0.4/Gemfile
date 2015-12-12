@@ -1,4 +1,0 @@
-gem 'adapter'
-gem 'elasticsearch-client'
-gem 'rake'
-gem 'rspec'

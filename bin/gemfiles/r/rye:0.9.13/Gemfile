@@ -1,6 +1,0 @@
-gem 'annoy'
-gem 'sysinfo'
-gem 'highline'
-gem 'net-ssh'
-gem 'net-scp'
-gem 'docile'

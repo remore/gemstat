@@ -1,0 +1,5 @@
+gem 'eventmachine'
+gem 'rest-client'
+gem 'json'
+gem 'rspec'
+gem 'yard'

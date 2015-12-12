@@ -1,5 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'railties'
-gem 'activesupport'
-gem 'cancancan'

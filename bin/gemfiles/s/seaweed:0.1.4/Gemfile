@@ -1,7 +1,0 @@
-gem 'coffee-script'
-gem 'json'
-gem 'sprockets'
-gem 'sinatra'
-gem 'slim'
-gem 'selenium-webdriver'
-gem 'watchr'

@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'gosu'
-gem 'coderay'
-gem 'bundler'
-gem 'rake'

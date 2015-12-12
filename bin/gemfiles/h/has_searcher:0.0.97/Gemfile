@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'sunspot_matchers'
-gem 'sunspot_rails'
-gem 'sunspot_solr'

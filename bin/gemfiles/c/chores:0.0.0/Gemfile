@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'yard'
-gem 'cucumber'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'
-gem 'reek'

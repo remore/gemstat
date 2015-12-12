@@ -1,4 +1,0 @@
-gem 'actionpack'
-gem 'coffee-rails'
-gem 'eco'
-gem 'sqlite3'

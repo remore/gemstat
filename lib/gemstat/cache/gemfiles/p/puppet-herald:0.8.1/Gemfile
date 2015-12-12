@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-activerecord'
+gem 'rufus-scheduler'
+gem 'micro-optparse'
+gem 'uglifier'

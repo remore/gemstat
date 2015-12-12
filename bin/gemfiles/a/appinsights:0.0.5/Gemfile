@@ -1,3 +1,0 @@
-gem 'toml-rb'
-gem 'application_insights'
-gem 'rack'

@@ -1,8 +1,0 @@
-gem 'nokogiri'
-gem 'bundler'
-gem 'heredoc_unindent'
-gem 'kramdown'
-gem 'maruku'
-gem 'rake'
-gem 'redcarpet'
-gem 'rspec'

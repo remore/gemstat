@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'cucumber'
-gem 'aruba'
-gem 'thor'
-gem 'highline'
-gem 'clipboard'

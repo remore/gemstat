@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'coffee-rails'
-gem 'sass-rails'
-gem 'jquery-fileupload-rails'

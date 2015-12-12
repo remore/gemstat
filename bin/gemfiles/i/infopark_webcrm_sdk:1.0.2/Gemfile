@@ -1,5 +1,0 @@
-gem 'actionpack'
-gem 'activesupport'
-gem 'multi_json'
-gem 'multipart-post'
-gem 'addressable'

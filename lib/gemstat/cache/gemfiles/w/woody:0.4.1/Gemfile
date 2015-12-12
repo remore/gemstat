@@ -1,0 +1,7 @@
+gem 'erubis'
+gem 'mp3info'
+gem 'aws-s3'
+gem 'commander'
+gem 'highline'
+gem 'preamble'
+gem 'kramdown'

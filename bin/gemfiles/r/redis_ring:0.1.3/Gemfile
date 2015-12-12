@@ -1,7 +1,0 @@
-gem 'sinatra'
-gem 'json'
-gem 'daemons-mikehale'
-gem 'zookeeper'
-gem 'rspec'
-gem 'mocha'
-gem 'simplecov'

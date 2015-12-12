@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'capistrano-rails'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'pry'

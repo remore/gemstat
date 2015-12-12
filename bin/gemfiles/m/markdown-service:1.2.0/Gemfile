@@ -1,4 +1,0 @@
-gem 'markdown'
-gem 'sinatra'
-gem 'rdoc'
-gem 'hoe'

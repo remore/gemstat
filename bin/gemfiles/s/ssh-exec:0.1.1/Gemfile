@@ -1,4 +1,0 @@
-gem 'net-ssh'
-gem 'rake'
-gem 'rspec'
-gem 'rubygems-tasks'

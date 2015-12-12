@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'minitest'
+gem 'vcr'
+gem 'webmock'
+gem 'rake'
+gem 'oauth'
+gem 'nori'
+gem 'nokogiri'

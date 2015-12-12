@@ -1,8 +1,0 @@
-gem 'parser'
-gem 'psych'
-gem 'pry'
-gem 'haiti'
-gem 'rake'
-gem 'rspec'
-gem 'cucumber'
-gem 'ichannel'

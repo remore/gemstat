@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'rest-client'
-gem 'json'
-gem 'rspec'
-gem 'simplecov'
-gem 'byebug'

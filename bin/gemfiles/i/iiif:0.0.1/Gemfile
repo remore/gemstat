@@ -1,4 +1,0 @@
-gem 'osullivan'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

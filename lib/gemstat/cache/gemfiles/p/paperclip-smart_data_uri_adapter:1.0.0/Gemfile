@@ -1,0 +1,5 @@
+gem 'paperclip'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'minitest-reporters'

@@ -1,5 +1,0 @@
-gem 'ffaker'
-gem 'activesupport'
-gem 'rake'
-gem 'rspec'
-gem 'ox'

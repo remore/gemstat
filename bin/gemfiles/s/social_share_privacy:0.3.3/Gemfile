@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'i18n_data'
-gem 'sqlite3'

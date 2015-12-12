@@ -1,3 +1,0 @@
-gem 'rake-compiler'
-gem 'rspec'
-gem 'json'

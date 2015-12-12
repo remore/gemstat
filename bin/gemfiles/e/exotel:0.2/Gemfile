@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'webmock'
-gem 'mocha'
-gem 'httparty'

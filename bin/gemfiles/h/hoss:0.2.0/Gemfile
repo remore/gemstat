@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'pmap'
-gem 'slog'
-gem 'ridley'
-gem 'elasticsearch'

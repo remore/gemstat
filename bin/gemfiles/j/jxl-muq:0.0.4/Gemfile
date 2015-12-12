@@ -1,4 +1,0 @@
-gem 'main'
-gem 'curb'
-gem 'hpricot'
-gem 'id3lib-ruby'

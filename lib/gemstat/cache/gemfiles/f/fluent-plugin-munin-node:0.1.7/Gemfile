@@ -1,0 +1,7 @@
+gem 'fluentd'
+gem 'munin-ruby'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'test-unit'
+gem 'timecop'

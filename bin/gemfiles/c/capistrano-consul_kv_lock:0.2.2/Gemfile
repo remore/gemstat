@@ -1,4 +1,0 @@
-gem 'capistrano'
-gem 'consul-client'
-gem 'bundler'
-gem 'rake'

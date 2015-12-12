@@ -1,0 +1,7 @@
+gem 'selenium-webdriver'
+gem 'headless'
+gem 'rspec'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

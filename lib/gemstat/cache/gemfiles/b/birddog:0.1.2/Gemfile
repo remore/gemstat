@@ -1,0 +1,7 @@
+gem 'minitest'
+gem 'rake'
+gem 'sqlite3-ruby'
+gem 'pry'
+gem 'chronic'
+gem 'activerecord'
+gem 'activesupport'

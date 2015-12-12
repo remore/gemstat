@@ -1,5 +1,0 @@
-gem 'json'
-gem 'httparty'
-gem 'oauth'
-gem 'rspec'
-gem 'rake'

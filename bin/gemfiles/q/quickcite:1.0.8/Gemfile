@@ -1,5 +1,0 @@
-gem 'bibtex-ruby'
-gem 'json'
-gem 'nokogiri'
-gem 'highline'
-gem 'bundler'

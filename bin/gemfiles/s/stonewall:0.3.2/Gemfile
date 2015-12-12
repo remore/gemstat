@@ -1,3 +1,0 @@
-gem 'activerecord'
-gem 'sentient_user'
-gem 'shoulda'

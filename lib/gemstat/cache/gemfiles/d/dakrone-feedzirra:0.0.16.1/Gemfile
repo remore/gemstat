@@ -1,0 +1,6 @@
+gem 'nokogiri'
+gem 'pauldix-sax-machine'
+gem 'taf2-curb'
+gem 'builder'
+gem 'activesupport'
+gem 'mdalessio-dryopteris'

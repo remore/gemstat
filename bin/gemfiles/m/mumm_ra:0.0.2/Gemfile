@@ -1,5 +1,0 @@
-gem 'rb_toolbox'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-given'

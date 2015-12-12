@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'bundler'
+gem 'pry'
+gem 'pry-rescue'
+gem 'rspec'
+gem 'fivemat'

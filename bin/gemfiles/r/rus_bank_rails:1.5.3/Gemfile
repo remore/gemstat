@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'savon'
-gem 'rus_bank'
-gem 'sqlite3'

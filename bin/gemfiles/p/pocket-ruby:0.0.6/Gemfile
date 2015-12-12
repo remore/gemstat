@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'multi_xml'
-gem 'faraday'
-gem 'faraday_middleware'
-gem 'multi_json'
-gem 'hashie'

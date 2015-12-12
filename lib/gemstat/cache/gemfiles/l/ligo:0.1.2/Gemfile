@@ -1,0 +1,6 @@
+gem 'libusb'
+gem 'rspec'
+gem 'rubygems-tasks'
+gem 'yard'
+gem 'yardstick'
+gem 'pry'

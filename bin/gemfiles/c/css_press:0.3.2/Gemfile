@@ -1,4 +1,0 @@
-gem 'csspool-st'
-gem 'json'
-gem 'rake'
-gem 'rspec'

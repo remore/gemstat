@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'slim'
+gem 'tomparse'
+gem 'bundler'
+gem 'rake'

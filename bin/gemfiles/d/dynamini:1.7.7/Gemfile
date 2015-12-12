@@ -1,7 +1,0 @@
-gem 'activemodel'
-gem 'aws-sdk'
-gem 'rspec'
-gem 'pry'
-gem 'fuubar'
-gem 'guard-rspec'
-gem 'guard-shell'

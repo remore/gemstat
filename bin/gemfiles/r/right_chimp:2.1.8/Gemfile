@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'nokogiri'
-gem 'progressbar'
-gem 'right_api_client'
-gem 'highline'
-gem 'rspec'

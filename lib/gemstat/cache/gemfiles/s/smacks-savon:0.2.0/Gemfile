@@ -1,0 +1,4 @@
+gem 'hpricot'
+gem 'smacks-apricoteatsgorilla'
+gem 'rspec'
+gem 'rr'

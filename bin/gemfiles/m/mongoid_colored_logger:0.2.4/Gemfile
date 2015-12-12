@@ -1,4 +1,0 @@
-gem 'mongoid'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

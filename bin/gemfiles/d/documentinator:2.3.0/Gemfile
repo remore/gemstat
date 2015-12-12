@@ -1,3 +1,0 @@
-gem 'rdiscount'
-gem 'haml'
-gem 'sinatra'

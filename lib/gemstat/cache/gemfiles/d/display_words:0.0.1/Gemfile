@@ -1,0 +1,5 @@
+gem 'rake'
+gem 'rspec'
+gem 'webmock'
+gem 'json_pure'
+gem 'httparty'

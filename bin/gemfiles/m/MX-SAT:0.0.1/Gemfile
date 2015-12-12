@@ -1,3 +1,0 @@
-gem 'nokogiri'
-gem 'simple_xlsx_reader'
-gem 'rubyzip'

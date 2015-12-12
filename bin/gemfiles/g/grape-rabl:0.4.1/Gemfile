@@ -1,4 +1,0 @@
-gem 'grape'
-gem 'rabl'
-gem 'tilt'
-gem 'i18n'

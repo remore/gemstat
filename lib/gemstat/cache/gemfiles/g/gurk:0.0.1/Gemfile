@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'rack-test'
+gem 'gherkin'
+gem 'http_router'
+gem 'tilt'
+gem 'thor'

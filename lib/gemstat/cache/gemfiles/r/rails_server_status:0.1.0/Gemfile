@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'mocha'
+gem 'simplecov'
+gem 'sqlite3'

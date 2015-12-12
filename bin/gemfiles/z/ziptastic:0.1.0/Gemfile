@@ -1,6 +1,0 @@
-gem 'sqlite3'
-gem 'sinatra'
-gem 'sinatra-contrib'
-gem 'multi_json'
-gem 'vegas'
-gem 'rspec'

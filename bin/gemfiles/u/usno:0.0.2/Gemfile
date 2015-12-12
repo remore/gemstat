@@ -1,5 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'usno-imagery'
-gem 'usno-transit'
-gem 'usno-eclipse'

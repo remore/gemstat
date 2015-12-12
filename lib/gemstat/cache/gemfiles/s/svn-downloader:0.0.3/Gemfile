@@ -1,0 +1,6 @@
+gem 'net_dav'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'yard'
+gem 'simplecov'

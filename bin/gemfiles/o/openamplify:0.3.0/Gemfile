@@ -1,4 +1,0 @@
-gem 'faraday'
-gem 'minitest'
-gem 'nokogiri'
-gem 'json'

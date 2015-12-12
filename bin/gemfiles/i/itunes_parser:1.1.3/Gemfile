@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'pry'
-gem 'pry-rescue'
-gem 'nokogiri-plist'

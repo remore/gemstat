@@ -1,0 +1,4 @@
+gem 'jsonpath'
+gem 'nokogiri'
+gem 'cucumber'
+gem 'rspec'

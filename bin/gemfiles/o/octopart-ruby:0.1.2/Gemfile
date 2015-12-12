@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'shoulda'
-gem 'yard'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'
-gem 'fakeweb'

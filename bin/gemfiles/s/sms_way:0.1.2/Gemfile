@@ -1,6 +1,0 @@
-gem 'api_smith'
-gem 'settingslogic'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'

@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'rails'
-gem 'fakeredis'
-gem 'redis'

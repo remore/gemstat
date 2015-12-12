@@ -1,4 +1,0 @@
-gem 'hash-utils'
-gem 'command-builder'
-gem 'bundler'
-gem 'jeweler'

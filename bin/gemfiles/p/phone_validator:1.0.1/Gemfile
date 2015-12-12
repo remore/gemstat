@@ -1,5 +1,0 @@
-gem 'activemodel'
-gem 'global_phone'
-gem 'rake'
-gem 'guard-rspec'
-gem 'appraisal'

@@ -1,2 +1,0 @@
-gem 'eventmachine_httpserver'
-gem 'blather'

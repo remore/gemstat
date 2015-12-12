@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'redis'
-gem 'resque'
-gem 'resque-cleaner'
-gem 'resque_mailer'
-gem 'thincloud-test'

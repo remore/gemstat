@@ -1,0 +1,7 @@
+gem 'values'
+gem 'bundler'
+gem 'rake'
+gem 'rspec'
+gem 'spinach'
+gem 'guard-spinach'
+gem 'guard-rspec'

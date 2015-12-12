@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'bundler'
-gem 'simplecov'
-gem 'rspec-rails'
-gem 'yard'
-gem 'rmagick'

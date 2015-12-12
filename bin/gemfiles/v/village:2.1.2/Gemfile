@@ -1,6 +1,0 @@
-gem 'rails'
-gem 'haml'
-gem 'tilt'
-gem 'kaminari'
-gem 'gravtastic'
-gem 'nokogiri'

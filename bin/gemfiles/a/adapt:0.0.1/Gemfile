@@ -1,8 +1,0 @@
-gem 'activemodel'
-gem 'patron'
-gem 'tzinfo'
-gem 'remarkable_activemodel'
-gem 'rspec'
-gem 'sinatra'
-gem 'vcr'
-gem 'webmock'

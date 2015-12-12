@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'rake'
+gem 'rubocop'
+gem 'test-unit'
+gem 'github-markdown'
+gem 'sanitize'
+gem 'gemoji'
+gem 'html-pipeline'

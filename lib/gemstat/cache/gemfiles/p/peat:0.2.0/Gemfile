@@ -1,0 +1,6 @@
+gem 'faraday'
+gem 'faraday_middleware'
+gem 'activesupport'
+gem 'rspec'
+gem 'bundler'
+gem 'rake'

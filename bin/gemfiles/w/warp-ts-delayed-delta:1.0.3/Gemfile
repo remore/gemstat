@@ -1,5 +1,0 @@
-gem 'warp-thinking-sphinx'
-gem 'delayed_job'
-gem 'rspec'
-gem 'yard'
-gem 'cucumber'

@@ -1,4 +1,0 @@
-gem 'inifile'
-gem 'nokogiri'
-gem 'highline'
-gem 'smart_colored'

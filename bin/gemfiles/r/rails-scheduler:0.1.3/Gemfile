@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'recurrence'
-gem 'mysql2'
-gem 'factory_girl'

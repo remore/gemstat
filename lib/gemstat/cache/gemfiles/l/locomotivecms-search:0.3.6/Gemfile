@@ -1,0 +1,8 @@
+gem 'activesearch'
+gem 'rspec-rails'
+gem 'capybara-webkit'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'launchy'
+gem 'parallel_tests'
+gem 'capybara-screenshot'

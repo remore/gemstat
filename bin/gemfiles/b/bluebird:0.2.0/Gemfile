@@ -1,4 +1,0 @@
-gem 'twitter-text'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

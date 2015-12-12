@@ -1,0 +1,8 @@
+gem 'rake'
+gem 'sqlite3'
+gem 'bundler'
+gem 'shoulda'
+gem 'webmock'
+gem 'activerecord'
+gem 'rest-client'
+gem 'json'

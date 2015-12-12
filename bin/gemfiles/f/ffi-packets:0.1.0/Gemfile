@@ -1,3 +1,0 @@
-gem 'ffi'
-gem 'ffi_dry'
-gem 'rspec'

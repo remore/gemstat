@@ -1,0 +1,5 @@
+gem 'http_parser.rb'
+gem 'http-form_data'
+gem 'http-cookie'
+gem 'addressable'
+gem 'bundler'

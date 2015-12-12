@@ -1,6 +1,0 @@
-gem 'minitest'
-gem 'guard'
-gem 'guard-minitest'
-gem 'ruby_parser'
-gem 'bundler'
-gem 'rake'

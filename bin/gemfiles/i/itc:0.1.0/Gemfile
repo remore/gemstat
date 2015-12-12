@@ -1,4 +1,0 @@
-gem 'sqlite3'
-gem 'htmlentities'
-gem 'bundler'
-gem 'rake'

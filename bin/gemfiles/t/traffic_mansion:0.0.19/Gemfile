@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rspec'
-gem 'database_cleaner'
-gem 'rack'
-gem 'rake'
-gem 'rest-client'
-gem 'mongoid'
-gem 'sidekiq'

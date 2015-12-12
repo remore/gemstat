@@ -1,5 +1,0 @@
-gem 'ffi-rzmq'
-gem 'rspec'
-gem 'jeweler'
-gem 'cucumber'
-gem 'rake'

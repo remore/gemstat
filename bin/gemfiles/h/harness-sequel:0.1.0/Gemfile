@@ -1,5 +1,0 @@
-gem 'harness'
-gem 'sequel'
-gem 'bundler'
-gem 'rake'
-gem 'sqlite3'

@@ -1,7 +1,0 @@
-gem 'mysql'
-gem 'rspec'
-gem 'database_cleaner'
-gem 'ihoka-friendly'
-gem 'activerecord'
-gem 'yajl-ruby'
-gem 'memcached'

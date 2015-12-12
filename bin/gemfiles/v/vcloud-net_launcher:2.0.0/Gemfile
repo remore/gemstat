@@ -1,8 +1,0 @@
-gem 'vcloud-core'
-gem 'gem_publisher'
-gem 'pry'
-gem 'rake'
-gem 'rspec'
-gem 'rubocop'
-gem 'simplecov'
-gem 'vcloud-tools-tester'

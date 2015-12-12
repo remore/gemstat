@@ -1,6 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'simplecov'
-gem 'debugger'
-gem 'virtus'
-gem 'equalizer'

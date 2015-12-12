@@ -1,4 +1,0 @@
-gem 'parser'
-gem 'thor'
-gem 'flog'
-gem 'bundler'

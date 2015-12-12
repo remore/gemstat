@@ -1,0 +1,8 @@
+gem 'json'
+gem 'parallel'
+gem 'thor'
+gem 'virtus'
+gem 'rugged'
+gem 'bundler'
+gem 'rake'
+gem 'minitest'

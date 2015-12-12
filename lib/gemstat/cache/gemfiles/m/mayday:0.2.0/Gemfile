@@ -1,0 +1,8 @@
+gem 'bundler'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'clamp'
+gem 'colorize'
+gem 'sourcify'
+gem 'xcodeproj'

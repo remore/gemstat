@@ -1,5 +1,0 @@
-gem 'sidekiq'
-gem 'parse-cron'
-gem 'redlock'
-gem 'minitest'
-gem 'rake'

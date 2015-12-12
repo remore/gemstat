@@ -1,4 +1,0 @@
-gem 'nokogiri'
-gem 'open-uri'
-gem 'oembed'
-gem 'image_size'

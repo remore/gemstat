@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rake'
-gem 'capybara'
-gem 'actionpack'

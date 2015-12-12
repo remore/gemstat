@@ -1,7 +1,0 @@
-gem 'activerecord'
-gem 'pg'
-gem 'pry'
-gem 'rake'
-gem 'rspec'
-gem 'guard'
-gem 'guard-rspec'

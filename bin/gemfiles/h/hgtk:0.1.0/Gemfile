@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'yard'
-gem 'pry'
-gem 'rspec'
-gem 'rspec-its'
-gem 'fivemat'
-gem 'color'

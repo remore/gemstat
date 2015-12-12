@@ -1,0 +1,7 @@
+gem 'png'
+gem 'hoe'
+gem 'array_2d'
+gem 'RubyInline'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'

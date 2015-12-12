@@ -1,4 +1,0 @@
-gem 'rake'
-gem 'pry'
-gem 'rspec'
-gem 'rspec-collection_matchers'

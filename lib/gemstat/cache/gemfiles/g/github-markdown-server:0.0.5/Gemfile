@@ -1,0 +1,4 @@
+gem 'github-markdown-preview'
+gem 'minitest'
+gem 'bundler'
+gem 'rake'

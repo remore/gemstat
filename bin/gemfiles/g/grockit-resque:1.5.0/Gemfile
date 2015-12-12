@@ -1,5 +1,0 @@
-gem 'redis'
-gem 'redis-namespace'
-gem 'vegas'
-gem 'sinatra'
-gem 'jeweler'

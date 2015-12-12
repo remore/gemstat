@@ -1,0 +1,4 @@
+gem 'railties'
+gem 'vendorer'
+gem 'tzinfo'
+gem 'sprockets-rails'

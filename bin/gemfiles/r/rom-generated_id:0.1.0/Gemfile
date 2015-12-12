@@ -1,6 +1,0 @@
-gem 'rom'
-gem 'thread_safe'
-gem 'inflecto'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'

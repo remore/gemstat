@@ -1,7 +1,0 @@
-gem 'activesupport'
-gem 'activerecord'
-gem 'actionpack'
-gem 'rspec'
-gem 'rake'
-gem 'active_record_no_table'
-gem 'mysql2'

@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'pay_dirt'
-gem 'konamio'
-gem 'foaas'
-gem 'rake'
-gem 'coveralls'
-gem 'minitest'
-gem 'pry'

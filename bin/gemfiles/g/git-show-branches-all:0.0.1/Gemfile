@@ -1,4 +1,0 @@
-gem 'colorize'
-gem 'fileutils'
-gem 'parallel'
-gem 'rspec'

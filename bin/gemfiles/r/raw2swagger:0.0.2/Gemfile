@@ -1,5 +1,0 @@
-gem 'json'
-gem 'rake'
-gem 'thin'
-gem 'rack'
-gem 'rack-test'

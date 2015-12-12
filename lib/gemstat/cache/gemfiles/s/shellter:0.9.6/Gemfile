@@ -1,0 +1,5 @@
+gem 'escape'
+gem 'pry'
+gem 'pry-doc'
+gem 'pry-nav'
+gem 'simplecov'

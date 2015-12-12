@@ -1,4 +1,0 @@
-gem 'rails'
-gem 'mixed_number'
-gem 'sqlite3'
-gem 'rspec'

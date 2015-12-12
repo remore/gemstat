@@ -1,8 +1,0 @@
-gem 'grape'
-gem 'httparty'
-gem 'nokogiri'
-gem 'bundler'
-gem 'rake'
-gem 'vcr'
-gem 'webmock'
-gem 'awesome_print'

@@ -1,4 +1,0 @@
-gem 'celluloid'
-gem 'net-ping'
-gem 'sinatra'
-gem 'slim'

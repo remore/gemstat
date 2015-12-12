@@ -1,4 +1,0 @@
-gem 'mail'
-gem 'minitest'
-gem 'shoulda'
-gem 'shoulda-context'

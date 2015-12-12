@@ -1,5 +1,0 @@
-gem 'creole'
-gem 'reverse_markdown'
-gem 'bundler'
-gem 'rake'
-gem 'yard'

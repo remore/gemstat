@@ -1,5 +1,0 @@
-gem 'wrapped'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'coveralls'

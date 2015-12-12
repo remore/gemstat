@@ -1,0 +1,8 @@
+gem 'pg_application_name'
+gem 'pg_advisory_locker'
+gem 'log4r'
+gem 'log4r_remote_syslog_outputter'
+gem 'reasonable_log4r'
+gem 'uuid'
+gem 'rails'
+gem 'rspec-rails'

@@ -1,0 +1,5 @@
+gem 'rspec'
+gem 'rspec-rails'
+gem 'chunky_png'
+gem 'rake'
+gem 'rails'

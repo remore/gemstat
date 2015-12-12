@@ -1,6 +1,0 @@
-gem 'json_schema_tools'
-gem 'doctag_json_schema'
-gem 'activesupport'
-gem 'rake'
-gem 'simplecov'
-gem 'rspec'

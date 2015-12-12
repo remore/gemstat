@@ -1,4 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'service_jynx'
-gem 'typhoeus'

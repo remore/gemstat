@@ -1,5 +1,0 @@
-gem 'rspec'
-gem 'webmock'
-gem 'travis-lint'
-gem 'nyan-cat-formatter'
-gem 'httparty'

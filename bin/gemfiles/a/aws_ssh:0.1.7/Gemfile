@@ -1,4 +1,0 @@
-gem 'colorize'
-gem 'bundler'
-gem 'json'
-gem 'aws-sdk'

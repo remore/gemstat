@@ -1,0 +1,8 @@
+gem 'railties'
+gem 'pg'
+gem 'mv-core'
+gem 'jeweler'
+gem 'rspec'
+gem 'rspec-its'
+gem 'guard-rspec'
+gem 'shoulda'

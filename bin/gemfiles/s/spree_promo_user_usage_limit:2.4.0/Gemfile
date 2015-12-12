@@ -1,7 +1,0 @@
-gem 'spree_core'
-gem 'factory_girl'
-gem 'ffaker'
-gem 'rspec-rails'
-gem 'simplecov'
-gem 'sqlite3'
-gem 'coveralls'

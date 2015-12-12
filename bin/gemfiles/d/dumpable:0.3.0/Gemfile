@@ -1,6 +1,0 @@
-gem 'activerecord'
-gem 'hashie'
-gem 'shoulda'
-gem 'rdoc'
-gem 'jeweler'
-gem 'simplecov'

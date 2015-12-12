@@ -1,0 +1,5 @@
+gem 'sass'
+gem 'bundler'
+gem 'yard'
+gem 'jeweler'
+gem 'rdiscount'

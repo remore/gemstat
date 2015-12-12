@@ -1,6 +1,0 @@
-gem 'activemerchant'
-gem 'test-unit'
-gem 'rake'
-gem 'mocha'
-gem 'rails'
-gem 'thor'

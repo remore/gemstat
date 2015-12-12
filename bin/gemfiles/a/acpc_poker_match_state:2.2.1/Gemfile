@@ -1,8 +1,0 @@
-gem 'acpc_poker_types'
-gem 'contextual_exceptions'
-gem 'turn'
-gem 'minitest'
-gem 'acpc_dealer'
-gem 'awesome_print'
-gem 'pry-rescue'
-gem 'simplecov'

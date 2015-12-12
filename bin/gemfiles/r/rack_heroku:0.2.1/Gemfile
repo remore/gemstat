@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'rake'
-gem 'bundler'
-gem 'rack-test'
-gem 'rspec'

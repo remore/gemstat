@@ -1,5 +1,0 @@
-gem 'colored'
-gem 'escape'
-gem 'facets'
-gem 'qualitysmith_extensions'
-gem 'rscm'

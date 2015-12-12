@@ -1,5 +1,0 @@
-gem 'nokogiri'
-gem 'inifile'
-gem 'trollop'
-gem 'bundler'
-gem 'rake'

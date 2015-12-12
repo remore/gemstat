@@ -1,4 +1,0 @@
-gem 'jekyll'
-gem 'citeproc-ruby'
-gem 'csl-styles'
-gem 'bibtex-ruby'

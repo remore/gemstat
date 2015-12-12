@@ -1,5 +1,0 @@
-gem 'gli'
-gem 'httparty'
-gem 'rainbow'
-gem 'addressable'
-gem 'jeweler'

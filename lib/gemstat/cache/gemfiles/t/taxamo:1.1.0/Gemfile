@@ -1,0 +1,7 @@
+gem 'addressable'
+gem 'typhoeus'
+gem 'require_all'
+gem 'mocha'
+gem 'shoulda'
+gem 'test-unit'
+gem 'rake'

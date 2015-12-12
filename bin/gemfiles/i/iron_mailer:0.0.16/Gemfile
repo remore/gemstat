@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'mail'
-gem 'iron_mq'
-gem 'iron_cache'
-gem 'typhoeus'
-gem 'uuidtools'

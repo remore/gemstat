@@ -1,3 +1,0 @@
-gem 'zip_dsl'
-gem 'gemspec_deps_gen'
-gem 'gemcutter'

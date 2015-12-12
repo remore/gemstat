@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'brakeman'
+gem 'metric_fu'
+gem 'railties'

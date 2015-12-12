@@ -1,0 +1,4 @@
+gem 'rails'
+gem 'liquid'
+gem 'capybara'
+gem 'sqlite3'

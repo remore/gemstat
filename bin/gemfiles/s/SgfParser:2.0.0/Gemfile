@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'rcov'
-gem 'rake'
-gem 'rdoc'

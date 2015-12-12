@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'fastthread'
+gem 'json'
+gem 'haml'
+gem 'log4r'
+gem 'xmpp4r'

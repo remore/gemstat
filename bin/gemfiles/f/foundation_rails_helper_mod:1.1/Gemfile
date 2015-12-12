@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'actionpack'
-gem 'rspec-rails'
-gem 'capybara'

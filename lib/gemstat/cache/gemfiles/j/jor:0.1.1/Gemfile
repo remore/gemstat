@@ -1,0 +1,6 @@
+gem 'hiredis'
+gem 'redis'
+gem 'rake'
+gem 'rack'
+gem 'rack-test'
+gem 'thin'

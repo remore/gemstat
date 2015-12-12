@@ -1,5 +1,0 @@
-gem 'guachiman'
-gem 'railties'
-gem 'rake'
-gem 'minitest'
-gem 'bundler'

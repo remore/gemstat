@@ -1,3 +1,0 @@
-gem 'libvirt'
-gem 'protest'
-gem 'mocha'

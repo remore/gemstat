@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'bundler'
-gem 'gemcutter'
-gem 'rest-client'
-gem 'json'
-gem 'highline'
-gem 'multipart-post'

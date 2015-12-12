@@ -1,3 +1,0 @@
-gem 'thoughtbot-shoulda'
-gem 'actionmailer'
-gem 'uuidtools'

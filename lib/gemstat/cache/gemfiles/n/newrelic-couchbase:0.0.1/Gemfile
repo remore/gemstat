@@ -1,0 +1,2 @@
+gem 'couchbase'
+gem 'newrelic_rpm'

@@ -1,3 +1,0 @@
-gem 'redis'
-gem 'rspec'
-gem 'awesome_print'

@@ -1,0 +1,7 @@
+gem 'units-system'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'activesupport'
+gem 'i18n'

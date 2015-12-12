@@ -1,6 +1,0 @@
-gem 'yajl-ruby'
-gem 'trollop'
-gem 'rake'
-gem 'redcarpet'
-gem 'debugger'
-gem 'rspec'

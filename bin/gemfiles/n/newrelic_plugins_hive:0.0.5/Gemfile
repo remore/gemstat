@@ -1,6 +1,0 @@
-gem 'newrelic_plugin'
-gem 'daemons'
-gem 'slop'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

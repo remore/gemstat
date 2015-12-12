@@ -1,7 +1,0 @@
-gem 'cistern'
-gem 'faraday-cookie_jar'
-gem 'faraday_middleware'
-gem 'faraday'
-gem 'multi_xml'
-gem 'bundler'
-gem 'rake'

@@ -1,4 +1,0 @@
-gem 'ardm-core'
-gem 'randexp'
-gem 'rake'
-gem 'rspec'

@@ -1,2 +1,0 @@
-gem 'tgbyte-activerecord-jdbc-adapter'
-gem 'jdbc-sqlite3'

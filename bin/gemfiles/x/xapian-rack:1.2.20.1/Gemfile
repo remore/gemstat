@@ -1,3 +1,0 @@
-gem 'xapian-indexer'
-gem 'bundler'
-gem 'rake'

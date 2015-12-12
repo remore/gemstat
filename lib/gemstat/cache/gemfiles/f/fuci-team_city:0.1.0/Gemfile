@@ -1,0 +1,6 @@
+gem 'fuci'
+gem 'nokogiri'
+gem 'bundler'
+gem 'minitest-spec-expect'
+gem 'mocha'
+gem 'rake'

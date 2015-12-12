@@ -1,0 +1,7 @@
+gem 'exception_notification'
+gem 'slack-notifier'
+gem 'bundler'
+gem 'rake'
+gem 'rack'
+gem 'rspec'
+gem 'webmock'

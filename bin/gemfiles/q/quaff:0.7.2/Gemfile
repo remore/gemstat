@@ -1,3 +1,0 @@
-gem 'system-getifaddrs'
-gem 'milenage'
-gem 'abnf-parsing'

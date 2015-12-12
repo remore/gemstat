@@ -1,4 +1,0 @@
-gem 'json'
-gem 'sinatra'
-gem 'bundler'
-gem 'yard'

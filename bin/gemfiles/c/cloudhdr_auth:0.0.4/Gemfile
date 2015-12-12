@@ -1,7 +1,0 @@
-gem 'rails'
-gem 'omniauth'
-gem 'omniauth-oauth2'
-gem 'sqlite3'
-gem 'rspec-rails'
-gem 'cucumber-rails'
-gem 'database_cleaner'

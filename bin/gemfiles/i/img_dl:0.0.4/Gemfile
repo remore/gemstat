@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'mechanize'
-gem 'em-http-request'
-gem 'activesupport'

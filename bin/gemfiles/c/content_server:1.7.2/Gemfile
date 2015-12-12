@@ -1,6 +1,0 @@
-gem 'algorithms'
-gem 'log4r'
-gem 'eventmachine'
-gem 'json'
-gem 'sinatra'
-gem 'thin'

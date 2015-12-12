@@ -1,8 +1,0 @@
-gem 'excon'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'byebug'
-gem 'pry'
-gem 'coveralls'

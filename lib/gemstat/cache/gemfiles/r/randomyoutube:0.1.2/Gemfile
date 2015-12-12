@@ -1,0 +1,2 @@
+gem 'mightystring'
+gem 'nokogiri'

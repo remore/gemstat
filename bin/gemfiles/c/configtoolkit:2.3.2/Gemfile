@@ -1,5 +1,0 @@
-gem 'relative'
-gem 'assertions'
-gem 'rubyforge'
-gem 'gemcutter'
-gem 'hoe'

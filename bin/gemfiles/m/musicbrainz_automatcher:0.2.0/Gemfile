@@ -1,5 +1,0 @@
-gem 'text'
-gem 'rbrainz'
-gem 'activesupport'
-gem 'rspec'
-gem 'mocha'

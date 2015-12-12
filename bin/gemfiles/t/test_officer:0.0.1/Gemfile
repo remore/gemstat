@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'fssm'
-gem 'rspec'
-gem 'colorize'
-gem 'fssm'
-gem 'rspec'
-gem 'colorize'

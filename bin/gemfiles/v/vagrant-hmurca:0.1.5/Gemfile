@@ -1,5 +1,0 @@
-gem 'booby'
-gem 'thor'
-gem 'bundler'
-gem 'minitest'
-gem 'rake'

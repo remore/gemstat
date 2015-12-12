@@ -1,6 +1,0 @@
-gem 'paint'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'rspec-given'
-gem 'codeclimate-test-reporter'

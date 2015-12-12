@@ -1,6 +1,0 @@
-gem 'activeadmin'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-spec-expect'
-gem 'sass-rails'

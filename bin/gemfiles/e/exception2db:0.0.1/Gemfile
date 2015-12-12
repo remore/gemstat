@@ -1,6 +1,0 @@
-gem 'will_paginate'
-gem 'hoptoad_notifier'
-gem 'flexmock'
-gem 'shoulda'
-gem 'factory_girl_rails'
-gem 'nokogiri'

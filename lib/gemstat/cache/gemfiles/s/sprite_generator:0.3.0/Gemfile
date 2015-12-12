@@ -1,0 +1,5 @@
+gem 'liquid'
+gem 'rmagick'
+gem 'jeweler'
+gem 'liquid'
+gem 'rmagick'

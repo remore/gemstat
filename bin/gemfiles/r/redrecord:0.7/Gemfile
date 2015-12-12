@@ -1,3 +1,0 @@
-gem 'redis'
-gem 'active_model'
-gem 'active_support'

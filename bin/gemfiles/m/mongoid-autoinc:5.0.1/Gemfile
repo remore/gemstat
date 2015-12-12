@@ -1,5 +1,0 @@
-gem 'mongoid'
-gem 'rake'
-gem 'foreman'
-gem 'rspec'
-gem 'pry'

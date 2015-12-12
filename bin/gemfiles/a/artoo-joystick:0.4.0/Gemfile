@@ -1,5 +1,0 @@
-gem 'artoo'
-gem 'hybridgroup-ruby-sdl-ffi'
-gem 'minitest'
-gem 'minitest-happy'
-gem 'mocha'

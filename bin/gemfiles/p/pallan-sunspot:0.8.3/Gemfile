@@ -1,3 +1,0 @@
-gem 'solr-ruby'
-gem 'rspec'
-gem 'ruby-debug'

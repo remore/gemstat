@@ -1,7 +1,0 @@
-gem 'faraday'
-gem 'roo'
-gem 'rubyzip'
-gem 'semantic'
-gem 'bcl'
-gem 'bundler'
-gem 'rake'

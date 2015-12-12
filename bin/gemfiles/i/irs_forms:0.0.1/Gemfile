@@ -1,8 +1,0 @@
-gem 'activesupport'
-gem 'prawn'
-gem 'rake'
-gem 'jeweler'
-gem 'appraisal'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'

@@ -1,0 +1,6 @@
+gem 'feedzirra'
+gem 'memoizable'
+gem 'sanitizer'
+gem 'i18n'
+gem 'rspec'
+gem 'fakeweb'

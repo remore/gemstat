@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'thin'
-gem 'json'
-gem 'faye-websocket'
-gem 'rack-mount'

@@ -1,0 +1,4 @@
+gem 'childprocess'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rack'

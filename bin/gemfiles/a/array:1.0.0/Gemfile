@@ -1,8 +1,0 @@
-gem 'array-hooked'
-gem 'array-sorted'
-gem 'array-unique'
-gem 'array-sorted-unique'
-gem 'array-compositing'
-gem 'array-sorted-compositing'
-gem 'array-unique-compositing'
-gem 'array-sorted-unique-compositing'

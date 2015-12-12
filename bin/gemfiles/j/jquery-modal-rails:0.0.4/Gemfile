@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'thor'
-gem 'jquery-ui-rails'
-gem 'uuidtools'

@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'haml'
-gem 'activesupport'
-gem 'i18n'

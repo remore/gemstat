@@ -1,0 +1,5 @@
+gem 'hamster'
+gem 'bundler'
+gem 'byebug'
+gem 'rake'
+gem 'rspec'

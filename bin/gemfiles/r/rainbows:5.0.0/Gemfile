@@ -1,5 +1,0 @@
-gem 'rack'
-gem 'kgio'
-gem 'unicorn'
-gem 'isolate'
-gem 'olddoc'

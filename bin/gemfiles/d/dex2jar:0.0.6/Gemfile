@@ -1,6 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'simplecov'
-gem 'coveralls'
-gem 'rspec'
-gem 'trollop'

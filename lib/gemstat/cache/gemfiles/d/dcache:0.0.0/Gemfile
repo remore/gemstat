@@ -1,0 +1,4 @@
+gem 'rspec'
+gem 'hoe-git'
+gem 'yard'
+gem 'hoe'

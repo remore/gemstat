@@ -1,5 +1,0 @@
-gem 'pay_dirt'
-gem 'minitest'
-gem 'pry'
-gem 'rake'
-gem 'coveralls'

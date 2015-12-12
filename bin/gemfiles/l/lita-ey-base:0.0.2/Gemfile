@@ -1,7 +1,0 @@
-gem 'lita'
-gem 'engineyard'
-gem 'bundler'
-gem 'coveralls'
-gem 'rake'
-gem 'rspec'
-gem 'simplecov'

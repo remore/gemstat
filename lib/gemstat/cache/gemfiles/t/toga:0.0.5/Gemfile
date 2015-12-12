@@ -1,0 +1,5 @@
+gem 'git'
+gem 'ruby-debug19'
+gem 'require_relative'
+gem 'minitest'
+gem 'mocha'

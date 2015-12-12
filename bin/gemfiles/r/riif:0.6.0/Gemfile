@@ -1,8 +1,0 @@
-gem 'pry'
-gem 'rails'
-gem 'rspec'
-gem 'rspec-rails'
-gem 'awesome_print'
-gem 'combustion'
-gem 'fuubar'
-gem 'coveralls'

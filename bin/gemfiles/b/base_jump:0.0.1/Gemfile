@@ -1,4 +1,0 @@
-gem 'rake_tasks'
-gem 'gems'
-gem 'cane'
-gem 'rspec'

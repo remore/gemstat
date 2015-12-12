@@ -1,3 +1,0 @@
-gem 'capistrano'
-gem 'json'
-gem 'addressable'

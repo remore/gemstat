@@ -1,5 +1,0 @@
-gem 'actionmailer'
-gem 'relative'
-gem 'rubyforge'
-gem 'gemcutter'
-gem 'hoe'

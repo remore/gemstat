@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'azure'
+gem 'hashie'
+gem 'addressable'
+gem 'celluloid'

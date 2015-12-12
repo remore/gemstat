@@ -1,6 +1,0 @@
-gem 'faraday'
-gem 'rake'
-gem 'rspec'
-gem 'pry'
-gem 'service_double'
-gem 'appraisal'

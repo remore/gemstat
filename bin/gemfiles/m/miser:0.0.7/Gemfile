@@ -1,8 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'capybara'
-gem 'selenium-webdriver'
-gem 'thor'
-gem 'rufus-scheduler'
-gem 'mailgun-ruby'
-gem 'headless'

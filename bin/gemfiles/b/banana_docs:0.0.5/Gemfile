@@ -1,6 +1,0 @@
-gem 'actionpack'
-gem 'rspec'
-gem 'slim'
-gem 'htmlentities'
-gem 'bundler'
-gem 'rake'

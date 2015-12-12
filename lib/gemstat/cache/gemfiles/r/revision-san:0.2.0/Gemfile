@@ -1,0 +1,5 @@
+gem 'activerecord'
+gem 'diff-lcs'
+gem 'rake'
+gem 'bacon'
+gem 'sqlite3'

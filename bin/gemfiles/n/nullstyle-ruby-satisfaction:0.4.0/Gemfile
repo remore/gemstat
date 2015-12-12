@@ -1,3 +1,0 @@
-gem 'memcache-client'
-gem 'oauth'
-gem 'activesupport'

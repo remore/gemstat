@@ -1,7 +1,0 @@
-gem 'rainbow'
-gem 'trollop'
-gem 'mixlib-config'
-gem 'hirb'
-gem 'erubis'
-gem 'rspec'
-gem 'rubocop'

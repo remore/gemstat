@@ -1,3 +1,0 @@
-gem 'vagrant'
-gem 'minitest'
-gem 'mocha'

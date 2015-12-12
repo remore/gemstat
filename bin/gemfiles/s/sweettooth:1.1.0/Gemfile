@@ -1,7 +1,0 @@
-gem 'rest-client'
-gem 'mime-types'
-gem 'multi_json'
-gem 'mocha'
-gem 'shoulda'
-gem 'test-unit'
-gem 'rake'

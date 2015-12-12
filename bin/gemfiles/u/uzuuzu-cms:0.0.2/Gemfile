@@ -1,5 +1,0 @@
-gem 'uzuuzu'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

@@ -1,4 +1,0 @@
-gem 'eventmachine'
-gem 'rake'
-gem 'rspec'
-gem 'gem_console'

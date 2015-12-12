@@ -1,7 +1,0 @@
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'httparty'
-gem 'httparty'
-gem 'httparty'

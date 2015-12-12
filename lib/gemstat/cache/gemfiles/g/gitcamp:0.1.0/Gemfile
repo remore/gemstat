@@ -1,0 +1,7 @@
+gem 'thor'
+gem 'octokit'
+gem 'highline'
+gem 'json'
+gem 'basecamp'
+gem 'rake'
+gem 'rspec'

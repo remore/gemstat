@@ -1,7 +1,0 @@
-gem 'rake'
-gem 'contest'
-gem 'mocha'
-gem 'rack-test'
-gem 'rdoc'
-gem 'linkedin'
-gem 'sinatra'

@@ -1,5 +1,0 @@
-gem 'aws4'
-gem 'multi_json'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'

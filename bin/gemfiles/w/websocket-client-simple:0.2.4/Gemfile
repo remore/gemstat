@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'websocket-eventmachine-server'
-gem 'eventmachine'
-gem 'websocket'
-gem 'event_emitter'

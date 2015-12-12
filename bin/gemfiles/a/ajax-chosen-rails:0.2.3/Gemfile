@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'thor'
-gem 'chosen-rails_ffcrm'
-gem 'bundler'
-gem 'rails'
-gem 'sass'

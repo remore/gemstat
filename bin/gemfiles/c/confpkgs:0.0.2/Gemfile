@@ -1,7 +1,0 @@
-gem 'colored'
-gem 'ruby-progressbar'
-gem 'rspec'
-gem 'rdoc'
-gem 'bundler'
-gem 'jeweler'
-gem 'simplecov'

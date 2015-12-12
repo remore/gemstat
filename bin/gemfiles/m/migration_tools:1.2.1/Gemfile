@@ -1,8 +1,0 @@
-gem 'activerecord'
-gem 'rake'
-gem 'bump'
-gem 'mocha'
-gem 'minitest'
-gem 'minitest-rg'
-gem 'sqlite3'
-gem 'wwtd'

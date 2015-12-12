@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'activesupport'
-gem 'coffee-rails'
-gem 'json'

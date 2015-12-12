@@ -1,3 +1,0 @@
-gem 'minitest'
-gem 'minitest-line'
-gem 'webmock'

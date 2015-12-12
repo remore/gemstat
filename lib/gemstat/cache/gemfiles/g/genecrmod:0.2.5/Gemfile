@@ -1,0 +1,8 @@
+gem 'coderunner'
+gem 'hdf5'
+gem 'shoulda'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'
+gem 'minitest'

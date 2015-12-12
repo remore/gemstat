@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'yaml_db'
-gem 'aws-sdk'

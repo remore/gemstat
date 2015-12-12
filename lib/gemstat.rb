@@ -1,0 +1,8 @@
+require 'thor'
+require 'rubygems/mirror'
+require 'bundler'
+require 'gemstat/version'
+require 'gemstat/gemspec'
+require 'gemstat/dependency'
+require 'gemstat/population'
+require 'gemstat/cli'

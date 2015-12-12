@@ -1,8 +1,0 @@
-gem 'redis'
-gem 'rake'
-gem 'jeweler'
-gem 'guard'
-gem 'guard-rspec'
-gem 'rb-inotify'
-gem 'rb-fsevent'
-gem 'rb-fchange'

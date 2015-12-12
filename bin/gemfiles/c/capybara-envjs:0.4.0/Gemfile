@@ -1,6 +1,0 @@
-gem 'capybara'
-gem 'envjs'
-gem 'bundler'
-gem 'rspec'
-gem 'rack-test'
-gem 'sinatra'

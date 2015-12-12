@@ -1,6 +1,0 @@
-gem 'http_monkey'
-gem 'rake'
-gem 'minitest'
-gem 'minitest-reporters'
-gem 'mocha'
-gem 'minion_server'

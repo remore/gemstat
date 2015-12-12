@@ -1,4 +1,0 @@
-gem 'json'
-gem 'colorize'
-gem 'rest-client'
-gem 'hashie'

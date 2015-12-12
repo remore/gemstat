@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'foreigner'
+gem 'nokogiri'
+gem 'pg'
+gem 'rake'
+gem 'mocha'

@@ -1,0 +1,4 @@
+gem 'exifr'
+gem 'rmagick'
+gem 'jekyll'
+gem 'bundler'

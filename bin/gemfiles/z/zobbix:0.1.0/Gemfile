@@ -1,6 +1,0 @@
-gem 'rake'
-gem 'minitest'
-gem 'ffaker'
-gem 'vcr'
-gem 'pry'
-gem 'httparty'

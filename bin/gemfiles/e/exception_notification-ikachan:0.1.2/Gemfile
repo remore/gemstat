@@ -1,6 +1,0 @@
-gem 'exception_notification'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'
-gem 'webmock'
-gem 'rack'

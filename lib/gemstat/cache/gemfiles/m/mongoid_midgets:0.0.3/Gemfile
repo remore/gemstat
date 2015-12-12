@@ -1,0 +1,5 @@
+gem 'mongoid_bitfield'
+gem 'mongoid_touch'
+gem 'mongoid_upk'
+gem 'rake'
+gem 'jeweler'

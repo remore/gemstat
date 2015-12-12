@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'iron_hide'
-gem 'rake'
-gem 'rspec'
-gem 'typhoeus'
-gem 'multi_json'
-gem 'couchrest'

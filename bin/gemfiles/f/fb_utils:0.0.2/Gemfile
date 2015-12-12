@@ -1,6 +1,0 @@
-gem 'activesupport'
-gem 'i18n'
-gem 'rake'
-gem 'vcr'
-gem 'fakeweb'
-gem 'shoulda-context'

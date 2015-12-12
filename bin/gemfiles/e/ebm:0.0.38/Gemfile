@@ -1,4 +1,0 @@
-gem 'subcommand'
-gem 'json_pure'
-gem 'ruby-hmac'
-gem 'highline'

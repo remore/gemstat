@@ -1,0 +1,6 @@
+gem 'rest-client'
+gem 'json'
+gem 'codeclimate-test-reporter'
+gem 'rspec'
+gem 'rake'
+gem 'rubocop'

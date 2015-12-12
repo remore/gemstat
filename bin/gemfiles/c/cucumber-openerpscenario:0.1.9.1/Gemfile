@@ -1,5 +1,0 @@
-gem 'ooor'
-gem 'ooor-finders'
-gem 'cucumber'
-gem 'parseconfig'
-gem 'rspec-rails'

@@ -1,5 +1,0 @@
-gem 'rubysl-socket'
-gem 'rubysl-thread'
-gem 'bundler'
-gem 'rake'
-gem 'mspec'

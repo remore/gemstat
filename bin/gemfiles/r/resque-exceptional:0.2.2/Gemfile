@@ -1,8 +1,0 @@
-gem 'resque'
-gem 'multi_json'
-gem 'rake'
-gem 'minitest'
-gem 'rr'
-gem 'webmock'
-gem 'yard'
-gem 'simplecov'

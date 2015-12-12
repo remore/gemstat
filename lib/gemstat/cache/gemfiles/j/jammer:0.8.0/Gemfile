@@ -1,0 +1,7 @@
+gem 'methadone'
+gem 'rdoc'
+gem 'rake'
+gem 'rspec'
+gem 'cucumber'
+gem 'aruba'
+gem 'simplecov'

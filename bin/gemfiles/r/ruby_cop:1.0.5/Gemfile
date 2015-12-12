@@ -1,4 +1,0 @@
-gem 'geminabox'
-gem 'rake'
-gem 'rspec'
-gem 'yard'

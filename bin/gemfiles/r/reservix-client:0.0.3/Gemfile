@@ -1,5 +1,0 @@
-gem 'httmultiparty'
-gem 'hashie'
-gem 'bundler'
-gem 'guard'
-gem 'rb-fsevent'

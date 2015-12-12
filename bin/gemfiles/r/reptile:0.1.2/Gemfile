@@ -1,3 +1,0 @@
-gem 'bundler'
-gem 'activerecord'
-gem 'mixlib-log'

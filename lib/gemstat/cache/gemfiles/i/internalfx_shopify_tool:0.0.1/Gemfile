@@ -1,0 +1,5 @@
+gem 'bundler'
+gem 'rake'
+gem 'filewatcher'
+gem 'celluloid'
+gem 'httparty'

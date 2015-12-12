@@ -1,0 +1,6 @@
+gem 'sinatra'
+gem 'cancan'
+gem 'rspec'
+gem 'rack-test'
+gem 'rcov'
+gem 'jeweler'

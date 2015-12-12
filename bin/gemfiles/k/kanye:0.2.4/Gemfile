@@ -1,7 +1,0 @@
-gem 'httparty'
-gem 'nokogiri'
-gem 'sqlite3'
-gem 'ruby-mp3info'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'

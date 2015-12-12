@@ -1,0 +1,8 @@
+gem 'rails'
+gem 'jquery-rails'
+gem 'bootstrap-sass-rails'
+gem 'font-awesome-sass-rails'
+gem 'twitter_bootstrap_helper'
+gem 'compass-rails'
+gem 'simple_form'
+gem 'sqlite3'

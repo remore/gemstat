@@ -1,0 +1,6 @@
+gem 'rails'
+gem 'appsignal'
+gem 'bundler'
+gem 'rake'
+gem 'rdoc'
+gem 'rspec'

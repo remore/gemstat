@@ -1,5 +1,0 @@
-gem 'rake'
-gem 'csv'
-gem 'nokogiri'
-gem 'mechanize'
-gem 'json'

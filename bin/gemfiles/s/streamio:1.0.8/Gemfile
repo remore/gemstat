@@ -1,6 +1,0 @@
-gem 'rack'
-gem 'multipart-post'
-gem 'multi_json'
-gem 'rspec'
-gem 'webmock'
-gem 'rake'

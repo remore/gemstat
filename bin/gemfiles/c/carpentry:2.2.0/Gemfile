@@ -1,6 +1,0 @@
-gem 'railties'
-gem 'rdoc'
-gem 'rails'
-gem 'capybara'
-gem 'autotest-standalone'
-gem 'rspec-rails'

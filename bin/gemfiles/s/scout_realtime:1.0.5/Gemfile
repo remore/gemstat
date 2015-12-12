@@ -1,7 +1,0 @@
-gem 'bundler'
-gem 'rake'
-gem 'minitest-reporters'
-gem 'awesome_print'
-gem 'mocha'
-gem 'pry'
-gem 'server_metrics'

@@ -1,6 +1,0 @@
-gem 'gviz'
-gem 'bundler'
-gem 'rake'
-gem 'rubocop'
-gem 'coveralls'
-gem 'byebug'

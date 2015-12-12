@@ -1,4 +1,0 @@
-gem 'em-synchrony'
-gem 'multi_json'
-gem 'rspec'
-gem 'rake'

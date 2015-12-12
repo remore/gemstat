@@ -1,4 +1,0 @@
-gem 'treetop'
-gem 'rake-compiler'
-gem 'rspec'
-gem 'rdoc'

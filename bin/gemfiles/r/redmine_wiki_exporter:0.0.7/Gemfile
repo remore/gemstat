@@ -1,6 +1,0 @@
-gem 'hpricot'
-gem 'mechanize'
-gem 'rspec'
-gem 'bundler'
-gem 'jeweler'
-gem 'rcov'

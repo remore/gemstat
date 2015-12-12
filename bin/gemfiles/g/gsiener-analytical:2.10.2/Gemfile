@@ -1,8 +1,0 @@
-gem 'jeweler'
-gem 'rspec'
-gem 'diff-lcs'
-gem 'rails'
-gem 'guard'
-gem 'guard-rspec'
-gem 'rb-fsevent'
-gem 'growl'

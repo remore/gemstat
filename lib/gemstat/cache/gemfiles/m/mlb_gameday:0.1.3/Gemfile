@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'minitest'
+gem 'httparty'
+gem 'nokogiri'
+gem 'chronic'

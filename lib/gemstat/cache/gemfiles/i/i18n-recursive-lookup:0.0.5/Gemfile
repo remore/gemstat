@@ -1,0 +1,6 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'rake'
+gem 'mocha'
+gem 'test_declarative'
+gem 'test-unit'

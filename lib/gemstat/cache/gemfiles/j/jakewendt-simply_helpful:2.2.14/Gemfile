@@ -1,0 +1,2 @@
+gem 'rails'
+gem 'jakewendt-rails_extension'

@@ -1,0 +1,7 @@
+gem 'multi_json'
+gem 'httparty'
+gem 'rspec'
+gem 'webmock'
+gem 'em-http-request'
+gem 'rake'
+gem 'rack'

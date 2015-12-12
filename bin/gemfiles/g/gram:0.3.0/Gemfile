@@ -1,8 +1,0 @@
-gem 'rest-client'
-gem 'thor'
-gem 'i18n'
-gem 'activesupport'
-gem 'bundler'
-gem 'rspec'
-gem 'generator_spec'
-gem 'activemodel'

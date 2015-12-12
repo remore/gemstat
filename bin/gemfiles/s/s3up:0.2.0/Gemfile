@@ -1,5 +1,0 @@
-gem 'trollop'
-gem 'work_queue'
-gem 'aws'
-gem 'mime-types'
-gem 'json'

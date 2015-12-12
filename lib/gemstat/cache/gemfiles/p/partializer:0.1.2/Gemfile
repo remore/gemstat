@@ -1,0 +1,7 @@
+gem 'hashie'
+gem 'rails'
+gem 'rspec'
+gem 'rdoc'
+gem 'bundler'
+gem 'jeweler'
+gem 'simplecov'

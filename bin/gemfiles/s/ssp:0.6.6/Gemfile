@@ -1,5 +1,0 @@
-gem 'thor'
-gem 'chef'
-gem 'fog'
-gem 'net-ssh-multi'
-gem 'linode'

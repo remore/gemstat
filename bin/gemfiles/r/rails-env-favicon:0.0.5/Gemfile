@@ -1,4 +1,0 @@
-gem 'railties'
-gem 'tinycon-rails'
-gem 'bundler'
-gem 'rake'

@@ -1,5 +1,0 @@
-gem 'html-pipeline'
-gem 'bundler'
-gem 'rake'
-gem 'minitest'
-gem 'github-markdown'

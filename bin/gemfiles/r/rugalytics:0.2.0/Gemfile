@@ -1,6 +1,0 @@
-gem 'hpricot'
-gem 'activesupport'
-gem 'googlebase'
-gem 'morph'
-gem 'fastercsv'
-gem 'rack'

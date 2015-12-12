@@ -1,0 +1,4 @@
+gem 'rake'
+gem 'fluentd'
+gem 'fluent-mixin-rewrite-tag-name'
+gem 'fluent-mixin-type-converter'

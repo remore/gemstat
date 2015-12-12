@@ -1,6 +1,0 @@
-gem 'sinatra'
-gem 'feed-normalizer'
-gem 'dm-core'
-gem 'dm-validations'
-gem 'dm-aggregates'
-gem 'do_sqlite3'

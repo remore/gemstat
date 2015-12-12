@@ -1,5 +1,0 @@
-gem 'ruboty'
-gem 'redis'
-gem 'mechanize'
-gem 'bundler'
-gem 'rake'

@@ -1,3 +1,0 @@
-gem 'capybara'
-gem 'addressable'
-gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'databasedotcom'
-gem 'sass-rails'
-gem 'rspec'
-gem 'bundler'
-gem 'rake'

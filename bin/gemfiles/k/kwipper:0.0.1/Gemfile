@@ -1,5 +1,0 @@
-gem 'sqlite3'
-gem 'colorize'
-gem 'bundler'
-gem 'rake'
-gem 'pry'

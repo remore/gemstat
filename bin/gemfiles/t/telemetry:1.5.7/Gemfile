@@ -1,6 +1,0 @@
-gem 'multi_json'
-gem 'dante'
-gem 'hashie'
-gem 'net-http-persistent'
-gem 'rspec'
-gem 'rake'

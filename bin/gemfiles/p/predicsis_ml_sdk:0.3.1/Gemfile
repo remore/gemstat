@@ -1,4 +1,0 @@
-gem 'json'
-gem 'oj'
-gem 'httmultiparty'
-gem 'nokogiri'

@@ -1,0 +1,8 @@
+gem 'i18n'
+gem 'activesupport'
+gem 'actionpack'
+gem 'railties'
+gem 'haml'
+gem 'sass-rails'
+gem 'compass-rails'
+gem 'accessible_tooltip'

@@ -1,3 +1,0 @@
-gem 'rails'
-gem 'savon'
-gem 'sqlite3'

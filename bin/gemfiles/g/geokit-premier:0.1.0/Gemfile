@@ -1,7 +1,0 @@
-gem 'json_pure'
-gem 'hoe'
-gem 'rspec'
-gem 'autotest'
-gem 'ZenTest'
-gem 'standalone_migrations'
-gem 'mysql'

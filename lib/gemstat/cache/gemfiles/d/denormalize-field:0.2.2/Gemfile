@@ -1,0 +1,8 @@
+gem 'activerecord'
+gem 'em-synchrony'
+gem 'pry'
+gem 'pg'
+gem 'rspec'
+gem 'rdoc'
+gem 'jeweler'
+gem 'mocha'

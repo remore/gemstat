@@ -1,7 +1,0 @@
-gem 'resque'
-gem 'god'
-gem 'railties'
-gem 'activesupport'
-gem 'bundler'
-gem 'rake'
-gem 'rspec'

@@ -1,5 +1,0 @@
-gem 'httpclient'
-gem 'json'
-gem 'travis'
-gem 'rake'
-gem 'rdoc'

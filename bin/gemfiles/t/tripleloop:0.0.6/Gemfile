@@ -1,5 +1,0 @@
-gem 'rdf'
-gem 'rspec'
-gem 'fakefs'
-gem 'pry'
-gem 'babosa'

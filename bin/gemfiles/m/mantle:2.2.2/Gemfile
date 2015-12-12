@@ -1,4 +1,0 @@
-gem 'redis'
-gem 'sidekiq'
-gem 'rspec'
-gem 'pry'

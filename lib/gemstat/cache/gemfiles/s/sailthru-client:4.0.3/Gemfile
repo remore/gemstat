@@ -1,0 +1,6 @@
+gem 'json'
+gem 'multipart-post'
+gem 'rake'
+gem 'fakeweb'
+gem 'minitest'
+gem 'mocha'

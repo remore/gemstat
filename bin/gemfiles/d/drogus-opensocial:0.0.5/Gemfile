@@ -1,4 +1,0 @@
-gem 'oauth'
-gem 'json'
-gem 'activesupport'
-gem 'actionpack'

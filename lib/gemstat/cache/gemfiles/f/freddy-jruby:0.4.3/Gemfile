@@ -1,0 +1,6 @@
+gem 'bundler'
+gem 'rake'
+gem 'march_hare'
+gem 'symbolizer'
+gem 'hamster'
+gem 'thread'

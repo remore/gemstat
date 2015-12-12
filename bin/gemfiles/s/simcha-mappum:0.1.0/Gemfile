@@ -1,4 +1,0 @@
-gem 'facets'
-gem 'soap4r'
-gem 'sinatra'
-gem 'thin'

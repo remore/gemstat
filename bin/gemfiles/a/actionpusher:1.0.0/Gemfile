@@ -1,4 +1,0 @@
-gem 'rspec'
-gem 'pry'
-gem 'houston'
-gem 'rails'
