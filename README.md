@@ -1,9 +1,9 @@
-`gemstat` is a A PoC rubygem recommends you a bunch of gems by collaborative filtering approach(something like Amazon's "Customers Who Bought This Also Bought"). For similarity scores, `gemstat` uses Euclidean Distance. `gemstat` also tells you not only suggested gems unveiled by collaborative filitering but also similar gems, dependencies of a gem and popular gems etc.
+`gemstat` is a a PoC rubygem recommends you a bunch of gems by collaborative filtering approach(something like Amazon's "Customers Who Bought This Also Bought"). For similarity scores, `gemstat` uses Euclidean Distance. `gemstat` also tells you not only suggested gems unveiled by collaborative filitering but also similar gems, dependencies of a gem and popular gems etc.
 
-### Usage
+## Usage
 
 ```
-# Install
+# Install(takes more than a few minutes)
 $ gem install gemstat
 
 # Show a list of gems which are similar to a given gem
@@ -49,11 +49,15 @@ actionpack
 activemodel
 ```
 
-### License
+## Limitation
+
+As of v0.3.0, only Linux and OSX are supported. Windows and other OS to be supported in the future.(only if this PoC gets successful)
+
+## License
 
 MIT
 
-### TODO
+## TODO
 
 - Modify `update` subcommand to allow incremental update
 - Speed up by changing data cache strategy(migrate data stored in more than 100k files to single data file) and use C or mruby implementation for calculation part

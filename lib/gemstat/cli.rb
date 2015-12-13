@@ -5,6 +5,7 @@ module Gemstat
 
     desc "update", "Update internal schema information"
     def update(exp=nil)
+      require 'rubygems/mirror' # require here since this command is only for development use
       puts "This task will download more than hundred thousand gems(which will require huge network traffic to download tons of gem binary files). Do you want to proceed?[Y/n]"
       if $stdin.gets.chomp.upcase == "Y" then
         fetcher = Gem::Mirror::Fetcher.new(:retries => 3, :skiperror => true)
