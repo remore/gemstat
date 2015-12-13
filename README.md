@@ -1,6 +1,6 @@
-gemstat enable you to know "Frequently Required Together" thing or "Customers Who Required This(Rubygem) Also Required" thing.
+`gemstat` is a A PoC rubygem recommends you a bunch of gems by collaborative filtering approach(something like Amazon's "Customers Who Bought This Also Bought"). For similarity scores, `gemstat` uses Euclidean Distance. `gemstat` also tells you not only suggested gems unveiled by collaborative filitering but also similar gems, dependencies of a gem and popular gems etc.
 
-# Usage
+### Usage
 
 ```
 # Install
@@ -49,7 +49,7 @@ actionpack
 activemodel
 ```
 
-### license
+### License
 
 MIT
 

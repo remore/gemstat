@@ -14,8 +14,8 @@ Gem::Specification.new do |s|
   s.bindir = 'bin'
   s.executables = 'gemstat'
 
-  s.summary = '"Customers Who Bought(Required) This Item Also Bought(Required)"-ish thing for rubygem'
-  s.description = 'gemstat enable you to know "Frequently Bought(Required) Together" thing or "Customers Who Bought(Required) This Item Also Bought(Required)" thing.'
+  s.summary = 'A PoC rubygem recommends you a bunch of gems by collaborative filtering approach(something like Amazon\'s "Customers Who Bought This Also Bought")'
+  s.description = 'gemstat tells you not only suggested gems unveiled by collaborative filitering but also similar gems, dependencies of a gem and popular gems etc.'
   s.license = 'MIT'
 
   s.add_dependency "thor"
